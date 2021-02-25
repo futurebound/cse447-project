@@ -31,5 +31,5 @@ for i, (p, g) in enumerate(zip(pred, gold)):
     right = g in p
     correct += right
     if args.verbose:
-        print('Input {}: {}, {} is {} in {}'.format(i, 'right' if right else 'wrong', g, 'in' if right else 'not in', p))
+        print('Input {}: {}, {} is {} {}'.format(i, 'right' if right else 'wrong', g, 'in' if right else 'not in', p))
 print('Success rate: {}'.format(correct/len(gold)))

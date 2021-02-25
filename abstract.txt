@@ -1,0 +1,23 @@
+Dataset: what kind of data are you going to use to train your model, and how
+will you obtain this data?
+
+Our dataset will consist of transcriptions of astronaut communication with
+ground headquarters, i.e. "technical air-to-ground voice transcription" such as
+this document from NASA.gov (https://www.hq.nasa.gov/alsj/a11/a11transcript_tec.pdf).
+
+Additionally, we will need to acquire multiple language examples, since our model
+may need to handle code-switching mid-sentence (speaking in one language for
+part of a sentence, and then switching to another language). Ideally, there are
+enough similar transcriptions to the one linked above from other space-flight
+organizations in different languages that we will need no further data. However,
+in the case that this data proves insufficient for training purposes, it may also
+be prudent to source other language data for testing that are not specific
+examples of astronaut speech.
+   
+
+Method: what kind of method will you use, and how will you implement it (e.g.
+language, framework)?
+
+We plan to implement the language model in Python. We are consering a number of
+frameworks and approaches. Most notably, we are considering PyTorch (RoBERTa integration),
+SpaCy, and Facebook AI XLM/mBERT (multilingual language model). 
