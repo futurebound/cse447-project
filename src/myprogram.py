@@ -10,6 +10,9 @@ class MyModel:
     """
     This is a starter model to get you started. Feel free to modify this file.
     """
+    
+    data_file = "work/1b_benchmark.train.tokens"
+    
     def __init__(self):
         self.token_frequencies = None
 
@@ -22,11 +25,11 @@ class MyModel:
         #         corpus = pickle.load(file)
         #     print("loaded training data from pickle")
         # except:
-        with open("data/1b_benchmark.train.tokens", encoding="utf8") as file:
+        with open("work/1b_benchmark.train.tokens", encoding="utf8") as file:
             corpus = file.read()
-            # with open('training_tokens.pickle', 'wb') as file:
-            #     pickle.dump(corpus, file)
-            # print("loading training data")
+            with open('training_tokens.pickle', 'wb') as file:
+                pickle.dump(corpus, file)
+            print("loading training data")
 
         return corpus
 
@@ -61,17 +64,20 @@ class MyModel:
                 token_frequencies[token] = 0
             token_frequencies[token] += 1
 
-        with open('data/token_frequencies.pickle', 'wb') as file:
+        with open('work/token_frequencies.pickle', 'wb') as file:
             pickle.dump(token_frequencies, file)
             print("saved token frequencies with pickle")
         
         self.token_frequencies = token_frequencies
 
     def run_pred(self, data):
-        if self.token_frequencies is None:
-            with open('data/token_frequencies.pickle', 'rb') as file:
-                self.token_frequencies = pickle.load(file)
+        # if self.token_frequencies is None:
+        #     with open('work/token_frequencies.pickle', 'rb') as file:
+        #         self.token_frequencies = pickle.load(file)
         # your code here
+        if self.token_frequencies is None:
+            training_data = self.load_training_data()
+            self.run_train(training_data, "")
         preds = []
         all_chars = string.ascii_letters
         for inp in data:
