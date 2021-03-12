@@ -3,6 +3,7 @@ import os
 import string
 import random
 import pickle
+import data_handler
 from argparse import ArgumentParser, ArgumentDefaultsHelpFormatter
 
 
@@ -11,25 +12,24 @@ class MyModel:
     This is a starter model to get you started. Feel free to modify this file.
     """
     
-    data_file = "work/1b_benchmark.train.tokens"
-    
     def __init__(self):
-        self.token_frequencies = None
+        self.frequency_model = None
+        self.characters = None
 
     @classmethod
     def load_training_data(cls):
         # your code here
         # this particular model doesn't train
-        # try:
-        #     with open('training_tokens.pickle', 'rb') as file:
-        #         corpus = pickle.load(file)
-        #     print("loaded training data from pickle")
-        # except:
-        with open("work/1b_benchmark.train.tokens", encoding="utf8") as file:
-            corpus = file.read()
-            with open('training_tokens.pickle', 'wb') as file:
-                pickle.dump(corpus, file)
-            print("loading training data")
+        try:
+            with open('work/training_tokens.pickle', 'rb') as file:
+                corpus = pickle.load(file)
+            print("loaded training data from pickle")
+        except:
+            with open("work/training_data.txt", encoding="utf8") as file:
+                corpus = file.read()
+                with open('work/training_tokens.pickle', 'wb') as file:
+                    pickle.dump(corpus, file)
+                print("loading training data")
 
         return corpus
 
@@ -45,81 +45,88 @@ class MyModel:
 
     @classmethod
     def write_pred(cls, preds, fname):
-        with open(fname, 'wt') as f:
+        with open(fname, 'wt', encoding="utf-8") as f:
             for p in preds:
                 f.write('{}\n'.format(p))
 
     def run_train(self, data, work_dir):
         # your code here
-        # try:
-        #     with open('token_frequencies.pickle', 'rb') as file:
-        #         token_frequencies = pickle.load(file)
-        #     print("loaded token frequencies from pickle")
-        # except:
-        token_frequencies = dict()
-        #contents = data.read()
-        tokens = data.split()
-        for token in tokens:
-            if token not in token_frequencies:
-                token_frequencies[token] = 0
-            token_frequencies[token] += 1
-
-        with open('work/token_frequencies.pickle', 'wb') as file:
-            pickle.dump(token_frequencies, file)
-            print("saved token frequencies with pickle")
-        
-        self.token_frequencies = token_frequencies
+        try:
+            with open('work/frequency_model.pickle', 'rb') as file:
+                self.frequency_model = pickle.load(file)
+            print("loaded model from pickle")
+        except:
+            # token_frequencies = dict()
+            # #contents = data.read()
+            # tokens = data.split()
+            # for token in tokens:
+            #     if token not in token_frequencies:
+            #         token_frequencies[token] = 0
+            #     token_frequencies[token] += 1
+            self.frequency_model = data_handler.build_frequency_model()
+            with open('work/token_frequencies.pickle', 'wb') as file:
+                pickle.dump(self.frequency_model, file)
+                print("saved token frequencies with pickle")
+                
+        try:
+            with open('work/characters.pickle', "rb") as file:
+                self.characters = pickle.load(file)
+            print("loaded characters from pickle")
+        except:
+            self.characters = data_handler.get_characters()
+            with open('work/characters.pickle', 'wb') as file:
+                pickle.load(self.characters, file)
+                print("saved characters with pickle")
 
     def run_pred(self, data):
-        # if self.token_frequencies is None:
-        #     with open('work/token_frequencies.pickle', 'rb') as file:
-        #         self.token_frequencies = pickle.load(file)
         # your code here
-        if self.token_frequencies is None:
+        if self.frequency_model is None:
             training_data = self.load_training_data()
             self.run_train(training_data, "")
         preds = []
         all_chars = string.ascii_letters
+        print(len(data))
+        j = 0
         for inp in data:
-            # this model just predicts a random character each time
-            # top_guesses = [random.choice(all_chars) for _ in range(3)]
+            print(j)
+            j += 1
             top_guesses = [None, None, None]
             top_guesses_counts = [-1, -1, -1]
             last_word = inp.split()[-1]
-            # print("last word: " + last_word)
-            # print("all chars: " + all_chars)
-            # print("all chars lower: " + all_chars.lower())
-            for index in range(26):
-                new_word = last_word + all_chars[index]
-                # print("new word: " + new_word)
-
-                # get the word count for new word if it exists, else 0
-                if new_word not in self.token_frequencies:
-                    new_word_count = 0
-                else:
-                    new_word_count = self.token_frequencies[new_word]
-
-                if new_word_count > top_guesses_counts[0]:
-                    top_guesses_counts[2] = top_guesses_counts[1]
-                    top_guesses_counts[1] = top_guesses_counts[0]
-                    top_guesses_counts[0] = new_word_count
-                    top_guesses[2] = top_guesses[1]
-                    top_guesses[1] = top_guesses[0]
-                    top_guesses[0] = new_word
-                elif new_word_count > top_guesses_counts[1]:
-                    top_guesses_counts[2] = top_guesses_counts[1]
-                    top_guesses_counts[1] = new_word_count
-                    top_guesses[2] = top_guesses[1]
-                    top_guesses[1] = new_word
-                elif new_word_count > top_guesses_counts[2]:
-                    top_guesses_counts[2] = new_word_count
-                    top_guesses[2] = new_word
-
-            # print("top_guesses " + str(top_guesses))
+            first_word = last_word
+            for character in self.characters:
+                first_word = last_word + character
+                top_guesses, top_guesses_counts = self.__update_guesses__(first_word, top_guesses_counts, top_guesses)
+                for character in self.characters:
+                    second_word = first_word + character
+                    top_guesses, top_guesses_counts = self.__update_guesses__(second_word, top_guesses_counts, top_guesses)
             for i in range(len(top_guesses)):
-                top_guesses[i] = top_guesses[i][-1]
+                top_guesses[i] = top_guesses[i][len(last_word)]
             preds.append(''.join(top_guesses))
         return preds
+    
+    def __update_guesses__(self, new_word, top_guesses_counts, top_guesses):
+        if new_word not in self.frequency_model:
+            new_word_count = 0
+        else:
+            new_word_count = self.frequency_model[new_word]
+
+        if new_word_count > top_guesses_counts[0]:
+            top_guesses_counts[2] = top_guesses_counts[1]
+            top_guesses_counts[1] = top_guesses_counts[0]
+            top_guesses_counts[0] = new_word_count
+            top_guesses[2] = top_guesses[1]
+            top_guesses[1] = top_guesses[0]
+            top_guesses[0] = new_word
+        elif new_word_count > top_guesses_counts[1]:
+            top_guesses_counts[2] = top_guesses_counts[1]
+            top_guesses_counts[1] = new_word_count
+            top_guesses[2] = top_guesses[1]
+            top_guesses[1] = new_word
+        elif new_word_count > top_guesses_counts[2]:
+            top_guesses_counts[2] = new_word_count
+            top_guesses[2] = new_word
+        return top_guesses, top_guesses_counts
 
     def save(self, work_dir):
         # your code here
