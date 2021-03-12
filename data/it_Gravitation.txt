@@ -1,0 +1,1357 @@
+L'interazione gravitazionale (o gravitazione o gravità nel linguaggio comune) è una delle quattro interazioni fondamentali note in fisica.
+Nella fisica classica newtoniana la gravità è interpretata come una forza conservativa di attrazione a distanza agente fra corpi dotati di massa, secondo la legge di gravitazione universale; la sua manifestazione più evidente nell'esperienza quotidiana è la forza peso. 
+Nella fisica moderna l'attuale teoria più completa, la relatività generale, interpreta l'interazione gravitazionale come una conseguenza della curvatura dello spaziotempo creata dalla presenza di corpi dotati di massa o energia (una piccola massa a grande velocità o una grande massa in quiete hanno lo stesso effetto di deformazione sulla curvatura dello spaziotempo circostante). Il campo gravitazionale che ne deriva è rappresentato matematicamente da un tensore metrico legato alla curvatura dello spaziotempo attraverso il tensore di Riemann. In tale contesto la forza peso diventa una forza apparente, conseguenza della geometria dello spaziotempo indotta dalla massa terrestre.
+
+
+== Storia ==
+Le prime spiegazioni di una forza agente capace di aggregare i corpi vennero formulate, nella filosofia greca, all'interno di una visione animistica della natura, come nella dottrina di Empedocle, in cui domina l'alternanza di due princìpi, Amore e Odio, o in quella di Anassagora, dove prevale l'azione ordinatrice di una Mente suprema (Nous).
+
+Platone riteneva che la materia fosse pervasa da una dynamis, cioè un'energia intrinseca, che spinge il simile ad attrarre il simile; concezione ripresa da Aristotele, per il quale tutto l'universo anela alla perfezione del primo motore immobile (Dio). Questo anelito si esprime nel movimento circolare di stelle, Sole, Luna e pianeti, giungendo tuttavia a corrompersi progressivamente fino a diventare rettilineo nella dimensione terrestre sublunare. Soltanto in quest'ambito, dunque, alcuni corpi, quelli che Platone e Aristotele chiamavano gravi, risultano soggetti alla gravità: si trattava di composti dei quattro elementi fondamentali (fuoco, aria, acqua, terra), mentre l'etere fluttuava al di sopra di essi. Secondo la teoria aristotelica dei luoghi naturali, tutto ciò che è terra tende a ritornare lì dove risiede la terra, ovvero al centro dell'universo; al di sopra vi è la sfera dell'acqua che attrae tutto ciò che è liquido; analogamente si comportano i cerchi dell'aria e del fuoco.Come i suoi contemporanei, Aristotele interpretava la fisica dell'universo deducendola dalla fisiologia umana, sostenendo ad esempio che oggetti di peso diverso cadessero a velocità diverse, in analogia all'esperienza dell'uomo che tenti di contrastare il peso di un sasso, adottando così una prospettiva che, seppur contraddetta nel VI secolo d.C. da Giovanni Filopono, continuerà ad essere insegnata fino all'epoca di Galileo. Con lo stoicismo lo studio della gravità portò a scoprire una relazione tra il moto delle maree e i movimenti del Sole della Luna: l'universo è infatti concepito dagli stoici come un unico organismo vivente, animato dal pneuma, forza vitale che tutto pervade, e che si esprime nella reciproca azione di un elemento attivo (heghemonikòn) e di uno passivo (hypàrchon) che ne subisce l'attrazione.Anche per la dottrina neoplatonica, ripresa dalla teologia cristiana, il cosmo è animato dal Logos divino, dal quale le stelle e i pianeti risultano attratti: nel Medioevo il loro movimento viene spiegato in particolare con l'azione di intelligenze motrici, ordinate gerarchicamente in un coro di angeli. Si tratta di un universo retto da un principio armonico che si irradia in ogni sua parte, e strutturato perciò in maniera concentrica secondo l'insegnamento aristotelico. A fondamento di quest'ordine geometrico è posto Dio, il quale lo governa attraverso un atto d'amore: la gravità, dunque, come forza d'amore, così descritta ad esempio da Dante nell'ultimo verso della Divina Commedia.
+
+L'analogia neoplatonica tra Dio e il Sole condurrà tuttavia la filosofia rinascimentale a fare di quest'ultimo il centro di attrazione della Terra e dei pianeti. In Keplero, il primo a descrivere in maniera ellittica le loro orbite, permane la concezione animistica e astrologica dell'universo, basata sulla corrispondenza armonica tra i cieli e la terra; egli interpretava la forza immateriale della gravità come una sorta di emanazione magnetica.A partire dal Seicento la visione animistica della gravità verrà progressivamente sostituita da una puramente meccanicista; Galileo Galilei ne fornì una descrizione limitata all'aspetto quantitativo, e riprendendo l'antica idea di Filopono teorizzò che, facendo cadere due corpi di masse differenti nello stesso momento, entrambi sarebbero arrivati al suolo in contemporanea. 
+Cartesio negò che la gravità consistesse in una forza intrinseca, spiegandola sulla base di vortici di etere, e riconducendo ogni fenomeno fisico al principio di conservazione del moto, dato dalla massa per la velocità (mv). Leibniz obietterà a Cartesio che la quantità di moto non bastava a definire l'essenza di una forza, e ripristinò il concetto vitalistico di energia o vis viva, espressa dal prodotto della massa per la velocità al quadrato (e=mv2): era questa per lui ad essere conservata in natura.
+
+Un concetto di forza affine a quello di Cartesio era stato peraltro espresso da Newton, che fece della massa, cioè della quantità di materia (data dal volume per la densità) il concetto fondamentale della meccanica gravitazionale: quanto più è grande la massa di un corpo, tanto più potente è la sua forza di gravità. Newton capì che la stessa forza che causa la caduta di una mela sulla Terra mantiene i pianeti in orbita attorno al Sole, e la Luna attorno alla Terra. Egli così riabilitava in parte le concezioni astrologiche di Keplero:
+
+Nel libro Philosophiae Naturalis Principia Mathematica, del 1687, Newton enunciò pertanto la legge di gravitazione universale, che dimostrò con il «metodo delle flussioni», un procedimento analogo alla derivazione. In seguito Huygens, nel suo Horologium oscillatorium, chiarificò la natura delle forze centrifughe che impediscono ai pianeti di cadere sul sole pur essendone attratti.Restava aperto tuttavia il problema di spiegare l'azione a distanza tra i corpi celesti, priva di contatto materiale, al quale verrà data una soluzione soltanto ai primi del Novecento da parte di Einstein, che sostituì l'etere con la tessitura dello spazio-tempo.
+
+
+== La gravitazione in fisica classica ==
+In meccanica classica l'interazione gravitazionale è generata da un campo vettoriale conservativo e descritta da una forza, detta forza peso, che agisce sugli oggetti dotati di massa.
+
+
+=== La legge di gravitazione universale ===
+La legge di gravitazione universale afferma che due punti materiali si attraggono con una forza di intensità direttamente proporzionale al prodotto delle masse dei singoli corpi e inversamente proporzionale al quadrato della loro distanza. Questa legge, espressa vettorialmente, diventa:
+
+  
+    
+      
+        
+          
+            F
+          
+          
+            2
+            ,
+            1
+          
+        
+        (
+        
+          r
+        
+        )
+        =
+        −
+        
+          
+            
+              G
+               
+              
+                m
+                
+                  1
+                
+              
+              
+                m
+                
+                  2
+                
+              
+            
+            
+              r
+              
+                3
+              
+            
+          
+        
+        
+          r
+        
+        =
+        −
+        
+          
+            
+              G
+               
+              
+                m
+                
+                  1
+                
+              
+              
+                m
+                
+                  2
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+        
+          
+            u
+          
+          
+            r
+          
+        
+      
+    
+    {\displaystyle \mathbf {F} _{2,1}(\mathbf {r} )=-{\frac {G\ m_{1}m_{2}}{r^{3}}}\mathbf {r} =-{\frac {G\ m_{1}m_{2}}{r^{2}}}\mathbf {u} _{r}}
+  dove 
+  
+    
+      
+        
+          
+            F
+          
+          
+            2
+            
+            1
+          
+        
+      
+    
+    {\displaystyle \mathbf {F} _{2\,1}}
+   è la forza con cui l'oggetto 1 è attratto dall'oggetto 2, G è la costante di gravitazione universale, che vale circa 6,67 × 10−11 Nm²/kg2, m1 e m2 sono le masse dei due corpi, 
+  
+    
+      
+        
+          r
+        
+        =
+        
+          
+            r
+          
+          
+            1
+          
+        
+        −
+        
+          
+            r
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbf {r} =\mathbf {r} _{1}-\mathbf {r} _{2}}
+  
+è il vettore congiungente i due corpi (supposti puntiformi) e 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   è il suo modulo; nella seconda espressione della forza (che evidenzia il fatto che il modulo della forza è inversamente proporzionale al quadrato della distanza) 
+  
+    
+      
+        
+          u
+        
+        =
+        
+          
+            
+              r
+            
+            r
+          
+        
+      
+    
+    {\displaystyle \mathbf {u} ={\frac {\mathbf {r} }{r}}}
+   rappresenta il versore (unitario) che individua la retta congiungente i due punti materiali.
+Definito il vettore accelerazione di gravità:
+
+  
+    
+      
+        
+          g
+        
+        =
+        
+          
+            
+              
+                F
+              
+              
+                g
+              
+            
+            
+              m
+              
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {g} ={\frac {\mathbf {F} _{g}}{m_{1}}}}
+  la legge di gravitazione universale può essere espressa come:
+
+  
+    
+      
+        
+          
+            F
+          
+          
+            21
+          
+        
+        =
+        
+          m
+          
+            1
+          
+        
+        
+          g
+        
+      
+    
+    {\displaystyle \mathbf {F} _{21}=m_{1}\mathbf {g} }
+  In prossimità della superficie terrestre il valore di 
+  
+    
+      
+        
+          g
+        
+      
+    
+    {\displaystyle \mathbf {g} }
+   è convenzionalmente:
+
+  
+    
+      
+        g
+        =
+         
+        9,806
+        65
+         
+        
+          
+            m
+            
+              s
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle g=\ 9{,}80665\ \mathrm {\frac {m}{s^{2}}} }
+  anche espressa in newton su chilogrammo.
+
+
+=== Il campo gravitazionale ===
+Il campo gravitazionale è un campo di forze conservativo. Il campo generato nel punto 
+  
+    
+      
+        
+          
+            r
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \mathbf {r} _{1}}
+   nello spazio dalla presenza di una massa nel punto 
+  
+    
+      
+        
+          
+            r
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbf {r} _{2}}
+   è definito come:
+
+  
+    
+      
+        
+          g
+        
+        (
+        
+          r
+        
+        )
+        =
+        −
+        
+          
+            
+              G
+              M
+            
+            
+              r
+              
+                3
+              
+            
+          
+        
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {g} (\mathbf {r} )=-{\frac {GM}{r^{3}}}\mathbf {r} }
+  dove G è la costante di gravitazione universale e M la massa. È quindi possibile esprimere la forza esercitata sul corpo di massa m come:
+
+  
+    
+      
+        
+          F
+        
+        (
+        
+          r
+        
+        )
+        =
+        m
+        ⋅
+        
+          g
+        
+        (
+        
+          r
+        
+        )
+      
+    
+    {\displaystyle \mathbf {F} (\mathbf {r} )=m\cdot \mathbf {g} (\mathbf {r} )}
+  L'unità di misura del campo gravitazionale nel Sistema internazionale è:
+
+  
+    
+      
+        
+          [
+          
+            g
+          
+          ]
+        
+        =
+        
+          [
+          
+            
+              
+                N
+              
+              
+                k
+                g
+              
+            
+          
+          ]
+        
+        =
+        
+          [
+          
+            
+              
+                m
+              
+              
+                
+                  s
+                
+                
+                  2
+                
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \left[\mathbf {g} \right]=\left[{\frac {\mathrm {N} }{\mathrm {kg} }}\right]=\left[{\frac {\mathrm {m} }{\mathrm {s} ^{2}}}\right]}
+  
+Il campo gravitazionale è descritto dal potenziale gravitazionale, definito come il valore dell'energia gravitazionale rilevato da una massa posta in un punto dello spazio per unità di massa. L'energia gravitazionale della massa è il livello di energia che la massa possiede a causa della sua posizione all'interno del campo gravitazionale; pertanto il potenziale gravitazionale della massa è il rapporto tra l'energia gravitazionale e il valore della massa stessa, cioè:
+
+  
+    
+      
+        V
+        =
+        
+          
+            U
+            M
+          
+        
+      
+    
+    {\displaystyle V={\frac {U}{M}}}
+  Essendo il campo gravitazionale conservativo, è sempre possibile definire una funzione scalare V il cui gradiente, cambiato di segno, coincida con il campo:
+
+  
+    
+      
+        
+          g
+        
+        (
+        
+          r
+        
+        )
+        =
+        −
+        grad
+        ⁡
+        V
+        =
+        −
+        ∇
+        V
+      
+    
+    {\displaystyle \mathbf {g} (\mathbf {r} )=-\operatorname {grad} V=-\nabla V}
+  
+
+
+==== Campo gravitazionale in vicinanza della superficie terrestre ====
+Nel precedente paragrafo si è detto che il valore medio dell'accelerazione di gravità nei pressi della superficie terrestre è stimato in 9,81 m/s². In realtà questo valore è diverso da quello reale perché non tiene conto di fattori, come la forza centrifuga causata dalla rotazione terrestre e la non perfetta sfericità della terra (la terra ha la forma di un geoide). Il valore convenzionalmente assunto è quindi g0 = 9,80665 m/s², deciso nella terza CGPM nel 1901 e corrisponde all'accelerazione subita da un corpo alla latitudine 45,5°.
+Per molte applicazioni fisiche e ingegneristiche è quindi utile utilizzare una versione approssimata della forza di gravità, valida nei pressi della superficie terrestre:
+
+  
+    
+      
+        
+          F
+        
+        =
+        m
+        
+          g
+          
+            0
+          
+        
+        
+          
+            
+              z
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {F} =mg_{0}{\hat {z}}}
+  dove 
+  
+    
+      
+        
+          
+            
+              z
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {z}}}
+   è un versore diretto lungo la verticale. In sostanza la forza di gravità è approssimata con una forza di modulo costante, indipendente dalla quota del corpo, e come direzione il basso, nel senso comune del termine. Naturalmente anche in questa approssimazione corpi con masse diverse hanno la stessa accelerazione di gravità.
+L'energia potenziale gravitazionale Ug è data da:
+
+  
+    
+      
+        
+          U
+          
+            g
+          
+        
+        =
+        m
+        
+          g
+          
+            0
+          
+        
+        h
+      
+    
+    {\displaystyle U_{g}=mg_{0}h}
+  dove h è la quota del corpo rispetto a un riferimento fisso.
+
+In questo caso approssimato è molto semplice ricavare le leggi del moto, mediante integrazioni successive: per un corpo in caduta libera, chiamando z l'asse verticale (sempre diretto verso il basso) e proiettando il moto su di esso, valgono le seguenti leggi:
+
+  
+    
+      
+        a
+        (
+        t
+        )
+        =
+        
+          
+            
+              F
+              (
+              t
+              )
+            
+            m
+          
+        
+        =
+        
+          g
+          
+            0
+          
+        
+      
+    
+    {\displaystyle a(t)={\frac {F(t)}{m}}=g_{0}}
+  
+
+  
+    
+      
+        v
+        (
+        t
+        )
+        =
+        
+          v
+          
+            0
+          
+        
+        +
+        
+          g
+          
+            0
+          
+        
+        t
+      
+    
+    {\displaystyle v(t)=v_{0}+g_{0}t}
+  
+
+  
+    
+      
+        z
+        (
+        t
+        )
+        =
+        
+          z
+          
+            0
+          
+        
+        +
+        
+          v
+          
+            0
+          
+        
+        t
+        +
+        
+          
+            1
+            2
+          
+        
+        
+          g
+          
+            0
+          
+        
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle z(t)=z_{0}+v_{0}t+{\frac {1}{2}}g_{0}t^{2}}
+  Inoltre, dalla conservazione dell'energia meccanica si ottiene un risultato notevole per corpi in caduta libera inizialmente fermi. Scriviamo l'energia meccanica del sistema a un tempo generico:
+
+  
+    
+      
+        E
+        =
+        K
+        +
+        U
+        =
+        
+          
+            1
+            2
+          
+        
+        m
+        
+          v
+          
+            2
+          
+        
+        +
+        m
+        
+          g
+          
+            0
+          
+        
+        z
+      
+    
+    {\displaystyle E=K+U={\frac {1}{2}}mv^{2}+mg_{0}z}
+  dove v è la velocità del corpo e z la sua quota. Supponiamo ora che all'istante iniziale 
+  
+    
+      
+        t
+        =
+        0
+      
+    
+    {\displaystyle t=0}
+   il corpo si trovi a una quota 
+  
+    
+      
+        z
+        =
+        h
+      
+    
+    {\displaystyle z=h}
+   e all'istante finale 
+  
+    
+      
+        t
+        =
+        
+          
+            
+              t
+              ~
+            
+          
+        
+      
+    
+    {\displaystyle t={\tilde {t}}}
+   abbia una velocità 
+  
+    
+      
+        v
+        =
+        
+          
+            
+              v
+              ~
+            
+          
+        
+      
+    
+    {\displaystyle v={\tilde {v}}}
+   e si trovi a quota 
+  
+    
+      
+        z
+        =
+        0
+      
+    
+    {\displaystyle z=0}
+  ; scriviamo quindi l'energia del sistema ai due istanti:
+
+  
+    
+      
+        E
+        (
+        0
+        )
+        =
+        m
+        
+          g
+          
+            0
+          
+        
+        h
+      
+    
+    {\displaystyle E(0)=mg_{0}h}
+  
+
+  
+    
+      
+        E
+        (
+        
+          
+            
+              t
+              ~
+            
+          
+        
+        )
+        =
+        
+          
+            1
+            2
+          
+        
+        m
+        
+          
+            
+              
+                v
+                ~
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E({\tilde {t}})={\frac {1}{2}}m{\tilde {v}}^{2}}
+  Dato che l'energia meccanica si conserva possiamo uguagliare le due ultime equazioni e ricavarci il modulo della velocità dopo una caduta di una quota h:
+
+  
+    
+      
+        
+        
+          
+            
+              v
+              ~
+            
+          
+        
+        =
+        
+          
+            2
+            
+              g
+              
+                0
+              
+            
+            h
+          
+        
+      
+    
+    {\displaystyle \qquad {\tilde {v}}={\sqrt {2g_{0}h}}}
+  
+
+
+=== Il problema generale della gravitazione ===
+Il problema generale della gravitazione, cioè la determinazione del campo gravitazionale creato da un insieme di masse, si può esprimere con il teorema di Gauss e il teorema della divergenza.
+Essendo la forza di gravità conservativa, si può esprimere 
+  
+    
+      
+        
+          g
+        
+      
+    
+    {\displaystyle \mathbf {g} }
+   come:
+
+  
+    
+      
+        
+          g
+        
+        =
+        −
+        
+          ∇
+        
+        Φ
+      
+    
+    {\displaystyle \mathbf {g} =-\mathbf {\nabla } \Phi }
+  dove 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+   è proporzionale all'energia potenziale gravitazionale come segue:
+
+  
+    
+      
+        
+          U
+          
+            g
+          
+        
+        =
+        m
+        Φ
+      
+    
+    {\displaystyle U_{g}=m\Phi }
+  Dal teorema di Gauss:
+
+  
+    
+      
+        
+          ∫
+          
+            ∂
+            V
+          
+        
+        
+          g
+        
+        ⋅
+        
+          
+            
+              n
+              ^
+            
+          
+        
+         
+        
+          d
+        
+        S
+        =
+        −
+        4
+        π
+        G
+        
+          m
+          
+            int
+          
+        
+        =
+        −
+        
+          ∫
+          
+            V
+          
+        
+        4
+        π
+        G
+        ρ
+         
+        
+          d
+        
+        V
+      
+    
+    {\displaystyle \int _{\partial V}\mathbf {g} \cdot {\hat {n}}\ {\text{d}}S=-4\pi Gm_{\text{int}}=-\int _{V}4\pi G\rho \ {\text{d}}V}
+  Per il teorema della divergenza, il primo integrale, cioè il flusso della forza gravitazionale, è esprimibile come integrale di volume della sua divergenza:
+
+  
+    
+      
+        
+          ∫
+          
+            ∂
+            V
+          
+        
+        
+          g
+        
+        ⋅
+        
+          
+            
+              n
+              ^
+            
+          
+        
+         
+        
+          d
+        
+        S
+        =
+        
+          ∫
+          
+            V
+          
+        
+        
+          ∇
+        
+        ⋅
+        
+          g
+        
+         
+        
+          d
+        
+        V
+      
+    
+    {\displaystyle \int _{\partial V}\mathbf {g} \cdot {\hat {n}}\ {\text{d}}S=\int _{V}\mathbf {\nabla } \cdot \mathbf {g} \ {\text{d}}V}
+  Sostituendo a 
+  
+    
+      
+        
+          g
+        
+      
+    
+    {\displaystyle \mathbf {g} }
+   la sua espressione come gradiente:
+
+  
+    
+      
+        
+          ∫
+          
+            V
+          
+        
+        −
+        
+          ∇
+          
+            2
+          
+        
+        Φ
+         
+        
+          d
+        
+        V
+        =
+        −
+        
+          ∫
+          
+            V
+          
+        
+        4
+        π
+        G
+        ρ
+         
+        
+          d
+        
+        V
+      
+    
+    {\displaystyle \int _{V}-\nabla ^{2}\Phi \ {\text{d}}V=-\int _{V}4\pi G\rho \ {\text{d}}V}
+  che, dovendo valere per ogni volume di integrazione, implica:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        Φ
+        =
+        4
+        π
+        G
+        ρ
+      
+    
+    {\displaystyle \nabla ^{2}\Phi =4\pi G\rho }
+  .Quest'ultima è una equazione differenziale alle derivate parziali del secondo ordine, detta equazione di Poisson, da completare con le opportune condizioni al contorno.
+
+
+== La gravitazione nella teoria della relatività generale ==
+La teoria di Newton della gravitazione ha permesso di descrivere con accuratezza la grande maggioranza dei fenomeni gravitazionali nel Sistema Solare.
+Tuttavia, da un punto di vista sperimentale essa presenta alcuni punti deboli, successivamente affrontati a partire dalla teoria della relatività generale:  
+
+La teoria di Newton presuppone che la forza gravitazionale sia trasmessa istantaneamente con un meccanismo fisico non ben definito e indicato con il termine "azione a distanza". Lo stesso Newton tuttavia riteneva tale azione a distanza una spiegazione insoddisfacente del modo in cui la gravità agisse.
+Il modello di Newton di spazio e di tempo assoluti è stato contraddetto dalla teoria di Einstein della relatività ristretta. Tale teoria prevede che la simultaneità temporale di due eventi sia una proprietà relativa al singolo osservatore, e non una proprietà assoluta indipendente dall'osservatore. Pertanto, nessuna interazione fisica può dipendere dalle posizioni di due corpi in uno stesso istante, dato che per un diverso osservatore le stesse posizioni nello spazio saranno assunte dai due corpi in istanti diversi. In relazione a questo, si dimostra che un'interazione fisica deve trasmettersi attraverso un campo (che risulta quindi un ente fisico a tutti gli effetti, come nell'elettromagnetismo, e non una mera costruzione matematica come è il "campo gravitazionale" nella teoria newtoniana); le variazioni del campo, infine, possono propagarsi solo a velocità finita, non superiore alla velocità della radiazione elettromagnetica nel vuoto.
+La teoria di Newton non prevede correttamente la precessione del perielio dell'orbita del pianeta Mercurio, dando un risultato in disaccordo con le osservazioni di alcune decine di secondi d'arco al secolo.
+La teoria di Newton predice che la luce sia deviata dalla gravità, ma questa deviazione è metà di quanto osservato sperimentalmente.
+Il concetto per cui masse gravitazionali e inerziali sono la stessa cosa (o almeno proporzionali) per tutti i corpi non è spiegato all'interno del sistema di Newton.Einstein sviluppò una nuova teoria della gravitazione, denominata relatività generale, pubblicata nel 1915.
+Nella teoria di Einstein, la gravità non è una forza, come tutte le altre, ma è la proprietà della materia di deformare lo spazio-tempo. Propriamente, la gravità non è un'interazione a distanza fra due masse, ma è un fenomeno mediato da una deformazione dello spazio-tempo. La presenza di massa (più in generale, di energia e impulso) determina una curvatura della geometria (più esattamente, della struttura metrica) dello spazio-tempo: poiché i corpi che si muovono in "caduta libera" seguono nello spazio-tempo traiettorie geodetiche, e queste ultime non sono rettilinee se lo spazio-tempo è curvo, ecco che il moto degli altri corpi (indipendentemente dalla loro massa) subisce le accelerazioni che classicamente sono attribuite alla "forza di gravità".
+I pianeti del Sistema Solare quindi hanno orbite ellittiche non per effetto di una forza di attrazione esercitata direttamente dal Sole, ma perché la massa del Sole incurva lo spazio-tempo. Il campo gravitazionale attorno a una stella è rappresentato dalla soluzione di Schwarzschild delle equazioni di Einstein, soluzione che si ottiene semplicemente assumendo le proprietà di simmetria sferica nello spazio tridimensionale di indipendenza dal tempo. Le equazioni del moto geodetico nella metrica di Schwarzschild permettono di calcolare l'orbita di un pianeta attorno a una stella: per quasi tutti i pianeti del Sistema Solare, la differenza fra queste orbite e i moti descritti dalle leggi di Keplero (soluzioni delle equazioni di Newton) non è osservabile in quanto è molto più piccola degli effetti perturbativi dovuti all'interazione dei pianeti fra loro. L'unica eccezione è rappresentata dal moto di Mercurio, in cui la precessione dell'asse dell'orbita che si osserva è molto maggiore di quanto previsto dalla gravità newtoniana (anche tenendo conto dell'influenza degli altri pianeti), ed è invece in perfetto accordo con la previsione delle equazioni relativistiche. L'osservazione della precessione del perielio di Mercurio è quindi una delle evidenze a favore della relatività generale rispetto alla teoria gravitazionale newtoniana.
+Un'ulteriore evidenza osservativa, riscontrata per la prima volta nel corso dell'eclissi solare del 1919 (ma definitivamente confermata da osservazioni su scala extragalattica a partire dal 1980), consiste nell'effetto detto lente gravitazionale: l'immagine di un corpo celeste visto dalla Terra appare spostata rispetto alla posizione reale del corpo (talvolta l'immagine è anche sdoppiata) a causa della deflessione che la luce subisce quando rasenta una regione dello spazio con alta densità di massa. Questo conferma il fatto che la gravitazione deforma lo spazio-tempo, e che tale deformazione è avvertita anche da particelle prive di massa (i fotoni).
+
+
+== Teorie alternative ==
+Sono state sviluppate alcune teorie (ancora non provate sperimentalmente) che hanno lo scopo di descrivere l'interazione gravitazionale nell'ambito della meccanica quantistica. Alcune di queste sono la gravità quantistica a loop e la teoria delle stringhe.
+Il fisico matematico Erik Verlinde propone, rivedendo idee già in circolazione, che la gravità sia interpretabile come la manifestazione di una forza emergente in senso entropico: citando le sue parole la gravità altro non è che un "effetto collaterale della propensione naturale verso il disordine". Verlinde, con assoluta moderazione suggerisce che si tratta "di idee che dovrebbero servire da guida per ulteriori studi". Allo stato attuale degli studi, la teoria di Verlinde si delinea come l'ultima e la più motivata delle ipotesi speculative tra, e per, gli addetti ai lavori. Nel luglio 2010 la sua teoria è passata al grande pubblico, tramite la diffusione mediatica e attraverso internet, esautorando la teoria gravitazionale propagandata dal motto: "la gravità non esiste".
+
+
+== Derivazione delle leggi della gravitazione dalla meccanica statistica applicata al principio olografico ==
+Nel 2009, Erik Verlinde formalizzò un modello concettuale che descrive la gravità come una forza entropica, che suggerisce che la gravità è una conseguenza del comportamento statistico dell'informazione associata alla posizione dei corpi materiali. Questo modello combina l'approccio termodinamico della gravità con il principio olografico, e implica che la gravità non sia una interazione fondamentale, ma un fenomeno che emerge dal comportamento statistico dei gradi di libertà microscopici codificati su uno schermo olografico.
+La legge di gravità può essere derivata dalla meccanica statistica classica applicata al principio olografico, che afferma che la descrizione di un volume di spazio può essere rappresentato come 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   bit d'informazione binaria, codificata ai confini della regione, una superficie di area 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  . 
+L'informazione è distribuita casualmente su tale superficie e ciascun bit immagazzinato in una superficie elementare dell'area.
+
+  
+    
+      
+        N
+        =
+        A
+        
+          /
+        
+        
+          ℓ
+          
+            
+              P
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle N=A/\ell _{\mathrm {P} }^{2}}
+  dove 
+  
+    
+      
+        
+          ℓ
+          
+            
+              P
+            
+          
+        
+      
+    
+    {\displaystyle \ell _{\mathrm {P} }}
+   è la lunghezza di Planck.
+Il teorema statistico di equipartizione lega la temperatura 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   di un sistema (espressa in joule, basandosi sulla costante di Boltzmann) con la sua energia media:
+
+  
+    
+      
+        E
+        =
+        
+          
+            1
+            2
+          
+        
+        N
+        T
+      
+    
+    {\displaystyle E={\frac {1}{2}}NT}
+  Questa energia può essere identificata con la massa 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   per la relazione di equivalenza di massa ed energia:
+
+  
+    
+      
+        E
+        =
+        M
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E=Mc^{2}}
+  .La temperatura effettiva sperimentata da un rivelatore uniformemente accelerato in un campo di vuoto o stato di vuoto è data dall'effetto Unruh.
+Questa temperatura è:
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              ℏ
+              a
+            
+            
+              2
+              π
+              c
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle T={\frac {\hbar a}{2\pi c}},}
+  dove 
+  
+    
+      
+        ℏ
+      
+    
+    {\displaystyle \hbar }
+   è la costante di Planck ridotta e 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   è l'accelerazione locale, che è legata alla forza 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   dalla seconda legge di Newton del moto:
+
+  
+    
+      
+        F
+        =
+        m
+        a
+      
+    
+    {\displaystyle F=ma}
+  .Assumendo ora che lo schermo olografico sia una sfera di raggio 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  , la sua superficie è data da:
+
+  
+    
+      
+        A
+        =
+        4
+        π
+        
+          r
+          
+            2
+          
+        
+      
+    
+    {\displaystyle A=4\pi r^{2}}
+  ,Da questi principi si deriva la legge di gravitazione universale di Newton:
+
+  
+    
+      
+        F
+        =
+        G
+        
+          
+            
+              m
+              M
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle F=G{\frac {mM}{r^{2}}}}
+  .L'iter è reversibile: leggendolo dal basso, dalla legge di gravitazione, risalendo per i principi della termodinamica si ricava l'equazione che descrive il principio olografico.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Interazioni fondamentali
+Gravità quantistica
+Leggi di Keplero
+Relatività generale
+Massa (fisica)
+Forza peso
+Gravitone
+Supergravità
+Onda gravitazionale
+
+
+== Altri progetti ==
+
+ Wikiversità contiene la lezione Gravitazione
+ Wikiquote contiene citazioni sulla gravitazione
+ Wikizionario contiene il lemma di dizionario «gravitazione»
+ Wikiversità contiene una lezione per la scuola superiore sulla gravitazione
+ Wikimedia Commons contiene immagini o altri file sulla gravitazione
+
+
+== Collegamenti esterni ==
+
+(EN) Interazione gravitazionale / Interazione gravitazionale (altra versione), su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN, FR) Interazione gravitazionale, su Enciclopedia canadese. 
+(EN) Interazione gravitazionale, su The Encyclopedia of Science Fiction. 
+(EN) Opere riguardanti Interazione gravitazionale, su Open Library, Internet Archive. 
+ Applet di meccanica, su fisi.polimi.it.
+ Immagine delle differenze gravitazionali della Terra, su antwrp.gsfc.nasa.gov.

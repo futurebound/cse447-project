@@ -1,0 +1,62 @@
+Elektrolyse er en kjemisk reaksjon som  blir drevet ved bruk av elektrisk likestrøm. Den gjør det mulig å skille grunnstoffer fra hverandre i en elektrolytt når de i utgangspunktet er kjemisk bundet til andre stoffer. På den måten er den et eksempel på praktisk bruk av en elektrokjemisk celle. Prosessen ble først systematisk undersøkt av den engelske fysikeren Michael Faraday. Hans resultater ble i 1834 sammenfattet i hans to elektrolyselover. Siden den tid har prosessen hadde stor praktisk betydning i fremstilling av metaller fra malm og i annen elektrokjemisk industri.
+
+
+== Prinsipp ==
+
+Elektrolyse gjøres ved å sende en elektrisk likestrøm gjennom en elektrolytt som inneholder elektrisk ladete ioner.  Strømmen drives ved en elektrisk spenning som er lagt over to elektroder som er innsatt i elektrolytten. De tiltrekker ioner med motsatt ladning. Den elektroden som er negativt ladet, kalles katode. Positivt ladete ioner blir trukket mot denne og kalles derfor for kationer. Ved katoden tar hvert slikt ion til seg ett eller flere elektroner og blir derved redusert. Samtidig beveger de negativt ladete ioner seg mot den positivt ladete anoden og kalles derfor anioner. Der gir de fra seg et eller flere elektroner i en tilsvarende oksidasjonsprosess.
+Grunnen til at ionene vil spalte seg og gå til hver sin elektrode, er at de metallene som ligger til venstre i periodesystemet har lettere for å gi et elektron fra seg enn å ta et til seg fordi de har fire eller færre elektroner i ytterste skall. Den motsatte tendensen har man for atomer som ligger desto lengre høyre i periodesystemet. Dette er det fysiske grunnlaget for alle elektrokjemiske celler. På denne bakgrunnen kan den elektriske spenningen som behøves for å drive elektrolysen, regnes ut fra kjennskap til den elektrokjemiske spenningsrekken som summerer opp disse egenskapene ved stoffene.
+For at elektrolysen skal gjennomføres, må stoffet man skal bruke være løst i et passende løsemiddel. Det kan være vann eller smeltede ioniske forbindelser. Løsemiddelet (elektrolytten) må ha den egenskap at saltet løses på ioneform. Man plasserer katoden(-) og anoden(+) i løsemiddelet eller det oppløste saltet og setter likestrøm gjennom så man får en sluttet krets.
+
+
+== Anvendelser ==
+Elektrolyse kan brukes til å forgylle, forsølve eller fornikle gjenstander, og brukes også i industrien til å fremstille en rekke metaller som aluminium, lithium, magnesium, sink, nikkel og kobber. Man kan legge sink på jern for å unngå rust, en prosess som man gjerne kaller for galvanisering.
+Aluminium blir fremstilt i en elektrolyse av aluminiumoksid Al2O3 som igjen er fremstilt av mineralet bauxitt. Elektrolytten er smeltet kryolitt og blir holdt på en temperatur ca. 960 °C. Den resulterende, kjemiske prosessen er beskrevet ved reaksjonsligningen
+
+  
+    
+      
+        2
+        
+          
+            A
+            l
+          
+          
+            2
+          
+        
+        
+          
+            O
+          
+          
+            3
+          
+        
+        →
+        4
+        
+          A
+          l
+        
+        +
+        3
+        
+          
+            O
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle 2\mathrm {Al} _{2}\mathrm {O} _{3}\rightarrow 4\mathrm {Al} +3\mathrm {O} _{2}}
+  hvor rent aluminium blir skilt ut ved katoden i flytende form. Ved anoden blir det skilt ut oksygen. Er anoden laget av grafitt, kan gassen reagere med kullstoffet i denne og gå over i kulldioksid. Anoden vil i så fall tæres bort med tiden.
+Elektrolyse brukes også til å fremstille hydrogen og oksygen fra vann.
+
+
+== Eksterne lenker ==
+(en) Electrolysis – kategori av bilder, video eller lyd på Commons 
+(en) Electrolysis – galleri av bilder, video eller lyd på Commons 
+Hydrogen fra vann Norges forskningsråd, 2006

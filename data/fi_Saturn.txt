@@ -1,0 +1,51 @@
+Saturnus (symboli:) on kuudes planeetta Auringosta ulospäin laskettuna. Se on jättiläisplaneetta (eli joviaaninen planeetta) ja aurinkokuntamme toiseksi suurin planeetta. Se on nimetty roomalaisen Saturnus-jumalan mukaan.
+Saturnus on navoiltaan selvästi litistynyt. Sen halkaisija päiväntasaajalta mitattuna on lähes 10 prosenttia suurempi kuin navalta mitattuna (120 536 km ja 108 728 km). Tämä johtuu planeetan nopeasta pyörimisliikkeestä sekä sen sisäisestä rakenteesta. Saturnus on lisäksi tiheydeltään pienin aurinkokuntamme planeetoista: sen keskitiheys on vain 0,69 g/cm³ eli pienempi kuin vedellä.
+Saturnuksen sisus on Jupiterin kaltainen: keskellä on silikaattiydin, jota ympäröi metallisen nestemäisen vedyn muodostama kerros. Lisäksi sisustassa on merkkejä erilaisista jääkiteistä. Saturnuksen ydin on erittäin kuuma, 12 000 kelviniä, ja se säteilee avaruuteen enemmän lämpöä kuin se saa Auringosta. 
+Saturnuksen vuorokauden pituus on noin 11 tuntia, sen vuosi on 29,5 Maan vuotta. Saturnuksen ilmakehä koostuu vedystä, heliumista ja metaanista.
+
+
+== Saturnuksen sisäinen rakenne ==
+Saturnuksen sisäinen rakenne muistuttanee Jupiterin rakennetta. Suurin osa Saturnuksesta on nestemäistä vetyä ja heliumia, keskellä lienee kiinteä kivinen ja rautainen ydin. Uloimpana ovat meille näkyvän kaasukehän huipulla näkyvät pilvet. Paine, lämpötila ja tiheys eivät Saturnuksen keskustassa ole aivan yhtä suuria kuin Jupiterissa. Saturnuksen nestemäisen molekulaarisen vedyn kerros on noin kaksi kertaa paksumpi kuin Jupiterin vastaava ja ulottuu 30 000 kilometrin syvyyteen. Vety muuttuu metalliseksi melko lähellä ydintä, toisin kuin Jupiterissa. Metallinen vetykerros on 14 000 kilometriä paksu. Paine kaasukehän pohjalla on noin 100 000 baaria, ja nestemäisen molekulaarisen vedyn rajalla 1 000 000 baaria suunnilleen Saturnuksen säteen puolessa välissä. Eräiden arvioiden mukaan Saturnuksessa olisi ytimessä 8 000 kilometriä paksu jääkerros ja 8 000 kilometriä paksu kivikerros. Ytimessä lämpötila nousee ehkä noin 12 000 kelviniin. Saturnuksesta näyttää puuttuvan heliumia, jonka uskotaan pudonneen kohti planeetan keskustaa.
+
+
+== Kaasukehä ==
+Kaasukehästä on löydetty vetyä, heliumia sekä hiukan metaania ja ammoniakkia. Kaasukehässä puhaltavat päiväntasaajalla tuulet, joiden nopeus on jopa 500 m/s.Saturnuksen kellertävä pilvipeite näyttää ulospäin melko piirteettömältä, siellä näkyy tummempia ja vaaleampia raitoja ja parin vuoden välein melko lyhytikäisiä valkeita täpliä, pyörremyrskyjä. Suuri valkea täplä esiintyy lyhyen aikaa Saturnuksen kiertoajan tahdissa noin 30 vuoden välein. Vuoden 1933 myrsky on kuuluisin. Avaruusluotain Cassinin ottamissa kuvissa näkyy Saturnuksen pohjoisella pallonpuoliskolla Uranuksen pilvien tapaista sinistä pilveä. Saturnuksella on lämmin napapyörre, joka on ainoa tunnettu aurinkokunnassa, muilla planeetoilla se on kylmä. Pohjoisnavalla näkyy hieman kuusikulmiota muistuttava virtaus, seisova aalto, jonka keskellä on hurrikaanimainen myrsky pohjoisnavan ympärillä. Siinä näkyy selvä myrskyn silmä, korkeapaine. Kuusikulmaisia muotoja on tuotettu laboratorioissa tietokonemallinnuksissa.
+Saturnuksen kaasukehä on kylmimmillään 0,07 baarin pinnalla, noin 94 kelviniä eli −179 °C. Saturnuksen kaasukehän kemia on samantyyppinen kuin Jupiterin, mutta koska planeetan painovoima on pienempi, ylempi utupeite on paksumpi ja peittää alemmat värikkäät pilvet. Utuisuus johtuu myös Jupiterin kaasukehää kylmemmästä lämpötilasta. Udun paksuus on kymmeniä kilometrejä. Utu heijastaa puolet Auringon valosta pois.
+Utukerros alkaa tropopaussista, joka on 0,1 ilmakehän painepinnalla. Ammoniakkipilvien yläraja on tästä 50 kilometriä alaspäin, ammoniumvetysulfidipilvien alaraja 170 kilometriä tropopaussin alapuolella, ja vesijääpilviä on noin 230 kilometriä syvemmällä. Maan ilmakehän painetta vastaavalla yhden barin painepinnalla on lämpötila 133 kelviniä eli −140 °C, ja ammoniakkipilviä.
+
+
+== Saturnuksen renkaat ==
+
+Saturnuksen valtavat renkaat ovat sen kuuluisin piirre. Saturnuksella on seitsemän nimettyä päärengasta. Viimeisin uusi rengas havaittiin vuonna 2009. Galileo Galilei havaitsi ne ensimmäisenä teleskoopillaan vuonna 1610, mutta hän ei ilmeisesti osannut sanoa, mitä havainnosta olisi pitänyt ajatella. Hän kirjoitti: ”Saturnus ei ole yksin, vaan se muodostuu kolmesta kappaleesta, jotka melkein koskettavat toisiaan eivätkä koskaan liiku tai muutu toisiinsa nähden. Ne ovat suorassa linjassa toisiinsa nähden, ja keskimmäinen Saturnus on noin kolme kertaa suurempi kuin laidoilla olevat renkaiden reunat.” Hänen mukaansa Saturnuksella oli myös ”korvat”. Vuonna 1612 renkaat olivat vaakatasossa Maahan nähden, jolloin ne näyttivät katoavan. Seuraavana vuonna ne ilmestyivät jälleen, mikä hämmensi Galileita entisestään.
+
+Vasta vuonna 1655 Christiaan Huygens ratkaisi renkaiden arvoituksen käyttämällä paljon Galileon kaukoputkea voimakkaampaa teleskooppia. Giovanni Domenico Cassini päätteli 1676, että Saturnuksen rengas muodostuu useista pienemmistä renkaista, joiden välissä on aukkoja. Suurin näistä aukoista nimettiin Cassinin jaoksi.Saturnuksen renkaiden uskotaan syntyneen suurehkojen kuiden, pyrstötähtien ja meteoriittien törmäyksissä muodostuneista kappaleista, jotka ovat painovoiman vaikutuksesta jääneet kiertämään planeettaa.
+
+Renkaat erottuvat varsin vaatimattomalla nykyaikaisella teleskoopilla tai jopa laadukkailla kiikareilla. Ne kiertävät Saturnuksen päiväntasaajaa 6 630–120 700 kilometrin etäisyydellä. Renkaat muodostuvat pii- ja rautaoksidista sekä jääkappaleista. Kappaleiden koko vaihtelee pölyhiukkasista pieneen henkilöautoon saakka. 
+
+
+== Saturnuksen kuut ==
+
+Saturnukselta tunnetaan 82 kuuta (vuonna 2019). Saturnuksen kuista suurin on 5 150 kilometrin läpimittainen Titan. Titan sisältää yli 90 prosenttia Saturnusta kiertävästä massasta renkaat mukaan lukien. Pilvien peittämä Titan on ainoa kuu aurinkokunnassa, jolla on merkittävä, enimmäkseen typestä koostuva kaasukehä ja siellä on myös hiilivetyjärviä. Saturnuksen toiseksi suurimmalla kuulla Rhealla saattaa olla heikko oma rengasjärjestelmä. Useimmat Saturnuksen kuut ovat pieniä jäisiä kappaleita, joiden tiheys on alhainen. Perinteisesti useat Saturnuksen kuut on nimetty kreikkalaisen mytologian titaaneiden mukaan. 
+
+
+== Saturnuksen tutkiminen ==
+Pioneer 11 oli ensimmäinen avaruusluotain, joka lensi Saturnuksen ohi syyskuussa 1979. Seuraavien kahden vuoden aikana planeetan ohittivat Voyager 1 (marraskuussa 1980) ja Voyager 2 (elokuussa 1981). Cassini-Huygens oli ensimmäinen avaruusluotain, joka saapui tutkimaan Saturnusta ja sen kuu- ja rengasjärjestelmää kiertoradalta vuonna 2004. Luotaimen mukana kulkenut Huygens-luotain laskeutui Titanin pinnalle vuonna 2005.
+Saturnuksen renkaat näkyvät harrastajakaukoputkella vähintään noin 20-kertaisella suurennuksella. Ne eivät näy kiikarilla. Kaukoputkella näkyy Saturnuksen suurin kuu Titan, toiseksi suurin kuu Rhea sekä Tethys, Dione ja Japetus.
+
+
+== Lähteet ==
+Oja, Heikki & Poutanen, Markku: Aurinkokuntamme.    Tähtitieteellinen yhdistys Ursa, 1990.     
+
+
+=== Viitteet ===
+
+
+== Aiheesta muualla ==
+ Kuvia tai muita tiedostoja aiheesta Saturnus Wikimedia CommonsissaRiikonen, Marko: Saturnus sai renkaansa vasta hiljattain Tähdet ja avaruus.  14.12.2017.   Viitattu 19.11.2018. 
+Olsen, Lone Djernis: Saturnus: Kaasuplaneetta kauniine renkaineen Tieteen kuvalehti.  5.5.2014.   Viitattu 19.11.2018. 
+Jeppesen, Rikke: Saturnus vihdoin värillisissä lähikuvissa Natgeo.fi.  22.5.2017.   Viitattu 19.11.2018. 
+Saturn Facts Nine Planets.   Viitattu 19.11.2018 (englanniksi). 
+Redd, Nola Taylor: What is Saturn Made Of? Space.com.  14.11.2012.   Viitattu 19.11.2018 (englanniksi). 
+Coffey, Jerry: Does Saturn Have a Solid Core? Universe Today.  30.7.2008.   Viitattu 19.11.2018 (englanniksi). 
+Williams, Matt: The Planet Saturn Universe Today, Phys.org.  3.8.2015.   Viitattu 19.11.2018 (englanniksi). 
+Williams, David R.: Saturn Fact Sheet NASA.  27.9.2018.   Viitattu 19.11.2018 (englanniksi).

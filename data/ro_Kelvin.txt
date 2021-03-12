@@ -1,0 +1,57 @@
+Informații suplimentare: Kelvin (dezambiguizare)Scara Kelvin este scară de temperatură termodinamică (absolută) unde temperatura de zero absolut (0 K) este cea mai scăzută temperatură posibilă, nimic neputând fi răcit mai mult, iar în substanță nu mai există energie sub formă de căldură. Unitatea de măsură a scării Kelvin este kelvinul (simbol: K), care este unitatea de temperatură în SI și este una din cele șapte unități de măsură fundamentale.Scara Kelvin poartă numele fizicianului și inginerului irlandez William Thomson, Lord Kelvin (1824-1907).
+
+
+== Definiția kelvinului ==
+Unitatea și scara „kelvin” este definită, conform convențiilor internaționale, prin două puncte: zero absolut și punctul triplu al apei. De asemenea, această definiție leagă exact scara Kelvin de scara Celsius. Zero absolut — temperatura față de care nimic nu poate fi mai rece și la care în substanță nu mai există energie sub formă de energie interna — este definită ca fiind exact 0 K și −273,15 °C. Punctul triplu al apei este definit ca fiind la exact 273,16 K și 0,01 °C. Această definiție are trei consecințe:
+
+stabilește valoarea unității kelvin ca fiind exact 1 / 273,16 părți din diferența dintre punctul triplu al apei și zero absolut;
+stabilește că un kelvin are exact aceeași mărime cu un grad de pe scara Celsius; și
+stabilește că diferența punctelor de zero între cele două scări este exact 273,15 kelvini (0 K = −273,15 °C și 273,16 K = 0,01 °C). Temperaturile în kelvini pot fi convertite în alte unități conform tabelului de sus-dreapta.În tabelul de mai jos sunt prezentate câteva temperaturi de bază pe scările Kelvin și Celsius.
+
+A Pentru apă standard VSMOW, la presiunea de 101325 Pa, la calibrarea doar pe baza definirii temperaturii termodinamice prin două puncte.
+
+
+== Prefixele kelvinului în SI ==
+Prefixele SI sunt folosite pentru indicarea multiplilor și submultiplilor kelvinului.
+
+
+== Formule de recalculare a temperaturii exprimate în kelvin ==
+
+
+== Diagramă comparativă pentru diverse scări de temperatură ==
+
+
+== Convenții tipografice ==
+
+
+=== Denumiri, plural și majuscule ===
+Denumirea „grad Kelvin” a fost introdusă de cea de a 11-a Conferință Generală de Măsuri și Greutăți din 1960. În 1967 a 13-a Conferință Generală de Măsuri și Greutăți a eliminat din denumirea unității cuvântul „grad”, denumirea ei devenind kelvin, cu pluralul kelvini. Totodată a stabilit că simbolurile „°K” și „grd” nu mai sunt admise.Când cuvântul se referă la unitatea kelvin (temperatură sau interval de temperatură) se scrie cu minuscule, cu excepția cazului când cuvântul este primul din propoziție. Când cuvântul se referă la scara Kelvin, se scrie cu majusculă.
+
+
+=== Forma și stilul simbolului K ===
+Simbolul kelvinului este întotdeauna litera latină majusculă K (nu se admite cursiv), deoarece minuscula este prefixul SI pentru 1 × 103.
+
+
+=== Simbolul special Unicode al kelvinului ===
+Unicode, care este un standard industrial conceput să permită reprezentarea consistentă în calculatoare a tuturor simbolurilor din scrierile folosite în lume plasează „simbolul kelvin” la U+212A. În paginile www pentru simbolul kelvin se va folosi secvența: K . Aspectul său este aproape la fel cu al majusculei K.
+Deoarece unele calculatoare au probleme la afișarea simbolului kelvinului se admite folosirea în locul lui a majusculei K.
+
+
+== Temperatura de culoare ==
+Kelvinul este folosit adesea pentru indicarea temperaturii de culoare a surselor de lumină. Definirea temperaturii de culoare se bazează pe radiația corpului negru, radiație a cărei culoare depinde de temperatura corpului radiant. Corpurile a căror temperatură este sub circa 4000 K par roșiatice, în timp ce cele a căror temperatură este peste circa 7500 K par albăstrui. Temperatura de culoare este importantă în domeniul proiecției imaginilor și al fotografiei, pentru peliculele de tip „pentru lumină de zi” temperatura de culoare a luminii trebuind să fie de circa 5500 K. În astronomie clasificarea stelelor și poziția lor în Diagrama Hertzsprung-Russell se bazează, între altele, pe temperatura suprafeței lor. De exemplu, temperatura fotosferei Soarelui este de 5778 K.
+
+
+== Note ==
+
+
+== Bibliografie ==
+Academia Republicii Socialiste România Sistemul Internațional de unități (SI), ed. a III-a în limba română (traducere din limba franceză după ediția a V-a, elaborată de BIPM), Editura Academiei, București: Ed. Academiei RSR, 1989, ISBN: 973-27-0020-3
+
+
+== Vezi și ==
+
+
+== Legături externe ==
+
+„kelvin” la DEX online
+Barry N. Taylor, Guide for the Use of the International System of Units (SI), Washington, D.C.:Government Printing Office, 1995 (versiune html, versiune pdf)

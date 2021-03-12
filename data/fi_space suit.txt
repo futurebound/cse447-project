@@ -1,0 +1,36 @@
+Avaruuspuku on ihmistä avaruuden olosuhteilta suojaamaan suunniteltu puku, käytännössä yhden hengen avaruusalus, jota käytetään avaruuskävelyillä. 
+
+
+== Yleispiirteitä ==
+Avaruus on monella tapaa ihmiselle vihamielinen ympäristö, merkittävimpänä uhkanaan hyvin alhainen, miltei tyhjiön saavuttava paine. Sen lisäksi ihmistä täytyy suojella äärimmäiseltä kylmyydeltä varjossa ja kuumuudelta auringonvalossa. Silmiä ja ihoa täytyy suojella auringon ultraviolettisäteilyltä. Toisaalta täytyy huolehtia hengitysilman saannista sekä siitä, että kosteus ja hengityksen hiilidioksidi johdetaan pois.
+Puvun suunnitteluun vaikuttaa käyttötarkoitus. Avaruuslentäjän täytyy kyetä toteuttamaan hänelle annetut tehtävät sekä käyttämään tarpeellisia työkaluja. Nivelten sekä puvun käsiosan suunnittelu on erityisen tärkeää. Toisaalta puvun massa ei saa kasvaa liikaa. Planeetoilla avaruuslentäjä tuntee puvun painon ja myös painottomuudessa puvun massan liikemäärä saattaa vaikeuttaa toimimista.
+Avaruuspukujen päällysmateriaali on valkoinen auringon säteilyn heijastamiseksi. Astronautti kantaa selkäpakkausta, jossa on hengitysilmaa, ilmansuodatin, sähköparistot, radio ja muita varusteita. Puku on paineistettu ja joskus siinä on irrotettava kypärä. Puvun kypärän silmikkoa peittää hyvin ohut kultainen kalvo, jonka läpi voi nähdä ja joka suojaa astronautin silmiä auringon säteilyltä.
+Amerikkalaiset puvut koostuvat nykyisin puvun ylä- ja alaosasta, kypärästä ja hansikkaista, kun taas venäläisiin yksiosaisiin pukuihin astutaan sisään puvun selässä olevasta aukosta, jonka ovena toimii puvun hengissäpitojärjestelmäpakkaus.
+
+
+== NASAn puvut ==
+Avaruuspuvun lisäksi astronautilla voi olla erilaisia varusteita, kuten rakettipakkaus painottomuudessa liikkumista varten.
+NASA:n nykyiset astronautin puvut koostuvat 17 kerroksesta erilaisia materiaaleja ja yhden puvun hinta on noin 20 miljoonaa USD. Puvun sisällä on vesikiertoinen jäähdytysjärjestelmä puvun lämpötilan pitämiseksi sopivana. Astronauteille syötettävä puhdas happi on paineeltaan kolmasosa maan paineesta, koska muuten astronautit hengästyisivät tehdessään töitä avaruudessa. Itse puvut ovat hyllytavaraa mutta erikokoisia osia on olemassa. Käsineet sen sijaan tehdään yksilöllisiksi ja niidenkin hinta nousee 40 tuhanteen USD. Lisäksi käsineiden käyttöikä on vain 25 kertaa.
+
+
+== Kiinan avaruuskävelypuku ==
+Kiinalaisvalmisteinen avaruuskävelyyn tarkoitettu Feitian ("lennä taivaalla") -avaruuspuku maksaa noin kolme miljoonaa euroa. Puku painaa 120 kg ja sen kokoaminen ja pukeminen kestää 15 tuntia. Ensimmäisen kerran pukua käytti avaruudessa Zhai Zhigang tehdessään ensimmäisen kiinalaisen suorittaman avaruuskävelyn 27.9.2008.
+
+
+== Galleria ==
+
+		
+		
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+Facts About Spacesuits and Spacewalking NASA.   Viitattu 19.11.2018 (englanniksi). 
+Ajan hammas syö alkuperäisiä kuupukuja Yle Uutiset.  16.7.2009.   Viitattu 19.11.2018. 
+Salomaa, Janne: 2030-luvun avaruuspuku myötäilee ihoa Helsingin Sanomat.  25.8.2009.   Viitattu 19.11.2018. 
+Wade, Mark: Space Suits Astronautix.com.   Viitattu 19.11.2018 (englanniksi). 
+Suited for Spacewalking – A Teacher’s Guide with Activities for Technology Education, Mathematics, and Science (pdf)  1998. NASA.   Viitattu 19.11.2018 (englanniksi). 
+Space Suit Evolution – From Custom Tailored To Off-The-Rack (pdf)  1994. NASA.   Viitattu 19.11.2018 (englanniksi). 
+Freudenrich, Craig: How Space Suits Work How Spacesuits Work.   Viitattu 19.11.2018 (englanniksi).

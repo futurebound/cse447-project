@@ -1,0 +1,104 @@
+Le rayonnement solaire est l'ensemble des ondes électromagnétiques émises par le Soleil.
+Il est composé de toute la gamme des rayonnements, de l'ultraviolet lointain comme les rayons gamma aux ondes radio en passant par la lumière visible. Le rayonnement solaire contient aussi des rayons cosmiques de particules animées d'une vitesse et d'une énergie extrêmement élevées. Une partie de ce rayonnement est filtrée par la couche d'ozone avant d'atteindre la troposphère. Via la photosynthèse il est nécessaire à la plupart des espèces qui vivent sur la Terre.
+
+
+== Composition ==
+
+L’émission d'ondes électromagnétiques par le Soleil est convenablement modélisée par un corps noir à 5 800 kelvins, et peut donc être décrit par la loi de Planck. Le maximum d’émission est dans le vert (λ=504 nm), et la répartition du rayonnement est à peu près pour moitié dans la lumière visible, pour moitié dans l'infrarouge, avec 1 % d'ultraviolets.
+Arrivé au niveau de la mer, c'est-à-dire ayant traversé toute l'atmosphère terrestre, une partie du rayonnement solaire a été absorbée. On peut repérer notamment sur le spectre ci-contre les bandes d'absorption de l'ozone (qui absorbe une partie importante des ultraviolets), du dioxygène, du dioxyde de carbone et de l'eau.
+
+
+== Variations ==
+Le rayonnement solaire reçu au sol varie dans le temps, d'une part en fonction des variations de l'activité solaire, et d'autre part en fonction des saisons (selon inclinaison de la Terre) et au sein de chaque saison en fonction des variations naturelles et anthropiques de la nébulosité. Une étude récente a reconstitué l'évolution du rayonnement solaire reçu en surface en Europe de l'Ouest sur plus d'un siècle (1900-2014).
+
+
+== Nature ==
+Le Soleil émet un rayonnement électromagnétique dans lequel se trouvent notamment les gamma, X, les UV, la lumière visible, l’infrarouge, les micro-ondes et les ondes radios en fonction de la fréquence d’émission. Tous ces types de rayonnements électromagnétiques véhiculent de l’énergie. Le niveau d’éclairement énergétique mesuré à la surface de la Terre dépend de la longueur d’onde du rayonnement solaire.
+L'intensité du rayonnement n'est pas constante et augmente lors des éruptions solaires pendant les maxima du cycle solaire.
+Le rayonnement solaire se décompose en trois parties :
+
+L'émission du Soleil calme (voir constante solaire),
+La composante lentement variable,
+Les sursauts solaires.
+L'étude du rayonnement électromagnétique du Soleil par la radioastronomie a permis d'énormes progrès dans la compréhension du fonctionnement interne du Soleil.
+Les ondes radio émises par le Soleil proviennent principalement des plasmas constituant la chromosphère et la couronne solaire.
+Les ondes centimétriques correspondent aux couches basses de la chromosphère tandis que la couronne émet des ondes décamétriques.
+Le plasma agit comme un filtre passe-haut dont la fréquence de coupure dépend de la densité électronique du milieu.
+Cette fréquence (en Hz) se calcule avec la formule suivante :
+
+  
+    
+      
+        f
+        =
+        9
+        
+          
+            
+              N
+              
+                e
+              
+            
+          
+        
+      
+    
+    {\displaystyle f=9{\sqrt {N_{e}}}}
+  où Ne est la densité électronique du plasma en électrons/m3.
+Par exemple, dans la chromosphère, à 18 000 K, la densité électronique est égale à 1018 à la fréquence de 9 GHz (longueur d'onde 3 cm).
+En 2017, les données de perturbation du systèmes GPS par le rayonnement solaire, enregistrées durant 16 ans par une constellation de 23 satellites, ont été ouvertes aux scientifiques de la météorologie par le Laboratoire national de Los Alamos (Nouveau-Mexique).
+
+
+== Rayonnement sur la Terre ==
+
+Une faible partie du rayonnement solaire parvient jusqu'à la surface de la Terre, des ondes radio décamétriques aux rayons ultraviolets les plus mous, le reste étant réfléchi ou absorbé par l'atmosphère et l'ionosphère.
+
+Lorsqu'il atteint la surface de la Terre, en fonction de l'albédo de la surface frappée, une partie plus ou moins importante du rayonnement est réfléchie.
+L'autre partie de ce rayonnement est absorbée par la surface de la Terre (convertie en chaleur) ou par les êtres vivants qui y vivent, en particulier les végétaux (photosynthèse). Cette source d'énergie, appelée énergie solaire, est à la base de la vie.
+Le rayonnement solaire total reçu sur la Terre est la somme du rayonnement direct et du rayonnement diffus. En moyenne sur le globe terrestre, 61 % du rayonnement reçu est direct. En fonction de l'endroit où l'on se situe sur Terre, cette part varie fortement. À Hambourg par exemple 60 % du rayonnement annuel est diffus, alors qu'au Caire le rayonnement diffus représente seulement 29 %.
+A titre de comparaison, le rayonnement solaire serait 10 000 fois plus puissant que la totalité des consommations humaines d'énergies réunies.Dans les conditions terrestres, le rayonnement thermique se situe entre 0,1  et   100 micromètres. Il se caractérise par l’émission d’un rayonnement au détriment de l’énergie calorifique du corps émetteur. Ainsi, un corps émettant un rayonnement thermique diminue son énergie calorifique alors qu'un corps recevant un rayonnement thermique augmente son énergie calorifique. Le soleil émet principalement dans le rayonnement visible, entre 0,4  et   0,8 micromètre. Ainsi, en entrant en contact avec un corps, le rayonnement solaire augmente la température de ce corps.
+
+
+== Importance écosystémique ==
+Elle est majeure pour la vie sur terre. Le rayonnement solaire est en effet :
+
+source d'énergie solaire, énergie rayonnante qui rend possible la vie sur Terre d'une part par apport d'énergie thermique (chaleur, qui permet la présence d’eau à l’état liquide et de vapeur) et d'autre part en tant que source d'énergie lumineuse (lumière) ;
+nécessaire à la photosynthèse (utilisée par les végétaux, mais aussi par les lichens et certains micro-organismes). La lumière solaire est ainsi à l'origine de la quasi-totalité des réseaux trophiques (et de l'essentiel du carbone fossile) ;
+permet l'orientation de nombreuses espèces (grâce à la polarisation naturelle de la lumière solaire, même quand elle est réfléchie par la lune, lors du clair de lune) ; certaines espèces utilisent la polarisation de la lumière réfléchie par l'eau ou la cuticule de certaines plantes ;
+contribue à l'épuration chimique de l'eau en détruisant certaines molécules écotoxiques ou indésirables (quand l'eau n'est pas trop turbide). La lumière solaire (UV) a formé et entretient la couche d'Ozone qui protège les écosystèmes d'un excès d'UV cancérigènes et destructeurs (tout en contribuant à former au niveau du sol de l'ozone troposphériques toxique et écotoxique, principalement à partir des polluants dits "précurseurs de l'ozone", émis par les moteurs, chaudières centrales, incendies...
+les UV solaires contribuent aussi à détruire une partie des microbes vivants ou survivants dans les couches supérieures des eaux superficielles et océaniques (spectre ultraviolet).
+La chaleur apportée par le soleil a un effet synergique qui renforce l'effet désinfectant des UV solaires, mais quand le ciel est lumineux mais couvert, cet effet disparaît.
+
+
+== Importance sanitaire ==
+La lumière solaire est nécessaire à la santé humaine :
+
+le cycle jour-nuit, dit nycthéméral cale la plupart des cycles biologiques humains ;
+les UV solaires sont nécessaires à la synthèse de la vitamine D ;
+les UV solaires contribuent aussi à détruire une partie des microbes vivants ou survivants ou ayant  contaminé des eaux de baignades ou eaux susceptibles d'être utilisées comme eau potable ou d'irrigation, avec une efficacité moindre dans les eaux turbides, ou rendues turbides par les activités humaines. Cette propriété est utilisée pour la destruction de bactéries fécales (ex : Escherichia coli et Enterococcus faecalis) par certains dispositif rustiques et sobres en énergie d’épuration de l'eau adaptés à des régions très ensoleillées (désinfection totale en 3 à 6 h, avec des moyens peu onéreux, efficacement (en présence d'oxygène), testée en Inde, Afrique du Sud...),. En respectant certaines conditions, le même procédé semble pouvoir efficacement détruire nombre de virus et des œufs de parasites.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Soleil
+Constante solaire
+Météorologie de l'espace
+Énergie solaire
+Rayon solaire
+Quotient photothermique
+Photosynthèse
+Panneau solaire
+
+
+=== Bibliographie ===
+ : document utilisé comme source pour la rédaction de cet article.
+
+(en) Konrad Mertens, Photovoltaics : fundamentals, technology, and practice, Chichester, Wiley, 2014, 280 p. (ISBN 978-1-118-63416-5, OCLC 855362808). 
+Wyard, C., Fettweis, X., Belleflamme, A., Doutreloup, S., & Erpicum, M. (2017) RECONSTRUCTION DE L'ÉVOLUTION DU RAYONNEMENT SOLAIRE REÇU EN SURFACE EN EUROPE OCCIDENTALE SUR LA PÉRIODE 1900-2014 À L'AIDE DU MODÈLE ATMOSPHÉRIQUE RÉGIONAL MAR. In Actes du XXXe colloque de l'Association Internationale de Climatologie : Climat, ville et environnement
+ Portail de l’astronomie   Portail de la physique   Portail de l’optique   Portail de l’énergie

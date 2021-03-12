@@ -1,0 +1,486 @@
+En física, masa (del latín massa) es una magnitud física y propiedad general de la materia [1]​ que expresa la inercia o resistencia al cambio de movimiento de un cuerpo. De manera más precisa es la propiedad de un cuerpo que determina la aceleración del mismo, cuando este se encuentra bajo la influencia de una fuerza dada.[2]​ Es una propiedad intrínseca de los cuerpos que determina la medida de la masa inercial y de la masa gravitacional. La unidad utilizada para medir la masa en el Sistema Internacional de Unidades es el kilogramo (kg).[3]​
+No debe confundirse con el peso, que es una magnitud vectorial que representa una fuerza cuya unidad utilizada en el Sistema Internacional de Unidades es el newton (N),[4]​ si bien a partir del peso de un cuerpo en reposo (atraído por la fuerza de la gravedad), puede conocerse su masa al conocerse el valor de la gravedad.
+Tampoco se debe confundir masa con la cantidad de sustancia, cuya unidad en el Sistema Internacional de Unidades es el mol.[5]​
+
+
+== Historia ==
+Si bien el concepto de masa de un objeto y el peso son nociones precientíficas, es a partir de las reflexiones de Galileo, René Descartes y muy especialmente a partir de Isaac Newton que surge la noción moderna de masa. Así, el concepto de masa surge de la confluencia de dos leyes: la ley de gravitación universal de Newton y la segunda ley de Newton (o 2.º principio). Según la ley de la gravitación universal, la atracción entre dos cuerpos es proporcional al producto de dos constantes, denominadas masa gravitacional —una de cada uno de ellos—, siendo así la masa gravitatoria una propiedad de la materia en virtud de la cual dos cuerpos se atraen; por la 2ª ley de Newton, la fuerza aplicada sobre un cuerpo es directamente proporcional a la aceleración que experimenta, denominándose a la constante de proporcionalidad: masa inercial de un cuerpo.
+Para Einstein la gravedad es una consecuencia de la geometría del espacio-tiempo: una curvatura de la geometría del espacio-tiempo por efecto de la masa de los cuerpos.[6]​
+Ni para Newton ni para otros físicos anteriores a Einstein, era obvio que la masa inercial y la masa gravitatoria coincidieran. Loránd Eötvös llevó a cabo experimentos muy cuidadosos para detectar si existía diferencia entre ambos, pero ambas parecían coincidir con alta precisión y posiblemente serían iguales. De hecho, todos los experimentos muestran resultados compatibles con la igualdad de ambas. Para la física clásica prerrelativista esta identidad era accidental. Ya Newton, para quien peso e inercia eran propiedades independientes de la materia, propuso que ambas cualidades son proporcionales a la cantidad de materia, a la cual denominó "masa". Sin embargo, para Einstein, la coincidencia de masa inercial y masa gravitacional fue un dato crucial y uno de los puntos de partida para su teoría de la relatividad y, por tanto, para poder comprender mejor el comportamiento de la naturaleza. Según Einstein, esa identidad significa que: «la misma cualidad de un cuerpo se manifiesta, de acuerdo con las circunstancias, como inercia o como el peso».
+Esto llevó a Einstein a enunciar el principio de equivalencia: «las leyes de la naturaleza deben expresarse de modo que sea imposible distinguir entre un campo gravitatorio uniforme y un sistema referencial acelerado.» Así pues, «masa inercial» y «masa gravitatoria» son indistinguibles y, consecuentemente, cabe un único concepto de «masa» como sinónimo de «cantidad de materia», según formuló Newton.
+En palabras de D. M. McMaster: «la masa es la expresión de la cantidad de materia de un cuerpo, revelada por su peso, o por la cantidad de fuerza necesaria para producir en un cuerpo cierta cantidad de movimiento en un tiempo dado».[7]​
+En la física clásica, la masa es una constante de un cuerpo. En física relativista, la masa aparente es función de la velocidad que el cuerpo posee respecto al observador (de hecho, en relatividad se abona la idea fundamental de definir la masa "verdadera" como el valor de la fuerza entre la aceleración experimentada, ya que este cociente depende de la velocidad). Además, la física relativista demostró la relación de la masa con la energía, quedando probada en las reacciones nucleares; por ejemplo, en la explosión de una bomba atómica queda que la masa no se conserva estrictamente, como sucedía con la masa mecánica de la física prerrelativista.
+
+
+== Masa en la física prerrelativista ==
+
+
+=== Masa inercial ===
+
+La masa inercial para la física clásica viene determinada por la segunda y tercera ley de newton. Dados dos cuerpos, A y B, con masas inerciales mA (conocida) y mB (que se desea determinar), en la hipótesis dice que las masas deben ser constantes y que ambos cuerpos están aislados de otras influencias físicas, de forma que la única fuerza presente sobre A es la que ejerce B, denominada FAB, y la única fuerza presente sobre B es la que ejerce A, denominada  FBA, de acuerdo con la segunda ley de Newton: 
+
+  
+    
+      
+        
+          F
+          
+            A
+            B
+          
+        
+        =
+        
+          m
+          
+            A
+          
+        
+        
+          a
+          
+            A
+          
+        
+        
+        
+      
+    
+    {\displaystyle F_{AB}=m_{A}a_{A}\,\!}
+  
+
+  
+    
+      
+        
+          F
+          
+            B
+            A
+          
+        
+        =
+        
+          m
+          
+            B
+          
+        
+        
+          a
+          
+            B
+          
+        
+        
+        
+      
+    
+    {\displaystyle F_{BA}=m_{B}a_{B}\,\!}
+  .donde aA y aB son las  aceleraciones de A y B, respectivamente. Es necesario que estas aceleraciones no sean nulas, es decir, que las fuerzas entre los dos objetos no sean iguales a cero. Una forma de lograrlo es, por ejemplo, hacer colisionar los dos cuerpos y efectuar las mediciones durante el choque.
+La Tercera Ley de Newton afirma que las dos fuerzas son iguales y opuestas:
+
+  
+    
+      
+        
+          F
+          
+            A
+            B
+          
+        
+        =
+        −
+        
+          F
+          
+            B
+            A
+          
+        
+        
+        
+      
+    
+    {\displaystyle F_{AB}=-F_{BA}\,\!}
+  .Sustituyendo en las ecuaciones anteriores, se obtiene la masa de B como
+
+  
+    
+      
+        
+          m
+          
+            B
+          
+        
+        =
+        
+          
+            
+              a
+              
+                A
+              
+            
+            
+              a
+              
+                B
+              
+            
+          
+        
+        
+          m
+          
+            A
+          
+        
+        
+        
+      
+    
+    {\displaystyle m_{B}={a_{A} \over a_{B}}m_{A}\,\!}
+  .Así, el medir aA y aB permite determinar mB en relación con mA, que era lo buscado. El requisito de que aB sea distinto de cero hace que esta ecuación quede bien definida.
+En el razonamiento anterior se ha supuesto que las masas de A y B son constantes. Se trata de una suposición fundamental, conocida como la conservación de la masa, y se basa en la hipótesis de que la materia no puede ser creada ni destruida, solo transformada (dividida o recombinada). Sin embargo, a veces es útil considerar la variación de la masa del cuerpo en el tiempo; por ejemplo, la masa de un cohete decrece durante su lanzamiento. Esta aproximación se hace ignorando la materia que entra y sale del sistema. En el caso del cohete, esta materia se corresponde con el combustible que es expulsado; la masa conjunta del cohete y del combustible es constante.
+
+
+=== Masa gravitacional ===
+
+Considérense dos cuerpos A y B con masas gravitacionales MA y MB, separados por una distancia |rAB|. La ley de la gravitación de Newton dice que la magnitud de la fuerza gravitatoria que cada cuerpo ejerce sobre el otro es
+
+  
+    
+      
+        
+          |
+        
+        F
+        
+          |
+        
+        =
+        
+          
+            
+              G
+              
+                M
+                
+                  A
+                
+              
+              
+                M
+                
+                  B
+                
+              
+            
+            
+              
+                |
+              
+              
+                r
+                
+                  A
+                  B
+                
+              
+              
+                
+                  |
+                
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle |F|={GM_{A}M_{B} \over |r_{AB}|^{2}}}
+  
+
+donde G es la constante de gravitación universal. La sentencia anterior se puede reformular de la siguiente manera: dada la aceleración g de una masa de referencia en un campo gravitacional (como el campo gravitatorio de la Tierra), la fuerza de la gravedad en un objeto con masa gravitacional M es de la magnitud
+
+  
+    
+      
+        
+          |
+        
+        F
+        
+          |
+        
+        =
+        M
+        g
+        
+        
+      
+    
+    {\displaystyle |F|=Mg\,\!}
+  .
+
+Esta es la base según la cual las masas se determinan en las balanzas. En las balanzas de baño, por ejemplo, la fuerza |F| es proporcional al desplazamiento del muelle debajo de la plataforma de pesado (véase ley de elasticidad de Hooke), y la escala está calibrada para tener en cuenta g de forma que se pueda leer la masa M.
+
+
+=== Equivalencia de la masa inercial y la masa gravitatoria ===
+Se demuestra experimentalmente que la masa inercial y la masa gravitacional son iguales —con un grado de precisión muy alto—. Estos experimentos son esencialmente pruebas del fenómeno ya observado por Galileo de que los objetos caen con una aceleración independiente de sus masas (en ausencia de factores externos como el rozamiento).
+Supóngase un objeto con masas inercial y gravitacional m y M, respectivamente. Si la gravedad es la única fuerza que actúa sobre el cuerpo, la combinación de la segunda ley de Newton y la ley de la gravedad proporciona su aceleración como:
+
+  
+    
+      
+        a
+        =
+        
+          
+            M
+            m
+          
+        
+        g
+      
+    
+    {\displaystyle a={M \over m}g}
+  
+
+Por tanto, todos los objetos situados en el mismo campo gravitatorio caen con la misma aceleración si y solo si la proporción entre masa gravitacional e inercial es igual a una constante. Por definición, se puede tomar esta proporción como 1.
+
+
+== Consecuencias de la Relatividad ==
+
+En la teoría especial de la relatividad la «masa inercial» definida como el cociente entre la fuerza aplicada a un cuerpo y la aceleración que experimenta, depende de la velocidad del cuerpo, por lo que es una propiedad intrínseca del cuerpo. Por esa razón se define otra magnitud intrínseca llamada masa en reposo, que se determina en un sistema de referencia en el que la masa está en reposo (conocido como «sistema de reposo»). De hecho, a efectos prácticos, el método de la física clásica para determinar la masa inercial sigue siendo válido, siempre que la velocidad del objeto sea mucho menor que la velocidad de la luz, de forma que la mecánica newtoniana siga siendo válida.
+En la mecánica relativista, la masa en reposo de una partícula libre está relacionada con su energía y su momento lineal según la siguiente ecuación:
+
+  
+    
+      
+        
+          
+            
+              E
+              
+                2
+              
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        =
+        
+          m
+          
+            2
+          
+        
+        
+          c
+          
+            2
+          
+        
+        +
+        
+          p
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {E^{2} \over c^{2}}=m^{2}c^{2}+p^{2}}
+  .
+
+Que se puede reordenar de la siguiente manera:
+
+  
+    
+      
+        E
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+        
+          
+            1
+            +
+            
+              
+                (
+                
+                  
+                    p
+                    
+                      m
+                      c
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle E=mc^{2}{\sqrt {1+\left({p \over mc}\right)^{2}}}}
+  
+
+El límite clásico se corresponde con la situación en la que el momento p es mucho menor que mc, en cuyo caso se puede desarrollar la raíz cuadrada en una serie de Taylor:
+
+  
+    
+      
+        E
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+        +
+        
+          
+            
+              p
+              
+                2
+              
+            
+            
+              2
+              m
+            
+          
+        
+        +
+        …
+      
+    
+    {\displaystyle E=mc^{2}+{p^{2} \over 2m}+\dots }
+  
+
+El término principal, que es el mayor, es la energía en reposo de la partícula. Si la masa es distinta de cero, una partícula siempre tiene como mínimo esta cantidad de energía, independientemente de su cantidad de movimiento o moméntum. La energía en reposo, normalmente, es inaccesible, pero puede liberarse dividiendo o combinando partículas, como en la fusión y fisión nucleares. El segundo término es la energía cinética clásica, que se demuestra usando la definición clásica de momento cinético o momento lineal:
+
+  
+    
+      
+        p
+        =
+        m
+        v
+        
+        
+      
+    
+    {\displaystyle p=mv\,\!}
+  
+
+y sustituyendo para obtener:
+
+  
+    
+      
+        E
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+        +
+        
+          
+            
+              m
+              
+                v
+                
+                  2
+                
+              
+            
+            2
+          
+        
+        +
+        .
+        .
+        .
+      
+    
+    {\displaystyle E=mc^{2}+{mv^{2} \over 2}+...}
+  
+
+La relación relativista entre energía, masa y momento también se cumple para partículas que no tienen masa (que es un concepto mal definido en términos de mecánica clásica). Cuando m = 0, la relación se simplifica en
+
+  
+    
+      
+        E
+        =
+        p
+        c
+        
+        
+      
+    
+    {\displaystyle E=pc\,\!}
+  
+
+donde p es el momento relativista.
+Esta ecuación define la mecánica de las partículas sin masa como el fotón, que son las partículas de la luz.
+
+
+== Masa convencional ==
+Según el documento D28 Conventional value of the result of weighing in air de la Organización Internacional de Metrología Legal (OIML), la masa convencional de un cuerpo es igual a la masa de un patrón de densidad igual a 8000 kg/m³ que equilibra en el aire a dicho cuerpo en condiciones convencionalmente escogidas: temperatura del aire igual a 20 °C y densidad del aire igual a 0,0012 g/cm³.
+Esta definición es fundamental para un comercio internacional sin controversias sobre pesajes realizados bajo distintas condiciones de densidad del aire y densidad de los objetos. Si se pretendiera que las balanzas midan masa, sería necesario contar con patrones de masa de la misma densidad que los objetos cuya masa interese determinar, lo que no es práctico y es la razón por la que se definió la Masa Convencional, la cual es la magnitud que miden las balanzas con mayor precisión.
+
+
+== Véase también ==
+Unidades de masa
+Ley de conservación de la materia
+Órdenes de magnitud (masa)
+
+
+== Referencias ==
+
+
+=== Bibliografía ===
+Alonso, M. y J. Finn: "Fundamental university physics", Addison-Wesley.
+Landau & Lifshitz: Mecánica, Ed. Reverté, Barcelona, 1991. ISBN 84-291-4081-6.
+Landau & Lifshitz: Teoría clásica de los campos, Ed. Reverté, ISBN 84-291-4082-4.
+Vázquez-Reyna, Mario: Reflexiones en torno a la materia, la energía y la masa. Cd. de México (1998). ISBN 970-91797-1-3
+
+
+=== Enlaces externos ===
+ Wikimedia Commons alberga una categoría multimedia sobre Masa.
+ Wikcionario  tiene definiciones y otra información sobre masa.El Diccionario de la Real Academia Española tiene una definición para masa.
+¿Cómo se puede medir allí la masa?
+Usenet Physics FAQ.
+What is relativistic mass? (en inglés)

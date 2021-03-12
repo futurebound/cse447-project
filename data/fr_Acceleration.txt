@@ -1,0 +1,3694 @@
+L'accélération est une grandeur physique vectorielle, appelée de façon plus précise « vecteur accélération », utilisée en cinématique pour représenter la modification affectant la vitesse d'un mouvement en fonction du temps. La norme (l'intensité) de ce vecteur est appelée simplement « accélération » sans autre qualificatif.
+Dans le langage courant, l'accélération s'oppose à la décélération et indique l'augmentation de la vitesse ou de la fréquence d'évolution d'un processus quelconque, par exemple l'accélération de la fréquence cardiaque ou celle d'une suite de situations.
+
+
+== Approche intuitive ==
+
+De même que la vitesse décrit la modification de la position d'un objet au cours du temps, l'accélération décrit la « modification de la vitesse au cours du temps » (ce que les mathématiques formalisent par la notion de dérivée). Dans la vie courante, on distingue trois cas que le physicien regroupe sous le seul concept d'accélération :
+
+aller plus vite (accélérer au sens commun plus restrictif) : dans une automobile, le compteur de vitesse montre que la vitesse augmente ;du point de vue mathématique, l'accélération est positive, c'est-à-dire que le vecteur accélération possède une composante dans le sens de la vitesse ;
+aller moins vite (freiner, décélérer ou ralentir dans le langage commun) : l'indication du compteur de vitesse diminue ;l'accélération est négative, ou le vecteur accélération possède une composante opposée au sens de la vitesse ;
+changer de direction (tourner ou virer dans le langage commun) : même si l'indication du compteur de vitesse ne change pas, le changement de direction implique une accélération ;le vecteur accélération comporte une composante perpendiculaire à la vitesse ; on s'intéresse ici à la variation de la direction du vecteur vitesse, pas à la variation de sa norme.Lorsque l'on est soi-même soumis à une accélération, on ressent un effort : effort qui nous plaque contre le siège lorsque la voiture accélère (va plus vite), effort qui nous tire vers le pare-brise lorsque la voiture freine, effort qui nous tire sur le côté lorsque la voiture tourne (force centrifuge). Nous ressentons cet effort de manière similaire au poids. Le rapport entre l'accélération et l'effort est le domaine de la dynamique ; mais l'accélération est une notion de cinématique, c'est-à-dire qu'elle se définit uniquement à partir du mouvement, sans faire intervenir les efforts.
+Dans les unités internationales, la vitesse s'exprime en mètres par seconde (m/s). L'accélération est donc la « variation, par seconde, des mètres par seconde », soit des « (mètres par seconde) par seconde », (m/s)/s ; que l'on appelle « mètres par seconde au carré » (m/s2). On exprime ainsi souvent cette grandeur en « nombre de g », par analogie avec la pesanteur. Par rapport à l'unité internationale d'accélération, le « mètre par seconde au carré » (m/s2), on a 1 g = 9,806 65 m/s2.
+Pour se faire une idée de l'accélération linéique, il peut être utile de penser en termes de « + x km/h par seconde », sachant que, par rapport aux unités internationales,
+
++ 1 m/s2 = + 3,6 (km/h)/s,
++ 1 (km/h)/s = + 1000⁄3600 m/s2 = + 0,278 m/s2.Par exemple, si une voiture passe de 0 à 100 km/h en 5 s, elle a une accélération de (100 km/h)/(5 s) = 20 (km/h)/s ≈ 5,6 m/s2 ≈ 0,57 g.
+À l'inverse, lors d'un choc frontal, une voiture roulant à 30 km/h s'arrête en environ 0,1 s, ce qui représente une variation de vitesse de (−30 km/h)/(0,1 s) = −300 (km/h)/s ≈ −83 m/s2 ≈ −8,5 g.
+On parle souvent de l'accélération due à un changement de direction dans le cas des manèges à sensation, comme les montagnes russes. C'est ainsi que l'on peut lire que dans certains manèges, on subit une accélération allant jusqu'à 6,5 g.
+
+
+== Historique ==
+La notion d'accélération est formalisée par Pierre Varignon le 20 janvier 1700, comme un écart infiniment petit de vitesse dv pendant un temps infiniment petit dt mis pour modifier cette vitesse. Réitérant l'approche qu'il avait utilisée deux ans plus tôt pour définir la notion de vitesse, il utilise le formalisme du calcul différentiel mis au point quelques années plus tôt par Gottfried Wilhelm Leibniz (Isaac Newton ayant développé le formalisme du calcul des fluxions).
+
+
+== Définition ==
+
+
+=== Accélération moyenne ===
+
+On se place dans un référentiel (R) donné. Considérons un point matériel M de vecteur position 
+  
+    
+      
+        
+          
+            
+              r
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {r}}}
+   et de vecteur vitesse 
+  
+    
+      
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            
+              M
+              
+                /
+              
+              (
+              R
+              )
+            
+          
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\vec {v}}_{\mathrm {M/(R)} }(t)}
+  . L'accélération moyenne entre les instants t1 et t2 est le vecteur défini par :
+
+  
+    
+      
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            
+              m
+              o
+              y
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  
+                    
+                      v
+                      →
+                    
+                  
+                
+                
+                  
+                    M
+                    
+                      /
+                    
+                    (
+                    R
+                    )
+                  
+                
+              
+              (
+              
+                t
+                
+                  2
+                
+              
+              )
+              −
+              
+                
+                  
+                    
+                      v
+                      →
+                    
+                  
+                
+                
+                  
+                    M
+                    
+                      /
+                    
+                    (
+                    R
+                    )
+                  
+                
+              
+              (
+              
+                t
+                
+                  1
+                
+              
+              )
+            
+            
+              
+                t
+                
+                  2
+                
+              
+              −
+              
+                t
+                
+                  1
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              Δ
+              
+                
+                  
+                    
+                      v
+                      →
+                    
+                  
+                
+                
+                  
+                    M
+                    
+                      /
+                    
+                    (
+                    R
+                    )
+                  
+                
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}_{\mathrm {moy} }={\frac {{\vec {v}}_{\mathrm {M/(R)} }(t_{2})-{\vec {v}}_{\mathrm {M/(R)} }(t_{1})}{t_{2}-t_{1}}}={\frac {\Delta {\vec {v}}_{\mathrm {M/(R)} }}{\Delta t}}}
+  .La norme de l'accélération s'exprime en mètre par seconde au carré (m.s−2, m/s2).
+Si le référentiel et le point matériel sont définis sans ambiguïté, on allège couramment la notation
+
+  
+    
+      
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            
+              m
+              o
+              y
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+              (
+              
+                t
+                
+                  2
+                
+              
+              )
+              −
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+              (
+              
+                t
+                
+                  1
+                
+              
+              )
+            
+            
+              
+                t
+                
+                  2
+                
+              
+              −
+              
+                t
+                
+                  1
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              Δ
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}_{\mathrm {moy} }={\frac {{\vec {v}}(t_{2})-{\vec {v}}(t_{1})}{t_{2}-t_{1}}}={\frac {\Delta {\vec {v}}}{\Delta t}}}
+  .
+
+
+=== Accélération instantanée ===
+Avec les mêmes notations, on définit l'accélération instantanée comme étant la dérivée du vecteur vitesse :
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          lim
+          
+            
+              Δ
+              t
+            
+            →
+            0
+          
+        
+        
+          
+            
+              Δ
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+        =
+        
+          
+            
+              
+                d
+              
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}=\lim _{{\Delta t}\to 0}{\frac {\Delta {\vec {v}}}{\Delta t}}={\frac {\mathrm {d} {\vec {v}}}{\mathrm {d} t}}}
+  .Comme le vecteur vitesse est lui-même la dérivée du vecteur position 
+  
+    
+      
+        
+          
+            
+              r
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {r}}}
+   du point matériel M, il en résulte que 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+   est la dérivée seconde de 
+  
+    
+      
+        
+          
+            
+              r
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {r}}}
+   :
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  d
+                
+                
+                  2
+                
+              
+              
+                
+                  
+                    r
+                    →
+                  
+                
+              
+            
+            
+              
+                d
+              
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {a}}={\frac {\mathrm {d} ^{2}{\vec {r}}}{\mathrm {d} t^{2}}}.}
+  Physiquement, le vecteur accélération décrit la variation du vecteur vitesse. Ce dernier pouvant à la fois varier en valeur et en direction, la notion physique d'accélération est plus large que celle employé dans le langage courant, où celle-ci désigne uniquement une variation de la valeur de la vitesse. Du point de vue cinématique, un véhicule effectuant un virage à vitesse constante (en valeur) possède bien une accélération. Il est possible de montrer que celle-ci est normale au vecteur vitesse et dirigée vers le centre de courbure du virage (cf. expression intrinsèque de 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+  ).
+
+
+=== Expression dans les différents systèmes de coordonnées ===
+Tout comme le vecteur position et le vecteur vitesse, le vecteur accélération par rapport à un référentiel donné peut s'exprimer dans les différents systèmes de coordonnées : cartésiennes, cylindro-polaires, et sphériques. Il est important de souligner que le choix du système de coordonnées est indépendant de celui du référentiel : le même vecteur accélération pourra donc s'exprimer différemment selon le système de coordonnées choisi.
+
+Coordonnées cartésiennes : le repère a pour base 
+  
+    
+      
+        (
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            x
+          
+        
+        ,
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            y
+          
+        
+        ,
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            z
+          
+        
+        )
+      
+    
+    {\displaystyle ({\vec {e}}_{x},{\vec {e}}_{y},{\vec {e}}_{z})}
+  , le vecteur position s'exprime par 
+  
+    
+      
+        
+          
+            
+              r
+              →
+            
+          
+        
+        =
+        x
+        (
+        t
+        )
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            x
+          
+        
+        +
+        y
+        (
+        t
+        )
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            y
+          
+        
+        +
+        z
+        (
+        t
+        )
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            z
+          
+        
+      
+    
+    {\displaystyle {\vec {r}}=x(t){\vec {e}}_{x}+y(t){\vec {e}}_{y}+z(t){\vec {e}}_{z}}
+  , ce qui donne pour le vecteur accélération 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              x
+              ¨
+            
+          
+        
+        ⋅
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            x
+          
+        
+        +
+        
+          
+            
+              y
+              ¨
+            
+          
+        
+        ⋅
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            y
+          
+        
+        +
+        
+          
+            
+              z
+              ¨
+            
+          
+        
+        ⋅
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            z
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}={\ddot {x}}\cdot {\vec {e}}_{x}+{\ddot {y}}\cdot {\vec {e}}_{y}+{\ddot {z}}\cdot {\vec {e}}_{z}}
+  .Coordonnées cylindro-polaires : le repère a pour base 
+  
+    
+      
+        (
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            ρ
+          
+        
+        ,
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            θ
+          
+        
+        ,
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            z
+          
+        
+        )
+      
+    
+    {\displaystyle ({\vec {e}}_{\rho },{\vec {e}}_{\theta },{\vec {e}}_{z})}
+  , le vecteur position s'exprime par 
+  
+    
+      
+        
+          
+            
+              r
+              →
+            
+          
+        
+        =
+        ρ
+        (
+        t
+        )
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            ρ
+          
+        
+        +
+        z
+        (
+        t
+        )
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            z
+          
+        
+      
+    
+    {\displaystyle {\vec {r}}=\rho (t){\vec {e}}_{\rho }+z(t){\vec {e}}_{z}}
+  , ce qui donne pour le vecteur accélération 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          (
+          
+            
+              
+                
+                  ρ
+                  ¨
+                
+              
+            
+            −
+            ρ
+            
+              
+                
+                  
+                    θ
+                    ˙
+                  
+                
+              
+              
+                2
+              
+            
+          
+          )
+        
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            ρ
+          
+        
+        +
+        
+          (
+          
+            ρ
+            
+              
+                
+                  θ
+                  ¨
+                
+              
+            
+            +
+            2
+            
+              
+                
+                  ρ
+                  ˙
+                
+              
+            
+            
+              
+                
+                  θ
+                  ˙
+                
+              
+            
+          
+          )
+        
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            θ
+          
+        
+        +
+        
+          
+            
+              z
+              ¨
+            
+          
+        
+        ⋅
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            z
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}=\left({\ddot {\rho }}-\rho {\dot {\theta }}^{2}\right){\vec {e}}_{\rho }+\left(\rho {\ddot {\theta }}+2{\dot {\rho }}{\dot {\theta }}\right){\vec {e}}_{\theta }+{\ddot {z}}\cdot {\vec {e}}_{z}}
+  .
+
+
+=== Expression dans un repère de Frenet ===
+
+Dans un repère de Frenet il est possible de décomposer l'accélération en deux composantes :
+
+l'accélération tangentielle, dans la direction du mouvement, selon le vecteur 
+  
+    
+      
+        
+          
+            
+              
+                u
+                →
+              
+            
+          
+          
+            
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {u}}_{\mathrm {t} }}
+   : cette composante décrit physiquement la variation de vitesse absolue, sans modification de la courbure de la trajectoire ;
+l'accélération normale ou centripète, perpendiculaire à la direction du mouvement, selon le vecteur 
+  
+    
+      
+        
+          
+            
+              
+                u
+                →
+              
+            
+          
+          
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {u}}_{\mathrm {n} }}
+   : cette composante décrit physiquement la « courbure » de la trajectoire causée par l'accélération, sans variation de vitesse absolue.Il est possible de démontrer l'expression suivante :
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                d
+              
+              v
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+          
+            
+              
+                u
+                →
+              
+            
+          
+          
+            
+              t
+            
+          
+        
+        +
+        
+          
+            
+              v
+              
+                2
+              
+            
+            
+              R
+            
+          
+        
+        
+          
+            
+              
+                u
+                →
+              
+            
+          
+          
+            
+              n
+            
+          
+        
+        =
+        
+          
+            
+              s
+              ¨
+            
+          
+        
+        
+          
+            
+              
+                u
+                →
+              
+            
+          
+          
+            
+              t
+            
+          
+        
+        +
+        
+          
+            
+              
+                
+                  
+                    s
+                    ˙
+                  
+                
+              
+              
+                2
+              
+            
+            
+              R
+            
+          
+        
+        
+          
+            
+              
+                u
+                →
+              
+            
+          
+          
+            
+              n
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\vec {a}}={\frac {\mathrm {d} v}{\mathrm {d} t}}{\vec {u}}_{\mathrm {t} }+{\frac {v^{2}}{\mathrm {R} }}{\vec {u}}_{\mathrm {n} }={\ddot {s}}{\vec {u}}_{\mathrm {t} }+{\frac {{\dot {s}}^{2}}{\mathrm {R} }}{\vec {u}}_{\mathrm {n} },}
+  où s(t) est l'abscisse curviligne du point matériel et R est le rayon de courbure de la trajectoire au point considéré : c'est le rayon du cercle dit osculateur en ce point. Ce cercle osculateur est le cercle tangent à la trajectoire en ce point qui se rapproche le plus de cette trajectoire autour de ce point.
+Dans le cas du mouvement rectiligne, le rayon de courbure R tend vers l'infini, et donc l'accélération normale est évidemment nulle.
+Dans le cas d'un mouvement circulaire le rayon de courbure R est constant et correspond au rayon de la trajectoire. Si le mouvement est en plus uniforme, la composante tangentielle est nulle, et l'accélération est purement normale.
+
+
+=== Champ d'accélération d'un solide et torseur dynamique ===
+
+Un solide, indéformable ou déformable, peut être décrit comme un ensemble de points ; on note Σ le domaine spatial (volume) occupé par le solide, et 
+  
+    
+      
+        ρ
+        (
+        M
+        )
+      
+    
+    {\displaystyle \rho (M)}
+   la fonction de masse volumique en un point M. On peut définir un vecteur accélération en chaque point, et ainsi un champ de vecteurs accélération 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        (
+        
+          M
+        
+        )
+      
+    
+    {\displaystyle {\vec {a}}(\mathrm {M} )}
+  .
+Dans le cas d'un solide indéformable, si l'on connaît l'accélération en un point A et le vecteur vitesse angulaire 
+  
+    
+      
+        
+          
+            
+              Ω
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\Omega }}}
+   du solide, on peut déterminer l'accélération en tout point B par la « loi de distribution des accélérations dans un solide indéformable », ou formule de Rivals :
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        (
+        
+          B
+        
+        )
+        =
+        
+          
+            
+              a
+              →
+            
+          
+        
+        (
+        
+          A
+        
+        )
+        +
+        
+          
+            
+              B
+              A
+            
+            →
+          
+        
+        ∧
+        
+          
+            
+              
+                d
+              
+              
+                
+                  
+                    Ω
+                    →
+                  
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        +
+        (
+        
+          
+            
+              Ω
+              →
+            
+          
+        
+        ∧
+        
+          
+            
+              B
+              A
+            
+            →
+          
+        
+        )
+        ∧
+        
+          
+            
+              Ω
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}(\mathrm {B} )={\vec {a}}(\mathrm {A} )+{\overrightarrow {\mathrm {BA} }}\wedge {\frac {\mathrm {d} {\vec {\Omega }}}{\mathrm {d} t}}+({\vec {\Omega }}\wedge {\overrightarrow {\mathrm {BA} }})\wedge {\vec {\Omega }}}
+  Ceci montre que le champ des accélérations n'est pas un torseur.
+Toutefois, à partir de ce champ, on peut définir le moment dynamique par rapport à un point A du solide
+
+  
+    
+      
+        
+          
+            
+              
+                δ
+                →
+              
+            
+          
+          
+            
+              A
+            
+          
+        
+        =
+        
+          ∭
+          
+            Σ
+          
+        
+        
+          
+            
+              A
+              M
+            
+            →
+          
+        
+        ∧
+        
+          
+            
+              a
+              →
+            
+          
+        
+        (
+        
+          M
+        
+        )
+        ⋅
+        ρ
+        (
+        
+          M
+        
+        )
+        ⋅
+        
+          d
+          V
+        
+      
+    
+    {\displaystyle {\vec {\delta }}_{\mathrm {A} }=\iiint _{\Sigma }{\overrightarrow {\mathrm {AM} }}\wedge {\vec {a}}(\mathrm {M} )\cdot \rho (\mathrm {M} )\cdot \mathrm {dV} }
+  Ce moment dynamique est un champ équiprojectif (dans tous les cas, même si le solide est déformable), c'est donc un torseur, appelé « torseur dynamique ». Sa résultante est la quantité d'accélération :
+
+  
+    
+      
+        
+          
+            
+              
+                A
+              
+              →
+            
+          
+        
+        (
+        
+          S
+          
+            /
+          
+          R
+        
+        )
+        =
+        
+          ∭
+          
+            
+              S
+            
+          
+        
+        
+          
+            
+              
+                Γ
+                →
+              
+            
+          
+          (
+          
+            M
+          
+          ,
+          
+            S
+            
+              /
+            
+            R
+          
+          )
+          ρ
+          (
+          
+            M
+          
+          )
+          
+            d
+            V
+          
+        
+      
+    
+    {\displaystyle {\vec {\mathcal {A}}}(\mathrm {S/R} )=\iiint _{\mathrm {S} }{{\vec {\Gamma }}(\mathrm {M} ,\mathrm {S/R} )\rho (\mathrm {M} )\mathrm {dV} }}
+  
+
+
+== Cas particuliers et lois de mouvement ==
+
+
+=== Lois de mouvement ===
+Les lois de mouvement d'un corps sont la détermination de la position en fonction du temps 
+  
+    
+      
+        x
+        (
+        t
+        )
+      
+    
+    {\displaystyle x(t)}
+  , de la vitesse instantanée en fonction du temps 
+  
+    
+      
+        v
+        (
+        t
+        )
+      
+    
+    {\displaystyle v(t)}
+   et de l'accélération instantanée en fonction du temps 
+  
+    
+      
+        a
+        (
+        t
+        )
+      
+    
+    {\displaystyle a(t)}
+  , les trois grandeurs étant des grandeurs vectorielles. Comme nous l'avons vu précédemment, le passage d'une grandeur à l'autre se fait par dérivation ou bien résolution d'une équation différentielle (ou, dans les cas simples, intégration). Ceci est le domaine de la cinématique.
+
+
+=== Mouvement rectiligne uniforme ===
+Si 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              0
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}={\vec {0}}}
+   alors 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          
+            
+              c
+              t
+              e
+            
+            →
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}={\overrightarrow {\mathrm {cte} }}}
+   et le mouvement du point matériel est rectiligne et uniforme dans (R).
+On peut simplifier l'étude en posant l'axe x comme étant l'axe du vecteur vitesse, si celui-ci est non nul.
+Le mouvement du point matériel est alors complètement décrit par la seule donnée de x(t), et l'on a les équations de mouvement :
+
+  
+    
+      
+        
+          
+            
+              
+                a
+                (
+                t
+                )
+                =
+                0
+              
+            
+            
+              
+                v
+                (
+                t
+                )
+                =
+                
+                  v
+                  
+                    0
+                  
+                
+                
+                (
+                
+                  
+                    constante
+                  
+                
+                )
+              
+            
+            
+              
+                x
+                (
+                t
+                )
+                =
+                
+                  x
+                  
+                    0
+                  
+                
+                +
+                
+                  v
+                  
+                    0
+                  
+                
+                ×
+                t
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}a(t)=0\\v(t)=v_{0}\quad ({\textrm {constante}})\\x(t)=x_{0}+v_{0}\times t\end{aligned}}}
+  où x0 est l'abscisse initiale : x0=x(t=0). Notons que si 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          
+            
+              0
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}={\vec {0}}}
+  , alors le point est immobile dans le référentiel.
+
+
+=== Mouvement uniformément accéléré ===
+Si la direction et la valeur de 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+   sont constantes, le mouvement est dit uniformément accéléré. On note
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}(t)={\vec {a}}_{0}}
+   (constante).
+
+
+==== Mouvement rectiligne uniformément accéléré ====
+
+Si 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+   et 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+   sont colinéaires, alors le mouvement est rectiligne (MRUA : mouvement rectiligne uniformément accéléré). On peut simplifier l'étude en posant l'axe x comme étant l'axe commun de l'accélération et du vecteur vitesse. Le mouvement du point matériel est alors complètement décrit par la seule donnée de x(t), et l'on peut exprimer l'accélération comme étant un scalaire :
+
+  
+    
+      
+        a
+        =
+        
+          
+            
+              x
+              ¨
+            
+          
+        
+        .
+      
+    
+    {\displaystyle a={\ddot {x}}.}
+  On établit que
+
+  
+    
+      
+        
+          
+            
+              
+                a
+                (
+                t
+                )
+                =
+                
+                  a
+                  
+                    0
+                  
+                
+              
+            
+            
+              
+                v
+                (
+                t
+                )
+                =
+                
+                  v
+                  
+                    0
+                  
+                
+                +
+                
+                  a
+                  
+                    0
+                  
+                
+                ×
+                t
+              
+            
+            
+              
+                x
+                (
+                t
+                )
+                =
+                
+                  x
+                  
+                    0
+                  
+                
+                +
+                
+                  v
+                  
+                    0
+                  
+                
+                ×
+                t
+                +
+                
+                  
+                    1
+                    2
+                  
+                
+                
+                  a
+                  
+                    0
+                  
+                
+                ×
+                
+                  t
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}a(t)=a_{0}\\v(t)=v_{0}+a_{0}\times t\\x(t)=x_{0}+v_{0}\times t+{\frac {1}{2}}a_{0}\times t^{2}\end{aligned}}}
+  où
+
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x_{0}}
+   est l'abscisse initiale : 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+        =
+        x
+        (
+        t
+        =
+        0
+        )
+      
+    
+    {\displaystyle x_{0}=x(t=0)}
+   ;
+
+  
+    
+      
+        
+          v
+          
+            0
+          
+        
+      
+    
+    {\displaystyle v_{0}}
+   est la vitesse initiale : 
+  
+    
+      
+        
+          v
+          
+            0
+          
+        
+        =
+        v
+        (
+        t
+        =
+        0
+        )
+      
+    
+    {\displaystyle v_{0}=v(t=0)}
+  .
+De ceci, on peut également déduire la formule suivante :
+
+  
+    
+      
+        x
+        =
+        
+          x
+          
+            0
+          
+        
+        +
+        
+          
+            
+              
+                v
+                
+                  2
+                
+              
+              −
+              
+                v
+                
+                  0
+                
+                
+                  2
+                
+              
+            
+            
+              2
+              a
+            
+          
+        
+      
+    
+    {\displaystyle x=x_{0}+{\frac {v^{2}-v_{0}^{2}}{2a}}}
+  
+Par exemple, afin de déterminer la hauteur d'un pont, on lâche une pierre depuis le haut du pont. Si celle-ci met 
+  
+    
+      
+        Δ
+        t
+        =
+        2
+        
+          ,
+        
+        5
+        s
+      
+    
+    {\displaystyle \Delta t=2{,}5s}
+   secondes pour atteindre le sol, quelle est la hauteur du pont ?
+Sachant que l'accélération vaut 
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+        =
+        g
+        =
+        9
+        
+          ,
+        
+        81
+        m
+        .
+        
+          s
+          
+            −
+            2
+          
+        
+      
+    
+    {\displaystyle a_{0}=g=9{,}81m.s^{-2}}
+   et 
+  
+    
+      
+        
+          v
+          
+            0
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle v_{0}=0}
+   (lâcher sans vitesse initiale), la réponse est :
+
+  
+    
+      
+        h
+        =
+        x
+        (
+        Δ
+        t
+        )
+        =
+        
+          
+            1
+            2
+          
+        
+        g
+        (
+        Δ
+        t
+        
+          )
+          
+            2
+          
+        
+        =
+        30
+        ,
+        7
+        
+        m
+      
+    
+    {\displaystyle h=x(\Delta t)={\frac {1}{2}}g(\Delta t)^{2}=30,7\,m}
+  .On a choisi arbitrairement 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle x_{0}=0}
+  .
+Autre exemple : une voiture a un mouvement rectiligne uniformément accéléré, l'accélération valant 5,6 m/s2. Quelle distance a-t-elle parcouru lorsqu'elle atteint la vitesse de 100 km/h, départ arrêté ?
+On a :
+
+  
+    
+      
+        
+          v
+          
+            0
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle v_{0}=0}
+   (départ arrêté) ;
+
+  
+    
+      
+        v
+        =
+        100
+         
+        k
+        m
+        .
+        
+          h
+          
+            −
+            1
+          
+        
+        =
+        27
+        
+          ,
+        
+        8
+         
+        m
+        .
+        
+          s
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle v=100\ km.h^{-1}=27{,}8\ m.s^{-1}}
+  ;donc, la distance 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   parcourue vaut :
+
+  
+    
+      
+        d
+        =
+        x
+        −
+        
+          x
+          
+            0
+          
+        
+        =
+        
+          
+            
+              
+                v
+                
+                  2
+                
+              
+              −
+              
+                v
+                
+                  0
+                
+                
+                  2
+                
+              
+            
+            
+              2
+              a
+            
+          
+        
+        =
+        
+          
+            
+              27
+              ,
+              
+                8
+                
+                  2
+                
+              
+            
+            
+              2
+              ×
+              5
+              ,
+              6
+            
+          
+        
+        =
+        69
+         
+        
+          m
+        
+      
+    
+    {\displaystyle d=x-x_{0}={\frac {v^{2}-v_{0}^{2}}{2a}}={\frac {27,8^{2}}{2\times 5,6}}=69\ \mathrm {m} }
+  .
+
+
+==== Chute libre ====
+Dans le cas le plus général, la trajectoire d'un point matériel en mouvement uniformément accéléré est plane et correspond à un arc de parabole.
+Le cas typique est celui de la chute libre d'un corps dans le champ de pesanteur, lorsque l'on néglige le frottement de l'air. Il est important de souligner que la constance de 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+   ne préjuge en rien de la forme de la trajectoire, qui dépend en fait des conditions initiales.
+
+Si nous considérons que :
+
+l'accélération a0 est orientée selon l'axe des z
+le vecteur vitesse initial v0 fait un angle α avec l'axe des x
+les coordonnées initiales du point sont (x0 ; y0 ; z0)alors les lois de mouvement sont (voir la démonstration sur l'article Trajectoire parabolique) :
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  
+                    a
+                    
+                      x
+                    
+                  
+                  =
+                  0
+                
+              
+              
+                
+                  
+                    a
+                    
+                      y
+                    
+                  
+                  =
+                  0
+                
+              
+              
+                
+                  
+                    a
+                    
+                      z
+                    
+                  
+                  =
+                  −
+                  
+                    a
+                    
+                      0
+                    
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}a_{x}=0\\a_{y}=0\\a_{z}=-a_{0}\end{cases}}}
+  
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  
+                    v
+                    
+                      x
+                    
+                  
+                  =
+                  
+                    v
+                    
+                      0
+                    
+                  
+                  ⋅
+                  cos
+                  ⁡
+                  α
+                
+              
+              
+                
+                  
+                    v
+                    
+                      y
+                    
+                  
+                  =
+                  0
+                
+              
+              
+                
+                  
+                    v
+                    
+                      z
+                    
+                  
+                  =
+                  
+                    v
+                    
+                      0
+                    
+                  
+                  ⋅
+                  sin
+                  ⁡
+                  α
+                  −
+                  
+                    a
+                    
+                      0
+                    
+                  
+                  t
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}v_{x}=v_{0}\cdot \cos \alpha \\v_{y}=0\\v_{z}=v_{0}\cdot \sin \alpha -a_{0}t\end{cases}}}
+  
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  x
+                  =
+                  
+                    x
+                    
+                      0
+                    
+                  
+                  +
+                  (
+                  
+                    v
+                    
+                      0
+                    
+                  
+                  ⋅
+                  cos
+                  ⁡
+                  α
+                  )
+                  t
+                
+              
+              
+                
+                  y
+                  =
+                  
+                    y
+                    
+                      0
+                    
+                  
+                
+              
+              
+                
+                  z
+                  =
+                  
+                    z
+                    
+                      0
+                    
+                  
+                  +
+                  (
+                  
+                    v
+                    
+                      0
+                    
+                  
+                  ⋅
+                  sin
+                  ⁡
+                  α
+                  )
+                  t
+                  −
+                  
+                    
+                      1
+                      2
+                    
+                  
+                  
+                    a
+                    
+                      0
+                    
+                  
+                  
+                    t
+                    
+                      2
+                    
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}x=x_{0}+(v_{0}\cdot \cos \alpha )t\\y=y_{0}\\z=z_{0}+(v_{0}\cdot \sin \alpha )t-{\frac {1}{2}}a_{0}t^{2}\end{cases}}}
+  Pour une vitesse initiale 
+  
+    
+      
+        
+          v
+          
+            0
+          
+        
+      
+    
+    {\displaystyle v_{0}}
+   non nulle, un angle α ≠ π/2 + kπ et des coordonnées initiales à l'origine (x0 = y0 = z0 = 0), on en déduit que :
+
+  
+    
+      
+        z
+        =
+        −
+        
+          
+            
+              a
+              
+                0
+              
+            
+            
+              2
+              
+                v
+                
+                  0
+                
+                
+                  2
+                
+              
+              
+                cos
+                
+                  2
+                
+              
+              ⁡
+              α
+            
+          
+        
+        
+          x
+          
+            2
+          
+        
+        +
+        (
+        tan
+        ⁡
+        α
+        )
+        x
+      
+    
+    {\displaystyle z=-{\frac {a_{0}}{2v_{0}^{2}\cos ^{2}\alpha }}x^{2}+(\tan \alpha )x}
+  qui est l'équation d'une parabole. Si 
+  
+    
+      
+        
+          v
+          
+            0
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle v_{0}=0}
+   ou si  α = π/2 + kπ, on se retrouve dans le cas précédent du MRUA d'axe z.
+
+
+=== Mouvement à accélération centrale ===
+Lorsque la droite portant le vecteur accélération passe toujours par un même point, on parle de mouvement à accélération centrale. Un cas particulier important de ce type de mouvement, où la force causant l'accélération est de type newtonien, est donné par le mouvement képlérien, qui décrit le mouvement des planètes autour du Soleil.
+Un cas particulier simple est celui du mouvement circulaire uniforme : le point matériel est soumis à une accélération centripète valant (voir la section Expression dans un repère de Frenet ci-dessus) :
+
+  
+    
+      
+        
+          a
+          
+            
+              N
+            
+          
+        
+        =
+        
+          
+            
+              v
+              
+                2
+              
+            
+            
+              R
+            
+          
+        
+        =
+        
+          R
+        
+        
+          ω
+          
+            2
+          
+        
+      
+    
+    {\displaystyle a_{\mathrm {N} }={\frac {v^{2}}{\mathrm {R} }}=\mathrm {R} \omega ^{2}}
+  où R est le rayon de la trajectoire et ω est la vitesse angulaire.
+Par exemple, une voiture roulant à une vitesse uniforme de 30 km/h (8,33 m/s) sur un rond-point de diamètre de 30 m (R = 15 m) subit une accélération valant
+
+aN = 8,332/15 = 4,63 m/s2 = 0,43 g.
+
+
+== Changement de référentiel ==
+Le vecteur accélération dépend du référentiel choisi pour l'étude du mouvement. Le mouvement par rapport à un référentiel donné (R), il est possible de déterminer sa nature par rapport à un autre référentiel (R'), en mouvement par rapport à (R), et donc la relation entre le vecteur accélération d'un point matériel M par rapport à (R), noté 
+  
+    
+      
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            M
+            
+              /
+            
+            (
+            R
+            )
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}_{M/(R)}}
+  , et celui du même point par rapport à (R'), noté 
+  
+    
+      
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            M
+            
+              /
+            
+            (
+            R
+            )
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}_{M/(R)}}
+  .
+Cette relation est parfois nommée la loi de composition des accélérations, et il est possible de montrer qu'elle se met sous la forme suivante:
+
+avec:
+
+  
+    
+      
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            e
+          
+        
+        =
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            
+              O
+              ′
+            
+            
+              /
+            
+            R
+          
+        
+        +
+        
+          
+            
+              
+                ω
+                →
+              
+            
+          
+          
+            
+              R
+              ′
+            
+            
+              /
+            
+            R
+          
+        
+        ∧
+        
+          (
+          
+            
+              
+                
+                  
+                    ω
+                    →
+                  
+                
+              
+              
+                
+                  R
+                  ′
+                
+                
+                  /
+                
+                R
+              
+            
+            ∧
+            
+              
+                
+                  
+                    r
+                    ′
+                  
+                  →
+                
+              
+            
+          
+          )
+        
+        +
+        
+          
+            
+              d
+              
+                
+                  
+                    
+                      ω
+                      →
+                    
+                  
+                
+                
+                  
+                    R
+                    ′
+                  
+                  
+                    /
+                  
+                  R
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        ∧
+        
+          
+            
+              
+                r
+                ′
+              
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}_{e}={\vec {a}}_{O'/R}+{\vec {\omega }}_{R'/R}\wedge \left({\vec {\omega }}_{R'/R}\wedge {\vec {r'}}\right)+{\frac {d{\vec {\omega }}_{R'/R}}{dt}}\wedge {\vec {r'}}}
+  , accélération d'entraînement, et
+
+  
+    
+      
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            c
+          
+        
+        =
+        2
+        
+          
+            
+              
+                ω
+                →
+              
+            
+          
+          
+            
+              R
+              ′
+            
+            
+              /
+            
+            R
+          
+        
+        ∧
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            M
+            
+              /
+            
+            
+              R
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}_{c}=2{\vec {\omega }}_{R'/R}\wedge {\vec {v}}_{M/R'}}
+  , accélération de Coriolis ou accélération complémentaire,
+  
+    
+      
+        
+          
+            
+              
+                ω
+                →
+              
+            
+          
+          
+            
+              R
+              ′
+            
+            
+              /
+            
+            R
+          
+        
+      
+    
+    {\displaystyle {\vec {\omega }}_{R'/R}}
+   étant le vecteur rotation instantané du référentiel (R') par rapport au référentiel (R), et 
+  
+    
+      
+        
+          
+            
+              
+                r
+                →
+              
+            
+          
+          ′
+        
+      
+    
+    {\displaystyle {\vec {r}}'}
+   le vecteur position du point M dans le repère d'origine O' associé au référentiel (R').
+
+Le référentiel terrestre étant non galiléen, l'accélération de Coriolis joue un rôle important dans l'interprétation de beaucoup de phénomènes à la surface de la Terre. Par exemple le mouvement des masses d'air et des cyclones, la déviation de la trajectoire des projectiles à grande portée, le changement du plan de mouvement d'un pendule tel que montré par Foucault dans son expérience de 1851 au Panthéon de Paris, ainsi que la légère déviation vers l'est lors de la chute libre.
+
+
+== Causes de l'accélération ==
+L'étude des causes de l'accélération s'appelle la dynamique.
+L'accélération étant une variation du vecteur vitesse par rapport à un référentiel (R) au cours du temps, les causes de l'accélération sont les phénomènes faisant varier le vecteur vitesse. Ces phénomènes sont appelés des forces, et sont définies, en mécanique newtonienne, par le principe fondamental de la dynamique (2e loi de Newton) :
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            1
+            m
+          
+        
+        
+          
+            
+              
+                F
+              
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}={\frac {1}{m}}{\vec {\mathrm {F} }}}
+  où m est la masse du corps.
+Il faut distinguer deux types de forces :
+
+les interactions : force électromagnétique, pression, gravitation ; ces phénomènes rompent le principe d'inertie (1re loi de Newton) lorsque le référentiel est galiléen ;
+les effets d'inertie lorsque le référentiel n'est pas galiléen : force d'entraînement et force de Coriolis.Les forces d'inertie sont simplement un artefact de calcul provenant des lois de composition des mouvements.
+
+
+== Conséquences de l'accélération ==
+
+L'accélération, en tant que vecteur, n'est qu'un descriptif du mouvement. L'accélération, en tant que phénomène, est simplement un état dynamique (état dans lequel le vecteur vitesse varie). D'un point de vue causal, on ne peut donc pas à proprement parler de conséquences de l'accélération, mais plutôt de conséquences des interactions provoquant cet état accéléré.
+Considérons le cas d'un solide suivant un mouvement de translation linéique uniformément accélérée, sous l'effet d'une action de contact ou sous l'effet d'une action volumique, à l'équilibre (l'accélération est la même pour toutes les parties). Prenons un modèle simple de solide déformable : il est composé de deux solides indéformables de masse respective m1 et m2, reliées par un ressort de masse négligeable.
+Dans le cas d'une action de contact, le solide est poussé par une force 
+  
+    
+      
+        
+          
+            
+              
+                F
+              
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\mathrm {F} }}}
+  , ce qui crée une accélération 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+   d'intensité F/(m1 + m2) (figure du haut). Si l'on isole le solide 2 (figure du milieu), il a également une accélération d'intensité a ; cela signifie qu'il subit de la part du ressort une force d'intensité F2 = m2a, soit
+
+  
+    
+      
+        
+          
+            F
+          
+          
+            2
+          
+        
+        =
+        
+          
+            
+              m
+              
+                2
+              
+            
+            
+              
+                m
+                
+                  1
+                
+              
+              +
+              
+                m
+                
+                  2
+                
+              
+            
+          
+        
+        
+          F
+        
+      
+    
+    {\displaystyle \mathrm {F} _{2}={\frac {m_{2}}{m_{1}+m_{2}}}\mathrm {F} }
+  .Isolons le ressort (figure du bas) ; il subit une force 
+  
+    
+      
+        −
+        
+          
+            
+              
+                
+                  F
+                
+                →
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle -{\vec {\mathrm {F} }}_{2}}
+   de la part du solide 2 (principe des actions réciproques). Sa masse étant négligeable, la résultante des forces qui s'exercent sur lui est nulle, il est donc en compression sous l'effet d'un couple de forces 
+  
+    
+      
+        (
+        
+          
+            
+              
+                
+                  F
+                
+                →
+              
+            
+          
+          
+            2
+          
+        
+        ,
+        −
+        
+          
+            
+              
+                
+                  F
+                
+                →
+              
+            
+          
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle ({\vec {\mathrm {F} }}_{2},-{\vec {\mathrm {F} }}_{2})}
+  .
+Cette accélération produit donc, par effet d'inertie, une déformation du solide, ici une compression. Si à l'inverse 
+  
+    
+      
+        
+          
+            
+              
+                F
+              
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\mathrm {F} }}}
+   était une force de traction s'exerçant sur le solide 2, le ressort serait en traction.
+Si l'on se place dans un modèle de solide continu, défini par une fonction de masse volumique ρ(M) sur un domaine spatial Σ. L'accélération au point M vaut 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        (
+        
+          M
+        
+        )
+      
+    
+    {\displaystyle {\vec {a}}(\mathrm {M} )}
+   ; soit un petit volume dV autour de M, ce volume est donc soumis à des forces dont la résultante vaut
+
+  
+    
+      
+        
+          d
+        
+        
+          
+            
+              
+                F
+              
+              →
+            
+          
+        
+        =
+        ρ
+        (
+        
+          M
+        
+        )
+        ⋅
+        
+          d
+          V
+        
+        ⋅
+        
+          
+            
+              a
+              →
+            
+          
+        
+        (
+        
+          M
+        
+        )
+      
+    
+    {\displaystyle \mathrm {d} {\vec {\mathrm {F} }}=\rho (\mathrm {M} )\cdot \mathrm {dV} \cdot {\vec {a}}(\mathrm {M} )}
+  .Si le champ d'accélération est uniforme, on retrouve une forme similaire à l'action du poids. Cela explique qu'une accélération est ressentie de la même manière que la gravité.
+L'étude de cette déformation et de ses conséquences est similaire à la statique.
+
+Considérons maintenant que ce solide est accéléré par une action volumique. L'ensemble est soumis à une force globale 
+  
+    
+      
+        
+          
+            
+              
+                F
+              
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\mathrm {F} }}}
+  , et chaque partie est soumise à une force volumique propre 
+  
+    
+      
+        
+          
+            
+              
+                
+                  F
+                
+                →
+              
+            
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle {\vec {\mathrm {F} }}_{1}}
+   et 
+  
+    
+      
+        
+          
+            
+              
+                
+                  F
+                
+                →
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\vec {\mathrm {F} }}_{2}}
+  . Supposons que la force soit proportionnelle à la masse, ce qui est par exemple le cas du poids. Si l'on isole l'ensemble {solide 1, ressort, solide 2}, il est soumis à la seule force volumique :
+
+  
+    
+      
+        
+          
+            
+              
+                F
+              
+              →
+            
+          
+        
+        =
+        (
+        
+          m
+          
+            1
+          
+        
+        +
+        
+          m
+          
+            2
+          
+        
+        )
+        
+          
+            
+              g
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\mathrm {F} }}=(m_{1}+m_{2}){\vec {g}}}
+  
+PFD : 
+  
+    
+      
+        
+          
+            
+              
+                F
+              
+              →
+            
+          
+        
+        =
+        (
+        
+          m
+          
+            1
+          
+        
+        +
+        
+          m
+          
+            2
+          
+        
+        )
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ⟹
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              g
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\mathrm {F} }}=(m_{1}+m_{2}){\vec {a}}\Longrightarrow {\vec {a}}={\vec {g}}}
+  (résultat classique de la chute libre sans résistance de l'air). Si maintenant on isole le solide 2 seul, il est soumis à l'action de sa force volumique propre, 
+  
+    
+      
+        
+          
+            
+              
+                
+                  F
+                
+                →
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\vec {\mathrm {F} }}_{2}}
+  , et à l'action du ressort, 
+  
+    
+      
+        
+          
+            
+              
+                
+                  F
+                
+                →
+              
+            
+          
+          
+            
+              r
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\mathrm {F} }}_{\mathrm {r} }}
+  , on a :
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  F
+                
+                →
+              
+            
+          
+          
+            2
+          
+        
+        =
+        
+          m
+          
+            2
+          
+        
+        
+          
+            
+              g
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\mathrm {F} }}_{2}=m_{2}{\vec {g}}}
+  
+PFD : 
+  
+    
+      
+        
+          
+            
+              
+                
+                  F
+                
+                →
+              
+            
+          
+          
+            2
+          
+        
+        +
+        
+          
+            
+              
+                
+                  F
+                
+                →
+              
+            
+          
+          
+            
+              r
+            
+          
+        
+        =
+        
+          m
+          
+            2
+          
+        
+        
+          
+            
+              a
+              →
+            
+          
+        
+        
+           et 
+        
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              g
+              →
+            
+          
+        
+        ⟹
+        
+          
+            
+              
+                
+                  F
+                
+                →
+              
+            
+          
+          
+            
+              r
+            
+          
+        
+        =
+        
+          
+            
+              0
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\mathrm {F} }}_{2}+{\vec {\mathrm {F} }}_{\mathrm {r} }=m_{2}{\vec {a}}{\text{ et }}{\vec {a}}={\vec {g}}\Longrightarrow {\vec {\mathrm {F} }}_{\mathrm {r} }={\vec {0}}}
+  .Donc, le ressort n'est pas comprimé ni étiré, le solide n'est pas déformé.
+Si la force volumique n'est pas proportionnelle à la masse (cas d'une force électromagnétique par exemple), il va y avoir une déformation.
+
+
+== Détermination de l'accélération en mécanique ==
+Comme énoncé plus haut, l'accélération est une grandeur cinématique, c'est-à-dire qu'elle décrit le mouvement. On a deux situations :
+
+soit on connaît le mouvement, par exemple, on a un enregistrement de ce mouvement (film, relevé de position en fonction du temps), ou bien on veut imposer un déplacement précis (simulation d'un événement, conception d'une machine) ; on détermine alors l'accélération par dérivations successives du vecteur position ;
+soit on veut déterminer le mouvement à partir des efforts auxquels est soumis le corps ; on utilise pour cela les lois de Newton, c'est le domaine de la dynamique.L'accélération peut enfin être mesurée par des accéléromètres.
+
+
+=== Accélération et pesanteur ===
+
+Au voisinage de la Terre, tout corps doté d'une masse subit dans le référentiel terrestre une force appelée poids. Pour l'essentiel, celle-ci correspond à la force de gravitation exercée par la Terre sur le corps, ce qui fait que le poids et la force de gravitation sont souvent confondus. À ceci s'ajoutent deux effets, celui de la rotation de la Terre sur elle-même, dépendant donc de la latitude du lieu, et dans une bien moindre mesure celui de l'influence des forces de gravitation exercées par les autres astres (termes de marée). Cette notion se généralise sans difficulté à un astre quelconque, au voisinage de celui-ci et dans un référentiel qui lui est lié.
+Le poids s'exprime sous la forme du produit de la masse du corps par une accélération 
+  
+    
+      
+        
+          
+            
+              g
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {g}}}
+  , appelée pesanteur, soit
+
+  
+    
+      
+        
+          
+            
+              
+                P
+              
+              →
+            
+          
+        
+        =
+        m
+        
+          
+            
+              g
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\mathrm {P} }}=m{\vec {g}}}
+  .La valeur de 
+  
+    
+      
+        
+          
+            
+              g
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {g}}}
+   dépend du lieu considéré : la pesanteur constitue donc un champ d'accélération, qui peut être considéré comme uniforme au voisinage d'un lieu donné, pour de faibles variations d'altitude.
+La direction de 
+  
+    
+      
+        
+          
+            
+              g
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {g}}}
+   en un lieu donné de la surface de la Terre correspond par définition à la verticale de ce lieu. Cette propriété est utilisée par le fil à plomb. Le sens de 
+  
+    
+      
+        
+          
+            
+              g
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {g}}}
+   est par définition, le bas. À la surface de la Terre la valeur de moyenne de g est :
+
+g = 9,806 65 m/s2Dans le cas d'une masse qui n'est soumise qu'à cette seule force, lors du mouvement qui par définition est appelé la chute libre, et du fait de l'identité de la masse grave et de la masse inerte, tous les corps en chute libre, quelles que soient leurs masses, subissent (en un lieu donné) la même accélération. Par suite, si deux corps de masses différentes, par exemple une plume et une masselotte de plomb, sont lâchés au même moment de la même hauteur, ils arriveront à terre au même moment, à condition de s'abstraire de la résistance de l'air. En pratique cette expérience devra être faite dans un tube où le vide a été fait, ou sur un astre pratiquement dépourvu d'atmosphère comme la Lune.
+Par suite, et bien qu'en toute rigueur la pesanteur en tant que champ d'accélération corresponde à une notion cinématique, elle possède un lien direct avec la notion dynamique de poids, et tout se passe « comme si » un corps laissé « libre » dans ce champ de pesanteur « acquiert » l'accélération 
+  
+    
+      
+        
+          
+            
+              g
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {g}}}
+  .
+À partir du constat que masse grave et masse inerte ne peuvent être distinguées fonctionnellement, la relativité générale postule, sous le nom de principe d'équivalence, que la force de gravitation ne se distingue pas localement (c'est-à-dire si l'on considère uniquement un point) d'une accélération. Il est important sur le plan conceptuel de connaître cette équivalence, beaucoup de physiciens utilisant pour cette raison, en abrégé, le terme accélération pour désigner indifféremment une modification de vitesse ou la présence dans un champ de gravité, même en l'absence apparente (dans l'espace 3D) de mouvement.
+
+
+== Variations d'accélération ==
+
+Tout comme le vecteur accélération est la dérivée du vecteur vitesse par rapport au temps, on peut définir la dérivée de l'accélération par rapport au temps. Il s'agit du vecteur d'à-coup, parfois désigné sous le terme anglais de jerk, qui permet ainsi de quantifier les variations d'accélération et qui est utilisé dans un certain nombre de domaines.
+L'à-coup en jerks est donc la dérivée seconde de la vitesse et dérivée troisième de la distance parcourue.
+
+
+== Exemples d'accélérations ==
+Ceux-ci sont décrits notamment sur l'article décrivant l'accélération de la pesanteur terrestre, de 9,81 m/s2, utilisée aussi en tant qu'unité de mesure d'accélération : 
+
+
+== Importance de l'accélération en génie mécanique ==
+Le génie mécanique consiste à concevoir et fabriquer des machines, c'est-à-dire des systèmes effectuant des mouvements. Une partie importante est le dimensionnement, c'est-à-dire le choix des actionneurs (vérins, moteurs) et des pièces supportant les efforts. Si les masses mises en mouvement et/ou les accélérations sont importantes, les effets dynamiques — les efforts nécessaires pour créer les accélérations, ou bien les efforts résultant des accélérations — ne sont pas négligeables. La détermination de l'accélération instantanée au cours d'un mouvement est donc capitale pour que les pièces résistent, et pour déterminer la consommation d'énergie du système.
+
+Dans de nombreux cas, le cahier de charges se résume à « amener un objet d'un point A à un point B en une durée t », la durée t étant parfois exprimée comme une cadence (effectuer le mouvement n fois par heure). La conception consiste à :
+
+Choisir une solution technologique pour guider le mouvement, soit dans les cas simples :
+translation rectiligne guidé par une liaison glissière ou équivalent (système rail/galet), le plus simple à imaginer, mais potentiellement soumis à de l'arc-boutement ;
+mouvement de translation circulaire (si l'objet doit garder la même orientation, typiquement avec un parallélogramme déformable) ou de rotation, simples à imaginer, et en général plus intéressants (les liaisons pivot sont en général moins chères et plus robustes que les liaisons glissières), mais avec une trajectoire plus grande (donc nécessite une vitesse plus importante, et plus d'espace libre) ;
+pseudo-translation rectiligne, par exemple avec parallélogramme de Watt, alliant l'avantage des deux (liaisons pivot robustes et économiques, trajectoire courte et compacte) ;
+trajectoire plus complexe, selon les besoins (guidage par rail ou came, bras robot).
+Choisir une solution technologique pour créer le mouvement (actionneur), le piloter (automatisme, came) et le transmettre (transmission).
+En fonction de la trajectoire (donc de la solution technologique de guidage), déterminer les lois de mouvement pour répondre au cahier des charges (durée de mouvement admissible) tout en ménageant les pièces (limitation des efforts donc de l'accélération) et la consommation d'énergie (limitation des accélérations et de la vitesse, voir les articles Travail d'une force et Frottement).
+En fonction des lois de mouvement, déterminer la puissance nécessaire, et les efforts auxquels sont soumises les pièces.
+Dimensionner le système : choisir les pièces dans les catalogues de fournisseur, ou bien les concevoir (choisir les matériaux, les dimensions, les dessiner).
+L'accélération joue donc un rôle capital :
+
+elle dérive du cahier des charges (déplacement et cadence) et du choix technologique adopté (trajectoire) ;
+elle détermine les efforts dynamiques, et donc :
+le choix des pièces, le dimensionnement,
+la consommation de la machine.
+
+
+== Accélération de la convergence en mathématiques ==
+
+Le terme est aussi utilisé en mathématiques, par exemple l'accélération de la convergence d'une suite (par des procédés comme le Delta-2 d'Aitken) signifie que l'écart entre la valeur des éléments de la suite et sa limite est plus petit que pour la suite initiale à un rang n donné.
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Références ===
+
+Cet article est partiellement ou en totalité issu de l'article intitulé « Accélération instantanée » (voir la liste des auteurs).
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+ : document utilisé comme source pour la rédaction de cet article.
+
+ Michel Combarnous, Didier Desjardins et Christophe Bacon, Mécanique des solides et des systèmes de solides, Dunod, coll. « Sciences sup », 2004, 3e éd. (ISBN 978-2-10-048501-7), p. 25, 35-37, 38-40, 99-103
+ Jean-Louis Fanchon, Guide de mécanique, Nathan, 2001 (ISBN 978-2-09-178965-1), p. 134-135, 143-145, 153-154, 166-168, 180-181, 193-194
+
+
+=== Articles connexes ===
+
+ Portail de la physique

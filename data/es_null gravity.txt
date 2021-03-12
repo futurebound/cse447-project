@@ -1,0 +1,685 @@
+La intensidad del campo gravitatorio, aceleración de la gravedad o, simplemente, gravedad, es la fuerza gravitatoria específica que actúa sobre un cuerpo en el campo gravitatorio de otro; esto es, como la fuerza gravitatoria por unidad de masa del cuerpo que la experimenta. Se representa como 
+  
+    
+      
+        
+          g
+        
+      
+    
+    {\displaystyle \mathbf {g} }
+   y se expresa en newton/kilogramo (N/kg) en el Sistema Internacional de Unidades.
+También podría interpretarse como la aceleración que sufriría un cuerpo en caída libre sobre otro. Esta interpretación parece más intuitiva y accesible en los cursos introductorios de Física; sin embargo no es correcta, a menos que consideremos un campo gravitatorio en abstracto (con lo que desaparece la intuición) o que el cuerpo tenga una masa despreciable en relación con la masa del que lo atrae, para poder despreciar la aceleración que adquiere este segundo cuerpo.
+
+
+== Introducción ==
+La gravedad sobre la superficie de un planeta típicamente esférico viene dada por:
+
+  
+    
+      
+        
+          
+            
+              
+                g
+                →
+              
+            
+          
+          
+            
+              s
+              u
+              p
+            
+          
+        
+        =
+        −
+        
+          
+            
+              G
+              M
+            
+            
+              R
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                u
+                
+                  r
+                
+              
+              →
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {\vec {g}} _{\rm {sup}}=-{\frac {GM}{R^{2}}}\mathbf {\vec {u_{r}}} }
+  
+
+donde G es la constante de gravitación universal, M es la masa del planeta, R es el radio del planeta y 
+  
+    
+      
+        
+          
+            
+              
+                u
+                →
+              
+            
+          
+          
+            r
+          
+        
+      
+    
+    {\displaystyle \mathbf {\vec {u}} _{r}}
+   es un vector unitario (es decir, de módulo 1) dirigido, en su sentido negativo, hacia el centro del planeta..
+Equivalentemente, puede definirse como el peso por unidad de masa de un objeto que se encuentra sobre la superficie del planeta:
+
+  
+    
+      
+        
+          g
+        
+        =
+        
+          
+            
+              P
+            
+            m
+          
+        
+      
+    
+    {\displaystyle \mathbf {g} ={\frac {\mathbf {P} }{m}}}
+  
+
+En el caso de la Tierra, a nivel de la superficie del mar su módulo vale:
+
+  
+    
+      
+        
+          g
+          
+            
+              s
+              u
+              p
+            
+          
+        
+        ≈
+        9
+        ,
+        80665
+         
+        
+          
+            
+              m
+            
+            
+              
+                
+                  s
+                
+              
+              
+                2
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle g_{\rm {sup}}\approx 9,80665\ {\frac {\mbox{m}}{{\mbox{s}}^{2}}}\,}
+  
+
+valor que se ha definido como el correspondiente a la gravedad estándar.
+El valor de la aceleración de la gravedad tiene su valor máximo en la superficie del planeta, disminuyendo de forma aproximadamente parabólica con la altura y de forma lineal con la profundidad:
+
+  
+    
+      
+        g
+        (
+        h
+        )
+        ≈
+        
+          
+            {
+            
+              
+                
+                  
+                    g
+                    
+                      
+                        s
+                        u
+                        p
+                      
+                    
+                  
+                  
+                    (
+                    
+                      1
+                      −
+                      
+                        
+                          
+                            2
+                            h
+                          
+                          R
+                        
+                      
+                      +
+                      
+                        
+                          
+                            3
+                            
+                              h
+                              
+                                2
+                              
+                            
+                          
+                          
+                            R
+                            
+                              2
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                
+                  h
+                  >
+                  0
+                
+              
+              
+                
+                  
+                    g
+                    
+                      
+                        s
+                        u
+                        p
+                      
+                    
+                  
+                
+                
+                  h
+                  =
+                  0
+                
+              
+              
+                
+                  
+                    g
+                    
+                      
+                        s
+                        u
+                        p
+                      
+                    
+                  
+                  
+                    (
+                    
+                      1
+                      +
+                      
+                        
+                          
+                            2
+                            h
+                          
+                          R
+                        
+                      
+                    
+                    )
+                  
+                
+                
+                  h
+                  <
+                  0
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle g(h)\approx {\begin{cases}g_{\rm {sup}}\left(1-{\frac {2h}{R}}+{\frac {3h^{2}}{R^{2}}}\right)&h>0\\g_{\rm {sup}}&h=0\\g_{\rm {sup}}\left(1+{\frac {2h}{R}}\right)&h<0\end{cases}}}
+  
+
+La aceleración de la gravedad en la Tierra varía según la altura. En la superficie está definida por 9,80665 m/s2.
+
+
+== Tabla comparativa de la aceleración de la gravedad ==
+
+La lista adjunta muestra los valores relativos de la aceleración de la gravedad en el Sol, en la superficie de cada planeta del Sistema Solar y en la superficie de la Luna, tomando como unidad el valor de la gravedad estándar en superficie de la Tierra y en valor absoluto, expresada en m/s2, con dos dígitos decimales de aproximación. Así, para la Tierra la aceleración de la gravedad es 9,81 metros sobre segundo al cuadrado.
+
+
+== Campo gravitatorio terrestre ==
+La fuerza de gravedad en la superficie de la Tierra no es exactamente igual en todos los sitios. Existen pequeñas variaciones de un lugar a otro. Hay varios factores que intervienen para que así ocurra:
+
+
+=== Latitud ===
+Debido a la rotación de la Tierra, los cuerpos experimentan una fuerza centrífuga que varía según la latitud: es nula en los polos y máxima en el ecuador. Esta fuerza centrífuga hace disminuir el efecto de la atracción gravitatoria, y la desvía de su dirección original hacia el centro de la Tierra. A nivel del mar, la siguiente fórmula nos da el valor de g a una latitud 
+  
+    
+      
+         
+        ϕ
+      
+    
+    {\displaystyle \ \phi }
+  :
+
+  
+    
+      
+        
+          g
+          
+            ϕ
+          
+        
+        =
+        9.780327
+        
+          (
+          
+            1
+            +
+            0.0053024
+            
+              sin
+              
+                2
+              
+            
+            ⁡
+            ϕ
+            −
+            0.0000058
+            
+              sin
+              
+                2
+              
+            
+            ⁡
+            2
+            ϕ
+          
+          )
+        
+         
+        
+          
+            m
+            
+              /
+            
+            s
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle g_{\phi }=9.780327\left(1+0.0053024\sin ^{2}\phi -0.0000058\sin ^{2}2\phi \right)\ \mathrm {m/s} ^{2}}
+  
+
+donde
+
+  
+    
+      
+         
+        
+          g
+          
+            ϕ
+          
+        
+      
+    
+    {\displaystyle \ g_{\phi }}
+   = aceleración de la gravedad en m·s-2 en la latitud :
+  
+    
+      
+         
+        ϕ
+      
+    
+    {\displaystyle \ \phi }
+  .
+
+
+=== La forma de la Tierra ===
+
+Además, el campo gravitatorio aumenta con la latitud debido a otro efecto: el achatamiento de la Tierra en los polos (también como consecuencia de la fuerza centrífuga) hace que la distancia r se reduzca a medida que la latitud aumenta. La fuerza de atracción es inversamente proporcional al cuadrado de la distancia, lo cual significa que estando en el ecuador la fuerza de gravedad es menor que en otras latitudes, y a medida que nos vayamos desplazando al sur o al norte, la fuerza de gravedad se va incrementando. Entre los dos efectos, la fuerza centrífuga y el achatamiento de los polos, hacen que la gravedad en el ecuador sea un 0,5 % menor que en los polos.
+Estos dos factores influyen además en la dirección de la gravedad. La atracción gravitatoria no está dirigida al centro de la Tierra, sino perpendicular a la superficie del geoide, lo que representa una pequeña desviación hacia el polo del hemisferio opuesto. Aproximadamente la mitad de esa desviación se debe a la fuerza centrífuga, y la otra mitad a la masa adicional alrededor del ecuador, que provoca un cambio en la dirección de la fuerza de la gravedad con respecto a lo que sería su dirección en una Tierra perfectamente esférica.
+A efectos de los cálculos del campo gravitatorio de la Tierra, generalmente se considera que su forma es una esfera de densidad uniforme. La forma de la superficie de la Tierra es en realidad más próxima a un esferoide oblato, que además no tiene una densidad uniforme, por lo que su campo gravitatorio no es un campo central exacto, y esto se refleja en un momento cuadripolar no nulo. El efecto del momento cuadripolar por ejemplo es importante en el diseño de satélites artificiales.
+Los valores de 
+  
+    
+      
+        
+          |
+        
+        
+          g
+        
+        
+          |
+        
+      
+    
+    {\displaystyle |\mathbf {g} |}
+   (la fuerza específica de la gravedad) en el ecuador y en los polos son respectivamente:[1]​
+
+  
+    
+      
+        
+          |
+        
+        
+          
+            g
+          
+          
+            e
+            c
+          
+        
+        
+          |
+        
+        =
+        9
+        ,
+        78
+         
+        
+          
+            
+              m
+            
+            
+              
+                
+                  s
+                
+              
+              
+                2
+              
+            
+          
+        
+        
+        
+          |
+        
+        
+          
+            g
+          
+          
+            p
+            o
+          
+        
+        
+          |
+        
+        =
+        9
+        ,
+        8322
+         
+        
+          
+            
+              m
+            
+            
+              
+                
+                  s
+                
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle |\mathbf {g} _{ec}|=9,78\ {\frac {\mbox{m}}{{\mbox{s}}^{2}}}\qquad |\mathbf {g} _{po}|=9,8322\ {\frac {\mbox{m}}{{\mbox{s}}^{2}}}}
+  
+
+
+=== Altura ===
+
+La aceleración de la gravedad disminuye con la altura, ya que a mayor altura, es mayor la distancia al centro de la Tierra. La variación de la gravedad con respecto a la altura está expresada en la siguiente fórmula:
+
+  
+    
+      
+        
+          g
+          
+            h
+          
+        
+        =
+        
+          g
+          
+            0
+          
+        
+        
+          
+            (
+            
+              
+                
+                  r
+                  
+                    e
+                  
+                
+                
+                  
+                    r
+                    
+                      e
+                    
+                  
+                  +
+                  h
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle g_{h}=g_{0}\left({\frac {r_{e}}{r_{e}+h}}\right)^{2}}
+  
+
+donde
+
+  
+    
+      
+        
+          g
+          
+            h
+          
+        
+        
+      
+    
+    {\displaystyle g_{h}\,}
+   es la aceleración de la gravedad a la altura 
+  
+    
+      
+        h
+        
+      
+    
+    {\displaystyle h\,}
+   con respecto al nivel del mar.
+
+  
+    
+      
+        
+          r
+          
+            e
+          
+        
+        
+      
+    
+    {\displaystyle r_{e}\,}
+   es el radio medio de la Tierra (6.371.000 m).
+
+  
+    
+      
+        
+          g
+          
+            0
+          
+        
+        
+      
+    
+    {\displaystyle g_{0}\,}
+   es la aceleración de la gravedad al nivel del mar.
+
+
+=== Profundidad ===
+La fuerza de la gravedad en el centro de una esfera homogénea es nula, ya que es suma de fuerzas que, por simetría, se cancelan las unas a las otras. Además, del teorema de Gauss se deduce que la fuerza de la gravedad en el interior de una esfera homogénea es proporcional a la distancia al centro. Por tanto si la Tierra fuese homogénea la aceleración de la gravedad a una distancia 
+  
+    
+      
+        r
+        
+      
+    
+    {\displaystyle r\,}
+   de su centro sería 
+  
+    
+      
+        (
+        r
+        
+          /
+        
+        
+          r
+          
+            e
+          
+        
+        )
+        
+          g
+          
+            0
+          
+        
+        ,
+      
+    
+    {\displaystyle (r/r_{e})g_{0},}
+  .
+Pero como la densidad de la Tierra no es constante, la aceleración de la gravedad toma su valor máximo, 10,7 m/s², en la superficie del núcleo de la Tierra, debido a la gran densidad del mismo.
+
+
+=== Topografía local y geología ===
+
+Las variaciones locales en topografía (como la presencia de montañas) y geología (como la densidad de las rocas en las inmediaciones) son las responsables de que existan pequeñas variaciones en un lugar sin que tenga que ver la latitud. A veces hay una pequeña variación en una zona que dista pocos kilómetros de otra. Estas variaciones se deben a que cerca de la superficie pueden existir rocas de densidad mayor a la normal (llamadas mascon), lo que produce que sea mayor la gravedad sobre esos lugares. Esas irregularidades fueron causantes de sorpresivos cambios de dirección en satélites artificiales, motivo por el cual se empezó a estudiar el fenómeno. Las variaciones mencionadas son tan pequeñas que sólo se las puede detectar con instrumentos de gran precisión.
+
+Además, las irregularidades de la superficie y ciertas homogeneidades continentales provocan pequeñas perturbaciones del campo a lo largo de la superficie.Esas pequeñas irregularidades respecto de los valores medios pueden utilizarse para estudiar la distribución de densidad en la corteza terrestre empleando técnicas de gravimetría).
+La gravedad ejercida sobre los objetos que están sobre la superficie tiende a disminuir al alejarse del planeta, por aumentar la distancia r entre las masas implicadas. Sin embargo, también disminuye al adentrarse en el interior de la Tierra, ya que cada vez una porción mayor de masa del planeta la rodea, contrarrestándose las fuerzas ejercidas en direcciones opuestas. En el centro de la Tierra la gravedad es nula porque se contrarrestan todas las fuerzas de atracción, aunque está sometido a una enorme presión por el peso de las capas superiores del planeta.
+
+
+== Véase también ==
+Campo gravitatorio
+Gravedad
+Jean Richer
+Ley de gravitación universal
+
+
+== Referencias ==
+
+
+=== Bibliografía ===
+Ortega, Manuel R. (1989-2006). Lecciones de Física (4 volúmenes). Monytex. ISBN 84-404-4290-4, ISBN 84-398-9218-7, ISBN 84-398-9219-5, ISBN 84-604-4445-7. 
+Resnick,Robert & Krane, Kenneth S. (2001). Physics (en inglés). Nueva York: John Wiley & Sons. ISBN 0-471-32057-9. 
+Serway, Raymond A.; Jewett, John W. (2004). Physics for Scientists and Engineers (en inglés) (6ª edición). Brooks/Cole. ISBN 0-534-40842-7. 
+Tipler, Paul A. (2000). Física para la ciencia y la tecnología (2 volúmenes). Barcelona: Ed. Reverté. ISBN 84-291-4382-3. 
+
+
+== Enlaces externos ==
+Aceleración de la gravedad en el interior y exterior de una distribución esférica y uniforme de masa

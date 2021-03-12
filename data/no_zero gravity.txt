@@ -1,0 +1,702 @@
+Newtons gravitasjonslov sier at enhver punktformig masse tiltrekkes av en annen, punktformig masse med en kraft som er proporsjonal med produktet av de to massene og omvendt proporsjonal med kvadratet av avstanden mellom dem. Kraften er rettet langs forbindelseslinjen mellom de to massepunktene.
+Loven ble publisert i 1687 av Isaac Newton i hans monumentale verk Philosophiae naturalis principia mathematica. Den er en av de grunnleggende naturlover i klassisk mekanikk og ga i første omgang en forklaring av planetenes bevegelser. Men den forbandt også et eples fall mot Jorden med Månens bevegelse om denne på samme måte som den ga en forklaring av tidevann og andre fenomen forbundet med tyngdekrefter. Den sies derfor å være Newtons lov for universell gravitasjon. I årene siden er den blitt eksperimentelt verifisert med stadig større nøyaktighet. Når små avvik etter hvert ble oppdaget, kunne disse forklares ved den Einsteins generelle relativitetsteori hvor Newtons gravitasjonslov passer naturlig inn for relativt langsomme bevegelser når gravitasjonskreftene er svake.
+For en punktformig masse m1 sier loven at den tiltrekkes av en annen punktformig masse m2 med en kraft som er rettet langs forbindelseslinjen mellom de to punktene og med en størrelse som er proporsjonal med produktet m1m2 og omvendt proporsjonal med kvadratet av avstanden r mellom dem. Dette er innholdet av Newtons lov for gravitasjonskraften som på matematisk form er
+
+  
+    
+      
+        F
+        =
+        G
+        
+          
+            
+              
+                m
+                
+                  1
+                
+              
+              
+                m
+                
+                  2
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle F=G{m_{1}m_{2} \over r^{2}}}
+  hvor G er gravitasjonskonstanten. Den var ikke kjent på Newtons tid og ble først bestemt i Cavendish-eksperimentet over hundre år senere.
+At gravitasjonskraften fra en punktpartikkel er omvendt proporsjonal med kvadratet av avstanden, har den viktige konsekvens at det samme gjelder for kraften fra en sfærisk symmetrisk massefordeling. Dette er innholdet av Newtons skallteorem og har mange viktige konsekvenser. Et viktig eksempel er kraften på et eple ved Jordens overflate. Den kan beregnes som om hele massen til Jorden er plassert i et punkt i dens sentrum.
+
+
+== Gravitasjonsfelt og potensial ==
+
+En sfærisk symmetrisk massefordeling M plassert i origo vil utøve en kraft på en punktmasse m i posisjon r utenfor denne, som kan skrives som
+
+  
+    
+      
+        
+          F
+        
+        =
+        −
+        G
+        
+          
+            
+              m
+              M
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+        
+          
+            e
+          
+          
+            r
+          
+        
+      
+    
+    {\displaystyle \mathbf {F} =-G{mM \over r^{2}}\mathbf {e} _{r}}
+  hvor er = r/r  er en enhetsvektor i samme retning som posisjonsvektoren r. Minustegnet indikerer at kraften virker motsatt denne retningen, det vil si at den er tiltrekkende. Bortsett fra dette, har Newtons lov for gravitasjonskraften samme form som Coulombs lov for elektriske krefter. Da den er proporsjonal med massen m den virker på, er det derfor naturlig å skrive den som
+
+  
+    
+      
+        
+          F
+        
+        =
+        m
+        
+          g
+        
+      
+    
+    {\displaystyle \mathbf {F} =m\mathbf {g} }
+  Den totale effekten av massen M kan på denne måten summeres opp i størrelsen
+
+  
+    
+      
+        
+          g
+        
+        =
+        −
+        
+          
+            
+              G
+              M
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+        
+          
+            e
+          
+          
+            r
+          
+        
+      
+    
+    {\displaystyle \mathbf {g} =-{GM \over r^{2}}\mathbf {e} _{r}}
+  som i analogi med det elektriske feltet fra en kuleformet ladning, kalles gravitasjonsfeltet skapt av den sfæriske ladningsfordelingen M. Det peker radielt innover utenfor en kulesymmetrisk masse.Ser man bort fra sentrifugalkraften,  er tyngdeakselerasjonen på overflaten til Jorden med radius R lik med styrken til gravitasjonsfeltet g = GM/R2. Setter man her inn verdiene for  gravitasjonskonstanten G, jordmassen M = 5.97×1024 kg og R = 6.37×103 km, finner man den målte verdien g =  9.82 m/s2.Basert på samme analogi med Coulombs lov er det naturlig å beregne gravitasjonsfeltet fra et tilsvarende gravitasjonspotensial
+
+  
+    
+      
+        Φ
+        (
+        
+          r
+        
+        )
+        =
+        −
+        
+          
+            
+              G
+              M
+            
+            r
+          
+        
+      
+    
+    {\displaystyle \Phi (\mathbf {r} )=-{GM \over r}}
+  slik at man kan skrive g = - ∇ Φ. Den potensielle energien til massen m som befinner seg i dette potensialet, er derfor U = m Φ. Mens gravitasjonsfeltet g er et vektorfelt, er gravitasjonspotensialet Φ et skalarfelt.
+
+
+== Endelig massefordeling ==
+Hvis to punktmasser m og m'   befinner seg i posisjonene r og r' , sier Newtons gravitasjonslov at kraften som virker på massen m,  er gitt ved
+
+  
+    
+      
+        
+          F
+        
+        =
+        −
+        
+          
+            
+              G
+              m
+              
+                m
+                ′
+              
+            
+            
+              
+                |
+              
+              
+                r
+              
+              −
+              
+                
+                  r
+                  ′
+                
+              
+              
+                
+                  |
+                
+                
+                  3
+                
+              
+            
+          
+        
+        (
+        
+          r
+        
+        −
+        
+          
+            r
+            ′
+          
+        
+        )
+      
+    
+    {\displaystyle \mathbf {F} =-{Gmm' \over |\mathbf {r} -\mathbf {r'} |^{3}}(\mathbf {r} -\mathbf {r'} )}
+  Den tilsvarende kraften F'  som m utøver på m' , finnes herav ved å bytte om på r og r' . Derfor er som forventet F = - F'  
+i overensstemmelse med Newtons tredje lov om kraft og motkraft.I det mer generelle tilfellet at massen m er påvirket av flere andre punktmasser mi  i posisjoner ri, skaper de den totale kraften
+
+  
+    
+      
+        
+          F
+        
+        (
+        
+          r
+        
+        )
+        =
+        −
+        G
+        m
+        
+          ∑
+          
+            i
+          
+        
+        
+          
+            
+              
+                m
+                
+                  i
+                
+              
+              (
+              
+                r
+              
+              −
+              
+                
+                  r
+                
+                
+                  i
+                
+              
+              )
+            
+            
+              
+                |
+              
+              
+                r
+              
+              −
+              
+                
+                  r
+                
+                
+                  i
+                
+              
+              
+                
+                  |
+                
+                
+                  3
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {F} (\mathbf {r} )=-Gm\sum _{i}{m_{i}(\mathbf {r} -\mathbf {r} _{i}) \over |\mathbf {r} -\mathbf {r} _{i}|^{3}}.}
+  som dermed kan utledes fra potensialet
+
+  
+    
+      
+        Φ
+        (
+        
+          r
+        
+        )
+        =
+        −
+        
+          ∑
+          
+            i
+          
+        
+        
+          
+            
+              G
+              
+                m
+                
+                  i
+                
+              
+            
+            
+              
+                |
+              
+              
+                r
+              
+              −
+              
+                
+                  r
+                
+                
+                  i
+                
+              
+              
+                |
+              
+            
+          
+        
+      
+    
+    {\displaystyle \Phi (\mathbf {r} )=-\sum _{i}{Gm_{i} \over |\mathbf {r} -\mathbf {r} _{i}|}}
+  Det er alltid negativt som er karakteristisk for et tiltrekkende potensial. Først når feltpunktet r er uendelig langt borte fra alle andre massepunkt blir det null.
+Gravitasjonspotensialet for en kontinuerlig massefordeling med tetthet ρ og endelig utstrekning, kan beskrives ved bidragene fra hver infinitesemal masse dm'  = ρ(r')dV'  fra volumelementet dV'  i posisjon r'. Ved integrasjon finnes da det totale potensialet som
+
+  
+    
+      
+        Φ
+        (
+        
+          r
+        
+        )
+        =
+        −
+        ∫
+        
+        
+          d
+          
+            3
+          
+        
+        
+          x
+          ′
+        
+        
+          
+            
+              G
+              ρ
+              (
+              
+                
+                  r
+                  ′
+                
+              
+              )
+            
+            
+              
+                |
+              
+              
+                r
+              
+              −
+              
+                
+                  r
+                  ′
+                
+              
+              
+                |
+              
+            
+          
+        
+      
+    
+    {\displaystyle \Phi (\mathbf {r} )=-\int \!d^{3}x'{G\rho (\mathbf {r'} ) \over |\mathbf {r} -\mathbf {r'} |}}
+  For en praktisk beregning av gravitasjonskraften  er det ofte lettere å gå denne omveien og finne potensialet først. Gravitasjonskraften kommer da frem ved en derivasjon direkte fra gravitasjonsfeltet g = - ∇ φ.
+Den generelle formelen for gravitasjonspotensialet har samme form som uttrykket for det elektriske potensialet skapt av en kontinuerlig ladningsfordeling. Igjen er det som forventet fordi Newtons lov for gravitasjonskraften har samme form som Coulombs lov for den elektriske kraften. Da det elektriske potensialet tilfredsstiller Poissons ligning som er en lokal utgave av Gauss' lov, vil gravitasjonspotensialet måtte oppfylle den tilsvarende ligningen
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        Φ
+        (
+        
+          r
+        
+        )
+        =
+        4
+        π
+        G
+        ρ
+        (
+        
+          r
+        
+        )
+      
+    
+    {\displaystyle \nabla ^{2}\Phi (\mathbf {r} )=4\pi G\rho (\mathbf {r} )}
+  hvor Laplace-operatoren ∇2 opptrer på venstre side. Dette kan betraktes som en lokal eller differensiell utgave av Newtons gravitasjonslov.
+
+
+=== Plan geometri ===
+Som et enkelt eksempel på bruk av denne fundamentale gravitasjonsligningen, kan man betrakte rommet z > 0 utenfor et uendelig stort, massivt plan z = 0. Da dette er tomt, vil ρ = 0  i dette området. Gravitasjonspotensialet kan derfor bare variere med z og tilfredstiller den enkle differensialligningen d 2Φ/dz2 = 0. Den har den generelle løsningen
+
+  
+    
+      
+        Φ
+        (
+        z
+        )
+        =
+        
+          Φ
+          
+            0
+          
+        
+        +
+        g
+        z
+      
+    
+    {\displaystyle \Phi (z)=\Phi _{0}+gz}
+  hvor både Φ0 og g er ukjente konstanter. Den første vil ikke bidra til gravitasjonskraften utenfor planet, mens konstanten g kan identifiseres med gravitasjonsfeltet der. I dette tilfellet med plan geometri kan ikke gravitasjonspotensialet variere på noen annen måte enn å være proporsjonalt med avstanden z. 
+Dette resultatet kommer man også frem til ved å se på gravitasjonspotensialet Φ = - GM/r  like utenfor Jordens overflate i en avstand z fra denne. Hvis Jorden har radius R, vil da r = R + z  og
+
+  
+    
+      
+        Φ
+        (
+        r
+        )
+        =
+        −
+        
+          
+            
+              G
+              M
+            
+            
+              R
+              +
+              z
+            
+          
+        
+        =
+        −
+        
+          
+            
+              G
+              M
+            
+            R
+          
+        
+        +
+        g
+        z
+      
+    
+    {\displaystyle \Phi (r)=-{GM \over R+z}=-{GM \over R}+gz}
+  når z << R. Her er nå g = GM/R2 gravitasjonsfeltet på Jordens overflate i overensstemmelse med hva som ble funnet ved løsning av differensialligningen.
+
+
+== Skallteoremet ==
+
+Den generelle formelen for gravitasjonspotensialet kan nå benyttes til å beregne det i utenfor et tynt kuleskall med jevnt fordelt masse M. Det vil i praksis gi innholdet av Newtons skallteorem. Hvis skallet har radius R,  vil det tilsvare en konstant overflatetetthet σ = M/4π R 2. Potensialet i et punkt P  med avstand r  til kuleskallets sentrum kan finnes ved først å beregne potensialet av en ring på skallet hvor alle punktene har samme avstand s  til P. Potensialet av denne ladete ringen med omkrets 2πR sinθ  er da d Φ = - GdM/s  hvor dens masse er
+
+  
+    
+      
+        d
+        M
+        =
+        σ
+        ⋅
+        2
+        π
+        R
+        sin
+        ⁡
+        θ
+        ⋅
+        R
+        d
+        θ
+        =
+        
+          
+            1
+            2
+          
+        
+        M
+        sin
+        ⁡
+        θ
+        d
+        θ
+      
+    
+    {\displaystyle dM=\sigma \cdot 2\pi R\sin \theta \cdot Rd\theta ={1 \over 2}M\sin \theta d\theta }
+  Åpningsvinkelen θ  kan uttrykkes ved avstanden s  ved bruk av cosinussetningen
+
+  
+    
+      
+        
+          s
+          
+            2
+          
+        
+        =
+        
+          R
+          
+            2
+          
+        
+        +
+        
+          r
+          
+            2
+          
+        
+        −
+        2
+        R
+        r
+        cos
+        ⁡
+        θ
+      
+    
+    {\displaystyle s^{2}=R^{2}+r^{2}-2Rr\cos \theta }
+  som ved derivasjon gir sammenhengen sds = Rr sinθdθ  mellom differensialene. Ved integrasjon over  s fra den nedre grensen r - R  til den øvre grensen r + R  finnes dermed verdien 
+
+  
+    
+      
+        Φ
+        =
+        −
+        G
+        M
+        
+          ∫
+          
+            r
+            −
+            R
+          
+          
+            r
+            +
+            R
+          
+        
+        
+          
+            
+              d
+              s
+            
+            
+              2
+              R
+              r
+            
+          
+        
+        =
+        −
+        
+          
+            
+              G
+              M
+            
+            r
+          
+        
+      
+    
+    {\displaystyle \Phi =-GM\int _{r-R}^{r+R}{ds \over 2Rr}=-{GM \over r}}
+  for potensialet fra hele kuleskallet. Dette er i overensstemmelse med potensialet for en punktladning M  i dets sentrum. Dette gjelder nå også for en massiv kule da den kan beskrives som sammensatt av slike tynne skall.
+Hvis punktet P  hadde ligget innenfor kuleskallet, vil denne beregningen kun forandres ved at den nedre grensen i integrasjonen vil være R - r, mens den øvre grensen er R + r. Det gir potensialet  - GM/R  som derfor er konstant i det indre av skallet med samme verdi som like utenfor dette. Gravitasjonsfeltet g = - ∇ φ er derfor null innenfor et kuleskall.
+
+
+=== Massiv kule ===
+Newtons skallteorem er ekvivalent med Gauss' lov i elektrostatikken. Anvendt på en sfærisk, symmetrisk massefordeling med tetthet ρ, sier teoremet at gravitasjonsfeltet g i en avstand r fra dens sentrum multiplisert med arealet av en kuleflate med denne radius, er 4π G  multiplisert med den totale massen 4πρr3/3  innenfor kuleflaten. Massen utenfor denne radius bidrar ikke til gravitasjonsfeltet innenfor. Det gir g = 4πGρr/3. På vektorform kan dette skrives som
+
+  
+    
+      
+        
+          g
+        
+        =
+        −
+        
+          
+            
+              4
+              π
+              G
+            
+            3
+          
+        
+        ρ
+        
+          r
+        
+        =
+        −
+        
+          
+            
+              G
+              M
+            
+            
+              R
+              
+                3
+              
+            
+          
+        
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {g} =-{4\pi G \over 3}\rho \mathbf {r} =-{GM \over R^{3}}\mathbf {r} }
+  da feltet peker inn mot sentrum og M  er massen til hele kula. Inni kulen tilsvarer det en harmonisk kraft da den er proporsjonal med avstanden til likevektspunktet r = 0. På overflaten r = R  er styrken av feltet g = GM/R2  i overensstemmelse med hva som er tidligere funnet.
+
+
+== Se også ==
+Gravitasjon
+Tyngdekraft
+Keplers lover
+
+
+== Referanser ==

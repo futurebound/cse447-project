@@ -1,0 +1,1397 @@
+Solar irradiance is the power per unit area received from the Sun in the form of electromagnetic radiation as measured in the wavelength range of the measuring instrument. 
+The solar irradiance is measured in watt per square metre (W/m2) in SI units.
+Solar irradiance is often integrated over a given time period in order to report the radiant energy emitted into the surrounding environment (joule per square metre, J/m2) during that time period. This integrated solar irradiance is called solar irradiation, solar exposure, solar insolation, or insolation.
+Irradiance may be measured in space or at the Earth's surface after atmospheric absorption and scattering. 
+Irradiance in space is a function of distance from the Sun, the solar cycle, and cross-cycle changes. 
+Irradiance on the Earth's surface additionally depends on the tilt of the measuring surface, the height of the sun above the horizon, and atmospheric conditions.
+Solar irradiance affects plant metabolism and animal behavior.The study and measurement of solar irradiance have several important applications, including the prediction of energy generation from solar power plants, the heating and cooling loads of buildings, and climate modeling and weather forecasting.
+
+
+== Types ==
+ 
+ 
+There are several measured types of solar irradiance.
+
+Total Solar Irradiance (TSI) is a measure of the solar power over all wavelengths per unit area incident on the Earth's upper atmosphere. It is measured perpendicular to the incoming sunlight. The solar constant is a conventional measure of mean TSI at a distance of one astronomical unit (AU).
+Direct Normal Irradiance (DNI), or beam radiation, is measured at the surface of the Earth at a given location with a surface element perpendicular to the Sun. It excludes diffuse solar radiation (radiation that is scattered or reflected by atmospheric components). Direct irradiance is equal to the extraterrestrial irradiance above the atmosphere minus the atmospheric losses due to absorption and scattering. Losses depend on time of day (length of light's path through the atmosphere depending on the solar elevation angle), cloud cover, moisture content and other contents. The irradiance above the atmosphere also varies with time of year (because the distance to the sun varies), although this effect is generally less significant compared to the effect of losses on DNI.
+Diffuse Horizontal Irradiance (DHI), or Diffuse Sky Radiation is the radiation at the Earth's surface from light scattered by the atmosphere. It is measured on a horizontal surface with radiation coming from all points in the sky excluding circumsolar radiation (radiation coming from the sun disk). There would be almost no DHI in the absence of atmosphere.
+Global Horizontal Irradiance (GHI) is the total irradiance from the sun on a horizontal surface on Earth. It is the sum of direct irradiance (after accounting for the solar zenith angle of the sun z) and diffuse horizontal irradiance:
+  
+    
+      
+        
+          GHI
+        
+        =
+        
+          DHI
+        
+        +
+        
+          DNI
+        
+        ×
+        cos
+        ⁡
+        (
+        z
+        )
+      
+    
+    {\displaystyle {\text{GHI}}={\text{DHI}}+{\text{DNI}}\times \cos(z)}
+  
+Global Tilted Irradiance (GTI) or  is the global radiation received on a surface with defined tilt and azimuth, fixed or sun-tracking. GTI can be measured or modeled from GHI, DNI, DHI. It is often a reference for photovoltaic power plants, while photovolotaic modules are mounted on the fixed or tracking constructions.
+Global Normal Irradiance (GNI) is the total irradiance from the sun at the surface of Earth at a given location with a surface element perpendicular to the Sun.
+
+
+== Units ==
+The SI unit of irradiance is watt per square metre (W/m2 = Wm−2).
+An alternative unit of measure is the Langley (1 thermochemical calorie per square centimeter or 41,840 J/m2) per unit time.
+The solar energy industry uses watt-hour per square metre (Wh/m2) per unit time. The relation to the SI unit is thus:
+
+1 kW/m2 × (24 h/day) = (24 kWh/m2)/day
+(24 kWh/m2)/day × (365 days/year) = (8760 kWh/m2)/year.
+
+
+== Irradiation at the top of the atmosphere ==
+
+The distribution of solar radiation at the top of the atmosphere is determined by Earth's sphericity and orbital parameters. 
+This applies to any unidirectional beam incident to a rotating sphere. 
+Insolation is essential for numerical weather prediction and understanding seasons and climatic change. Application to ice ages is known as Milankovitch cycles.
+Distribution is based on a fundamental identity from spherical trigonometry, the spherical law of cosines:
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        c
+        )
+        =
+        cos
+        ⁡
+        (
+        a
+        )
+        cos
+        ⁡
+        (
+        b
+        )
+        +
+        sin
+        ⁡
+        (
+        a
+        )
+        sin
+        ⁡
+        (
+        b
+        )
+        cos
+        ⁡
+        (
+        C
+        )
+      
+    
+    {\displaystyle \cos(c)=\cos(a)\cos(b)+\sin(a)\sin(b)\cos(C)}
+  where a, b and c are arc lengths, in radians, of the sides of a spherical triangle. C is the angle in the vertex opposite the side which has arc length c.  Applied to the calculation of solar zenith angle Θ, the following applies to the spherical law of cosines:
+
+  
+    
+      
+        C
+        =
+        h
+      
+    
+    {\displaystyle C=h}
+  
+
+  
+    
+      
+        c
+        =
+        Θ
+      
+    
+    {\displaystyle c=\Theta }
+  
+
+  
+    
+      
+        a
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        π
+        −
+        ϕ
+      
+    
+    {\displaystyle a={\tfrac {1}{2}}\pi -\phi }
+  
+
+  
+    
+      
+        b
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        π
+        −
+        δ
+      
+    
+    {\displaystyle b={\tfrac {1}{2}}\pi -\delta }
+  
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        Θ
+        )
+        =
+        sin
+        ⁡
+        (
+        ϕ
+        )
+        sin
+        ⁡
+        (
+        δ
+        )
+        +
+        cos
+        ⁡
+        (
+        ϕ
+        )
+        cos
+        ⁡
+        (
+        δ
+        )
+        cos
+        ⁡
+        (
+        h
+        )
+      
+    
+    {\displaystyle \cos(\Theta )=\sin(\phi )\sin(\delta )+\cos(\phi )\cos(\delta )\cos(h)}
+  This equation can be also derived from a more general formula:
+
+  
+    
+      
+        
+          
+            
+              
+                cos
+                ⁡
+                (
+                Θ
+                )
+                =
+                sin
+                ⁡
+                (
+                ϕ
+                )
+                sin
+                ⁡
+                (
+                δ
+                )
+                cos
+                ⁡
+                (
+                β
+                )
+              
+              
+                
+                +
+                sin
+                ⁡
+                (
+                δ
+                )
+                cos
+                ⁡
+                (
+                ϕ
+                )
+                sin
+                ⁡
+                (
+                β
+                )
+                cos
+                ⁡
+                (
+                γ
+                )
+                +
+                cos
+                ⁡
+                (
+                ϕ
+                )
+                cos
+                ⁡
+                (
+                δ
+                )
+                cos
+                ⁡
+                (
+                β
+                )
+                cos
+                ⁡
+                (
+                h
+                )
+              
+            
+            
+              
+              
+                
+                −
+                cos
+                ⁡
+                (
+                δ
+                )
+                sin
+                ⁡
+                (
+                ϕ
+                )
+                sin
+                ⁡
+                (
+                β
+                )
+                cos
+                ⁡
+                (
+                γ
+                )
+                cos
+                ⁡
+                (
+                h
+                )
+                −
+                cos
+                ⁡
+                (
+                δ
+                )
+                sin
+                ⁡
+                (
+                β
+                )
+                sin
+                ⁡
+                (
+                γ
+                )
+                sin
+                ⁡
+                (
+                h
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\cos(\Theta )=\sin(\phi )\sin(\delta )\cos(\beta )&+\sin(\delta )\cos(\phi )\sin(\beta )\cos(\gamma )+\cos(\phi )\cos(\delta )\cos(\beta )\cos(h)\\&-\cos(\delta )\sin(\phi )\sin(\beta )\cos(\gamma )\cos(h)-\cos(\delta )\sin(\beta )\sin(\gamma )\sin(h)\end{aligned}}}
+  where β is an angle from the horizontal and γ is an azimuth angle.
+
+The separation of Earth from the sun can be denoted RE and the mean distance can be denoted R0, approximately 1 astronomical unit (AU). The solar constant is denoted S0. The solar flux density (insolation) onto a plane tangent to the sphere of the Earth, but above the bulk of the atmosphere (elevation 100 km or greater) is:
+
+  
+    
+      
+        Q
+        =
+        
+          
+            {
+            
+              
+                
+                  
+                    S
+                    
+                      o
+                    
+                  
+                  
+                    
+                      
+                        R
+                        
+                          o
+                        
+                        
+                          2
+                        
+                      
+                      
+                        R
+                        
+                          E
+                        
+                        
+                          2
+                        
+                      
+                    
+                  
+                  cos
+                  ⁡
+                  (
+                  Θ
+                  )
+                
+                
+                  cos
+                  ⁡
+                  (
+                  Θ
+                  )
+                  >
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  cos
+                  ⁡
+                  (
+                  Θ
+                  )
+                  ≤
+                  0
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle Q={\begin{cases}S_{o}{\frac {R_{o}^{2}}{R_{E}^{2}}}\cos(\Theta )&\cos(\Theta )>0\\0&\cos(\Theta )\leq 0\end{cases}}}
+  The average of Q over a day is the average of Q over one rotation, or the hour angle progressing from h = π to h = −π:
+
+  
+    
+      
+        
+          
+            
+              Q
+              ¯
+            
+          
+          
+            day
+          
+        
+        =
+        −
+        
+          
+            1
+            
+              2
+              π
+            
+          
+        
+        
+          
+            ∫
+            
+              π
+            
+            
+              −
+              π
+            
+          
+          Q
+          
+          d
+          h
+        
+      
+    
+    {\displaystyle {\overline {Q}}^{\text{day}}=-{\frac {1}{2\pi }}{\int _{\pi }^{-\pi }Q\,dh}}
+  Let h0 be the hour angle when Q becomes positive. This could occur at sunrise when 
+  
+    
+      
+        Θ
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        π
+      
+    
+    {\displaystyle \Theta ={\tfrac {1}{2}}\pi }
+  , or for h0 as a solution of
+
+  
+    
+      
+        sin
+        ⁡
+        (
+        ϕ
+        )
+        sin
+        ⁡
+        (
+        δ
+        )
+        +
+        cos
+        ⁡
+        (
+        ϕ
+        )
+        cos
+        ⁡
+        (
+        δ
+        )
+        cos
+        ⁡
+        (
+        
+          h
+          
+            o
+          
+        
+        )
+        =
+        0
+        
+      
+    
+    {\displaystyle \sin(\phi )\sin(\delta )+\cos(\phi )\cos(\delta )\cos(h_{o})=0\,}
+  or
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        
+          h
+          
+            o
+          
+        
+        )
+        =
+        −
+        tan
+        ⁡
+        (
+        ϕ
+        )
+        tan
+        ⁡
+        (
+        δ
+        )
+      
+    
+    {\displaystyle \cos(h_{o})=-\tan(\phi )\tan(\delta )}
+  If tan(φ)tan(δ) > 1, then the sun does not set and the sun is already risen at h = π, so ho = π. If tan(φ)tan(δ) < −1, the sun does not rise and 
+  
+    
+      
+        
+          
+            
+              Q
+              ¯
+            
+          
+          
+            day
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\overline {Q}}^{\text{day}}=0}
+  .
+
+  
+    
+      
+        
+          
+            
+              R
+              
+                o
+              
+              
+                2
+              
+            
+            
+              R
+              
+                E
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {R_{o}^{2}}{R_{E}^{2}}}}
+   is nearly constant over the course of a day, and can be taken outside the integral
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  ∫
+                  
+                    π
+                  
+                  
+                    −
+                    π
+                  
+                
+                Q
+                
+                d
+                h
+              
+              
+                
+                =
+                
+                  ∫
+                  
+                    
+                      h
+                      
+                        o
+                      
+                    
+                  
+                  
+                    −
+                    
+                      h
+                      
+                        o
+                      
+                    
+                  
+                
+                Q
+                
+                d
+                h
+              
+            
+            
+              
+              
+                
+                =
+                
+                  S
+                  
+                    o
+                  
+                
+                
+                  
+                    
+                      R
+                      
+                        o
+                      
+                      
+                        2
+                      
+                    
+                    
+                      R
+                      
+                        E
+                      
+                      
+                        2
+                      
+                    
+                  
+                
+                
+                  ∫
+                  
+                    
+                      h
+                      
+                        o
+                      
+                    
+                  
+                  
+                    −
+                    
+                      h
+                      
+                        o
+                      
+                    
+                  
+                
+                cos
+                ⁡
+                (
+                Θ
+                )
+                
+                d
+                h
+              
+            
+            
+              
+              
+                
+                =
+                
+                  S
+                  
+                    o
+                  
+                
+                
+                  
+                    
+                      R
+                      
+                        o
+                      
+                      
+                        2
+                      
+                    
+                    
+                      R
+                      
+                        E
+                      
+                      
+                        2
+                      
+                    
+                  
+                
+                
+                  
+                    [
+                    
+                      h
+                      sin
+                      ⁡
+                      (
+                      ϕ
+                      )
+                      sin
+                      ⁡
+                      (
+                      δ
+                      )
+                      +
+                      cos
+                      ⁡
+                      (
+                      ϕ
+                      )
+                      cos
+                      ⁡
+                      (
+                      δ
+                      )
+                      sin
+                      ⁡
+                      (
+                      h
+                      )
+                    
+                    ]
+                  
+                  
+                    h
+                    =
+                    
+                      h
+                      
+                        o
+                      
+                    
+                  
+                  
+                    h
+                    =
+                    −
+                    
+                      h
+                      
+                        o
+                      
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                −
+                2
+                
+                  S
+                  
+                    o
+                  
+                
+                
+                  
+                    
+                      R
+                      
+                        o
+                      
+                      
+                        2
+                      
+                    
+                    
+                      R
+                      
+                        E
+                      
+                      
+                        2
+                      
+                    
+                  
+                
+                
+                  [
+                  
+                    
+                      h
+                      
+                        o
+                      
+                    
+                    sin
+                    ⁡
+                    (
+                    ϕ
+                    )
+                    sin
+                    ⁡
+                    (
+                    δ
+                    )
+                    +
+                    cos
+                    ⁡
+                    (
+                    ϕ
+                    )
+                    cos
+                    ⁡
+                    (
+                    δ
+                    )
+                    sin
+                    ⁡
+                    (
+                    
+                      h
+                      
+                        o
+                      
+                    
+                    )
+                  
+                  ]
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\int _{\pi }^{-\pi }Q\,dh&=\int _{h_{o}}^{-h_{o}}Q\,dh\\&=S_{o}{\frac {R_{o}^{2}}{R_{E}^{2}}}\int _{h_{o}}^{-h_{o}}\cos(\Theta )\,dh\\&=S_{o}{\frac {R_{o}^{2}}{R_{E}^{2}}}\left[h\sin(\phi )\sin(\delta )+\cos(\phi )\cos(\delta )\sin(h)\right]_{h=h_{o}}^{h=-h_{o}}\\&=-2S_{o}{\frac {R_{o}^{2}}{R_{E}^{2}}}\left[h_{o}\sin(\phi )\sin(\delta )+\cos(\phi )\cos(\delta )\sin(h_{o})\right]\end{aligned}}}
+  Therefore:
+
+  
+    
+      
+        
+          
+            
+              Q
+              ¯
+            
+          
+          
+            day
+          
+        
+        =
+        
+          
+            
+              S
+              
+                o
+              
+            
+            π
+          
+        
+        
+          
+            
+              R
+              
+                o
+              
+              
+                2
+              
+            
+            
+              R
+              
+                E
+              
+              
+                2
+              
+            
+          
+        
+        
+          [
+          
+            
+              h
+              
+                o
+              
+            
+            sin
+            ⁡
+            (
+            ϕ
+            )
+            sin
+            ⁡
+            (
+            δ
+            )
+            +
+            cos
+            ⁡
+            (
+            ϕ
+            )
+            cos
+            ⁡
+            (
+            δ
+            )
+            sin
+            ⁡
+            (
+            
+              h
+              
+                o
+              
+            
+            )
+          
+          ]
+        
+      
+    
+    {\displaystyle {\overline {Q}}^{\text{day}}={\frac {S_{o}}{\pi }}{\frac {R_{o}^{2}}{R_{E}^{2}}}\left[h_{o}\sin(\phi )\sin(\delta )+\cos(\phi )\cos(\delta )\sin(h_{o})\right]}
+  Let θ be the conventional polar angle describing a planetary orbit.  Let θ = 0 at the vernal equinox.  The declination δ as a function of orbital position is
+
+  
+    
+      
+        δ
+        =
+        ε
+        sin
+        ⁡
+        (
+        θ
+        )
+      
+    
+    {\displaystyle \delta =\varepsilon \sin(\theta )}
+  where ε is the obliquity.  The conventional longitude of perihelion ϖ is defined relative to the vernal equinox, so for the elliptical orbit:
+
+  
+    
+      
+        
+          R
+          
+            E
+          
+        
+        =
+        
+          
+            
+              R
+              
+                o
+              
+            
+            
+              1
+              +
+              e
+              cos
+              ⁡
+              (
+              θ
+              −
+              ϖ
+              )
+            
+          
+        
+      
+    
+    {\displaystyle R_{E}={\frac {R_{o}}{1+e\cos(\theta -\varpi )}}}
+  or
+
+  
+    
+      
+        
+          
+            
+              R
+              
+                o
+              
+            
+            
+              R
+              
+                E
+              
+            
+          
+        
+        =
+        
+          1
+          +
+          e
+          cos
+          ⁡
+          (
+          θ
+          −
+          ϖ
+          )
+        
+      
+    
+    {\displaystyle {\frac {R_{o}}{R_{E}}}={1+e\cos(\theta -\varpi )}}
+  With knowledge of ϖ, ε and e from astrodynamical calculations and So from a consensus of observations or theory, 
+  
+    
+      
+        
+          
+            
+              Q
+              ¯
+            
+          
+          
+            day
+          
+        
+      
+    
+    {\displaystyle {\overline {Q}}^{\text{day}}}
+  can be calculated for any latitude φ and θ. Because of the elliptical orbit, and as a consequence of Kepler's second law, θ does not progress uniformly with time. Nevertheless, θ = 0° is exactly the time of the vernal equinox, θ = 90° is exactly the time of the summer solstice, θ = 180° is exactly the time of the autumnal equinox and θ = 270° is exactly the time of the winter solstice.
+A simplified equation for irradiance on a given day is:
+
+  
+    
+      
+        Q
+        ≈
+        
+          S
+          
+            0
+          
+        
+        
+          (
+          
+            1
+            +
+            0.034
+            cos
+            ⁡
+            
+              (
+              
+                2
+                π
+                
+                  
+                    n
+                    365.25
+                  
+                
+              
+              )
+            
+          
+          )
+        
+      
+    
+    {\displaystyle Q\approx S_{0}\left(1+0.034\cos \left(2\pi {\frac {n}{365.25}}\right)\right)}
+  where n is a number of a day of the year.
+
+
+=== Variation ===
+Total solar irradiance (TSI) changes slowly on decadal and longer timescales. The variation during solar cycle 21 was about 0.1% (peak-to-peak). In contrast to older reconstructions, most recent TSI reconstructions point to an increase of only about 0.05% to 0.1% between the Maunder Minimum and the present.
+Ultraviolet irradiance (EUV) varies by approximately 1.5 percent from solar maxima to minima, for 200 to 300 nm wavelengths. However, a proxy study estimated that UV has increased by 3.0% since the Maunder Minimum.
+
+Some variations in insolation are not due to solar changes but rather due to the Earth moving between its perihelion and aphelion, or changes in the latitudinal distribution of radiation. These orbital changes or Milankovitch cycles have caused radiance variations of as much as 25% (locally; global average changes are much smaller) over long periods. The most recent significant event was an axial tilt of 24° during boreal summer near the Holocene climatic optimum.
+Obtaining a time series for a 
+  
+    
+      
+        
+          
+            
+              Q
+              ¯
+            
+          
+          
+            
+              d
+              a
+              y
+            
+          
+        
+      
+    
+    {\displaystyle {\overline {Q}}^{\mathrm {day} }}
+   for a particular time of year, and particular latitude, is a useful application in the theory of Milankovitch cycles.  For example, at the summer solstice, the declination δ is equal to the obliquity ε. The distance from the sun is
+
+  
+    
+      
+        
+          
+            
+              R
+              
+                o
+              
+            
+            
+              R
+              
+                E
+              
+            
+          
+        
+        =
+        1
+        +
+        e
+        cos
+        ⁡
+        (
+        θ
+        −
+        ϖ
+        )
+        =
+        1
+        +
+        e
+        cos
+        ⁡
+        
+          (
+          
+            
+              
+                π
+                2
+              
+            
+            −
+            ϖ
+          
+          )
+        
+        =
+        1
+        +
+        e
+        sin
+        ⁡
+        (
+        ϖ
+        )
+      
+    
+    {\displaystyle {\frac {R_{o}}{R_{E}}}=1+e\cos(\theta -\varpi )=1+e\cos \left({\frac {\pi }{2}}-\varpi \right)=1+e\sin(\varpi )}
+  For this summer solstice calculation, the role of the elliptical orbit is entirely contained within the important product 
+  
+    
+      
+        e
+        sin
+        ⁡
+        (
+        ϖ
+        )
+      
+    
+    {\displaystyle e\sin(\varpi )}
+  , the precession index, whose variation dominates the variations in insolation at 65° N when eccentricity is large. For the next 100,000 years, with variations in eccentricity being relatively small, variations in obliquity dominate.
+
+
+=== Measurement ===
+The space-based TSI record comprises measurements from more than ten radiometers spanning three solar cycles.
+All modern TSI satellite instruments employ active cavity electrical substitution radiometry. This technique applies measured electrical heating to maintain an absorptive blackened cavity in thermal equilibrium while incident sunlight passes through a precision aperture of calibrated area. The aperture is modulated via a shutter. Accuracy uncertainties of <0.01% are required to detect long term solar irradiance variations, because expected changes are in the range 0.05–0.15 W/m2 per century.
+
+
+==== Intertemporal calibration ====
+In orbit, radiometric calibrations drift for reasons including solar degradation of the cavity, electronic degradation of the heater, surface degradation of the precision aperture and varying surface emissions and temperatures that alter thermal backgrounds. These calibrations require compensation to preserve consistent measurements.For various reasons, the sources do not always agree. The Solar Radiation and Climate Experiment/Total Irradiance Measurement (SORCE/TIM) TSI values are lower than prior measurements by the Earth Radiometer Budget Experiment (ERBE) on the Earth Radiation Budget Satellite (ERBS), VIRGO on the Solar Heliospheric Observatory (SoHO)  and the ACRIM instruments on the Solar Maximum Mission (SMM), Upper Atmosphere Research Satellite (UARS) and ACRIMSAT. Pre-launch ground calibrations relied on component rather than system level measurements, since irradiance standards lacked absolute accuracies.Measurement stability involves exposing different radiometer cavities to different accumulations of solar radiation to quantify exposure-dependent degradation effects. These effects are then compensated for in final data. Observation overlaps permits corrections for both absolute offsets and validation of instrumental drifts.Uncertainties of individual observations exceed irradiance variability (∼0.1%). Thus, instrument stability and measurement continuity are relied upon to compute real variations.
+Long-term radiometer drifts can be mistaken for irradiance variations that can be misinterpreted as affecting climate. Examples include the issue of the irradiance increase between cycle minima in 1986 and 1996, evident only in the ACRIM composite (and not the model) and the low irradiance levels in the PMOD composite during the 2008 minimum.
+Despite the fact that ACRIM I, ACRIM II, ACRIM III, VIRGO and TIM all track degradation with redundant cavities, notable and unexplained differences remain in irradiance and the modeled influences of sunspots and faculae.
+
+
+==== Persistent inconsistencies ====
+Disagreement among overlapping observations indicates unresolved drifts that suggest the TSI record is not sufficiently stable to discern solar changes on decadal time scales. Only the ACRIM composite shows irradiance increasing by ∼1 W/m2 between 1986 and 1996; this change is also absent in the model.Recommendations to resolve the instrument discrepancies include validating optical measurement accuracy by comparing ground-based instruments to laboratory references, such as those at National Institute of Science and Technology (NIST); NIST validation of aperture area calibrations uses spares from each instrument; and applying diffraction corrections from the view-limiting aperture.For ACRIM, NIST determined that diffraction from the view-limiting aperture contributes a 0.13% signal not accounted for in the three ACRIM instruments. This correction lowers the reported ACRIM values, bringing ACRIM closer to TIM. In ACRIM and all other instruments but TIM, the aperture is deep inside the instrument, with a larger view-limiting aperture at the front. Depending on edge imperfections this can directly scatter light into the cavity. This design admits into the front part of the instrument two to three times the amount of light intended to be measured; if not completely absorbed or scattered, this additional light produces erroneously high signals. In contrast, TIM's design places the precision aperture at the front so that only desired light enters.Variations from other sources likely include an annual systematics in the ACRIM III data that is nearly in phase with the Sun-Earth distance and 90-day spikes in the VIRGO data coincident with SoHO spacecraft maneuvers that were most apparent during the 2008 solar minimum.
+
+
+==== TSI Radiometer Facility ====
+TIM's high absolute accuracy creates new opportunities for measuring climate variables. TSI Radiometer Facility (TRF) is a cryogenic radiometer that operates in a vacuum with controlled light sources. L-1 Standards and Technology (LASP) designed and built the system, completed in 2008. It was calibrated for optical power against the NIST Primary Optical Watt Radiometer, a cryogenic radiometer that maintains the NIST radiant power scale to an uncertainty of 0.02% (1σ). As of  2011 TRF was the only facility that approached the desired <0.01% uncertainty for pre-launch validation of solar radiometers measuring irradiance (rather than merely optical power) at solar power levels and under vacuum conditions.TRF encloses both the reference radiometer and the instrument under test in a common vacuum system that contains a stationary, spatially uniform illuminating beam. A precision aperture with area calibrated to 0.0031% (1σ) determines the beam's measured portion. The test instrument's precision aperture is positioned in the same location, without optically altering the beam, for direct comparison to the reference. Variable beam power provides linearity diagnostics, and variable beam diameter diagnoses scattering from different instrument components.The Glory/TIM and PICARD/PREMOS flight instrument absolute scales are now traceable to the TRF in both optical power and irradiance. The resulting high accuracy reduces the consequences of any future gap in the solar irradiance record.
+
+
+==== 2011 reassessment ====
+The most probable value of TSI representative of solar minimum is 1360.9±0.5 W/m2, lower than the earlier accepted value of 1365.4±1.3 W/m2, established in the 1990s. The new value came from SORCE/TIM and radiometric laboratory tests. Scattered light is a primary cause of the higher irradiance values measured by earlier satellites in which the precision aperture is located behind a larger, view-limiting aperture. The TIM uses a view-limiting aperture that is smaller than precision aperture that precludes this spurious signal. The new estimate is from better measurement rather than a change in solar output.A regression model-based split of the relative proportion of sunspot and facular influences from SORCE/TIM data accounts for 92% of observed variance and tracks the observed trends to within TIM's stability band. This agreement provides further evidence that TSI variations are primarily due to solar surface magnetic activity.Instrument inaccuracies add a significant uncertainty in determining Earth's energy balance. The energy imbalance has been variously measured (during a deep solar minimum of 2005–2010) to be +0.58±0.15 W/m2, +0.60±0.17 W/m2 and +0.85 W/m2. Estimates from space-based measurements range +3–7 W/m2. SORCE/TIM's lower TSI value reduces this discrepancy by 1 W/m2. This difference between the new lower TIM value and earlier TSI measurements corresponds to a climate forcing of −0.8 W/m2, which is comparable to the energy imbalance.
+
+
+==== 2014 reassessment ====
+In 2014 a new ACRIM composite was developed using the updated ACRIM3 record. It added corrections for scattering and diffraction revealed during recent testing at TRF and two algorithm updates. The algorithm updates more accurately account for instrument thermal behavior and parsing of shutter cycle data. These corrected a component of the quasi-annual spurious signal and increased the signal-to-noise ratio, respectively. The net effect of these corrections decreased the average ACRIM3 TSI value without affecting the trending in the ACRIM Composite TSI.Differences between ACRIM and PMOD TSI composites are evident, but the most significant is the solar minimum-to-minimum trends during solar cycles 21-23. ACRIM found an increase of +0.037%/decade from 1980 to 2000 and a decrease thereafter. PMOD instead presents a steady decrease since 1978. Significant differences can also be seen during the peak of solar cycles 21 and 22. These arise from the fact that ACRIM uses the original TSI results published by the satellite experiment teams while PMOD significantly modifies some results to conform them to specific TSI proxy models. The implications of increasing TSI during the global warming of the last two decades of the 20th century are that solar forcing may be a marginally larger factor in climate change than represented in the CMIP5 general circulation climate models.
+
+
+== Irradiance on Earth's surface ==
+
+Average annual solar radiation arriving at the top of the Earth's atmosphere is roughly 1361 W/m2. The Sun's rays are attenuated as they pass through the atmosphere, leaving maximum normal surface irradiance at approximately 1000 W/m2 at sea level on a clear day. When 1361 W/m2 is arriving above the atmosphere (when the sun is at the zenith in a cloudless sky), direct sun is about 1050 W/m2, and global radiation on a horizontal surface at ground level is about 1120 W/m2.
+The latter figure includes radiation scattered or reemitted by atmosphere and surroundings. The actual figure varies with the Sun's angle and atmospheric circumstances. Ignoring clouds, the daily average insolation for the Earth is approximately 6 kWh/m2 = 21.6 MJ/m2.
+The average annual solar radiation arriving at the top of the Earth's atmosphere (1361 W/m2) represents the power per unit area of solar irradiance across the spherical surface surrounding the sun with radius equal to the distance to the Earth (1 AU). This means that the approximately circular disc of the Earth, as viewed from the sun, receives a roughly stable 1361 W/m2 at all times. The area of this circular disc is πr2, in which r is the radius of the Earth. Because the Earth is approximately spherical, it has total area 
+  
+    
+      
+        4
+        π
+        
+          r
+          
+            2
+          
+        
+      
+    
+    {\displaystyle 4\pi r^{2}}
+  , meaning that the solar radiation arriving at the top of the atmosphere, averaged over the entire surface of the Earth, is simply divided by four to get 340 W/m2. In other words, averaged over the year and the day, the Earth's atmosphere receives 340 W/m2 from the sun. This figure is important in radiative forcing.
+The output of, for example, a photovoltaic panel, partly depends on the angle of the sun relative to the panel. One Sun is a unit of power flux, not a standard value for actual insolation. Sometimes this unit is referred to as a Sol, not to be confused with a sol, meaning one solar day.
+
+
+=== Absorption and reflection ===
+
+Part of the radiation reaching an object is absorbed and the remainder reflected. Usually the absorbed radiation is converted to thermal energy, increasing the object's temperature. Manmade or natural systems, however, can convert part of the absorbed radiation into another form such as electricity or chemical bonds, as in the case of photovoltaic cells or plants. The proportion of reflected radiation is the object's reflectivity or albedo.
+
+
+=== Projection effect ===
+
+Insolation onto a surface is largest when the surface directly faces (is normal to) the sun. As the angle between the surface and the Sun moves from normal, the insolation is reduced in proportion to the angle's cosine; see effect of sun angle on climate.
+In the figure, the angle shown is between the ground and the sunbeam rather than between the vertical direction and the sunbeam; hence the sine rather than the cosine is appropriate.  A sunbeam one mile wide arrives from directly overhead, and another at a 30° angle to the horizontal. The sine of a 30° angle is 1/2, whereas the sine of a 90° angle is 1. Therefore, the angled sunbeam spreads the light over twice the area.  Consequently, half as much light falls on each square mile.
+This projection effect is the main reason why Earth's polar regions are much colder than equatorial regions. On an annual average the poles receive less insolation than does the equator, because the poles are always angled more away from the sun than the tropics, and moreover receive no insolation at all for the six months of their respective winters.
+
+
+=== Absorption effect ===
+At a lower angle the light must also travel through more atmosphere. This attenuates it (by absorption and scattering) further reducing insolation at the surface.
+Attenuation is governed by the Beer-Lambert Law, namely that the transmittance or fraction of insolation reaching the surface decreases exponentially in the optical depth or absorbance (the two notions differing only by a constant factor of ln(10) = 2.303) of the path of insolation through the atmosphere. For any given short length of the path the optical depth is proportional to the quantity of absorbers and scatterers along that length, typically increasing with decreasing altitude.  The optical depth of the whole path is then the integral (sum) of those optical depths along the path.
+When the density of absorbers is layered, that is, depends much more on vertical than horizontal position in the atmosphere, to a good approximation the optical depth is inversely proportional to the projection effect, that is, to the cosine of the zenith angle.  Since transmittance decreases exponentially with increasing optical depth, as the sun approaches the horizon there comes a point when absorption dominates projection for the rest of the day.  With a relatively high level of absorbers this can be a considerable portion of the late afternoon, and likewise of the early morning.  Conversely in the (hypothetical) total absence of absorption the optical depth remains zero at all altitudes of the sun, that is, transmittance remains 1, and so only the projection effect applies.
+
+
+=== Solar potential maps ===
+Assessment and mapping of solar potential at the global, regional and country levels has been the subject of significant academic and commercial interest. One of the earliest attempts to carry out comprehensive mapping of solar potential for individual countries was the Solar & Wind Resource Assessment (SWERA) project, funded by the United Nations Environment Program and carried out by the US National Renewable Energy Laboratory. Other examples include global mapping by the National Aeronautics and Space Administration and other similar institutes, many of which are available on the Global Atlas for Renewable Energy provided by the International Renewable Energy Agency. A number of commercial firms now exist to provide solar resource data to solar power developers, including 3E, Clean Power Research, SoDa Solar Radiation Data, Solargis, Vaisala (previously 3Tier), and Vortex, and these firms have often provided solar potential maps for free. In January 2017 the Global Solar Atlas was launched by the World Bank, using data provided by Solargis, to provide a single source for high quality solar data, maps, and GIS layers covering all countries.
+
+Maps of GHI potential by region and country (Note: colors are not consistent across maps)
+		
+		
+		
+		
+		
+		
+Solar radiation maps are built using databases derived from satellite imagery, as for example using visible images from Meteosat Prime satellite. A method is applied on the images to determine solar radiation.
+
+
+== Applications ==
+
+
+=== Solar power ===
+
+Solar irradiation figures are used to plan the deployment of solar power systems.
+In many countries the figures can be obtained from an insolation map or from insolation tables that reflect data over the prior 30–50 years. 
+Different solar power technologies are able to use different component of the total irradiation. While solar photovoltaics panels are able to convert to electricity both direct irradiation and diffuse irradiation, concentrated solar power is only able to operate efficiently with direct irradiation, thus making these systems suitable only in locations with relatively low cloud cover.
+Because solar collectors panels are almost always mounted at an angle towards the sun, insolation must be adjusted to prevent estimates that are inaccurately low for winter and inaccurately high for summer. 
+This also means that the amount of sun falling on a solar panel at high latitude is not as low compared to one at the equator as would appear from just considering insolation on a horizontal surface.
+Photovoltaic panels are rated under standard conditions to determine the Wp (watt peak) rating, which can then be used with insolation to determine the expected output, adjusted by factors such as tilt, tracking and shading (which can be included to create the installed Wp rating). 
+Insolation values range 800–950 kWh/(kWp·y) in Norway to up to 2,900 kWh/(kWp·y) in Australia.
+
+
+=== Buildings ===
+In construction, insolation is an important consideration when designing a building for a particular site.
+
+The projection effect can be used to design buildings that are cool in summer and warm in winter, by providing vertical windows on the equator-facing side of the building (the south face in the northern hemisphere, or the north face in the southern hemisphere): this maximizes insolation in the winter months when the Sun is low in the sky and minimizes it in the summer when the Sun is high. (The Sun's north/south path through the sky spans 47° through the year).
+
+
+=== Civil engineering ===
+In civil engineering and hydrology, numerical models of snowmelt runoff use observations of insolation. 
+This permits estimation of the rate at which water is released from a melting snowpack. 
+Field measurement is accomplished using a pyranometer.
+
+
+=== Climate research ===
+Irradiance plays a part in climate modeling and weather forecasting. A non-zero average global net radiation at the top of the atmosphere is indicative of Earth's thermal disequilibrium as imposed by climate forcing.
+The impact of the lower 2014 TSI value on climate models is unknown. A few tenths of a percent change in the absolute TSI level is typically considered to be of minimal consequence for climate simulations. The new measurements require climate model parameter adjustments.
+Experiments with GISS Model 3 investigated the sensitivity of model performance to the TSI absolute value during present and pre-industrial epochs, and describe, for example, how the irradiance reduction is partitioned between the atmosphere and surface and the effects on outgoing radiation.Assessing the impact of long-term irradiance changes on climate requires greater instrument stability combined with reliable global surface temperature observations to quantify climate response processes to radiative forcing on decadal time scales. The observed 0.1% irradiance increase imparts 0.22 W/m2 climate forcing, which suggests a transient climate response of 0.6 °C per W/m2. This response is larger by a factor of 2 or more than in the IPCC-assessed 2008 models, possibly appearing in the models' heat uptake by the ocean.
+
+
+=== Space ===
+Insolation is the primary variable affecting equilibrium temperature in spacecraft design and planetology.
+Solar activity and irradiance measurement is a concern for space travel. For example, the American space agency, NASA, launched its Solar Radiation and Climate Experiment (SORCE) satellite with Solar Irradiance Monitors.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Bibliography ==
+Willson, Richard C.; H.S. Hudson (1991). "The Sun's luminosity over a complete solar cycle". Nature. 351 (6321): 42–4. Bibcode:1991Natur.351...42W. doi:10.1038/351042a0. S2CID 4273483.
+"The Sun and Climate". U.S. Geological Survey Fact Sheet 0095-00. Retrieved 2005-02-21.
+Foukal, Peter;  et al. (1977). "The effects of sunspots and faculae on the solar constant". Astrophysical Journal. 215: 952. Bibcode:1977ApJ...215..952F. doi:10.1086/155431.
+Stetson, H.T. (1937). Sunspots and Their Effects. New York: McGraw Hill.
+Yaskell, Steven Haywood (31 December 2012). Grand Phases On The Sun: The case for a mechanism responsible for extended solar minima and maxima. Trafford Publishing. ISBN 978-1-4669-6300-9.
+
+
+== External links ==
+Global Solar Atlas - browse or download maps and GIS data layers (global or per country) of the long-term averages of solar irradiation data (published by the World bank, provided by Solargis)]
+Solcast - solar irradiance data updated every 10–15 minutes. Recent, live, historical and forecast, free for public research use
+Recent Total Solar Irradiance data updated every Monday
+San Francisco Solar Map
+European Commission- Interactive Maps
+Yesterday's Australian Solar Radiation Map
+Solar Radiation using Google Maps
+SMARTS, software to compute solar insolation of each date/location of earth [3]
+NASA Surface meteorology and Solar Energy
+insol: R package for insolation on complex terrain
+Online insolation calculator

@@ -1,0 +1,46 @@
+Een verbranding is een complex geheel van voornamelijk exotherme chemische reacties tussen een brandstof en een oxidator (meestal zuurstofgas) waarbij warmte en licht ontstaat in de vorm van een vlam of een gloed. Verbranding kan zowel met vaste, vloeibare als gasvormige brandstoffen optreden. Een voorbeeld van verbranding is de gedeeltelijke verbranding van zwavel tot zwavelmonoxide (2 S + O2 → 2 SO). Deze reactie kost energie en wordt daarom een endotherme reactie genoemd.
+Buiten een brandstof en een oxidator is doorgaans ook iets nodig om de verbranding in gang te zetten. Dat kan zijn een lucifer of een aansteker om een vuur aan te steken, verhitting door wrijving om de lucifer aan te steken, een piëzo-elektrische vonk om het gas van een aansteker of een gasbrander aan te steken, een elektrische vonk voor een benzinemotor of samendrukking voor een dieselmotor.
+
+
+== Volledige verbranding en onvolledige verbranding ==
+Volledige verbranding van een stof houdt in dat de stof zich zoveel als mogelijk met de oxidator (meestal zuurstof) verbindt. Dit betekent dat in bijna alle gevallen de moleculen van de brandstof geheel in atomen worden gesplitst waarbij ieder atoom zich verbindt met zoveel atomen van de oxidator (meestal zuurstof) als voor dat type atoom mogelijk is. 
+Onvolledige verbranding treedt op als er te weinig oxidator aanwezig is en de verbranding toch niet stopt (bijvoorbeeld door extreme hitte). Bij onvolledige verbranding zullen atomen uit de brandstof zich verbinden met minder atomen van de oxidator (meestal zuurstof) dan voor dat type atoom mogelijk is. Ook kan het zijn dat de moleculen van de brandstof niet volledig in atomen worden opgesplitst, maar dat brokstukken zich verbinden met atomen van de oxidator of zelfs dat niet. Roet is een voorbeeld van zulke onverbrande brokstukken van de brandstof. 
+Bij onvolledige verbranding komt minder warmte vrij dan bij volledige verbranding.
+
+
+== Giftigheid en milieubelasting van verbrandingsproducten ==
+Door vast te stellen uit welke atomen een molecuul van een brandstof bestaat, kan men vaststellen of giftige verbrandingsproducten kunnen vrijkomen. Bij volledige verbranding is het eenvoudig: neem ieder type atoom uit het molecuul van de brandstof en verbind dat (in gedachten) met zo veel mogelijk van de oxidator (meestal zuurstof). Dat zijn de verbrandingsproducten. 
+Bij onvolledige verbranding zijn veel meer verbrandingsproducten mogelijk, die ieder giftig kunnen zijn. Sommige typen atomen kunnen met één of meer submaximale aantallen atomen van de oxidator verbonden worden en ook zijn vele verbrande en onverbrande brokstukken van het molecuul van de brandstof mogelijk. Een belangrijk voorbeeld van een gevaarlijk verbrandingsproduct bij onvolledige verbranding is het verstikkende koolmonoxide. De onvolledige verbranding is vaak het gevolg van een slecht afgestelde kachel. Ook bij brand is koolmonoxide vaak de doodsoorzaak van de slachtoffers.
+
+
+== Verbranding van gasvormige brandstoffen ==
+De eenvoudigste verbranding is die van gasvormige brandstoffen. Zowel de brandstof als de oxidator (doorgaans zuurstof in lucht) zijn dan gasvormig, zodat ze goed mengen en homogeen reageren. Goed bekend is aardgas als brandstof. De meest voorkomende reactie bij deze verbranding is:
+
+CH4 + 2 O2 → CO2 + 2 H2OBij onvolledige verbranding (veroorzaakt door een tekort aan zuurstof) treedt hiernaast onder andere deze reactie op:
+
+2 CH4 + 3 O2 → 2 CO + 4 H2OHet bijproduct van de verbranding is dan koolstofmonoxide (CO). Bij een nog groter gebrek aan zuurstof wordt ook roet (C) gevormd.
+Aardgas is voornamelijk methaangas, maar ook propaangas en butaangas vinden toepassing, vooral op campings en regio's waar geen aardgas voorhanden is.
+De waargenomen vlam is in feite het hete gas dat licht afgeeft volgens de Wet van Planck. De kleur van het licht volgt uit de Wet van Wien. Een goede vlam zal heet zijn, dus grotendeels blauw. Onvolledige verbranding blijkt uit een gele of oranje vlam.
+De oxidator is niet altijd zuurstofgas. Zo gebruikt men in raketmotoren dikwijls waterstofperoxide als oxidator. In springstoffen — waar een heel snelle verbranding gebeurt — is de oxidator nitraat of chromaat.
+
+
+== Verbranding van vloeibare brandstoffen ==
+Ingewikkelder is de verbranding met een vloeibare brandstof. In de regel moet die brandstof eerst tot een gas of tot een nevel overgaan voordat verbranding kan optreden. Zo zal benzine of diesel verstoven worden in een verbrandingskamer. Ook stookolie zal verdampen door de hitte van de verbranding. Ook hier duidt een blauwe vlam op hoge temperatuur en een oranje, gele of rode op lage temperatuur. Het kan ook voorkomen dat de vlam zwart bevat. Dat is dan roet, dus koolstof, die onverbrand met de rook meevliegt. Omdat roet schadelijk is voor de longen zijn veel roetproducerende motoren, zoals diesels, uitgerust met een roetfilter.
+
+
+== Verbranding van vaste brandstoffen ==
+Nog ingewikkelder is de verbranding van vaste brandstoffen. Goede voorbeelden zijn steenkool of hout. Bij hout zal dit eerst moeten drogen door de warmte. Een houtvuur zal daardoor eerst witte rook afgeven. Dit is gewoon waterdamp. In tweede instantie zullen door de hitte de complexe organische moleculen uiteenvallen in kleinere brokstukken, die uiteindelijk als gasvorm vervluchtigen. Die gasverbranding geeft dan de vlammen. De vlammen zijn immers weer hete gassen die oplichten door hun temperatuur. Ook hier kan de rook zwarte roetdeeltjes bevatten, maar ook andere niet volledig verbrande stoffen die in de vaste brandstof zitten en as vormen.
+
+
+== Ongewenste verbranding van stikstof in verbrandingsmotoren ==
+Lucht bevat 21% zuurstofgas en 78% stikstofgas en nog kleine hoeveelheden andere gassen zoals argon. De zuurstof dient als gezegd doorgaans als oxidator. Het stikstofgas is grotendeels inert en neemt dus meestal geen deel aan de reactie. Bij hoge temperatuur kan het nochtans voorkomen, dat stikstofgas en zuurstofgas met elkaar reageren en stikstofoxiden vormen, zogenaamde NOx. Dit is een verzamelbegrip voor NO, NO2, N2O3 enz. Die zijn weer schadelijk voor de longen. Daarom is een benzinemotor uitgerust met een katalysator om die stikstofoxiden af te breken.
+
+
+== Onbrandbaar ==
+De brandbaarheid van stoffen wordt uitgedrukt als energetische waarde in MJ/kg. Zo wordt een stof met een energetische waarde van 2,0 MJ/kg of minder als onbrandbaar aangemerkt.
+
+
+== Zie ook ==
+Oxidatie
+Pyrolyse
+Vuur

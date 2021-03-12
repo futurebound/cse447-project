@@ -1,0 +1,109 @@
+Palaminen on kemiallinen reaktio, jossa palava aine reagoi hapen kanssa. Reaktiossa vapautuu lämpöenergiaa ja syntyy reaktiotuotteita, kuten täydellisen palamisen lopputuotteita vettä ja hiilidioksidia. Tavallisimmin palamisella tarkoitetaan niin nopeaa reaktiota, että aineen lämpötila nousee useisiin satoihin asteisiin.  Erityisen nopeaa palamista kutsutaan lähteestä riippuen humahtamiseksi ja räjähtämiseksi. Palamisesta voi syntyä kaasussa tapahtuva valoilmiö, jota kutsutaan liekiksi. Ilman liekkiä tapahtuvaa palamista kutsutaan hehkupaloksi. Kun arkikielessä puhutaan tulesta, tarkoitetaan yleensä liekkipaloa. Hallinnasta riistäytynyttä palamista sanotaan tulipaloksi.
+Kemiassa ja biologiassa puhutaan myös hitaasta palamisesta, jossa lämpö ehtii levitä ympäristöön siten, ettei tulenliekkejä esiinny eikä lämpötila nouse kovin korkeaksi. Sellaista tapahtuu esimerkiksi lahoamisessa ja soluhengityksessä. Myös raudan ruostuminen ja ruoansulatus on hidasta palamista.
+
+
+== Palon edellytykset ==
+Liekkipalaminen edellyttää toimiakseen syttyvää ainetta, riittävän korkeaa lämpötilaa, riittävästi happea sekä katkeamatonta ketjureaktiota, toisin sanoen palavasta aineesta irtoavien ja palamisen virittämien vapaiden radikaalien jatkuvaa kohtaamista, mistä syntyy liekki. Liekkipalaminen on käytännössä kaasun palamista.
+Vain kiinteät aineet voivat palaa hehkumalla. Hehkupalon edellytykset ovat muuten samat kuin liekkipalon, mutta koska hehkuessa happi yhtyy palavaan aineeseen suoraan aineen pinnassa, katkeamatonta ketjureaktiota ei tarvita.
+Kun jokin palon edellytyksistä poistetaan, palo sammuu.
+
+
+== Palaminen kemiallisena reaktiona ==
+
+Syttyvät aineet syttyvät kullekin aineelle ominaisessa lämpötilassa, aineen pitoisuudessa, happipitoisuudessa. Syttymiseen liittyy erilaisia ainekohtaisia lämpötiloja kuten savupiste, syttymispiste, leimahduspiste ja palopiste. Syttyvä aine voi myös syttyä ilman ulkoista sytytyslähdettä itsesyttymislämpötilassaan.
+Palaminen on eksoterminen reaktio. Aineen palaessa vapautuu energiaa, jonka voi havaita lämpönä ja  yleensä myös valona. Vapautuvan energian määrä riippuu palavasta aineesta, ja jokaisella kemiallisella yhdisteellä on sille ominainen palamislämpö. Palamislämpötila riippuu myös palamisprosessin tapahtumisen nopeudesta. 
+Kun aine palaa, muodostuu oksideja. Esimerkiksi vedyn palaessa syntyy divetyoksidia eli vettä (H2O), korkean lämpötilan vuoksi kuitenkin höyrynä. Vesi soveltuu tämän takia palojen sammuttamiseen, sillä se on täydellisen palamisen lopputulos eikä voi enää syttyä. Toisaalta esimerkiksi hiilimonoksidi eli häkä (CO) on vain osaksi palanutta hiiltä ja se palaa herkästi edelleen, jolloin syntyy hiilidioksidia (CO2). Hiilen palaessa syntyvä hiilimonoksidi kuitenkin leviää sellaisenaan ympäröivään ilmaan, jos happea ei ole riittävästi sen palamiseen.
+Helposti palavia alkuaineita ovat myös esimerkiksi rikki ja fosfori, joiden palaessa syntyy rikkidioksidia (SO2) ja fosforipentoksidia (P2O5). Palamistuotteista hiilimonoksidi, hiilidioksidi ja rikkidioksidi ovat normaalilämpötiloissa kaasuja, fosforipentoksidi sitä vastoin kiinteää ainetta.
+Orgaanisen aineen palaessa siinä olevat molekyylit aluksi hajoavat tuottaen radikaaleja ja atomeja, joiden määrä riippuu molekyylin rakenteesta ja massasta. Muodostuneet lyhytikäiset kemialliset yhdisteet reagoivat helposti hapen/happiatomin kanssa. Jo yksinkertaisen molekyylin kuten metaanin palamisprosessi on monimutkainen tapahtuma ja siihen vaikuttaa suuresti palamisolosuhteet ja läsnäolevan hapen määrä. Metaanin palamisen bruttoreaktio on 
+  
+    
+      
+        
+          
+            CH
+            
+              4
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {CH4 + 2 O2 -> CO2 + 2 H2O}}}
+  , mutta metaanin palamisen lopputuotejakauman ymmärtäminen eri palamisolosuhteissa edellyttää palamisprosessin eri reaktiovaiheiden ottamista mukaan palamisen malliin. 
+Palamisen yhteydessä esiintyvät tulen liekit koostuvat kuumista kaasuista, joita muodostuu kiinteän tai nestemäisen aineen kaasuuntuessa liekkiin sekä atomeista ja CH-radikaaleista. Liekissä voi olla myös kiinteitä hiukkasia kuten hieno­jakoista hiili­pölyä eli nokea epätäydellisen palamisen seurauksena. Varsinainen palaminen tapahtuu liekin ulko­pinnalla näiden hajoamis­tuotteiden reagoidessa keskenään ja happiyhdisteiden kanssa, sillä liekkien sisäosissa ei happea ole.  Esimerkiksi puun palaessa yhtenä hajoamis­tuotteena syntyy myös vapaana alku­aineena olevaa hiiltä, mutta koska se ei haihdu eikä myöskään ole suoraan kosketuksissa ilman hapen kanssa, siitä muodostuu hiillos, joka palaa vasta, kun muut ainekset ovat palaneet, tällöin hehku­palona. 
+Useimmiten orgaanisten aineiden palaminen jää epätäydelliseksi: osa niiden hajoamis­tuotteista leviää palamatta ympäristöön sellaisenaan ja tiivistyy viileämmässä ilmassa pieniksi hiukkasiksi, jotka kaasuihin sekoittuneena muodostavat savua. Eräs tällainen hajoamis­tuote on monien aineiden palaessa pieninä määrinä syntyvä akroleiini, josta aiheutuu savun silmiä ja hengitys­elimiä ärsyttävä vaikutus.Yleensä orgaaniset aineet sisältävät myös palamattomia kiinteitä ainesosia, jotka jäävät muuten täydellisenkin palamisen jälkeen jäljelle tuhkana. Useimpien puulajien melko suuren kaliumpitoisuuden vuoksi puun tuhka sisältää runsaasti kaliumkarbonaattia, K2CO3.
+
+
+== Palamiseen liittyviä vanhoja sanoja ==
+
+Sana palaa on ikivanha ja omaperäinen sana suomensukuisissa kielissä. Se on johdettu syömistä tai nielemistä merkitsevästä kantasanasta pala (rekonstruktio). Samasta kantasanasta on johdettu myös osaa merkitsevä sana pala (myös palanen), alun perin "suupalan" merkityksessä. Sanat palella ja pakkanen taas on ilmeisesti johdettu palaa-sanasta, ja tällöin on ajateltu, että pakkanen polttaa tai on voimakas kuin tuli. Sama ajatus, tulen ja kylmän vertaus, on pohjalla myös paljon myöhemmässä sanassa tulipalopakkanen, joka tavallaan ilmaisee saman asian kahdesti. Tulipalopakkasella tarkoitetaan myös kovia pakkasia, joiden aikana varsinkin ennen oli vaara, että talo syttyy palamaan, koska sitä täytyi lämmittää niin paljon ja voimakkaasti pitkiäkin aikoja, että esimerkiksi piippu saattoi haljeta suurista lämpötilavaihteluista.Sana syttyä on ilmeisesti tarkoittanut tulen iskemistä eli tulen sytyttämistä kipinöistä, jotka saatiin lyömällä esineitä vastakkain. Sana syttyä on yleisimmän käsityksen mukaan johdettu yhteen iskemistä merkitsevästä syteä-verbistä. Samasta juontuvat myös sanat sykkiä ja sysätä. Tuli on siis sytytetty "sysäämällä" esineitä yhteen. Sykkimisen merkityksen kautta myös sana sydän on samaa kantaa. Toisen teorian mukaan sana syttyä on ikivanhaa lainaa arjalaiskielistä, mutta tässäkin tapauksessa se olisi alun perin merkinnyt juuri tulen iskentää.Polttaa-sanasta paljastuu toinen tulen sytyttämisen tapa. Sana polttaa on sukua porata-sanalle, ja tämä yhteys käy selvemmäksi läheisistä sanoista porottaa ja poro (tuhka). Sanojen taustalla on kitkan kasvattamaan lämpöön perustuvan tuliporan käyttö. Tulipora on keppi, jota on pyöritelty nopeaan tahtiin joko kämmenten välissä tai jousen avulla, samalla, kun sen päätä on painettu puuta vasten. Hankaus on lämmittänyt puuta ja lopulta sytyttänyt sen palamaan. Nuohous on voinut myös merkitä tulen hankaamista, ja poron tavalla myös nuoha on merkinnyt tuhkaa. Vaivoin kytevän aineksen eli kydön nostatus ilmiliekkiin, lietsonta, taas tarkoittaa puhumista tulelle eli puhaltamista tuleen, samaan tapaan kuin loitsu tarkoittaa puhumista ikään kuin jotain yliluonnollista puhaltaen. Sana liekki lieneekin tullut lietsoa-sanasta ja tarkoittanut lietsottua tulta, ilmiliekkiä. Ilmestyessään liekki leimahtaa.Tuli lienee sanoista vanhin. Sille on vastineita kaukaisissakin suomalais-ugrilaisissa kielissä. Sitä ei tiedetä lainatun tai johdetun mistään, tosin yhteyksiä tulla-verbiin on ehdotettu. Jos näin olisi, merkitys olisi voinut kehittyä käsityksestä, että tuli tulee eli ilmestyy, kuten on asian laita sanassa ilmiliekki.
+
+
+== Tulentekotapoja ==
+Tuli voidaan saada aikaiseksi muiden muassa seuraavilla välineillä:
+
+Kitka
+Suurennuslasi
+Sytytin
+Tulitikut
+Tulukset
+Muut eksotermiset kemialliset reaktiot; esimerkiksi hartsin kuumeneminen kovettuessaanLuonnossa tuli voi syttyä muiden muassa seuraavilla tavoilla:
+
+Meteoriitti
+Salama
+Vulkaanisen toiminnan seurauksena
+biologinen toiminta; esimerkiksi kiivas bakteeritoiminta juuri leikatussa ruohossa
+
+
+== Katso myös ==
+Kuumaliekkipalaminen
+Ketjureaktio
+Tuli
+Polttoaine
+Sammutus
+Hapetus-pelkistysreaktio
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+ Kuvia tai muita tiedostoja aiheesta Palaminen Wikimedia Commonsissa

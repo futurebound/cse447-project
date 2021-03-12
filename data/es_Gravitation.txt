@@ -1,0 +1,1288 @@
+La gravedad es un fenómeno natural por el cual los objetos con masa son atraídos entre sí, efecto mayormente observable en la interacción entre los planetas, galaxias y demás objetos del universo. Es una de las cuatro interacciones fundamentales que origina la aceleración que experimenta un cuerpo físico en las cercanías de un objeto astronómico. También se denomina interacción gravitatoria o gravitación.
+Si un cuerpo está situado en las proximidades de un planeta, un observador a una distancia fija del planeta medirá una aceleración del cuerpo dirigida hacia la zona central de dicho planeta, si tal cuerpo no está sometido al efecto de otras fuerzas. La Oficina Internacional de Pesas y Medidas estableció en 1901 una gravedad estándar para la superficie de la Tierra, acorde al Sistema Internacional, con un valor fijo de 9,80665 m/s².[1]​
+
+
+== Introducción ==
+La gravedad es una de las cuatro interacciones fundamentales observadas en la naturaleza. Origina los movimientos a gran escala que se observan en el universo: la órbita de la Luna alrededor de la Tierra, las órbitas de los planetas alrededor del Sol, etcétera. A escala cosmológica parece ser la interacción dominante, pues gobierna la mayoría de los fenómenos a gran escala (las otras tres interacciones fundamentales son predominantes a escalas más pequeñas). El electromagnetismo explica el resto de los fenómenos macroscópicos, mientras que la interacción fuerte y la interacción débil son importantes solo a escala subatómica.
+El término «gravedad» se utiliza para designar la intensidad del fenómeno gravitatorio en la superficie de los planetas o satélites. Isaac Newton fue el primero en exponer que es de la misma naturaleza la fuerza que hace que los objetos caigan con aceleración constante en la Tierra (gravedad terrestre) y la fuerza que mantiene en movimiento los planetas y las estrellas. Esta idea le llevó a formular la primera teoría general de la gravitación, la universalidad del fenómeno, expuesta en su obra Philosophiae Naturalis Principia Mathematica.
+Einstein, en la teoría de la relatividad general hace un análisis diferente de la interacción gravitatoria. De acuerdo con esta teoría, la gravedad puede entenderse como un efecto geométrico de la materia sobre el espacio-tiempo. Cuando cierta cantidad de materia ocupa una región del espacio-tiempo, provoca que este se deforme, de este modo la deformación de este es como si el mismo espacio-tiempo se comprimiera en dirección al centro de masa de un objeto. Visto así, la fuerza gravitatoria deja de ser una  "misteriosa fuerza que atrae", y se convierte en el efecto que produce la deformación del espacio-tiempo —de geometría no euclídea— sobre el movimiento de los cuerpos. Según esta teoría, dado que todos los objetos se mueven en el espacio-tiempo, al deformarse este, la trayectoria de aquellos será desviada produciendo su aceleración.
+
+
+== Mecánica clásica: ley de la gravitación universal de Isaac Newton ==
+
+En la teoría newtoniana de la gravitación, los efectos de la gravedad son siempre atractivos, y la fuerza resultante se calcula respecto del centro de gravedad de ambos objetos (en el caso de la Tierra, el centro de gravedad es su centro de masas, al igual que en la mayoría de los cuerpos celestes de características homogéneas). La gravedad newtoniana tiene un alcance teórico infinito; la fuerza es mayor si los objetos están próximos pero a mayor distancia dicha fuerza pierde intensidad. Además Newton postuló que la gravedad es una acción a distancia (y por tanto a nivel relativista no es una descripción correcta, sino solo una primera aproximación para cuerpos en movimiento muy lento comparado con la velocidad de la luz).
+La ley de la gravitación universal formulada por Isaac Newton postula que la fuerza que ejerce una partícula puntual con masa 
+  
+    
+      
+        
+          m
+          
+            1
+          
+        
+      
+    
+    {\displaystyle m_{1}}
+   sobre otra con masa 
+  
+    
+      
+        
+          m
+          
+            2
+          
+        
+      
+    
+    {\displaystyle m_{2}}
+   es directamente proporcional al producto de las masas, e inversamente proporcional al cuadrado de la distancia que las separa:
+
+  
+    
+      
+        
+          
+            F
+          
+          
+            21
+          
+        
+        =
+        −
+        G
+        
+          
+            
+              
+                m
+                
+                  1
+                
+              
+              
+                m
+                
+                  2
+                
+              
+            
+            
+              
+                |
+              
+              
+                
+                  r
+                  
+                    2
+                  
+                
+              
+              −
+              
+                
+                  r
+                  
+                    1
+                  
+                
+              
+              
+                
+                  |
+                
+                
+                  2
+                
+              
+            
+          
+        
+        
+          
+            
+              
+                u
+                ^
+              
+            
+          
+          
+            21
+          
+        
+      
+    
+    {\displaystyle \mathbf {F} _{21}=-G{\frac {m_{1}m_{2}}{|\mathbf {r_{2}} -\mathbf {r_{1}} |^{2}}}\mathbf {\hat {u}} _{21}}
+  
+
+donde 
+  
+    
+      
+        
+          
+            
+              
+                u
+                ^
+              
+            
+          
+          
+            21
+          
+        
+      
+    
+    {\displaystyle \mathbf {\hat {u}} _{21}}
+   es el vector unitario que dirigido de la partícula 1 a la 2, esto es, en la dirección del vector
+
+  
+    
+      
+        
+          
+            r
+          
+          
+            21
+          
+        
+        =
+        
+          
+            r
+          
+          
+            2
+          
+        
+        −
+        
+          
+            r
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \mathbf {r} _{21}=\mathbf {r} _{2}-\mathbf {r} _{1}}
+  , y 
+  
+    
+      
+        G
+        
+        
+      
+    
+    {\displaystyle G\,\!}
+   es la constante de gravitación universal, siendo su valor aproximadamente 6,674 × 10−11 N·m²/kg².
+Por ejemplo, usando la ley de la gravitación universal, podemos calcular la fuerza de atracción entre la Tierra y un cuerpo de 50 kg. La masa de la Tierra es 5,974 × 1024 kg y la distancia entre el centro de gravedad de la Tierra (centro de la tierra) y el centro de gravedad del cuerpo es 6378,14 km (igual a 6 378 140 m, y suponiendo que el cuerpo se encuentre sobre la línea del ecuador). Entonces, la fuerza es:
+
+  
+    
+      
+        F
+        =
+        G
+        
+          
+            
+              
+                m
+                
+                  1
+                
+              
+              
+                m
+                
+                  2
+                
+              
+            
+            
+              d
+              
+                2
+              
+            
+          
+        
+        =
+        6
+        ,
+        67428
+        ×
+        
+          10
+          
+            −
+            11
+          
+        
+        
+          
+            
+              50
+              ×
+              5
+              ,
+              974
+              ⋅
+              
+                10
+                
+                  24
+                
+              
+            
+            
+              6378140
+              
+                2
+              
+            
+          
+        
+        =
+        490
+        ,
+        062
+         
+        
+          N
+        
+      
+    
+    {\displaystyle F=G{\frac {m_{1}m_{2}}{d^{2}}}=6,67428\times 10^{-11}{\frac {50\times 5,974\cdot 10^{24}}{6378140^{2}}}=490,062\ {\text{N}}}
+  
+
+La fuerza con que se atraen la Tierra y el cuerpo de 50 kg es 490.062 N (Newtons, Sistema Internacional de Unidades), lo que representa 50 kgf (kilogramo-fuerza, Sistema Técnico), como cabía esperar, por lo que decimos simplemente que el cuerpo pesa 50 kg.
+Dentro de esta ley empírica, tenemos estas importantes conclusiones:
+
+Las fuerzas gravitatorias son siempre atractivas. El hecho de que los planetas describan una órbita cerrada alrededor del Sol indica este hecho. Una fuerza atractiva puede producir también órbitas abiertas, pero una fuerza repulsiva nunca podrá producir órbitas cerradas.
+Tienen alcance infinito. Dos cuerpos, por muy alejados que se encuentren, experimentan esta fuerza.
+La fuerza asociada con la interacción gravitatoria es central.
+A mayor distancia menor fuerza de atracción, y a menor distancia mayor la fuerza de atracción.A pesar de los siglos, hoy sigue utilizándose cotidianamente esta ley en el ámbito del movimiento de cuerpos incluso a la escala del sistema solar, aunque esté desfasada teóricamente. Para estudiar el fenómeno en su completitud hay que recurrir a la teoría de la Relatividad General.
+
+
+=== Problema de los dos cuerpos y órbitas planetarias ===
+
+La ley de Newton aplicada a un sistema de dos partículas o dos cuerpos, cuyas dimensiones físicas son pequeñas comparadas con las distancias entre ellos, lleva a que ambos cuerpos describirán una curva cónica (elipse, parábola o hipérbola) respecto a un sistema de referencia inercial con origen en el centro de masa del sistema, que además coincidirá con uno de los focos de la cónica. Si la energía total del sistema (energía potencial más energía cinética de los cuerpos) es negativa, entonces las curvas cónicas que dan la trayectoria de ambos cuerpos serán elipses. Ese resultado fue la primera deducción teórica de que los planetas reales se mueven en trayectorias que con bastante aproximación, son elipses, y permitió explicar diversas observaciones empíricas resumidas en las leyes de Kepler.
+
+
+=== Problema de los tres cuerpos ===
+
+De acuerdo con la descripción newtoniana, cuando se mueven tres cuerpos bajo la acción de su campo gravitatorio mutuo, como el sistema Sol-Tierra-Luna, la fuerza sobre cada cuerpo es justamente la suma vectorial de las fuerzas gravitatorias ejercidas por los otros dos. Así las ecuaciones de movimiento son fáciles de escribir pero difíciles de resolver ya que no son lineales. De hecho, es bien conocido que la dinámica del problema de los tres cuerpos de la mecánica clásica es una dinámica caótica.
+Desde la época de Newton se ha intentado hallar soluciones matemáticamente exactas del problema de los tres cuerpos, hasta que a finales del siglo XIX Henri Poincaré demostró en un célebre trabajo que era imposible una solución general analítica (sin embargo, se mostró también que por medio de series infinitas convergentes se podía solucionar el problema). Solo en algunas circunstancias son posibles ciertas soluciones sencillas. Por ejemplo, si la masa de uno de los tres cuerpos es mucho menor que la de los otros dos (problema conocido como problema restringido de los tres cuerpos), el sistema puede ser reducido a un problema de dos cuerpos más otro problema de un solo cuerpo.
+
+
+== Mecánica relativista: Teoría general de la relatividad ==
+
+Albert Einstein revisó la teoría newtoniana en su teoría de la relatividad general, describiendo la interacción gravitatoria como una deformación de la geometría del espacio-tiempo por efecto de la masa de los cuerpos; el espacio y el tiempo asumen un papel dinámico.
+Según Einstein, no existe el empuje gravitatorio; dicha fuerza es una ilusión, un efecto de la geometría. Así, la Tierra deforma el espacio-tiempo de nuestro entorno, de manera que el propio espacio nos empuja hacia el suelo. Una hormiga, al caminar sobre un papel arrugado, tendrá la sensación de que hay fuerzas misteriosas que la empujan hacia diferentes direcciones, pero lo único que existe son pliegues en el papel, su geometría.
+La deformación geométrica viene caracterizada por el tensor métrico que satisface las ecuaciones de campo de Einstein. La "fuerza de la gravedad" newtoniana es solo un efecto asociado al hecho de que un observador en reposo respecto a la fuente del campo no es un observador inercial y por tanto al tratar de aplicar el equivalente relativista de las leyes de Newton mide fuerzas ficticias dadas por los símbolos de Christoffel de la métrica del espacio-tiempo.
+La gravedad convencional de acuerdo con la teoría de la relatividad tiene generalmente características atractivas, mientras que la denominada energía oscura parece tener características de fuerza gravitacional repulsiva, causando la acelerada expansión del universo.
+
+
+=== Cálculo relativista de la fuerza aparente ===
+En presencia de una masa esférica, el espacio-tiempo no es plano sino curvo, y el tensor métrico g que sirve para calcular las distancias viene dado en coordenadas usuales 
+  
+    
+      
+        
+          (
+          t
+          ,
+          r
+          ,
+          θ
+          ,
+          ϕ
+          )
+        
+      
+    
+    {\displaystyle \scriptstyle (t,r,\theta ,\phi )}
+  , llamada métrica de Schwarzschild:
+
+  
+    
+      
+        g
+        =
+        −
+        
+          c
+          
+            2
+          
+        
+        
+          (
+          
+            1
+            −
+            
+              
+                
+                  2
+                  G
+                  M
+                
+                
+                  
+                    c
+                    
+                      2
+                    
+                  
+                  r
+                
+              
+            
+          
+          )
+        
+        
+          d
+        
+        t
+        ⊗
+        
+          d
+        
+        t
+        +
+        
+          
+            (
+            
+              1
+              −
+              
+                
+                  
+                    2
+                    G
+                    M
+                  
+                  
+                    
+                      c
+                      
+                        2
+                      
+                    
+                    r
+                  
+                
+              
+            
+            )
+          
+          
+            −
+            1
+          
+        
+        
+          d
+        
+        r
+        ⊗
+        
+          d
+        
+        r
+        +
+        
+          r
+          
+            2
+          
+        
+        
+          (
+          
+            
+              d
+            
+            θ
+            ⊗
+            
+              d
+            
+            θ
+            +
+            
+              sin
+              
+                2
+              
+            
+            ⁡
+            θ
+             
+            
+              d
+            
+            φ
+            ⊗
+            
+              d
+            
+            φ
+          
+          )
+        
+      
+    
+    {\displaystyle g=-c^{2}\left(1-{\frac {2GM}{c^{2}r}}\right)\mathrm {d} t\otimes \mathrm {d} t+\left(1-{\frac {2GM}{c^{2}r}}\right)^{-1}\mathrm {d} r\otimes \mathrm {d} r+r^{2}\left(\mathrm {d} \theta \otimes \mathrm {d} \theta +\sin ^{2}\theta \ \mathrm {d} \varphi \otimes \mathrm {d} \varphi \right)}
+  
+
+donde G es la constante de gravitación universal, M es la masa de la estrella, y c es la velocidad de la luz. La ecuación de las geodésicas dará la ecuación de las trayectorias en el espacio-tiempo curvo. Si se considera una partícula en reposo respecto a la masa gravitatoria que crea el campo, se tiene que esta seguirá una trayectoria dada por las ecuaciones:
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            
+                              d
+                              
+                                2
+                              
+                            
+                            r
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            d
+                            
+                              τ
+                              
+                                2
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                  =
+                  +
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            G
+                            M
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            (
+                            
+                              c
+                              
+                                2
+                              
+                            
+                            r
+                            −
+                            2
+                            G
+                            M
+                            )
+                            r
+                          
+                        
+                      
+                    
+                  
+                  
+                    
+                      (
+                      
+                        
+                          
+                            
+                              
+                            
+                            
+                              
+                                d
+                                r
+                              
+                            
+                          
+                          
+                            
+                              
+                            
+                            
+                              
+                                d
+                                τ
+                              
+                            
+                          
+                        
+                      
+                      )
+                    
+                    
+                      2
+                    
+                  
+                  −
+                  
+                    (
+                    
+                      r
+                      −
+                      
+                        
+                          
+                            
+                              
+                            
+                            
+                              
+                                2
+                                G
+                                M
+                              
+                            
+                          
+                          
+                            
+                              
+                            
+                            
+                              
+                                
+                                  c
+                                  
+                                    2
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            G
+                            M
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            
+                              r
+                              
+                                3
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                  
+                    
+                      (
+                      
+                        
+                          
+                            
+                              
+                            
+                            
+                              
+                                d
+                                t
+                              
+                            
+                          
+                          
+                            
+                              
+                            
+                            
+                              
+                                d
+                                τ
+                              
+                            
+                          
+                        
+                      
+                      )
+                    
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+              
+              
+                
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            
+                              d
+                              
+                                2
+                              
+                            
+                            t
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            d
+                            
+                              τ
+                              
+                                2
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                  =
+                  −
+                  2
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            G
+                            M
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            (
+                            
+                              c
+                              
+                                2
+                              
+                            
+                            r
+                            −
+                            2
+                            G
+                            M
+                            )
+                            r
+                          
+                        
+                      
+                    
+                  
+                  
+                    (
+                    
+                      
+                        
+                          
+                            
+                          
+                          
+                            
+                              d
+                              r
+                            
+                          
+                        
+                        
+                          
+                            
+                          
+                          
+                            
+                              d
+                              τ
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                  
+                    (
+                    
+                      
+                        
+                          
+                            
+                          
+                          
+                            
+                              d
+                              t
+                            
+                          
+                        
+                        
+                          
+                            
+                          
+                          
+                            
+                              d
+                              τ
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}{\cfrac {d^{2}r}{d\tau ^{2}}}=+{\cfrac {GM}{(c^{2}r-2GM)r}}\left({\cfrac {dr}{d\tau }}\right)^{2}-\left(r-{\cfrac {2GM}{c^{2}}}\right){\cfrac {GM}{r^{3}}}\left({\cfrac {dt}{d\tau }}\right)^{2}\\\\{\cfrac {d^{2}t}{d\tau ^{2}}}=-2{\cfrac {GM}{(c^{2}r-2GM)r}}\left({\cfrac {dr}{d\tau }}\right)\left({\cfrac {dt}{d\tau }}\right)\end{cases}}}
+  
+
+La primera de estas ecuaciones da el cambio de la coordenada radial, y la segunda da la dilatación del tiempo respecto a un observador inercial, situado a una distancia muy grande respecto a la masa que crea el campo. Si se particularizan esas ecuaciones para el instante inicial en que la partícula está en reposo y empieza a moverse desde la posición inicial, se llega a que la fuerza aparente que mediría un observador en reposo viene dada por:
+
+  
+    
+      
+        
+          
+            
+              
+                
+              
+              
+                
+                  
+                    d
+                    
+                      2
+                    
+                  
+                  r
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  d
+                  
+                    τ
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+        
+        =
+        −
+        
+          (
+          
+            r
+            −
+            
+              
+                
+                  
+                    
+                  
+                  
+                    
+                      2
+                      G
+                      M
+                    
+                  
+                
+                
+                  
+                    
+                  
+                  
+                    
+                      
+                        c
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        
+          
+            
+              
+                
+              
+              
+                
+                  G
+                  M
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  
+                    r
+                    
+                      3
+                    
+                  
+                
+              
+            
+          
+        
+        
+          
+            (
+            
+              
+                
+                  
+                    
+                  
+                  
+                    
+                      d
+                      t
+                    
+                  
+                
+                
+                  
+                    
+                  
+                  
+                    
+                      d
+                      τ
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        =
+        −
+        
+          
+            
+              
+                
+              
+              
+                
+                  G
+                  M
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  
+                    r
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+        
+        
+          [
+          
+            
+              (
+              
+                1
+                −
+                
+                  
+                    
+                      
+                        
+                      
+                      
+                        
+                          2
+                          G
+                          M
+                        
+                      
+                    
+                    
+                      
+                        
+                      
+                      
+                        
+                          
+                            c
+                            
+                              2
+                            
+                          
+                          r
+                        
+                      
+                    
+                  
+                
+              
+              )
+            
+            
+              
+                (
+                
+                  
+                    
+                      
+                        
+                      
+                      
+                        
+                          d
+                          t
+                        
+                      
+                    
+                    
+                      
+                        
+                      
+                      
+                        
+                          d
+                          τ
+                        
+                      
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+          
+          ]
+        
+        ≈
+        −
+        
+          
+            
+              
+                
+              
+              
+                
+                  G
+                  M
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  
+                    r
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\cfrac {d^{2}r}{d\tau ^{2}}}=-\left(r-{\cfrac {2GM}{c^{2}}}\right){\cfrac {GM}{r^{3}}}\left({\cfrac {dt}{d\tau }}\right)^{2}=-{\cfrac {GM}{r^{2}}}\left[\left(1-{\cfrac {2GM}{c^{2}r}}\right)\left({\cfrac {dt}{d\tau }}\right)^{2}\right]\approx -{\cfrac {GM}{r^{2}}}}
+  
+
+Esta expresión coincide con la expresión de la teoría newtoniana si se tiene en cuenta que la dilatación del tiempo gravitatoria para un observador dentro de un campo gravitatorio y en reposo respecto a la fuente del campo viene dado por:
+
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  
+                    
+                  
+                  
+                    
+                      d
+                      t
+                    
+                  
+                
+                
+                  
+                    
+                  
+                  
+                    
+                      d
+                      τ
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        =
+        
+          
+            [
+            
+              1
+              −
+              
+                
+                  
+                    
+                      
+                    
+                    
+                      
+                        2
+                        G
+                        M
+                      
+                    
+                  
+                  
+                    
+                      
+                    
+                    
+                      
+                        
+                          c
+                          
+                            2
+                          
+                        
+                        r
+                      
+                    
+                  
+                
+              
+            
+            ]
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \left({\cfrac {dt}{d\tau }}\right)^{2}=\left[1-{\cfrac {2GM}{c^{2}r}}\right]^{-1}}
+  
+
+
+=== Ondas gravitatorias ===
+
+Además, la relatividad general predice la propagación de ondas gravitatorias. Estas ondas solo podrían ser medibles si las originan fenómenos astrofísicos violentos, como el choque de dos estrellas masivas o remanentes del Big Bang. Estudios preliminares sugieren que estas ondas han sido finalmente detectadas[2]​ de forma indirecta en la variación del periodo de rotación de púlsares dobles, y según el proyecto LIGO, también se detectaron provenientes de la unión de dos agujeros negros.[3]​ Por otro lado, las teorías cuánticas actuales apuntan a una "unidad de medida de la gravedad", el gravitón, como partícula que provoca dicha "fuerza", es decir, como partícula asociada al campo gravitatorio.
+
+
+=== Efectos gravitatorios ===
+Con la ayuda de esta nueva teoría, se pueden observar y estudiar una nueva serie de sucesos antes no explicables o no observados:
+
+Desviación gravitatoria de luz hacia el rojo en presencia de campos con intensa gravedad: la frecuencia de la luz decrece al pasar por una región de elevada gravedad. Confirmado por el experimento de Pound y Rebka (1959).
+Dilatación gravitatoria del tiempo: los relojes situados en condiciones de gravedad elevada marcan el tiempo más lentamente que relojes situados en un entorno sin gravedad. Demostrado experimentalmente con relojes atómicos situados sobre la superficie terrestre y los relojes en órbita del Sistema de Posicionamiento Global (GPS por sus siglas en inglés). También, aunque se trata de intervalos de tiempo muy pequeños, las diferentes pruebas realizadas con sondas planetarias han dado valores muy cercanos a los predichos por la relatividad general.
+Efecto Shapiro (dilatación gravitatoria de desfases temporales): diferentes señales atravesando un campo gravitatorio intenso necesitan mayor tiempo para hacerlo.
+Decaimiento orbital debido a la emisión de radiación gravitatoria. Observado en púlsares binarios.
+Precesión geodésica: debido a la curvatura del espacio-tiempo, la orientación de un giroscopio en rotación cambiará con el tiempo. Esto está siendo puesto a prueba por el satélite Gravity Probe B.
+
+
+== Mecánica cuántica: búsqueda de una teoría unificada ==
+
+Aunque aún no se dispone de una auténtica descripción cuántica de la gravedad, todos los intentos por crear una teoría física que satisfaga simultáneamente los principios cuánticos y a grandes escalas coincida con la teoría de Einstein de la gravitación, han encontrado grandes dificultades. En la actualidad existen algunos enfoques prometedores como la gravedad cuántica de bucles, la teoría de supercuerdas o la teoría de twistores, pero ninguno de ellos es un modelo completo que pueda suministrar predicciones suficientemente precisas. Además se han ensayado un buen número de aproximaciones semiclásicas que han sugerido nuevos efectos que debería predecir una teoría cuántica de la gravedad. Por ejemplo, Stephen Hawking usando uno de estos últimos enfoques sugirió que un agujero negro debería emitir cierta cantidad de radiación, efecto que se llamó radiación de Hawking y que aún no ha sido verificado empíricamente.
+Las razones de las dificultades de una teoría unificada son varias. La mayor de ellas es que en el resto de teorías cuánticas de campos la estructura del espacio-tiempo es fija totalmente independiente de la materia, pero en cambio, en una teoría cuántica de la gravedad el propio espacio-tiempo debe estar sujeto a principios probabilistas, pero no sabemos como describir un espacio de Hilbert para los diversos estados cuánticos del propio espacio-tiempo. Así La unificación de la fuerza gravitatoria con las otras fuerzas fundamentales sigue resistiéndose a los físicos. La aparición en el Universo de materia oscura o una aceleración de la expansión del Universo hace pensar que todavía falta una teoría satisfactoria de las interacciones gravitatorias completas de las partículas con masa.
+Otro punto difícil, es que de acuerdo con los principios cuánticos, el campo gravitatorio debería manifestarse en «cuantos» o partículas bosónicas transmisoras de la influencia gravitatoria. Dadas las características del campo gravitatorio, la supuesta partícula que transmitiría la interacción gravitatoria, llamada provisionalmente gravitón, debería ser una partícula sin masa (o con una masa extremadamente pequeña) y un espín de 
+  
+    
+      
+        2
+        ℏ
+      
+    
+    {\displaystyle 2\hbar }
+  . Sin embargo, los experimentos de detección de ondas gravitatorias todavía no han encontrado evidencia de la existencia del gravitón, por lo que de momento no es más que una conjetura física que podría no corresponderse con la realidad.
+
+
+=== La interacción gravitatoria como fuerza fundamental ===
+La interacción gravitatoria es una de las cuatro fuerzas fundamentales de la Naturaleza, junto al electromagnetismo, la interacción nuclear fuerte y la interacción nuclear débil. A diferencia de las fuerzas nucleares y a semejanza del electromagnetismo, actúa a grandes distancias. Sin embargo, al contrario que el electromagnetismo, la gravedad es una fuerza de tipo atractiva aunque existen casos particulares en que las geodésicas temporales pueden expandirse en ciertas regiones del espacio-tiempo, lo cual hace aparecer a la gravedad como una fuerza repulsiva, por ejemplo la energía oscura. Este es el motivo de que la gravedad sea la fuerza más importante a la hora de explicar los movimientos celestes.
+
+
+== Véase también ==
+Ingravidez
+Anomalía gravitatoria
+Anomalía geoidal
+Campo gravitatorio
+Interacciones fundamentales
+Teoría general de la relatividad
+Teoría de supercuerdas
+Superfuerza
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Halliday, David; Robert Resnick; Kenneth S. Krane (2001). Physics v. 1 (en inglés). Nueva York: John Wiley & Sons. ISBN 0-471-32057-9. 
+Serway, Raymond A.; Jewett, John W. (2004). Physics for Scientists and Engineers (en inglés) (6ª edición). Brooks/Cole. ISBN 0-534-40842-7. 
+Tipler, Paul Allen; Gene Mosca (2004). Physics for Scientists and Engineers: Mechanics, Oscillations and Waves, Thermodynamics (en inglés) (5ª edición). W.H. Freeman & Company. p. 650. ISBN 0-7167-0809-4. 
+Wald, Robert M. (1994). Quantum Field Theory in Curved Spacetime and Black Hole Thermodynamics (en inglés). Chicago University Press. p. 205. ISBN 0-226-87027-8. 
+Wald, Robert M. (1984). General Relativity (en inglés) (12ª edición). Chicago University Press. p. 491. ISBN 0-226-87033-2. 
+
+
+== Enlaces externos ==
+ Wikcionario  tiene definiciones y otra información sobre gravedad.
+ Wikimedia Commons alberga una categoría multimedia sobre Gravedad.
+ Wikiquote alberga frases célebres de o sobre Gravedad.
+Medida de la constante G de la Gravitación Universal, en sc.ehu.es (ac. 04-04-09).
+http://curious.astro.cornell.edu/question.php?number=310
+Los secretos de la gravedad.
+https://es.quora.com/Por-qu%C3%A9-no-sabemos-qu%C3%A9-provoca-la-gravedad/answer/Enrique-Casanovas-3

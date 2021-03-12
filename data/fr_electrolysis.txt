@@ -1,0 +1,492 @@
+L'électrolyse est une méthode qui permet de réaliser des réactions chimiques grâce à une activation électrique. C'est le processus de conversion de l'énergie électrique en énergie chimique. Elle permet par ailleurs, dans l'industrie chimique, la séparation d'éléments ou la synthèse de composés chimiques. Elle intervient aussi dans la classification des corps purs.
+L'électrolyse est utilisée dans divers procédés industriels, tels que la production de dihydrogène par électrolyse de l'eau, la production d'aluminium ou de chlore, ou encore pour le placage d'objets par galvanoplastie.
+
+
+== Historique ==
+La première électrolyse par courant continu (électrolyse de l'eau) a été réalisée le 2 mai 1800 par deux chimistes britanniques, William Nicholson (1753-1815) et Sir Anthony Carlisle (1768-1842), quelques jours après l'invention de la première pile électrique (publication soumise le 20 mars 1800 dans une lettre en français au président de la Royal Society, Joseph Banks) par Alessandro Volta et grâce à celle-ci. Auparavant, J. R. Deiman et A. Paets van Troostwijk avaient déjà réalisé une électrolyse de l'eau en 1789 au moyen d'une machine électrostatique et d'une bouteille de Leyde sans réussir à interpréter la réaction observée.
+
+
+== Principe ==
+
+La matière à décomposer ou à transférer est dissoute dans un solvant approprié, ou fondue, de sorte que ses ions constitutifs soient disponibles dans la solution.
+
+Une différence de potentiel électrique est appliquée entre deux électrodes immergées dans cette solution.
+La cathode est le siège d'une réduction et, l'anode le siège d'une oxydation. Le potentiel de l'anode étant supérieur (ou égal dans une pile court-circuitée) au potentiel de la cathode on peut dire que l'anode est la borne positive et que la cathode est la borne négative. Notons que ces bornes sont inversées dans le cas d'une pile.
+Lors du passage d'un courant électrique continu, les électrodes attirent à elles les ions de charge opposée.A l'anode se produit donc une réaction d'oxydation tandis que la cathode est le siège d'une réaction de réduction. De même, les anions (–) migrent toujours vers l'anode (+) tandis que les cations (+) migrent vers la cathode (–).
+Cependant, il serait faux de dire que l'électrolyse se résume à l'oxydation des anions à l'anode et à la réduction des cations à la cathode. En effet, il est aussi possible d'oxyder des cations à l'anode. Par exemple :
+
+  
+    
+      
+        
+          F
+          
+            e
+            
+              a
+              q
+            
+            
+              2
+              +
+            
+          
+          ⟶
+           
+          F
+          
+            e
+            
+              a
+              q
+            
+            
+              3
+              +
+            
+          
+          +
+           
+          
+            e
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Fe_{aq}^{2+}\longrightarrow \ Fe_{aq}^{3+}+\ e^{-}} }
+  ou de réduire des anions à la cathode, par exemple hexacyanoferrate(III) donne hexacyanoferrate (II) :
+
+  
+    
+      
+        
+          F
+          e
+          (
+          C
+          N
+          
+            )
+            
+              6
+            
+            
+              3
+              −
+            
+          
+          +
+           
+          
+            e
+            
+              −
+            
+          
+          ⟶
+           
+          F
+          e
+          (
+          C
+          N
+          
+            )
+            
+              6
+            
+            
+              4
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Fe(CN)_{6}^{3-}+\ e^{-}\longrightarrow \ Fe(CN)_{6}^{4-}} }
+   .De même, des molécules neutres peuvent réagir aux électrodes ; par exemple la para-quinone est réduite en para-dihydroquinone:
+ 
+  
+    
+      
+        
+          +
+           
+          2
+          
+            e
+            
+              −
+            
+          
+          +
+           
+          2
+          
+            H
+            
+              +
+            
+          
+          ⟶
+           
+        
+      
+    
+    {\displaystyle \mathrm {+\ 2e^{-}+\ 2H^{+}\longrightarrow \ } }
+   
+Cela est possible car le transport des espèces à l'électrode peut se faire par trois mécanismes différents : par migration qui entraine le déplacement des espèces chimiques chargées (ions) dans le champ électrique au sein de la cellule d'électrolyse, par diffusion qui concerne toutes les espèces chimiques pour lesquelles il existe un gradient de concentration et par convection naturelle ou forcée selon que l'agitation de la solution est due à l'agitation thermique ou à une agitation mécanique.
+
+
+== Applications ==
+
+
+=== Production de dihydrogène par électrolyse de l'eau ===
+
+L'électrolyse peut être utilisée pour décomposer l'eau (H2O) en dihydrogène (H2) et en dioxygène (O2).
+Réactions :
+
+Oxydation à l'anode (reliée au pôle + du générateur) :
+  
+    
+      
+        
+          
+            
+              
+              
+            
+            
+              
+                2
+                
+                
+                  
+                    
+                      H
+                    
+                  
+                  
+                    2
+                  
+                
+                
+                  
+                    O (liquide)
+                  
+                
+              
+              
+                
+                  
+                    
+                    →
+                  
+                
+              
+              
+                
+                  
+                    
+                      O
+                    
+                  
+                  
+                    2
+                  
+                
+                
+                  
+                     (gaz)
+                  
+                
+                +
+                4
+                
+                
+                  
+                    
+                      H
+                    
+                  
+                  
+                    +
+                  
+                
+                
+                  
+                     (aqueux)
+                  
+                
+                +
+                4
+                
+                
+                  e
+                  
+                    −
+                  
+                
+                 
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}&\\2\,{\mbox{H}}_{2}{\mbox{O (liquide)}}&{\overrightarrow {\qquad }}&{\mbox{O}}_{2}{\mbox{ (gaz)}}+4\,{\mbox{H}}^{+}{\mbox{ (aqueux)}}+4\,e^{-}\ \\\end{matrix}}}
+  
+Réduction à la cathode (reliée au pôle – du générateur) :
+  
+    
+      
+        
+          
+            
+              
+              
+            
+            
+              
+                4
+                
+                
+                  
+                    
+                      H
+                    
+                  
+                  
+                    2
+                  
+                
+                
+                  
+                    O (liquide)
+                  
+                
+                +
+                4
+                
+                
+                  e
+                  
+                    −
+                  
+                
+              
+              
+                
+                  
+                    
+                    →
+                  
+                
+              
+              
+                2
+                
+                
+                  
+                    
+                      H
+                    
+                  
+                  
+                    2
+                  
+                
+                
+                  
+                     (gaz)
+                  
+                
+                +
+                4
+                
+                
+                  
+                    
+                      OH
+                    
+                  
+                  
+                    −
+                  
+                
+                
+                  
+                     (aqueux)
+                  
+                
+                 
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}&\\4\,{\mbox{H}}_{2}{\mbox{O (liquide)}}+4\,e^{-}&{\overrightarrow {\qquad }}&2\,{\mbox{H}}_{2}{\mbox{ (gaz)}}+4\,{\mbox{OH}}^{-}{\mbox{ (aqueux)}}\ \\\end{matrix}}}
+  
+Globalement, nous avons :
+  
+    
+      
+        
+          
+            
+              
+              
+            
+            
+              
+                2
+                
+                
+                  
+                    
+                      H
+                    
+                  
+                  
+                    2
+                  
+                
+                
+                  
+                    O (liquide)
+                  
+                
+              
+              
+                
+                  
+                    
+                    →
+                  
+                
+              
+              
+                2
+                
+                
+                  
+                    
+                      H
+                    
+                  
+                  
+                    2
+                  
+                
+                
+                  
+                     (gaz)
+                  
+                
+                +
+                
+                  
+                    
+                      O
+                    
+                  
+                  
+                    2
+                  
+                
+                
+                  
+                     (gaz)
+                  
+                
+                 
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}&\\2\,{\mbox{H}}_{2}{\mbox{O (liquide)}}&{\overrightarrow {\qquad }}&2\,{\mbox{H}}_{2}{\mbox{ (gaz)}}+{\mbox{O}}_{2}{\mbox{ (gaz)}}\ \\\end{matrix}}}
+  Néanmoins, si cette méthode est efficace (rendement de Faraday de 90 % en solution alcaline), elle n'est pas la moins chère pour produire du dioxygène et du dihydrogène industriellement. On préfère souvent extraire le dioxygène de l'air, et le dihydrogène par reformage du méthane : CH4. Mais contrairement à l'électrolyse, cette méthode produit également du CO2 (voir l'article dihydrogène)
+Remarque : lorsque de l'eau est électrolysée, l'eau lourde (contenant l'isotope lourd deutérium à la place de 1H) a tendance à se dissocier en fin d'électrolyse, puisque la liaison D-O est légèrement plus forte que la liaison 1H-O de l'eau légère (eau "normale" 1H2O).
+
+
+=== Production de chlore ===
+
+Le chlore est un gaz jaunâtre toxique. On utilise actuellement des électrolyseurs qui utilisent l'électrolyse d'une solution aqueuse de NaCl (sel de table) pour produire des ions hypochlorites à l'usage du traitement de l'eau des piscines.
+
+
+=== Placage ===
+La galvanoplastie, ou placage d'objets par électrolyse, consiste à recouvrir des objets d'une mince couche régulière d'un métal généralement précieux ou d'un alliage: dorure, argenture, nickelage, chromage, cadmiage, cuivrage...
+Par exemple, une bague est plongée dans une solution de nitrate d'argent (Ag+ + NO3-) reliée à un générateur.
+Les ions d'argent vont se déposer sur l'anneau selon la réaction de réduction :
+
+Ag+(aq) + e- → Ag(s).On obtient ainsi un anneau plaqué argent, cette technique s'appelle l'argenture.
+Plus généralement, les dérivés chimiques d'un métal donné peuvent être utilisés à des fins de placage avec ce dernier. Ainsi, on peut couvrir un objet métallique de cuivre avec le bain de sulfate de cuivre qu'on utilise d'ordinaire pour traiter la vigne.
+On peut tester avec l'expérience suivante avec :
+
+Une source de courant continu réglable, capable de délivrer de 1 à 10 ampères.
+Un récipient pour le bain (ne doit pas être métallique).La cathode (-) est reliée à la pièce à plaquer, l'anode (+) est reliée à un morceau de cuivre qui servira à alimenter le placage. Les deux électrodes sont plongées dans le bain, à quelques centimètres l'une de l'autre, et on fait passer le courant autant de temps que nécessaire.
+Facteurs favorisant le phénomène :
+
+Concentration du bain : plus le bain est concentré, plus le placage est rapide.
+Surface de la pièce à plaquer : plus la surface de la pièce est grande, plus l'intensité électrique doit être élevée.
+La vitesse du dépôt : elle est proportionnelle à la quantité de courant traversant la pièce à plaquer.
+La température : la chaleur favorise le rendement du bain.Le chromage de pièce en acier se déroule ainsi :
+
+La pièce métallique constituant la cathode est plongée avec une anode en chrome dans une solution (l'électrolyte) contenant des ions de chrome (Cr3+) ;
+Le générateur positionné entre l'anode et la cathode délivre un courant continu ;
+La pièce métallique gagne des électrons et attire les ions de chrome qui adhérent à sa surface.
+
+
+=== Production de cuivre et d'aluminium ===
+
+L’aluminium primaire est obtenu par électrolyse de l’alumine Al2O3. Le procédé consiste à réduire par électrolyse de l’alumine dissoute dans un bain de cryolithe (fluorure double d’aluminium et de sodium : AlF3, 3 NaF) fondue à environ 950 °C, dans une cuve traversée par un courant électrique de haute intensité. Soumis à l’action du courant électrique continu, les ions sont transportés aux deux électrodes.
+L’électrode positive attire les ions négatifs, ici l’oxygène O2–. L’anode (oxydation) est placée en haut du creuset où s’effectue l’électrolyse ; l’oxygène peut ainsi se dégager sous forme de CO2 gazeux, après avoir brûlé le carbone qui constitue l’anode.
+L’électrode négative attire les ions positifs, ici l’aluminium Al3+. La cathode (réduction) est située au fond du creuset où l’aluminium plus lourd que le bain se dépose et reste sous forme d’une couche de métal liquide à haute température. Ce métal liquide est régulièrement aspiré et transporté en fonderie, pour être solidifié sous forme de demi-produit (lingot, billette, plaque de laminage).
+Le phénomène global se traduit par la réaction :
+
+2 Al2O3 + 3 C → 4 Al + 3 CO2L'affinage industriel du cuivre brut s'effectue par électrolyse d'anodes de cuivre brut dans un bain de sulfate de cuivre. Le cuivre pur (jusqu'à 99,95 %) se fixe sur la cathode, les impuretés restant dans le bain.
+
+De même, le nickel peut être affiné par électrolyse. Il s'amasse sur la cathode, pendant que le dioxygène s'échappe à l'anode, l'électrolyte étant du sulfate de nickel mélangé avec de l'acide sulfurique. Les cathodes sont récoltées au bout d'environ 7 jours. En 2009, environ 200 000 tonnes par an de nickel d'une pureté de 99,9 %, sur les 1 500 000 tonnes de nickel primaire produites dans le monde, sont affinées par électrolyse.
+
+
+=== Production d'ozone ===
+Le passage de courant électrique permet de décomposer l'eau en ses différents éléments : oxygène et hydrogène. Les atomes libres d’oxygène sont très réactifs : ceux-ci peuvent se recombiner en ozone (O3).
+La quantité d'ozone généré est proportionnelle à la charge qui traverse la cellule (suivant la loi de Faraday), donc proportionnelle au courant électrique.
+Remarque : la dissolution de l'ozone dans l'eau étant plus efficace lorsque la température diminue et lorsque l'eau présente le moins d'électrolytes possible, il est recommandé d'utiliser de l'eau déminéralisée et refroidie (l'idéal étant de l'eau dont la température avoisine 1 °C).
+
+
+== Fondateurs ==
+Les scientifiques pionniers de l'électrolyse sont :
+
+William Nicholson (1753-1815) et Sir Anthony Carlisle (1768-1840) réalisèrent la première électrolyse le 2 mai 1800.
+Michael Faraday, scientifique britannique, est l'un des créateurs de l'électrochimie, avec Humphry Davy et avec le scientifique italien Carlo Matteucci.
+Svante Arrhenius
+Adolph Wilhelm Hermann Kolbe
+
+
+== Notes et références ==
+
+
+== Sources ==
+[PDF] Cellules électrochimiques : aspects thermodynamiques et cinétiques, Didier Devilliers et Éric Mahé, L’actualité chimique - Janvier 2003, sur le site culturesciences.chimie.ens.fr.
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Électrolyse de l'eau
+Réduction électrolytique de l'aluminium
+Électrolyse chlore-soude
+Galvanoplastie
+
+
+=== Liens externes ===
+Faraday, l’électrolyse, les anions et les cations...
+ Portail de la chimie   Portail de l’électricité et de l’électronique

@@ -1,0 +1,8 @@
+Cellekjernen er kontrollsenteret i cellen. Cellekjernen er avgrenset fra resten av cellen med en kjernemembran. I denne cellekjernen er arvestoffet, DNA, i kromosomene. DNA-et i cellekjernen inneholder informasjon som styrer alt som foregår i cellen. Gjennom porer i membranen passerer stoffer inn og ut av kjernen.
+Det er kun eukaryote organismer som har cellekjerne. De har også andre forskjellige avgrensede deler. En prokaryot organisme  mangler cellekjerne; hos dem er DNA'et fritt i cytoplasmaet.
+Når cellen trenger noe av den informasjonen som ligger i DNA-et, blir det laget en kopi av DNA-et i form av et RNA-molekyl. Kopieringen kalles en transkripsjon. RNA-molekylet er en kopi av bare ett gen. Det er derfor mye kortere enn DNA-molekylet. RNA finnes i tre former. Det er nRNA; ribosom-RNA, som utgjør en del av ribosomet, videre er det tRNA; transport-RNA, og mRNA; budbærer-RNA. Alle tre deltar i produksjonen av proteiner, proteinsyntesen.
+DNA-molekylene er for store til at de kan slippe ut gjennom kjernemembranenm men RNA-et er lite nok, så det slipper ut av kjernen. Selve informasjonen kommer altså ut i cytoplasmaet, mens «originalen» – DNA-et – ligger trygt lagret inne i cellekjernen.
+
+
+== Eksterne lenker ==
+(en) Cell nucleus – kategori av bilder, video eller lyd på Commons

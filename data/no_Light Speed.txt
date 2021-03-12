@@ -1,0 +1,70 @@
+Lysets hastighet i vakuum er en konstant hastighet c (Latin: celeritas «raskhet» eller «fart»), som i dag er definert til
+
+  
+    
+      
+        c
+        
+        =
+        
+        299
+        
+        792
+        
+        458
+         
+        
+          m/s
+        
+        
+      
+    
+    {\displaystyle c\,=\,299\,792\,458\ {\text{m/s}}\,}
+  som igjen er 1 079 252 848,8 km/t. Lyset fra solen tar omtrent 8 minutter på å nå jorden.
+Relativitetsteorien bygger på et postulat om at lysets hastighet skal være konstant for alle observatører og uforanderlig under enhver koordinattransformasjon. Derfor faller det naturlig å benytte lysfarten som utgangspunkt for å definere andre størrelser som meteren og enheter utledet derfra. Meterdefinisjonen ble i 21. oktober 1983 knyttet til lysets hastighet og slik at denne ble et helt antall meter per sekund.
+
+
+== Historie ==
+Det første kjente forsøket på å bestemme lyshastigheten ble utført av Galileo Galilei. Han utstyrte assistenten sin med en fjøslykt før de gikk opp på hver sin fjelltopp. Idet Galilei avdekket sin egen lykt, skulle assistenten umiddelbart gjøre det samme, og Galilei ville ta tiden før han fikk øye på lyset. Optimistisk gikk de til verks og slik skulle lysfarten bestemmes. Det eneste redskapet Galilei hadde for å måle tidsrommet var sine egne pulsslag, og dette satte naturlig nok visse begrensninger for nøyaktigheten av forsøket. Galilei konkluderte derfor med at dersom lyset gikk med endelig hastighet, så gikk det raskere enn han kunne måle på den måten.Senere ble det utviklet mer avanserte metoder. I 1672 beregnet den danske astronomen Ole Rømer lyshastigheten ved å observere varigheten til måneformørkelsene til Jupiters måner. Han målte at når Jorden (i sin bane rundt Solen) beveget seg bort fra planetsystemet Jupiter og Io, varte solformørkelsen 17 minutter lenger enn når Jorden beveget seg mot Jupiter og Io. Han utledet at lyset må da tilbakelegge en større distanse mellom Jupiter og Jorden, og anslo lyshastigheten ut fra disse observasjonene til å være 227 000 km/s, hvilket er et avvik på ca. 24 %. Senere, i 1849, ble lyshastigheten målt av Hippolyte Fizeau som ved hjelp av et roterende tannhjul, speil og en mer nøyaktig metode for å måle tiden, beregnet lysfarten til 313 000 km/s, altså et avvik på mindre enn 5 % fra dagens verdi.
+
+
+== Lys gjennom materialer ==
+Lysets «toppfart» gjelder bare i vakuum. I gjennomskinnelige materialer minker farta med tettheten på det lyset går gjennom. 
+
+Lyshastighet i vakum: 299 792,5 km/s
+Gjennom luft: 299.702,5 km/s
+Gjennom is: 228.849 km/s
+Gjennom vann: 225.408 km/s
+Gjennom glass: 199.862 km/sGlass bremser lyshastigheten med nesten 100 000 km/s. 
+Lyshastigheten gjennom materialer (for eksempel vann) uttrykkes ved:
+
+  
+    
+      
+        
+          v
+          
+            l
+            y
+            s
+          
+        
+        =
+        
+          
+            c
+            n
+          
+        
+      
+    
+    {\displaystyle v_{lys}={c \over n}}
+  hvor n er brytningsindeksen. Denne relasjonen er et uttrykk for prinsippet om at lys som går mellom to punkter følger den veien som gir den korteste totale transporttiden.
+
+
+== Lysfartobservasjoner og -eksperimenter ==
+I flere situasjoner oppstår det intuitive situasjoner på at lysfarten blir brutt. Men i teorien er dette ikke tilfellet. Hvis en laser beveges mot en måler, vil man tro at farten til lys blir lagt sammen med farten til bevegelsen. Men dette er ikke tilfellet siden det blir dannet en forsinkelse som gjør at lyset til laseren ikke vil ha høyere fart.
+
+
+== Eksterne lenker ==
+«Hva betyr det at lysets hastighet er konstant?», fra nettstedet forskning.no

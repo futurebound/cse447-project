@@ -1,0 +1,94 @@
+SI-enheden for temperatur er kelvin (symbol K). Kelvinskalaen begynder ved det absolutte nulpunkt, som er den lavest tænkelige temperatur (hvor al bevægelse af molekylerne er ophørt). En temperatur kan derfor ikke være lavere end 0 K. Kelvin er defineret fra og med 20. maj 2019 af Boltzmanns konstant, som er: 
+  
+    
+      
+        
+          
+            
+              k
+            
+            
+              B
+            
+          
+        
+        =
+        1
+        ,
+        380649
+        ⋅
+        
+          
+            
+              10
+            
+            
+              −
+              23
+            
+          
+        
+        
+          
+            J
+            K
+          
+        
+      
+    
+    {\displaystyle {{k}_{\text{B}}}=1,380649\cdot {{10}^{-23}}{\frac {\text{J}}{\text{K}}}}
+  . 
+De fleste formler i fysik og kemi, som omhandler temperatur bliver mere simple, når man måler temperaturen i kelvin frem for i Celsius eller Fahrenheit, da det kan være vanskeligt at udregne i fysikkens verden med negative tal, hvis nu fx temperaturen går under nulpunktet i Celsius. 
+Temperaturforskellen 1 K er lig 1 grad Celsius, men 0 °C er vands frysepunkt, som er 273,15 K. Derfor er 0 K = -273,15 °C. Der bruges ikke gradtegn om eller foran enheden kelvin. Der bruges kun bogstavet K. Enheden er opkaldt efter fysikeren William Thomson, der fik navnet Lord Kelvin ved sin adling. Det var ham som skrev om behovet for en skala, hvor det absolutte nul blev benyttet som skalaens nulpunkt. Tilvæksten er og har altid været den samme som hos Celcius. 
+Lyskilders farvetemperatur angives i kelvin - jo lavere farvetemperatur, jo varmere er lyset  (den rødere del af farvespektrummet). Et højere farvetemperatur giver et mere køligt og blåt lys. Det vi med øjet ville kategorisere som varme farver, har et lavt farvetemperatur på Kelvinskalaen.
+
+
+== Kelvins historie ==
+I 1848 skrev William Thomson, som senere fik titlen "Lord Kelvin", i sin afhandling "Om en absolut thermometrisk skala" (On an Absolute Thermometric Scale), om nødvendigheden for en skala hvor "uendelig koldt" (det absolutte nulpunkt) var skalaens nulpunkt, som brugte grader celsius som enheden for stigning. Kelvin regnede sig frem til at det absolutte nulpunkt var ækvivalent til -273 °C på datidens luft-thermometre. Denne absolutte skala er i dag kendt som Kelvins termodynamiske temperaturskala. Kelvins værdi af "-273" var den negativt reciprokke værdi af 0,00366 - den accepterede udvidningskoefficient for gas per grader celsius, relativt til frostpunktet, som betød at der var en fremragende overensstemmelse med den samtidige accepterede værdi. 
+I 1954 gav den 3. resolution, ud af de 10 der blev vedtaget ved Generalkonferencen for vægt og måling, kelvinskalaen sin moderne definition ved at bestemme tripelpunktet som det andet definerende punkt og bestemte dennes temperatur til at være præcis 273,16 kelvin.I 1967/1968 gav den 3. resolution (denne gang ud af 13 resolutioner.) nyt navn til enheden for stigning af den termodynamiske temperatur "kelvin", markeret med symbolet K, og erstattede "grader Kelvin", markeret med symbolet °K.I 2005 bekræftede Comité international des poids et measures (CIPM), et udvalg for CGPM at med henblik på at afgrænse temperaturen af vands tripelpunkt, ville temperaturen af den termodynamiske temperaturskala for Kelvin henvise til vand med en isotopisk sammensætning specificeret som "Vienna Standard Mean Ocean Water".
+
+
+== Omdefinering i 2019 ==
+Som sagt ville CIPM i 2005 omdefinere Kelvin-enheden i samspil med andre SI-enheder, med det formål, at definere enheden med en mere nøjagtig, uafhængig konstant. I Kelvins tilfælde foreslog komiteen, at Boltzmanns konstant tog den præcise værdi 1,3806505×10−23 J/K. Der var forhåbninger om, at man kunne omdefinere enheden så den kunne optages af CGPM's bureau til dets møde i 2011, men beslutningen blev udsat til 2014, hvor beslutningen skulle være en del af et større program. Beslutningen blev yderligere udsat pga. forsøg på mere præcise målinger af Boltzmannkonstanten. Den blev optaget ved det seksogtyvende CGPM, sent i 2018, med en værdi på 
+  
+    
+      
+        
+          
+            
+              k
+            
+            
+              B
+            
+          
+        
+        =
+        1
+        ,
+        380649
+        ⋅
+        
+          
+            
+              10
+            
+            
+              −
+              23
+            
+          
+        
+        
+          
+            J
+            K
+          
+        
+      
+    
+    {\displaystyle {{k}_{\text{B}}}=1,380649\cdot {{10}^{-23}}{\frac {\text{J}}{\text{K}}}}
+  Videnskabeligt er fordelen den, at målinger ved meget høje- og lave temperature kan tages mere præcist, da enheden er konstant og afhængig af Boltzmann-konstanten frem for vands tripelpunkt. Pointen var at undgå faldende præcision ved målinger tæt ved dette punkt; og praktisk set mærker man ingen effekt af ændringen. Vand fryser stadig ved 273.15K og tripelpunktet bruges stadigvæk som en konventionel laboratorisk referencetemperatur.
+
+
+== Referencer ==

@@ -1,0 +1,167 @@
+Electroliza este procesul de orientare și separare a ionilor unui electrolit (substanță a cărei molecule prin dizolvare sau topire  se disociază în ioni, permițând trecerea curentului electric continuu) cu ajutorul curentului electric continuu.
+În procesul de electroliză, ionii pozitivi sau cationii sunt dirijați înspre catod (pol negativ), iar ionii negativi sau anionii înspre anod (pol pozitiv) unde își pierd sarcina și se depun sau intră în reacție chimică. La anod se produce un proces de oxidare, în timp ce la catod unul de reducere.
+
+
+== Istorie ==
+În anul 1800, William Nicholson și Johann Ritter au descompus apa în hidrogen și oxigen. 
+În 1807 - 1808, au fost descoperite 5 metale folosindu-se electroliza, de către savantul Humphry Davy. Aceste metale sunt: potasiul, sodiul, calciul, bariul și magneziul. 
+După aceea, în 1875, Paul Emile Lecoq de Boisbaudran a descoperit galiul folosind electroliza, iar în 1886, Henri Moissan descopera fluorul, tot prin intermediul aceluiași procedeu.
+
+
+== Descriere generală ==
+Electroliza este o trecere de curent electric direct printr-o substanță ionică care este fie topită, fie dizolvată într-un solvent potrivit, rezultând în electrolizor rezultatul reacțiilor chimice ce au avut loc între electrozi.
+Principalii componenți ai unei electrolize sunt:
+
+Electrolitul: este substanța ce conține ioni liberi ce au rolul de a transporta curentul electric în electrolizor.
+Electrolizorul: este vasul în care se desfășoară electroliza;
+Generatorul de curent continuu: furnizează energia electrică necesară pentru a crea descărcarea ionică în electrolit. Curentul electric este transportat printr-un circuit extern.
+Electrozii: sunt conductorii electrici care reprezintă interfața fizică între circuitul electric și electrolit. Ei sunt de două tipuri: catodul și anodul.Electrozii din metal, grafit sau din material semiconductor sunt folosiți pe scară largă. Pentru alegerea celui mai bun electrolit pentru electroliză se ține cont de reacțiile principale și secundare care au loc în timpul electrolizei și, bineînțeles, de costul de fabricație.
+
+
+=== Procedeu ===
+
+Procesul-cheie al electrolizei este schimbul de atomi și ioni prin îndepărtarea sau adăugarea de electroni din circuitul extern. 
+Produsele necesare de electroliză sunt, în unele stări fizice, diferite de la electrolit la electrolit și pot fi eliminate de unele procedee fizice. De exemplu, la electroliza soluției de clorură de sodiu, producția va fi gazoasă și constă în degajarea de hidrogen și clor. Aceste degajări gazoase formează bule pentru a fi colectate. 
+
+  
+    
+      
+        
+          2
+          N
+          a
+          C
+          l
+          +
+          2
+          
+            H
+            
+              2
+            
+          
+          O
+          →
+          2
+          N
+          a
+          O
+          H
+          +
+          
+            H
+            
+              2
+            
+          
+          +
+          C
+          
+            l
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2NaCl+2H_{2}O\rightarrow 2NaOH+H_{2}+Cl_{2}} }
+  Un lichid ce conține ioni mobili (un electrolit) este produs prin:
+
+Dizolvarea sau reacția dintre un compus ionic și un solvent potrivit acestuia (ca apa, de exemplu), pentru a putea produce ioni mobili
+Topirea sau fuzionarea unui compus ionic, pentru a forma o topitură, prin încălzire.Potențialul electric se aplică asupra electrolitului prin scufundarea electrozilor în electrolit, în vasul de electroliză.
+La electrozi, electronii sunt absorbiți sau cedați de către atomi sau ioni. Acești atomi care primesc sau pierd electroni pentru a fi încărcați trec în electrolit. 
+
+
+=== Oxidarea și reducerea la electrozi ===
+Oxidarea ionilor sau a moleculelor neutre apare la anod, iar reducerea ionilor  sau a moleculelor neutre apare la catod. De exemplu, este posibilă oxidarea ionului feros la ionul de fier la anod:
+
+Fe2+aq → Fe3+aq + e–De asemenea, este posibilă reducerea cianurii ferice la ferocianură la catod:
+
+Fe(CN)3-6 + e– → Fe(CN)4-6Moleculele neutre nu pot reacționa la niciun electrod; de exemplu, p-Benzocuinona poate fi redusă la hidrochinonă la catod:
+ + 2 e– + 2 H+ → 
+
+
+== Descriere  cantitativă ==
+
+Masa elementului separat prin electroliză este dată de legea lui Faraday sau legea electrolizei.
+Este proporțională cu cantitatea de electricitate vehiculată prin electrolizor.
+
+
+=== Legi (după Faraday) ===
+Faraday a observat următoarele: cantitatea de metal depusă la catod este proporțională cu cantitatea de electricitate (produsul dintre intensitatea curentului electric și timpul de electroliză) și cu echivalentul-gram al metalului depus.
+
+  
+    
+      
+        m
+        
+        =
+        
+        
+          
+            A
+            
+              F
+              n
+            
+          
+        
+        I
+        t
+      
+    
+    {\displaystyle m\,=\,{\frac {A}{Fn}}It}
+   ,
+unde m este cantitatea de metal depusă la catod (în grame), A este masa atomică a metalului, n este valența metalului, F reprezintă 96500 de coulombi per secunda, I intensitatea curentului electric (în coulombi per mol), iar t este timpul de electroliză. Raportul 
+  
+    
+      
+        
+          
+            A
+            
+              F
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {A}{Fn}}}
+   se numește echivalent electrochimic
+
+
+== Condiții de proces ==
+În electroliză se ține seama de tensiunea de descompunere, care este tensiunea minimă la care se poate desfășura procesul și care depinde de potențialul de electrod, care este influențat la rândul lui de poziția pe care o are substanța în seria potențialelor electrochimice. De asemeni, tensiunea de la bornele electrozilor trebuie să acopere și căderea de tensiune în electrolit, în contacte și în electrozi.
+Dacă în electrolit sunt mai mulți ioni de același semn, electroliza se produce cu o energie minimă.
+
+
+== Aplicații ==
+
+Electroliza are aplicații industriale în electrometalurgie pentru acoperirea cu straturi protectoare a diferitelor metale feroase cu metale neferoase (exemplu = tabla galvanizată), sau de a se extrage metaloizi (exemplu = extragerea clorurii de sodiu din apă). În metalurgie, se face prin electroliză purificarea unor metale (de ex. cupru), proces care mai poartă și numele de rafinare.  
+Fabricarea sodei caustice/leșiei: se realizează prin electroliza soluției  de NaCl - clorură de sodiu (saramură) .  
+
+
+=== Obținerea gazelor ===
+Obținerea hidrogenului  și a oxigenului prin electroliza apei (hidroliză): se face în prezența unui electrolit (H2SO4 sau NaOH), deoarece apa pură nu poate conduce curentul electric. Clorul se mai poate obține prin electroliza soluției de clorură de sodiu;
+
+
+== Vezi și ==
+Electroliza apei
+Electroosmoză
+Electrolit
+Fotoliză
+Radioliză
+
+
+== Note ==
+
+
+== Bibliografie ==
+D. Constantinescu D.I Văireanu Tehnologia proceselor electrochimice Editura Printech  2000
+L. Oniciu Chimie fizică. Electrochimie 1977
+I. Rădoi, M. Nemes, C. Radovan Electrochimie, Editura Facla, Timisoara, 1974
+I. Dima, G. Vasiliu, Du. Ciobotariu, Șt. Muscalu, Dicționar de fizică, Editura Enciclopedică Română, București, 1972
+J. D. Bernal, Știința în istoria societății (traducere din engleză), Editura Politică, București, 1964Manuale de chimie-fizică de liceu clasele IX,X
+Chimie generală, Editura Didactică și Pedagogică, București, 1967 (Ministerul Învățământului)

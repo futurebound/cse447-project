@@ -1,0 +1,59 @@
+Undele electromagnetice sau radiația electromagnetică sunt fenomene fizice în general naturale care constau într-un câmp electric și unul magnetic în același spațiu și care se generează reciproc pe măsură ce se propagă.
+În fizică, radiația electromagnetică se referă la undele (sau cuanta lor, fotoni) ale câmpului electromagnetic, propagându-se (radiind) prin spațiu-timp, purtând energia radiantă electromagnetică. Radiația electromagnetică este o combinație de câmpuri electrice și magnetice oscilante care se propagă prin spațiu și care transportă energie dintr-un loc în altul. În mod clasic, radiația electromagnetică constă din unde electromagnetice, care sunt oscilații sincrone ale câmpurilor electrice și magnetice care se propagă la viteza luminii printr-un vid. Oscilațiile celor două câmpuri sunt perpendiculare între ele și perpendiculare pe direcția energiei și propagării undelor, formând o undă transversală. Frontalul undelor electromagnetice emise de o sursă punctuală (cum ar fi un bec) este o sferă. Poziția unei unde electromagnetice în spectrul electromagnetic poate fi caracterizată fie de frecvența oscilației, fie de lungimea de undă. Acesta include undele radio, microundele, infraroșu , lumina (vizibilă), ultraviolete, razele X și razele gamma. Studiul teoretic al radiațiilor electromagnetice se numește electrodinamica, un subdomeniu al electromagnetismului.
+Undele electromagnetice sunt produse ori de câte ori particulele încărcate sunt accelerate, iar aceste unde pot interacționa ulterior cu alte particule încărcate. Când orice fir (sau un alt obiect conductor precum o antenă) conduce curentul alternativ, radiația electromagnetică este propagată cu aceeași frecvență ca și curentul electric. În funcție de circumstanțe, se poate comporta ca undă sau ca particulă. Ca undă, aceasta este caracterizată printr-o viteză (viteza luminii), lungime de undă, și frecvență. Atunci când se consideră particulele, acestea sunt cunoscute sub numele de fotoni, și fiecare are o energie legată de frecvența undei dată de relația lui Planck.
+În general, radiația electromagnetică este clasificată în funcție de lungimea de undă în radio, microunde, lumina infraroșie, lumina vizibilă, lumina ultravioletă, raze X și raze gamma. Radiațiile în vid se deplasează mereu cu [[viteza luminii] ], în raport cu observatorul, indiferent de viteza observatorului. (Această observație a condus la dezvoltarea lui [[Albert Einstein] ] a teoriei relativității speciale).
+Efectul radiațiilor depinde de cantitatea de energie transportată per cuantă. Energiile mari corespund frecvențelor înalte și lungimilor de undă scurte, și vice-versa. Efectele radiațiilor asupra compușilor chimici și a organismelor biologice depind atât de puterea radiației, cât și de frecvența acesteia. Radiația electromagnetică la frecvențe vizibile sau mai joase (adică lumină vizibilă, infraroșu, microunde și unde radio) se numește radiație neionizantă, deoarece fotonii nu au suficientă energie individuală pentru a ioniza atomii sau moleculele. Efectele acestor radiații asupra sistemelor chimice și a țesuturilor vii sunt cauzate în primul rând de efectele de încălzire ale transferului de energie combinat al multor fotoni. În schimb, radiațiile ultraviolete, razele X și razele gama sunt denumite radiații ionizante, deoarece fotonii individuali la o astfel de frecvență înaltă au suficientă energie pentru a ioniza moleculele sau pentru a rupe legăturile chimice. Aceste radiații au capacitatea de a provoca reacții chimice și de a deteriora celulele vii dincolo de cele care rezultă din încălzirea simplă și pot constitui un pericol pentru sănătate.Multe informații despre proprietățile fizice ale unui obiect pot fi obținute de la spectrul său electromagnetic. Acest lucru poate fi spectrul luminii fie emise, fie transmisă spre obiect. Acest aspect implică spectroscopia, care este utilizată pe scară largă în astrofizică. De exemplu; mulți atomi de hidrogen emit unde radio, care au o lungime de undă de 21,12 cm.
+Când radiația electromagnetică trece printr-un conductor induce un flux de curent electric în conductor. Acest efect este folosit în antene. Radiațiile electromagnetice pot provoca, de asemenea, anumite molecule să oscileze și, astfel, să se încălzească. Acest lucru este exploatat în cuptorul cu microunde.
+
+
+=== Clasificare ===
+
+În funcție de frecvența sau lungimea de undă cu care radiația se repetă în timp, respectiv în spațiu, undele electromagnetice se pot manifesta în diverse forme.
+Spectrul radiațiilor electromagnetice este împărțit după criteriul lungimii de undă în câteva domenii, de la frecvențele joase spre cele înalte:
+
+radiațiile (undele) radio
+microunde
+radiații infraroșii,
+radiații luminoase,
+radiații ultraviolete,
+radiații X (Röntgen),
+radiații "γ" (gamma - literă greacă).Undele radio - se folosesc și pentru transmiterea semnalelor de televiziune, pentru comunicații prin satelit și telefonie mobilă.
+Microundele sunt folosite atât în comunicații cât și în cuptorul cu microunde, care se bazează pe absorbția relativ puternică a radiațiilor de această frecvență în apă și materiile vegetale și animale. Undele milimetrice se folosesc de exemplu în astronomie.
+Undele terahertziene au început abia de curând să fie cercetate și folosite în aplicații practice.
+Radiația (lumina) infraroșie este foarte utilă în analize fizico-chimice prin spectroscopie. De asemenea ea se mai utilizează pentru transmiterea de date fără fir dar la distanțe mici, așa cum este cazul la aproape toate telecomenzile pentru televizoare și alte aparate casnice.
+Lumina vizibilă este cel mai la îndemână exemplu de unde electromagnetice.
+Radiația (lumina) ultravioletă este responsabilă pentru bronzarea pielii.
+Razele X (sau Röntgen) sunt folosite de multă vreme în medicină pentru vizualizarea organelor interne.
+În fine, razele gamma se produc adesea în reacții nucleare.
+
+
+== Teorie ==
+Undele electromagnetice au fost prezise teoretic de ecuațiile lui Maxwell și apoi descoperite experimental de Heinrich Hertz. Variația unui câmp electric produce un câmp magnetic variabil, căruia îi transferă în același timp și energia. La rândul ei, energia câmpului magnetic variabil creat, generează un câmp electric care preia această energie. În acest fel energia inițială este transformată alternativ și permanent dintr-o formă (electrică în magnetică și invers) în cealaltă, iar procesul se repetă ducând la propagarea acestui cuplu de câmpuri. Trebuie totuși subliniat că există în procesul menționat și pierderi  de energie (amortizări) ce însoțesc fenomenul.
+
+
+== Proprietăți ==
+Radiația electromagnetică, indiferent de frecvență, poate suferi diferite fenomene:
+
+interferențăreflexierefracțiedifracție
+absorbțieRadiația electromagnetică are o natură duală: pe de-o parte, ea se comportă în anumite procese ca un flux de particule (fotoni), de exemplu la emisie, absorbție, și în general în fenomene cu o extensie temporală și spațială mică. Pe de altă parte, în propagare și alte fenomene extinse pe durate și distanțe mari radiația electromagnetică are proprietăți de undă.
+
+
+== Vezi și ==
+Electricitatea și magnetismul
+Electromagnetism
+Frecvență
+Lungime de undă
+Lumină
+Radiație
+Radiotelescop
+Stea
+Dualismul undă-particulă
+
+
+== Note ==
+
+
+== Bibliografie ==
+
+
+== Legături externe ==

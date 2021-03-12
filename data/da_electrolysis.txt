@@ -1,0 +1,18 @@
+.
+Elektrolyse er en måde at adskille et stof på ved hjælp af elektricitet. Ordet elektrolyse blev skabt/opfundet af videnskabsmanden Michael Faraday.
+Sætter man jævnstrøm til en væske i et elektrolysekar, vil væskens positive ioner blive tiltrukket af katoden, mens væskens negative ioner vil blive tiltrukket af anoden. 
+Et eksempel kunne være at adskille saltsyre. Saltsyre består af hydrogen-ioner og klorid-ioner. Hydrogenionen har ladningen + og vil derfor trække sig mod katoden, mens kloridionen har ladningen – og den vil derfor bevæge sig mod anoden. Når ionerne rammer anoden/katoden vil de blive omdannet til rene grundstoffer. Da både hydrogen og klor er gasser, vil disse stige op fra væsken, da gasser jo er en hel del lettere end væske. For at bevise vores teori om reaktionen, bliver man nødt til at stille to reagensglas på bunden af elektrolysekarret og lade gassen stige op i disse. Herved kan man teste, hvorvidt teorien passer ved først at tage det reagensglas, der var placeret over katoden og sætte en glødepind ned i reagensglasset, da hydrogen er brandfarligt vil den brænde i en reaktion med i forbindelse med luftens oxygen. Ved reagensglasset, der var placeret over anoden, vil man kunne lugte klorets tilstedeværelse –, det burde gerne lugte i stil med en tur i svømmehallen. Indåndning skal dog undgåes, da det er sundhedsskadeligt.
+Elektrolyse bliver anvendt ved overfladebehandling af metaller.
+Elektrolyse er en af måderne at danne ren hydrogen på.
+
+
+== Katolyse ==
+Katolyse er betegnelsen på den form for elektrolyse, hvor det er katoden, der bliver opløst i modsætning til i et traditionelt elektrolyseanlæg, hvor anoden opløses. Det er et varemærke som ejes af Guldager A/S
+
+
+== Kilder/referencer ==
+
+
+== Eksterne henvisninger ==
+
+Elektrolyse (tysk) Arkiveret 4. april 2005 hos  Wayback Machine

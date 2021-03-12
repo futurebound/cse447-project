@@ -1,0 +1,319 @@
+Elektrolyse nennt man einen chemischen Prozess, bei dem elektrischer Strom eine Redoxreaktion erzwingt. Sie wird beispielsweise zur Gewinnung von Metallen verwendet, oder zur Herstellung von Stoffen, deren Gewinnung durch rein chemische Prozesse teurer oder kaum möglich wäre. Beispiele wichtiger Elektrolysen sind die Gewinnung von Wasserstoff, Aluminium, Chlor und Natronlauge.
+Eine Elektrolyse erfordert eine Gleichspannungsquelle, welche die elektrische Energie liefert und die chemischen Umsetzungen vorantreibt. Ein Teil der elektrischen Energie wird in chemische Energie umgewandelt. Genau dem umgekehrten Zweck, der Umwandlung von chemischer Energie in elektrische, dienen Batterien, Akkumulatoren oder Brennstoffzellen: sie dienen als Stromquelle. Wenn man einen Akkumulator lädt, läuft eine Elektrolyse ab, die die chemischen Vorgänge während der Entladung rückgängig macht. Elektrolysen können daher der Energiespeicherung dienen, beispielsweise bei der Elektrolyse von Wasser, die Wasserstoff und Sauerstoff ergibt, die als Energieträger einer Wasserstoffwirtschaft vorgeschlagen wurden. Durch die Umkehrung der Wasserelektrolyse in einer Brennstoffzelle kann etwa 40 % der ursprünglich eingesetzten elektrischen Energie wieder zurückgewonnen werden.
+Die Abscheidung von Metallen aus einer Lösung, die die entsprechenden Metallionen enthält, durch einen von außen aufgeprägten Strom ist ebenfalls eine Elektrolyse. Dies kann zur Erzeugung von Metallschichten dienen, beispielsweise beim Verchromen; diese Art der Elektrolysen sind Gegenstand der Galvanotechnik. Die elektrolytische Auflösung und Wiederabscheidung von Metallen dient der Reinigung, z. B. von Kupfer, und wird elektrolytische Raffination genannt.
+Bei den chemischen Reaktionen, die bei der Elektrolyse ablaufen, werden Elektronen übertragen. Es sind daher immer Redoxreaktionen, wobei die Oxidation an der Anode (elektrischer Pol), die Reduktion an der Kathode ablaufen; Oxidations- und Reduktionsprozesse sind also räumlich zumindest teilweise voneinander getrennt.
+
+
+== Geschichte ==
+
+Die Elektrolyse wurde im Jahr 1800 entdeckt, wobei die von Alessandro Volta erfundene erste brauchbare Batterie verwendet wurde, die Voltasche Säule. Die neu entdeckte Elektrolyse ermöglichte es Humphry Davy, in den Jahren 1807 und 1808 mehrere unedle Metalle erstmals elementar herzustellen, beispielsweise Natrium und Calcium. Michael Faraday untersuchte die Elektrolyse genauer und entdeckte ihre Grundgesetze, nämlich die Abhängigkeit der umgesetzten Massen von der Ladungsmenge und der Molmasse. Auf seine Anregung hin wurden auch die Begriffe Elektrolyse, Elektrode, Elektrolyt, Anode, Kathode, Anion und Kation geschaffen. Nach der Erfindung leistungsfähiger elektrischer Generatoren führten Elektrolysen Ende des 19. Jahrhunderts zu einer stürmischen Entwicklung in Wissenschaft und Technik, z. B. bei der elektrolytischen Gewinnung von Aluminium, Chlor und Alkalien, und bei der Erklärung des Verhaltens der Elektrolyte, zu denen auch Säuren und Basen zählen.
+
+
+== Prinzip ==
+
+Durch zwei Elektroden wird ein elektrischer Gleichstrom in eine leitfähige Flüssigkeit (siehe Elektrolyt) geleitet. An den Elektroden entstehen durch die Elektrolyse Reaktionsprodukte aus den im Elektrolyt enthaltenen Stoffen.
+Die Spannungsquelle bewirkt einen Elektronenmangel in der mit dem Pluspol verbundenen Elektrode (Anode) und einen Elektronenüberschuss in der anderen, mit dem Minuspol verbundenen Elektrode (Kathode). Die Lösung zwischen der Kathode und Anode enthält als
+Elektrolyte positiv und negativ geladene Ionen. Positiv geladene Ionen (Kationen) oder elektroneutrale Stoffe nehmen an der Kathode Elektronen auf und werden dadurch reduziert. An der Anode läuft der entgegengesetzte Prozess ab, die Abgabe von Elektronen in die Elektrode, wobei Stoffe, z. B. Anionen, oxidiert werden. Die Menge der an der Anode übertragenen Elektronen ist gleich der an der Kathode übertragenen.
+Der Transport der Stoffe an die Elektroden erfolgt durch konvektiven Stoffübergang (Diffusion innerhalb der Flüssigkeit mit überlagerter Strömung der Flüssigkeit) und, soweit es Ionen betrifft, zusätzlich durch Migration (Wanderung durch Einwirkung des elektrischen Feldes zwischen den Elektroden).
+Die Spannung, die zur Elektrolyse mindestens angelegt werden muss, wird als Zersetzungsspannung (Uz oder Ez) bezeichnet. Diese oder eine höhere Spannung muss angelegt werden, damit die Elektrolyse überhaupt abläuft. Wird diese Mindestspannung nicht erreicht, wirkt der Elektrolyt beziehungsweise seine Grenzflächen zu den Elektroden, die auch elektrochemische Doppelschicht genannt werden, isolierend.
+Für jeden Stoff, für jede Umwandlung von Ionen zu zwei- oder mehratomigen Molekülen kann die Zersetzungsspannung, das Abscheidepotential anhand des Redoxpotentials ermittelt werden. Aus dem Redoxpotential erhält man noch weitere Hinweise, wie zur elektrolytischen Zersetzung von Metallelektroden in Säure oder zur Verminderung von Zersetzungsspannung durch Abänderung des pH-Wertes. So lässt sich durch das Redoxpotential berechnen, dass die anodische Sauerstoffbildung bei der Wasserelektrolyse von Wasser in basischer Lösung (Zersetzungsspannung: 0,401 V) unter geringerer Spannung abläuft als in saurer (Zersetzungsspannung: 1,23 V) oder neutraler (Zersetzungsspannung: 0,815 V) Lösung, an der Kathode hingegen bildet sich Wasserstoff leichter unter sauren Bedingungen als unter neutralen oder basischen Bedingungen.
+Sind in einer Elektrolytlösung mehrere reduzierbare Kationen vorhanden, so werden zunächst die Kationen reduziert, die in der Redoxreihe (Spannungsreihe) ein positiveres (schwächer negatives) Potential haben. Bei der Elektrolyse einer wässrigen Kochsalzlösung bildet sich an der Kathode normalerweise Wasserstoff und nicht Natrium.
+Auch beim Vorliegen von mehreren Anionenarten, die oxidiert werden können, kommen zunächst diejenigen zum Zuge, die in der Redoxreihe möglichst nahe am Spannungsnullpunkt liegen, also ein schwächeres positives Redoxpotential besitzen.
+Nach Überschreiten der Zersetzungsspannung wächst mit Spannungszunahme proportional auch die Stromstärke. Nach Faraday ist die Gewichtsmenge eines elektrolytisch gebildeten Stoffs proportional zu der geflossenen elektrischen Ladung (Stromstärke multipliziert mit der Zeit, siehe Faradaysche Gesetze).
+Für die Bildung von 1 g Wasserstoff (etwa 11,2 Liter, bei der Bildung eines Wasserstoffmoleküls werden zwei Elektronen benötigt) aus wässriger Lösung wird eine elektrische Ladung von 96485 C (1 C = 1 A·s) benötigt. Bei einem Strom von 1 A dauert die Bildung von 11,2 Litern Wasserstoff also 26 Stunden und 48 Minuten.
+Neben dem Redoxpotential ist noch die Überspannung (das Überpotential) von Bedeutung. Auf Grund von kinetischen Hemmungen an Elektroden benötigt man häufig eine deutlich höhere Spannung als sich dies aus der Berechnung der Redoxpotentiale errechnet. Die Überspannungseffekte können – je nach Materialbeschaffenheit der Elektroden – auch die Redoxreihe ändern, so dass andere Ionen oxidiert oder reduziert werden als dies nach dem Redoxpotential zu erwarten gewesen wäre.
+Kurz nach Abschaltung einer Elektrolyse kann man mit einem Amperemeter einen Stromausschlag in die andere Richtung feststellen. In dieser kurzen Phase setzt der umgekehrte Prozess der Elektrolyse, die Bildung einer galvanischen Zelle ein. Hierbei wird nicht Strom für die Umsetzung verbraucht, sondern es wird kurzzeitig Strom erzeugt; dieses Prinzip wird bei Brennstoffzellen genutzt.
+Mitunter ist es ratsam, zur Vermeidung unerwünschter chemischer Reaktionen Kathodenraum und Anodenraum voneinander zu trennen und den Ladungsaustausch zwischen Anoden- und Kathodenraum nur durch ein poröses Diaphragma – häufig ein Ionenaustauscherharz – stattfinden zu lassen. Bei der technischen Elektrolyse zur Herstellung von Natronlauge ist dies recht wichtig. 
+Zur Verfolgung von Stoffumsatz, Wanderungsgeschwindigkeiten von Ionen kann auch das Wissen von molaren Grenzleitfähigkeiten wichtig sein.
+Wenn man durch eine Elektrolyse eine Trennung einzelner Moleküle oder Bindungen erzwingt, wirkt gleichzeitig ein galvanisches Element, dessen Spannung der Elektrolyse entgegenwirkt. Diese Spannung wird auch als Polarisationsspannung bezeichnet.
+
+
+=== Elektroden ===
+Es gibt nur wenige Anodenmaterialien, die während der Elektrolyse inert bleiben, also nicht in Lösung gehen, z. B. Platin und Kohlenstoff. Einige Metalle lösen sich trotz stark negativem Redoxpotential nicht auf, diese Eigenschaft wird als „Passivität“ bezeichnet. In saurer Lösung müssten sich nach der Nernst'schen Gleichung die Mehrzahl der Metalle unter Kationen- und Wasserstoffbildung auflösen. Bis auf Kupfer, Silber, Gold, Platin, Palladium besitzen fast alle Metall/Metallkationenpaare ein negatives Redoxpotential und wären für Elektrolysen in saurem Milieu ungeeignet, da sich das Gleichgewicht (Metallatom und Protonen) zur Kationenbildung und Wasserstoff verschiebt. Im schwefelsauren Milieu ist Blei ein preiswertes und beliebtes Kathodenmaterial, als Anode kann sowohl Blei als auch Bleioxid verwendet werden (Verwendung auch in Autobatterien). Bleisulfat ist schlecht löslich, so dass die Bleielektroden sich kaum auflösen.
+Eisen und Nickel können wegen der Passivität als Anoden manchmal auch in saurem Milieu verwendet werden, jedoch werden auch diese Anodenmaterialien vorzugsweise im basischen Milieu verwendet. Eine Eisenanode, die mit konzentrierter Salpetersäure behandelt wurde, löst sich nicht auf, durch die Passivierung gehen keine Eisen(II)- oder Eisen(III)-ionen in Lösung. Es hat sich eine sehr dünne und stabile Eisenoxidschicht (ähnlich wie beim Aluminium) gebildet, die die weitere Auflösung der Elektrode verhindert.
+Chloridionen oder höhere Temperaturen können jedoch die Passivität aufheben.
+Eisenanoden weisen im Vergleich zu anderen Anodenmaterialien nur eine sehr geringe Überspannung bei der Sauerstoffentwicklung auf, daher werden sie vorzugsweise bei der Erzeugung von Sauerstoff eingesetzt.
+Hemmungserscheinungen an der Anode, die bei der Sauerstoffbildung zu einer Überspannung führen, beobachtet man bei Kohle- und Platinanoden. Die Überspannung kann genutzt werden, um bei der Elektrolyse von wässriger Kochsalzlösung Chlor statt Sauerstoff zu erzeugen.
+An Zink-, Blei- und besonders Quecksilberkathoden zeigen Protonen eine erhebliche Überspannung und die Bildung von Wasserstoff erfolgt erst bei einer viel höheren Spannung. Die erhebliche Überspannung von Wasserstoff an der Quecksilberkathode, an der Natrium als Amalgam gebunden wird und so dem Gleichgewicht entzogen wird, nutzt man zur technischen Herstellung von Natronlauge. Durch die erhebliche Überspannung an dieser Elektrode bei der Wasserstoffbildung ändert sich die Redoxreihe, statt Protonen werden nun Natriumionen an der Quecksilberkathode reduziert.
+Geeignete Elektrodenmaterialien:
+
+(++) Gut geeignet,
+(+) geeignet,
+(−) nicht geeignet
+
+
+=== Überspannung ===
+Sowohl an der Kathode als auch an der Anode können Überspannungen auftreten und somit die benötigte Spannung gegenüber den Berechnungen nach der Nernst-Gleichung erhöhen. Die Überspannungen sind bei Gasbildungen (z. B. Wasserstoff- und Sauerstoffbildung) mitunter beträchtlich. Die aufgebrachte Überspannungsenergie geht als Wärme verloren, trägt also nicht zum Stoffumsatz bei. Je nach Metallart und Oberflächenbeschaffenheit der Elektroden variieren die Überspannungen. Stromstärke und Temperatur beeinflussen ebenfalls die Überspannung. Eine wachsende Stromstärke erhöht leicht die Überspannung, eine Temperaturerhöhung senkt dagegen die Überspannung.Die nachfolgenden Tabellen geben einen kurzen Überblick bezüglich der
+Überspannung bei der anodischen Sauerstoffentwicklung und der kathodischen Wasserstoffentwicklung (die Versuche wurden jedoch bei verschiedenen pH-Werten ausgeführt, zur Berechnung von pH-Änderungen siehe Nernst-Gleichung)
+Überspannung Sauerstoffbildung
+Konditionen: 1 N-wäss. KOH, 20 °C, Messung nach 20 min.
+Überspannung Wasserstoffbildung
+Konditionen: 1 N wäss. HCl, 16 °C.
+Bei anderen elektrolytischen Reduktionen (ohne Gasbildung) kann auch die Diffusionsüberspannung wichtig werden. Falls nach einigen Minuten die Konzentration des elektrolytisch umzusetzenden Stoffes vor der Elektrode absinkt, muss mehr Spannung aufgebracht werden, um die gleiche Stromstärke zu erzielen. Durch kontinuierliches Rühren oder mit rotierenden Scheiben-, Zylinderelektroden kann die Diffusionsüberspannung gesenkt werden.
+Die Wasserstoff- und die Sauerstoffüberspannung bleiben an vielen Metallen nicht konstant.
+Sie steigen mitunter sogar noch nach 60 Minuten leicht an.
+
+
+=== Zellwiderstand ===
+Der elektrische Widerstand einer Elektrolysezelle behindert den Stromfluss (ohmsches Gesetz) und sollte daher minimiert werden, andernfalls geht Energie in Form von Wärme verloren. Der Widerstand einer Elektrolysezelle hängt vom Elektrodenabstand, von der Größe der Elektrodenfläche und von der Leitfähigkeit ab.
+Allgemein gilt für die Berechnung des Widerstands einer Elektrolysezelle:
+
+  
+    
+      
+        R
+        (
+        z
+        )
+        =
+        
+          (
+          
+            
+              Elektrodenabstand
+              Elektrodenfläche
+            
+          
+          )
+        
+        ⋅
+        
+          (
+          
+            
+              1
+              Leitfähigkeit
+            
+          
+          )
+        
+        
+      
+    
+    {\displaystyle R(z)=\left({\frac {\text{Elektrodenabstand}}{\text{Elektrodenfläche}}}\right)\cdot \left({\frac {1}{\text{Leitfähigkeit}}}\right)\,}
+  In destilliertem Wasser ist die Leitfähigkeit sehr gering – der Widerstand also sehr hoch – und eine Elektrolyse schlecht möglich.
+
+Die Leitfähigkeiten von Lösungen geringer Konzentrationen lassen sich über die spezifische Elektrolytische Leitfähigkeit bzw. die Äquivalentleitfähigkeiten der Ionen berechnen. Die Leitfähigkeit von Lösungen sehr hoher Konzentration muss experimentell bestimmt werden. 
+Obwohl bei starken Säuren die Leitfähigkeit höher als in basischen Lösungen gleicher Konzentration ist, werden viele Elektrolysen – aufgrund der anodischen Auflösungsvorgänge bzw. der verzögerten Sauerstoffbildung bzw. Halogenoxidation im sauren Bereich – vorwiegend in basischem Medium ausgeführt.
+
+
+=== Stromdichte ===
+Um die Wirtschaftlichkeit von elektrolytischen Verfahren zu steigern, sollten die Verfahren bei möglichst hohen Stromdichten durchgeführt werden. Dies erreicht man, indem man die Leitfähigkeit durch Salzzugabe oder durch Temperaturerhöhung (je Grad Temperaturzunahme steigt die spezifische Leitfähigkeit etwa um 1–2 %) erhöht. Häufig wird die Stromdichte durch den Diffusionsgrenzstrom limitiert. Aus Kenntnis des Diffusionsgrenzstromes lassen sich dimensionslose Kennzahlen ermitteln, um den Umsatz auch für größere Anlagen berechnen zu können. Es gibt für jede Elektrolyse eine kalkulatorisch optimale Stromdichte, sie ist größtenteils nicht die maximale Stromdichte.
+Um möglichst saubere, kompakte Metallabscheidungen zu erhalten, sollte bei geringer Stromdichte gearbeitet werden. Dies ist insbesondere für Gold-, Silber- und Kupferbezüge wichtig.
+Metallabscheidungen bei hohen Stromdichten bilden sogenannte Spieße, Stangen, Bäume aus und diese können zu Kurzschlüssen führen.Häufig – besonders in der organischen Chemie – sind thermische Verfahren aufgrund des höheren Stoffumsatzes pro Zeiteinheit den elektrolytischen Verfahren überlegen.
+
+
+=== Wanderungsgeschwindigkeiten von Ionen ===
+Während der Elektrolyse können Kationen an der Kathode reduziert und an der Anode Anionen oxidiert werden. Da dicht vor der Elektrode Ladungsänderungen durch Reduktion oder Oxidation auftreten, muss die Ladungsdifferenz im Elektrodenraum durch Wanderungsprozesse ausgeglichen werden.
+Kationen und Anionen müssen im Elektrodenraum in identischer Konzentration vorliegen, es darf keinen Überschuss an positiven oder negativen Ionen geben. Der Ausgleich von Ionen in einer Elektrolysezelle wird durch die Ionenwanderung bewirkt. Die Wanderungsgeschwindigkeit ist abhängig von der angelegten Zellspannung und der Art der Ionen. Der Verlust an Kationen vor der Kathode kann durch die Wanderung von überschüssigen Kationen aus dem Anodenraum oder umgekehrt von überschüssigen Anionen aus dem Kathodenraum kompensiert werden. In der Regel stellt sich ein Kompromiss aus beiden Wanderungsrichtungen ein. Die Wanderungsgeschwindigkeiten lassen sich aus den Grenzleitfähigkeiten der Ionenarten berechnen.
+Mit der Überführungszahl kann die Änderung der Ionenzusammensetzung direkt bestimmt werden.
+Es gibt Ionen wie H+ oder OH-, die sehr schnell in einer Elektrolytlösung wandern. Aufgrund der unterschiedlichen Wanderungsgeschwindigkeiten können sich Ionenarten während der Elektrolyse in den Halbzellen der Elektrolysezelle anreichern.
+Bei einer Temperaturerhöhung um 1 °C nimmt die Leitfähigkeit um ca. 1–2,5 % zu. Die Zunahme der Wanderungsgeschwindigkeit könnte mit einer geringeren Viskosität der Solvathülle um die Ionen oder gar mit einer Abnahme der Solvathülle um die Ionen begründet werden.Zur Verknüpfung der Größen Wanderungsgeschwindigkeit 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  , Ionenbeweglichkeit 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   (die keine Geschwindigkeit ist!), elektrische Feldstärke 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  , Äquivalentleitfähigkeit/Grenzleitfähigkeit (lambda) und von Ionen im elektrischen Feld 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   beigebrachten Teilstrom siehe:
+
+Grundlagen und Berechnung der Überführungszahlen von Ionensowie:
+
+Zahlenwerte der Ionenbeweglichkeit vieler Ionen
+
+
+== Beispiele ==
+
+
+=== Elektrolyse von Wasser ===
+
+Die Elektrolyse von Wasser zerlegt dieses in die Elemente Sauerstoff und Wasserstoff. Wie alle Elektrolysen besteht sie aus zwei Teilreaktionen, die an den beiden Elektroden (Kathoden- und Anodenräumen) ablaufen. Das Gesamt-Reaktionsschema dieser Redoxreaktion lautet:
+
+  
+    
+      
+        
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          (
+          l
+          )
+          
+             
+            
+              
+                Elektrolyse
+                →
+              
+            
+          
+           
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          (
+          g
+          )
+          +
+          
+            O
+            
+              2
+            
+          
+          (
+          g
+          )
+        
+      
+    
+    {\displaystyle \mathrm {2\ H_{2}O(l)\ _{\overrightarrow {\text{Elektrolyse}}}\ 2\ H_{2}(g)+O_{2}(g)} }
+  
+Wasser wird durch elektrischen Strom in Wasserstoff und Sauerstoff gespalten.Die Elektroden tauchen in Wasser ein, welches durch die Zugabe von Säure oder Lauge besser leitend gemacht wird. Die Teilreaktionen lauten
+Kathodenraum:
+2 H3O+ + 2 e− → H2 + 2 H2O (für saure Lösungen)
+oder:
+2 H2O + 2 e− → H2 + 2 OH− (für basische Lösungen)
+Anodenraum:
+6 H2O → O2 + 4 H3O+ + 4 e− (für saure Lösungen)
+oder:
+4 OH− → O2 + 2 H2O + 4 e− (für basische Lösungen)
+Als Demonstrationsexperiment kann diese Reaktion im Hofmannschen Wasserzersetzungsapparat ausgeführt werden.
+Die Wasserelektrolyse kann zur Gewinnung von Wasserstoff als lagerbarer Energieträger an Bedeutung gewinnen. Der energetische Wirkungsgrad der Elektrolyse von Wasser liegt bei über 70 %.
+
+
+=== Elektrolyse von Zinkiodid ===
+Die Elektrolyse von Zinkiodid zerlegt dieses in die Elemente Zink und Iod. Wie alle Elektrolysen besteht auch diese aus zwei Teilreaktionen, die an den beiden Elektroden (Kathoden- und Anodenraum) ablaufen. Das Gesamt-Reaktionsschema dieser Redoxreaktion lautet:
+
+  
+    
+      
+        
+          Z
+          n
+          
+            I
+            
+              2
+            
+          
+           
+          
+            
+              →
+              
+                Elektrolyse
+              
+            
+          
+           
+          Z
+          n
+          +
+          
+            I
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {ZnI_{2}\ {\xrightarrow {\text{Elektrolyse}}}\ Zn+I_{2}} }
+  
+Das Zinkiodid wurde durch elektrischen Strom in Zink und Iod gespalten.Die Reaktionen an den einzelnen Elektrodenräumen lauten:
+Kathodenreaktion:
+Zn2+ + 2 e− → Zn
+Anodenreaktion:
+2 I− → I2+ 2 e−Durch die Energiezufuhr bewegen sich die einzelnen Ionen in Richtung Elektroden. Die Zink-Kationen wandern zur Kathode, es werden von den Zink-Kationen zwei Elektronen aufgenommen (Reduktion) und es bildet sich elementares Zink. Die Iod-Anionen wandern zur Anode und werden zu elementarem Iod oxidiert.
+
+
+== Anwendungen ==
+
+
+=== Stoffgewinnung ===
+
+Die Metalle Aluminium und Magnesium werden elektrolytisch mithilfe der Schmelzflusselektrolyse hergestellt. Elektrochemisch werden ferner Kupfer, Silber und Gold gewonnen, sowie zu großen Teilen auch Zink und Nickel. Weitere Alkalimetalle und die meisten Erdalkalimetalle werden ebenfalls durch Schmelzflusselektrolyse gewonnen.
+Sowohl dabei als auch bei Elektrolyse in wässrigen Medien werden je nach Ausgangsstoff die Halogene Fluor, Brom und Chlor frei, die in großem Maßstab für weitere Synthesen verwendet werden.
+In der Chloralkali-Elektrolyse wird aus Steinsalz Chlor, Wasserstoff und Natronlauge hergestellt.
+
+
+=== Galvanik ===
+Elektrolytische Metallabscheidungen gehören zu den wichtigsten Anwendungen, entweder zur Erzeugung von metallischen Überzügen bei der Galvanik (galvanisches Verzinken, Verchromen usw.) oder zur Herstellung und Verstärkung von Leiterbahnen in der Leiterplattenproduktion.
+
+
+=== Elektrolytische Raffination ===
+Die elektrolytische Raffination ist ein Verfahren zur Reinigung von Metallen. Die Reinigung wird dadurch erreicht, dass sich durch Elektrolyse eine Anode aus einem Rohmetall löst und sich an einer Kathode selektiv als reines Metall abscheidet. Verunreinigungen bleiben im Elektrolyt gelöst oder fallen als Anodenschlamm aus. Der Anodenschlamm und Elektrolyt werden wegen ihrer wertvollen Bestandteile aufgearbeitet. Elektrolytische Raffination wird insbesondere für die Reinigung von Kupfer, Nickel, Silber und Blei verwendet.
+Bei der elektrolytische Raffination von Kupfer wird Elektrolytkupfer mit einer Reinheit von >99,5 % gewonnen und wird hauptsächlich für elektrische Leiter verwendet. Bei der Kupferraffination beträgt die Zellspannung wenige Zehntel Volt (hauptsächlich verursacht durch Überspannungen und den Zellwiderstand), die Stromdichte liegt im Bereich von 150 bis 240 A/m2. Der Anodenschlamm enthält insbesondere die Edelmetalle Gold und Silber, aber auch Selen und Antimon. Die unedleren Metalle, wie Eisen, Nickel, Cobalt und Zink, verbleiben im Elektrolyt.
+Bei der elektrolytische Bleiraffination dient die Raffination von Rohblei zur Abtrennung von Arsen, Antimon und Bismut.
+
+
+=== Kolbe-Elektrolyse ===
+Die Kolbe-Elektrolyse ist das älteste Beispiel einer organischen elektrochemischen Reaktion. Bei dieser Elektrolyse werden zwei Carbonsäuremoleküle unter CO2-Abspaltung gekuppelt.
+
+
+=== Weitere Anwendungen der Elektrolyse ===
+Analytische Chemie: Bei der Voltammetrie und Polarographie wird durch die Messung des Elektrolysestromes in Abhängigkeit von der Spannung ein Aufschluss über die chemische Zusammensetzung des Elektrolyten gewonnen. Bei der Elektrogravimetrie und Coulometrie wird die Umsetzung von Elektrolyten durch elektrischen Strom angewendet, um Informationen über den Metallgehalt einer Probe zu erlangen.Abwasserreinigung: Neben der Hydroxidfällung und der Reinigung von Abwasser mit Ionenaustauschern werden zur Reinigung von belasteten Abwässern aus der metallverarbeitenden Industrie, der Galvanik, Farbstoff-, Pharmaindustrie elektrochemische Reinigungsmethoden angewandt. An der Anode werden Cyanidsalze, organische Verbindungen durch Oxidation unschädlich gemacht. An der Kathode werden z. B. Blei, Arsen und Kupfer durch Reduktion entfernt, Chromat wird zu Cr3+ reduziert.Elektrochemisches Abtragen: Elektrochemisches Abtragen (ECM) wird auch elektrochemische Metallbearbeitung genannt. Dabei wird das Werkstück als Anode geschaltet und das Metall löst sich dann durch große Nähe zur Kathode auf. Durch die Formgebung der Kathode kann die Ablösung an der Anode beeinflusst werden. Als Metalle eignen sich Aluminium, Kobalt, Molybdän, Nickel, Titan, Wolfram, Stahl und Eisenlegierungen. Als Elektrolyt dient Natriumnitrat oder Natriumhydroxid.Isotopentrennung: Im natürlichen Wasser ist etwas Deuterium enthalten. Da Deuterium sehr viel langsamer als Wasserstoff an der Kathode zum Mischgasmolekül Deuteriumwasserstoff reagiert, lässt sich Deuterium elektrolytisch anreichern.Laden von Akkumulatoren: Beim Entladen von Akkumulatoren wird chemische Energie in nutzbare elektrische Energie umgewandelt. Lädt man einen Akku wieder auf, so erzwingt man durch die Ladespannung eine Umkehrung der bei der Entladung ablaufenden Redoxreaktion. Somit ist der Aufladevorgang nach der oben genannten Definition eine Elektrolyse. Diese Benennung ist aber unüblich.
+
+
+== Wirtschaft ==
+Nach Angaben des Statistischen Bundesamtes wurden im Jahr 2007 die folgenden Mengen an Metallen oder Chemikalien in Deutschland hergestellt.
+In den USA liegen die hergestellten Elektrolyseprodukte um den Faktor 2–3 höher. Dort werden ca. 5 % der gesamten Stromproduktion für die Elektrolyse benötigt. Die weltweite Gesamtmenge an mittels Elektrolyse hergestelltem Aluminium liegt bei etwa 50 Millionen Tonnen jährlich.
+
+
+== Literatur ==
+Handbuch der experimentellen Chemie. Sekundarbereich II. Band 6: Elektrochemie. Aulis Verlag Deubner, 1994, ISBN 3-7614-1630-X.
+Ullmann Encyklopädie der technischen Chemie. 3. Auflage. Band 6, 1955, S. 253–304. (4. Auflage, Band 3, S. 262–298, 5. Auflage, Band A9, S. 220 ff.)
+Gerd Wedler: Lehrbuch der Physikalischen Chemie. Verlag Chemie, 1982, ISBN 3-527-25880-9, S. 172–212, S. 405–445, S. 821–836.
+Udo R. Kunze: Grundlagen der quantitativen Analyse. Georg Thieme Verlag, 1980, ISBN 3-13-585801-4, S. 169–171.
+Carl H. Hamann, Wolf Vielstich: Elektrochemie. 4. Auflage. WILEY-VCH Verlag, Weinheim 2005, ISBN 3-527-31068-1.
+Bernd Speiser: Elektroanalytische Methoden I: Elektrodenreaktionen und Chronoamperometrie. In: Chemie in unserer Zeit. Band 15, Nr. 1, Februar 1981, S. 21–26, doi:10.1002/ciuz.19810150105. 
+Wolfgang-Dieter Luz, Eberhard Zirngiebl: Die Zukunft der Elektrochemie. In: Chemie in unserer Zeit. Band 23, Nr. 5, 1. Oktober 1989, S. 151–160, doi:10.1002/ciuz.19890230503. 
+
+
+== Weblinks ==
+
+Allgemeine Beschreibung mit Zeichnung
+Information Portal on Hydrogen and Fuel Cells
+Experimente. Archiviert vom Original am 19. Juli 2009; abgerufen am 1. Juni 2007. 
+Videotutorial zur Elektrolyse
+
+
+== Einzelnachweise ==

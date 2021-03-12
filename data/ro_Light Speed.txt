@@ -1,0 +1,478 @@
+Viteza luminii în vid este o importantă constantă fizică universală; conform cunoștințelor existente, este viteza de propagare a luminii în vid  - independent de parametrii fizici ai luminii cum sunt: culoarea, intensitatea, direcția, polarizarea sau durata propagării. Această caracteristică este proprie nu numai luminii din spectrul vizibil, ea este valabilă tuturor radiațiilor de natură electromagnetică cum sunt: undele radio, lumina infraroșie și ultravioletă, radiațiile X și Gamma. Viteza luminii în vid, conform teoriei relativității restrânse a lui Einstein reprezintă valoarea limită a vitezei pe care o poate atinge un corp, indiferent de mediul în care se propagă. Valoarea sa, exprimată în unități din Sistemul Internațional, este de 299 792 458 m/s (metri pe secundă). Determinări experimentale de mare precizie au demonstrat stabilitatea foarte mare a valorii vitezei luminii în vid: măsurătorile de laborator au arătat că variația vitezei de propagare pentru raze de lumină de culori (lungimi de undă) diferite se încadrează într-o abatere de valori ce reprezintă unu la a 1014-a parte din valoarea determinată.Deși simbolul vitezei în fizică este „v,” pentru viteza luminii în vid se folosește un simbol consacrat, litera minusculă „c”, mai rar „c0”, de la cuvântul latinesc celeritas (viteză).
+Lumina se propagă cu viteză atât de mare încât nici un fapt empiric comun nu permite evaluarea sa pe cale obișnuită; de-a lungul istoriei au existat polemici științifice și filozofice privind caracterul finit sau infinit al vitezei ei. Viteza de propagare a luminii este de milioane de ori mai mare decât a sunetului, poate înconjura Pământul de aproximativ 7 ori în decursul unei secunde, parcurge distanța de la Pământ la Lună în mai puțin de 1,3 secunde. Pentru a fi posibilă măsurarea cu suficientă precizie a valorii vitezei luminii a fost nevoie de tehnici speciale care au evoluat odată cu dezvoltarea diferitelor ramuri ale fizicii. Prima determinare experimentală a valorii vitezei luminii, după nenumărate încercări eșuate a fost făcută de către Ole Rømer în anul 1676. Începând cu secolul al XX-lea performanțele determinărilor experimentale s-au îmbunătățit atât de mult încât au permis cunoașterea valorii ei cu o eroare relativă de 3,34 x 10–7 %; această precizie, extrem de mare a condus la redefinirea etalonului unității de lungime, metrul, printr-o nouă definiție, bazată pe „valoarea exactă” a vitezei luminii în vid adoptată prin convenție.
+Valoarea vitezei de propagare a luminii în orice mediu material transparent este mai mică decât valoarea vitezei luminii în vid. Ea depinde de caracteristicile electrice și magnetice ale mediului în care se deplasează și  nu se modifică pentru un mediu material transparent, omogen și izotrop. La trecerea luminii dintr-un mediu transparent, omogen și izotrop într-un alt mediu are loc modificarea vitezei, concomitent cu schimbarea direcției de propagare, fenomen cunoscut în optica geometrică sub denumirea de refracție.
+Conform teoriilor actuale, general acceptate, viteza luminii în vid este cea mai mare viteză posibilă din univers. Totuși, în alte medii decât în vid lumina are o viteză mai redusă, putând fi depășită, așa cum se întâmplă de exemplu în cadrul efectului Cerenkov.
+
+
+== Valoarea exactă a vitezei luminii ==
+Determinările cantitative ale valorii vitezei luminii au devenit de-a lungul timpului din ce în ce mai precise, odată cu perfecționarea metodelor și dispozitivelor experimentale.Începând din anii 1940, toate măsurătorile efectuate au avut o eroare relativă de măsurare sub 0,005 %. Rezultatele măsurătorilor ulterioare convergeau spre valoarea de 299 792 450 m/s.Cunoașterea valorii cu o precizie atât de mare a ridicat problema redefinirii etalonului pentru unitatea de lungime.Fizicianul maghiar Zoltán Bay propune în 1965 înlocuirea etalonului unității de lungime cu un etalon bazat pe definiția unității de timp și valoarea vitezei luminii.El a motivat propunerea pe baza studiilor sale legate de stabilitatea și precizia de măsurare a vitezei luminii. În anul 1983, al XVII-lea Congres Internațional pentru Greutăți și Măsuri, ținut la Paris, a adoptat o nouă definiție pentru metru și anume:
+Metrul este lungimea drumului parcurs de lumină în vid în timp de 1/299 792 458 dintr-o secundă.
+Valoarea utilizată în această definiție pentru durată se baza pe cea mai precisă determinare a valorii vitezei luminii la acea dată, efectuată în cadrul laboratoarelor NBS. Cu această definiție, valoarea vitezei luminii devenea „exactă”, în sensul că ea rezultă din calculul bazat pe definiția metrului și a secundei.   
+
+  
+    
+      
+        c
+        =
+        299
+        
+        792
+        
+        458
+         
+        
+          
+            metru
+            secunda 
+          
+        
+        =
+        299
+        
+        792
+        ,
+        458
+         
+        
+          
+            kilometru
+            secunda 
+          
+        
+        =
+        1
+        
+        079
+        
+        252
+        
+        848
+        ,
+        8
+        
+        
+          
+            kilometru
+            ora 
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle c=299\,792\,458\ {\frac {\text{metru}}{\text{secunda }}}=299\,792,458\ {\frac {\text{kilometru}}{\text{secunda }}}=1\,079\,252\,848,8\,{\frac {\text{kilometru}}{\text{ora }}}\,,}
+  Cu alte cuvinte, valoarea aproximativă a vitezei luminii în vid este de trei sute de mii de kilometri pe secundă sau un miliard de kilometri pe oră.
+Viteza luminii în orice alt mediu decât vidul este mai mică decât c. Factorul de micșorare a vitezei luminii este egal cu indicele de refracție al mediului respectiv. Anumite experimente au reușit încetinirea vitezei luminii până la 17 m/sDeși considerată a fi viteza limită superioară în acest Univers în care trăim, conform fizicii pe care o știm, totuși călătoria cu viteze superioare vitezei luminii este o temă preferată în literatura științifico-fantastică și nu numai în aceasta. Există teorii în fizica modernă care afirmă că viteze superluminice sunt posibile, precum particula ipotetică numită tahion, a cărei existență nu a fost dovedită. Există de asemenea o serie de experimente în care viteza luminii este aparent depășită, dar la o analiză atentă se poate dovedi că în respectivele experimente nici materia nici informația nu s-au deplasat mai repede decît lumina.
+
+
+== Viteza luminii în teoria electromagnetismului ==
+Permitivitatea electrică a vidului (
+  
+    
+      
+        
+          ε
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{0}}
+  ) nu depinde de c și este definită în  unități de măsură al  SI prin:
+
+  
+    
+      
+        
+          ε
+          
+            0
+          
+        
+        =
+        
+          10
+          
+            7
+          
+        
+        
+          /
+        
+        4
+        π
+        
+          c
+          
+            2
+          
+        
+        
+        
+          (
+           
+          
+            A
+            
+              2
+            
+          
+          
+          
+            s
+            
+              4
+            
+          
+          
+          k
+          
+            g
+            
+              −
+              1
+            
+          
+          
+          
+            m
+            
+              −
+              3
+            
+          
+          =
+          F
+          
+          
+            m
+            
+              −
+              1
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \varepsilon _{0}=10^{7}/4\pi c^{2}\quad \mathrm {(~A^{2}\,s^{4}\,kg^{-1}\,m^{-3}=F\,m^{-1})} }
+  Permeabilitatea magnetică a vidului  (
+  
+    
+      
+        
+          μ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mu _{0}}
+  ) nu depinde de c și este definită în  unități de măsură al  SI prin:
+
+  
+    
+      
+        
+          μ
+          
+            0
+          
+        
+        =
+        4
+        
+        π
+        
+        
+          10
+          
+            −
+            7
+          
+        
+        
+        
+          (
+           
+          k
+          g
+          
+          m
+          
+          
+            s
+            
+              −
+              2
+            
+          
+          
+          
+            A
+            
+              −
+              2
+            
+          
+          =
+          N
+          
+          
+            A
+            
+              −
+              2
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \mu _{0}=4\,\pi \,10^{-7}\quad \mathrm {(~kg\,m\,s^{-2}\,A^{-2}=N\,A^{-2})} }
+  .
+  
+    
+      
+        c
+        =
+        
+          
+            1
+            
+              
+                ε
+                
+                  0
+                
+              
+              
+                μ
+                
+                  0
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle c={\frac {1}{\sqrt {\varepsilon _{0}\mu _{0}}}}}
+  Viteza de propagare a luminii într-un mediu material transparent este dată de relația:
+
+  
+    
+      
+        
+          c
+          
+            mediu
+          
+        
+        =
+        
+          
+            1
+            
+              
+                ε
+                
+                  0
+                
+              
+              ⋅
+              
+                ε
+                
+                  
+                    r
+                  
+                
+              
+              ⋅
+              
+                μ
+                
+                  0
+                
+              
+              ⋅
+              
+                μ
+                
+                  
+                    r
+                  
+                
+              
+            
+          
+        
+        =
+        
+          
+            c
+            
+              
+                ε
+                
+                  
+                    r
+                  
+                
+              
+              ⋅
+              
+                μ
+                
+                  
+                    r
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle c_{\text{mediu}}={\frac {1}{\sqrt {\varepsilon _{0}\cdot \varepsilon _{\rm {r}}\cdot \mu _{0}\cdot \mu _{\rm {r}}}}}={\frac {c}{\sqrt {\varepsilon _{\rm {r}}\cdot \mu _{\rm {r}}}}}}
+  .Prin raportarea lui 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   la 
+  
+    
+      
+        
+          c
+          
+            mediu
+          
+        
+      
+    
+    {\displaystyle c_{\text{mediu}}}
+  , se găsește relația de dependență a indicelui de refracție al mediului de permitivitatea electrică relativă și permeabilitatea magnetică relativă:
+
+  
+    
+      
+        
+          n
+          
+            mediu
+          
+        
+        =
+        
+          
+            c
+            
+              c
+              
+                mediu
+              
+            
+          
+        
+        =
+        
+          
+            
+              ε
+              
+                
+                  r
+                
+              
+            
+            ⋅
+            
+              μ
+              
+                
+                  r
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle n_{\text{mediu}}={\frac {c}{c_{\text{mediu}}}}={\sqrt {\varepsilon _{\rm {r}}\cdot \mu _{\rm {r}}}}}
+  .
+
+
+== Evoluția istorică a concepției asupra caracterului finit sau infinit al vitezei luminii ==
+
+
+== Măsurători ale vitezei luminii ==
+Lumina se propagă cu o viteză atât de mare încăt nici o experiență obișnuită din viața de toate zilele nu sugerează ideea că semnalele luminoase nu se propagă cu viteză infinită.Din cele mai vechi timpuri, intuiția oamenilor a condus la ideea că lumina se propagă instantaneu.Totuși, odată cu dezvoltarea metodelor de măsurare și apariția unor noi modele ce descriau natura, în epoca renașterii se punea tot mai frecvent întrebarea: „cât de repede se propagă lumina?”. Galileo Galilei a fost cel care a ridicat cel mai tranșant această problemă, în prima jumătate a secolului al XVII-lea, a încercat să  determine viteza luminii, mai întâi pe cale experimentală (în jurul anului 1620), apoi a teoretizat problema metodei de determinare.În lucrarea sa fundamentală „Dialogo dei massimi sistemi del mondo” (Dialog despre cele două sisteme principale ale lumii), apărută pentru prima oară la  Florența în anul 1632, și publicată șase ani mai târziu în Olanda, scrisă sub forma unui dialog imaginar dintre trei persoane fictive care se numesc Sagredo, Salviati și Simplicio, descrie următorul raționament sub forma unei discuții:
+
+Simplicio: Experiența de toate zilele ne arată că lumina se propagă instantaneu: când vedem o salvă de artilerie, la distanță mare, lumina ajunge la ochii noștri fără a pierde nici un timp; dar sunetul ajunge la urechile noastre cu o întârziere simțitoare.
+Sagredo: Bine, Simplicio, dar unicul lucru care eu pot să-l afirm din această experiență familiară este că sunetul ce ajunge la urechea noastră merge mult mai încet decât lumina; ea nu ne spune în nici un fel dacă lumina se propagă instantaneu sau dacă ea necesită totuși un timp, cu toate că ea se propagă extrem de rapid.....În fragmentul de mai sus, părerea lui Simplicio întruchipează convingerea multiseculară a oamenilor, bazată pe experiența cotidiană, potrivit căreia lumina se propagă cu viteză infinită, Sagredo, care evident îl reprezintă pe Galilei, apărător al ideii verificării teoriei pe cale experimentală, descrie în continuare o experiență simplă prin care se poate măsura viteza luminii.Experimentul imaginar din cartea lui Galilei a fost efectuată de autor împreună cu un asistent al său cu aproximativ 12 ani în urmă și este cunoscută ca „metoda lanternei și paravanului”.
+
+
+=== Experiența lui Galilei („metoda lanternei și paravanului”) ===
+Galileo Galilei și un asistent al său au efectuat experiența descrisă în „Dialog despre cele două sisteme principale ale lumii”, după toate probabilitățile în anul 1620, undeva în apropierea Florenței. Experimentul a constat în următoarea procedură: el și asistentul său se aflau la o oarecare distantă unul față de celălalt, în noapte. Fiecare avea o lanternă (un „felinar”) în mână care putea fi acoperit cu ajutorul unui paravan acționat manual după voie. Galilei a pornit experiența dezobturând felinarul lui. Când lumina a ajuns la asistentul său, acesta a descoperit felinarul lui, lumina căruia a fost observat de către Galilei. Cunoscând cu precizie distanța dintre cei doi, Galilei a încercat să măsoare timpul scurs între momentul descoperirii primului felinar și momentul în care el a observat lumina celui de-al doilea felinar. Prin raportul dintre dublul distanței dintre cei doi și acest interval de timp ar fi trebuit să găsească valoarea vitezei de propagare a luminii în aer. Rezultatul experienței a fost un eșec, din cauza faptului că Galilei nu a putut pune în evidență o diferență de timp între cele două momente. Se știe astăzi că pentru o distanță de 1 km între cei doi, lumina face un parcurs dus-întors într-un interval de timp de circa 3,3 x 10–6 s. Acest interval de timp este cu ordine de mărime mai mic decât timpul de reacție uman respectiv precizia ceasurilor obișnuite, motiv pentru care experiența lui Galilei a fost sortit eșecului.
+
+
+=== Măsurătorile lui Ole Rømer ===
+
+Primele rezultate cantitative au fost obținute în 1676 de către Ole Rømer care studia prin telescop mișcarea satelitului Io al lui Jupiter. Perioada de revoluție a lui Io în jurul lui Jupiter era cunoscută din observațiile asupra eclipsei. Din aceste observații, el a dedus că lumina parcurge o distanță egală cu diametrul orbitei Pământului în 22 de minute. Cu distanțele astronomice cunoscute în acele timpuri, Rømer ar fi ajuns la o viteză a luminii de aproximativ 213 000 km/s.
+
+
+=== Experiența lui Fizeau ( metoda roții dințate) ===
+În anul 1849  Armand Hyppolite Louis Fizeau (1819-1896), un fizician francez, a măsurat pentru prima dată viteza luminii pe o cale neastronomică, obținând valoarea de 3,15x108 m/s. În figura alăturată este prezentat montajul experimental folosit de către Fizeau în experiența sa.
+
+. Cu ajutorul unei lentile convergente (nefigurat în imagine) lumina provenită de la sursa L era strânsă și trimisă pe oglinda semitransparentă S1 care o reflecta și care  făcea ca în planul roții dințate să se formeze o imagine a sursei. Oglinda S1 era o așa-numită oglindă „semiargintată”; stratul reflector al ei era atât de subțire încât numai aproximativ jumătate din lumina incidentă era reflectată, cealaltă jumătate fiind transmisă.În spatele roții dințate se afla o altă lentilă astfel ca imaginea din planul roții dințate să dea un fascicul paralel de lumină; după aceasta fasciculul trecea printr-o lentilă care focaliza lumina pe oglinda S2. În experiența lui Fizeau distanța Δs  dintre oglinda S2 și roata dințată Z era de 8633 m. Când lumina întâlnea din nou oglinda S1, o parte din ea era transmisă observatorului B printr-o lentilă.Observatorul vedea imaginea sursei L după ce lumina a parcurs drumul 2Δs, dus și întors. Pentru a determina timpul necesar luminii să parcurgă această distanță era nevoie ca ea să fie marcată într-un fel. Acest lucru sa realizat prin întreruperea fasciculului de lumină cu ajutorul roții dințate Z. Timpul necesar parcurgerii distanței 2Δs era de 2Δs/c, timp în care roata dințată s-a rotit doar cu atât cât era necesar ca trenul de undă luminoasă care a scăpat printre doi dinți ai roții să ajungă înapoi în planul roții astfel ca să fie obturat de un dinte. Lumina fiind obturată de dintele roții, ea nu mai ajungea la ochiul observatorului.Viteza de rotație a roții dințate era reglabilă, astfel încât pentru o anumită turație (viteză unghiulară), observatorul nu mai vedea licăririle luminii întrerupte de roata dințată.Procedeul a constat în mărirea treptată a vitezei unghiulare ω a roții dințate până la dispariția imaginii sursei L. Dacă se notează cu φ unghiul la centru dintre o adâncitură și un dinte al roții, timpul de rotație necesar pentru ca roata să facă unghiul φ este 2Δs/c, sau pus în ecuație:φ/ω=2Δs/c, relație din care rezultă valoarea vitezei luminii: c=2ωΔs/φ.
+
+
+== Viteze superluminice ==
+
+
+== Referințe ==
+
+
+=== Bibliografie istorică ===
+Ole Rømer. "Démonstration touchant le mouvement de la lumière", Journal des Sçavans, 7 Décembre 1676, pp. 223–236. Translated as "A Demonstration concerning the Motion of Light", Philosophical Transactions of the Royal Society no. 136, pp. 893–894; 25 iunie 1677. (Rømer's 1676 paper, in English and French, as bitmap images: [1], and in French as plain text: [2])
+Edmund Halley. "Monsieur Cassini, his New and Exact Tables for the Eclipses of the First Satellite of Jupiter, reduced to the Julian Stile and Meridian of London", Philosophical Transactions XVIII, No. 214, pp 237–256, Nov.–Dec., 1694.
+H.L. Fizeau. "Sur une experience relative a la vitesse de propogation de la lumiere", Comptes Rendus 29, 90–92, 132, 1849.
+J.L. Foucault. "Determination experimentale de la vitesse de la lumiere: parallaxe du Soleil", Comptes Rendus 55, 501–503, 792–796, 1862.
+A.A. Michelson. "Experimental Determination of the Velocity of Light", Proceedings of the American Association for the Advancement of Science 27, 71–77, 1878.
+Simon Newcomb. "The Velocity of Light", Nature, pp 29–32, 13 mai 1886.
+Joseph Perrotin. "Sur la vitesse de la lumiere", Comptes Rendus 131, 731–734, 1900.
+A.A. Michelson, F.G. Pease, and F. Pearson. "Measurement Of The Velocity Of Light In A Partial Vacuum", Astrophysical Journal 82, 26–61, 1935.
+
+
+=== Bibliografie modernă ===
+John David Jackson: Classical electrodynamics („Electrodinamică clasică”), Editura John Wiley & Sons, ediția a doua , 1975; ediția a treia , 1998. ISBN 0-471-30932-X
+R.J. MacKay și R.W. Oldford: Scientific Method, Statistical Method and the Speed of Light („Metodă științifică, metodă statistică și viteza luminii”) în Statistical Science 15(3):254–278, 2000 (accesabil online la: [3])
+David Halliday și Robert Resnick: Physics - part II (Fizică - partea a doua), Editura John Wiley & Sons, ediția 1966.
+G. G. Brătescu: Optica, Editura Didactică și Pedagogică, București, 1982.
+
+
+== Legături externe ==
+ro  Viteza luminii
+en  Speed of light in vacuum
+en  A Brief History of c
+en  Data Gallery: Michelson Speed of Light (Univariate Location Estimation)
+en  Switching light on and off
+en  Beam smashes light barrier
+en  Subluminal
+en  Light discussion on adding velocities
+en  Birth and Early development of Astronomy
+
+
+== Vezi și ==
+Tahion
+Neutrino#Viteza neutrinilor (experimentul OPERA)
+Viteză superluminică
+Mai repede ca lumina

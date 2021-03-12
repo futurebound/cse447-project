@@ -1,0 +1,67 @@
+Una quasar (contrazione di QUASi-stellAR radio source, cioè "radiosorgente quasi stellare") è un nucleo galattico attivo estremamente luminoso. Il nome deriva dal fatto che questi oggetti, la cui natura è stata controversa fino ai primi anni ottanta, furono inizialmente scoperti come potenti sorgenti radio, la cui controparte ottica risultava puntiforme come una stella. 
+Si ritiene comunemente che tale grande luminosità sia originata dall'attrito causato da gas e polveri che cadono in un buco nero supermassiccio; essi formano un disco di accrescimento, che converte circa la metà della massa di un oggetto in energia. Il termine QUASAR fu coniato 56 anni fa, nel 1964, dall'astrofisico Hong-Yee Chiu.
+
+
+== Proprietà ==
+Dal catalogo Milliquas sono noti centinaia di migliaia di quasar. Lo spostamento verso il rosso è compreso tra z=0,056 e z=7,085, il che implica distanze piuttosto elevate (dell'ordine dei miliardi di anni luce), tanto che il quasar più luminoso visto dalla Terra, il 3C 273, ha magnitudine apparente di appena m=12,8. Questo nonostante la luminosità tipica di questi oggetti sia dell'ordine di 1013 L☉, pari a quella di centinaia di galassie. Una simile luminosità è così elevata che probabilmente i quasar sono gli oggetti più luminosi dell'universo. Il quasar più luminoso in assoluto è APM 08279+5255, con magnitudine assoluta nel visibile -32,2, corrispondente a circa 6,5 1014 L☉, anche se subisce un effetto di lente gravitazionale che probabilmente ne decuplica la luminosità.
+Nonostante tali enormi luminosità, le dimensioni dei quasar sono confrontabili con quelle del sistema solare, e comunque non più grandi di pochi anni luce (1016 m). Tali dimensioni sono stimate grazie al fatto che la luminosità dei quasar è fortemente variabile (anche del 100%) e con un periodo piuttosto breve, da poche ore a qualche mese e considerando che, da un punto di vista relativistico, un oggetto non può cambiare luminosità più velocemente del tempo che la luce impiega ad attraversarlo.
+L'altro aspetto caratteristico, evidente fin dalle prime osservazioni, è che i quasar hanno uno spettro notevolmente esteso su tutte le frequenze, dai raggi gamma, ai raggi X al lontano infrarosso e, per il 10% dei quasar noti, fino alle frequenze radio. Molti quasar mostrano inoltre un eccesso ultravioletto, emettendo in tale banda la stessa energia che emettono in tutte le altre.
+Le righe spettrali di emissione, inoltre, sono molto larghe, indicando che la velocità quadratica media della materia nella regione di emissione è molto elevata, 3 000–10 000 km/s.
+
+
+== Storia delle osservazioni dei quasar ==
+I primi quasar furono scoperti con radiotelescopi all'inizio degli anni sessanta da Allan Sandage ed altri studiosi. Il primo spettro di un quasar, che rivelò numerose linee di emissione (come le già note galassie di Seyfert), dalle quali si misurò il caratteristico spostamento verso il rosso, fu ottenuto da Maarten Schmidt nel 1963. Una volta identificata la classe di oggetti, fu possibile rintracciarli su lastre fotografiche risalenti anche al XIX secolo.
+Argomento di aspri dibattiti durante gli anni sessanta fu se i quasar fossero vicini oppure lontanissimi, come indicava il loro redshift. Un forte argomento contro i quasar posti a distanze cosmologiche era che la grande distanza implicava luminosità così alte per le quali nessun processo conosciuto all'epoca, compresa la fusione nucleare, avrebbe fornito l'energia necessaria. Alcuni suggerirono che i quasar fossero composti da antimateria, altri che fossero buchi bianchi. Questa obiezione fu rimossa con la proposta del meccanismo del disco di accrescimento, e oggi la distanza cosmologica dei quasar è generalmente accettata.
+Le immagini del Telescopio Spaziale Hubble di vari quasar permisero, negli anni novanta, di scoprire le galassie ospiti di questi oggetti, fornendo così una prova decisiva per l'inquadramento di questi oggetti nei modelli unificati delle galassie attive.
+
+
+== Modello attuale dei quasar ==
+Negli anni '80 si svilupparono modelli unificati in cui i quasar erano una classe di galassie attive, e il consenso generale è che solo l'angolo di vista li distingue dalle altre classi, come le galassie di Seyfert, le quali, come già detto, hanno uno spettro simile, o i blazar o le radiogalassie (Barthel, 1989). L'enorme luminosità dei quasar è spiegata con l'attrito causato da gas e polveri che cadono in un buco nero supermassiccio formando un disco di accrescimento, meccanismo che può convertire circa la metà della massa di un oggetto in energia, contro i pochi punti percentuali dei processi di fusione nucleare, anche se i meccanismi esatti di questa enorme produzione di energia sono sconosciuti.Il meccanismo è usato anche per spiegare come mai i quasar fossero più comuni nell'Universo primitivo, perché la produzione di energia cessa quando il buco nero supermassiccio ha consumato tutto, gas, polveri e stelle, attorno a sé. Questo significa che è possibile che la maggior parte delle galassie, compresa la nostra Via Lattea, sia passata attraverso una fase di galassia attiva e sia adesso quiescente per mancanza di rifornimento di materia del buco nero. Implica inoltre che un quasar si possa riaccendere se nuova materia viene sospinta verso il centro della galassia, come in molte galassie interagenti, e in effetti la proporzione di quasar tra queste è più alta che tra le galassie normali.
+
+
+== Implicazioni cosmologiche dei quasar ==
+Il più intenso spostamento verso il rosso conosciuto per un quasar, appartenente al quasar scoperto nel 2011, ULAS J1120+0641, è di 7,085±0,003, equivalente ad una distanza comovente di 28,85 miliardi di anni luce; il quasar più distante conosciuto. Tale notevole distanza implica che questo quasar si fosse già formato a soli 770 milioni di anni dal Big Bang. I quasar osservabili più vecchi sono quindi all'inizio della formazione ed evoluzione delle galassie.
+Il fatto che i quasar fossero più frequenti nelle fasi iniziali dell'universo fu utilizzato da Maarten Schmidt nel 1967 come argomento a favore della teoria del Big Bang contro la teoria antagonista dello stato stazionario di Fred Hoyle. I quasar presentavano infatti elevati spostamento verso il rosso cosmologico (redshift), indice del loro allontanamento. Recentemente sono stati scoperti quasar con redshift non cosmologico ma dovuto alla presenza di buchi neri.I quasar suggeriscono anche alcuni indizi sulla fine della reionizzazione dell'universo. I quasar più vecchi presentano chiare regioni di assorbimento, il che indica che il mezzo intergalattico del tempo era gas neutro. I quasar più recenti non mostrano regioni di assorbimento, ma un'area confusa conosciuta come la foresta Lyman-alfa. Questo indica che il mezzo intergalattico ha subito una reionizzazione ridiventando plasma, e che il gas neutro esiste solo in piccole nubi.
+Un'altra caratteristica dei quasar è che mostrano evidenze di elementi più pesanti dell'elio, indizio che le galassie, all'inizio della loro vita, hanno attraversato una fase di massiccia formazione stellare creando stelle di popolazione III tra il tempo del Big Bang e i primi quasar osservati. Ma, fino al 2004, non è stata trovata alcuna evidenza a favore di queste stelle e, se esse non saranno trovate negli anni a venire e non sarà trovata una spiegazione alternativa per la presenza di elementi pesanti, si dovrà riconsiderare l'intero attuale modello di Universo.
+Il telescopio spaziale Spitzer nel 2005 aveva osservato luce che potrebbe provenire da tali stelle, ma manca la conferma definitiva.
+
+
+== Quasar rilevanti ==
+
+
+=== 3C 273 ===
+
+3C 273 è uno dei quasar più vicini a noi e il più luminoso conosciuto (magnitudine 13); è anche uno dei più studiati, soprattutto per la complessa struttura del getto di gas espulso ad alta velocità, che si protende nello spazio per 150 000 anni luce, evidenziato dai satelliti Chandra e Hubble. Situato a 3 miliardi di anni luce, risulta più luminoso di 1000 galassie da 100 miliardi di stelle ciascuna; se si trovasse alla distanza di 32 anni luce dalla Terra, illuminerebbe il cielo quanto il Sole. Osservando quest'oggetto in tutto lo spettro elettromagnetico, si inizia a comprendere la natura dei processi fisici alla base di queste enormi sorgenti di energia.
+
+
+=== Ulas J134208.10+092838.61 ===
+Ulas J134208.10+092838.61 è il secondo quasar più lontano. Alimentato da un buco nero supermassiccio, è stato individuato a seguito di una campagna osservativa effettuata con i telescopi Magellano, il radiotelescopio del VLA e la rete NOEMA, in Francia. Il quasar brilla con una luminosità equivalente a 40 miliardi di Soli ed ha un redshift di 7,54, equivalente ad una distanza di circa 13 miliardi di anni luce, formatosi approssimativamente 690 milioni di anni dopo il Big Bang.
+
+
+=== J0313-1806 ===
+J0313-1806 è a gennaio 2021, quando ne è resa stata pubblica la scoperta, il quasar più lontano mai rilevato. Scoperto e caratterizzato dai telescopi ALMA, Magellanio I i gemelli Gemini e Keck, con un redshift di 7.64 dista oltre 13 miliardi di al. .
+
+
+=== TON 618 ===
+TON 618 è un quasar situato nella costellazione dei Cani da Caccia. È alimentato dal buco nero più massiccio conosciuto a dicembre 2018.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Ammasso di quasar
+SDSS J0100+2802
+RX J0911.4 + 0551
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «quasar»
+ Wikimedia Commons contiene immagini o altri file sulla quasar
+
+
+== Collegamenti esterni ==
+Scheda sui Quasar sul sito del INAF - Astronomical Observatory of Padova
+ Pagina su 3C 273 su Seds.org, su spider.seds.org.
+ Quasar, in Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana.

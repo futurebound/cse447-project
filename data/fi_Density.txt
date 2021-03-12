@@ -1,0 +1,104 @@
+Tiheys on suure/määrä, joka ilmaisee kappaleen massan suhteessa sen tilavuuteen. Sen tunnus on ρ (rhoo). Tietyn lämpötilan ja paineen vallitessa tiheys on kullekin aineelle ominainen vakio. 
+
+
+== Yhtälöitä ==
+Tiheys esitetään muodossa 
+
+  
+    
+      
+        ρ
+        =
+        
+          
+            m
+            V
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {m}{V}}}
+  ,missä 
+  
+    
+      
+        
+          m
+        
+      
+    
+    {\displaystyle \scriptstyle m}
+   on massa ja 
+  
+    
+      
+        
+          V
+        
+      
+    
+    {\displaystyle \scriptstyle V}
+   tilavuus.
+
+
+=== Ideaalikaasun tiheys ===
+Lämpölaajenemisen vuoksi samankin aineen tiheys riippuu lämpötilasta. Kiinteillä aineilla ja nesteillä lämpölaajeneminen on kuitenkin melko vähäistä, mutta kaasuilla paljon suurempaa, jota paitsi niiden tiheys riippuu myös paineesta. Ideaalikaasun tiheys (ρ) riippuu sen moolimassasta (M), absoluuttisesta lämpötilasta (T) ja paineesta (p) seuraavasti:
+
+  
+    
+      
+        ρ
+        =
+        
+          
+            
+              M
+              p
+            
+            
+              R
+              T
+            
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {Mp}{RT}}}
+  ,
+missä R on yleinen kaasuvakio. Todellisten kaasujenkin tiheydet ovat yleensä tätä lähellä, elleivät ne ole lähellä nesteytymistään. 
+
+
+== Yksiköt ==
+SI-järjestelmässä tiheyden yksikkö on kg/m³ (kilogramma kuutiometriä kohti). Se on kuitenkin varsin pieni yksikkö, jota yleensä käytetään kaasuille. Käytännössä tavallisempia tiheyden yksikköjä ovat g/cm³ (gramma kuutiosenttimetriä kohti) ja kg/dm³ (kilogramma kuutiodesimetriä kohti eli kilogramma litraa kohti).
+Tavallisesti tiheydellä tarkoitetaan keskitiheyttä, jolloin oletetaan massan olevaan kauttaaltaan homogeenista. 
+Tiheyden yksiköiden suhteet toisiinsa ovat: 1 000 kg/m³ = 1 kg/dm³ = 1 g/cm³
+Tiheyttä kutsutaan joskus ominaispainoksi (lyhenne om.p.). Tällöin se ilmoitetaan usein ilman yksikköä, suhteena veden tiheyteen: esimerkiksi ominaispainolla 2,5 tarkoitetaan tiheyttä 2,5 kg/dm³.
+
+
+== Esimerkkejä tiheyksistä ==
+Veden tiheys on varsin lähellä arvoa 1 kg/dm³, koska kilogramma määriteltiin alkujaan yhden vesilitran massaksi.
+Maan päällä vallitsevissa olosuhteissa suurin tiheys on osmiumilla, 22,59 kg/dm³. Kiinteistä aineista pienin tiheys on eräillä orgaanisilla materiaaleilla kuten korkilla (noin 0,2–0,5 kg/dm³) sekä erittäin huokoisilla aerogeeleillä (jopa 0,001–0,002 kg/dm³).Kaasujen tiheys on huomattavasti pienempi kuin tyypillisten kiinteiden aineiden. Esimerkiksi ilman tiheys on NTP-tilassa (lämpötila 0 °C, paine 1 013 hPa) 1,293 kg/m³  ja 15 °C:ssa samassa paineessa 1,225 kg/m³. vedyn tiheys NTP:ssä on vain 0,0899 kg/m³.
+Suuren paineen vallitessa aineiden tiheys voi olla paljon suurempikin. Esimerkiksi Auringon keskuksessa tiheys on noin 150 000 kg/m³. Vielä suurempia tiheyksiä esiintyy maailmankaikkeudessa esimerkiksi valkoisissa kääpiöissä kuten Sirius B:ssä (suuruusluokkaa 109 kg/m³) ja neutronitähdissä (jopa 1018 kg/m³).  Toisaalta tähtienvälisen aineen tiheys on erittäin pieni, eri arvioiden mukaan keskimäärin 10−25 – 10−15 kg/m³. 
+
+
+=== Alkuaineiden tiheyksiä ===
+Tiheydet on ilmoitettu 20 °C:ssa ja 101,325 kPa:n paineessa.
+
+
+=== Muiden aineiden tiheyksiä ===
+
+
+== Katso myös ==
+Ominaistilavuus
+
+
+== Lähteet ==
+Theodore Gray: Kiehtovat alkuaineet, 1. painos, s. 175–177, WSOYpro Oy 2010.
+ISBN 978-951-0-36582-3
+
+
+=== Viitteet ===
+
+
+== Aiheesta muualla ==
+ Kuvia tai muita tiedostoja aiheesta Tiheys Wikimedia Commonsissa

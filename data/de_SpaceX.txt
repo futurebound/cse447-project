@@ -1,0 +1,132 @@
+SpaceX (Space Exploration Technologies Corporation) ist ein US-amerikanisches Raumfahrt- und Telekommunikationsunternehmen. Das Unternehmen wurde mit dem Ziel gegründet, Technologien wie das Starship-Raketenprojekt zu entwickeln, die es der Menschheit ermöglichen sollen, den Mars zu kolonisieren und das Leben auf anderen Planeten zu verbreiten.Nach anfänglichen Fehlschlägen der neuentwickelten Rakete Falcon 1 wurde die Firma innerhalb weniger Jahre mit der Falcon 9 und dem Raumschiff Dragon zu einem bedeutenden Versorger der Internationalen Raumstation (ISS). 2017 löste SpaceX Arianespace als weltweiten Marktführer bei Satellitenstarts ab. Mit der 2018 erstmals gestarteten Falcon Heavy bietet das Unternehmen auch die stärkste verfügbare Trägerrakete an. Durch Pionierleistungen bei der Landung, Bergung und Wiederverwendung von Raketenteilen gelang eine Reduzierung der Kosten für Satellitenstarts um den Faktor 7. Seit 2020 führt SpaceX bemannte Raumflüge für die NASA zur ISS durch. Ab Ende 2021 sollen auch Privatpersonen ins All befördert werden.
+SpaceX betreibt Startanlagen an der US-amerikanischen Ost- und Westküste sowie an der Golfküste von Texas. Mit dem Starlink-Projekt für einen weltweiten Satelliten-Internetzugang ist SpaceX – gemessen an der Satellitenanzahl – der weltgrößte Satellitenhersteller und -betreiber.
+
+
+== Management ==
+Wichtige Führungskräfte von SpaceX sind der Gründer und Haupteigentümer Elon Musk (CEO und CTO), Gwynne Shotwell (Präsidentin und COO), Hans Königsmann (Vizepräsident für Missionssicherheit und Chefingenieur für die Raketenstarts) und Lars Blackmore, Principal Rocket Landing Engineer (etwa: Oberster Ingenieur für Raketenlandungen). Das Tagesgeschäft der Firma steht unter der Leitung von Gwynne Shotwell.
+
+
+== Geschichte ==
+SpaceX wurde im Juni 2002 von dem Unternehmer Elon Musk gegründet, der mit den zwei Internetunternehmen Zip2 und PayPal mehrere hundert Millionen US-Dollar verdient hatte und einen großen Teil davon für die Gründung von SpaceX aufwendete. Zunächst sah sich Elon Musk für seine damals angedachte Mission Mars Oasis  (deutsch Mars-Oase) nach einer Rakete zum Kauf in Russland um. Die russischen Raketen kamen aber letztlich preislich nicht in Frage. Die Idee von Mars Oasis war, ein experimentelles Treibhaus zum Mars zu bringen. Damit sollte „...die längste Strecke erzielt werden, die Leben jemals zurücklegte“.
+
+
+=== Raumfahrt ===
+Die Firma startete mit etwa 30 Angestellten die Entwicklung der Falcon 1. Die meisten Teile dieser Rakete, wie die beiden Triebwerke Merlin und Kestrel, waren Neuentwicklungen. Im Juni 2005 waren bereits etwa 130 Mitarbeiter bei SpaceX angestellt.
+Nachdem die ersten drei Flüge in Fehlschlägen endeten, startete die Falcon 1 im September 2008 erstmals erfolgreich in die Erdumlaufbahn. SpaceX stellt somit die erste komplett privat entwickelte Flüssigtreibstoffrakete, die den Orbit erreichte.
+
+Im Dezember 2008 wurde ein Vertrag zwischen SpaceX und der NASA über 1,6 Milliarden US-Dollar für zwölf Versorgungstransporte zur Internationalen Raumstation ISS unterzeichnet. Dabei sollen insgesamt 20 Tonnen Fracht mit Falcon-9-Raketen zur ISS geliefert werden.Nach den Entwicklungs- und Demonstrationsflügen werden durch SpaceX seit 2012 Versorgungsflüge zur ISS durchgeführt und für Kunden wie SES S.A., AsiaSat, Thaicom und Orbcomm Satellitenstarts durchgeführt.Im September 2014 vergab die NASA auf Basis des Modells der bemannten Dragon V2 einen Auftrag in Höhe von 2,6 Milliarden US-Dollar zur Realisierung des Raumschiffes einschließlich eines Demonstrationsfluges mit zwei NASA-Astronauten. Nach erfolgreichem Flug und Zertifizierung durch die NASA sollen zwei bis sechs bemannte Missionen beauftragt werden. Die Finanzierung erfolgt im Rahmen des NASA-Entwicklungsprogrammes Commercial Crew Transportation Capability (CCtCap).Am 28. Juni 2015 explodierte die Falcon 9 eines Dragon-Versorgungsfluges auf dem Weg zur ISS.Am 22. Dezember 2015 um 1:29 UTC startete eine verbesserte Falcon 9-Rakete von der amerikanischen Cape Canaveral Air Force Station in den erdnahen Satellitenorbit. Dort teilte sich die Stufenrakete und die zweite Stufe setzte elf Kommunikationssatelliten der Firma Orbcomm aus. Die erste Stufe führte die weltweit erste sanfte Landung einer orbitalen Trägerrakete erfolgreich um 1:40 UTC durch. SpaceX ist es damit als erstem Unternehmen gelungen, die Hauptstufe einer Rakete sicher zur Erde zurückzubringen.
+Nach dem Rückschlag durch die Launchpad-Explosion startete SpaceX am 14. Januar 2017 erneut eine Rakete mit 4 Iridium-Satelliten.
+Die erste Wiederverwendung einer ersten Raketenstufe gelang im März 2017. Dabei wurde ein Kommunikationssatellit, der SES-10, vom Launch Complex 39A in den geostationären Erdorbit befördert. Verwendet wurde die Erststufe, welche am 8. April 2016 während der Mission CRS-8 als erste auf dem Autonomous spaceport drone ship landete.
+Beim Start der Falcon 9 mit dem Satellit SES-10 am 31. März 2017 wurde zum ersten Mal eine Raketenstufe wiederverwendet. Danach landete die erste Stufe zum zweiten Mal erfolgreich auf dem Drohnenschiff „Of Course I Still Love You“.Am 3. Dezember um 18:34 UTC startete eine nochmal verbesserte Variante von der Vandenberg AFB mit Spaceflight SSO-A vom Space Launch Complex 4E in den sonnensynchronen Erdorbit. Die Erststufe wurde davor schon auf den Missionen Bangabandhu-1 (11. Mai 2018) und Merah Putih (Telkom-4) (7. August 2018) benutzt. Sie landete danach auf dem Autonomous spaceport drone ship "Just Read the Instructions", welches nur wenige Kilometer von der Küste entfernt war und es zur dritten Benutzung einer Orbitalrakete machte.SpaceX wandte sich 2014 gegen die bis dahin übliche Praxis des Militärs der USA, Weltraumflugaufträge ausschließlich an die United Launch Alliance, bestehend aus Boeing und Lockheed Martin, zu vergeben. Der Start einer Falcon-9-Rakete als erster militärischer Auftrag an SpaceX erfolgte am 1. Mai 2017. Auftraggeber war das Nationale Aufklärungsamt der USA (NRO), ein militärischer Nachrichtendienst, der Spionagesatelliten herstellt und betreibt. Der Name der Mission lautet „NROL-76“, Details zu den ins All beförderten Objekten wurden nicht öffentlich bekannt.
+
+
+=== Weltweite Internetversorgung ===
+
+Im Januar 2015 beteiligten sich die amerikanischen Unternehmen Fidelity Investments und Google mit zusammen rund einer Milliarde US-Dollar an SpaceX. Sie hielten damit 8,3 % des Unternehmens. Es wurde angenommen, dass sich Google für den neuen Plan von SpaceX interessierte, ein Netzwerk von Satelliten zur Internetversorgung aufzubauen. Die Ausführung soll 10 Milliarden US-Dollar kosten und rund fünf Jahre dauern. Im November 2016 reichte das Unternehmen erste Pläne für solch ein Konzept bei der US-Regulierungsbehörde Federal Communications Commission ein. SpaceX plant, 11.927 Satelliten in Umlaufbahnen von 340 bis 1.325 km Höhe zu stationieren.Im Mai 2019 startete eine Falcon 9 mit 60 Prototypen, die noch nicht die volle vorgesehene Funktionalität haben, in Umlaufbahnen von bis zu 550 km Höhe.
+
+
+== Einrichtungen ==
+
+
+=== Unternehmenssitz ===
+Die Geschäftszentrale des Unternehmens und umfangreiche Entwicklungs- und Produktionsanlagen befinden sich in Hawthorne, Kalifornien. Ferner befindet sich hier das Flugkontrollzentrum für alle SpaceX-Missionen.
+Die Entwicklung und Produktion der Starlink-Satelliten ist in der Nähe von Seattle im US-Bundesstaat Washington angesiedelt.
+
+
+=== Testanlagen ===
+In McGregor, Texas, betreibt SpaceX seit 2003 eine Testanlage für Raketentriebwerke und Manövrierdüsen. Hier findet auch ein Großteil der Entwicklungsarbeit in Bezug auf die Triebwerkstechnik statt.
+
+
+=== Start- und Landeeinrichtungen ===
+Alle fünf Falcon-1-Raketen wurden von der Kwajalein Missile Range auf Omelek (Marshallinseln) gestartet.
+Die Starts von Falcon-9-Raketen erfolgen entweder vom dafür umgebauten Space Launch Complex 40 (SLC-40) der Cape Canaveral SFS, vom Launch Complex 39A (KSC LC-39A) des benachbarten Kennedy Space Centers oder vom Space Launch Complex 4E (VAFB SLC-4E) der Vandenberg Air Force Base in Kalifornien. Am KSC und an der VAFB verfügt das Unternehmen über Hangars, in denen die fertig angelieferten Raketenstufen vor dem Start zusammengefügt werden und die Nutzlast integriert wird. Am LC-39A, für den SpaceX 2014 einen 20-Jahres-Mietvertrag abgeschlossen hatte, startet seit 2018 auch die Falcon Heavy.
+Für Landungen der an der Ostküste gestarteten Raketen (-stufen) betreibt SpaceX am Cape Canaveral den Landing Complex 1 mit zwei Landeflächen. An der Vandenberg Air Force Base wurde am benachbarten ehemaligen Launch Complex 4W eine Landefläche gebaut. Wasserlandungen erfolgen auf schwimmenden Plattformen im Atlantik oder Pazifik, den Autonomous spaceport drone ships; Nutzlastverkleidungen werden mit den Spezialschiffen GO Ms. Tree und GO Ms. Chief aufgefangen oder aus dem Meer geborgen.
+In Boca Chica bei Brownsville, Texas wird seit 2014 die SpaceX South Texas Launch Site als unternehmenseigener Weltraumbahnhof gebaut. Seit 2020 finden dort Testflüge des Starship statt, der oberen Stufe der neuen Starship-Großrakete. Eine Startrampe für Orbitalflüge ist im Bau. Zukünftig soll die neue Rakete auch vom LC-39A des Kennedy Space Center starten.
+
+
+=== Treibstoffproduktion ===
+SpaceX erwarb über sein 2020 gegründetes Tochterunternehmen Lone Star Mineral Development die stillgelegte südtexanische Ölquelle La Pita, um dort Erdgas zu fördern. Erdgas besteht hauptsächlich aus Methan, einer der beiden Treibstoffkomponenten für die Starship-Rakete. Ein beteiligtes Unternehmen, das sich in einem Rechtsstreit mit SpaceX um die Förderrechte befindet, berichtete, dass neues Bohr- und Fracturing-Gerät auf das Gelände gebracht worden sei.Auf der South Texas Launch Site begann Anfang 2021 die Installation einer Luftdestillationsanlage zur Gewinnung von Sauerstoff, der zweiten Treibstoffkomponente.
+
+
+== Technologie ==
+
+
+=== Falcon 1 ===
+
+Der erste Testflug der leichten Falcon-1-Rakete erfolgte nach mehrfachen Startverschiebungen seit September 2004 am 24. März 2006, endete jedoch mit dem Absturz der Rakete aufgrund eines Treibstofflecks. Danach tagte eine von SpaceX und dem US-Verteidigungsministerium eingesetzte Untersuchungskommission. Beim zweiten Testflug am 21. März 2007 erreichte die Rakete eine Höhe von 300 Kilometern. Die zweite Raketenstufe aber kollidierte beim Abtrennen mit der Austrittsdüse der ersten Stufe. Dies war vermutlich der Grund für das Ablösen eines Stabilisierungsrings, wodurch die Oberstufe ins Taumeln und außer Kontrolle geriet. Laut SpaceX konnten die gestörten Telemetriedaten nachträglich weitgehend wiederhergestellt werden. Die Oberstufe stürzte zurück in die Erdatmosphäre. Der dritte Testflug am 3. August 2008 schlug erneut fehl. Der Start verlief anfangs wie erwartet, jedoch traten bei der Stufentrennung Probleme auf, und die Rakete geriet außer Kontrolle. Der vierte Flug am 28. September 2008 glückte. Hierbei wurde der gleiche Triebwerkstyp (Merlin C) wie beim vorherigen Flug verwendet. Durch die Behebung des Fehlers bei der Stufentrennung konnte die Falcon 1 ihre 165 kg schwere Probenutzlast in einem 644 km hohen Orbit aussetzen. Am 14. Juli 2009 wurde Falcon 1 mit dem Start des malaysischen Satelliten RazakSAT erstmals kommerziell verwendet.
+
+
+=== Falcon 5 ===
+
+Die Falcon 5 war eine geplante Rakete, die auf der Technik der Falcon 1 basieren sollte. Die erste Stufe sollte von fünf Merlin-Triebwerken angetrieben werden und genau wie die erste Stufe der Falcon 1 mit Hilfe von Fallschirmen zur Erde zurückkehren, um wiederverwendet zu werden. Durch den Einsatz von fünf Triebwerken sollte die Falcon 5 auch beim Ausfall eines Triebwerks ihre Mission erfüllen können. Die zweite Stufe wäre von einem modifizierten Merlin-Triebwerk angetrieben worden, das mit einer vergrößerten Ausströmdüse für den Betrieb im fast-Vakuum optimiert war. Die Falcon 5 sollte von Cape Canaveral aus 6020 kg in eine 200 km hohe Umlaufbahn befördern können, womit sie in der Leistungsklasse der Delta-II Rakete gelegen hätte.
+Nach der Bekanntgabe der Pläne zur Entwicklung der Falcon 9 änderte SpaceX zunächst die Konfiguration der Falcon 5. Die Falcon 5 sollte aus einer modifizierten Erststufe der Falcon 9 aufgebaut sein und eine Nutzlast von 4100 kg befördern können. Im Zuge der Entwicklung der Falcon 9 wurde schließlich auf die Falcon 5 verzichtet.
+
+
+=== Falcon 9 ===
+
+Im Jahr 2006 nahm SpaceX am Wettbewerb der NASA zur privaten Versorgung der ISS, dem Programm Commercial Orbital Transportation Services, teil und war einer der Gewinner. In Zusammenarbeit mit der NASA erfolgte die weitere Entwicklung und Erprobung der Falcon 9. Am 4. Juni 2010 fand der Jungfernflug statt, am 8. Oktober 2012 der erste Flug zur ISS.
+Neben den Starts der Dragon-Kapseln wird die Falcon 9 auch zum Start von privatwirtschaftlichen und staatlichen Nutzlasten verwendet. SpaceX entwickelte sich damit zu einem direkten Konkurrenten von etablierten Startanbietern wie International Launch Services, Arianespace und der United Launch Alliance.
+
+
+=== Wiederverwendbare Raketen ===
+
+Der Grasshopper und die Falcon 9 Reusable Development Vehicles (F9R Dev) sind experimentelle Raketen für suborbitale Flüge, mit denen erprobt wird, wie eine Raketenstufe nach dem Start kontrolliert gelandet werden kann. Ziel ist es, Raketenkomponenten mehrfach zu verwenden, um Kosten zu minimieren.
+Die Erkenntnisse flossen in Modifikationen der ersten Stufe der tatsächlich eingesetzten Falcon 9 ein, wobei aus Sicherheitsgründen die Landungsversuche zunächst nur über dem Ozean und dann auf dem Autonomous spaceport drone ship (ASDS) erfolgten.
+Am 21. Dezember 2015 Ortszeit (22. Dezember UTC) beim 20. Start einer Falcon 9 gelang die Rückkehr aus dem All und die sichere Landung am Startplatz Cape Canaveral. Am 8. April 2016 landete im Rahmen der Mission CRS-8 zum ersten Mal eine Erststufe erfolgreich auf dem Autonomous spaceport drone ship.
+Die erste wiederverwendete Falcon-9-Erststufe wurde am 30. März 2017 gestartet und erfolgreich gelandet. SpaceX arbeitet auch an einer Wiederverwendung der Nutzlastverkleidung.
+
+
+=== Falcon Heavy ===
+
+Bereits Mitte der 2000er Jahre plante SpaceX die Entwicklung einer wesentlich stärkeren Rakete mit zwei zusätzlichen Boostern. Das Projekt erwies sich als unerwartet komplex und verzögerte sich zusätzlich durch die Explosion einer Falcon 9 im September 2016.
+Am 6. Februar 2018 erfolgte schließlich mit fünf Jahren Verspätung der Erstflug der Falcon Heavy. Sie besteht aus drei modifizierten Falcon-9-Erststufen mit insgesamt 27 Merlin-Triebwerken sowie einer Falcon-9-Oberstufe. Die Falcon Heavy ist derzeit und bis zur Fertigstellung des Space Launch System oder des Starship die weltweit leistungsfähigste verfügbare Trägerrakete. Historisch ist sie die stärkste amerikanische Trägerrakete seit der Mondrakete Saturn V.
+
+
+=== Dragon ===
+
+Ebenfalls in Eigenregie, jedoch mit NASA-Unterstützung im Rahmen des C3P-Programms, wurde der wiederverwendbare Dragon-Raumfrachter konzipiert, gebaut und erprobt. Am 8. Dezember 2010 startete die erste Dragon-Kapsel als erstes privat gebautes und betriebenes Raumschiff auf einer Falcon 9 zu einem Flug ins All und wasserte nach etwa drei Stunden im Pazifischen Ozean.
+Damit wurde die Fähigkeit demonstriert, die Kapsel auch zu landen.
+Im Mai 2012 fand mit der COTS-2-Mission der erste Flug eines Dragon-Raumschiffs zur ISS statt. Der insgesamt neun Tage dauernde Flug beinhaltete zahlreiche Testmanöver. Das Raumschiff transportierte 520 kg Fracht zur Raumstation und landete mit über 600 kg an nicht mehr benötigten Ausrüstungsgegenständen wieder auf der Erde.Von Oktober 2012 bis März 2020 fanden regelmäßige Versorgungsflüge zur ISS statt. Am 28. Juni 2015 ereignete sich der einzige Unfall mit einer Dragon: Die Falcon-9-Trägerrakete explodierte wegen eines Strebenbruchs, sodass die Raumkapsel ins Meer stürzte; dabei gingen 1,8 Tonnen Fracht für die ISS verloren. Von der Mission CRS-13 im Dezember 2017 bis zur Abschlussmission CRS-20 setzte SpaceX nur noch gebrauchte Dragon-Kapseln ein.
+Die Dragon war während ihrer Betriebszeit das einzige Frachtsystem, das auch große Nutzlasten von der ISS zurück zur Erde zu bringen konnte. Andere Frachtraumschiffe wie HTV und Progress verglühten auf ihrem Rückweg in der Atmosphäre.
+
+
+=== Dragon 2 ===
+
+Das Raumschiff Dragon 2 ersetzt seit 2020 die Dragon. Es wird in zwei Varianten gebaut: der Crew Dragon zum kombinierten Transport von Raumfahrern und Fracht und der Cargo Dragon 2 als reinem Frachter. Wie bereits das Vorgängermodell ist die Dragon 2 wiederverwendbar, um die Herstellkosten pro Flug zu begrenzen.
+Der erste unbemannte Testeinsatz einer Crew Dragon fand im März 2019 als Mission SpX-DM1 statt. Am 30. Mai 2020 startete die erste bemannte Crew Dragon 2 als Mission SpX-DM2 mit Douglas Hurley und Robert Behnken als Besatzung. Die erste Cargo Dragon 2 brachte im Dezember 2020 Fracht zur ISS. Mit diesen Terminen übertrumpfte SpaceX den Boeing-Konzern, dessen wesentlich teurere Raumkapsel CST-100 Starliner wegen technischer Mängel frühestens ein Jahr später als die Crew Dragon einsatzbereit sein wird.
+Die Crew Dragon ist das erste Raumschiff mit Touchscreen-Bedienung und die die erste Raumkapsel, die mit mehr als drei Personen startete (Flug SpaceX Crew-1 mit vier Astronauten).
+
+
+=== Interplanetary Transport System ===
+
+Am 27. September 2016 stellte SpaceX-Vorstandschef Elon Musk Pläne für das Interplanetary Transport System (ITS) vor, mit dem erstmals ein bemannter Flug zum Mars ermöglicht werden sollte. Die Arbeiten am dafür benötigten Raketentriebwerk Raptor begannen 2014. Das gesamte ITS-Vehikel sollte eine Höhe von 122 m haben und 300 Tonnen Ladung in den LEO transportieren können, das Raumschiff einen Durchmesser von 17 m aufweisen.Das ITS erwies sich in der geplanten Dimension als nicht finanzierbar. Das Konzept wurde daher weiterentwickelt zur deutlich kleineren und universeller einsetzbaren BFR.
+
+
+=== Starship ===
+
+Am 29. September 2017 stellte SpaceX-Vorstandschef Elon Musk die Rakete BFR (Big Falcon Rocket, alternativ auch Big Fucking Rocket; heute Starship genannt) vor, mit der erstmals ein bemannter Flug zum Mars ermöglicht werden soll. Daneben soll sie dazu genutzt werden können, Satelliten in den Orbit zu transportieren und die Internationale Raumstation oder eine mögliche zukünftige Basis auf dem Mond zu versorgen. Prinzipiell soll sie auch in der Lage sein, Fracht oder Passagiere über große Distanzen auf der Erde schnell zu transportieren.
+Die Unterstufe soll von 28 Raptor-Raketentriebwerken angetrieben werden, und die gesamte Rakete soll eine Höhe von knapp 120 Metern bei einem Durchmesser von neun Metern aufweisen. Die voll wiederverwendbare Variante soll über 100 Tonnen Ladung in niedrige Erdumlaufbahnen transportieren können. Nach mehrfachem Auftanken im Orbit soll die gleiche Masse an Ladung zum Mars transportiert werden können. Eine erste unbemannte Marsmission wird für das Jahr 2024 angestrebt.Am 17. September 2018 kündigte Musk an, mit der BFR im Jahr 2023 erstmals einen zahlenden Touristen zum Mond und wieder zurückzubringen: den japanischen Milliardär Yusaku Maezawa.
+
+
+=== Dragon XL ===
+Im März 2020 erhielt SpaceX von der NASA den Auftrag zur Entwicklung der Dragon XL, einer vergrößerten, nicht wiederverwendbaren Variante des Frachtraumschiffs Cargo Dragon 2. Sie soll ab Mitte der 2020er Jahre die Mond-Raumstation Lunar Orbital Platform-Gateway mit bis zu 5 Tonnen Material je Flug versorgen. Als Trägerrakete soll die Falcon Heavy verwendet werden. Die NASA beauftragte zunächst zwei dieser „Gateway-Logistics-Service“-Missionen. Es ist geplant, dass die Dragon XL jeweils für 6–12 Monate am Gateway angekoppelt bleibt. Eine Rückkehr zur Erde ist nicht vorgesehen.
+
+
+== Siehe auch ==
+Liste der bemannten Raumflüge
+Liste der bemannten Missionen zur Internationalen Raumstation
+Liste der Falcon-9- und Falcon-Heavy-Raketenstarts
+
+
+== Literatur ==
+Erik Seedhouse: SpaceX: Making Commercial Spaceflight a Reality (= Springer-Praxis books in space exploration). Springer Praxis Books, New York, NY 2013, ISBN 978-1-4614-5513-4.
+
+
+== Weblinks ==
+
+SpaceX-Website (englisch)
+SpaceX-Youtube-Kanal (englisch)
+Spektrum.de: Elon Musks »Starship«: Auf dem Weg zur interplanetaren Spezies 12. Oktober 2019
+
+
+== Einzelnachweise ==

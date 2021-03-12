@@ -1,0 +1,133 @@
+Blue Origin es una empresa estadounidense de transporte aeroespacial fundada en el año 2000 por Jeff Bezos, también fundador de Amazon. Entre sus objetivos se encuentran los vuelos sub orbitales y orbitales, tanto para misiones oficiales de Estados Unidos, como para vuelos privados[1]​ Su principal trabajo son los cohetes reutilizables por medio de descensos controlados de los mismos por propulsión luego de los lanzamientos.[2]​
+
+
+== Historia ==
+Jeff Bezos estuvo interesado por la exploración espacial desde pequeño. En una entrevista al Miami Herald en 1982, Jeff con solo 18 años dijo que quería
+"... construir hoteles espaciales, parques de diversiones y colonias para 2 o 3 millones de personas que estarían en órbita. Todo esto para preservar la Tierra."[3]​
+
+Desde la fundación de Blue Origin, la compañía ha sido reservada sobre sus planes.[4]​[5]​
+La compañía fue formalmente fundada en el año 2000, pero su existencia se hizo pública recién en 2003, cuando Bezos comenzó a comprar tierras en Texas. En enero de 2005 Bezos anunció que Blue Origin estaba desarrollando un vehículo suborbital que despegaría y aterrizaría verticalmente, capaz de llevar tres o más astronautas al límite del espacio.[6]​ El vehículo estaría basado en la tecnología del Delta Clipper.
+A partir de enero de 2005, el sitio web de la compañía anunciaba que esperaba establecer una "presencia humana duradera en el espacio", pero la versión de 2007 anunciaba que "Pacientemente y paso a paso, disminuiremos el costo de los viajes espaciales, para que más personas puedan darse el lujo y para que la humanidad siga explorando el sistema solar".
+El autor de ciencia ficción Neal Stephenson trabajó a tiempo parcial en Blue Origin hasta el 15 de noviembre de 2006.[7]​ Stephenson afirma que los empleados de Blue Origin lo inspiraron para escribir la novela Seveneves.
+Hasta julio de 2014, Bezos había invertido más de US$ 500 millones de su dinero en Blue Origin.[8]​
+En septiembre de 2014, la empresa y United Launch Alliance (ULA) firmaron una alianza en la que Blue Origin produciría un gran motor de cohete—El BE-4— para el cohete Vulcan. El anuncio agregó que Blue Origin había estado trabajando en el motor durante tres años antes de que el anuncio fuera público, y que el primer vuelo del nuevo cohete podría ocurrir tan pronto como en 2019.[9]​
+En abril de 2015, Blue Origin anunció que había completado las pruebas del motor BE-3 que impulsaría la cápsula espacial New Shepard en sus vuelos suborbitales.[10]​ Después del primer vuelo de la New Shepard, Blue Origin comenzó a aceptar pedidos para conseguir pasajes de vuelos sub orbitales.
+En julio de 2013, la compañía empleaba a aproximadamente 250 personas.[11]​ Para mayo de 2015 el número creció a 400 empleados, de los cuales 350 trabajan en la central de Kent,[12]​ mientras que los otros 50 trabajan en la sede de Texas durante los lanzamientos.[12]​
+En julio de 2015, NanoRacks, proveedor de servicios tales como diseño y desarrollo de carga, aprobaciones de seguridad e integración, anunció una asociación con Blue Origin para proporcionar alojamiento de carga útil estandarizada para experimentos en el vehículo New Shepard.[13]​
+En septiembre de 2015, Blue Origin anunció detalles de un lanzamiento orbital, indicando que la primera etapa estaría impulsada por su motor BE-4 actualmente en desarrollo, mientras que la segunda etapa sería impulsada por el motor  BE-3. Además, Blue Origin anunció que fabricaría y lanzaría el nuevo cohete de la Costa Espacial de la Florida. No se anunció que carga lanzarían ni su peso. Bezos señaló en entrevistas que este nuevo cohete no competiría para las misiones de seguridad nacional del gobierno de Estados Unidos, dejando ese mercado a United Launch Alliance y SpaceX.[14]​
+El 23 de noviembre de 2015 Blue Origin lanzó el cohete New Shepard hacia el espacio,[15]​ alcanzando una altitud de 100,5 kilómetros. El vector aterrizó verticalmente mientras que la cápsula descendió mediante paracaídas 11 minutos después del lanzamiento. Esto fue la primera vez que un cohete voló al espacio y volvió a la tierra, siendo un gran paso para el futuro de la reutilización de cohetes.[16]​
+El 22 de enero de 2016 Blue Origin volvió a lanzar el mismo cohete que voló en noviembre de 2015, demostrando sus capacidades de reutilización. Esta vez consiguiendo un apogeo de 101,7 kilómetros. Y el 2 de abril de 2016, el mismo cohete volvió a volar y aterrizar de manera exitosa por tercera vez alcanzando un apogeo de 103,8 kilómetros.[17]​
+También en marzo de 2016, Bezos presentó sus planes para ofrecer servicios de turismo espacial, en el cual se enfoca en introducir el vuelo espacial a las masas.[18]​
+El 12 de septiembre de 2016 Blue Origin anuncio que el nombre de su cohete orbital sería New Glenn en honor al primer astronauta estadounidense en orbitar la tierra, John Glenn. Utilizará el motor BE-4 desarrollado por Blue Origin, y la primera etapa del cohete aterrizará verticalmente y será reutilizable al igual que la del New Shepard.[19]​
+Durante el anuncio de New Glenn, Bezos anunció que el nombre de su próximo proyecto se llamara New Armstrong, en homenaje a Neil Armstrong, pero no reveló detalles sobre este.[20]​
+
+
+== Vehículos ==
+
+
+=== Plataformas tempranas de prueba de vuelo a baja altitud. ===
+
+
+==== Charon ====
+El primer vehículo de prueba de vuelo de Blue Origin, llamado Charon (Caronte) en honor a la luna de Plutón,[21]​ estaba propulsado por cuatro motores a reacción Rolls-Royce Viper Mk 301 montados verticalmente en lugar de cohetes. El vehículo de baja altitud fue desarrollado para probar tecnologías autónomas de guía y control, y los procesos que la compañía usaría para desarrollar sus cohetes posteriores. Charon realizó su único vuelo de prueba en Moses Lake, Washington, el 5 de marzo de 2005. Voló a una altitud de 96 m antes de regresar para un aterrizaje controlado cerca del punto de despegue.[22]​[23]​
+
+A partir de 2016, Charon está en exhibición en el Museo del Vuelo en Seattle, Washington.[24]​
+
+
+==== Goddard ====
+El siguiente vehículo de prueba, llamado Goddard (también conocido como PM1), voló por primera vez el 13 de noviembre de 2006. El vuelo fue exitoso. Nunca se lanzó un vuelo de prueba para el 2 de diciembre.[25]​[26]​ Según los registros de la Administración Federal de Aviación, Goddard realizó dos vuelos más.[27]​
+
+
+=== New Shepard ===
+
+El sistema New Shepard consiste en un cohete de una sola etapa reutilizable y una cápsula para carga o tripulación, también reutilizable.[2]​
+
+
+==== Cohete VTVL ====
+El cohete New Shepard es del tipo Despegue Vertical/Aterrizaje Vertical (VTVL por sus siglas en inglés para Vertical Takeoff, Vertical Landing).[28]​
+La última versión del cohete New Shepard con la que finalmente probaron los sistemas de escape de la cápsula del sistema, logró de manera exitosa realizar cinco despegues y aterrizajes verticales sin daños. Jeff Bezos al ser consultado sobre si el quinto aterrizaje de un mismo cohete era posible, comento en el blog de Blue Origin que él creía que no, y que probablemente iba a destruirse contra el suelo luego de tantos vuelos, pero que de lograrlo, retirarían al cohete con honores y lo pondrían en un museo.[2]​
+
+
+==== Cápsula ====
+En octubre de 2016 realizaron pruebas exitosas de los sistemas de escape ante fallas de la cápsula para pasajeros a bordo de un cohete New Shepard,[2]​ misión que representó el quinto despegue y descenso exitoso del mismo cohete reutilizable.[29]​ Esta misión tuvo como propósito la prueba de la cápsula para tripulación, para realizar pruebas con humanos a fines de 2017.[30]​
+
+
+=== New Glenn ===
+
+Es el cohete con el que Blue Origin pretende ser capaz de llevar humanos al espacio, en donde compite contra el Falcon Heavy diseñado por la empresa privada SpaceX.[1]​ Una vez construidos, las versiones de 2 y 3 etapas van a alcanzar una altura de 82 y 95 metros, respectivamente, con lo que su versión de 3 etapas tiene apenas 15 metros menos que el Saturn V utilizado por la NASA para enviar seres humanos a la Luna. Tiene 7 metros de diámetro y está impulsado por 7 motores BE-4. Los cohetes de tipo New Glenn se podrán lanzar desde el complejo 36 de Cabo Cañaveral en Florida, mismo lugar desde donde despegaron los cohetes Atlas entre 1962 y 2005.[31]​ 
+Su nombre se debe en honor a John Glenn, el primer estadounidense en orbitar la tierra.[31]​
+
+
+=== Blue Moon ===
+
+En mayo de 2019, Blue Origin anunció el módulo de aterrizaje Blue Moon.[32]​ La versión "normal" del módulo de aterrizaje puede tomar 3,6 t, mientras que la "variante de tanque estirado" puede llevar hasta 6,5 t en la Luna. Se espera que ambos aterrizadores hagan un aterrizaje suave en la Luna. Para el aterrizaje, el módulo de aterrizaje utilizará motores BE-7 también anunciados en mayo de 2019.[33]​
+
+
+==== Subsistemas orbitales y trabajos de desarrollo anteriores ====
+Blue Origin comenzó a desarrollar sistemas para naves espaciales humanas orbitales antes de 2012. Se proyectó un refuerzo reutilizable de primera etapa para volar una trayectoria suborbital, despegando verticalmente como la etapa de refuerzo de un cohete multietapa convencional. Después de la separación de la etapa, la etapa superior continuaría impulsando a los astronautas a orbitar mientras que el refuerzo de la primera etapa descendería para realizar un aterrizaje vertical motorizado similar al Módulo de Propulsión suborbital New Shepard. El refuerzo de la primera etapa se reabastecería de combustible y se lanzaría nuevamente, lo que permitiría una mayor confiabilidad y reduciría el costo del acceso humano al espacio.[34]​
+El cohete propulsor se proyectó para elevar en órbita el vehículo espacial bicónico de Blue Origin, que transportaba astronautas y suministros. Después de orbitar la Tierra, el Vehículo espacial volverá a entrar en la atmósfera terrestre para aterrizar en tierra bajo paracaídas, y luego se reutilizará en futuras misiones a la órbita terrestre.[34]​
+Blue Origin completó con éxito una Revisión de requisitos del sistema (SRR) de su vehículo espacial orbital en mayo de 2012.[35]​
+Las pruebas del motor para el vehículo del Sistema de refuerzo reutilizable (RBS) comenzaron en 2012. Una prueba de potencia completa de la cámara de empuje para el motor de cohete de hidrógeno líquido Blue Origin BE-3 se llevó a cabo en una instalación de prueba de la NASA en octubre de 2012. La cámara logró con éxito un empuje total de 444,8 kN.[36]​
+
+
+== Lanzamientos de prueba ==
+
+
+== Instalaciones ==
+
+Blue Origin tiene una instalación de desarrollo cerca de Seattle, Washington, y una instalación de lanzamiento operacional en el oeste de Texas, donde también prueban motores de cohetes. Blue Origin continuó expandiendo sus oficinas y área de producción de cohetes en el área de Seattle en 2016, comprando un edificio adyacente de 11.000 m² y en 2017[57]​, con permisos presentados para construir un nuevo complejo de almacenes de 21.900 m² y un adicional de 9.560 m² de espacio de oficina.[58]​
+Blue Origin fabrica motores de cohetes, vehículos de lanzamiento y cápsulas espaciales en Washington. Su motor más grande, el BE-4, se producirá en una nueva instalación de fabricación que se está construyendo actualmente en Huntsville, Alabama, anunciada en 2017,[59]​ pero solo en enero de 2019. En 2017, Blue Origin estableció una instalación de fabricación para vehículos de lanzamiento en Florida cerca de donde lanzarán New Glenn desde la Estación de la Fuerza Aérea de Cabo Cañaveral, después de iniciar el diseño y la construcción en 2015.[60]​[61]​[62]​
+
+
+== Vuelos de prueba ==
+
+
+== Desarrollo de motor cohete ==
+
+
+=== BE-1 ===
+Blue Engine 1, o BE-1, fue el primer motor de cohete desarrollado por Blue Origin y se desarrolló en el vehículo de desarrollo Goddard de la compañía. El motor monopropelente alimentado a presión funcionaba con peróxido y producía 9,8 kN de empuje.[69]​[70]​
+
+
+=== BE-2 ===
+Blue Engine 2, o BE-2, era un motor bipropelente alimentado por queroseno y peróxido produciendo 137,9 kN de empuje.[69]​[70]​ Cinco motores BE-2 impulsaron el vehículo de desarrollo PM-2 de Blue Origin en dos vuelos de prueba en 2011.[71]​
+
+
+=== BE-3 ===
+Blue Origin anunció públicamente el desarrollo del Blue Engine 3, o BE-3, en enero de 2013, pero el motor había comenzado a desarrollarse a principios de la década de 2010. BE-3 es un nuevo motor criogénico de hidrógeno líquido/oxígeno líquido (LH2/LOX) que puede producir 489,3 kN de empuje a plena potencia, y puede reducirse a tan solo 111,2 kN para uso en aterrizajes verticales controlados.[72]​
+Las primeras pruebas de cámara de empuje comenzaron en la NASA Stennis[73]​ en 2013.[74]​A finales de 2013, el BE-3 había sido probado con éxito en un quemado suborbital de duración completa, con fases costeras simuladas y relieves del motor, "demostrando aceleración profunda, potencia total, reinicio confiable y de larga duración, todo en una secuencia de prueba única."[72]​ La NASA ha publicado un video de la prueba.[74]​
+
+
+==== BE-3U ====
+El motor BE-3U es un BE-3 modificado para su uso en las etapas superiores de los vehículos de lanzamiento orbital Blue Origin. El motor incluirá una boquilla mejor optimizada para funcionar en condiciones de vacío, así como una serie de otras diferencias de fabricación, ya que es un motor prescindible, mientras que el BE-3 está diseñado para ser reutilizable.[75]​
+
+
+=== BE-4 ===
+
+Blue Origin comenzó a trabajar en un motor de cohete nuevo y mucho más grande en 2011. El nuevo motor, el Blue Engine 4, o BE-4, es un cambio para Blue Origin en que es su primer motor que quemará oxígeno líquido y metano líquido. El motor ha sido diseñado para producir 2446,5 kN de empuje, y se planeó inicialmente para ser utilizado exclusivamente en un vehículo de lanzamiento patentado por Blue Origin. Blue Origin no anunció el nuevo motor al público hasta septiembre de 2014.[76]​
+
+
+=== BE-7 ===
+El motor BE-7, actualmente en desarrollo, está siendo diseñado para usarse en un módulo de aterrizaje lunar. Se esperan sus primeras pruebas de encendido a mediados de 2019.[77]​ El BE-7 está diseñado para producir 40 kN de empuje y tiene un rango de aceleración profundo, lo que lo hace menos potente que los otros motores que Blue Origin tiene en desarrollo/producción, pero este empuje bajo es ventajoso para su propósito previsto. Un sistema de propulsión principal de la etapa de descenso del vehículo lunar, ya que ofrece un mayor control para los aterrizajes suaves.
+El motor utiliza propulsores de hidrógeno y oxígeno en un ciclo de combustión de doble expansor, similar al ciclo de expansión más típico utilizado por el RL-10 y otros, que en teoría ofrece un mejor rendimiento y permite que cada bomba funcione a caudales independientes. Blue Origin planea utilizar tecnología de fabricación aditiva para producir la cámara de combustión del motor, lo que les permitiría construir de manera más económica los complejos canales de enfriamiento necesarios para evitar que el motor se derrita y producir los gases calientes que alimentarán las bombas.[78]​
+
+
+=== Torreta del cohete de emergencia ===
+Blue Origin se asoció con Aerojet Rocketdyne para desarrollar un sistema de escape de lanzamiento en torreta para la cápsula suborbital para tripulación New Shepard. Aerojet Rocketdyne proporciona el motor de cohete sólido Crew Capsule Escape (CCE SRM), mientras que Blue Origin diseña y fabrica el sistema de control de vector de empuje que dirige la cápsula durante un aborto.[79]​[80]​
+A finales de 2012, Blue Origin realizó una prueba a tamaño real de aborto en plataforma de lanzamiento con el sistema de escape en una cápsula suborbital.[68]​ Cuatro años más tarde, en 2016, el sistema de escape se probó con éxito en vuelo en el punto de mayor presión dinámica cuando el vehículo alcanzó la velocidad transónica.[47]​
+
+
+== Fondos ==
+Para julio de 2014, Jeff Bezos había invertido más de US$ 500 millones en Blue Origin.[81]​ Incluso en marzo de 2016, la gran mayoría de los fondos para apoyar el desarrollo y las operaciones tecnológicas en Blue Origin provienen de la inversión privada de Jeff Bezos, pero Bezos se negó a declarar públicamente el monto antes de 2017 cuando se declaró públicamente un monto anual.[82]​ Blue Origin recibirá hasta US$ 500 millones de la Fuerza Aérea de los Estados Unidos durante el período 2019-2024 si son finalistas en la competencia del Acuerdo de Servicios de Lanzamiento,[83]​ de los cuales han recibido al menos US$181 millones hasta ahora.[84]​ Blue Origin también ha completado el trabajo para la NASA en varios contratos de desarrollo pequeños, recibiendo un financiamiento total de US$ 25,7 millones para 2013.[85]​[86]​ Bezos está vendiendo aproximadamente US$ 1 mil millones en acciones de Amazon cada año para financiar de forma privada Blue Origin.[82]​
+
+
+== Véase también ==
+NewSpace
+SpaceX
+
+
+== Referencias ==
+
+
+== Enlace externo ==
+ Wikimedia Commons alberga una categoría multimedia sobre Blue Origin.

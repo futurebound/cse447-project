@@ -1,0 +1,149 @@
+原子核（げんしかく、英: atomic nucleus）は、単に核（かく、英: nucleus）ともいい、電子と共に原子を構成している。原子の中心に位置する核子の塊であり、正の電荷を帯びている。核子は、基本的には陽子と中性子から成っているが、通常の水素原子（軽水素）のみ、陽子1個だけである。陽子と中性子の個数、すなわち質量数によって原子核の種類（核種）が決まる。
+原子核の質量を半経験的に説明する、ヴァイツゼッカー＝ベーテの質量公式（原子核質量公式、他により改良された公式が存在する）がある。
+
+
+== 大きさ ==
+原子核は原子と比べて非常に小さく、たとえば最も小さい水素の原子核（陽子）の大きさはおよそ半径 0.8751(61)×10−15 m（直径にして約 1.75×10−15 m = 1.75 fm）である。水素原子核以外では、その狭い空間に正電荷をもった陽子が複数存在するため、互いに大きな斥力（電磁気力）を受ける。この斥力に打ち勝って原子核を安定に存在させているのは、中性子の作用である。陽子、中性子の核子間には中間子を媒介した核力が引力として働き、これが電磁気的反発力に打ち勝って原子核を安定化させている。
+その他の原子では、原子核の半径 r はその質量数 A のほぼ 1/3 乗、すなわち3乗根に比例することが知られており、定式化すると
+
+  
+    
+      
+        r
+        =
+        
+          r
+          
+            0
+          
+        
+        
+          
+            A
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle r=r_{0}{\sqrt[{3}]{A}}}
+  となる。ここで、r0 は定数であり、その値は r0 = (1.3±0.1)×10−15 m である。
+
+
+== 安定性 ==
+原子核の安定性は、陽子、中性子の数と深く関わっており、特に原子核を安定にさせる魔法数と呼ばれる数が存在することがメイヤーとイェンゼンによって発見され、2人はこの法則を元に殻模型（シェルモデル）などの仮説を提唱した。ただし、最近の不安定核の研究によって極端に中性子過剰な核などではこれまで知られてきた魔法数の系列が消失することが、液滴モデル、集団運動模型などの研究でわかってきている。
+全ての核種の中で最も安定な原子核は、ニッケルの同位体の1つニッケル62（陽子28個、中性子34個）の原子核である。
+
+
+== 歴史 ==
+
+原子核の存在が理論的に提唱されたのは、1901年のジャン・ペランおよび1903年の長岡半太郎が最初である。これらの説はあまり注目されなかったが、アーネスト・ラザフォードが1911年に実験的に原子核の存在を確認し、注目を集めることとなった。
+ラザフォードは1914年に、重い原子核ではα線を接近させてもクーロン力によって弾き返されてしまうが、軽い原子核では原子核かα粒子いずれかの破壊が起こるのではないかと考え、1917年から1919年にかけて、様々な条件下で空気に対してα線を当て、ZnSのシンチレーションを利用して破壊の影響で生ずる可能性のある粒子を発見しようと試みた結果、水素の原子核、すなわち陽子を発見した。この水素の原子核は、α線が空気中の窒素の原子核に当たった際に
+
+  
+    
+      
+        
+          
+
+          
+          
+            He
+            
+            
+            
+            2
+            4
+          
+          +
+          
+
+          
+          
+            N
+            
+            
+            
+            7
+            14
+          
+          ⟶
+          
+
+          
+          
+            O
+            
+            
+            
+            8
+            17
+          
+          +
+          
+
+          
+          
+            H
+            
+            
+            
+            1
+            1
+          
+        
+      
+    
+    {\displaystyle {\ce {{}^4_2He + {}^14_7N -> {}^17_8O + {}^1_1H}}}
+  と言う核反応によって生ずるものである。この結果を受けてラザフォードは、翌1920年にロンドン王立協会に於いて行なった講義の中で、原子核を構成する粒子には陽子の他に陽子とほとんど同じ質量で中性の粒子が存在すると予想した。
+その12年後、ジェームズ・チャドウィックによってラザフォードの予想通り中性子が発見され、この事実を受けてドミトリー・イワネンコは原子核の構造についての従来の見解を改変し、「原子核の中には中性子と陽子だけが含まれており、電子は存在しない」という説を提唱した。ヴェルナー・ハイゼンベルクもこれを支持し、以後の原子核理論の方向性を決める事になったと言われる彼の3部作の論文『原子核の構造について1〜3（Über den Bau der Atomkerne I-III）』の基本仮定として採用される事となった。
+
+
+== 脚注 ==
+
+
+=== 出典 ===
+
+
+== 参考文献 ==
+
+
+=== 原論文 ===
+Nagaoka, H. (December 5, 1903). “Motion of particles in an ideal atom illustrating the line and band spectra and the phenomena of radio-activity [スペクトル線と放射能做を表示すべき原子内分子の運動]”. Tokyo Sugaku-Butsurigakukwai Kiji-Gaiyo 2 (7):  92-107. doi:10.11429/subutsugaiyo1903.2.92. ISSN 2185-2685. OCLC 898487755. https://doi.org/10.11429/subutsugaiyo1903.2.92. 
+Rutherford, Ernest (April 1911). “The Scattering of α and β Particles by Matter and the Structure of the Atom [物質によるα粒子とβ粒子の散乱と原子の構造]”. Philosophical Magazine. Series 6 21 (125):  669–688. doi:10.1080/14786440508637080. ISSN 1478-6435. LCCN 2003-249007. OCLC 476300855. http://www.chemteam.info/Chem-History/Rutherford-1911/Rutherford-1911.html. 
+Rutherford, E. (1919). “Collisions of alpha Particles with Light Atoms. IV. An Anomalous Effect in Nitrogen.”. F. R. S.. 6th series (The London, Edinburgh and Dublin Philosophical Magazine and Journal of Science) 37 (581). http://web.lemoyne.edu/~giunta/rutherford.html. 
+Rutherford, E. (June 3, 1920). “Bakerian Lecture: Nuclear Constitution of Atoms”. Proc. Roy. Soc. A 97 (686):  374-400. doi:10.1098/rspa.1920.0040. http://web.lemoyne.edu/~giunta/ruth1920.html. 
+Chadwick, James (February 27, 1932). “Possible Existence of a Neutron”. Nature 129 (3252):  312. Bibcode: 1932Natur.129Q.312C. doi:10.1038/129312a0. ISSN 0028-0836. OCLC 263593080. http://www.chemteam.info/Chem-History/Chadwick-neutron-letter.html. 
+Chadwick, J. (May 10, 1932). “The Existence of a Neutron”. Proc. Roy. Soc., A (F.R.S.) 136 (830):  692-708. doi:10.1098/rspa.1932.0112. http://www.chemteam.info/Chem-History/Chadwick-1932/Chadwick-neutron.html. 
+Iwanenko, D.D. (28 May 1932). “The neutron hypothesis”. Nature 129 (3265):  798. Bibcode: 1932Natur.129..798I. doi:10.1038/129798d0. 
+Heisenberg, W. (January 1932). “Über den Bau der Atomkerne. I [原子核の構造について 1]”. Zeitschrift für Physik A Hadrons and Nuclei (Springer-Verlag) 77 (1-2):  1–11. Bibcode: 1932ZPhy...77....1H. doi:10.1007/BF01342433. ISSN 0044-3328. OCLC 884174965. 
+Heisenberg, W. (March 1932). “Über den Bau der Atomkerne. II [原子核の構造について 2]”. Zeitschrift für Physik A Hadrons and Nuclei (Springer-Verlag) 78 (3–4):  156–164. Bibcode: 1932ZPhy...78..156H. doi:10.1007/BF01337585. ISSN 0044-3328. OCLC 884174965. 
+Heisenberg, W. (September 1933). “Über den Bau der Atomkerne. III [原子核の構造について 3]”. Zeitschrift für Physik A Hadrons and Nuclei (Springer-Verlag) 80 (9–10):  587–596. Bibcode: 1933ZPhy...80..587H. doi:10.1007/BF01335696. ISSN 0044-3328. OCLC 884174965. 
+Fewell, M. P. (20 January 1994). “The atomic nuclide with the highest mean binding energy” (PDF). Am. J. Phys. (College Park, MD: AAPT) 63 (7):  653-658. Bibcode: 1995AmJPh..63..653F. doi:10.1119/1.17828. ISSN 0002-9505. LCCN 2007-233687. OCLC 41666673. http://www.physics.smu.edu/scalise/quarknet2008/FewellAJP000653.pdf. 
+
+
+=== 書籍 ===
+Jammer, Max (October 1989). The Conceptual Development of Quantum Mechanics. History of Modern Physics, 1800-1950. 12 (2 Sub ed.). Los Angeles, Calif.: Tomash Publishers. p. 71. ASIN 0883186179. ISBN 978-0883186176. NCID BA07734469. LCCN 89-6639. OCLC 19517065 
+Miller, A. I. (October 27, 1995). Early Quantum Electrodynamics: A Sourcebook. Cambridge: Cambridge University Press. ASIN 0521568919. ISBN 0521568919. NCID BA26783610. OCLC 37591062 
+Fernandez, Bernard; Ripka, Georges (September 28, 2012). “Nuclear Theory After the Discovery of the Neutron”. Unravelling the Mystery of the Atomic Nucleus: A Sixty Year Journey 1896 — 1956. New York: Springer. ASIN 1461441803. ISBN 9781461441809. NCID BB15541741. OCLC 812016927. ASIN B00AK9N5KI. https://books.google.com/books?id=4PxRBakqFIUC&pg=PA263 
+Mayer, Maria Goeppert; Jensen, J Hans D (February 23, 2013) [1955]. Elementary Theory of Nuclear Shell Structure. Literary Licensing, LLC. ASIN 1258591200. ISBN 978-1258591205. OCLC 537631 
+
+
+== 関連項目 ==
+原子
+原子核物理学
+原子核反応
+原子核分裂
+原子爆弾（核兵器）
+原子力発電
+核融合（原子核融合）
+水素爆弾（核兵器）
+強い相互作用
+エキゾチック原子核
+宇宙の元素合成
+リーマンゼータ関数
+
+
+== 外部リンク ==
+日本大百科全書(ニッポニカ)『原子核』 - コトバンク

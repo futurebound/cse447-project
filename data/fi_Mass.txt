@@ -1,0 +1,313 @@
+Massa (m.kreik. μάζα, tunnus m) on fysiikan perussuure, joka kuvaa toisaalta kappaleen hitautta voiman vaikuttaessa siihen, toisaalta kappaleen kykyä tuntea ja aiheuttaa gravitaatiovoimia. 
+Arkikielessä painolla tarkoitetaan yleensä kappaleen massaa.
+Massan SI-järjestelmän mukainen perusyksikkö on kilogramma, joka on tuhat grammaa. Suurten massojen yksikkönä käytetään yleisesti tonnia. Atomimassoja mitattaessa käytetään atomimassayksikköä.
+
+
+== Hidas ja painava massa ==
+Massa liittyy kaikkien kappaleiden kahteen eri perus­ominaisuuteen, toisaalta hitauteen, toisaalta gravitaatioon. Tällä perusteella voidaan erottaa käsitteet hidas massa ja painava massa.Kappaleen hidas massa kertoo, miten suuri voima tarvitaan antamaan kappaleelle tietyn suuruinen kiihtyvyys. Mitä suurempi kappaleen massa on, sitä pienemmän kiihtyvyyden tietyn suuruinen voima sille antaa. Tämän ilmaisee dynamiikan peruslaki (Newtonin II laki), joka voidaan esittää kaavalla
+
+  
+    
+      
+        F
+        =
+        m
+        a
+      
+    
+    {\displaystyle F=ma}
+  ,missä F on vaikuttava voima, m kappaleen massa ja a kappaleen saama kiihtyvyys.  Kappaleen massan ja nopeuden tuloa sanotaan sen liikemääräksi, ja sen derivaatta ajan suhteen on yhtä suuri kuin siihen vaikuttavien voimien resultantti.Newtonin gravitaatiolain mukaisesti kappaleet vaikuttavat toisiinsa gravitaatiovoimalla, joka on suoraan verrannollinen keskenään vaikuttavien kappaleiden massojen tuloon ja kääntäen verrannollinen niiden etäisyyden neliöön.. Tässä mielessä massa sanotaan painavaksi massaksi. Samassa paikassa, esimerkiksi tietyllä paikalla maan pinnalla, kappaleen paino ja (painava) massa ovat suoraan toisiinsa verrannollisia. Kappaleen painava massa on kuitenkin sen paikasta riippumaton, kun taas sen paino muuttuu, jos se viedään paikkaan, jossa painovoima on eri suuruinen, esimerkiksi toiselle taivaankappaleelle. Arkikielessä käsitteitä massa ja paino käytetään usein synonyymeinä. Arkielämässä tästä sekaannuksesta ei yleensä ole sanottavasti haittaa, mutta esimerkiksi fysiikassa, tähtitieteessä ja avaruustekniikassa ero massa- ja paino-käsitteiden välillä on oleellisen tärkeä. Kappaleen hidasta ja painavaa massaa voitaisiin pitää kahtena eri suureenakin. Klassisessa mekaniikassa kuitenkin oletetaan, että ne ovat jokaisella kappaleella yhtä suuret. Tähän viittasi jo Galilein havainto, että ilmattomassa tilassa kaikki kappaleet putovat yhtä suurella kiihtyvyydellä. Vuonna 1909 Lorand Eötvös osoitti kokeellisesti hitaan ja painavan massan ekvivalenttisuuden tarkkuudella 5 · 10-9. Tämä ekvivalenssin vuoksi hidasta ja painavaa massaa voidaankin mitata samoilla mitta­yksiköillä. Ennen Einsteinin vuonna 1916 esittämää yleistä suhteellisuus­teoriaa ei kuitenkaan tunnettu mitään perustavaa syytä sille, miksi niiden on oltava yhtä suuret, vaan tämä oli pelkästään havaintoihin perustuva oletus.Massaa on totuttu pitämään aineen olennaisimpana tunnusmerkkinä ja sen määrän mittana. Tätä käsitystä tukee varsinkin se, että sitä koskee yleinen, myös kemiallisissa reaktioissa pätevä  säilymislaki, joka tunnetaan myös aineen häviämättömyyden lain nimellä. Suhteellisuusteoria on tätä käsitystä tarkentanut. 
+
+
+== Massa suureena ja massan mittaaminen ==
+Kappaleen massaa voidaan mitata erilaisilla vaaoilla – sanotaan että kappale punnitaan. Vaa'at perustuvat kappaleen massan ja painon verrannollisuuteen. Kappaleen paino (mutta ei massa) tosin riippuu myös sen sijainnista, sillä painovoima ei ole kaikkialla aivan yhtä suuri. Kuitenkin tasapainovaaka antaa kappaleen massalle kaikkialla saman arvon, sillä paikasta toiseen siirrettäessä myös toiseen vaakakuppiin sijoitettavien punnusten paino muuttuu samassa suhteessa. Sitä vastoin jousivaa'alla punnittaessa tulos riippuu painovoiman paikallisesta suuruudesta. Tällä perusteella voidaan sanoa, että tasapainovaaka mittaa massaa (painavaa massaa), jousivaaka painoa. Ilman painovoimaa massaa voi mitata kiihdyttämällä sitä tunnetulla voimalla.
+
+
+== Massa ja suhteellisuusteoria ==
+Suhteellisuusteoria osoitti aikaisemmin tuntemattoman yhteyden massan ja energian välillä. Tämän ilmaisee tunnettu kaava E=mc². 
+Tähän päädyttiin päättelemällä, että mitä suurempi kappaleen nopeus on, sitä suurempi voima tarvitaan sen kiihdyttämiseen samansuuruisella kiihtyvyydellä. Ellei näin olisi, vakiona pysyvän voiman vaikutuksesta kappale saavuttaisi lopulta valon­nopeuden, mikä kuitenkaan ei ole mahdollista.
+Voidaankin osoittaa, että tietyn suuruisen voiman kappaleelle antama kiihtyvyys on kääntäen verrannollinen suureeseen
+
+  
+    
+      
+        
+          
+            
+              m
+              
+                0
+              
+            
+            
+              1
+              −
+              
+                
+                  
+                    v
+                    
+                      2
+                    
+                  
+                  
+                    c
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {m_{0}}{\sqrt {1-{\frac {v^{2}}{c^{2}}}}}}}
+  ,missä m0 on kappaleelle ominainen vakio, ns. lepomassa, v kappaleen nopeus ja c valonnopeus. Kappaleen nopeuden lähestyessä valon­nopeutta tämä suure, joka vastaa kappaleen hidasta massaa ja jota toisinaan sanotaan kappaleen liikemassaksi  , kasvaa rajatta.  Suhteellisuusteorian mukaan kappaleen liikemäärä on sen liikemassan ja nopeuden tulo:
+
+  
+    
+      
+        p
+        =
+        
+          
+            
+              
+                m
+                
+                  0
+                
+              
+              v
+            
+            
+              1
+              −
+              
+                
+                  
+                    v
+                    
+                      2
+                    
+                  
+                  
+                    c
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle p={\frac {m_{0}v}{\sqrt {1-{\frac {v^{2}}{c^{2}}}}}}}
+  .Osoittautuu, että tämä liike- ja lepomassojen erotus on suoraan verrannollinen kappaleen liike-energiaan, joka on yhtä suuri kuin tämä erotus kerrottuna valonnopeuden neliöllä:
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        =
+        
+          (
+          
+            
+              
+                1
+                
+                  1
+                  −
+                  
+                    
+                      
+                        v
+                        
+                          2
+                        
+                      
+                      
+                        c
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+              
+            
+            −
+            1
+          
+          )
+        
+        
+          m
+          
+            0
+          
+        
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{k}=\left({\frac {1}{\sqrt {1-{\frac {v^{2}}{c^{2}}}}}}-1\right)m_{0}c^{2}}
+  .Tämä tulos johti yleistävään päätelmään, että myös kappaleen lepomassa vastaa jollakin tavalla energiaa, joka kappaleessa on sen ollessa lepotilassakin.Monet fyysikot ovat kuitenkin sitä mieltä, että liike­massan käsite on fysiikassa tarpeeton ja kappaleen massasta puhuttaessa tulisi aina tarkoittaa nimenomaan sen lepo­massaa, joka on kappaleelle ominainen vakio.. Muun muassa monissa oppi­kirjoissa liike­massan käsite kuitenkin yhä esiintyy. Tätä on perusteltu opetuksellisilla ja tieteenhistoriallisilla syillä; esimerkiksi Kaarle Kurki-Suonio on asiaa pohtiessaan päätynyt käsitykseen, että liike­massan käsite on "tarpeeton hiukkas­fysiikassa mutta välttämätön massan käsitteen ja Einsteinin relaation ymmärtämiseksi".Kappaleen lepomassan, liikemäärän ja kokonais­energian välille voidaan myös johtaa yhteys
+
+  
+    
+      
+        
+          E
+          
+            2
+          
+        
+        −
+        (
+        p
+        c
+        
+          )
+          
+            2
+          
+        
+        =
+        (
+        
+          m
+          
+            0
+          
+        
+        
+          c
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        
+        
+      
+    
+    {\displaystyle E^{2}-(pc)^{2}=(m_{0}c^{2})^{2}\,\!}
+  ,eli 
+
+  
+    
+      
+        E
+        =
+        
+          
+            (
+            
+              m
+              
+                0
+              
+            
+            
+              c
+              
+                2
+              
+            
+            
+              )
+              
+                2
+              
+            
+            +
+            (
+            p
+            c
+            
+              )
+              
+                2
+              
+            
+          
+        
+        
+        
+      
+    
+    {\displaystyle E={\sqrt {(m_{0}c^{2})^{2}+(pc)^{2}}}\,\!}
+  ,missä m on kappaleen (lepo)massa, p liikemäärä ja c valonnopeus.  Tässä sekä liike­määrä p että kokonais­energia E riippuvat käytetystä koordinaatistosta kun taas (lepo)massa m0 on koordinaatistosta riippumaton, kappaleelle ominainen vakio. Tämä osoittaa samalla, että kappaleen (lepo)massa ilmoittaa samalla sen neliliikemäärävektorin  pituuden.Näin ollen silloinkin, kun kappale on levossa eli sen liikemäärä on nolla, sillä on energiaa, joka on suoraan verrannollinen sen massaan, minkä osoittaa tunnettu yhtälö E=mc². Liikkuvan kappaleen energia on tätä suurempi. Tämä erotus on kappaleen liike-energia, ja jos sen nopeus v on paljon valonnopeutta pienempi, liike-energialle on likipitäen voimassa jo ennen suhteellisuusteoriaa tunnettu kaava 
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        =
+        
+          
+            
+              m
+              
+                v
+                
+                  2
+                
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle E_{k}={\frac {mv^{2}}{2}}}
+  . 
+Massan ja energian ekvivalenssista seuraa myös, että useammasta kappaleesta koostuvan sidotun systeemin massa on pienempi kuin sen osien massojen summa. Tällaisella systeemillä on tietyn suuruinen sidosenergia, jona systeemi luovuttaa sen muodostuessa rakenne­osistaan. Näin ollen esimerkiksi molekyylien massa on yleensä hieman pienempi kuin niissä olevien atomien massojen summa niiden ollessa erilleen, mutta tämä erotus on niin pieni, ettei sitä käytännössä voida mitata.. Sitä vastoin vahva ydinvoima on niin voimakas, että tämä voidaan havaita suoraan: atomiytimen massa on pienempi kuin ytimen nukleonien massojen summa niiden ollessa toisistaan erillään. Edelleen, yksittäisen nukleonin sisäinen vahvan ydinvoiman kenttään sitoutunut energia selittää 90-prosenttisesti1 havaitun massan. 
+Ei ole kuitenkaan saatu tyhjentävää vastausta siitä, mitä energiaa jäljelle jäävä massa vastaa. "Massattoman massan" (mass without mass) teoriaa ei siis ole saatu luotua. Nykyisin vallitsevan käsityksen mukaan alkeishiukkasten massa syntyy hiukkasten vuorovaikuttaessa Higgsin kentän kanssa. Hypoteesin todentamiseksi etsitään Higgsin kentän kvanttia, Higgsin bosonia. Higgsin fysiikka on olennainen osa supersymmetrian teoriaa.
+
+
+== Katso myös ==
+Energia
+Lepomassa
+Liikemassa
+Massaprosentti
+Massaylijäämä
+Säilymislaki
+Hitausmomentti, vastaa massaa pyörimisliikkeessä
+
+
+== Lähteet ==
+Wilczek, Frank: Mass without Mass I: Most of Matter  1999. Physics Today on the Web.   Viitattu 23. syyskuuta 2005. (englanniksi)
+
+
+=== Viitteet ===
+
+
+== Aiheesta muualla ==
+
+Flores, Francisco: The Equivalence of Mass and Energy The Stanford Encyclopedia of Philosophy. The Metaphysics Research Lab. Stanford University.    (englanniksi)

@@ -1,0 +1,52 @@
+The kelvin is the base unit of temperature in the International System of Units (SI), having the unit symbol K. It is named after the Belfast-born Glasgow University engineer and physicist William Thomson, 1st Baron Kelvin (1824–1907).
+The kelvin is now defined by fixing the numerical value of the Boltzmann constant k to 1.380 649×10−23 J⋅K−1. Hence, one kelvin is equal to a change in the thermodynamic temperature T that results in a change of thermal energy kT by 1.380 649×10−23 J.The Kelvin scale fulfills Thomson's requirements as an absolute thermodynamic temperature scale. It uses absolute zero as its null point (i.e. low entropy). The relation between kelvin and celsius scales is TK = t°C + 273.15. On the Kelvin scale, pure water freezes at 273.15 K, and it boils at 373.15 K.
+Unlike the degree Fahrenheit and degree Celsius, the kelvin is not referred to or written as a degree. The kelvin is the primary unit of temperature measurement in the physical sciences, but is often used in conjunction with the degree Celsius, which has the same magnitude.
+
+
+== History ==
+
+In 1848, William Thomson, who was later ennobled as Lord Kelvin, wrote in his paper On an Absolute Thermometric Scale of the need for a scale whereby "infinite cold" (absolute zero) was the scale's null point, and which used the degree Celsius for its unit increment. Kelvin calculated that absolute zero was equivalent to −273 °C on the air thermometers of the time. This absolute scale is known today as the Kelvin thermodynamic temperature scale. Kelvin's value of "−273" was the negative reciprocal of 0.00366—the accepted expansion coefficient of gas per degree Celsius relative to the ice point, giving a remarkable consistency to the currently accepted value.
+In 1954, Resolution 3 of the 10th General Conference on Weights and Measures (CGPM) gave the Kelvin scale its modern definition by designating the triple point of water as its second defining point and assigned its temperature to exactly 273.16 kelvin.In 1967/1968, Resolution 3 of the 13th CGPM renamed the unit increment of thermodynamic temperature "kelvin", symbol K, replacing "degree Kelvin", symbol °K. Furthermore, feeling it useful to more explicitly define the magnitude of the unit increment, the 13th CGPM also held in Resolution 4 that "The kelvin, unit of thermodynamic temperature, is equal to the fraction 1/273.16 of the thermodynamic temperature of the triple point of water."In 2005, the Comité International des Poids et Mesures (CIPM), a committee of the CGPM, affirmed that for the purposes of delineating the temperature of the triple point of water, the definition of the Kelvin thermodynamic temperature scale would refer to water having an isotopic composition specified as Vienna Standard Mean Ocean Water.On 16 November 2018, a new definition was adopted, in terms of a fixed value of the Boltzmann constant. With this change the triple point of water became an empirically determined value of approximately 273.16 kelvin. For legal metrology purposes, the new definition officially came into force on 20 May 2019, the 144th anniversary of the Metre Convention.
+
+
+== Usage conventions ==
+According to the International Bureau of Weights and Measures, when spelled out or spoken, the unit is pluralised using the same grammatical rules as for other SI units such as the volt or ohm (e.g. "... the triple point of water is exactly 273.16 kelvins"). When reference is made to the "Kelvin scale", the word "kelvin"—which is normally a noun—functions adjectivally to modify the noun "scale" and is capitalized. As with most other SI unit symbols (angle symbols, e.g. 45° 3′ 4″, are the exception) there is a space between the numeric value and the kelvin symbol (e.g. "99.987 K"). (The style guide for CERN, however, specifically says to always use "kelvin", even when plural.)Before the 13th CGPM in 1967–1968, the unit kelvin was called a "degree", the same as with the other temperature scales at the time. It was distinguished from the other scales with either the adjective suffix "Kelvin" ("degree Kelvin") or with "absolute" ("degree absolute") and its symbol was °K. The latter term (degree absolute), which was the unit's official name from 1948 until 1954, was ambiguous since it could also be interpreted as referring to the Rankine scale. Before the 13th CGPM, the plural form was "degrees absolute". The 13th CGPM changed the unit name to simply "kelvin" (symbol: K). The omission of "degree" indicates that it is not relative to an arbitrary reference point like the Celsius and Fahrenheit scales (although the Rankine scale continued to use "degree Rankine"), but rather an absolute unit of measure which can be manipulated algebraically (e.g. multiplied by two to indicate twice the amount of "mean energy" available among elementary degrees of freedom of the system).
+
+
+== 2019 redefinition ==
+
+In 2005 the CIPM embarked on a programme to redefine the kelvin (along with the other SI units) using a more experimentally rigorous methodology. In particular, the committee proposed redefining the kelvin such that Boltzmann constant takes the exact value 1.3806505×10−23 J/K. The committee had hoped that the programme would be completed in time for its adoption by the CGPM at its 2011 meeting, but at the 2011 meeting the decision was postponed to the 2014 meeting when it would be considered as part of a larger programme.The redefinition was further postponed in 2014, pending more accurate measurements of Boltzmann's constant in terms of the current definition,
+but was finally adopted at the 26th CGPM in late 2018, with a value of k = 1.380649×10−23 J/K.From a scientific point of view, the main advantage is that this will allow measurements at very low and very high temperatures to be made more accurately, as the techniques used depend on the Boltzmann constant.  It also has the philosophical advantage of being independent of any particular substance. The unit J/K is equal to kg⋅m2⋅s−2⋅K−1, where the kilogram, metre and second are defined in terms of the Planck constant, the speed of light, and the duration of the caesium-133 ground-state hyperfine transition respectively. Thus, this definition depends only on universal constants, and not on any physical artifacts as practiced previously, such as the International Prototype of the Kilogram, whose mass diverged over time from the original value. The challenge was to avoid degrading the accuracy of measurements close to the triple point.  From a practical point of view, the redefinition will pass unnoticed; water will still freeze at 273.15 K (0 °C), and the triple point of water will continue to be a commonly used laboratory reference temperature.
+The difference is that, before the redefinition, the triple point of water was exact and the Boltzmann constant had a measured value of 1.38064903(51)×10−23 J/K, with a relative standard uncertainty of 3.7×10−7. Afterward, the Boltzmann constant is exact and the uncertainty is transferred to the triple point of water, which is now 273.1600(1) K.
+
+
+== Practical uses ==
+
+
+=== Colour temperature ===
+
+The kelvin is often used as a measure of the colour temperature of light sources. Colour temperature is based upon the principle that a black body radiator emits light with a frequency distribution characteristic of its temperature. Black bodies at temperatures below about 4000 K appear reddish, whereas those above about 7500 K appear bluish. Colour temperature is important in the fields of image projection and photography, where a colour temperature of approximately 5600 K is required to match "daylight" film emulsions. In astronomy, the stellar classification of stars and their place on the Hertzsprung–Russell diagram are based, in part, upon their surface temperature, known as effective temperature. The photosphere of the Sun, for instance, has an effective temperature of 5778 K.
+Digital cameras and photographic software often use colour temperature in K in edit and setup menus. The simple guide is that higher colour temperature produces an image with enhanced white and blue hues. The reduction in colour temperature produces an image more dominated by reddish, "warmer" colours.
+
+
+=== Kelvin as a unit of noise temperature ===
+
+In electronics, the kelvin is used as an indicator of how noisy a circuit is in relation to an ultimate noise floor, i.e. the noise temperature. The so-called Johnson–Nyquist noise of discrete resistors and capacitors is a type of thermal noise derived from the Boltzmann constant and can be used to determine the noise temperature of a circuit using the Friis formulas for noise.
+
+
+== Unicode character ==
+The symbol is encoded in Unicode at code point U+212A K KELVIN SIGN. However, this is a compatibility character provided for compatibility with legacy encodings. The Unicode standard recommends using U+004B K LATIN CAPITAL LETTER K instead; that is, a normal capital K. "Three letterlike symbols have been given canonical equivalence to regular letters: U+2126 Ω OHM SIGN, U+212A K KELVIN SIGN, and U+212B Å ANGSTROM SIGN. In all three instances, the regular letter should be used."
+
+
+== See also ==
+
+Comparison of temperature scales
+International Temperature Scale of 1990
+Negative temperature
+
+
+== References ==
+
+
+== External links ==
+Bureau International des Poids et Mesures (2006). "The International System of Units (SI) Brochure" (PDF). 8th Edition. International Committee for Weights and Measures. Retrieved 6 February 2008.

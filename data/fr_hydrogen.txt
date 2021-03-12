@@ -1,0 +1,234 @@
+L'hydrogène est l'élément chimique de numéro atomique 1, de symbole H. L'hydrogène présent sur Terre est presque entièrement constitué de l'isotope 1H (un proton, zéro neutron) ; il comporte environ 0,01 % de 2H (un proton, un neutron). Ces deux isotopes sont stables. Un troisième isotope 3H (un proton, deux neutrons), instable, est produit dans les explosions nucléaires. Ces trois isotopes sont respectivement appelés « protium », « deutérium » et « tritium ».
+L'hydrogène peut avoir les nombres d'oxydation 0 (dihydrogène H2 ou hydrogène métallique), +I (dans la plupart de ses composés chimiques) et –I (dans les hydrures métalliques). L'hydrogène est un élément électropositif, fréquemment ionisé à l'état H+ ou H3O+. Mais il forme aussi des liaisons covalentes, notamment dans l'eau et la matière organique.
+L'hydrogène est le principal constituant du Soleil et de la plupart des étoiles (dont l'énergie provient de la fusion thermonucléaire de cet hydrogène), et de la matière interstellaire ou intergalactique. C'est un composant majeur des planètes géantes, sous forme métallique au cœur de Jupiter et de Saturne, et sous la forme de dihydrogène solide, liquide ou gazeux dans leurs couches plus externes et dans les autres planètes géantes. Sur Terre, il est surtout présent à l'état d'eau liquide, solide (glace) ou gazeuse (vapeur d'eau), mais il se trouve aussi dans les émanations de certains volcans sous forme H2 et de méthane CH4.
+Ce gaz a été mis en évidence par Cavendish en 1766, qui l'a appelé « air inflammable » parce qu'il brûle ou explose en présence de l'oxygène, où il forme de la vapeur d'eau. Lavoisier a désigné ce gaz par le nom hydrogène, composé du préfixe « hydro- », du grec ὕδωρ (hudôr) signifiant « eau », et du suffixe « -gène », du grec γεννάω (gennaô), « engendrer ». Il s'agit du gaz de formule chimique H2 dont le nom scientifique est désormais « dihydrogène ».
+Le dihydrogène est presque toujours appelé « hydrogène » dans le langage courant.
+
+
+== Abondance ==
+L'hydrogène est l'élément le plus abondant de l'Univers : 75 % en masse et 92 % en nombre d'atomes. Il est présent en grande quantité dans les étoiles et les planètes gazeuses ; il est également le composant principal des nébuleuses et du gaz interstellaire.
+Dans la croûte terrestre, l'hydrogène ne représente que 0,22 % des atomes, loin derrière l'oxygène (47 %) et le silicium (27 %). Il est rare également dans l'atmosphère terrestre, puisqu'il ne représente en volume que 0,55 ppm des gaz atmosphériques. Sur Terre, la source la plus commune d'hydrogène est l'eau, dont la molécule est constituée de deux atomes d'hydrogène et d'un atome d'oxygène ; l'hydrogène est surtout le principal constituant (en nombre d'atomes) de toute matière vivante, associé au carbone dans tous les composés organiques. Par exemple, l'hydrogène représente 63 % des atomes et 10 % de la masse du corps humain.
+Sous de très faibles pressions, comme celles qui existent dans l'espace, l'hydrogène a tendance à exister sous forme d'atomes individuels car il n'entre pas en collision avec d'autres atomes pour se combiner. Les nuages d'hydrogène sont à la base du processus de la formation des étoiles.
+
+
+== L'atome d'hydrogène ==
+L'hydrogène est l'élément chimique le plus simple ; son isotope le plus commun est constitué seulement d'un proton et d'un électron. L'hydrogène est l'atome le plus léger. Comme il ne possède qu'un électron, il ne peut former qu'une liaison covalente : c'est un atome univalent.
+Cependant, l'hydrogène solide peut être métallique lorsqu'il se trouve sous très haute pression. Il cristallise alors avec une liaison métallique (voir hydrogène métallique). Dans le tableau périodique des éléments, il se trouve dans la colonne des métaux alcalins. N'étant toutefois pas présent dans cet état sur Terre, il n'est pas considéré comme un métal en chimie.
+La section efficace de capture de l'hydrogène (200 mb aux neutrons thermiques et 0,04 mb aux neutrons rapides) est suffisamment faible pour permettre l'utilisation de l'eau comme modérateur et réfrigérant des réacteurs nucléaires.
+
+
+=== Mécanique quantique ===
+
+L'atome d'hydrogène est l'atome le plus simple qui existe. C'est donc celui pour lequel la résolution de l'équation de Schrödinger, en mécanique quantique, est la plus simple. L'étude de ce cas est fondamentale, puisqu'elle a permis d'expliquer les orbitales atomiques, et ensuite les différentes liaisons chimiques avec la théorie des orbitales moléculaires.
+
+
+== Isotopes et propriétés nucléaires ==
+
+
+=== Isotopes ===
+
+L’hydrogène est le seul élément dont chaque isotope porte un nom spécifique, car leur différence de masse (comparativement à celle de l'atome d'hydrogène) est significative : du simple au double ou au triple, ce qui explique que, contrairement à ce qui vaut pour les isotopes en général, ces différences peuvent influencer les propriétés chimiques du deutérium ou du tritium par rapport au protium (effet isotopique). L'eau lourde (D2O), qui contient des isotopes d'hydrogène lourds, est par exemple toxique (à forte dose) pour de nombreuses espèces. En effet, en raison de la grande différence de masse entre les isotopes la cinétique des réactions en solution aqueuse est considérablement ralentie.
+Les isotopes les plus notables de l'hydrogène sont :
+
+l’hydrogène léger ou protium 1H, le plus abondant (~99,98 % de l'hydrogène naturel). Le noyau est simplement constitué d'un proton et ne possède donc pas de neutron. C'est un isotope stable ;
+le deutérium 2H (ou D), beaucoup moins abondant (de 0,0082 à 0,0184 % de l'hydrogène naturel, ~0,015 % en moyenne). Le noyau est constitué d'un proton et d'un neutron, c'est aussi un isotope stable. Sur Terre, il est essentiellement présent sous forme d'eau deutérée HDO (eau semi-lourde) ;
+le tritium 3H (ou T), présent seulement en quantité infime dans l'hydrogène naturel (un atome de tritium pour 1018 atomes d’hydrogène). Le noyau est constitué d’un proton et de deux neutrons, il est radioactif et se transforme en 3He par émission d'un électron (radioactivité β−). 2H et 3H peuvent participer à des réactions de fusion nucléaire. La radiotoxicité du tritium est réputée très faible lorsqu'il est présent sous forme HTO (eau tritiée), elle est moins connue et moins bien comprise lorsqu'il est présent sous forme organique (les études présentent des résultats contradictoires ou très variables selon leurs protocoles expérimentaux). Dans l’environnement naturel, le tritium peut prendre la place du protium dans les molécules comprenant de l'hydrogène, y compris dans les molécules biologiques et jusque dans l'ADN où il peut être cause de cassures de l'information génétique, de mutations ou d'apoptoses cellulaires. Le tritium étant un isotope rare, sa concentration dans l'eau et les tissus est généralement très faible (hors contaminations accidentelles d’origine humaine) ;
+le quadrium ou tétradium 4H (ou Q), l'isotope le plus instable de l'hydrogène (sa demi-vie est ultracourte : 1,39 × 10−22 seconde). Il se décompose par émission de neutron ;
+l'hydrogène 7 (7H), l'isotope le plus riche en neutrons jamais observé. Sa demi-vie est de l'ordre de 10−21 seconde.
+
+
+=== Fusion nucléaire ===
+L'hydrogène, présent en grandes quantités dans le cœur des étoiles, est une source d'énergie par les réactions de fusion nucléaire, qui combinent deux noyaux d'atomes d'hydrogène (deux protons) pour former un noyau d'atome d'hélium. Les deux voies de cette fusion nucléaire naturelle sont la chaîne proton-proton, de Eddington, et le cycle carbone-azote-oxygène catalytique, de Bethe et von Weizsäcker.
+La fusion nucléaire réalisée dans les bombes à hydrogène ou bombes H concerne des isotopes intermédiaires de la fusion (l'hydrogène se transforme en hélium), comme celle qui se déroule dans les étoiles : isotopes lourds de l'hydrogène, hélium 3, tritium, etc. Mais, dans une bombe H, les réactions nucléaires ne durent que quelques dizaines de nanosecondes, ce qui permet uniquement des réactions en une unique étape. Or, pour aboutir à la transformation de l'hydrogène en hélium, il faut plusieurs étapes dont la première, la réaction d'un proton, est très lente.
+Depuis 2006, le projet ITER vise à vérifier la « faisabilité scientifique et technique de la fusion nucléaire comme nouvelle source d’énergie ».
+
+
+== Le corps simple hydrogène ==
+Sauf aux pressions extrêmement basses (comme dans l'espace intergalactique) ou extrêmement hautes (comme dans les parties centrales de Jupiter et Saturne), le corps simple hydrogène est formé de molécules H2 (dihydrogène).
+Aux pressions extrêmement hautes, l'hydrogène est dans un état dit « sombre », intermédiaire entre un gaz et un métal. Il ne reflète pas la lumière et ne la transmet pas. Il devient aussi très faiblement conducteur d'électricité. Il s'apparente aux métaux alcalins qui le suivent dans le groupe 1 du tableau de Mendeleïev.
+Aux pressions les plus basses, l'hydrogène est un gaz monoatomique.
+
+
+=== Isomérie ===
+
+La molécule de dihydrogène existe sous deux isomères de spin nucléaire: l'hydrogène ortho (spins parallèles) et l'hydrogène para (spins antiparallèles).
+
+
+=== Hydrogène gazeux ===
+
+Dans les conditions normales de température et de pression, comme dans la plupart des conditions qui intéressent la chimie et les sciences de la Terre, l'hydrogène est un gaz moléculaire de formule H2, le dihydrogène. Le dihydrogène forme aussi de vastes « nuages moléculaires » dans les galaxies, qui sont à l'origine de la formation des étoiles.
+À très basse pression et très haute température l'hydrogène est un gaz monoatomique (donc de formule H), c'est notamment le cas du gaz interstellaire ou intergalactique. En raison de l'immensité de ces espaces et malgré la très faible densité du gaz, l'hydrogène monoatomique constitue près de 75 % de la masse baryonique de l'univers.
+
+
+=== Hydrogène liquide ===
+
+
+=== Hydrogène solide ===
+L'hydrogène solide est obtenu en abaissant la température en dessous du point de fusion du dihydrogène, situé à 14,01 K (−259,14 °C). L'état solide fut obtenu pour la première fois en 1899 par James Dewar,.
+
+
+=== Hydrogène métallique ===
+
+L'hydrogène métallique est une phase de l'hydrogène survenant lorsqu'il est soumis à une très forte pression et à de très basses températures. C'est un exemple de matière dégénérée.
+D'aucuns estiment qu'il y a un intervalle de pressions (autour de 400 GPa) sous lesquelles l'hydrogène métallique est liquide, même à de très basses températures,.
+
+
+=== Hydrogène triatomique ===
+
+L'hydrogène triatomique est une forme allotropique très instable du corps simple hydrogène, de formule H3.
+
+
+== Propriétés chimiques et composés ==
+
+
+=== Ions hydron H+, hydronium H3O+ et hydrure H– ===
+L'atome d'hydrogène peut perdre son unique électron pour donner l'ion H+, désigné couramment par le nom de proton. En effet l'atome qui a perdu son seul électron est réduit à son noyau, et dans le cas de l'isotope le plus abondant 1H, ce noyau n'est constitué que d'un proton. Cette appellation n'est pas rigoureusement correcte si l'on tient compte de la présence, certes discrète (inférieure à 0,02 %), des autres isotopes. L'appellation hydron est plus générale (on dit aussi ion hydrogène, malgré la confusion possible avec l'anion H–). Son rayon est très petit : environ 1,5 × 10−15 m contre 5 × 10−11 m pour l'atome.
+En solution, le proton n'existe pas à l'état libre mais est toujours lié au nuage électronique d'une molécule. En solution aqueuse il est solvaté par des molécules d'eau ; on peut en simplifiant considérer qu'il est capté par une molécule d'eau H2O, formant un ion « hydronium » H3O+, aussi appelé « oxonium » ou « hydroxonium ».
+L'atome d'hydrogène peut aussi acquérir un second électron pour donner l'ion « hydrure » H–, ce qui lui confère le même cortège électronique stable que l'atome d'hélium.
+
+
+=== Réactions acido-basiques ===
+
+L'hydrogène joue un rôle primordial dans une réaction acido-basique (au sens de la théorie de Brønsted-Lowry) puisque cette dernière correspond formellement à l'échange d'un ion hydrogène H+ entre deux espèces, la première (l'acide) libérant H+ par rupture d'une liaison covalente, et la deuxième (la base) captant cet H+ par formation d'une nouvelle liaison covalente :
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    AH
+                  
+                
+              
+              
+                +
+              
+              
+                
+                  
+                    B
+                  
+                
+              
+              
+                =
+              
+              
+                
+                  
+                    
+                      A
+                    
+                  
+                  
+                    −
+                  
+                
+              
+              
+                +
+              
+              
+                
+                  
+                    
+                      BH
+                    
+                  
+                  
+                    +
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    acide1
+                  
+                
+              
+              
+              
+                
+                  
+                    base2
+                  
+                
+              
+              
+              
+                
+                  
+                    base1
+                  
+                
+              
+              
+              
+                
+                  
+                    acide2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}{\mbox{AH}}&+&{\mbox{B}}&=&{\mbox{A}}^{-}&+&{\mbox{BH}}^{+}\\{\mbox{acide1}}&&{\mbox{base2}}&&{\mbox{base1}}&&{\mbox{acide2}}\end{matrix}}}
+  
+
+
+=== Liaison hydrogène ===
+
+La liaison hydrogène est une interaction électrostatique entre un atome d'hydrogène, lié chimiquement à un atome électronégatif A, et un autre atome électronégatif B (A et B étant typiquement O, N ou F en chimie organique).
+Cette liaison joue un rôle important en chimie organique, puisque les atomes d'oxygène O, d'azote N ou de fluor F sont susceptibles de créer des liaisons hydrogène, mais aussi en chimie inorganique, entre les alcools et les alcoolates métalliques.
+
+
+=== Composés covalents ===
+L'atome d'hydrogène peut engager son unique électron pour former une liaison covalente avec de nombreux atomes non-métalliques.
+Les composés les plus connus sont :
+
+la molécule de dihydrogène H2 ;
+la molécule d'eau H2O ;
+les molécules d'hydrocarbures CxHy.L'hydrogène est également présent dans toutes les molécules organiques, où il est lié principalement à des atomes de carbone, d'oxygène et d'azote.
+
+
+=== Hydrures ===
+L'hydrogène se combine avec la plupart des autres éléments car il possède une électronégativité moyenne (2,2) et peut ainsi former des composés avec des éléments métalliques ou non-métalliques. Les composés qu'il forme avec les métaux sont appelés « hydrures », dans lesquels il se trouve sous forme d'ions H− trouvés généralement en solution. Dans les composés avec les éléments non-métalliques, l'hydrogène forme des liaisons covalentes, car l'ion H+ a une forte tendance à s'associer avec les électrons. Dans les acides en solution aqueuse, il se forme des ions H3O+ appelés ions « hydronium » ou « oxonium », association du proton et d'une molécule d'eau.
+
+
+=== Agressivité à l'égard des matériaux ===
+L'hydrogène corrode de nombreux systèmes d'alliages en les fragilisant. Ceci peut conduire à des défaillances catastrophiques, par exemple de piles à combustible ou de certains processus catalytiques. C'est un problème grave pour les industries qui produisent ou utilisent de l'hydrogène. C'est encore un frein à la production, au transport, au stockage et à un large usage de ce produit.
+La science des matériaux recherche des matériaux plus résistants à la fragilisation par l'hydrogène, mais ce travail est rendu difficile par la difficulté de mesurer ou d'observer l'hydrogène de manière expérimentale et à l'échelle atomique. Chen et al. ont réussi en 2017 à observer la répartition tridimensionnelle (3D) précise des atomes d'hydrogène dans la matière grâce à une nouvelle approche de la tomographie par sonde atomique basée sur la deutérisation, le transfert cryogénique et des algorithmes appropriés d'analyse de données.
+
+
+== Toxicité, écotoxicité ==
+Très peu d'études semblent avoir été menées à ces sujets, probablement parce que les organismes vivants ne sont pas supposés être dans la nature exposés à de l'hydrogène gazeux. En effet, ce gaz étant très léger, il se disperse rapidement vers les très hautes couches de l'atmosphère.
+En matière de toxicité pour l'homme, l'hydrogène peut être absorbé dans l’organisme par inhalation. En milieu industriel ou en présence d'une fuite importante, une concentration nocive de ce gaz (sans odeur) dans l'air peut être rapidement atteinte (et former aussi un mélange explosif avec l'air, l'oxygène, les halogènes et tout oxydant puissant, surtout en présence d'un catalyseur métallique comme le nickel ou le platine). À concentration élevée, l'hydrogène expose à une aggravation de problèmes pulmonaires préexistant et à une anoxie, avec alors des « symptômes tels que maux de tête, bourdonnements dans les oreilles, vertiges, somnolence, perte de conscience, nausée, vomissements et dépression de tous les sens » et une peau pouvant prendre une teinte bleutée, avant asphyxie si l'exposition se prolonge.
+L'hydrogène n'est pas à ce jour (2019) connu comme étant source de mutagénicité, d'embryotoxicité, de tératogénicité ni de toxicité pour la reproduction.
+
+
+== Notes et références ==
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « Solid hydrogen » (voir la liste des auteurs).
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+
+
+=== Liens externes ===
+(en) « Technical data for Hydrogen » (consulté le 23 avril 2016), avec en sous-pages les données connues pour chaque isotope.
+(en) Images de l'hydrogène et de ses isotopes sous différentes formes.
+(en) 2001 - Properties of solid hydrogen at very low temperatures.
+(en) Solid hydrogen experiments for atomic propellants.
+ Portail de la chimie

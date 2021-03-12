@@ -1,0 +1,56 @@
+The Apollo program was the third United States human spaceflight program carried out by the National Aeronautics and Space Administration (NASA), which accomplished landing the first humans on the Moon from 1969 to 1972.  During the Apollo 11 mission, astronauts Neil Armstrong and Buzz Aldrin landed their Apollo Lunar Module (LM) and walked on the lunar surface, while Michael Collins remained in lunar orbit in the command and service module (CSM), and all three landed safely on Earth on July 24, 1969. Five subsequent Apollo missions also landed astronauts on the Moon, the last in December 1972. In these six spaceflights, twelve men walked on the Moon.Apollo ran from 1961 to 1972, with the first crewed flight in 1968. It achieved its goal of crewed lunar landing, despite the major setback of a 1967 Apollo 1 cabin fire that killed the entire crew during a prelaunch test. After the first landing, sufficient flight hardware remained for nine follow-up landings with a plan for extended lunar geological and astrophysical exploration. Budget cuts forced the cancellation of three of these. Five of the remaining six missions achieved successful landings, but the Apollo 13 landing was prevented by an oxygen tank explosion in transit to the Moon, which damaged the CSM's propulsion and life support. The crew returned to Earth safely by using the Lunar Module as a "lifeboat" for these functions. Apollo used Saturn family rockets as launch vehicles, which were also used for an Apollo Applications Program, which consisted of Skylab, a space station that supported three crewed missions from 1973 through 1974, and the Apollo–Soyuz Test Project, a joint Earth orbit mission with the Soviet Union in 1975.
+
+Apollo set several major human spaceflight milestones. It stands alone in sending crewed missions beyond low Earth orbit. Apollo 8 was the first crewed spacecraft to orbit another celestial body, while the final Apollo 17 mission marked the sixth Moon landing and the ninth crewed mission beyond low Earth orbit. The program returned 842 pounds (382 kg) of lunar rocks and soil to Earth, greatly contributing to the understanding of the Moon's composition and geological history. The program laid the foundation for NASA's subsequent human spaceflight capability.  Apollo also spurred advances in many areas of technology incidental to rocketry and crewed spaceflight, including avionics, telecommunications, and computers.The Apollo program used four types of launch vehicles.  The first was the Little Joe II, which was used for uncrewed suborbital launch escape system development.  The second was the Saturn I, which was used for uncrewed suborbital and orbital hardware development.  The third was the Saturn IB which was used for preparatory uncrewed missions and Apollo 7.  Last, the Saturn V which was used for uncrewed and crewed Earth orbit and lunar missions.  The Marshall Space Flight Center, which designed the Saturn rockets, referred to the flights as Saturn-Apollo (SA), while Kennedy Space Center referred to the flights as Apollo-Saturn (AS). This is why the uncrewed Saturn I flights are referred to as SA and the uncrewed Saturn IB are referred to as AS.
+
+
+== Alphabetical mission types ==
+The Apollo program required sequential testing of several major mission elements in the runup to a crewed lunar landing. An alphabetical list of major mission types was proposed by Owen Maynard in September 1967. Two "A-type" missions performed uncrewed tests of the CSM and the Saturn V, and one B-type mission performed an uncrewed test of the LM.  The C-type mission, the first crewed flight of the CSM in Earth orbit, was performed by Apollo 7.
+The list was revised upon George Low's proposal to commit a mission to lunar orbit ahead of schedule, an idea influenced by the status of the CSM as a proven craft and production delays of the LM. Apollo 8 was reclassified from its original assignment as a D-type mission, a test of the complete CSM/LM spacecraft in Earth orbit, to a "C-prime" mission which would fly humans to the Moon.  Once complete, it obviated the need for the E-type objective of a medium Earth orbital test.  The D-type mission was instead performed by Apollo 9; the F-type mission, Apollo 10, flew the CSM/LM spacecraft to the Moon for final testing, without landing.  The G-type mission, Apollo 11, performed the first lunar landing, the central goal of the program.
+The initial A-G list was expanded to include later mission types:  H-type missions—Apollo 12, 13 (planned) and 14—would perform precision landings, and J-type missions—Apollo 15, 16 and 17—would perform thorough scientific investigation.  The I-type objective, which called for extended lunar orbital surveillance of the Moon, was incorporated into the J-type missions.
+
+
+== Test flights ==
+
+
+=== Uncrewed test missions ===
+From 1961 to 1968, the Saturn launch vehicles and components of the Apollo spacecraft were tested in uncrewed flights.
+There was some incongruity in the numbering and naming of the first three uncrewed Apollo-Saturn (AS), or Apollo flights.  This is due to AS-204 being renamed to Apollo 1 posthumously. This crewed flight was to have followed the first three uncrewed flights. After the fire which killed the AS-204 crew on the pad during a test and training exercise, uncrewed Apollo flights resumed to test the Saturn V launch vehicle and the Lunar Module; these were designated Apollo 4, 5 and 6. The first crewed Apollo mission was thus Apollo 7. Simple "Apollo" numbers were never assigned to the first three uncrewed flights, although renaming AS-201, AS-202, and AS-203 as Apollo 1-A, Apollo 2 and Apollo 3, had been briefly considered.
+
+
+=== Uncrewed launch escape system tests ===
+From August 1963 to January 1966 a number of tests were conducted for development of the launch escape system (LES). These included simulated "pad aborts", which might occur while the Apollo-Saturn space vehicle was still on the launch pad, and flights on the Little Joe II rocket to simulate Mode I aborts which might occur while the vehicle was in the air.
+
+
+== Thermal-vacuum tests ==
+
+
+== Crewed missions ==
+The Block I CSM spacecraft did not have capability to fly with the LM, and the three crew positions were designated Command Pilot, Senior Pilot, and Pilot, based on U.S. Air Force pilot ratings. The Block II spacecraft was designed to fly with the Lunar Module, so the corresponding crew positions were designated Commander, Command Module Pilot, and Lunar Module Pilot regardless of whether a Lunar Module was present or not on any mission.A total of fifteen Saturn V vehicles were ordered (through AS-515), which would have been enough for three more Moon landing missions through Apollo 20. This flight was cancelled around the time of the Apollo 11 first landing mission to make the launch vehicle available for the Skylab space station. Shortly thereafter, Apollo 18 and 19 were cancelled in response to Congressional cuts in NASA's budget.Several of the missions involved extravehicular activity (EVA), spacewalks or moonwalks outside of the spacecraft. These were of three types: testing the lunar EVA suit in Earth orbit (Apollo 9), exploring the lunar surface, and retrieving film canisters from the Scientific Instrument Module stored in the Service Module.
+
+
+=== Canceled missions ===
+
+Several planned missions of the Apollo program of the 1960s and 1970s were canceled for a variety of reasons, including changes in technical direction, the Apollo 1 fire, hardware delays, and budget limitations.
+
+
+=== Post-Apollo missions using Apollo hardware ===
+There were several missions that used Apollo hardware after the cancellation of Apollo 18, Apollo 19, and Apollo 20.
+
+
+== Notes ==
+
+
+== References ==
+ This article incorporates public domain material from websites or documents of the National Aeronautics and Space Administration.
+
+
+== Bibliography ==
+Hallion, Richard P.; Crouch, Tom D. (1979). Apollo: Ten Years Since Tranquility Base. Apollo: Ten Years Since Tranquillity Base. Smithsonian Institution. Bibcode:1979atys.book.....H. ISBN 978-0874745054.
+
+
+== External links ==
+NASA page on Apollo Missions
+National Space Science Data Center (Goddard Space Flight Center): Apollo Program with links to books on Program
+Space.com List of Apollo Missions.
+AstronomyToday List of Missions
+Project Apollo Flickr Photo Archive

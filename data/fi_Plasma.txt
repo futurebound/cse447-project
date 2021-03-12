@@ -1,0 +1,27 @@
+Plasma on aineen olomuoto, jossa atomit ovat menettäneet elektroneja eli ionisoituneet. Plasma koostuu siis sähköisesti varatuista hiukkasista: elektroneista ja positiivisista ioneista. Plasma reagoi herkästi sähkö- ja magneettikenttiin ja plasman oma liike myös luo sähkömagneettisia kenttiä (ks. sähkömagnetismi). 
+Plasmaa kutsutaan aineen neljänneksi olomuodoksi. Plasman määritteleminen aineen olomuodoksi on kuitenkin kiistanalaista. Se ei nimittäin täytä yhtä olomuodoille asetettua ehtoa: "aineen pitää muuttua sulavasti olomuodosta toiseen tietyssä lämpötilassa". Plasma ei tätä tee, sillä ionisoituneet hiukkaset eivät välttämättä muutu takaisin neutraaliksi kaasuksi, kun lämpötilaa lasketaan plasmautumis- tai ionisoitumislämpötilan alapuolelle. Tämä johtuu siitä, että ionisoituminen ei ole niin selvästi lämpötilasta riippuvainen prosessi kuin esimerkiksi sulaminen tai höyrystyminen, vaan on itse asiassa aineen rakenteenkin eikä vain olomuodon muuttamista.
+Auringosta sinkoutuu jatkuvasti plasmaa avaruuteen aurinkotuulena, ja sen törmätessä maan ilmakehän ulompiin osiin syntyy revontulia. Vihertävän keltainen väri syntyy suurella nopeudella liikkuvien elektronien törmätessä happiatomeihin. Elektroni menettää osan liike-energiastaan, jonka happiatomi muuttaa näkyväksi valoksi. Plasman tutkiminen on luonut oman tieteenalan, (avaruus)plasmafysiikan.
+Plasmasta aikaisemmin käytettyä rinnakkaisnimeä "plastma" pidetään nykyään vanhentuneena eikä enää suositeltavana.
+
+
+== Plasman muodostuminen ==
+Plasmaa syntyy korkean lämpötilan (vähintään 2 000–8 000 K) vaikutuksesta ja sähkökentässä kiihdytettyjen  hiukkasten törmäillessä atomeihin irrottaen niistä elektroneja. Plasma koostuu elektroneista ja positiivisista ioneista. On myös esitetty, että jopa 99 % tai ylikin maailmankaikkeuden tunnetusta aineesta (vrt. pimeä aine) olisi plasmaa.
+
+
+== Plasman sovellukset ==
+Plasmaa käytetään muun muassa loisteputkissa ja hitsauksessa. Fuusioreaktoreiden kammioiden plasman tutkimuksessa hyödynnetään magnetohydrodynamiikkaa. Rakettitekniikassa niitä moottoreita, joita nykyisin kutsutaan ionimoottoreiksi, kutsuttiin ennen plasmamoottoreiksi.
+
+
+== Aiheesta muualla ==
+
+Free plasma physics books and notes
+Plasma Science and Technology
+Plasma on the Internet comprehensive list of plasma related links.
+Introduction to Plasma Physics: M.I.T. Introduction by I.H.Hutchinson
+How to make a glowing ball of plasma in your microwave with a grape | More (Video)
+Michael A. Lieberman, Allan J. Lichtenberg: Principles of Plasma Discharges and Materials Processing. Wiley, New Jersey 2005, ISBN 0-471-72001-1.
+R. J. Goldston, P. H. Rutherford: Plasmaphysik. Eine Einführung. Vieweg, Braunschweig 1998, ISBN 3-528-06884-1 .
+K.-H. Spatschek: Theoretische Plasmaphysik. Eine Einführung. Teubner, Stuttgart 1990, ISBN 3-519-03041-1.
+Rainer Hippler, Sigismund Pfau, Martin Schmidt, Karl H. Schoenbach: Low Temperature Plasma Physics - fundamental aspects and applications. Wiley-VCH, Berlin 2001, ISBN 3-527-28887-2.
+Vadim N. Tsytovich: Lectures on Non-linear Plasma Kinetics. Springer, Berlin 1995, ISBN 0-387-57844-7.
+Hubertus M. Thomas, Gregor Morfill: Plasmakristalle an Bord der ISS: Komplexe Plasmen in Schwerelosigkeit. In: Physik in unserer Zeit. 36, Nr. 2, 2005, ISSN 0031-9252.

@@ -1,0 +1,152 @@
+Satelliitti eli tekokuu on taivaankappaletta kiertämään saatettu teknisiä tutkimuksia tai muunlaisia tehtäviä suorittava laitteisto. Satelliitti kiertää keskuskappaletta kiertoradalla.
+
+
+== Historia ==
+
+
+=== Kaunokirjallisuus ===
+Kiinalaiset kehittivät ja käyttivät ruutiraketteja ja kuvasivat rakettien käyttöä useita satoja vuosia sitten. Tarinoissa on kuvattu muun muassa yritys lähettää mandariini rakettilennolle. 
+Cyrano de Bergerac jätti keskeneräisen avaruusmatkatarinan jälkeensä vuonna 1657 - englanniksi tarinan nimi on "Other World: The Comical History of the States and Empires of the Moon". 1700-luvulla Paroni von Münchhausenin tarinoihin kuuluu myös matka Kuuhun. Ensimmäinen eurooppalainen fiktiivinen kuvaus satelliitin laukaisusta kiertoradalle on Edward Everett Halen novelli, The Brick Moon. Tarina ilmestyi The Atlantic Monthly -lehdessä 1869 alkaen. Seuraavan kerran idea esiintyi Jules Vernen Begumin 500 miljoonaa teoksessa vuonna 1879. Vernen "Maasta kuuhun" -kirja, jossa pyritään toteuttamaan miehitetty avaruuslento (ts. kuuluotain) tykkilaukaisun avulla, on ollut usean avaruustekniikan pioneerin ja ehkä nykyajankin ammattilaisen innoituksen perusta.
+
+
+=== Tiede ===
+Vuonna 1903 venäläinen Konstantin Tsiolkovski (1857–1935) julkaisi koosteensa tutkimuksistaan Исследование мировых пространств реактивными приборами ("Kosmisen avaruuden tutkimus reaktiivisia laitteita käyttäen"). Se on ensimmäinen raketteja avaruusalusten laukaisuun käyttämistä käsittelevä tieteellinen julkaisu. Osa materiaalista oli julkaistu venäläisissä tieteellisissä lehdissä 1880-luvun lopulta alkaen. Tsiolkovski määritti Maan kiertoradalle pääsemiseen vaadittavan ratanopeuden, joka on noin 8 km/s. Hän päätyi lopputulokseen, että Maan kiertoradalle pääsy olisi mahdollista monivaiheisilla raketeilla, jotka käyttäisivät nestemäistä ajoainetta. Hän ehdotti nestemäisen vedyn ja nestemäisen hapen käyttöä, joka on edelleen paras käytössä oleva ajoaine. Elinaikanaan hän julkaisi yli 500 avaruuslentoihin liittyvää teosta mukaan lukien tieteisromaaneja. Töihin kuului myös ohjausraketeilla varustettujen rakettien, monivaiheisten rakettien, avaruusasemien, ilmalukkojen sekä avaruussiirtokuntien ruoan ja hapen tuottamiseksi tarkoitettujen suljettujen biologisten systeemien suunnitelmia.
+Vuonna 1928 Herman Potočnik (1892–1929) julkaisi kirjansa Das Problem der Befahrung des Weltraums - der Raketen-Motor (Avaruusmatkustuksen ongelma - Rakettimoottori), joka oli suunnitelma avaruuden valloittamiseksi ja pysyvän ihmisasutuksen synnyttämiseksi sinne. Hän hahmotteli yksityiskohtaisen avaruusaseman ja laski sen geostationaarisen radan. Hän kuvaili kiertorataa kiertävän avaruusaluksen siviili- ja sotilaskäyttöä maan havainnoinnissa sekä selvitti, kuinka avaruuden erikoisolosuhteet voisivat olla hyödyllisiä tieteellisissä kokeissa. Kirja käsitteli myös geostationaarisen kiertoradan satelliittien käyttöä radioviestintään.
+Vuonna 1945 Wireless World -lehden artikkelissa englantilainen scifikirjailija Arthur C. Clarke (s. 1917) toi Potočnikin idean tietoliikennesatelliittien käytöstä joukkotiedotukseen länsimaiden tietoon.
+
+Clarke tutki satelliittien laukaisun logistiikkaa, mahdollisia kiertoratoja ja muita maailmanlaajuisen tietoverkon kehittämiseen liittyviä asioita. Geometrian perusteella hän totesi, että koko Maan kattavuuteen tarvittaisiin vain kolme geostationaarista satelliittia.
+
+
+=== Toteutuksen valmistelua ===
+Toukokuussa 1946 yhdysvaltalainen Project RAND julkaisi Preliminary Design of an Experimental World-Circling Spaceship -raportin, jossa esitettiin, että sopivilla tieteellisillä laitteistoilla varustetut satelliitit tulevat olemaan yksiä kaikkein oleellisimmista tieteellisistä työkaluista 1900-luvulla.
+Yhdysvallat oli suunnitellut vuodesta 1946 lähtien laukaisevansa satelliitin kiertoradalle merivoimiensa Bureau of Aeronautics -osaston ollessa yksi aloitteen tekijä. Yhdysvaltain ilmavoimien Project RAND julkaisi raportin aiheesta, mutta siinä ei uskottu, että satelliitit voisivat olla potentiaalisia aseita vaan että ne olisivat pikemminkin soveliaampina tieteeseen, politiikkaan ja propagandaan. Vuonna 1954 Yhdysvaltain puolustusministeri väitti, ettei hän ”ole kuullut amerikkalaisesta avaruusohjelmasta”.
+29. heinäkuuta 1955 Valkoinen talo ilmoitti, että Yhdysvallat aikoo laukaista satelliitin kevääseen 1958 mennessä. Tämän hankkeen nimeksi tuli Project Vanguard (onnistuneet laukaisut Vanguard 1, Vanguard 2 ja Vanguard 3). 31. heinäkuuta 1955 Neuvostoliitto ilmoitti laukaisevansa satelliitin syksyyn 1957 mennessä. Molemmat ilmoitukset liittyivät kansainväliseen geofysiikan vuoteen 1957–1958. Vuonna 1955 American Rocket Societyn, Kansallisen tiedesäätiön ja kansainvälisen geofysiikan vuoden painostamana Yhdysvaltojen ilmavoimat ja merivoimat alkoivat työskennellä yhdessä Project Orbiterissa. Siinä Jupiter-C-raketilla pyrittiin laukaisemaan satelliitti kiertoradalle.
+
+
+=== 1957–2008 ===
+
+Ensimmäinen ihmisen tekemä satelliitti oli Neuvostoliiton 4. lokakuuta 1957 laukaisema Sputnik 1. Tämä aloitti avaruustoiminnan ja noin 20-vuotisen sotilaallis-poliittisen avaruuskilvan Neuvostoliiton ja Yhdysvaltojen välillä. 
+Project Orbiterin perussuunnitelmien pohjalta Yhdysvallat laukaisi ensimmäisen Naval Reserach Laboratoryn kehittämän Explorer 1 -satelliittinsa Yhdysvaltain armeijan kehittämällä Juno 1 -kantoraketilla 31. tammikuuta 1958. Tätä edelsi ja seurasi lukuisia epäonnistumisia, joilla oli avaruustoiminnan budjettia kasvattava vaikutus.
+Tämän jälkeen satelliitteja on laukaistu Maata kiertävälle radalle noin seitsemän tuhatta, joista suurin osa kiertää Maata edelleen avaruusromuna tai on palanut ilmakehässä. Toimivia satelliitteja avaruudessa on noin 800.
+
+
+== Maan lähiavaruuden kappaleiden seuranta ==
+Yhdistyneiden kansakuntien COPUOS-komitea kerää tiedot kaikkien maiden avaruuteen yltävistä ohjus- ja rakettilaukaisuista. YK ylläpitää luetteloa satelliiteista ja niiden radoista. Poikkeuksena ovat sotilaalliset satelliitit, joista etenkin Yhdysvallat kieltäytyy ilmoittamasta niiden rataelementtejä. YK:lla ei ole omaa valvontaverkostoa, vaan se luottaa jäsenmaidensa ilmoituksiin. 
+United States Space Surveillance Network (SSN) on seurannut kiertoradalla olevia kappaleita vuodesta 1957 lähtien, kun Neuvostoliitto aloitti avaruusajan laukaisemalla Sputnik-1. SSN on osa Yhdysvaltain ja Kanadan ilmapuolustusjärjestelmää (NORAD). Se seuraa Maata kiertäviä keinotekoisia kappaleita, kuten satelliitteja, avaruusaluksia, kantoraketteja ja niiden jäännöksiä, jotka ovat kooltaan yli 10 cm. Seuranta tapahtuu sekä tutkien että optisten teleskooppien avulla. Valtaosa Maan lähiavaruuteen jääneestä avaruusromusta palaa Maan ilmakehään ja tuhoutuu. Noin seitsemän prosenttia avaruuskappaleista on toimivia satelliitteja. Loput ovat avaruusromua. USSTRATCOM on ensisijaisesti kiinnostunut toimivista satelliiteista, mutta seuraa myös avaruusromua, joka palatessaan ilmakehään saattaisi aiheuttaa vaaraa asutuille alueille.
+Venäjällä on Yhdysvaltain tavoin samankaltainen ilmapuolustukseen liittyvä avaruuden seurantajärjestelmä. Ranska toi vuoden 2007 lopulla oman sotilaallisen lähiavaruuden seurantajärjestelmänsä julkisuuteen. Siihen kuuluu muun muassa GRIMES-tutkajärjestelmä.
+
+
+== Avaruusvaltiot ==
+Avaruusvaltio on tässä valtio, joka on laukaissut omalla kantoraketillaan oman satelliitin kiertoradalle.
+
+Taulukosta puuttuu Italia, koska se käytti 26. huhtikuuta 1967 oman San Marco 2-satelliittinsa laukaisuun omalta San Marco-laukaisukeskuksesta Kenian rannikolla yhdysvaltalaista Scout B-kantorakettia. Australia on usein virheellisesti mainittu tällä listalla: sen WRESAT-satelliitti on laukaistu yhdysvaltalaisella Redstone-kantoraketilla.
+
+
+== Tyypit ==
+
+Suurin osa keinotekoisista siviilisatelliiteista on Maata kiertäviä tietoliikennesatelliitteja. Pääosan siviilisatelliiteista ovat laukaisseet Neuvostoliiton avaruusohjelma ja Yhdysvaltain Nasa (Yhdysvaltain ilmailu- ja avaruushallinto) Euroopan avaruusjärjestön ollessa kolmantena. Vielä suuremman määrän ovat laukaisseet Neuvostoliiton, Venäjän ja Yhdysvaltain asevoimat. Amatöörisatelliitteja (AMSAT, eräässä mielessä yliopistojen opiskelijoiden rakentamat satelliitit) on tehty joitakin suuruusluokkaa sata kappaletta 50 vuodessa.
+Miehittämättömiä avaruusaluksia, jotka poistuvat Maan vetovoimasta, nimitetään avaruusluotaimiksi. 
+Maan lähiavaruuteen jääviä avaruusaluksia kutsutaan satelliiteiksi, joita ovat eräässä mielessä 
+
+Avaruusasema on suunniteltu ihmisasuttavaksi maan kiertolaiseksi eli satelliitiksi. Se eroaa muista miehitetyistä avaruusaluksista siinä, että sillä ei ole juurikaan omaa työntövoimaa tai laskeutumisvarustusta, joten muita aluksia käytetään kuljetuksiin asemalle ja asemalta.Varsinainen termi satelliitti kattaa miehittämättömät maat kiertävät avaruusalukset:
+
+Avaruustutkimusalus
+Avaruusobservatorio on satelliitti, jolla havaitaan kaukaisia planeettoja, tähtiä, galakseja ja muita avaruuden kohteita. Se on avaruuteen sijoitettu observatorio.
+Avaruusluotaimet, jotka poistuvat maan kiertoradalta matkatakseen Kuuhun, toisen planeetan luo jne.
+Biosatelliitti on satelliitti, jolla kuljetetaan eliöitä tai kudosta avaruuteen lähinnä lääketieteellisessä tutkimustarkoituksessa.
+Kaukokartoitussatelliitti on satelliitti, jota käytetään ei-sotilaallisiin tarkoituksiin kuten luonnon seurantaan, kartantekoon, yms.
+Sääsatelliitti on satelliitti, jota käytetään ensisijaisesti Maan sään ja ilmaston tarkkailuun.
+Tietoliikennesatelliitti on satelliitti, joka on sijoitettu avaruuteen välittämään tietoliikennettä. Nykyiset tietoliikennesatelliitit ovat tavallisesti geosynkronisella kiertoradalla, Molnija-kiertoradalla tai matalalla Maan kiertoradalla.
+Paikannussatelliitti on satelliitti, jonka lähettämää signaalia käytetään Maassa olevan vastaanottimen paikantamiseen reaaliaikaisesti.
+Sotilaalliset satelliitit
+Ennakkovaroitussatelliitti
+Tiedustelusatelliitti on sotilaalliseen toimintaan tarkoitettu kaukokartoitussatelliitti. Niiden kuvaustarkkuuden uskotaan olevan parempi kuin siviilisatelliiteilla. Niiden tehtävät pyritään salaamaan, mutta satelliittien radat yleensä tunnetaan. Niiden kiertoradat ovat yleensä matalia naparatoja.
+Tappajasatelliitti on satelliitti, jolla pyritään tuhoamaan vihollisen satelliitti yleensä ajamalla se kohteen lähelle ja räjäyttämällä se, mutta myös kineettistä energiaa, eli törmäämistä on kokeiltu.
+Liekasatelliitti on satelliitti, jossa toinen satelliitti on kytketty toiseen liealla.
+Mikrogravitaatiokoesatelliitit
+Satelliitit voidaan luokitella koon mukaan
+
+Suuri satelliitti on termi, jota ei juuri käytetä, mutta tarkoittaa tuhansien kilogrammojen painoista satelliittia.
+Piensatelliitti on satelliitti, joka on 1980-luvulta lähtien käytettyyn luokitteluun nähden tavallista satelliittia pienempi massa ja usein myös heikompi suorituskykykin. Muutaman sadan kilogramman painoinen satelliitti on pieni. Minisatelliitti painaa 200-500 kg
+Mikrosatelliitti (20–100 kg)
+Nanosatelliitti (alle 10 kg).
+Pikosatelliitti - noin yhden kilogramman painoinen satelliitti
+1990-luvulla ainakin Yhdysvaltain asevoimissa tutkittiin mitoiltaan tuumaluokan satelliitteja, joita ei ole lennätetty.Eteläkorealainen insinööri ja artisti Song Hoju pyrkii joulukuussa 2012 laukaisemaan hänen mukaansa ensimmäisen yksittäisen ihmisen suunnitteleman, rakentaman ja rahoittaman kotitekoisen satelliitin. Yhden kilogramman painavan Opensat-satelliitin rakentaminen maksoi Songille hieman yli 400 euroa, laukaiseminen avaruuteen maksaa lähes 90 000 euroa.
+
+
+== Satelliittien tekniikkaa ==
+Satelliitti muodostuu satelliittirungosta (satellite bus) ja hyötykuormasta (payload). 
+
+
+=== Satelliittirungon alijärjestelmät ===
+Runkorakenne on käynyt samanlaisen kehityksen kuin lentokoneiden rakenne. 1950-luvulla kuorirakennemaisista palloista siirryttiin pian ristikkorakenteeseen, jossa satelliitin rakenteen jäykistetty pintalevy tuki vain leikkausvoimien kannossa. Sittemmin alumiinilevyllä pinnoitettu hunajakennorakenne korvasi osin ristikkorakenteen. Kerroslevyn pintojen perusmateriaalina hiilikuitukomposiitti on korvannut alumiinin. Rungon mitoituskriteerit ovat laukaisun hitausvoimien kuormien kantokyky, pieni massa ja värähtelykuormien kestokyvyn vaatimat jäykkyysominaisuudet. Runko toimii usein laitteissa syntyvän hukkalämmön johtuvan lämmön siirtoväylänä ja se on myös satelliitin laitteiden sähköinen maa. Aurinkopaneleita ja keveämpi laitteita kutsutaan sekundaarisiksi rakenteiksi, joille asetetaan lievempiä lujuusvaatimuksia kuin rungolle, joka on primaarirakenne.Lämmönsäätöjärjestelmä pitää satelliitin lämpötilalle herkkien komponenttien lämpötilan sopivana. Lämpötilaa säädellään säteilylämmönsiirtoa käyttäen, koska muuta lämmönsiirtotapaa ei tyhjiössä ole. Satelliitin sisällä lämpö siirtyy myös johtumalla rakenteita pitkin kuumasta kylmään päin. Rakenteiden muodonmuutosten ehkäisemiseksi muun muassa tieteellisten laitteiden suuntauksen tarkkuuden vuoksi kylmiä pintoja voidaan joutua lämmittämään sähkövastuksilla. Satelliitin elektroniikkalaitteet, rakettimoottorit jne. tuottavat lämpötehoa. Tämän lisäksi Auringon lämpösäteily lämmittää satelliitin pintoja. Varjossa olevilla pinnoilla säteilytetään hukkalämpö avaruuteen. Myös maa heijastaa lämpösäteilyä. Satelliittien lämmönsäädön testaaminen tehdään maan päällä tyhjiökammiossa.Tehojärjestelmä (EPS, electrical power system) tuottaa sähköä joko pii- tai galliumarsenidi-aurinkokennojen avulla auringonvalosta tai lennoilla kauas Auringosta RTG-generaattoreilla, joissa käytetään ydinenergiaa. Satelliitin tulee yleensä toimia myös varjossa, joten sähköenergiaa varataan akkuihin. Välittömästi laukaisun jälkeen satelliitti toimii akkujen sähköenergian varassa kunnes aurinkopaneelit avataan.Radiojärjestelmä eli tietoliikennejärjestelmä pitää yhteyttä satelliitin maa-asemien kanssa. Satelliitti vastaanottaa komentoja (uplink) eri taajuudella kuin millä se lähettää tietoa maahan (downlink).Asennonsäätöjärjestelmä (AOCS, attitude and orbit control system) tarkkailee satelliitin asentoa ja suuntaa satelliitin. Asentoantureita ovat muun muassa aurinkosensorit, tähtisensori ja maapallon lämpösäteilyn havaitsevat infrapunasensorit. Antureita on myös magneettisia ja myös GPS-vastaanottimien avulla voidaan mitata satelliitin asentoa. Asennonsäätöön eli satelliitin asennon muuttamiseen tai muuttumattomana pitämiseen käytetään momenttipyöriä, magneettisia vääntimiä ja pieniä rakettimoottoreita. Asennonsäätö vaatii merkittävän määrän avaruusaluksen tietokoneen laskentakapasiteetista. Rakettimoottorien käyttö on esim. tietoliikennesatelliiteissa niiden toiminta-aikaa rajoittava tekijä.Propulsiojärjestelmällä muutetaan (tai pidetään häiriövoimista huolimatta rata samana) satelliitin kiertorataa. Yleensä satelliitin moottorina on kiinteää tai nestemäistä ajoainetta käyttävä rakettimoottori. Tällöin työntövoimaa tuotetaan vain jaksoittain, esim. 30 minuuttia pari kertaa lennon aikana. Jatkuvan työntövoiman tuotto on myös mahdollista. Esimerkiksi ESAn SMART-1 -kuuluotaimessa on ionimoottori. Nasa pohti 2000-luvun alussa ydinpropulsiojärjestelmää Prometheus-projektissa, joka on jatkoa 1950-luvulla alkaneesta ja 1960-luvulla päätetystä ohjelmasta. Toinen tapa jatkuvan työntövoiman tuotantoon on aurinkopurje. 2000-luvulla on alettua pohtia propulsiota myös vanhan satelliitin pudottamiseen ilmakehään, jotta avaruusromun määrän kasvu saataisiin pysähtymään.Tietokone (DHU, data handling unit) on erityisesti tarkoitukseen suunniteltu tai olemassa olevien prosessoriarkkitehtuurien pohjalta muokattu säteilysuojattu satelliitin tiedonkäsittely yksikkö. Esimerkiksi Nasa on käyttänyt PowerPC-pohjaisia RAD6000-tietokoneita muun muassa Mars Odyssey avaruusluotaimessa. ESA käyttää kehittämiään LEON-prosessoreita.
+
+
+== Satelliitin laukaisu ja kiertoradat ==
+Satelliitti saadaan Maata kiertävälle radalle laukaisemalla se maanpinnalta raketilla tai avaruussukkulalla.
+Satelliiteilla on erilaisia kiertoratoja. Kiertorata valitaan käyttötarkoituksen mukaan. Joidenkin satelliittien on pysyttävä jatkuvasti Maasta katsottuna samalla paikalla. Tällöin satelliitin kiertonopeus on täsmälleen sama kuin Maan pyörähdysnopeus oman akselinsa ympäri. Tällaisia satelliitteja nimitetään geostationaarisiksi satelliiteiksi. Esimerkiksi televisio-ohjelmia koteihin välittävät satelliitit ovat geostationaarisia.
+Satelliitin korkeus maanpinnasta saattaa olla hyvinkin suuri. Kun matalimmat radat ovat vain parin sadan kilometrin korkeudella, voivat etäämmällä kiertävät satelliitit olla jopa useiden tuhansien kilometrien etäisyydellä. Geostationaarisen satelliitin radan etäisyys Maasta on noin 35 800 km.
+
+
+=== Keskuskappale ===
+Aurinkokeskinen kiertorata: Aurinkoa kiertävä kiertorata. Aurinkokunnan kaikki planeetat, komeetat ja asteroidit sekä jotkut satelliitit ja avaruusromua on aurinkokeskisellä kiertoradalla.
+Maakeskinen kiertorata: Maata kiertävä kiertorata. Kuu ja lukuisat keinotekoiset satelliitit ovat tällä radalla.
+Areokeskinen kiertorata: Marsia kiertävä kiertorata. Tällä kiertoradalla ovat kuut.
+
+
+=== Korkeus ===
+Matala Maan kiertorata (LEO = Low Earth Orbit): ratakorkeus on väliltä 100–2 000 km
+Keskikorkea Maan kiertorata (MEO = Medium Earth Orbit): ratakorkeus on väliltä 2 000–35 786 km.
+Korkea Maan kiertorata (HEO = High Earth Orbit): apogeumin korkeus on yli 35 786 km.
+GEO-rata: ratakorkeus 36000 km ekvaattorin yläpuolella.
+Hyvin elliptinen kiertorata (HEO): radan apogeum korkea (kymmeniä tuhansia km tai enemmän)m, radan perigeum vain satoja kilometrejä.
+
+
+=== Inklinaatio ===
+Kalteva kiertorata:  Kiertorata, jonka inklinaatio on referenssitasoon (tavallisesti ekvaattorin taso) nähden ei ole 0.
+Polaarinen kiertorata:  Kiertorata, jonka inklinaatio on lähes 90 astetta eli satelliitti kiertää joka kierroksella likimain kummankin navan yli.
+Polaarinen aurinkokeskinen kiertorata: Kiertorata, joka on lähestulkoon polaarinen kiertorata. Kiertorata ylittää ekvaattorin aina samassa paikallisessa ajassa. Tämä on hyödyllinen kuvia ottaville satelliiteille sillä varjot ovat joka ylityksellä aina samat.
+
+
+=== Eksentrisyys ===
+Ympyräkiertorata: Kiertorata, jonka eksentrisyys on 0 ja joka on siten ympyrän muotoinen.
+Ellipsirata:  Kiertorata, jonka eksentrisyys on väliltä 0–1 eli jonka muoto on ellipsi.
+Geosynkroninen siirtorata: Kiertorata, jonka perigeum on matalan Maan kiertoradan (LEO) korkeudella ja jonka apogeum on geosynkronisen kiertoradan korkeudella.
+Geostationaarinen siirtorata:  Kiertorata, jonka perigeum on matalan Maan kiertoradan (LEO) korkeudella ja jonka apogeum on geostationaarisen kiertoradan korkeudella.
+Molnija-kiertorata:  Hyvin elliptinen kiertorata, jonka inklinaatio on 63,4° ja kiertoaika on puoli sideeristä päivää (noin 12 tuntia). Tällaisella radalla oleva satelliitti on suurimman osan ajasta tietyn alueen yllä.
+Tundrakiertorata:  Hyvin elliptinen kiertorata, jonka inklinaatio on 63,4° ja kiertoaika on sideerinen päivä (noin 24 tuntia). Tällaisella radalla oleva satelliitti on suurimman osan ajasta tietyn alueen yllä.
+Hyperbelirata eli hyperbolinen kiertorata: Kiertorata, jonka eksentrisyys on enemmän kuin 1. Tällaisella radalla kappaleella on pakonopeutta suurempi ratanopeus, joten se pakenee keskuskappaleensa kiertoradalta.
+Paraabelirata eli parabolinen kiertorata: Kiertorata, jonka eksentrisyys on 1. Tällaisella radalla kappaleella on pakonopeutta vastaava ratanopeus, joten se pakenee keskuskappaleensa kiertoradalta.
+Pakorata (EO): Parabolinen kiertorata, jossa kappaleella on pakonopeus ja se liikkuu poispäin keskuskappaleelta.
+Kaappausrata: Parabolinen kiertorata, jossa kappaleella on pakonopeus ja se liikkuu kohti keskuskappalettaan.
+
+
+=== Synkronisuus ===
+Synkroninen kiertorata: Kiertorata, jossa satelliitin kiertoaika on sama kuin keskuskappaleen pyörähdysaika. Maalla se on 23 tuntia 56 minuuttia, 4,089 sekuntia. Lisäksi näiden kiertosuunta on sama. Keskuskappaleen havaitsijasta satelliitti tekisi taivaalla kahdeksikon muotoista analemma kuviota.
+Puolisynkroninen kiertorata (SSO): Kiertorata, jonka korkeus on noin 20 200 km ja jonka kiertoaika on noin 12 tuntia.
+Geosynkroninen kiertorata (GEO): Kiertorata, jonka korkeus on noin 35 786 km. Maassa oleva havaitsija näkee satelliitin tekevän taivaalla analemma kuviota.
+Geostationaarinen rata (GSO):  Geosynkroninen kiertorata, jonka inklinaati on 0. Maassa olevasta havaitsijasta kappale näyttää olevan taivaalla paikoillaan.
+Ylisynkroninen kiertorata: Kiertorata vähän yli geosynkronisen kiertoradan, jossa satelliitit ajautuvat Maasta katsoen länteen.
+Alisynkroninen kiertorata: Kiertorata vähän alle geosynkronisen kiertoradan, jossa satelliitit ajautuvat Maasta katsoen itään.
+Hautakiertorata:  Kiertorata muutaman sata kilometriä yli geosynkronisen kiertoradan, jossa satelliitit ajautuvat Maasta katsoen länteen. Satelliitit siirretään sinne niiden toiminta-ajan lopuksi.
+Areosynkroninen kiertorata: Synkroninen kiertorata Marsin ympärillä, jonka kiertoaika on Marsin sideerinen päivä eli 24,6229 tuntia.Areostatinaarinen kiertorata (ASO): Pyöreä Areosynkroninen kiertorata Marsin ekvaattorin tasossa ja noin 17 000 km:n korkeudella. Marsin pinnalla olevasta havaitsijasta satelliitti on taivaalla paikallaan.
+Heliosynkroninen kiertorata: Aurinkokeskinen kiertorata, missä satelliitin kiertoaika on sama kuin Auringon pyörähdysaika.
+
+
+=== Muita kiertoratoja ===
+Aurinkosynkroninen rata: Kiertorata, jonka korkeus ja inklinaatio ovat sellaiset että satelliitti ylittää planeetan pinnan aina samaan paikalliseen aurinkoaikaan. Tällaisella radalla oleva satelliitti jatkuvasti samassa auringonvalossa, mikä on hyödyllistä valokuvaamiselle ja sääsatelliiteille.
+Progradinen kiertorata: Kiertorata, jossa inklinaatio on vähemmän kuin 90° eli satelliitti kiertää samaan suuntaan kuin keskuskappale pyörii.
+Retrogradinen kiertorata: Kiertorata, jossa inklinaatio on enemmän kuin 90° eli satelliitti kiertää eri suuntaan kuin keskuskappale pyörii. Aurinkosynkronisia ratoja lukuun ottamatta harvat satelliitit laukaistaan retrogradisille radoille, koska polttoainetta tarvitaan huomattavasti enemmän kuin progradiselle kiertoradalle pääsyssä. Tämä johtuu siitä, satelliitilla on jo ennen laukaisua keskuskappaleen pyörimisestä johtuva progradinen nopeus.
+Lagrangen piste
+
+
+== Katso myös ==
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+
+Tietoja satelliittien välittämistä palveluista, erityisesti TV ja radio.
+Kattava englanninkielinen sivusto satelliiteista ja niiden ylilennoista lähellä sinua

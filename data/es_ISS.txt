@@ -1,0 +1,699 @@
+La Estación Espacial Internacional (en inglés, International Space Station [ISS]; en ruso, Междунаро́дная косми́ческая ста́нция [MKC]) es una estación espacial modular ubicada en la órbita terrestre baja. Es un proyecto de colaboración multinacional entre las cinco agencias espaciales participantes: NASA (Estados Unidos), Roscosmos (Rusia), JAXA (Japón), ESA (Europa), y la CSA (Canadá).[6]​[7]​ La administración, gestión y desarrollo de la estación están establecidas mediante tratados y acuerdos intergubernamentales.[8]​ La estación sirve como un laboratorio de investigación en microgravedad permanentemente habitado en el que se realizan estudios sobre astrobiología, astronomía, meteorología, física y otros muchos campos.[9]​[10]​[11]​ La ISS también está capacitada para probar los sistemas y equipamiento necesarios para la realización de vuelos espaciales de larga duración como pueden ser las misiones a la Luna y Marte.[12]​ Está considerada como uno de los logros más grandes de la humanidad.
+El programa de la ISS es una evolución de la estación espacial Freedom, propuesta de Estados Unidos concebida en 1984 para la construcción de una estación tripulada permanentemente en la órbita terrestre,[13]​ y la propuesta de la Mir-2 concebida por Rusia con objetivos similares. La ISS es la novena estación espacial tripulada de la historia tras las Salyut, Almaz y Mir soviéticas (que más tarde pasarían a ser rusas) y el Skylab estadounidense. Es el objeto artificial más grande que hay en el espacio y el satélite terrestre artificial más grande pudiendo observarse con facilidad a simple vista desde la superficie.[14]​[15]​ Mantiene una órbita con una altitud media de 400 kilómetros gracias a las maniobras que se realizan periódicamente con los motores del Zvezdá o vehículos visitantes.[16]​ La estación da una vuelta completa a la tierra en alrededor de 93 minutos completando 15.5 órbitas cada día.[17]​
+La estación se divide en dos secciones: El Segmento Orbital Ruso (ROS), operado por Rusia; y el Segmento Orbital Estadounidense (USOS), compartido por varias naciones. Roscosmos ha apoyado la continuidad de operaciones hasta el 2024,[18]​ habiendo propuesto previamente la reutilización de algunos módulos del segmento en la construcción de una nueva estación rusa llamada OPSEK.[19]​ El primer componente de la ISS fue lanzado en 1998, y los primeros residentes de largo plazo llegaron el 2 de noviembre del 2000.[20]​ Desde ese momento la estación ha estado ocupada continuamente durante 20 años, 4 meses y 10 días,[21]​ la presencia continua de humanos en la órbita terrestre baja más longeva superando el récord anterior de 9 años, 11 meses y 23 días conseguido por la estación espacial Mir. El último módulo principal presurizado, Leonardo, fue acoplado en 2011 y un hábitat inflable experimental fue añadido en 2016. Desarrollo y ensamblaje de la estación aún continúa, con varios módulos rusos programados para ser lanzados a partir de 2020. A diciembre de 2018 se espera que la estación opere hasta 2030.[22]​
+La ISS está formada por varios módulos presurizados habitable, armazones estructurales, paneles solares fotovoltaicos, radiadores térmicos, puertos de acople, bahías de experimentos y brazos robóticos. Los módulos principales han sido lanzados por los cohetes rusos Proton y Soyuz y por el Transbordador Espacial estadounidense.[23]​ Varias naves visitan la estación espacial en misiones de logística: las Soyuz y Progress rusas, las Dragon, Cygnus y Dragon 2 estadounidenses, el Vehículo de Transferencia H-II japonés,[6]​ y, anteriormente el Vehículo de Transferencia Automatizado europeo y el Transbordador Espacial. La Dragon permite el retorno de carga a la Tierra, capacidad que se utiliza por ejemplo para traer experimentos científicos de vuelta y poder realizar un análisis más exhaustivo.[24]​
+En sus primeros tiempos la estación tenía capacidad para una tripulación de tres astronautas, pero desde la llegada de la Expedición 20, aumentó para soportar una tripulación de hasta seis miembros.[25]​ A fecha de noviembre de 2020, 242 astronautas, cosmonautas y turistas espaciales de 19 naciones diferentes han visitado la estación espacial, varios de ellos en múltiples ocasiones. Esto incluye 152 estadounidenses, 49 rusos, nueve japoneses, ocho canadienses, cinco italianos, cuatro franceses, tres alemanes y uno de Bélgica, Brasil, Dinamarca, Kazajistán, Malasia, Países Bajos, Sudáfrica, Corea del Sur, España, Suecia, los Emiratos Árabes Unidos y el Reino Unido.[26]​
+
+
+== Objetivo ==
+La ISS se construyó originalmente con la intención de ser un laboratorio, observatorio y fábrica a la vez que provee transporte, mantenimiento y una base en la órbita terrestre baja para misiones a la Luna, Marte y asteroides. Sin embargo, no todos los usos previstos en el memorándum de entendimiento original entre la NASA y Roscosmos se han cumplido.[27]​ En la Política espacial de los Estados Unidos de 2010 se le otorgaron los roles adicionales de servir propósitos comerciales, diplomáticos,[28]​ y educacionales.[29]​
+
+
+=== Investigación científica ===
+
+La ISS proporciona una plataforma para realizar investigaciones científicas, con energía, datos, refrigeración y tripulación disponibles para llevar a cabo los experimentos. Pequeñas naves no tripuladas también pueden servir de plataformas para algunos experimentos, especialmente aquellos que incluyen exposición al espacio, pero las estaciones espaciales ofrecen un ambiente a largo plazo en el que los estudios se pueden llegar a realizar durante décadas, combinado con el fácil acceso a investigadores humanos.[30]​[31]​
+La ISS simplifica los experimentos individuales permitiendo que grupos de experimentos compartan lanzamiento y tiempo con la tripulación. La investigación se realiza en una gran cantidad de campos incluyendo astrobiología, astronomía, ciencias físicas, ciencia de materiales, clima espacial, meteorología e investigaciones humanas como medicina espacial y ciencias de la vida.[9]​[10]​[11]​[32]​[33]​ Científicos en la tierra tienen acceso a los datos en tiempo real y pueden sugerir modificaciones a la tripulación. Si surgiese la necesidad de realizar un experimento continuando otro anterior los vuelos rutinarios de reabastecimiento permiten enviar suministros con relativa facilidad.[31]​ Las tripulaciones realizan expediciones durante varios meses aportando aproximadamente 160 horas de trabajo a la semana en una tripulación de seis personas. Sin embargo, buena parte del tiempo de la tripulación se utiliza en tareas de mantenimiento de la estación.[9]​[34]​
+El ambiente del espacio es hostil a la vida. La presencia en el espacio sin protección se caracteriza por un campo de radiación intenso (compuesto principalmente por protones y otras partículas subatómicas cargadas provenientes del viento solar además de los rayos cósmicos), un gran vacío, temperaturas extremas y microgravedad.[35]​ Algunas formas de vida simples llamadas extremófilos,[36]​ así como pequeños invertebrados llamados tardígrados[37]​ pueden sobrevivir en este medio en un estado de desecación extrema.[38]​
+En agosto de 2020 se informó de que la bacteria Terrestre Deinococcus radiodurans, altamente resistente a peligros medioambientales, sobrevivió tres años en el espacio, basándose en estudios realizados en la Estación Espacial Internacional. Estos descubrimientos apoyan la noción de panspermia, la hipótesis de que existe vida por todo el Universo, distribuida de varias formas, incluyendo polvo espacial, meteoroides, asteroides, cometas, planetoides o naves contaminadas.[39]​[40]​
+
+
+==== Investigación Médica ====
+La investigación médica mejora los conocimientos sobre los efectos de la exposición a largo plazo del cuerpo humano al espacio, incluyendo Atrofia muscular, Osteoporosis y desplazamiento de fluidos. Estos datos se utilizarán para determinar si los vuelos espaciales de larga duración y la colonización del espacio son factibles. A fecha de 2006 los datos sobre pérdida de masa ósea y atrofia muscular sugerían que habría un riesgo alto de fractura y problemas de movimiento si los astronautas aterrizasen en un planeta después de una larga travesía por el espacio como los seis meses requeridos para llegar a Marte.[41]​[42]​
+Los estudios médicos a bordo de la ISS se realizan en nombre del Instituto Nacional de Investigación Biomédica Espacial (NSBRI). Resalta entre estos el del Diagnóstico Avanzado por Ultrasonidos en el estudio de la microgravedad en los astronautas que realizan ecografías con la orientación de expertos a distancia. El estudio considera el diagnóstico y tratamiento de condiciones médicas en el espacio. Por lo general, no hay ningún médico a bordo de la ISS y el diagnóstico de las condiciones médicas es un reto. Se prevé que las ecografías guiadas remotamente tendrán aplicación en la Tierra en situaciones de emergencia y de atención rural, donde es difícil el acceso a un médico capacitado.[43]​[44]​[45]​
+
+
+==== Observación Terrestre y Astronómica ====
+La teledetección de la Tierra, astronomía e investigación del espacio profundo desde la ISS han aumentado drásticamente durante los años 2010 tras haberse completado el Segmento Orbital Estadounidense en 2011. Durante los más de 20 años del programa de la ISS investigadores a bordo de la ISS y en tierra han examinado aerosoles, ozono, rayos, y óxidos en la atmósfera terrestre, así como el Sol,  rayos cósmicos, polvo cósmico, antimateria, y materia oscura en el universo.[46]​
+Es probable que el experimento más notable de la ISS sea el Espectrómetro Magnético Alpha (AMS), que pretende detectar materia oscura y responder otras preguntas fundamentales sobre nuestro universo. Actualmente acoplado a la estación, no habría sido fácil desplegarlo en otro vehículo por las necesidades que presenta de ancho de banda y potencia.[47]​[48]​ El 3 de abril de 2013 los científicos informaron de que era posible que se hubiesen detectado indicios de la materia oscura en el AMS.[49]​[50]​[51]​[52]​[53]​[54]​ Según los científicos, "Los primeros resultados del Espectrómetro Magnético Alpha confirman un exceso inexplicable de positrones de alta energía en los rayos cósmicos dirigidos a la Tierra".[55]​[56]​
+Otros ejemplos de experimentos astronómicos y telescopios basados en la ISS incluyen SOLAR, el Calorimetric Electron Telescope (CALET), el Monitor of All-sky X-ray Image (MAXI) el Neutron Star Interior Composition Explorer (NICER).[57]​[58]​
+Los experimentos de teledetección y observación terrestre que han volado en la ISS son el Orbiting Carbon Observatory 3 (OCO-3)  monitoreo a largo plazo de las distribuciones de dióxido de carbono atmosférico del planeta, ISS-RapidScat para el estudio de los vientos oceánicos[59]​, ECOSTRESS[60]​, el Global Ecosystem Dynamics Investigation(GEDI) monitoreo de los bosques a nivel mundial, el Cloud Aerosol Transport System, el (Stratospheric Aerosol and Gas Experiment) SAGE III[61]​  y el Lightning Imaging Sensor (LIS).[46]​[62]​[63]​
+
+
+==== Microgravedad ====
+
+La gravedad a la altura de la ISS es aproximadamente el 90% de fuerte que es en la superficie Terrestre pero los objetos en la órbita están en un estado continuo de caída libre que resulta en la ingravidez aparente.[64]​ Esta ingravidez percibida se ve perturbada por cinco efectos separados:[65]​
+
+Arrastre de la atmósfera residual.
+Vibración proveniente de los movimientos de la tripulación y los sistemas mecánicos de la estación.
+Accionamiento de los giroscopios de control de momento.
+Encendido de propulsores para cambios orbitales o de actitud.
+Efectos del gradiente de la gravedad, también conocidos como efectos de la marea. En diferentes puntos de la estación actúan fuerzas ligeramente diferentes, si no fuese un cuerpo rígido cada parte seguiría una órbita diferente.Los investigadores están estudiando el efecto de la microgravedad en la evolución, desarrollo, crecimiento y procesos internos de plantas y animales. A propósito de estos datos la NASA quiere investigar los efectos en el crecimiento de tejidos humanos tridimensionales y los cristales de proteínas inusuales que se pueden desarrollar en el espacio.[10]​
+La investigación de la física de fluidos en condiciones de microgravedad permitirá a los investigadores modelar mejor el comportamiento de los fluidos. Debido a que los líquidos se pueden combinar casi por completo en condiciones de microgravedad, los físicos pueden investigar fluidos inmiscibles en la Tierra. Además, un examen de las reacciones que se desaceleran por baja gravedad y temperatura, dará a los científicos una mejor comprensión de la superconductividad.[10]​
+El estudio de la ciencia de los materiales es una importante actividad de investigación de la ISS, con el objetivo de obtener beneficios económicos a través de la mejora de las técnicas utilizadas en el suelo.[66]​ Otras áreas de interés incluyen el efecto de la gravedad sobre el medio ambiente de baja combustión, a través del estudio de la eficiencia de la combustión y el control de las emisiones y contaminantes. Estos hallazgos podrían mejorar los conocimientos actuales sobre la producción de energía, y dar lugar a beneficios económicos y ambientales. Los planes futuros para los investigadores a bordo de la ISS son examinar los aerosoles, ozono, vapor de agua y óxidos en la atmósfera de la Tierra, así como los rayos cósmicos, el polvo cósmico la antimateria y la materia oscura en el Universo.[10]​
+
+
+=== Exploración ===
+
+La ISS ofrece una ubicación en la relativa seguridad de la órbita terrestre baja para probar sistemas de la nave que se requerirán para misiones de larga duración a la Luna y Marte. Esto proporciona experiencia en operaciones, mantenimiento, así como las actividades de reparación y reemplazo en órbita, habilidades esenciales en el funcionamiento de una nave espacial lejos de la Tierra, la reducción de los riesgos y el avance de las capacidades de las naves espaciales interplanetarias.[12]​ En referencia al experimento MARS-500, la ESA afirma que "Mientras que la ISS es esencial para responder a las preguntas relativas a los posibles efectos de la ingravidez, la radiación y otros factores específicas del espacio, aspectos tales como el efecto de aislamiento y confinamiento a largo plazo puede ser abordado en forma adecuada a través de simulaciones basadas en tierra”.​ Sergey Krasnov, jefe de programas de vuelos espaciales humanos de la agencia espacial rusa, Roscosmos, sugirió en 2011 que una "versión más corta" de MARS-500, podría llevarse a cabo en la ISS.[67]​
+En 2009, resaltando el valor del marco de colaboraciónen sí, Sergey Krasnov escribió, "Cuando lo comparamos con actuaciones separadas, el desarrollo conjunto de habilidades y recursos complementarios por parte de varios socios asegura el éxito y la seguridad de la exploración espacial. La ISS está ayudando a avanzar la exploración del espacio cercano a la Tierra y la realización de planes prospectivos de desarrollo y exploración del sistema solar incluyendo la Luna y Marte."[68]​ ​ Una misión tripulada a Marte podría ser un esfuerzo multinacional que involucrase organismos espaciales y países fuera de la actual asociación de la ISS. En 2010, el Director General de la ESA, Jean-Jacques Dordain, declaró que su agencia está dispuesta a proponer a los otros cuatro socios que China, India y Corea del Sur sean invitadas a unirse a la asociación de la ISS.[69]​ El Administrador de la NASA Charles Bolden declaró en febrero de 2011, "Cualquier misión a Marte será probablemente un esfuerzo global".[70]​ Actualmente la legislación de Estados Unidos imposibilita a la NASA la cooperación con China en proyectos espaciales.[71]​
+
+
+=== Educación y divulgación ===
+
+La tripulación de la ISS ofrece oportunidades para los estudiantes de la Tierra realizando experimentos desarrollados por los estudiantes, demostraciones educativas, y versiones reducidas de experimentos reales además de comunicarse directamente con los estudiantes a través de los enlaces de radio, video e e-mail.[6]​[72]​ La ESA ofrece un amplio rango de materiales gratuitos que se pueden descargar para su uso en las aulas.[73]​ En una de las sesiones, los estudiantes pueden navegar por un modelo 3d del interior y exterior de la estación enfrentándose a retos en tiempo real.[74]​
+JAXA pretende inspirar a los niños para "aumentar su conciencia sobre la importancia de la vida y sus responsabilidades en la sociedad".[75]​ Mediante una serie de guías educativas, los estudiantes desarrollan un entendimiento más profundo del pasado, presente y futuro cercano de los vuelos espaciales tripulados, la Tierra y la vida.[76]​[77]​ En los experimentos "Semillas en el Espacio" de la JAXA, los efectos de las mutaciones sobre las semillas se miden plantando semillas que han volado en la ISS durante aproximadamente nueve meses. En la primera fase del uso de Kibō entre 2008 y mediados de 2010, los investigadores de más de una docena de universidades japonesas realizaron experimentos en campos muy diversos.[78]​
+Las actividades culturales son otro de los objetivos del programa de la ISS. Tetsuo Tanaka, el director del Space Environment and Utilization Center de la JAXA, ha dicho: "Hay algo sobre el espacio que llega incluso a la gente que no está interesada en la ciencia."[79]​
+Amateur Radio on the ISS (ARISS) es un programa voluntario que anima a los estudiantes alrededor del mundo a emprender carreras en ciencia, tecnología, ingeniería y matemáticas a través de oportunidades de comunicación mediante radio amateur con la tripulación de la ISS.[80]​[81]​  ARISS es un grupo de trabajo internacional, que consiste en delegaciones de nueve países incluyendo varios europeos, Japón, Rusia, Canadá, y los Estados Unidos. En zonas en las que el equipamiento de radio no se puede utilizar los estudiantes se conectan a través de estaciones de tierra que a su vez retransmiten la llamada a la estación espacial.[82]​
+
+First Orbit es un documental largometraje sobre Vostok 1, el primer vuelo espacial tripulado alrededor de la Tierra. Haciendo coincidir la órbita de la ISS con la que siguió la Vostok 1 lo máximo posible, en cuanto a momento del día y trayectoria terrestre, el cineasta Christopher Riley y el astronauta de la ESA Paolo Nespoli pudieron grabar la vista que Yuri Gagarin tuvo durante su pionero vuelo orbital. Este metraje se mezcló con las grabaciones de audio originales de la Vostok 1 obtenidas del Archivo del Estado Ruso. Nespoli recibió el crédito de director de fotografía por este documental, puesto que el grabó la mayoría de las imágenes durante la Expedición 26/27.[83]​[84]​ La premiere se emitió globalmente en YouTube en 2011 bajo una licencia gratuita a través de la página firstorbit.org.[85]​
+En mayo de 2013, el comandante Chris Hadfield grabó una cover y vídeo musical de "Space Oddity" de David Bowie a bordo de la estación, que fue publicado en YouTube.[86]​[87]​ Fue el primer video musical grabado en el espacio.[88]​
+En noviembre de 2017, mientras participaba en la Expedición 52/53, Paolo Nespoli realizó dos grabaciones de su voz (una en inglés y otra en italiano), para ser usadas en artículos de Wikipedia. Este fue el primer contenido realizado especialmente para Wikipedia en el espacio.[89]​[90]​
+
+
+== Construcción ==
+
+
+=== Fabricación ===
+
+Como la Estación Espacial Internacional es un proyecto multinacional, los componentes necesarios para su ensamblaje fueron fabricados en varios países alrededor del mundo. Empezando a mediados de los 1990, los componentes estadounidenses Destiny, Unity, la estructura de armazón integrada y los paneles solares fueron fabricados en el Centro Marshall de Vuelos Espaciales y el Complejo de Ensamblaje Michoud. Estos módulos fueron llevados al Edificio de Operaciones y Revisa y a las Instalaciones de Procesamiento de la Estación Espacial (SSPF) para realizar el ensamblaje final y las preparaciones para el lanzamiento.[91]​
+Los módulos rusos, incluyendo Zarya y Zvezda, fueron fabricados en el Centro Estatal Espacial de Investigación y Desarrollo Jrúnichev en Moscú. Zvezda se fabricó inicialmente en 1985 como un componente de la Mir-2, pero nunca llegó a ser lanzado como tal y en su lugar pasó a ser el Módulo de Servicio de la ISS.[92]​
+El módulo Columbus de la Agencia Espacial Europea fue fabricado en las instalaciones de Airbus Defensa y Espacio en Bremen, Alemania, junto con muchos otros contratistas localizados por toda Europa.[93]​ Los otros módulos fabricados por la ESA—Harmony, Tranquility, el MPLM Leonardo, y la Cupola—fueron fabricados en la fabrica de Thales Alenia Space en Turín, Italia. Los módulos fueron transportados en avión al SSPF del Centro Espacial Kennedy para el procesamiento previo al lanzamiento.[94]​
+El Módulo Japonés de Experimentos Kibō, fue fabricado entre varias instalaciones tecnológicas de Japón, el Centro Espacial Tsukuba de la NASDA (actual JAXA), y en el Instituto de Ciencias Espaciales y Astronáuticas. El módulo Kibo fue transportado por barco y avión al SSPF.[95]​
+El Sistema de Mantenimiento Móvil, que consiste en el Canadarm2 y Dextre, fue fabricado en varias instalaciones en Canadá (como el Laboratorio David Florida) y Estados Unidos, bajo un contrato con la Agencia Espacial Canadiense.[96]​ La base móvil que conecta el Canadarm2 mediante raíles a la estación fue construida por Northrop Grumman.
+
+
+=== Ensamblaje ===
+
+El ensamblaje de la Estación Espacial Internacional, uno de los grandes esfuerzos en arquitectura espacial, comenzó su andadura en 1998.[104]​ Los módulos rusos fueron lanzados y acoplados robóticamente con la excepción del Rassvet. Todos los demás módulos fueron llevados por el Transbordador Espacial e instalados por miembros de la tripulación de la ISS y el transbordador utilizando el Canadarm2 (SSRMS) y actividades extravehiculares (EVAs). A 5 de junio de 2011 se habían añadido 159 componentes durante más de 1000 horas de EVA (ver paseos espaciales de la ISS). 127 de estos fueron realizados desde la estación y 32 desde los transbordadores.[105]​ Durante construcción la hubo que tener en cuenta en todo momento el ángulo beta de la estación.[106]​
+El primer módulo de la ISS, Zarya, fue lanzado el 20 de noviembre de 1998 en un cohete Proton ruso.[107]​ Proporcionaba propulsión, control de actitud, comunicaciones y energía eléctrica pero carecía de las funciones de soporte vital a largo plazo. Dos semanas después, el módulo pasivo de la NASA Unity fue lanzado a bordo de la misión STS-88 del Transbordador Espacial y acoplado a Zarya por los astronautas durante EVAs.[98]​[108]​ Este módulo tenía dos Adaptadores de Acoplamiento Presurizados (PMAs), uno lo conecta permanentemente con Zarya y el otro permitía al Transbordador Espacial acoplarse a la estación. En aquel momento, la estación rusa Mir seguía estando ocupada y la ISS se mantuvo vacía dos años.
+El 12 de julio del 2000, el Zvezda fue lanzado a la órbita. Sus paneles solares y antena de comunicaciones fueron desplegados mediante comandos preprogramados. En ese momento pasó a ser el objetivo pasivo para un encuentro orbital con Zarya y Unity manteniendo su órbita mientras el vehículo Zarya-Unity realizaba las maniobras y el atraque utilizando los sistemas automatizados rusos. El ordenador de a bordo de Zarya transfirió el control de la estación al de Zvezda poco después del atraque. Zvezda añadía dormitorios, baño, cocina, depuradores de CO2, deshumidificador, generadores de oxígeno, equipamiento de ejercicio y comunicaciones por voz y vídeo con control de misión. Esto permitió la ocupación permanente de la estación.[109]​[110]​
+La primera tripulación, la Expedición 1, llegó a la estación en noviembre del 2000 en la Soyuz TM-31. Al final del primer día en la estación, el astronauta Bill Shepherd solicitó el uso del indicativo de radio "Alpha", que él y el cosmonauta  Krikaliov preferían al incómodo "International Space Station".[111]​ El nombre "Alpha" se había utilizado para la estación a principios de los 90,[112]​ y su uso fue autorizado para la duración de la Expedición 1.[113]​ Shepherd había estado abogando por el uso de un nuevo nombre ante los administradores del programa desde hacía tiempo. Refiriéndose a una tradición naval en una rueda de prensa anterior al lanzamiento declaró: "Desde hace miles de años, los humanos se han hecho a la mar en barcos. La gente ha diseñado y construido embarcaciones, botadas con el sentimiento de que un nombre le traerá buena suerte a la tripulación y éxito en su viaje."[114]​ Yuri Semenov, por aquel entonces el presidente de la Corporación Espacial Energía, se oponía al nombre "Alpha" apoyándose en que Mir fue la primera estación espacial modular, por lo que los nombres "Beta" o "Mir 2" habrían sido más adecuados para la ISS.[113]​[115]​[116]​
+La Expedición 1 llegó entre los vuelos STS-92 y STS-97. Estas dos misiones del transbordador añadieron segmentos a la estructura de armazón integrada, que proporcionaba comunicaciones de banda Ku, control de actitud adicional para la masa del segmento orbital estadounidense USOS, y paneles solares para complementar los cuatro existentes en la estación.[117]​
+Durante los dos años siguientes la estación continuó expandiéndose. Un cohete Soyuz-U llevó el módulo de acople Pirs. Los Transbordadores Espaciales Discovery, Atlantis, y Endeavour llevaron el laboratorio Destiny y la esclusa Quest, además del brazo robot principal, el Canadarm2, y varios segmentos más de la estructura de armazón integrada.
+El calendario de ampliación fue interrumpido por el parón de vuelos que siguió al desastre del Columbia en 2003. Los transbordadores se mantuvieron en tierra hasta 2005 reanudando los vuelos con el Discovery en la misión STS-114.[118]​
+El ensamblaje continuó en 2006 con la llegada del Atlantis en la STS-115, que llevó un segundo par de paneles solares. Varios segmentos del armazón y un tercer par de paneles solares fueron llevados en las misiones STS-116, STS-117, y STS-118. Como resultado de la ampliación de la capacidad de generación de energía de la estación, se pudieron acomodar más módulos presurizados, añadiendo el nodo Harmony y el laboratorio europeo Columbus. Estos fueron seguidos rápidamente por los primeros dos componentes del Kibō. En marzo de 2009, el STS-119 completó la instalación de la estructura de armazón integrada con la instalación del cuarto y último par de paneles solares. La última sección de Kibō fue llevada en julio de 2009 en la STS-127, seguida por el módulo ruso Poisk. El tercer nodo, Tranquility, fue llevado en febrero de 2010 por el Endeavour durante la STS-130, junto con la Cúpula, seguido en mayo de 2010 por el penúltimo módulo ruso, Rassvet. Rassvet fue llevado por el Atlantis en la STS-132 a cambio del lanzamiento del Zarya, módulo financiado por Estados Unidos, a bordo de un cohete Proton en 1998.[119]​ El último módulo presurizado del USOS, Leonardo, fue llevado a la estación en febrero de 2011 en el último vuelo del Discovery, STS-133.[120]​ El espectrómetro magnético alfa fue llevado por el Endeavour en la STS-134 ese mismo año.[121]​
+A junio de 2011, la estación estaba formada por 15 módulos presurizados y la estructura de armazón integrada. Aún faltan por lanzar cinco módulos, incluyendo el Nauka con el Brazo Robótico Europeo, el Prichal, y dos módulos llamados NEM-1 y NEM-2.[122]​ A fecha de marzo de 2021, está programado que el módulo ruso de investigación, Nauka, se lance en la primavera de 2021,[123]​[124]​[125]​ junto con el Brazo Robótico Europeo que tendrá la capacidad de recolocarse en diferentes partes de los módulos rusos de la estación.[126]​
+La masa bruta de la estación ha cambiado con el tiempo. La masa total de lanzamiento de los módulos que se encuentran en órbita es de aproximadamente 419 725 kg (a 12 de enero de 2021).[2]​ La masa de los experimentos, piezas de repuesto, efectos personales, tripulación, comida, ropa, combustibles, agua, gases, naves acopladas y otros elementos suman al total de la masa de la estación.
+
+
+== Estructura ==
+
+La ISS es una estación espacial modular de tercera generación.[127]​[128]​ Las estaciones modulares permiten el añadido o eliminación de módulos de la estructura facilitando una mayor flexibilidad.
+A continuación se muestra un diagrama con los componentes principales de la estación. Los recuadros azules representan secciones presurizadas accesibles por la tripulación sin utilizar trajes espaciales. La estructura no presurizada de la estación se indica en rojo. Otros componentes se muestran en amarillo. El nodo Unity está conectado directamente al laboratorio Destiny pero se muestran separados por claridad.[129]​
+
+
+=== Módulos presurizados ===
+
+
+==== Zarya ====
+
+Zarya (en ruso, Заря́, lit. 'Amanecer'), también conocido como el Bloque Funcional de Carga o FGB (en ruso, "Функционально-грузовой блок", lit. 'Funktsionalno-gruzovoy blok', o ФГБ), fue el primer módulo de la ISS en ser lanzado.[130]​ El FGB proveyó energía eléctrica, almacenamiento, propulsión y guiado durante la primera fase del ensamblado. Tras el lanzamiento y ensamblaje en órbita de otros módulos más especializados que sustituían sus funcionalidades, Zarya  se utiliza en la actualidad principalmente como almacén, tanto en el interior como en los tanques de combustible exteriores. El Zarya desciende de la nave TKS diseñado para el programa Salyut ruso. El nombre Zarya, que significa "amanecer",[130]​ le fue dado al FGB porque significaba el comienzo de una nueva era para la cooperación internacional en el espacio. A pesar de que fue construido por una empresa rusa el dueño del módulo es Estados Unidos.[131]​
+Zarya fue construido entre diciembre de 1994 y enero de 1998 en el Centro Estatal Espacial de Investigación y Desarrollo Jrúnichev de Moscú[130]​ para una vida útil de un mínimo de 15 años y lanzado el 20 de noviembre de 1998 en un cohete Proton ruso desde el Sitio 81 del Cosmódromo de Baikonur en Kazajistán  a una órbita de 400 km de altura. Después de que Zarya alcanzase la órbita, se lanzó la misión STS-88 el 4 de diciembre de 1998 para acoplar el módulo Unity.
+
+
+==== Unity ====
+
+El módulo de conexión Unity, también conocido como Nodo 1, fue el primer componente de la ISS construido por Estados Unidos. Conecta los segmentos ruso y el estadounidense de la estación y es donde la tripulación come junta.
+El módulo tiene forma cilíndrica, con seis puertos de atraque (proa, popa, babor, estribor, cénit, y nadir) facilitando las conexiones con otros módulos. Unity mide 4.57 metros de diámetro, 5.47 metros de largo, está hecho de acero y fue construido para la NASA por Boeing en una instalación del Marshall Space Flight Center en Huntsville, Alabama. Unity es el primero de los tres módulos de conexión; los otros dos son Harmony y Tranquility.[132]​
+Unity fue llevado a la órbita como la carga principal del Transbordador Espacial Endeavour en la misión STS-88, la primera misión del transbordador espacial dedicada a la construcción de la estación. El 6 de diciembre de 1998, la tripulación del STS-88 acopló el PMA de popa del Unity con el puerto frontal del módulo Zarya.[133]​ Esta fue la primera conexión entre dos módulos de la estación.
+
+
+==== Zvezda ====
+
+Zvezda (en ruso, Звезда́, lit. 'Estrella'), Salyut DOS-8, también conocido como el Módulo de Servicio Zvezda, es un módulo de la ISS. Fue el tercer módulo en ser lanzado y provee todos los sistemas de soporte vital, algunos de los cuales están suplementados en el USOS, así como alojamiento para dos miembros de la tripulación. Es el centro estructural y funcional del Segmento Orbital Ruso. Aquí se reúne la tripulación para gestionar las emergencias en la estación.[134]​[135]​[136]​
+La estructura básica del Zvezda, conocida como "DOS-8", fue construida inicialmente a mediados de los 1980 para constituir el núcleo de la estación espacial Mir-2. Esto significa que el Zvezda tiene una disposición similar al núcleo (DOS-7) de la Mir. De hecho durante un tiempo estuvo etiquetado como Mir-2 en la fábrica. Los antecedentes al diseño nos llevan hasta las estaciones Salyut originales. La estructura se completó en febrero de 1985 y el equipamiento principal estaba instalado en octubre de 1986.
+El cohete utilizado en su lanzamiento a la ISS llevaba publicidad, el logo de Pizza Hut,[137]​[138]​[139]​ por el que supuestamente llegaron a pagar más de 1 millón de dólares.[140]​ El dinero ayudó a mantener el Centro Estatal Espacial de Investigación y Desarrollo Jrúnichev y las agencias de publicidad rusas que orquestaron el evento.[138]​
+El 26 de julio del 2000, Zvezda se convirtió en el tercer componente de la ISS cuando se acopló a la popa del Zarya. (el módulo Unity ya había sido acoplado al Zarya.) Más adelante, los ordenadores del Zvezda recibieron el testigo de los del Zarya y pasaron a controlar la estación.[141]​
+
+
+==== Destiny ====
+
+El módulo Destiny, también conocido como el laboratorio estadounidense, es la instalación principal para la investigación de Estados Unidos a bordo de la Estación Espacial Internacional.[142]​[143]​ Estuvo atracado en el Unity y activado durante un periodo de cinco días en febrero de 2001.[144]​ Destiny es la primera estación de investigación permanente en órbita de la NASA desde que se abandonó el Skylab en febrero de 1974.
+Boeing comenzó la construcción del laboratorio de 14.5 toneladas en 1995 en las Instalaciones de Ensamblaje de Michoud y después en el Centro Marshall de Vuelos Espaciales en Huntsville, Alabama.[142]​ Destiny fue transportado al Kennedy Space Center en Florida en 1998, y fue entregado a la NASA para las preparaciones previas al lanzamiento en agosto del 2000. Fue lanzado el 7 de febrero de 2001 a bordo del Transbordador Espacial Atlantis en la misión STS-98.[144]​
+
+
+==== Quest ====
+
+La Esclusa Conjunta Quest, anteriormente conocida como el Módulo de Esclusa Conjunta, es la esclusa principal de la estación. Quest fue diseñada para soportar actividad extravehicular realizada con los trajes Unidad de Movilidad Extravehicular del Transbordador Espacial (EMU) y los Traje espacial Orlan. La esclusa fue lanzada en la misión STS-104 el 14 de julio de 2001.[145]​ Antes de que Quest fuese acoplada, los paseos espaciales rusos solo podían realizarse desde el módulo de servicio Zvezda, y los estadounidenses desde un Transbordador Espacial acoplado. La llegada del módulo de acople Pirs el 17 de septiembre de 2001 proveyó otra esclusa desde la que realizar paseos espaciales con los trajes Orlan.[146]​
+
+
+==== Pirs and Poisk ====
+
+Pirs (en ruso, Пирс, lit. 'Muelle') y Poisk (en ruso, По́иск, lit. 'Buscar') son módulos rusos de esclusa, cada uno tiene dos escotillas idénticas. Una escotilla de la Mir que se abría hacia el exterior falló después de abrirse con fuerza debido a una pequeña diferencia de presión.[147]​ Todas las escotillas de EVA de la estación se abren hacia el interior evitando este riesgo. Pirs fue utilizado para almacenar, revisar y rehabilitar trajes rusos Orlan y proveía una entrada de contingencia para la tripulación que usase los trajes americanos, ligeramente más abultados. Los puertos de acople encontrados en los extremos de estos módulos permiten el acople de naves Soyuz y Progress, así como la transferencia automática de combustible desde y hacia el segmento ruso de la estación.[148]​
+Pirs fue lanzado el 14 de septiembre de 2001, como la Misión de Ensamblaje de la ISS 4R, en un cohete Soyuz-U ruso, utilizando una Progress (nave) modificada, Progress M-SO1, como etapa superior.[149]​  Poisk fue lanzado el 10 de noviembre de 2009[150]​[151]​ acoplado a otra Progress modificada, llamada Progress M-MIM2, en un Soyuz-U desde el Launch Pad 1 en el Cosmódromo de Baikonur en Kazajistán.
+
+
+==== Harmony ====
+
+Harmony, también conocido como Nodo 2, es el "centro neurálgico" de la ISS. Conecta los módulos de laboratorio de Estados Unidos, Europa y Japón, además de proveer energía eléctrica y conexiones de datos. Aquí duermen cuatro de los miembros de la tripulación.[152]​
+Harmony fue lanzado con éxito a bordo de la misión STS-120 el 23 de octubre de 2007.[153]​[154]​ Tras estar atracado temporalmente a babor del Unity,[155]​ fue movido a su localización permanente en la proa del laboratorio Destiny el 14 de noviembre de 2007.[156]​ Harmony añadió 75.5 m3 al volumen de la estación, un aumento de casi el 20%, de 424.75 m3 a 500.25 m3. La instalación de este módulo significó que, desde la perspectiva de la NASA, el núcleo del segmento estadounidense de la estación estaba completo.[157]​
+
+
+==== Tranquility ====
+
+Tranquility, también conocido como el Nodo 3, es un módulo de la ISS que contiene sistemas de control ambientales, sistemas de soporte vital, un baño, equipamiento de ejercicio y una cúpula de observación.
+Thales Alenia Space construyó el módulo para la ESA y la Agencia Espacial Italiana. Una ceremonia el 20 de noviembre de 2009 transfirió la titularidad del módulo a la NASA.[158]​ El 8 de febrero de 2010, la NASA lanzó el módulo en la misión STS-130 del Transbordador Espacial.[159]​
+
+
+==== Columbus ====
+
+Columbus es un laboratorio científico que forma parte de la ISS y representa la mayor contribución a la estación por parte de la Agencia Espacial Europea (ESA).
+El laboratorio Columbus voló al Centro Espacial Kennedy (KSC) en Florida en un Airbus Beluga. Fue lanzado a bordo del Transbordador Espacial Atlantis el 7 de febrero de 2008 en la misión STS-122. Está diseñado para un mínimo de diez años de operación. El módulo se controla desde el Centro de Control Columbus, que se encuentra en el Centro de Operaciones Espaciales Alemán, parte del German Aerospace Center en Oberpfaffenhofen cerca de Munich, Alemania.
+La Agencia Espacial Europea invirtió 1400 millones de euros en la construcción del Columbus, incluida la infraestructura de tierra necesaria para el control del módulo y los experimentos que se realizan en su interior.[160]​
+
+
+==== Kibō ====
+
+El Módulo de Experimentos Japonés (JEM), conocido como Kibō (きぼう, 'Kibō'?  lit. 'Esperanza'), es un módulo científico japonés desarrollado por JAXA. Es el módulo más grande de la estación y está acoplado al Harmony. Las primeras dos piezas del Kibō fueron lanzadas en las misiones del Transbordador Espacial STS-123 y STS-124. El tercer y final componente fue lanzado en la STS-127.[161]​
+
+
+==== Cupola ====
+
+La Cupola es un módulo construido por la ESA que sirve de observatorio. Su nombre proviene de la palabra italiana cupola, que significa "cúpula". Sus siete ventanas se utilizan para realizar experimentos, acoples y observaciones de la tierra. Fue lanzada a bordo de la misión STS-130 del Transbordador Espacial el 8 de febrero de 2010 y acoplado al Tranquility (Nodo 3). Con el acople de la Cupola, la construcción de la ISS alcanzó el 85% de completitud. La ventanilla central tiene un diámetro de 80 cm.[162]​
+
+
+==== Rassvet ====
+
+Rassvet (en ruso, Рассве́т, lit. 'Amanecer'), también conocido como el MRM-1 (Mini-Research Module 1, que significa Mini-Módulo de Investigación 1) (en ruso, Малый исследовательский модуль, МИМ 1) y anteriormente conocido como el DCM (Docking Cargo Module, que significa Modulo de Carga y Acoplamiento), es un componente de la ISS. El diseño del módulo es similar al Mir Docking Module lanzado en la misión STS-74 en 1995. Rassvet se utiliza principalmente para el almacenamiento de carga y como puerto de acople para naves visitantes. Voló a la ISS a bordo del Transbordador Espacial Atlantis en la misión STS-132 el 14 de mayo de 2010,[163]​ y fue conectado a la ISS el 18 de mayo.[164]​ El 28 de junio de 2010, la Soyuz TMA-19 realizó el primer acoplamiento con el módulo.[165]​
+
+
+==== Leonardo ====
+
+El Módulo Multipropósito Permanente Leonardo (PMM) es un módulo de la ISSis. Fue lanzado a bordo del Transbordador Espacial en la misión STS-133 el 24 de febrero de 2011 e instalado el 1 de marzo.[166]​ Leonardo se utiliza principalmente para el almacenamiento de repuestos, deshechos y provisiones de la ISS que hasta ese momento se almacenaban en diferentes lugares por toda la estación. El PMM Leonardo fue un Módulo Logístico Multipropósito (MPLM) antes de 2011 pero fue modificado a su actual configuración. Anteriormente se utilizaba como uno de los tres MPLM que llevaban carga hacia y desde la estación a bordo del Transbordador Espacial.[167]​ El módulo lleva el nombre del polímata italiano Leonardo da Vinci.
+
+
+==== Módulo de Actividad Ampliable Bigelow ====
+
+El Módulo de Actividad Ampliable Bigelow (BEAM) es un módulo experimental expansible desarrollado por Bigelow Aerospace, bajo un contrato con la NASA, para realizar pruebas como módulo temporal de la ISS desde 2016 y hasta 2020 como mínimo. Llegó a la ISS el 10 de abril de 2016,[168]​ y fue acoplado a la estación el 16 de abril, siendo expandido y presurizado el 28 de mayo de 2016.[169]​
+
+
+==== Adaptadores de Acoplamiento Internacional ====
+
+El Adaptador de Acoplamiento Internacional (IDA, International Docking Adapter) es un adaptador de sistemas de acople desarrollado para convertir el APAS-95 (Androgynous Peripheral Attach System) al Sistema de Acople de la NASA (NDS)/Sistema de Acople Internacional Estándar (IDSS). Se ha colocado un IDA en cada uno de los dos Adaptadores de Acoplamiento Presurizados (PMAs) libres de la estación, ambos conectados al módulo Harmony.
+IDA-1 se perdió debido a un fallo en el lanzamiento de la SpaceX CRS-7 el 28 de junio de 2015.[170]​[171]​[172]​
+IDA-2 fue lanzado en la SpaceX CRS-9 el 18 de julio de 2016.[173]​ Fue acoplado al PMA-2 durante un paseo espacial el 19 de agosto de 2016.[174]​ El primer acople fue realizado con la llegada de la Crew Dragon Demo-1 el 3 de marzo de 2019.[175]​
+IDA-3 fue lanzado en la SpaceX CRS-18 en julio de 2019.[176]​ Fue construido en su mayoría utilizando piezas de repuesto para acelerar el proceso.[177]​ Fue acoplado y conectado al PMA-3 durante un paseo espacial el 21 de agosto de 2019.[178]​
+
+
+==== Módulo de Esclusa Bishop ====
+El Módulo de Esclusa Bishop (anteriormente conocido Módulo de Esclusa de NanoRacks) es un módulo de esclusa financiado comercialmente que será llevado a la ISS en la SpaceX CRS-21 en diciembre de 2020.[179]​[180]​ El módulo ha sido construido por NanoRacks, Thales Alenia Space, y Boeing.[181]​ Se utilizará para desplegar CubeSats, SmallSats, y otras cargas externas para la NASA, CASIS, y otros clientes comerciales y gubernamentales.[182]​
+
+
+=== Elementos no presurizados ===
+
+La ISS tiene un gran número de componentes externos que no requieren estar presurizados. El más grande de ellos es la Estructura de Armazón Integrada (ITS), en la que están montados los paneles solares y radiadores principales de la estación.[183]​ El ITS consiste en diez segmentos separados que forman una estructura de 108,5 m de largo.[104]​
+Se pretendía que la estación tuviese varios componentes externos más pequeños como seis brazos robóticos, tres Plataformas de Almacenamiento Externas (ESPs) y cuatro Soportes de Logística ExPRESS (ELCs).[184]​[185]​ A pesar de que estas plataformas facilitan el despliegue y desarrollo de los experimentos (incluyendo el MISSE, el STP-H3 y la Misión de Repostaje Robótico) en el vacío aportando energía y la capacidad de procesar los datos localmente, su función principal es almacenar Unidades de Repuestos Orbitaless (ORUs) de repuesto. Las ORUs son piezas que pueden ser reemplazadas cuando fallan o llegan al final de su vida útil, incluyendo bombas, tanques de almacenamiento, antenas y unidades de baterías. Estas unidades son reemplazadas por astronautas durante sus actividades extravehiculares o por los brazos robóticos.[186]​ Varias misiones del Transbordador Espacial se dedicaron a llevar ORUs, incluyendo la STS-129,[187]​ STS-133[188]​ y STS-134.[189]​ A fecha de enero de 2011, solo se ha utilizado otro medio para el transporte de ORUs—la nave de carga japonesa HTV-2—que llevó un FHRC y CTC-2 en su sección expuesta (EP).[190]​
+
+También hay instalaciones más pequeñas de exposición montadas directamente a los módulos de laboratorio; la Instalación Expuesta del Kibō forma la parte externa del conjunto Kibō,[191]​ y una instalación en el laboratorio europeo Columbus provee conexiones de corriente y datos a experimentos como el EuTEF (Instalación Europea de Tecnología Expuesta)[192]​[193]​ y el Conjunto de Reloj Atómico en el Espacio.[194]​ Un instrumento de teledetección, SAGE III-ISS, fue llevado a la estación en febrero de 2017 a bordo de la CRS-10,[195]​ y el experimento NICER fue llevado a bordo de la CRS-11 en junio de 2017.[196]​ La carga útil más grande montada en el exterior de la estación es el Espectrómetro Magnético Alfa (AMS), un experimento de física de partículas lanzado en la STS-134 en mayo de 2011, y montado en el ITS. El AMS mide rayos cósmicos para buscar pistas de materia oscura y antimateria.[197]​[198]​
+La Plataforma Externa de Alojamiento de Carga commercial Bartolomeo, fabricada por Airbus, fue lanzada a bordo de la CRS-20 y acoplada al módulo europeo Columbus. Proveerá 12 espacios externos adicionales, ampliando los ocho del Soportes de Logística ExPRESS, diez del Kibō, y cuatro del Columbus. El sistema está diseñado para ser operado robóticamente y no necesitará de intervención manual de los astronautas. Se ha nombrado en honor al hermano pequeño de Cristóbal Colón.[199]​[200]​[201]​
+
+
+==== Brazos robóticos y grúas de carga ====
+
+La Estructura de Armazón Integrada sirve de base para el manipulador remoto principal de la estación, el Sistema de Mantenimiento Móvil (MSS), que está formado por tres componentes principales:
+
+Canadarm2, el brazo robótico más grande de la estación, tiene una masa de 1800 kg y se utiliza para: acoplar y manipular naves y módulos del USOS; sujetar miembros de la tripulación y equipamiento durante actividades extravehiculares; y mover el Dextre para realizar trabajos.[202]​
+Dextre es un manipulador robótico de 1560 kg que tiene dos brazos y un torso rotatorio, equipado con herramientas, luces y cámaras para reemplazar ORUs y realizar otras tareas que necesitan de un control más preciso.[203]​
+El Sistema de Base Móvil (MBS) es una plataforma que se mueve a lo largo de los raíles que se encuentran en el armazón de la estación. Sirve de base para el Canadarm2 y Dextre, permitiendo que los brazos alcancen cualquier parte del USOS.[204]​Se añadió un accesorio de agarre al Zarya en la STS-134 para permitir al Canadarm2 trasladarse al segmento orbital Ruso.[205]​ También en la STS-134 se instaló el Orbiter Boom Sensor System (OBSS) de 15,24 m, que se había usado en los transbordadores para inspeccionar el escudo térmico y que permite aumentar el alcance del MSS.[205]​ Los componentes del MSS se pueden manejar mediante control remoto por personal de tierra o de la ISS, realizando tareas en el exterior sin necesidad de paseos espaciales.
+El Sistema Manipulador Remoto Japonés, que se encarga de la instalación expuesta del Kibō,[206]​ fue lanzado en la STS-124 y está acoplado al Kibō.[207]​ El brazo es similar al del Transbordador Espacial en que está permanentemente acoplado en un extremo y en el otro tiene un enganche para el accesorio de agarre estándar.
+
+
+=== Componentes planeados ===
+
+
+==== Brazo Robótico Europeo ====
+
+El Brazo Robótico Europeo, que se encargará del Segmento Orbital Ruso, será lanzado junto con el Módulo de Laboratorio Multipropósito en 2021.[208]​ El ROS no necesita manipular naves o módulos porque todos se acoplan de forma automática y pueden ser desechados de la misma forma. La tripulación utiliza las dos grúas de carga Strela (en ruso, Стрела́, lit. 'Flecha') durante los paseos espaciales para mover equipamiento y otros cosmonautas en el exterior del ROS. Cada grúa Strela crane tiene una masa de 45 kg.
+
+
+==== Nauka ====
+
+Nauka (en ruso, Нау́ка, lit. 'Ciencia'), también conocido como el Módulo de Laboratorio Multipropósito (MLM), (Ruso: Многофункциональный лабораторный модуль, o МЛМ), es un componente de la ISS que aún no se ha lanzado al espacio. El MLM está financiado por Roscosmos. En los planes originales de la ISS, Nauka iba a usar la localización del Modulo de Carga y Acoplamiento (DSM), pero el DSM fue reemplazado posteriormente por el módulo Rassvet y movido al puerto nadir de Zarya. Se planificó que el Nauka se acoplase al puerto nadir del Zvezda, reemplazando el Pirs.[209]​[210]​
+El lanzamiento del Nauka, inicialmente planeado para el 2007, ha sido retrasado en repetidas ocasiones por diferentes razones.[211]​ A fecha de mayo de 2020, el lanzamiento está asignado para no antes de la primavera de 2021.[125]​ Tras esta fecha la garantía de algunos sistemas del Nauka se terminará.
+
+
+==== Prichal ====
+
+Prichal, también conocido como Módulo Uzlovoy o UM (en ruso, Узловой Модуль Причал, lit. 'Módulo Nodal de Atraque'),[212]​ es un módulo de 4 t[213]​ con forma esférica que permitirá el acople de dos módulos de energía y ciencia durante la fase final del ensamblaje de la estación, y proveerá al segmento ruso puertos de acople adicionales para recibir naves Soyuz MS y Progress MS. UM será lanzado en el tercer cuarto de 2021.[214]​ Será integrado con una versión especial de la nave de carga Progress y lanzado por un cohete Soyuz estándar, acoplándose al puerto nadir del módulo Nauka. Uno de los puertos está equipado con un sistema de acople híbrido activo que le permite acoplarse al MLM. Los restantes cinco puertos son híbridos pasivos permitiendo el acople de vehículos Soyuz y Progress así como módulos más pesados y naves futuras con sistemas de acople modificados. El módulo habría servido como el único elemento permanente del ahora cancelado OPSEK.[214]​[215]​[210]​
+
+
+==== Módulos de Ciencia y Energía 1 y 2 ====
+El Módulo de Ciencia y Energía 1, SPM-1 (del inglés Science Power Module 1, también conocido como NEM-1) y el Módulo de Ciencia y Energía 2, SPM-2 (del inglés Science Power Module 2, también conocido como NEM-2) son dos módulos cuya llegada no se espera hasta mínimo 2024.[216]​ Se acoplarán al Prichal, que se espera que se acople al Nauka cuando ambos sean lanzados.[210]​ Si se cancelase el Nauka, entonces Prichal, SPM-1, y SPM-2 se acoplarían al puerto cénit del Zvezda. SPM-1 y SPM-2 también serían componentes esenciales de la estación OPSEK.[217]​
+
+
+==== Segmento de Axiom ====
+En enero de 2020, la NASA otorgó a Axiom Space un contrato para construir un módulo comercial para la ISS con una fecha de lanzamiento de 2024. El contrato existe bajo el programa NextSTEP2. NASA negoció un contrato a precio fijo con Axiom para construir y llevar el módulo, que se acoplará al puerto frontal del módulo Harmony (Nodo 2). A pesar de que la NASA solo ha contratado un módulo, Axiom pretende construir un segmento entero consistiendo de cinco módulos, incluyendo un nodo, una instalación de investigación y fabricación orbital, un hábitat para la tripulación, y un observatorio con grandes ventanales. Se espera que el segmento de Axiom aumenta ampliamente las capacidades y el valor de la estación, permitiendo tripulaciones más grandes y vuelos privados por parte de otras organizaciones. Axiom planea convertir el segmento en una estación independiente cuando la ISS sea desmantelada, con la intención de que actuase como su sucesora.[218]​[219]​[220]​
+
+
+=== Componentes propuestos ===
+
+
+==== Xbase ====
+Construido por Bigelow Aerospace. 
+En agosto de 2016 Bigelow negoció un acuerdo con la NASA para desarrollar un prototipo a tamaño real del Deep Space Habitation basado en el B330 bajo la segunda fase del "Next Space Technologies for Exploration Partnerships". El módulo se llama Expandable Bigelow Advanced Station Enhancement (XBASE) y Bigelow espera probarlo acoplándolo a la Estación Espacial Internacional.[221]​
+
+
+==== Independence-1 ====
+La empresa NanoRacks, tras finalizar su contrato con la NASA, y tras ganar uno nuevo en la Fase 2 del NextSTEP, está desarrollando su concepto del Independence-1 (anteriormente conocido como Ixion), que convertiría tanques de etapas de cohete gastados en áreas habitables, para ser probado en el espacio. En la primavera de 2018, Nanoracks anunció que Ixion ahora se conoce como Independence-1, el primer 'puesto avanzado' de su programa "Space Outpost".[222]​[221]​[223]​
+
+
+==== Demostración de Centrifugador Nautilus-X ====
+
+Si se construye, será la primera demostración del concepto en el espacio a suficiente escala como para generar una fuerza notable. Será diseñado para ser el módulo de habitación de la ISS donde dormiría la tripulación.
+
+
+=== Componentes cancelados ===
+
+Varios módulos planificados para la estación han sido cancelados a lo largo del programa. Las razones incluyen límites de presupuesto, módulos que terminan siendo innecesarios, y rediseños de la estación tras el desastre del Columbia. El Módulo de Acomodación de Centrifugadores estadounidense habría alojado experimentos científicos en varios niveles de gravedad artificial.[224]​ El Módulo de Habitación estadounidense habría servido como el alojamiento para los astronautas. En su lugar están dispersos por la estación.[225]​ El Módulo de Control Interino y el Módulo de Propulsión de la ISS habrían reemplazado las funciones del Zvezda en caso de un fallo en el lanzamiento.[226]​ Dos Módulos de Investigación Rusos iban a realizar investigaciones científicas.[227]​ Se habrían acoplado a un Módulo de Acople Universal ruso.[228]​ La Plataforma de Ciencia y Energía habría proporcionado energía el Segmento Orbital Ruso independientemente de los paneles solares principales de la estación.
+
+
+== Sistemas de a bordo ==
+
+
+=== Soporte vital ===
+
+Los sistemas críticos son el de control atmosférico, el de suministro de agua, las instalaciones de suministro de comida, el equipamiento de saneamiento e higiene, y el equipamiento de detección y supresión de incendios. Los sistemas de soporte vital del Segmento Orbital Ruso están contenidos en el módulo de servicio Zvezda. Algunos de estos sistemas están complementados por equipamiento equivalente en el Segmento Orbital Estadounidense (USOS). El laboratorio Nauka tiene un conjunto completo de sistemas de soporte vital.
+
+
+==== Sistema de control atmosférico ====
+
+La atmósfera a bordo de la ISS es similar a la de la Tierra.[229]​ La presión habitual del aire en la ISS es de 101,3 kPa;[230]​ la misma que a la altura del nivel del mar en la Tierra. Una atmósfera similar a la terrestre ofrece beneficios para la comodidad de la tripulación, y es mucho más segura que una compuesta enteramente de oxígeno, debido al elevado riesgo de incendios como el responsable de las muertes de la tripulación del Apolo 1.[231]​ Estas condiciones atmosféricas se han mantenido en todas las naves rusas y soviéticas.[232]​
+El sistema Elektron del Zvezda y un sistema similar en el Destiny generan el oxígeno a bordo de la estación.[233]​ La tripulación tiene una opción de reserva que consiste en oxígeno embotellado y botes de Generación de Oígeno mediante Combustibles Sólidos (SFOG), un sistema de generación química de oxígeno.[234]​ El dióxido de carbono es retirado del aire por el sistema Vozdukh en el Zvezda. Otros subproductos del metabolismo humano, como el metano de los intestinos o el amoníaco del sudor, se eliminan mediante filtros de carbón activado.[234]​
+Parte del sistema de control atmosférico del ROS es el suministro de oxígeno. La redundancia triple la aporta el sistema Elektron, los generadores sólidos y el oxígeno almacenado. La principal fuente de oxígeno es la unidad Elektron que produce O2 y H2 mediante electrólisis de agua expulsando el H2 fuera de la estación. El sistema de 1 kW utiliza aproximadamente un litro de agua por miembro de la tripulación por día. Esta agua puede ser traída desde la Tierra o reciclada de otros sistemas. Mir fue la primera nave en utilizar agua reciclada para la producción de oxígeno. La fuente secundaria de oxígeno se obtiene mediante la combustión de los cartuchos Vika (ver ISS ECLSS). Cada 'vela' tarda 5–20 minutos en descomponerse a 450−500 C, produciendo 600 L de O2. Esta unidad se opera de forma manual.[235]​[236]​
+El Segmento Orbital Estadounidense tiene fuentes redundantes de oxígeno, de un tanque presurizado en el módulo de esclusa Quest llevado en 2001, suplementado diez años después por el Advanced Closed-Loop System (ACLS) construido por la ESA en el módulo Tranquility (Nodo 3), que produce O2 mediante electrólisis.[237]​ El hidrógeno producido se combina con el dióxido de carbono de la atmósfera interna para generar agua y metano.
+
+
+=== Sistema de energía y control térmico ===
+
+Los paneles solares de doble cara aportan energía eléctrica a la ISS. Las células solares reciben luz directamente del sol por una cara y luz reflejada de la Tierra en la otra permitiendo una mayor eficiencia y una menor temperatura de operación que las células de una cara que son habituales en la Tierra.[238]​
+El segmento ruso de la estación, como la mayoría de las naves espaciales, utiliza 28 V DC obtenidos de cuatro paneles solares rotatorios montados en Zarya y Zvezda. El USOS utiliza 130–180 V DC de los paneles solares del armazón, la energía se estabiliza y distribuye a 160 V DC y luego se convierte a los 124 V DC necesarios. El mayor voltaje de distribución permite conductores más pequeños y ligeros a expensas de la seguridad de la tripulación. Ambos segmentos comparten energía mediante conversores.
+Los paneles solares del USOS en su distribución actual producen un total de entre 75 y 90 kilovatios.[239]​ Estos paneles se mantienen orientados al sol para maximizar la generación de energía. Cada panel tiene un área de 375 m2 y mide 58 m de largo. En la configuración completa, los paneles solares se mantienen apuntando al sol mediante la rotación del cardán alpha una vez cada órbita; el cardán beta ajusta pequeños cambios en el ángulo del Sol respecto al plano orbital. Durante la noche los paneles solares se alinean paralelos al suelo para reducir el impacto del arrastre aerodinámico sufrido a la relativamente baja altitud de la estación.[240]​
+Originalmente la estación utilizaba baterías de níquel-hidrógeno (NiH2) recargables para disponer de energía durante los 35 minutos que está eclipsada por la Tierra durante la órbita de 90 minutos. Las baterías se recargan cuando reciben luz solar durante la otra mitad de la órbita. Tenían una vida útil de 6.5 años (más de 37 000 ciclos de carga y descarga) y fueron reemplazadas con regularidad durante los planeados 20 años de vida de la estación.[241]​ Empezando en 2016, las baterías de níquel-hidrógeno fueron reemplazadas por baterías de iones de litio, que se espera que duren hasta el final del programa de la ISS.[242]​
+Los enormes paneles solares de la estación generan un gran potencial entre la estación y la ionosfera. Esto podría causar arcos eléctricos a través de las superficies aislantes de la estación y chispas en las superficies conductoras debido a la aceleración de los iones por parte de la envoltura de plasma de la estación. Para mitigar esto, las unidades de interruptor de plasma (PCU)s crean rutas para que la corriente pase de la estación al campo de plasma que la rodea.[243]​
+
+Los sistemas y experimentos de la estación consumen grandes cantidades de energía eléctrica y casi toda ella termina convertida en calor. Para mantener la temperatura interna en niveles aceptables se utiliza un Sistema de Control Térmico Pasivo (PTCS) formado por los materiales de las superficies externas, el aislamiento y las tuberías de calor. Si el PTCS no puede con la carga calorífica, el Sistema Externo de Control Térmico Activo (EATCS) mantiene la temperatura. El EATCS consiste en un circuito cerrado interno relleno de refrigerante no tóxico que se usa para refrigerar y deshumidificar el ambiente, que a su vez transfiere el calor a un bucle externo relleno de amoníaco. En los intercambiadores de calor, el amoníaco se bombea a los radiadores que emiten la temperatura como radiación infrarroja, y luego de vuelta a la estación.[244]​ El EATCS refrigera todos los módulos presurizados del USOS, así como las unidades principales de distribución de energía localizadas en los armazones S0, S1 y P1. Puede deshacerse de hasta 70 kW, mucho más que los 14 kW que permitía el Sistema Externo de Control Térmico Activo Temprano (EEATCS) a través del Regulador Temprano de Amoníaco (EAS, Early Ammonia Servicer), que fue lanzado en la misión STS-105 e instalado en el armazón P6.[245]​
+
+
+=== Comunicaciones y ordenadores ===
+
+Las comunicaciones por radio proveen telemetría y enlaces de datos para los experimentos entre la estación y los centros de control de misión. Las comunicaciones por radio también se utilizan durante los encuentros orbitales y para comunicaciones con audio y video entre la tripulación, controladores de vuelo y familiares. Como resultado, la ISS está equipada con sistemas de comunicación tanto internos como externos que cumplen diferentes propósitos.[246]​
+El Segmento Orbital Ruso se comunica directamente con tierra a través de la antena de radio Lira situada en el Zvezda.[6]​[247]​ La antena Lira también tiene la capacidad de utilizar el sistema de retransmisión de datos por satélite Luch.[6]​ Este sistema se fue deteriorando durante los años 1990 y no fue utilizado durante los primeros años de la ISS,[6]​[248]​[249]​ pero dos nuevos satélites Luch —Luch-5A y Luch-5B— fueron lanzados en 2011 y 2012 respectivamente para restaurar la capacidad operacional del sistema.[250]​ Otro sistema de comunicaciones ruso es el Voskhod-M, que permite comunicaciones internas entre los módulos Zvezda, Zarya, Pirs, Poisk, mientras que el USOS mantiene un enlace de radio VHF con los centros de control en tierra mediante antenas montadas en el exterior del Zvezda.[251]​
+El Segmento Orbital Estadounidense (USOS) hace uso de dos enlaces de radio diferentes montados en la estructura del armazón Z1: los sistemas de banda S (audio) y banda Ku (audio, video y datos). Estas transmisiones se enrutan a través del Sistema de Satélites de Seguimiento y Retransmisión de Datos estadounidense (TDRSS) encontrados en la órbita geoestacionaria, permitiendo comunicaciones casi ininterrumpidas con el Centro de Control de Misión Christopher C. Kraft Jr. (MCC-H) en Houston.[6]​[23]​[246]​ Los canales de datos del Canadarm2, el laboratorio europeo Columbus y el japonés Kibō también se enrutaban originalmente a través de los sistemas de banda S y banda Ku, con el objetivo de complementar el TDRSS con el European Data Relay System y un sistema similar japonés en la tarea de reenviar los datos.[23]​[252]​ Las comunicaciones entre los módulos utilizan una red inalámbrica interna.[253]​
+
+Los astronautas y cosmonautas utilizan UHF radio durante EVAs y para comunicarse con otras naves durante el acoplamiento y desacoplamiento de la estación.[6]​ Las naves automatizadas están equipadas con sus propios sistemas de comunicaciones; el ATV utiliza un laser y el Equipamiento de Comunicaciones Próximas (Proximity Communications Equipment) del Zvezda para acoplarse con precisión.[254]​[255]​
+La ISS está equipada con unos 100 portátiles IBM/Lenovo ThinkPad y HP ZBook 15. Los portátiles han funcionado bajo sistemas operativos Windows 95, Windows 2000, Windows XP, Windows 7, Windows 10 y Linux.[256]​ Cada ordenador es un producto comprado al por menor que luego se modifica para operar con seguridad en el espacio incluyendo actualizaciones a los conectores, energía y refrigeración para trabajar con el sistema de 28V DC y la ingravidez. El calor generado por los portátiles no aumenta pero se mantiene en su vecindad, necesitando de ventilación adicional. Los portátiles a bordo de la estación se conectan a la red LAN inalámbrica mediante Wi-Fi y ethernet, que se conecta a tierra mediante la  banda Ku band. Originalmente el sistema permitía velocidades de 10 Mbit/s de descarga y 3 Mbit/s de subida desde la estación,[257]​[258]​ pero la NASA amplió el sistema a finales de agosto de 2019 aumentando la velocidad hasta los 600 Mbit/s.[259]​[260]​ Los discos duros de los portátiles fallan ocasionalmente requiriendo reemplazos.[261]​ Otros fallos de hardware ocurrieron en 2001, 2007 y 2017; algunos necesitando de EVAs para cambiar módulos externos.[262]​[263]​[264]​[265]​
+El sistema operativo utilizado para las funciones críticas de la estación es la distribución Linux, Debian.[266]​ La migración desde Microsoft Windows se realizó en mayo de 2013 por razones de fiabilidad, estabilidad y flexibilidad.[267]​
+En 2017 se lanzó un SG100 Cloud Computer a la ISS como parte de la misión OA-7.[268]​ Fue fabricado por el NCSIST de Taiwán y diseñado en colaboración con Academia Sinica, y la Universidad Nacional Central bajo un contrato con la NASA.[269]​
+
+
+== Operaciones ==
+
+
+=== Expediciones ===
+
+Cada tripulación permanente recibe un número de expedición. Las expediciones duran hasta seis meses, desde el lanzamiento hasta el desacople, un 'incremento' cubre el mismo periodo de tiempo, pero incluye las naves de carga y todas las actividades. Entre la Expedición 1 y la 6 consistían en tripulaciones de tres personas. Desde la Expedición 7 a la 12 fueron reducidas al mínimo operativo de dos personas tras la destrucción del Transbordador Espacial Columbia. Desde la Expedición 13 la tripulación aumentó gradualmente hasta seis personas alrededor de 2010.[270]​[271]​ Con la llegada de tripulaciones a bordo de vehículos comerciales estadounidenses a partir del año 2020,[272]​ la cantidad aumentará a siete personas, el objetivo inicial durante el diseño de la ISS.[273]​[274]​
+Gennady Padalka, miembro de las expediciones 9, 19/20, 31/32, y 43/44, y Comandante de la Expedición 11, ha estado más tiempo en el espacio que cualquier otra persona, un total de 878 días, 11 horas y 29 minutos.[275]​ Peggy Whitson tiene el récord en Estados Unidos con 665 días, 22 horas y 22 minutos durante las expediciones 5, 16, y 50/51/52.[276]​
+
+
+=== Vuelos privados ===
+
+Los individuos que viajan al espacio sin ser astronautas o cosmonautas profesionales son denominados participantes del vuelo espacial (spaceflight participant) por Roscosmos y la NASA, y se les llama generalmente "turistas espaciales", un término que generalmente no les gusta.[nota 1]​ Los siete viajaron a la ISS a bordo de una nave rusa Soyuz. Cuando la tripulación profesional rota y no es divisible entre tres, el asiento libre lo vente MirCorp a través de Space Adventures. Cuando se retiró el Transbordador Espacial en 2011, y la tripulación de la estación se mantuvo en seis personas, hubo un parón en el turismo espacial. Como todos los socios del programa de la ISS necesitaban la nave Soyuz para el acceso a la estación, la cadencia de vuelos de la Soyuz aumentó a partir de 2013, permitiendo cinco vuelos (15 asientos) mientras que solo se necesitaba cubrir dos expediciones (12 asientos).[282]​ Los asientos restantes se vendían por 40 millones de US$ a los miembros del público que pasen que pasen el examen médico. La ESA y la NASA criticaron los vuelos privados al principio del programa de la ISS, y la NASA inicialmente se resistió a entrenar a Dennis Tito, la primera persona que pagó por su viaje a la ISS.[nota 2]​ 
+Anousheh Ansari fue la primera Iraní en el espacio y la primera mujer en auto-financiarse el vuelo a la estación. Los oficiales declararon que su educación y experiencia la hacían mucho más que un turista, y que su desempeño en el entrenamiento había sido "excelente".[283]​ Ansari también rechaza la idea de ser una turista. Durante su estancia de 10 días realizó estudios rusos y europeos relacionados con medicina y microbiología. El documental Space Tourists sigue su viaje a la estación, en el que cumplió su sueño de viajar al espacio.[284]​
+En 2008, el participante Richard Garriott colocó un geocache a bordo de la ISS durante su viaje.[285]​ En la actualidad es el único geocache que existe fuera de la Tierra.[286]​ Al mismo tiempo, el Immortality Drive, un almacén electrónico de ocho secuencias digitalizadas de ADN humano, fue colocado en la ISS.[287]​
+
+
+=== Flota tripulada ===
+
+Con el fin del programa del transbordador, entre 2011 y 2020 solo Rusia poseía un programa espacial tripulado con acceso a la ISS. Los astronautas de las demás nacionalidades se valían de los vehículos rusos Soyuz para llegar al complejo orbital.
+EE. UU. reanudó en 2020 sus viajes propios a la ISS con el lanzamiento de la nave Crew Dragon 2 en la misión Demo-2 el día 30 de mayo de 2020 y su acoplamiento al día siguiente. Esta es la versión tripulada de la Dragon 2 desarrollada dentro del programa de desarrollo de tripulación comercial de la NASA junto con la CST-100 Starliner de Boeing que se espera sea lanzada en su primera misión tripulada en 2021.
+
+
+===== Transbordador Espacial =====
+
+El Transbordador Espacial estadounidense se encargó, hasta julio de 2011, del transporte de los componentes más grandes para su ensamblaje en la estación espacial y de los astronautas (hasta siete) dedicados a las labores de ensamblaje y mantenimiento de la estación. Con el fin del programa del transbordador, entre 2011 y 2020 solo Rusia poseía un programa espacial tripulado con acceso a la ISS. Los astronautas de las demás nacionalidades se valían de los vehículos rusos Soyuz para llegar al complejo orbital.
+
+
+===== Soyuz =====
+
+La nave rusa Soyuz fue la nave que llevó a los primeros habitantes de la ISS. Se encarga de mantener la tripulación permanente de la estación espacial transportando hasta tres astronautas. Sirve como nave de emergencia en caso de evacuación permaneciendo acoplada una media de seis meses en la estación. A lo largo de los años se han ido utilizando diferentes iteraciones del diseño original de las Soyuz que han mejorado aspectos como el espacio interno o los sistemas de acople automáticos.[288]​ Tras el lanzamiento de la Soyuz TMA-22 en septiembre de 2011, se dejó de usar este tipo de nave en favor de la siguiente versión mejorada, Soyuz TMA-M. La versión TMA-M se sustituyó por la versión modernizada Soyuz MS en 2016.
+
+
+===== Crew Dragon (SpaceX) =====
+
+EE. UU. reanudó en 2020 sus viajes propios a la ISS con el lanzamiento de la nave Crew Dragon 2 en la misión Demo-2 el día 30 de mayo de 2020 y su acoplamiento al día siguiente. Esta es la versión tripulada de la Dragon 2 desarrollada dentro del programa de desarrollo de tripulación comercial de la NASA junto con la CST-100 Starliner de Boeing. Tiene capacidad para 4 astronautas, cumpliendo con las especificaciones solicitadas por la NASA, pero se puede aumentar hasta un máximo de 7 sacrificando capacidad de carga.
+
+
+===== CST-100 Starliner (Boeing) =====
+
+Vehículo desarrollado dentro del programa de desarrollo de tripulación comercial para ser utilizada en el Programa de Tripulación Comercial junto con la Dragon 2 de SpaceX. Tiene como objetivo asegurar el acceso de Estados Unidos al espacio en caso de que la otra nave desarrollada dentro del programa no esté disponible. De esta forma las rotaciones de tripulación se irán alternando. Tiene capacidad para 4 astronautas y puede ser lanzada por varios cohetes diferentes como el Atlas V o el Delta IV. Se espera que su primera misión tripulada tenga lugar en 2021.
+
+
+=== Flota no tripulada ===
+
+Las agencias espaciales de Rusia, EE. UU. y Japón, mediante sus naves de abastecimiento no tripuladas se encargan de transportar víveres a la estación espacial. A lo largo de los años varios vehículos han sido utilizados para esta tarea, algunos ya han sido retirados y otros nuevos han ido apareciendo.[289]​
+
+
+===== Progress =====
+
+Las naves Progress rusas son utilizadas para llevar víveres y combustible a la ISS. Ya fueron utilizadas anteriormente en las estaciones Salyut 6, Salyut 7 y Mir. Además de suministros y equipo, las Progress utilizan sus motores para elevar de forma regular la órbita de la estación. Su diseño está basado en la nave Soyuz con la diferencia de que ninguna de sus secciones retorna a la superficie destruyéndose completamente en la reentrada atmosférica. Al igual que la Soyuz, con los años se han ido modificando los diseños originales dando paso a diferentes versiones de la nave con mayor capacidad de transporte de mercancías.
+
+
+===== ATV =====
+
+Vehículo de Transferencia Automatizado europeo, de un solo uso, se encargó de abastecer a la Estación Espacial Internacional y de evacuar los residuos de 2008 a 2014. El vehículo de carga no tripulado ATV-001 Julio Verne[290]​ fue el primero de este tipo de naves, que poseen una mayor capacidad que las Progress utilizadas por la Agencia Espacial Rusa. Su primer lanzamiento se realizó el 9 de marzo de 2008 a bordo de un cohete Ariane 5[291]​ y su último lanzamiento fue el 29 de julio de 2014,[292]​ con el ATV-005 Georges Lemaître,[293]​ tras el cual finalizó el programa ATV. La base del vehículo de transferencia automatizado se utilizará en las misiones del programa Artemisa de la NASA para dar servicio a la estación espacial que orbitará la Luna.
+
+
+===== HTV =====
+
+Es una aportación de la Agencia Espacial Japonesa al proyecto internacional. Transporta agua, suministros y experimentos a la Estación Espacial Internacional. Aunque es de tamaño mayor que las naves Progress, necesita ser acoplado manualmente mediante el Canadarm2 porque no dispone de sistema de acoplamiento automatizado. En su configuración habitual el vehículo está separado en dos secciones: una presurizada que se conecta al puerto nadir del Harmony, y otra no presurizada, generalmente para el transporte de los experimentos de exposición espacial para el módulo Kibo. El primero fue lanzado el 11 de septiembre de 2009,[294]​ y la misión más reciente es el HTV-9.[295]​
+
+
+===== Dragon =====
+
+Vehículo privado desarrollado por la empresa SpaceX bajo el programa COTS de la NASA. Está propulsada por el vehículo de lanzamiento Falcon 9. El primer lanzamiento de una cápsula SpaceX Dragon hacia la ISS se produjo el 22 de mayo de 2012.[296]​ Actualmente el programa 
+CRS inicial ha finalizado con el último lanzamiento de la SpaceX CRS-20  Dragon y se ha pasado a la segunda fase, (CRS-2) con el primer lanzamiento de la variante de carga de la Dragon 2 en la misión SpaceX CRS-21 en 2020.
+
+
+===== Cygnus =====
+
+Al igual que el SpaceX Dragon, la nave espacial Cygnus forma parte del programa COTS, por lo que fue desarrollada por la compañía  Orbital ATK. Su primer viaje fue realizado en septiembre de 2013 a bordo de un Antares (cohete), aunque en viajes posteriores también ha sido transportada en un Atlas V. La nave Cygnus se acopla a alguno de los nodos estadounidenses con la ayuda del brazo robótico Canadarm. En sus orígenes podía transportar cerca de tonelada y media de suministros, pero en uno de sus viajes (marzo de 2016), el Cygnus CRS OA-6, la nave llevó más de 3 toneladas de carga a la ISS.[297]​ Tras unos días conectada a la Estación, la Cygnus se separa de esta cargando basura y residuos para luego desintegrarse durante la reentrada atmosférica.[298]​.
+
+
+===== Cargo Dragon 2 =====
+
+La Dragon 2 es la evolución de la SpaceX Dragon diseñada por SpaceX para el transporte de tripulaciones a la estación. Como no tenía sentido mantener ambas versiones de la Dragon en la actualidad SpaceX opera dos variantes de la Dragon 2, una dentro del programa CRS-2 exclusiva para el transporte de carga y otra para el transporte de tripulaciones, la Crew Dragon.
+
+
+===== Dream Chaser =====
+
+Es la tercera nave desarrollada dentro del programa COTS[299]​  de la NASA, en este caso por la empresa Sierra Nevada, en su segunda fase como parte del CRS-2 junto a la Dragon 2 entre los años 2020 y 2024. Originalmente se diseñó para el transporte de humanos y en un futuro cabría la posibilidad de retomar esa vía. Su primer lanzamiento se prevé para el año 2021 con la misión SNC Demo-1.
+
+
+=== Operaciones de la flota ===
+
+Una gran variedad de naves tripuladas y no tripuladas han apoyado las actividades de la estación. Las misiones a la ISS incluyen 37 del Transbordador Espacial antes de su retirada, 75 de naves Progress de reabastecimiento (incluyendo las modificadas M-MIM2 y M-SO1 para el transporte de módulos), 59 naves Soyuz tripuladas, 5 ATVs, 9 HTVs, 20 Dragon, 13 Cygnus y 4 Dragon 2.
+Actualmente hay 8 puertos de acople o atraque, 4 en el segmento estadounidense y cuatro en el ruso: 
+Harmony frontal (con PMA 2 / IDA 2)
+Harmony cénit (con PMA 3 / IDA 3)
+Harmony nadir
+Unity nadir
+Pirs nadir
+Poisk cénit
+Rassvet nadir
+Zvezda trasero
+
+
+==== Tripulados ====
+
+
+==== No tripulados ====
+
+
+==== Acopladas/atracadas actualmente ====
+
+Leyenda     Naves no tripuladas
+     Naves tripuladas
+
+
+==== Misiones programadas ====
+Todas las fechas son en UTC y están sujetas a cambios.
+Los puertos frontales están al frente de la estación según su dirección y orientación habituales (actitud). La parte trasera es utilizada por las naves que aumentan la órbita de la estación. Nadir es la parte más cercana a la tierra (abajo) y cénit es el lado contrario.Leyenda     Naves no tripuladas
+     Naves tripuladas
+     Módulos
+
+
+==== Acople ====
+
+Todas las naves rusas y módulos auto-propulsados son capaces de realizar el encuentro orbital y acoplarse sin intervención humana utilizando el sistema de radar Kurs desde 200 kilómetros de distancia. El ATV europeo utiliza sensores de estrellas y GPS para determinar la trayectoria de intercepción. Cuando alcanza la estación utiliza sistemas láser para reconocer el Zvezda, junto con el sistema Kurs como redundancia.  La tripulación supervisa estas naves, pero no interviene excepto para enviar los comandos para abortar la maniobra en caso de emergencia. Las naves de reabastecimiento Progress y ATV pueden permanecer en la estación hasta seis meses,[313]​[314]​ permitiendo una gran flexibilidad en los tiempos disponibles para las tareas de carga y descarga por parte de la tripulación.
+Desde los primeros programas de estaciones espaciales, los rusos persiguieron un sistema de acople automatizado un sistema de acople automatizado que mantenía a la tripulación en roles de supervisión. A pesar de que los costos iniciales de desarrollo fueron muy altos, el sistema ha llegado a ser muy fiable con estandarizaciones que han ahorrado costos significativos durante su uso a lo largo del tiempo.[315]​
+Las naves Soyuz utilizadas para las rotaciones de tripulación también sirven de botes salvavidas en caso de evacuación de la estación; se reemplazan cada seis meses y se utilizaron tras el Columbia disaster para traer a la tripulación que permanecía en la ISS.[316]​ Las expediciones requieren, de media, 2722 kg de suministros, y a fecha de 9 de marzo de 2011, las diferentes tripulaciones habían consumido sobre 22 000 menús.[105]​ Los vuelos de rotación de tripulación de las Soyuz y los de reabastecimiento de las Progress visitan la estación una media de dos y tres veces al año respectivamente.[317]​
+Otros vehículos atracan en vez de acoplarse. El Vehículo de transferencia H-II japonés se sitúa progresivamente más cerca de la órbita de la estación y luego espera a los comandos de la tripulación hasta estar a una distancia suficientemente pequeña como para capturarlo con el brazo robótico y atracarlo en el USOS. Este tipo de naves pueden transferir International Standard Payload Racks. Las naves japonesas se mantienen en la estación de uno a dos meses.[318]​ Otras naves de este tipo son la Cygnus y la SpaceX Dragon que recibieron contratos para volar a la estación bajo la fase 1 del programa de los Servicios Comerciales de Abastecimiento.[319]​[320]​
+Entre el 26 de febrero de 2011 y el 7 de marzo de 2011 cuatro de los socios gubernamentales internacionales (Estados Unidos, Europa, Japón y Rusia) tuvieron sus respectivas naves (Transbordador Espacial, ATV, HTV, Progress y Soyuz) acopladas o atracadas en la ISS, la única vez que ha ocurrido esto hasta la fecha.[321]​ El 25 de mayo de 2012, SpaceX llevó a la estación la primera carga comercial en una nave Dragon.[322]​
+
+
+==== Ventanas de lanzamiento y acople ====
+Antes del acople de una nave a la ISS, el control de actitud y navegación (GNC) se traspasa al control de tierra de la nave. El GNC está configurado para permitir que la estación vaya a la deriva en vez de utilizar sus propulsores y giroscopios. Los paneles solares de la estación se rotan para evitar daños debido a los residuos de los propulsores de la nave. Antes de su retirada, los lanzamientos del Transbordador Espacial solían recibir prioridad sobre la Soyuz, ocasionalmente ocurriendo al revés cuando la Soyuz portaba cargas urgentes como experimentos con material biológico.[323]​
+
+
+=== Reparaciones ===
+
+Las Unidades de Repuestos Orbitales (ORUs) son piezas de repuesto listas para ser utilizadas en caso de un fallo o fin de su vida útil. Las bombas, tanques de almacenaje, cajas de control, antenas y unidades de batería son algunos ejemplos de ORUs. Algunas unidades se pueden reemplazar haciendo uso de los brazos robóticos. La mayoría están almacenadas en el exterior de la estación, en pequeños palés llamados Soporte de Logística ExPRESSs (ELCs) o plataformas más grandes llamadas Plataformas de Almacenamiento Externas que también guardan experimentos científicos. Ambos tipos de palés proveen electricidad a las diferentes piezas que se verían dañadas por el frío del espacio y necesitan calentadores. Los ELCs más grandes también tienen conexiones a la red de área local (LAN) de la estación para poder almacenar experimentos que envíen telemetría. Hubo un notable empuje para enviar ORUs a la estación durante los últimos años del programa del Transbordador porque los sustitutos de este, la Cygnus y la Dragon, pueden llevar entre una décima y una cuarta parte de la carga.
+Fallos y problemas inesperados han afectado a los tiempos de construcción de la estación provocando periodos de capacidades reducidas y en ocasiones casi forzando a abandonar la estación por razones de seguridad. Entre los problemas más serios se incluye una filtración en el USOS en 2004,[324]​ la expulsión de gases del generados de oxígeno Elektron en 2006,[325]​ y un fallo en los ordenadores del ROS en 2007 durante la STS-117 que dejó la estación sin propulsores, el Elektron, el Vozdukh y otros sistemas de control ambiental y de la estación. En este último caso la causa se halló en un cortocircuito provocado por condensación en algunos conectores eléctricos.[326]​
+Durante la STS-120 en 2007 y tras la recolocación del armazón P6 y los paneles solares, se observó un error durante el despliegue del panel solar que había rasgado la superficie.[327]​ Scott Parazynski, con la asistencia de Douglas Wheelock realizó un EVA. Se tomaron precauciones extra durante los trabajos porque las reparaciones se realizarían con el panel expuesto a la luz solar y existía peligro de una descarga eléctrica.[328]​ Los problemas con el panel solar fueron seguidos en el mismo año por problemas en la Junta Rotatoria Alpha (SARJ) de los paneles de estribor, que los hace girar para seguir al sol. Las vibraciones excesivas y picos de corriente en el motor obligaron a bloquear esa junta hasta que se conociese la causa exacta del problema. Inspecciones realizadas durante EVAs en la STS-120 y la STS-123 mostraron contaminación en forma de virutas metálicas en los engranajes y confirmaron los daños en las superficies que actúan como rodamiento, esto obligó a mantener la junta bloqueada.[329]​[330]​ Las reparaciones se realizaron en la misión STS-126 lubricando y reemplazando 11 de los 12 rodamientos de la junta.[331]​[332]​
+En septiembre de 2008 se detectaron daños en el radiador S1 a partir de imágenes de la Soyuz. Originalmente no se le dio mucha importancia.[333]​ Las imágenes mostraban que la superficie de un panel se había separado de la estructura, probablemente debido a un impacto de micrometeorito. El 15 de mayo de 2009 el circuito de amoníaco del panel dañado del radiador fue separado del resto del sistema de refrigeración mediante unas válvulas controladas por ordenador. De esa misma forma se vació el circuito dañado, eliminando la posibilidad de una filtración.[333]​ También se sabe que la cubierta de uno de los propulsores del Módulo de Servicio golpeó el radiador S1 durante un EVA en 2008, pero sus efectos, de existir, no han sido determinados.
+En las primeras horas del 1 de agosto de 2010, un fallo en el circuito de refrigeración A (del lado de estribor), uno de los dos circuitos externos, dejó la estación sin la mitad de su capacidad de refrigeración y cero redundancia en algunos sistemas.[334]​[335]​[336]​ El origen del problema parecía ser uno de los módulos de bombeo de amoníaco que lo mantienen en circulación. Varios subsistemas, incluyendo dos de los cuatro CMGs, fueron apagados.
+Las operaciones planeadas en la ISS fueron interrumpidas para realizar una serie de EVAs con la intención de solucionar el problema del refrigerante. Un primer EVA el 7 de agosto de 2010, para reemplazar el módulo fallido, no se pudo completar debido a una filtración de amoníaco en uno de los cuatro conectores. Un segundo EVA el 11 de agosto retiró con éxito el módulo fallido.[337]​[338]​ Se necesitó un tercer EVA para restaurar el circuito A al funcionamiento normal.[339]​[340]​
+El sistema de refrigeración del USOS está construido en su mayoría por la compañía estadounidense Boeing,[341]​ que también fabricó la bomba fallida.[334]​
+Las cuatro Unidades de Interruptores del Bus Principal (MBSU, encontradas en el armazón S0), controlan el envío de energía desde los cuatro paneles solares al resto de la ISS. Cada MBSU tiene dos canales de potencia que mueven los 160VDC desde los paneles solares a dos conversores DC a DC (DDCUs) que proveen los 124V utilizados en la estación. A finales de 2011 el MBSU-1 dejó de responder a los comandos y de enviar datos confirmando su estado. A pesar de seguir realizando su función correctamente, se planeó su sustitución en el siguiente EVA disponible. Una unidad MBSU de repuesto se encontraba ya a bordo, pero no se pudo completar su reemplazo en el EVA del 30 de agosto de 2012 porque uno de los tornillos que aseguran la conexión se atascó.[342]​ La pérdida del MBSU-1 limitó la estación a un 75% de su capacidad normal de potencia, requiriendo pequeñas limitaciones en las operaciones habituales hasta que se solucionase el problema.
+El 5 de septiembre de 2012, en un segundo EVA, los astronautas Sunita Williams y Akihiko Hoshide consiguieron terminar la tarea y reemplazar el MBSU-1 restaurando la ISS al 100% de potencia.[343]​
+El 24 de diciembre de 2013, los astronautas instalar una nueva bomba de amoníaco en el sistema de refrigeración de la estación. El sistema había fallado a principios del mes, parando varios de los experimentos realizados en la estación. Los astronautas tuvieron que aguantar una "mini tormenta" de amoníaco mientras instalaban la nueva bomba. Este fue el segundo paseo espacial realizado en Nochebuena en la historia de la NASA.[344]​
+
+
+=== Centros de control de misión ===
+Los componentes de la ISS son operados y monitorizados por sus respectivas agencias espaciales en diferentes centros de control de misión por todo el mundo, incluyendo el Centro de Control de Misión RKA, el Centro de Control del ATV, el Centro de Control del JEM y el Centro de Control del HTV en el Centro Espacial Tsukuba, el Centro de Control de Misión Christopher C. Kraft Jr., el Centro de Operaciones e Integración de Carga, el Centro de Control Columbus y el control del Sistema de Mantenimiento Móvil.
+
+
+== Vida a bordo ==
+
+
+=== Actividades de la tripulación ===
+
+Un día típico para la tripulación comienza con un despertar a las 06:00, seguido de actividades post-descanso y una inspección matutina de la estación. La tripulación desayuna y realiza una conferencia de planificación con Control de Misión antes de empezar a trabajar a las 08:10. Después es momento del primer momento de ejercicio programado para el día, seguido de más trabajo hasta las 13:05. Después de un descanso para comer de una hora, la tarde consiste en más ejercicio y trabajo antes de que la tripulación comience las actividades pre-descanso sobre las 19:30, que incluyen la cena y una conferencia. El período programado para dormir comienza a las 21:30. En general, la tripulación trabaja diez horas al día entre semana y cinco horas los sábados, disponiendo del resto del tiempo para relajarse o ponerse al día en otras tareas.[345]​
+El huso horario de la ISS es el Tiempo Universal Coordinado (UTC). Durante las horas de noche se cubren las ventanas para dar la sensación de oscuridad porque la estación experimenta 16 amaneceres y puestas de sol al día. Durante las misiones visitantes del Transbordador Espacial la tripulación de la ISS usaba el Mission Elapsed Time (MET) del transbordador, que es una hora flexible y relativa al momento del lanzamiento de la misión.[346]​[347]​[348]​
+La estación tiene espacio privado para cada miembro de la tripulación de la expedición, con dos 'estaciones para dormir' en el Zvezda y cuatro más en el Harmony.[349]​[350]​ Los del USOS son cabinas insonorizadas privadas. Las del ROS incluyen una pequeña ventana, pero tienen peor ventilación y aislamiento sonoro. Un miembro de la tripulación puede utilizar su 'estación de dormir' para dormir en un saco atado a la pared, escuchar música, usar un portátil y guardar objetos personales en diferentes compartimentos . Cada módulo también tiene una lámpara de lectura, una estantería y un escritorio.[351]​[352]​[353]​ Las tripulaciones visitantes no tienen su propio módulo y generalmente colocan un saco de dormir en cualquier espacio libre de la estación. Aunque es posible dormir flotando libremente se suele evitar por el peligro de chocarse con algún equipo sensible.[354]​ Es importante que los módulos de la tripulación estén bien ventilados, si no fuese así los astronautas acumularían dióxido de carbono alrededor de sus cabezas y se despertarían sin poder respirar.[351]​ Durante los periodos de descanso y otras actividades a bordo de la estación es posible ajustar la intensidad de las luces, la temperatura de color o incluso apagarlas.[355]​[356]​
+
+
+=== Comida e higiene personal ===
+
+En el USOS, la mayoría de la comida está sellada al vacío en bolsas de plástico; las latas son poco usuales porque pesan más y son más caras de transportar. La comida preservada no es muy apreciada por la tripulación porque en el espacio se reduce el gusto,[351]​ por ello se llevan a cabo esfuerzos para hacerla más sabrosa, incluyendo el uso de más especias que de costumbre. La tripulación espera con ansias la llegada de cualquier nave desde la Tierra porque traen frutas y vegetales frescos. También se tiene cuidado de que las comidas no generen migas y se prefieren condimentos líquidos frente a sólidos para evitar contaminar el equipamiento de la estación. Cada miembro de la tripulación tiene paquetes individuales de comida que se cocinan ellos mismos en la cocina de a bordo. La cocina tiene dos calentadores de agua, un congelador (añadido en noviembre de 2008), y un dispensador de agua que la ofrece caliente o fría.[352]​ Las bebidas se guardan como un polvo deshidratado que se mezcla con agua antes de la consumición.[352]​[353]​ Las bebidas y sopas se toman directamente de una bolsa de plástico mediante pajitas, mientras que las sólidas se comen con cuchillo y tenedor enganchados a la bandeja mediante imanes para evitar que se vayan flotando. Cualquier comida que se escape flotando incluidas las migas, debe ser recuperada para evitar que se acumule en los filtros de aire y otro equipamiento.[353]​
+
+Las duchas en las estaciones espaciales se introdujeron a principios de los 1970 en las Skylab y Salyut 3.[357]​ La tripulación de la Salyut 6, a principios de los 1980, se quejó de la complejidad de ducharse en el espacio, una actividad mensual.[358]​ La ISS no tiene ducha; en su lugar, los miembros de la tripulación se lavan usando un chorro de agua y toallitas húmedas, con el jabón saliendo de una especie de tubo de pasta de dientes. También se utiliza champú que no necesita aclarados y pasta de dientes comestible para ahorrar agua.[354]​[359]​
+Hay dos retretes espaciales en la ISS, ambos de diseño ruso, que se encuentran en el Zvezda y el Tranquility.[352]​ Estos utilizan un sistema de succión similar al del Transbordador Espacial. Los astronautas se atan al asiento, equipado con muelles para asegurar un buen sellado.[351]​ Una palanca activa el ventilador de succión y abre el agujero: la corriente de aire se lleva los deshechos. Los deshechos sólidos se guardan en bolsas individuales dentro de un contenedor de aluminio. Los contenedores completos son transferidos a la nave Progress que se deshace de ellos en la reentrada.[352]​[360]​ Los líquidos se succionan mediante una manguera conectada al retrete. La orina separada se recoge y transfiere al Sistema de Recuperación de Agua, donde se recicla en forma de agua potable.[353]​
+
+
+=== Salud y seguridad de la tripulación ===
+
+
+==== General ====
+EL 12 de abril de 2019, la NASA informó sobre los resultados médicos de la misión de un año. Uno de los gemelos estuvo un año en el espacio mientras que el otro permaneció en la Tierra. Al comparar ambos gemelos cuando terminó la misión se observaron varios cambios a largo plazo incluyendo modificaciones al ADN y la cognición.[361]​[362]​
+En noviembre de 2019, los investigadores informaron de que los astronautas experimentaban problemas del flujo sanguíneo y Trombosis estando a bordo de la Estación Espacial Internacional, basándose en un estudio con 11 astronautas sanos. Los resultados pueden afectar a misiones de larga duración, incluyendo una a Marte, según los investigadores.[363]​[364]​
+
+
+==== Radiación ====
+
+La ISS está parcialmente protegida del espacio por el Campo magnético terrestre. A partir de una distancia media de 70,000 km desde la superficie de la Tierra, dependiendo de la actividad Solar, la magnetosfera empieza a reflejar el viento solar alrededor de la Tierra y la estación espacial. Las fulguraciones solares siguen presentando un peligro para la tripulación, que reciben avisos con apenas minutos de antelación. En 2005, durante la "tormenta de protones" inicial de una fulguración de clase X-3, la tripulación de la Expedición 10 se refugió en una zona del ROS con escudos más potentes diseñada precisamente para este propósito.[365]​[366]​
+Partículas subatómicas cargadas, como los protones de los rayos cósmicos y el viento solar, son absorbidas normalmente por la atmósfera de la Tierra. Cuando interactúan en cantidades suficientes, se puede observar el efecto a simple vista que se conoce como aurora. Fuera de la atmósfera de la Tierra, las tripulaciones de la ISS están expuestas a aproximadamente un milisievert cada día (un año de exposición natural en la superficie), resultando en un mayor riesgo de cáncer. La radiación puede penetrar tejido vivo y dañar el ADN y los cromosomas de los linfocitos; formando una parte esencial del sistema inmune, cualquier daño a estas células puede contribuir a la menor inmunidad experimentada por los astronautas. La radiación también se ha asociado a una mayor incidencia de cataratas. Escudos protectores y medicación pueden disminuir los riesgos a niveles aceptables.[41]​
+Los niveles de radiación en la ISS son cinco veces mayores de los experimentados por los pasajeros de vuelos comerciales, porque la Tierra ofrece casi la misma protección frente a la radiación en la órbita baja que en la estratosfera. Por ejemplo, en un vuelo de 12 horas, un pasajero experimentaría 0.1 milisieverts de radiación, o 0.2 por día. Además, los pasajeros de vuelos comerciales lo experimentan durante unas pocas horas de vuelo mientras que las tripulaciones de la ISS están expuestas durante toda su estancia en la estación.[367]​
+
+
+==== Estrés ====
+
+Hay pruebas considerables de que los estresores psicosociales están entre los impedimentos más importantes para mantener una moral y desempeño óptimos en la tripulación.[368]​ El cosmonauta Valery Ryumin escribió en su diario durante un tiempo particularmente difícil a bordo de la Salyut 6: "Se cumplen todas las condiciones necesarias para el asesinato si encierras a dos hombres en una cabina que mide 5.5 metros por 6 y les dejas durante dos meses."
+El interés de la NASA en el estrés psicológico causado por los viajes espaciales, estudiado inicialmente con las primeras misiones tripuladas, se reavivó cuando los astronautas se juntaron con los cosmonautas en la estación espacial rusa Mir. Las fuentes comunes de estrés para las misiones iniciales incluían el mantenimiento de un buen desempeño ante el escrutinio público y el aislamiento de familia y amigos. Lo último sigue siendo una causa habitual en la ISS, como cuando la madre del astronauta de la NASA Daniel Tani murió en un accidente de coche, y cuando Michael Fincke se vio obligado a perderse el nacimiento de su segundo hijo.
+Un estudio sobre el vuelo más largo concluyó que las primeras tres semanas son un periodo crítico en el que la atención se ve negativamente afectada debido a la necesidad de acostumbrarse al cambio extremo del medio.[369]​ Las estancias en la ISS suelen ser de entre cinco y seis meses.
+El ambiente de trabajo en la ISS también incluye el estrés adicional causado por el espacio abarrotado compartido con personas de culturas muy diferentes que hablan idiomas diferentes. Las estaciones de primera generación tenían tripulaciones que hablaban el mismo idioma, las de segunda y tercera generación tienen tripulaciones mucho más mixtas. Los astronautas deben hablar inglés y ruso, y conocer otros idiomas es incluso mejor.[370]​
+Debido a la falta de gravedad, es habitual la confusión. A pesar de que no exista un arriba y abajo en el espacio, algunos miembros de la tripulación sienten que están orientados boca abajo. También pueden tener dificultades midiendo distancias. Esto puede causar problemas como perderse dentro de la estación espacial, activar interruptores en la dirección equivocada o interpretar incorrectamente la velocidad de un vehículo que se está aproximando.[371]​
+
+
+==== Médicas ====
+
+Los efectos fisiológicos de la ingravidez prolongada incluyen atrofia muscular, deterioración del esqueleto (osteopenia), redistribución de fluidos, una deceleración del sistema cardiovascular, menor producción de glóbulos rojos, problemas de equilibrio, y una debilitación del sistema inmune. Síntomas menores incluyen la pérdida de masa corporal e hinchazón de la cara.[41]​
+El sueño suele ser perturbado a bordo de la ISS debido a las exigencias de la misión, como naves que llegan o se van de la estación. Los niveles de sonido también son inevitablemente altos. La atmósfera es incapaz de realizar el efecto termosifónico de forma natural, por lo que se necesitan ventiladores en todo momento que muevan y procesen el aire.
+Para prevenir algunos de los efectos adversos, la estación está equipada con: dos cintas de correr TVIS (incluyendo el COLBERT); el ARED (Advanced Resistive Exercise Device), que permite realizar ejercicios de levantamiento de peso que añaden músculo sin aumentar (o compensando) la densidad ósea reducida de los astronautas;[372]​ y una bicicleta estática. Cada astronauta pasa al menos dos horas al día haciendo ejercicio en las máquinas.[351]​[352]​ Se utilizan cuerdas elásticas para atarse a la cinta de correr.[373]​[374]​
+
+
+==== Amenazas microbiológicas en el ambiente ====
+Mohos peligrosos que se alojan en los filtros de agua y aire pueden desarrollarse en las estaciones espaciales. Pueden producir ácidos que degradan los metales, cristales y goma. También afectan negativamente a la salud de la tripulación. Los peligros microbiológicos han motivado el desarrollo del LOCAD-PTS que identifica bacterias y mohos comunes más rápido que un cultivo tradicional, que podría requerir el envío de una muestra a la Tierra.[375]​ Los investigadores informaron en 2018, tras detectar la presencia de cinco cepas de Enterobacter bugandensis en la ISS (ninguna que supusiera un peligro para los humanos), que los microorganismos de la ISS tendrían que ser cuidadosamente monitorizados para poder asegurar un ambiente seguro para los astronautas.[376]​[377]​
+La contaminación de las estaciones espaciales se puede prevenir reduciendo la humedad, y utilizando pìntura que contenga químicos anti-moho, así como utilizando soluciones antisépticas. Todos los materiales utilizados en la ISS están preparados para resistir hongos.[378]​
+En abril de 2019, la NASA informó que se había realizado un estudio en profundidad sobre los hongos y microorganismos de la estación. Los resultados podrían ser útiles para mejorar las condiciones de salud y seguridad de los astronautas.[379]​[380]​
+
+
+==== Ruido ====
+Los vuelos espaciales no son precisamente silenciosos, con los niveles de ruido superando los estándares acústicos desde las misiones del Apolo.[381]​[382]​ Por esta razón, la NASA y los socios internacionales de la ISS han desarrollado aislamiento acústico y objetivos de prevención de pérdida auditiva como parte del programa de salud de las tripulaciones. Específicamente, estos objetivos son de interés para el ISS Multilateral Medical Operations Panel (MMOP) Acoustics Subgroup desde el comienzo de las operaciones de ensamblaje de la ISS.[383]​[384]​ El esfuerzo incluye contribuciones de ingenieros acústicos, audiologos, higienistas industriales, y médicos que forman el subgrupo de la NASA, la Agencia Espacial Rusa (RSA), la Agencia Espacial Europea (ESA), la Agencia Japonesa de la Exploración Aeroespacial (JAXA), y la Agencia Espacial Canadiense (CSA).
+Cuando se comparan con ambientes terrestres, los niveles de ruido a los que se exponen los astronautas y cosmonautas en la ISS pueden parecer insignificantes apenas llegando a los 85 dBA. Pero los miembros de la tripulación están expuestos a estos niveles las 24 horas del día, siete días a la semana y durante los seis meses que suelen durar actualmente las expediciones. Estos niveles de ruido también suponen un riesgo para la salud y el desempeño de la tripulación interfiriendo con el sueño y la comunicación, así como una reducción de la audibilidad de las alarmas.
+Durante los más de 20 años de historia de la ISS, se han realizado esfuerzos significativos para limitar los niveles de ruido en la ISS, Durante el diseño y las actividades anteriores al comienzo del programa, los miembros del Subgrupo de Acústica han fijado límites acústicos y requisitos de verificación colaborando en el proceso de diseño de los elementos antes del lanzamiento y realizando pruebas para verificar el cumplimiento de los límites.[383]​ Durante los vuelos, el Subgrupo de Acústica ha evaluado los niveles de ruido en vuelo de cada módulo de la ISS, producidos por el gran número de experimentos y sistemas propios del vehículo, para asegurar que se cumplen los estrictos estándares acústicos. El ambiente acústico de la estación ha ido cambiando según se añadían módulos y con la llegada y marcha de diferentes vehículos. El Subgrupo de Acústica ha respondido a estos cambios diseñando diferentes cubiertas, materiales absorbentes, barreras de sonido y aislamiento antivibraciones para reducir los niveles. Además, con el paso del tiempo las bombas, ventiladores y otros sistemas van aumentando sus niveles de ruido, es por eso que gradualmente se han sustituido los sistemas antiguos por nuevas tecnologías más silenciosas, reduciendo significativamente el ruido ambiental.
+La NASA ha adoptado los criterios de manejo de riesgos más conservadores, (basándose en la recomendación de la Instituto Nacional para la Seguridad y Salud Ocupacional y la Organización Mundial de la Salud), para proteger a todos los miembros de la tripulación. El Subgrupo de Acústica del MMOP ha adaptado sus métodos para manejar riesgos en este medio único aplicando, o modificando los métodos terrestres para la prevención de pérdida de audición para marcar estos límites tan conservadores. Un método innovador ha sido la Noise Exposure Estimation Tool (NEET) de la NASA, en la que la exposición al ruido se calcula en función de las tareas realizadas para determinar la necesidad de sistemas para proteger frente a la pérdida de audición (HPDs). Las guías para el uso de los HPDs, sea obligatorio o recomendado, se documentan en el Inventario de Peligros Auditivos, y enviado a la tripulación para referencia durante la misión. El Subgrupo de Acústica también realiza un seguimiento de las excedencias de ruido, aplica controles, y recomienda diferentes dispositivos protectores para reducir la exposición. Finalmente, los límites de audición se monitorizan en órbita durante las misiones.
+No ha habido pérdidas de audición persistentes relacionadas con la misión en los miembros de las tripulaciones del Segmento Orbital Estadounidense (JAXA, CSA, ESA, NASA) durante los últimos 20 años de operaciones en la ISS, casi 175 000 horas de trabajo. En 2020, el Subgrupo de Acústica del MMOP recibió el Safe-In-Sound Award por la innovación en sus esfuerzos combinados para mitigar los efectos del ruido sobre la salud.[385]​
+
+
+==== Fuego y gases tóxicos ====
+Un fuego a bordo o una filtración de gas tóxico son otros de los peligros potenciales. En los radiadores externos se utiliza amoníaco que podría filtrarse al interior de los módulos presurizados.[386]​
+
+
+== Órbita ==
+
+La ISS se mantiene en una órbita casi circular con una altitud media mínima de 330 km y máxima de 410 km, en el centro de la termosfera, con una inclinación de 51.6 grados respecto al ecuador de la Tierra. Esta órbita fue seleccionada por ser la inclinación mínima que puede ser alcanzada directamente por las naves rusas Soyuz y Progress lanzadas desde el Cosmódromo de Baikonur en el paralelo 46° N sin sobrevolar China o desechar etapas de cohetes en zonas pobladas.[387]​[388]​
+Viaja a una velocidad media de 27 724 km/h, y completa 15.54 órbitas cada día (93 minutos por órbita).[3]​[17]​ La altitud de la estación se dejaba disminuir para permitir a los vuelos de los Transbordadores Espaciales transportar cargas más pesadas a la estación. Tras la retirada del transbordador, la órbita de la estación aumentó en altitud.[389]​[390]​ Otros vehículos de suministros más frecuentes no necesitan estos ajustes por tener un rendimiento mucho más alto.[31]​[391]​
+Las correcciones en la órbita se pueden realizar utilizando los dos motores principales del módulo de servicio Zvezda, o los de las naves rusas o europeas acopladas al puerto trasero del Zvezda. El Vehículo de Transferencia Automatizado se construye con la posibilidad de añadir un segundo puerto de acople en la parte de atrás para permitir el acople de otra nave que impulse a la estación. La operación tarda aproximadamente dos órbitas (tres horas) en completarse y alcanzar la nueva altitud.[391]​ El mantenimiento de la altitud de la ISS gasta unas 7.5 toneladas de propelente químico por año[392]​ con un costo anual de unos 210 millones de US$.[393]​
+
+El Segmento Orbital Ruso contiene el Sistema de Manejo de Datos, que se encarga de la Dirección, Navegación y Control (ROS GNC) de la estación entera.[394]​ Inicialmente, Zarya, el primer módulo de la estación, controló la nave hasta poco después del acople del módulo de servicio Zvezda, cuando este recibió el control. Zvezda contiene el mencionado Sistema de Manejo de Datos (DSM-R), construido por la ESA.[395]​ Mediante dos ordenadores tolerantes a fallos (FTC), Zvezda calcula la posición y trayectoria orbital de la estación utilizando sensores redundantes de horizonte, sensores de horizonte Solar así como rastreadores del Sol y otras estrellas. Los FTCs contienen tres unidades de procesamiento idénticas cada uno que trabajan en paralelo y permiten la tolerancia a fallos mediante votos de mayoría.
+
+
+=== Orientación ===
+Zvezda utiliza giroscopios (ruedas de reacción) y propulsores para orientarse. Los giroscopios no necesitan propelente; en su lugar utilizan electricidad para 'guardar' el momento de fuerza en volantes que giran en la dirección opuesta al movimiento de la estación. El USOS tiene sus propios giroscopios controlados por ordenador para manejar la masa añadida. Cuando los giroscopios se 'saturan' se usan los propulsores para cancelar el momento almacenado. En febrero de 2005, durante la Expedición 10, un comando incorrecto se envió al ordenador de la estación, gastando unos 15 kg de propelente hasta que se detectó y arregló el error. Cuando los ordenadores de control de actitud del ROS y el USOS no se comunican correctamente, se llega a una situación en la que ambos sistemas se ignoran y 'pelean' con el ROS GNC utilizando los propulsores para realizar correcciones.[396]​[397]​[398]​
+Las naves acopladas también pueden ser utilizadas para controlar la actitud en situaciones en las que se necesita diagnosticar errores o durante la instalación del armazón S3/S4 en la misión STS-117.[399]​
+
+
+=== Amenazas de la basura espacial ===
+
+Las bajas altitudes en las que órbita la ISS también alojan gran variedad de basura espacial,[400]​ incluyendo etapas de cohetes gastadas, satélites muertos, fragmentos de explosiones (incluyendo materiales de pruebas de armas antisatélite), trozos de pintura, restos de motores de cohete sólidos, y refrigerante expulsado por los satélites nucleares US-A. Estos objetos, además de los micrometeoritos naturales,[401]​ representan una amenaza significativa. Objetos que son lo suficientemente grandes para destruir la estación son rastreados pero no son tan peligrosos como los más pequeños.[402]​[403]​ Los que son demasiado pequeños como para ser detectados por instrumentos ópticos y de radar, que miden 1 cm o menos, se cuentan por trillones. A pesar de su pequeño tamaño, algunos de estos objetos son un peligro por su energía cinética y dirección respecto a la estación. Las tripulaciones también se exponen al peligro al realizar un paseo espacial, con el riesgo de recibir daños en su traje y acabar expuestos al vacío.[404]​
+Paneles balísticos, también conocidos como escudos para micrometeoritos, se incorporan a los elementos de la estación para proteger las secciones presurizadas y sistemas críticos. El tipo y grosor de los paneles dependen de la exposición que vayan a tener. La estructura y escudos de la estación siguen un diseño diferente en el ROS y el USOS. En el USOS, se utilizan escudos Whipple. Los módulos del segmento estadounidense consisten en una capa interna hecha de aluminio con un grosor de 1.5–5.0 cm, una capa intermedia de Kevlar y Nextel de 10 cm,[405]​ y una externa de acero inoxidable, que hace que los objetos se hagan añicos antes de alcanzar el casco, esparciendo la energía del impacto. En el ROS, una pantalla con forma de panal de polímero reforzado con fibra de carbono está separada del casco, otra de aluminio está separada de la anterior, con una cubierta de aislamiento térmico al vacío, y tela de vidrio por encima.
+
+La basura espacial se rastrea remotamente desde tierra, y se notifica a la tripulación si fuese necesario.[406]​ En caso de necesidad, los propulsores del Segmento Orbital Ruso pueden alterar la altitud orbital de la estación para evitar el peligro. Estas Maniobras para Evitar Escombros (DAMs, Debris Avoidance Maneuvers) son bastante comunes, ocurriendo si los modelos computacionales muestran que los escombros se acercarán a la estación dentro de un radio de seguridad. A finales del 2009 ya se habían producido diez DAMs.[407]​[408]​[409]​ Habitualmente, un aumento en la velocidad orbital del orden de 1 m/s se utiliza para elevar la órbita en uno o dos kilómetros. Si fuese necesario, la altitud también puede disminuirse, aunque este tipo de maniobra malgasta combustible.[408]​[410]​  Si una amenaza de colisión se detectase demasiado tarde como para maniobrar a tiempo, la tripulación cierra todas las escotillas y se repliega a su cápsula Soyuz para poder ser evacuados en caso de que la estación se viese seriamente dañada por el impacto. Este procedimiento se ha llevado a cabo sin llegar a evacuar el 13 de marzo de 2009, 28 de junio de 2011, 24 de marzo de 2012 y el 16 de junio de 2015.[411]​[412]​
+
+
+=== Avistamientos desde la Tierra ===
+
+
+==== A simple vista ====
+
+La ISS se puede ver a simple vista como un punto lento, blanco y brillante por la luz solar reflejada, y puede ser vista en las horas tras la puesta de sol y antes del amanecer, cuando la estación está iluminada por el sol pero el suelo y el cielo están a oscuras.[413]​ La ISS tarda unos 10 minutos en pasar de un punto a otro del horizonte, y solo será visible durante una parte de ese tiempo al entrar o salir de la sombra de la Tierra. Debido al tamaño de su área reflectiva, la ISS es el objeto artificial más brillante del cielo (excluyendo otros brillos de satélites), con una magnitud aparente aproximada de −4 cuando está directamente sobre el observador (similar a Venus). La ISS, como muchos satélites incluyendo la constelación Iridium, también pueden producir brillos de hasta 16 veces el de Venus al reflejar luz solar de las superficies reflectantes.[414]​[415]​ La ISS también es visible durante el día, pero es mucho más difícil.
+Existen herramientas ofrecidas por varios sitios web (véase Visionado en directo más abajo) así como aplicaciones móviles que utilizan datos orbitales y la posición del observador para indicar cuándo va a ser visible la ISS (si lo permite la meteorología), desde que punto va a aparecer, la altitud que va a alcanzar sobre el horizonte y la duración de la trayectoria hasta que desaparezca sea tras el horizonte o entrando en la sombra de la tierra.[416]​[417]​[418]​[419]​
+En noviembre de 2012 la NASA lanzó un servicio llamado "Spot the Station", que envía alertas por SMS e e-mail cuando la estación va a ser visible desde una ubicación predeterminada.[420]​ La estación se puede ver desde el 95% de la superficie habitada de la Earth, quedando excluidas las latitudes extremas al norte y el sur.[387]​
+
+
+==== Astrofotografía ====
+
+Utilizar cámaras acopladas a telescopios para fotografiar la estación es un hobby muy extendido entre los astrónomos,[421]​ mientras que utilizar las cámaras para fotografiar la Tierra y las estrellas es un hobby extendido entre las tripulaciones.[422]​ El uso de un telescopio o binoculares permite ver la ISS durante las horas de luz del día.[423]​
+Algunos astrónomos amateur también utilizan lentes telescópicas para fotografiar la ISS mientras transita el Sol o la Luna, a veces incluso durante un eclipse (con el Sol, la Luna, y la ISS ubicados en la misma zona). Un ejemplo fue durante el eclipse del 21 de agosto de 2017, en el que desde Wyoming, se pudieron capturar este tipo de imágenes de la ISS.[424]​ Imágenes similares fueron capturadas por la NASA desde una localización en Washington.
+El ingeniero parisino y astrofotógrafo Thierry Legault, conocido por sus fotografías de naves transitando el Sol, viajó en 2011 a Omán para capturar el Sol, la Luna y la estación alineados.[425]​ Legault, que recibió el premio Marius Jacquemetton de la Société astronomique de France en 1999, y otros aficionados, utilizan páginas web que predicen cuándo y dónde van a ocurrir estos fenómenos.
+
+
+== Cooperación internacional ==
+
+Involucrando a cinco programas espaciales y quince países,[426]​ la Estación Espacial Internacional es el programa de exploración política y legalmente más complejo de la historia.[427]​ El Acuerdo Intergubernamental de la Estación Espacial de 1998 configura el marco principal de cooperación internacional entre las partes. Una serie de acuerdos posteriores gestionan otros aspectos de la estación, desde problemas de jurisdicción a un código de conducta para los astronautas visitantes.[428]​
+
+
+=== Países participantes ===
+
+ Brasil (anteriormente)
+ Canadá
+ Estados Unidos
+ Japón
+ Reino Unido
+ Rusia
+ Unión Europea
+ Alemania
+ Bélgica
+ Dinamarca
+ España
+ Francia
+ Italia
+ Noruega
+ Países Bajos
+ Suecia
+ Suiza
+
+
+==== Estados Unidos ====
+ 
+Estados Unidos mediante su agencia espacial gubernamental, la NASA, es la iniciadora del proyecto, y responsable de su desarrollo. La principal empresa constructora es el grupo Boeing Space, y su participación material incluye la estructura principal (el armazón que une la estación con los grandes paneles de los extremos), cuatro pares de paneles solares, tres módulos que forman el nodo 1 (Unity) de conexión que incluye las cámaras de acople para las naves espaciales y otros elementos menores. También fabrica los tanques de oxígeno que abastecen tanto los módulos habitables los de servicio de ambos segmentos orbitales. La NASA proporciona también el laboratorio Destiny. La logística bajo la responsabilidad de la NASA incluye la potencia eléctrica, las comunicaciones y el tratamiento de los datos, el control térmico, el control medioambiental y el mantenimiento de la salud de la tripulación.[429]​ Los giroscopios de la ISS están también bajo su responsabilidad y mantiene contratos con varios proveedores privados para el transporte de mercancías y tripulación..
+
+
+==== Rusia ====
+ 
+La Agencia Espacial Federal Rusa (Roscosmos) proporciona alrededor de un tercio de la masa de la ISS (el segmento orbital ruso), con la participación de sus principales empresas: RKK Energiya y Jrúnichev. La agencia rusa ha proporcionado un módulo de servicio habitable, que fue el primer elemento ocupado por una tripulación; un módulo de acople universal que permite el acople de naves tanto de Estados Unidos (transbordador espacial) como de Rusia (Soyuz); y varios módulos de investigación. Rusia también se implica bastante en el suministro de la estación así como su mantenimiento en órbita, utilizando, en particular, naves de suministro de víveres Progress. El módulo de control ruso Zarya fue el primer elemento en ponerse en órbita.
+Rusia también proporciona el sistema de aproximación KURS para la ISS, el cual fue usado exitosamente en la estación MIR.[430]​
+
+
+==== Europa ====
+
+La mayoría de los estados miembros de la ESA trabajan en la ISS, en particular, proporcionando el laboratorio Columbus, módulo que puede recibir 10 paletas de instrumentos y el ATV (Automated Transfer Vehicle) vehículo que transporta víveres al complejo orbital. La ESA es también responsable del brazo manipulador europeo, que se utilizará desde las plataformas científicas y logísticas rusas, así como sistemas de gestión de datos del módulo de servicio. Sin olvidar los lanzadores Ariane 5, que se utilizan junto con los ATV para el suministro a la ISS de combustible y material.
+
+
+==== Canadá ====
+
+La Agencia Espacial Canadiense asumió la construcción y mantenimiento brazo robótico denominado Canadarm, un único dispositivo destinado a facilitar el montaje, mantenimiento y operación de la estación. Canadá proporciona también el SVS (Space Vision System), un sistema de cámaras que ya se probó sobre el brazo manipulador del transbordador espacial estadounidense destinado a asistir a los astronautas encargados de su utilización y herramienta vital para el mantenimiento de la estación.
+
+
+==== Japón ====
+ 
+La JAXA (Agencia Japonesa de Exploración Aeroespacial) proporciona el JEM (Japanese Experiment Module), conocido como Kibo, que alberga una sección presurizada habitables, una plataforma donde 10 paletas de instrumentos pueden exponerse al vacío espacial y un brazo manipulador específico. El módulo presurizado puede por su parte acoger hasta 10 paletas de instrumentos entre otros elementos.
+
+
+==== Italia ====
+ 
+Independientemente de su participación en la ESA, la ASI (Agencia Espacial Italiana) proporcionó tres módulos logísticos multipropósito. Concebidos para poder integrarse en la bodega de los transbordadores espaciales, consisten en un gran volumen presurizado en el que se traerán distintos instrumentos y experimentos a la ISS. La concepción del módulo europeo Colombus se inspira en estos tres elementos. La ASI también proporciona los nodos 2 y 3 de la estación.
+
+
+==== Brasil ====
+ 
+Bajo la dirección de la Agencia Espacial Brasileña, el  Instituto Nacional de Pesquisas Espaciais (INPE) proporcionó un panel de instrumentos y su sistema de fijación que acoge distintos experimentos de la estación. Transportado por un transbordador, el panel está destinado a exponerse al vacío espacial durante un largo período de tiempo. En 2015 el cubesat AESP-14 fue puesto en órbita desde la el dispositivo J-SSOD de del módulo kibo.[431]​
+
+
+== Fin de la misión ==
+
+Según el Tratado sobre el Espacio Ultraterrestre, Estados Unidos y Rusia son legalmente responsables de todos los módulos que han lanzado.[432]​ La decaída natural con reentrada aleatoria (como con el Skylab), elevar la estación a otra altitud (retrasando la reentrada), y una desorbitación dirigida y controlada en algún punto remoto del océano son las opciones que se consideran para deshacerse de la ISS.[433]​ A fechad de finales de 2010, el plan preferido es utilizar una nave Progress ligeramente modificada para controlar la reentrada.[434]​ Este plan se reconoce como el más simple, barato y el que ofrece los mejores márgenes.[434]​
+El Orbital Piloted Assembly and Experiment Complex (OPSEK) estaba pensado para ser construido utilizando módulos del Segmento Orbital Ruso tras el desmantelamiento de la ISS. Los módulos que se estaban considerando para su retirada de la actual ISS incluían el Módulo laboratorio multipropósito (Nauka), cuyo lanzamiento estaba planeado para la primavera de 2021 a fecha de mayo de 2020,[125]​ y otros módulos y componentes rusos planeados que se deberían acoplar al Nauka. Estos módulos recién lanzados estarían aún dentro de su vida útil en 2024.[435]​
+A finales de 2011, el concepto de la Plataforma de Exploración Gateway propuso utilizar los módulos sobrantes del USOS y el Zvezda 2 como una estación de repostaje localizada en uno de los Puntos de Lagrange entre la Tierra y la Luna. Aun así, el USOS no fue diseñado para ser desmontado y terminará siendo desechado.[436]​
+En febrero de 2015, Roscosmos anunció que continuaría formando parte del programa de la ISS hasta el 2024.[18]​ Nueve meses antes—en respuesta a las sanciones estadounidenses contra Rusia por la anexión de Crimea—Dmitry Rogozin había declarado que Rusia rechazaría una petición de Estados Unidos para prolongar el uso de la estación más allá del 2020, y que solo suministraría motores de cohete a Estados Unidos para lanzamientos de satélites civiles.[437]​
+El 28 de marzo de 2015, fuentes rusas informaron de que Roscosmos y la NASA habían acordado colaborar en el desarrollo de un reemplazo para la actual ISS.[438]​ Igor Komarov, el director de Roscosmos, hizo el anuncia junto con el administrador de la NASA  Charles Bolden.[439]​ En una declaración a SpaceNews el 28 de marzo, el portavoz de la NASA David Weaver dijo que la agencia apreció el compromiso de Rusia para extender la ISS, pero no confirmó ningunos planes para una futura estación espacial.[440]​
+El 30 de septiembre de 2015, el contrato de Boeing con la NASA como principal contratista de la ISS fue extendido hasta el 30 de septiembre de 2020. Parte de los servicios ofrecidos por Boeing bajo este contrato están relacionados con la extensión de los elementos estructurales principales de la estación más allá del 2020 hasta el final de 2028.[441]​
+Respecto a extender la ISS, el 15 de noviembre de 2016 el Director General de la RKK Energiya , Vladimir Solntsev, dijo "Puede que la ISS reciba recursos continuados. Hoy hemos hablado la posibilidad de utilizar la estación hasta 2028". También se ha sugerido que la estación se convierta para ser operada comercialmente tras ser retirada por parte de las entidades gubernamentales.[442]​
+En julio de 2018, el "Space Frontier Act of 2018" pretendió extender la operación de la ISS hasta el 2030. Este proyecto de ley fue aprobado de forma unánime por el Senado, pero no llegó a pasar el Congreso.[443]​[444]​ En septiembre de 2018, se introdujo el "Leading Human Spaceflight Act" con la misma intención de prolongar las operaciones hasta 2030, y en este caso fue confirmado en diciembre de 2018.[22]​[445]​[446]​
+
+
+== Costo ==
+La ISS ha sido descrita como el objeto único más caro que se ha construido nunca.[447]​ A fecha de 2010 el costo total era de 150 mil millones de US$. Esto incluye el presupuesto de la NASA de 58.7 mil millones de US$ (ajustado a la inflación) para la estación entre 1985 y 2015 (72.4 mil millones de US$ en dólares de 2010), el de Rusia de 12 mil millones de US$, el de Europa de 5 mil millones de US$, el de Japón de 5 mil millones de US$, el de Canadá de 2 mil millones de US$, y el costo de los 36 vuelos de los Transbordadores Espaciales para construir la estación, estimados en 1.4 mil millones de US$ cada uno, o 50.4 mil millones de US$ en total. Asumiendo 20 000 días-persona de uso desde el 2000 hasta 2015 por tripulaciones de entre dos y seis personas, cada día-persona costaría 7.5 millones de US$, menos de la mitad de los 19.6 millones de US$ (5.5 millones de US$ antes de ajustar la inflación) que costaban en el Skylab.[448]​
+
+
+== Premios ==
+La ISS recibio el premio Premio Principe de Asturias de Cooperación Internacional en 2001.[449]​[450]​
+
+
+== Véase también ==
+ Portal:Astronáutica. Contenido relacionado con Astronáutica.
+ Portal:Astronomía. Contenido relacionado con Astronomía.
+ Portal:Aviación. Contenido relacionado con Aviación.
+ Portal:Ciencias de la Tierra. Contenido relacionado con Ciencias de la Tierra.
+A Beautiful Planet – Documental IMAX de 2016 mostrando la Tierra y la vida de los astronautas a bordo de la ISS
+Anexo:Expediciones a la Estación Espacial Internacional
+Anexo:Vuelos espaciales tripulados a la Estación Espacial Internacional
+Anexo:Vuelos espaciales no tripulados a la Estación Espacial Internacional
+Anexo:Visitantes de la Estación Espacial Internacional
+Anexo:Paseos espaciales en la Estación Espacial Internacional
+
+
+== Notas ==
+
+
+== Referencias ==
+ Este artículo incorpora material de dominio público de sitios web o documentos de la Administración Nacional de Aeronáutica y el Espacio.
+
+
+== Bibliografía adicional ==
+Reference Guide to the International Space Station ("Utilization", 1ª edición). NASA. septiembre de 2015. NP-2015-05-022-JSC. 
+Reference Guide to the International Space Station ("Assembly Complete", 1ª edición). NASA. noviembre de 2010. ISBN 978-0-16-086517-6. NP-2010-09-682-HQ. 
+
+
+== Enlaces externos ==
+ Multimedia en Commons.
+ Noticias en Wikinoticias.
+ Guías en Wikiviajes.
+
+Página web oficial
+Localización de la ISS
+
+
+=== Sitios web de las agencias sobre la ISS ===
+ Agencia Espacial Canadiensa
+ Agencia Espacial Europea
+ Centro Nacional de Estudios Espaciales (Centre national d'études spatiales)
+ Centro Aeroespacial Alemán
+ Agencia Espacial Italiana
+ Agencia de Exploración Aeroespacial Japonesa
+ Agencia Espacial Federal Rusa
+ Administración Nacional de Aeronáutica y el Espacio
+
+
+=== Investigación ===
+NASA: Reportes diarios
+NASA: Ciencia en la estación
+ESA: Columbus
+RSC Energía: Investigaciones científicas en el Segmento Orbital Ruso
+
+
+=== Visionado en directo ===
+Webcam en directo (por la NASA en uStream.tv)
+Webcam HD en directo (por el HDEV de la NASA, en uStream.tv)
+Oportunidades de avistamiento (en NASA.gov)
+Posición en tiempo real (en Heavens-above.com)
+Seguimiento y posición en tiempo real (en uphere.space)
+
+
+=== Multimedia ===
+Galería de imágenes del Centro Espacial Johnson (en Flickr.com)
+Tour de la ISS con Sunita Williams (por la NASA en YouTube.com)
+Viaje a la ISS (por la ESA en YouTube.com)
+The Future of Hope, documental sobre el módulo Kibō (por la JAXA en YouTube.com)
+Compilación de videos de Seán Doran sobre fotografía orbital desde la ISS: Orbit - Remastered, Orbit: Uncut; The Four Seasons, Nocturne - Earth at Night, Earthbound, the Pearl (ver el álbum en Flickr para más)

@@ -1,0 +1,155 @@
+In de natuurkunde wordt onder plasma een fase verstaan waarin de deeltjes van een gasvormige stof enigszins geïoniseerd zijn. Vaak wordt plasma de vierde aggregatietoestand genoemd, naast vast, vloeibaar en gas. (Als vijfde aggregatietoestand wordt wel het bose-einsteincondensaat genoemd). Daarop is echter wel iets aan te merken: traditioneel werden fasen van elkaar onderscheiden als ertussen een scheidingsvlak (meniscus) te herkennen was. De overgang van gas naar plasma is echter geheel continu.
+
+
+== Definitie van plasma ==
+In de normale gasfase bevat elk atoom een gelijk aantal positief en negatief geladen deeltjes. De positieve lading bevindt zich in de kern en de negatief geladen elektronen eromheen maken het geheel neutraal. Bij een plasma zijn sommige atomen door temperatuursverhoging of andere toegevoegde energievormen een of meer elektronen kwijtgeraakt. De losgeslagen elektronen bewegen zich vrij door de ruimte en de achtergebleven kern (met de overgebleven elektronen) heet dan geïoniseerd. Wanneer voldoende atomen geïoniseerd zijn om het elektrische karakter van het gas merkbaar te veranderen, spreekt men van plasma. Deze aggregatietoestand wordt ook wel gasontlading genoemd en komt zeer veel voor in de natuur: afgezien van de mysterieuze donkere materie bestaat 99% van de ons bekende massa in het heelal uit plasma. De niet-standaardkosmologie die met de elektrische en magnetische effecten daarvan rekening houdt heet plasmakosmologie.
+Afhankelijk van het soort atomen, de verhouding tussen de aantallen geïoniseerde en neutrale atomen en de energie van de deeltjes, zijn er veel soorten plasma te onderscheiden, met elk hun eigen karakteristieken. Doordat plasma elektriciteit geleidt, op veranderingen in elektrische en magnetische velden reageert en chemische reacties kan versnellen zijn er veel toepassingsmogelijkheden. De tak van de natuurkunde waarin het dynamische gedrag van plasma's wordt bestudeerd, heet plasmafysica.
+De term plasma is afkomstig van Irving Langmuir, die in 1922 een analogie voorstelde met bloedplasma, de vloeistof die overblijft nadat alle vaste deeltjes uit het bloed verwijderd zijn.
+
+
+== Vorming ==
+Een ideaal plasma vormt zich wanneer de kinetische energie van de geladen deeltjes (bijvoorbeeld elektronen) ruim groot genoeg is om te ontsnappen aan de Coulombpotentiaal van nabijgelegen deeltjes met tegengestelde lading. Daarbij moet "nabijgelegen" geïnterpreteerd worden als de grootte-orde van de gemiddelde onderlinge afstand, dus evenredig met de derdemachtswortel van de dichtheid. De gemiddelde kinetische energie van de deeltjes is evenredig met hun absolute temperatuur.Een belangrijke parameter in dit verband is de debyelengte:
+
+  
+    
+      
+        
+          λ
+          
+            D
+          
+        
+        =
+        
+          
+            
+              
+                
+                  ϵ
+                  
+                    0
+                  
+                
+                
+                  k
+                  
+                    B
+                  
+                
+                T
+              
+              
+                n
+                
+                  e
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \lambda _{\text{D}}={\sqrt {\frac {\epsilon _{0}k_{\text{B}}T}{ne^{2}}}}}
+  waar 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   de temperatuur voorstelt, 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   de elektronendichtheid, 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   de lading van een elektron, 
+  
+    
+      
+        
+          ϵ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \epsilon _{0}}
+   de elektrische veldconstante en 
+  
+    
+      
+        
+          k
+          
+            B
+          
+        
+      
+    
+    {\displaystyle k_{\text{B}}}
+   de boltzmannconstante.
+De debyelengte speelt op twee manieren een rol bij de definitie van een plasma:
+Binnen een bol met straal 
+  
+    
+      
+        
+          λ
+          
+            D
+          
+        
+      
+    
+    {\displaystyle \lambda _{\text{D}}}
+   moet zich een groot aantal geladen deeltjes bevinden (anders zijn gewone botsingen belangrijker dan elektromagnetische effecten)
+Het plasma zelf moet veel grotere afmetingen hebben dan de debyelengte (anders zijn collectieve effecten weinig merkbaar)Bij gedeeltelijk geïoniseerde plasma's hangt de dynamica ook af van de ionisatiegraad en van de effectieve doorsnede van de neutrale deeltjes.
+In sommige plasma's geldt geen globaal thermisch evenwicht, maar moeten aan verschillende deeltjessoorten verschillende temperaturen worden toegekend: in dat geval gaat het om de temperatuur van de voornaamste dragers van ladingtransport, meestal van de elektronen omdat die veel lichter zijn dan atoomkernen.
+
+
+== Voorbeelden van plasma's ==
+Volledig geïoniseerde plasma's komen op aarde bijna niet voor, tenzij in experimentele omgevingen voor het onderzoek naar fusiereactoren zoals tokamaks. De meeste aardse plasma's: ontladingsbogen, spaarlampen, industriële plasma's, lasbogen en bliksem; hebben temperaturen die aan de elektronen niet meer dan een paar elektronvolt energie verlenen, anionen met nog lagere temperaturen (soms kamertemperatuur), lage dichtheden, lage ionisatiegraden en onbeduidende magnetische velden zodat hun vloeistofmechanica wordt beheerst door gewone botsingen en stralingsprocessen.In de ruimte komen plasma's voor met een grote verscheidenheid in dichtheid, temperatuur en ionisatiegraad.
+
+
+== Verschil met gassen ==
+Omdat een plasma ongebonden geladen deeltjes bevat, manifesteren de wetten van het elektromagnetisme zich ook op macroscopische schaal. Dit uit zich in de eerste plaats in interacties over veel langere afstanden dan de botsingen in een ideaal neutraal gas.
+
+
+=== Geluidsgolven ===
+In een zeer ijl ideaal gas kunnen drukgolven (geluidsgolven) zich moeilijk voortplanten omdat de botsingen tussen deeltjes te zeldzaam zijn. In een zeer ijl plasma ondervinden de geladen deeltjes nog op relatief grote onderlinge afstand elkaars Coulombkracht. Het zijn ook deze elektrostatische krachten die zeer efficiënt kleine plaatselijke nettoladingen compenseren; de afstand waarover nettoladingen nog maar weinig effect hebben, is een andere interpretatie van de debyelengte.
+
+
+=== Ondoorzichtigheid ===
+Elektronen compenseren plaatselijke elektrostatische velden door oscillaties met een frequentie die evenredig is met de vierkantswortel van de elektronendichtheid: de plasmafrequentie. Elektromagnetische golven met een lagere frequentie worden snel uitgedoofd door dergelijke plasma-oscillaties, zodat het plasma voor dat soort golven ondoordringbaar wordt. Sommige vormen van radiocommunicatie maken gebruik van de weerkaatsing van radiogolven aan de ionosfeer, een laag plasma hoog in de atmosfeer.
+
+
+=== Magnetiseerbaarheid ===
+In een homogeen extern magnetisch veld beweegt een vrij geladen deeltje zich eenparig in de richting van het magnetisch veld, en eenparig cirkelvormig in de vlakrichting loodrecht op het veld, wat als samengestelde beweging een spiraal oplevert. De straal van die cirkels, larmorstraal geheten, is evenredig met de snelheid van het deeltje, dus met de vierkantswortel van de temperatuur van het plasma, en omgekeerd evenredig met de sterkte van het magnetische veld (zie cyclotronfrequentie). Als het magnetisch veld sterk genoeg is, wordt het plasma hierdoor "opgesloten" in de dimensie evenwijdig met het veld: in de twee dimensies loodrecht daarop kunnen de deeltjes alleeen microscopisch kleine cirkeltjes beschrijven.
+
+
+== Toepassing van plasma ==
+
+In de analytische scheikunde wordt bij atoomspectroscopie plasma gebruikt in de vorm van inductief gekoppeld plasma (ICP). Met deze techniek kunnen zeer lage concentraties van veel elementen worden bepaald. In een tokamak bevindt plasma zich in een torusvormig vat waarin kernfusie kan plaatsvinden. Met behulp van sterke magnetische velden wordt het plasma op zijn plaats gehouden. Sterren bestaan uit plasma en vermoed wordt dat bolbliksems uit plasma bestaan. Bij het terugkeren van ruimtevaartuigen in de aardatmosfeer wordt aan de voorkant van het hitteschild ook een plasma gegenereerd. Het noorderlicht of poollicht bestaat uit een plasma dat wordt opgewekt door invallende kosmische straling. Daarnaast vinden plasma's een brede toepassing in de industrie, onder andere voor het bewerken van dunne films, voor de halfgeleiderindustrie en fabricage van dunnefilmzonnecellen, maar bijvoorbeeld ook voor het aanbrengen van de metaallaag in de binnenkant van chipszakken en de antireflectielaag op autoruiten. Materialen kunnen ook behandeld worden met plasma, dit zorgt ervoor dat ze tijdelijk een verhoogde oppervlaktespanning krijgen. Dit wordt onder andere gebruikt bij het verlijmen van materialen, plasmabehandelingen verhogen de sterkte van lijmverbindingen aanzienlijk. Verder worden ze ingezet voor het genereren van licht, zowel zichtbaar licht (onder andere tl-fluorescentielampen) alsook uv- en EUV-licht voor de lithografie. Ook worden plasma's gebruikt voor de behandeling van textiel, het steriliseren van gereedschappen en het reinigen van gassen. Daarnaast zijn er plasmasnijmachines voor het snijden van plaatstaal. Plasmavergassing is een techniek die sinds 2000 bestaat om afval om te zetten naar synthesegas met behulp van een plasmatoorts.
+In de deeltjesfysica doet men volop onderzoek om plasma's te gebruiken bij het versnellen van de elementaire deeltjes. Door de bijzondere eigenschappen van plasma's en hun interacties met elektrische velden hoopt men ze ooit effectief te kunnen aanwenden om deeltjesversnellers te bouwen evenwaardig aan en zelfs beter dan die in het CERN. Het voordeel van deze plasmaversnellers is dat ze veel kleiner zijn en fundamentele deeltjes tot een grotere snelheid kunnen brengen dan de huidige generatie versnellers, zoals de Large Hadron Collider.
+
+
+== Zie ook ==
+Gloei-ontlading
+Plasmafysica
+Teslabol

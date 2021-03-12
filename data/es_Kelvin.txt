@@ -1,0 +1,91 @@
+El kelvin (símbolo: K), antes llamado grado Kelvin,[1]​ es la unidad de temperatura de la escala creada en 1848 por William Thomson, primer barón de Kelvin, sobre la base del grado Celsius, estableciendo el punto cero en el cero absoluto (−273,15 °C) y conservando la misma dimensión. A sus 24 años, Kelvin introdujo la escala de temperatura termodinámica, cuya unidad fue nombrada en su honor en 1968.
+Es una de las unidades del Sistema Internacional de Unidades y corresponde a una fracción de 1/273,16 partes de la temperatura del punto triple del agua.[2]​ Se representa con la letra K, nunca «°K», pues actualmente su nombre no es el de «grados kelvin», sino simplemente «kelvin».[2]​
+Coincidiendo el incremento en un grado Celsius con el de un kelvin, su importancia radica en el 0 de la escala: la temperatura de 0 K es denominada «cero absoluto», que corresponde al punto en el que las moléculas y átomos de un sistema tienen la mínima energía térmica posible. Ningún sistema macroscópico puede tener una temperatura inferior. A la temperatura medida en kelvin se le llama «temperatura absoluta» y es la escala de temperaturas que se usa en ciencia, especialmente en trabajos de física o química.
+También en iluminación de fotografía, vídeo y cine se utilizan los kelvin como referencia de la temperatura de color. Cuando un cuerpo negro es calentado, emite luz de diferente color según la temperatura a la que se encuentra. De este modo, cada color se puede asociar a la temperatura a la que debería estar un cuerpo negro para emitir en ese color. Es necesario recalcar que la temperatura de color asociada a un cuerpo no está relacionada con su temperatura real. Por ejemplo, 1600 K es la temperatura de color correspondiente a la salida o puesta del sol. La temperatura del color de una lámpara de filamento de wolframio (tungsteno) corriente es de 2800 K. La temperatura de la luz utilizada en fotografía y artes gráficas es 5500 K (para considerarla «luz de día», lo que no impide que se usen otras partes de la escala para referirse a la luz de tungsteno o algunas lámparas led) y la del sol al mediodía con cielo despejado es de 5200 K. La luz de los días nublados es más azul y es 6000 K o más, llegando incluso a los 11 000 K.
+
+
+== Múltiplos del SI ==
+A continuación una tabla de los múltiplos y submúltiplos del Sistema Internacional de Unidades.
+
+ 
+
+
+== Temperatura y energía ==
+La física estadística dice que en un sistema termodinámico la energía contenida por las partículas es proporcional a la temperatura absoluta, siendo la constante de proporcionalidad la constante de Boltzmann. Por eso es posible determinar la temperatura de unas partículas con una determinada energía, o calcular la energía de unas partículas a una determinada temperatura. Esto se hace a partir del denominado principio o teorema de equipartición. El principio de equipartición establece que la energía de un sistema termodinámico es
+
+  
+    
+      
+        
+          E
+          
+            c
+          
+        
+        =
+        
+          
+            n
+            2
+          
+        
+        
+          k
+          
+            B
+          
+        
+        T
+      
+    
+    {\displaystyle E_{c}={\frac {n}{2}}k_{B}T}
+  
+
+donde:
+
+  
+    
+      
+        
+          k
+          
+            B
+          
+        
+        
+      
+    
+    {\displaystyle k_{B}\,}
+   es la constante de Boltzmann
+
+  
+    
+      
+        T
+        
+      
+    
+    {\displaystyle T\,}
+   es la temperatura expresada en kelvin
+
+  
+    
+      
+        n
+        
+      
+    
+    {\displaystyle n\,}
+   es el número de grados de libertad del sistema (por ejemplo, en sistemas monoatómicos donde la única posibilidad de movimiento es la traslación de unas partículas respecto a otras en las tres posibles direcciones del espacio, n es igual a 3).
+
+
+== Véase también ==
+Grado Fahrenheit
+Temperatura absoluta
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+Folleto del BIPM sobre el kelvin.

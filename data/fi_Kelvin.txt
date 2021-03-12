@@ -1,0 +1,130 @@
+Kelvin (yksikön tunnus K) on SI-järjestelmän mukainen lämpötilan mittayksikkö ja yksi SI-järjestelmän perusyksiköistä. Kelvinin lämpötila-asteikko on absoluuttinen asteikko, eli sillä on nollakohta absoluuttisessa nollapisteessä. Kelvin-asteikon arvo on suoraan verrannollinen aineen lämpöliikkeen energian odotusarvoon, minkä vuoksi se on tieteessä ja tekniikassa tärkeimmän asteikon asemassa. Kelvin-asteikon asteväli on sama kuin Celsius-asteikolla, eli lämpötilaeroja ilmaistaessa 1 K = 1 °C. Asteikon esitteli William Thomson eli lordi Kelvin vuonna 1848.
+
+
+== Määritelmä ==
+Nykyisin kelvin on määritelty antamalla Boltzmannin vakiolle kiinteä lukuarvo 1,380 649 · 10-23, kun yksikkönä on J K-1, joka on sama kuin kg m2 s-2 K-1.  Määritelmässä esiintyvät muut perusyksiköt kilogramma, metri ja sekunti on määritelty Planckin vakion (h), valonnopeuden (c ja cesiumin erään taajuuden (cesium-133-atomin häiriintymättömän perustilan ylihienorakenteen kahden energiatason välistä siirtymää vastaavan säteilyn taajuuden, ΔtCs) avulla.
+
+
+== Suhde muihin lämpötila-asteikkoihin ==
+Mitatun lämpötilan T ja erään vakiolämpötilan (käytännössä veden jäätymispisteen lämpötilan) T0 erotusta kutsutaan celsiuslämpötilaksi t,
+
+  
+    
+      
+        t
+        =
+        T
+        −
+        
+          T
+          
+            0
+          
+        
+        ,
+      
+    
+    {\displaystyle t=T-T_{0},}
+  ja sen yksikkönä käytetään celsiusastetta. Celsiusaste on siten virallinen lämpötilayksikkö, jota käytetään kelvinin rinnalla. Celsius on tämän tulkinnan mukaan kelvinin erityisnimi. Celsius-asteikossa käytetään kuitenkin positiivisia ja negatiivisia arvoja, koska se on luonteeltaan intervalliasteikko, toisin kuin Kelvin-asteikko, joka on suhdeasteikko.
+Veden jäätymispiste kelvineinä on 273,15 K, ja vastaavasti absoluuttinen nollapiste celsiusasteina on –273,15°C.  Näin ollen jokainen celsiusasteina ilmaistu lämpötila voidaan muuntaa kelvineiksi lisäämällä lukuarvoon vakio 273,15. Esimerkiksi 0 °C vastaa 273,15 kelviniä ja 20 °C 293,15 kelviniä. Vastaavasti kelvineissä ilmaistu lämpötila voidaan muuntaa celsiusasteiksi vähentämällä lukuarvosta vakio 273,15.  Toisin sanoen pätee:
+
+  
+    
+      
+        
+          
+            T
+            K
+          
+        
+        =
+        
+          
+            t
+            
+              
+                
+                
+                  ∘
+                
+              
+              C
+            
+          
+        
+        +
+        273
+        
+          ,
+        
+        15
+      
+    
+    {\displaystyle {\frac {T}{K}}={\frac {t}{^{\circ }C}}+273{,}15}
+  ja kelvinit celsiusasteiksi
+
+  
+    
+      
+        
+          
+            t
+            
+              
+                
+                
+                  ∘
+                
+              
+              C
+            
+          
+        
+        =
+        
+          
+            T
+            K
+          
+        
+        −
+        273
+        
+          ,
+        
+        15
+      
+    
+    {\displaystyle {\frac {t}{^{\circ }C}}={\frac {T}{K}}-273{,}15}
+   Koska Kelvin-asteikko on sama astevälinsä suhteen kuin Celsius-asteikko, voidaan sanoa kelvinin korvanneen osittain sen tieteellisissä mittauksissa. Sen sijaan on ollut olemassa toinenkin absoluuttinen eli termodynaaminen lämpötila-asteikko. Se oli Rankine-asteikko, jonka asteväli oli Fahrenheit-asteikon asteen suuruinen. Tätä käytettiin vielä 1900-luvulla Yhdysvalloissa, mutta sitä ei enää suositella käytettäväksi.
+
+
+== Yksiköiden kirjoittaminen ==
+Kelvin-asteikon nimi juontaa juurensa brittiläisen fyysikon William Thomsonin aatelisnimestä Kelvin. Suomen kielessä mittayksiköiden nimet kirjoitetaan pienellä alkukirjaimella, vaikka ne olisi johdettu erisnimistä (kelvin, celsiusaste). Yksikön tunnus sen sijaan kirjoitetaan isolla kirjaimella K. Astetta merkitsevä ympyrä kuuluu vain celsiusasteeseen, °C, mutta ei kelviniin.Kelvinin symboli on tavallinen iso K-kirjain, myös Unicode-merkistössä. Unicodessa on tosin olemassa niin sanottu yhteensopivuusmerkki U+212A (KELVIN SIGN), mutta se on tarkoitettu ainoastaan teknisiin erityistarkoituksiin merkistönmuunnoksissa.Kelvinistä käytetään myös SI-järjestelmän mukaisia kerrannaisyksiköitä. Matalien lämpötilojen fysiikassa puhutaan yleisesti milli-, mikro-, nano- ja pikokelvineistä ja plasmafysiikassa megakelvineistä. Esimerkiksi Teknillisen korkeakoulun kylmälaboratorio saavutti vuonna 1999 kiinteiden aineiden kylmyysennätyksen, joka on 100 pikokelviniä eli 100 pK.
+
+
+== Historia ==
+Lämpötila-asteikon esitteli William Thomson, eli lordi Kelvin vuonna 1848. Hän käytti kaasulämpömittaria, jonka täyteaineen (ilman) lämpölaajenemista hän tutki. Kaasun tilavuudet hän kirjasi ylös celsiusasteiden funktiona. Kelvin oletti, että tilavuuden muutokset ja lämpötilaerot seuraavat toisiaan suoraan verrannollisesti, ja laski tämän perusteella kaasun nollatilavuudelle arvon −273 °C, aivan kuten teki myös Gay-Lussac. Tämä oli käänteisluku kaasun lämpölaajenemiskertoimelle celsiusasteen lämmönnousulle.Kelvinin määritelmän perustaksi sovittiin vuonna 1954 kymmenennessä yleisessä paino- ja mittakonferenssissa (10th Conférence Générale des Poids et Mesures, CGPM) veden jäätymispisteen sijasta tarkempi veden kolmoispiste, joka asetettiin tarkasti lukemalle 273,16 K. Veden noin 0,01 astetta alempi lämpötila kuin kolmoispiste., joten se oli edelleen sangen suurella tarkkuudella 0 °C eli 273,15 K.
+Kelvinin tunnuksesta °K jätettiin vuonna 1968 pois astemerkki. Siitä lähtien yksikkönä on käytetty vain merkkiä K. Samassa yhteydessä sallittiin myös celsiusasteiden käyttö kelvinin rinnalla kaikissa yhteyksissä.Veden kolmoispisteen lämpötila riippuu kuitenkin jonkin verran myös sen isotooppikoostumuksesta. Mittaustarkkuuden kasvaessa kelvinin määritelmää tarkennettiin vuonna 2005 niin, että kelvin oli nimenomaan sellaisen puhtaan veden kolmoispiste, jossa vedyn ja hapen eri isotooppeja on seuraavassa suhteessa: Vedyssä tulee esiintyä isotooppia 2H 0,00015576 mol jokaista moolia 1H kohti. Happea tulee esiintyä isotooppia 17O 0,0003799 mol jokaista moolia 16O kohti ja isotooppia 18O 0,0020052 mol jokaista moolia 16O kohti.Vuoden 2007 kansainvälisessä mitta- ja painokonferenssissa pantiin vireille ehdotus kelvinin määrittelemisestä uudestaan Boltzmannin vakion avulla. Tällöin mainittu vakio saisi tarkkaan määritellyn arvon 1,3806505 · 10−23 joulea kelviniä kohti.  Määritelmä vahvistettiin 26. paino- ja mittakonferenssissa vuonna 2018, ja se tuli voimaan 20. toukokuuta 2019.
+
+
+== Johdannaisyksiköitä ==
+Kelviniä on käytetty eräissä johdannaisyksiköissä:
+
+ominaislämpökapasiteetti J/(kgK)
+lämpöresistanssi K/W
+termodynaaminen johtavuus W/(Km)
+entropia J/K (vuonna 1964)
+molaarinen entropia J/(mol K)
+
+
+== Katso myös ==
+Lämpötila-asteikko
+
+
+== Lähteet ==
+Taylor, Barry N. & Thompson, Ambler (toim.): The International System of Units (SI) (pdf) (nro 330) NIST Special Publication.  2008. Washington D.C.:  National Institue Of Standards And Technology.   Viitattu 15.2.2013. (englanniksi)
+Taylor, Barry N. & Thompson, Ambler (toim.): Guide for the Use of the International System of Units (SI) (pdf) (nro 811) NIST Special Publication.  2008. Washington D.C.:  National Institue Of Standards And Technology.   Viitattu 19.2.2013. (englanniksi)
+
+
+=== Viitteet ===

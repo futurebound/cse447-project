@@ -1,0 +1,73 @@
+Waterstof is een chemisch element met symbool H (La: Hydrogenium) en atoomnummer 1. Het element komt als zodanig niet in geïsoleerde vorm voor in normale omstandigheden, maar vormt door de hoge reactiviteit verbindingen. Onder atmosferische omstandigheden vormt waterstof een twee-atomig molecuul: diwaterstof, dat meestal gewoon als waterstof of waterstofgas aangeduid wordt. Waterstof is het meest voorkomende element in het universum. Het normale isotoop van waterstof "protium" bestaat maar uit één proton en één elektron en bevat dus geen neutronen.
+Losse atomen waterstof worden ook wel "in statu nascendi" genoemd.
+
+
+== Ontdekking ==
+In 1671 beschreef de Iers-Engelse chemicus Robert Boyle in een publicatie een brandbaar gas dat vrijkwam bij een reactie tussen ijzer en verdund zuur. Veel later pas ontdekte de Britse wetenschapper Henry Cavendish in 1766 dat het een chemisch element betrof, toen hij experimenten uitvoerde met kwik. Hoewel hij veel eigenschappen zeer nauwkeurig wist te beschrijven, vermoedde hij dat in plaats van het zuur, het metaal de bron van het gas was. Daarom noemde hij zijn nieuw ontdekte element brandbaar gas van metalen. Enkele jaren later gaf Antoine Lavoisier waterstof de huidige Latijnse naam hydrogenium.
+Het woord hydrogenium is een samenstelling van de Oudgriekse termen ὕδωρ (hudōr; water) en γενής (genes; vormen, maken). Hydrogenium kan dus vertaald worden als watermaker (omdat er bij de reactie tussen zuurstof en waterstof water ontstaat).
+
+
+== Fysische eigenschappen ==
+Waterstofgas is het lichtste gas en heeft bij normale druk een kookpunt van slechts 20,28 K en een smeltpunt van 14,01 K (alleen helium heeft een lager kook- en smeltpunt).
+Onder extreem hoge druk, bijvoorbeeld in gasreuzen zoals de planeten Jupiter en Saturnus, komt metallische waterstof voor. Dit komt doordat de moleculen onder extreem hoge druk hun identiteit verliezen. De waterstof gedraagt zich dan als een vloeibaar metaal.
+Bij extreem lage druk, zoals voorkomt in de ruimte tussen de sterren, komt waterstof vooral voor in de vorm van losse atomen, eenvoudig omdat er geen gelegenheid is om zich tot een molecuul te combineren.
+Onder normale omstandigheden is diwaterstof een mengsel van twee verschillende soorten moleculen die van elkaar verschillen in de draairichting die de atoomkernen hebben, ook wel 'spin' genoemd. Deze twee vormen worden ortho- en parawaterstof genoemd (niet te verwarren met isotopen, zie hier onder). Bij normale temperatuur en druk bestaat diwaterstof voor 25% uit de para- en 75% uit de orthovorm.
+De orthovorm kan niet in zuivere vorm bereid worden. De twee vormen hebben een ongelijk energieniveau en daarmee verschillende fysische eigenschappen. Zo zijn bijvoorbeeld de smelt- en kookpunten van parawaterstof ongeveer 0,1 K lager dan die van orthowaterstof (de zogenaamde 'normale' verschijningsvorm).
+
+
+== Chemische eigenschappen ==
+
+Waterstof komt bij standaardtemperatuur en -druk voor als een kleurloos, reukloos en zeer ontvlambaar tweeatomig gas diwaterstof (H2). Waterstof is eenwaardig en behoort tot de niet-metalen.
+Waterstof kan met de meeste andere elementen verbindingen aangaan. De elektronegativiteit van waterstof is 2,2, daarom kan het in verbindingen zowel de meer metallische als de meer niet-metallische component zijn. Eerstgenoemde verbindingen worden hydriden genoemd, waarbij waterstof ofwel als H− ionen deelneemt ofwel als atomen tussen het rooster van een ander element als opgeloste stof (zoals in Palladium hydride). In de laatstgenoemde verbindingen kan het waterstof worden gezien als covalent gebonden.
+Het waterstofion (H+) komt in de chemie nooit alleen voor. Dit zou slechts een proton zonder een elektron zijn die daarom sterk de neiging heeft elektronen aan te trekken. In een zure oplossing, die vaak wordt beschreven als een oplossing waarin vrije H+ ionen voorkomen, zijn die ionen echter gebonden in ionen als H3O+ omdat het proton zo'n sterk zuur is. Het proton is het sterkste lewiszuur dat er is. Dat wil zeggen dat het sterk de neiging heeft om vrije elektronenparen te accepteren.
+Waterstof kan samen met zuurstof water vormen, H2O. Hierbij komt veel energie vrij.
+Daarom is een mengsel van waterstofgas en zuurstofgas, dat ook wel bekendstaat als knalgas, zeer explosief. Knalgas kan heel gemakkelijk worden bereid door aangezuurd water te elektrolyseren.
+Waterstof kan ook veel verschillende verbindingen met koolstof aangaan. Dergelijke verbindingen worden koolwaterstoffen genoemd, een klasse van de organische verbindingen. Het onderzoek naar de eigenschappen van deze verbindingen wordt organische chemie genoemd.
+
+
+== Isotopen ==
+
+De meest voorkomende stabiele isotoop van waterstof (1H) heeft slechts één proton en geen neutronen in de kern en wordt ook wel protium genoemd. Hiermee is waterstof het enige element dat een isotoop zonder neutronen heeft. Deuterium (2H of D) is een andere stabiele isotoop die naast een proton ook een neutron in de kern bevat en maakt ongeveer 0,0184% tot 0,0082% van de totale waterstofvoorraad uit. Het derde waterstofisotoop is tritium (3H of T). Dit is een radioactieve isotoop die naast een proton twee neutronen bevat en een halveringstijd van 12,33 jaar heeft. Het bijzondere aan de isotopen is dat, wanneer zij verbindingen vormen, deze andere fysische eigenschappen hebben dan de normale protium-versie van die verbinding. Zo heeft deuteriumoxide (zwaar water) een hoger kookpunt dan gewoon water.
+Waterstof is een van de weinige elementen die voor zijn verschillende isotopen aparte namen heeft.
+
+
+== Ionen ==
+
+
+== Verschijning ==
+Het element waterstof is het meest voorkomende element in het heelal. Meer dan 90% van de atomen in het heelal zijn waterstofatomen, ze vormen meer dan 75% van de atomaire massa in het universum. Het wordt vooral bestudeerd door de 21 cm-lijn. Wolken van waterstofmoleculen staan aan de oorsprong van stervorming. Sterren bestaan een groot deel van hun bestaan vooral uit waterstof in de plasmafase.
+Het element wordt in kolossale hoeveelheden aangetroffen in reusachtige gasplaneten zoals Jupiter.
+Waterstof speelt een vitale rol in het op gang houden van processen in het universum door de kernfusieprocessen tussen waterstofatomen waarbij helium wordt gevormd. Hierbij komen enorme hoeveelheden energie vrij.
+In de aardatmosfeer daarentegen is zuivere waterstof nauwelijks aanwezig (1 ppm): het bindt zich aan zuurstof tot water, en het is als gas zo licht dat het langzaam maar zeker naar de ruimte ontsnapt.
+Een groot deel van de waterstofatomen die op aarde voorkomen, is gebonden in water. Een watermolecuul (H2O) bestaat uit twee waterstofatomen en een zuurstofatoom. Verder komen waterstofatomen veel voor in organische verbindingen en fossiele brandstoffen. Methaan (CH4), dat als bijproduct ontstaat bij de afbraak van organisch materiaal, is een belangrijke leverancier van waterstof voor de industrie.
+Alles wat leeft, alle organismen bestaan uit en kunnen niet zonder waterstofverbindingen, zoals water, vetten en aminozuren.
+
+
+== Toepassingen ==
+Voor industriële toepassingen zijn grote hoeveelheden waterstof nodig in zogenaamde hydrogenatiereacties, onder andere in het Haber-Boschproces waarin ammoniak geproduceerd wordt, het harden van vetten en oliën en de productie van methanol.
+Andere toepassingen waar waterstof voor nodig is:
+
+Hydroalkylatie, hydro-ontzwaveling, hydrokraken.
+Productie van zoutzuur, lassen, als raketbrandstof, en voor reductie van metaalertsen.
+Vloeibare waterstof wordt gebruikt bij cryogeen onderzoek
+Waterstof weegt slechts 1/14 van een gelijk volume aan lucht. Om die reden werd het in het verleden veel toegepast als vulling in ballonnen en zeppelins. Vanwege de brandbaarheid wordt dit tegenwoordig veel minder gedaan.
+Waterstof wordt gebruikt voor het koelen van generatoren met een vermogen groter dan 200 MW.
+Het waterstofisotoop deuterium wordt in nucleaire toepassingen gebruikt als moderator om neutronen te vertragen. Deuteriumverbindingen vinden ook toepassingen in de chemie en biologie bij studies naar isotoopeffecten op reacties, en voor gebruik in NMR-experimenten en neutronenverstrooiing waar gewone waterstof de meting zou verstoren.
+Het waterstofisotoop tritium wordt geproduceerd in kernreactoren en is nodig voor de fabricage van een waterstofbom, in biologische en biomedische wetenschappen gebruikt als isotooplabel, en als stralingsbron in lichtgevende verf.
+Deuterium en tritium worden ook gebruikt als brandstof in experimentele kernfusiereactoren zoals ITER.
+
+
+== Zie ook ==
+Zuur zout
+Vaste waterstof
+Waterstofbrug
+Waterstofbom
+Waterstofatoom
+
+
+== Externe links ==
+
+Lenntech.nl - Waterstof (element)
+(en) EnvironmentalChemistry.com - Waterstof (element)
+(en) WebElements.com - Waterstof (element)
+(en) ATEX - EU

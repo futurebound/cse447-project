@@ -1,0 +1,43 @@
+Plasma (også kaldet ioniseret gas) betegner inden for fysik og kemi en energirig tilstand for et stof på gasform, hvor en eller flere af dets elektroner i yderste skal er blevet adskilt fra atomet. Dette resulterer i en samling af ioner og elektroner, som ikke længere er bundet sammen. 
+Plasma er den 4. tilstandsform for atomer og molekyler, hvoraf den første er fast form (solid), den anden er flydende form/væske (liquid) og den tredje er gasform (gas).
+Gas-atomerne er positivt ladede, mens elektronerne i plasmaet er negativt ladede. Plasma er udadtil elektrisk neutralt, da gas-atomerne og elektronerne udligner hinandens ladning. 
+Denne tilstand for materie blev først opdaget af Sir William Crookes i 1879 og blev navngivet "plasma" af Irving Langmuir i 1928.
+
+
+== Eksempler på teknologier og naturfænomener med plasma ==
+
+
+=== Teknologier ===
+Lysstofrør
+Lavenergipære
+Blitzrør
+Neonrør
+Lysbuelampe
+Bussard-ramjet (teoretisk raketfremdriftsmetode)
+Ion-motor (mere effektiv end en brændstofraket)
+Plasmaskærm
+Chemical Vapor Deposition (CVD)
+Plasmaskæring
+ITER
+
+
+=== Naturfænomener ===
+Lyn
+Polarlys
+Corona
+Ozonlag
+Ionosfære (jordens)
+Stjerne
+Støvet plasma
+
+
+== Se også ==
+Blodplasma
+Debye-længde
+
+
+== Eksterne henvisninger ==
+
+Billeder af plasma-lamper (på engelsk)
+Space.com-artikel om 'plasma-skjolde' (på engelsk)+
+Leg og lær med dette plasma-instrument: Princeton Plasma Physics Laboratory: Remote Glow Discharge Experiment (RGDX) (kræver Silverlight-plugin)

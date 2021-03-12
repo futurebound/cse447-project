@@ -1,0 +1,85 @@
+Planeta – zgodnie z definicją Międzynarodowej Unii Astronomicznej – obiekt astronomiczny okrążający gwiazdę lub pozostałości gwiezdne, w którego wnętrzu nie zachodzą reakcje termojądrowe, wystarczająco duży, aby uzyskać prawie kulisty kształt oraz osiągnąć dominację w przestrzeni wokół swojej orbity. W odróżnieniu od gwiazd, świecących światłem własnym, planety świecą światłem odbitym.
+Planety dzielone są na dwie kategorie: duże gazowe olbrzymy o małej gęstości oraz mniejsze planety skaliste. Według definicji IAU, w Układzie Słonecznym znanych jest 8 planet: cztery wewnętrzne – Merkury, Wenus, Ziemia, Mars i cztery zewnętrzne – Jowisz, Saturn, Uran i Neptun. Z wyjątkiem Merkurego i Wenus, wokół każdej z nich krąży jeden lub więcej księżyców. Do 26 grudnia 2017 roku Encyklopedia pozasłonecznych układów planetarnych stwierdzała istnienie 3727 planet pozasłonecznych.
+
+
+== Historia pojęcia ==
+W starożytności terminem „planeta” określano siedem jasnych ciał: Merkurego, Wenus, Marsa, Jowisza, Saturna, a także Słońce i Księżyc, poruszających się na niebie względem gwiazd. W czasach nowożytnych, wraz z rozpowszechnieniem się poglądu heliocentrycznego, wykluczono z tego grona dwa ostatnie obiekty, natomiast naturę planety przypisano Ziemi, co łącznie dawało sześć planet. Nazwa pochodzi od gr. πλανήτες αστέρες ('gwiazdy błądzące' od czasownika πλανάω 'wędruję', łac. stellae erraticae) nazywanych tak w przeciwieństwie do απλανείς αστέρες ('gwiazd stałych', łac. stellae fixae, w obecnym pojęciu: gwiazd).
+W 1781 r. odkryto siódmą planetę – Urana. Odkrywane od początku XIX wieku obiekty krążące między orbitami Marsa i Jowisza również zaliczano do planet. Po 1851 r., kiedy znanych było już piętnaście takich obiektów, zdecydowano się na zmianę klasyfikacji. Ciała takie jak Ceres, Pallas, Juno i Westa, zaliczono do osobnej kategorii: planetoid, bowiem wyraźnie różniły się one od dotychczas poznanych planet – wszystkie były znacznie mniejsze i wszystkie poruszały się po zbliżonych orbitach, współtworząc większą populację ciał (pas planetoid). Przez następnych kilkadziesiąt lat uznawano istnienie ośmiu planet (łącznie z odkrytym w 1846 r. Neptunem).
+Kiedy w 1930 r. za orbitą Neptuna odkryto Plutona, pierwsze obserwacje sugerowały, że jest on większy od Ziemi, został więc powszechnie uznany za kolejną, dziewiątą planetę. Dalsze badania ujawniły wprawdzie, że jest on znacznie mniejszy, niż początkowo sądzono, jednak ponieważ był większy niż wszystkie planetoidy i zdawał się nie być częścią większej populacji, na długo zachował status planety. Dopiero pod koniec XX wieku za orbitą Neptuna zaczęto odkrywać obiekty podobne do Plutona, niektóre z nich zbliżone do niego także rozmiarem. Astronomowie zdali sobie sprawę, że Pluton jest tylko jednym z wielu obiektów pasa Kuipera. Odkrycie w 2005 r. Eris, obiektu transneptunowego nieznacznie mniejszego od Plutona, zmusiło astronomów do zrewidowania klasyfikacji – w 2006 r. wypracowano definicję, która pozostawiała w Układzie Słonecznym osiem planet, zaś Pluton został zaliczony do nowej kategorii planet karłowatych. W 2008 r. Międzynarodowa Unia Astronomiczna (IAU) nadała planetom karłowatym krążącym za orbitą Neptuna nazwę plutoidy.
+Naukowcy od dawna przypuszczali, że oprócz planet Układu Słonecznego istnieją także planety pozasłoneczne. Już w XVI wieku Giordano Bruno pisał o niezliczonych ziemiach krążących wokół niezliczonych słońc. Bardzo długo jednak nie udawało się znaleźć dowodów na istnienie takich planet. Dopiero w 1992 r. ogłoszono odkrycie pierwszych planet krążących wokół pulsara. W kolejnych latach odkryto wiele innych planet obiegających odległe gwiazdy.
+
+
+== Definicje ==
+
+
+=== Układ Słoneczny ===
+24 sierpnia 2006 na kongresie Międzynarodowej Unii Astronomicznej (IAU) w Pradze uchwalona została definicja planety w Układzie Słonecznym.
+Zgodnie z tą definicją, planetą jest ciało niebieskie, które:
+
+znajduje się na orbicie wokół Słońca
+posiada wystarczającą masę, by własną grawitacją pokonać siły ciała sztywnego tak, aby wytworzyć kształt odpowiadający równowadze hydrostatycznej (prawie kulisty)
+oczyściło sąsiedztwo swojej orbity z innych względnie dużych obiektów.Obiekty niespełniające trzeciego warunku i niebędące księżycami są określane jako planety karłowate. Obiekty niespełniające drugiego i trzeciego warunku (a niebędące księżycami) to małe ciała Układu Słonecznego.
+
+
+==== Kontrowersje i krytyka ====
+Nowa definicja wzbudziła wiele kontrowersji i niektórzy naukowcy nie zgodzili się z jej przyjęciem. Dyskusja co do adekwatności definicji koncentruje się wokół jej trzeciego punktu, dotyczącego oczyszczenia sąsiedztwa orbity.
+Część astronomów wolała, by uchwalono definicję pierwotnie zaproponowaną na wyżej wymienionej konferencji, która nie zawierała warunku oczyszczenia sąsiedztwa orbity. Według tej definicji za planety mogły być od razu uznane jeszcze trzy ciała niebieskie: Ceres, Eris i Charon (Pluton i Charon miały być uznane za planetę podwójną). Wersja ta spotkała się jednak ze sprzeciwem większości delegatów na kongres IAU, gdyż w przypadku jej przyjęcia ostateczna liczba planet w Układzie Słonecznym najprawdopodobniej przekroczyłaby pięćdziesiąt.
+Kontrowersje wzbudziła również interpretacja terminu „oczyszczenie sąsiedztwa” – rezolucja IAU nie podawała jego definicji, pojawiały się więc opinie, że np. Ziemia nie powinna być uznawana za planetę, bo nie oczyściła strefy swojej orbity z Księżyca i pobliskich planetoid. Jednak pojęcie oczyszczenia strefy orbitalnej zostało użyte m.in. w artykule Stevena Sotera, gdzie jest rozumiane jako uzyskanie dynamicznej dominacji. Obiekt uzyskuje dominację, gdy stosunek jego masy do łącznej masy pozostałych obiektów w jego strefie orbitalnej (wyznacznik planetarny μ) jest większy od 100. Pomiary masy ciał Układu Słonecznego ujawniają bardzo wyraźną różnicę (cztery rzędy wielkości) między wyznacznikami planetarnymi planet (najmniejsze μ – Mars: 5,1×103) i planet karłowatych (największe μ – Ceres: 0,33).
+Amerykański astronom Alan Stern, będący głównym naukowcem misji New Horizons, mającej za zadanie dokładniejsze zbadanie Plutona, stwierdził, że misja na swojej stronie internetowej i w swoich oficjalnych dokumentach będzie wciąż określać Plutona mianem „dziewiątej planety”.
+
+
+=== Definicja ogólna ===
+Definicja uchwalona w 2006 r. odnosi się jedynie do planet w Układzie Słonecznym i nie wprowadza rozgraniczenia między planetami a obiektami gwiazdopodobnymi. Ogólna, niezależna od układu planetarnego definicja planety jak dotąd nie została wypracowana, jednak astronomowie często posługują się tymczasową definicją przedstawioną w 2001 i 2003 r. w oświadczeniu Grupy Roboczej IAU ds. Planet Pozasłonecznych. Zgodnie z tą definicją planetą jest obiekt, który:
+
+okrąża gwiazdę lub pozostałości gwiezdne;
+posiada masę mniejszą, niż masa wymagana do przeprowadzenia fuzji jądrowej deuteru (czyli ok. 13 mas Jowisza);
+spełnia wymagania minimalnej masy takie same, jak w przypadku planet Układu Słonecznego (obecnie: kryterium równowagi hydrostatycznej).Niegwiazdowe obiekty o masie większej od minimalnej masy wymaganej do przeprowadzenia fuzji deuteru są nazywane brązowymi karłami.
+Obiekty spełniające warunek maksymalnej masy, ale swobodnie unoszące się w przestrzeni w młodych gromadach gwiazd, nie są planetami; IAU sugeruje określanie takich obiektów mianem brązowych podkarłów. Definicja z 2003 r. nie przesądza natomiast statusu pozostałych obiektów, spełniających warunki masy przewidziane dla planet, ale wolno unoszących się w przestrzeni międzygwiazdowej (poza młodymi gromadami gwiazd). Niektórzy astronomowie proponują określanie wszystkich takich obiektów mianem planemo.
+
+
+== Planety Układu Słonecznego ==
+
+Osiem planet Układu Słonecznego ponumerowanych według rosnącej odległości od Słońca (w nawiasie symbol planety):
+
+Planety w Układzie Słonecznym można podzielić na dwie, wyraźnie się różniące kategorie. Pierwsze cztery planety (wewnętrzne) są planetami typu ziemskiego (skalistymi), rozmiarami i składem są dość podobne do Ziemi. Pozostałe cztery planety (zewnętrzne) to gazowe olbrzymy, znacząco większe od planet skalistych, złożone głównie z materiału gazowego; posiadają pierścienie planetarne.
+
+
+=== Nazwy ===
+Nazwy wszystkich planet Układu Słonecznego, z wyjątkiem Ziemi i Urana, pochodzą od imion rzymskich bogów. Używane są w niemal całym zachodnim świecie. Wyjątkiem jest Grecja, gdzie funkcjonują imiona bóstw greckich – Hermes (zastępuje Merkurego), Afrodyta (Wenus), Gaja (Ziemia), Ares (Mars), Zeus (Jowisz), Kronos (Saturn), Uranos (Uran), Posejdon (Neptun). Także w niektórych nieeuropejskich językach, jak np. chiński, używa się innych nazw. Nazwy większości księżyców planet również pochodzą od imion postaci z mitologii.
+
+
+=== Charakterystyka ===
+Wszystkie planety krążą wokół Słońca w tym samym kierunku – przeciwnym do ruchu wskazówek zegara, patrząc znad północnego bieguna Słońca. Okres obiegu (rok) zależny jest od odległości od Słońca – im dalej planeta krąży wokół gwiazdy centralnej, tym dłuższy dystans musi pokonać i tym wolniej porusza się po orbicie (ze względu na mniejsze oddziaływanie grawitacyjne Słońca).
+Planety obracają się również wokół własnej osi – okres jednego takiego obrotu planety jest znany jako jej doba gwiazdowa. Prawie wszystkie planety rotują w tym samym kierunku, przeciwnym do ruchów wskazówek zegara. Wyjątkiem jest Wenus, a jedną z hipotez tłumaczących ten fakt jest uderzenie masywnej planetoidy w początkowym okresie istnienia Układu Słonecznego. Ze względu na duże nachylenie osi Urana, kierunek jego obrotu jest określany na zasadzie umowy jako przeciwny do ruchu wskazówek zegara. Tak duże nachylenie ma wpływ na wiele innych aspektów związanych z ruchem Urana. Długości dni planetarnych są różne. Pełny obrót zajmuje Wenus ponad 243 dni ziemskie, natomiast gazowe olbrzymy rotują w kilka godzin (Jowisz – 9,925 godziny).
+Wszystkie planety posiadają atmosferę, choć w przypadku Merkurego jest to tylko minimalna, bardzo rozrzedzona otoczka gazowa. Gazowe olbrzymy posiadają atmosferę złożoną głównie z wodoru i helu, w przypadku Wenus i Marsa dominują dwutlenek węgla i azot, a w przypadku Ziemi – azot i tlen.
+
+* Miara względna w stosunku do Ziemi. ** Wartości absolutne można znaleźć w artykule Ziemia.
+
+
+== Obiekty uznawane niegdyś za planety ==
+
+
+== Planety pozasłoneczne ==
+
+Do 26 grudnia 2017 roku Encyklopedia pozasłonecznych układów planetarnych stwierdzała istnienie 3727 planet, serwisy NASA Exoplanet Archive i Exoplanet Exploration informowały o istnieniu 3572 potwierdzonych planet, zaś używający jeszcze ostrzejszych kryteriów selekcji Exoplanet Data Explorer stwierdzał 2950 potwierdzonych odkryć. Początkowo odkrywano głównie planety o masie podobnej lub większej od masy Jowisza, obecnie obserwacje sondy Kepler wskazują, że mniejsze planety są liczniejsze. Bezpośrednia obserwacja pozasłonecznych gazowych olbrzymów jest trudna, a planet skalistych praktycznie niemożliwa, przy użyciu współczesnych teleskopów. Są jednak planowane urządzenia mające na celu obserwację takich planet, jak Ekstremalnie Wielki Teleskop Europejski czy proponowany teleskop kosmiczny ATLAST. Obiecujące są również projekty wykorzystujące interferometrię wielkobazową.
+
+
+== Zobacz też ==
+samotna planeta
+powstawanie planet
+lista gwiazd posiadających zidentyfikowane planety
+lista ciał planetarnych w Układzie Słonecznym
+
+
+== Uwagi ==
+
+
+== Przypisy ==
+
+
+== Linki zewnętrzne ==
+AstroNet.pl – Być albo nie być? (planetą)
+Definicja planety w Układzie Słonecznym – polskie tłumaczenie całości rezolucji IAU
+Chuck Ayoub: The Planets (ang.). [dostęp 2014-08-03]. [zarchiwizowane z tego adresu (2009-09-18)].
+Nine Planets serwis o planetach Układu Słonecznego (ang.)
+What is a Planet? (ang.). W: Solar System Exploration [on-line]. NASA. [dostęp 2014-08-03].

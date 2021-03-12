@@ -1,0 +1,63 @@
+Een ruimtevaartuig of ruimteschip is een vervoermiddel ontworpen voor reizen buiten de dampkring, dat wil zeggen voor ruimtevaart.
+
+
+== Eisen waaraan een ruimtevaartuig moet voldoen ==
+Afhankelijk van de bestemming, reisduur en de lading worden er eisen gesteld aan een ruimtevaartuig. Een van de belangrijkste aspecten is of een ruimtevaartuig een bemanning heeft (bemande ruimtevaart) of niet (onbemand)
+Bij bemande ruimtevaartuigen zijn zaken als zuurstof en voedsel nodig, en steekt het nauwer wat de temperatuur is, en de versnelling. Ook moet de bemanning veilig kunnen terugkeren. Omdat er in de ruimte geen beschermende dampkring is die schadelijke straling tegenhoudt, moeten ruimtevaartuigen daar bescherming tegen kunnen bieden. Om bij terugkeer naar aarde de hitte als gevolg van plasmavorming door sterke compressie van de atmosfeer aan de onderzijde/voorzijde van het ruimteschip te kunnen weerstaan, dient een hitteschild aanwezig te zijn. Als geen mensen maar wel dieren meereizen geldt deels hetzelfde. Bij onbemande vluchten kan ook gekozen worden voor een harde landing of het in de ruimte blijven.
+Voor het opstijgen en alle andere manoeuvres buiten een atmosfeer is stootkracht (dus delta v) nodig waarvoor de massa moet worden meegenomen. Ook de energie moet worden meegenomen, voor zover deze niet door zonnepanelen geleverd wordt. Bij veel raketmotoren levert de propellant zowel de energie als de reactiemassa voor de stootkracht voor de manoeuvres. Daarnaast is nog wel energie nodig voor de instrumenten.
+
+
+== Soorten ruimtevaartuigen ==
+Er zijn verschillende soorten ruimtevaartuigen voor verschillende doeleinden. Om objecten en bemanningen buiten de aardatmosfeer te brengen wordt in het algemeen een raket (ook wel: draagraket) of een ruimteveer zoals de Spaceshuttle gebruikt. Kunstmanen worden door een raket of ruimteveer in een baan om de aarde gebracht. Deze onbemande ruimtevaartuigen blijven daar meestal gedurende lange tijd om communicatie te verzorgen of bijvoorbeeld de aarde te observeren. Een speciaal soort kunstmanen zijn ruimtestations. Dit zijn veelal permanent bewoonde ruimtevaartuigen die in een baan om de aarde bewegen. Voor het transport naar een ruimtestation kan zowel een ruimteveer worden gebruikt alsook een ruimtecapsule die met een draagraket buiten de dampkring is gebracht en vervolgens zelfstandig verder reist. Ruimtecapsules zijn in het verleden ook gebruikt bij reizen naar de maan (vergezeld van een lander). Ruimtesondes zijn ruimtevaartuigen die reizen naar vergelegen gebieden in het universum (en tot op heden altijd onbemand). Om na aankomst op een andere planeet of maan langere afstanden af te kunnen leggen, worden er soms voertuigen met rupsbanden en/of wielen meegenomen.
+
+
+=== Draagraket ===
+Draagraketten zijn ruimtevaartuigen om ladingen buiten de aardatmosfeer te brengen. Als gevolg van de zwaartekracht vereist het verlaten van de aardatmosfeer een enorme hoeveelheid brandstof en vermogen. Daartoe bestaan draagraketten voor het grootste deel uit brandstoftanks en krachtige motoren. Geheel boven in de raket is plaats voor de lading (bv een kunstmaan, ruimtesonde of capsule) en direct daaronder bevindt zich een besturingseenheid en eventueel een ruimte voor bemanning. Veruit de meeste raketten zijn onbemand en worden door de boordcomputer bestuurd. Tot voor kort waren draagraketten slechts eenmalig tegebruiken. In 2015 toonde Blue Origin aan een suborbitale New Shepard-raket te kunnen laten landen. Enkele weken later lukte dit ook SpaceX met de veel grotere eerste trap van de orbitale Falcon 9. Beide bedrijven hebben inmiddels boosters hergebruikt. In 2020 wist ook Rocket Lab een boostertrap in zee te laten landen met behulp van parachutes. Bij latere vluchten worden de afdalende Rocket Lab-boosters door een helicopter uit de lucht gegrepen om blootstelling aan en schade door zeewater te voorkomen.
+Enkele bekende raketten uit het heden en verleden zijn: Saturnus V, Sojoez, Atlas V, Delta II, Titan IV en Ariane 5.
+
+
+=== Ruimteveer ===
+Anders dan de meeste draagraketten is een ruimteveer geheel of gedeeltelijk herbruikbaar. Ze zijn niet alleen geschikt om buiten de aardatmosfeer te komen, maar kunnen daarna zelfstandig hun missie uitvoeren en uiteindelijk weer terugkeren naar de aarde om te landen als een vliegtuig. Enkele bekende ruimteveren uit het heden en het verleden zijn: Spaceshuttle, Boeran, SpaceShipOne, SpaceShipTwo en Dream Chaser.
+
+
+=== Kunstmaan ===
+Een kunstmaan (of satelliet, maar dat kan verwarring met natuurlijke manen opleveren) is een ruimtevaartuig dat in een al dan niet geostationaire baan rond de aarde (of ander hemellichaam) wordt gebracht om daar gedurende lange tijd een taak uit te voeren. Afhankelijk van het type kunstmaan bestaat deze taak uit het verzorgen van communicatie over lange afstanden, observatie, spionage, global positioning system (gps) of bijvoorbeeld hulp bij het maken van weersvoorspellingen. Het exacte aantal kunstmanen rond de aarde is niet precies bekend en de schattingen lopen uiteen, maar een aantal van 3000 is in 2004 een redelijke indicatie. Enkele bekende kunstmanen uit het heden en verleden zijn: Spoetnik, Envisat, Meteosat en Hubble.
+
+
+=== Ruimtecapsule ===
+Onder een ruimtecapsule kan elk luchtdicht ruimtevaartuig (bemand of onbemand) worden verstaan dat met een draagraket of ruimteveer buiten de aardatmosfeer wordt gebracht om vervolgens het transport naar het einddoel (en veelal ook de terugweg) te regelen. Bij reizen naar de maan in het verleden, werden ruimtecapsules (met een maanlander) gebruikt en ook voor de bevoorrading van ruimtestations worden ze veelvuldig ingezet. 
+De hedendaagse bemande ruimtecapsules zijn: Dragon 2, Starliner, Shenzou en Sojoezcapsule.
+Enkele bekende typen ruimtecapsules uit het verleden zijn: Vostok-capsule, Apollo CSM, Geminicapsule. Deze waren allen voorzien van een hitteschild voor de terugreis. De suborbitale New Shepard-capsule heeft geen hitteschild. Deze haalt niet de snelheden waarbij de atmosferische compressie onder de capsule zo groot wordt dat er heet plasma ontstaat.
+Vrachtcapsules hebben meestal geen hitteschild en verbranden daarom bij de terugkeer in de atmosfeer. De herbruikbare Cargo Dragon en zijn voorganger Dragon zijn daarop een uitzonding en zijn ook geschikt om vracht terug naar aarde te transporteren.
+
+
+=== Ruimtesonde ===
+Een ruimtesonde is een onbemand ruimtevaartuig voor onderzoeksdoeleinden in het universum. In tegenstelling tot de meeste kunstmanen draaien ruimtesondes niet in een baan om de aarde, maar reizen ze naar verder gelegen doelen zoals andere planeten en zelfs plaatsen buiten het zonnestelsel. Ruimtesondes leggen in het algemeen enorm lange afstanden af zonder enige menselijke interactie. Hiertoe zijn ze volledig geautomatiseerd. Enkele bekende ruimtesondes uit het heden en verleden zijn: Cassini-Huygens, Voyager, New Horizons en Deep Impact.
+
+
+=== Ruimtestation ===
+Binnen de kunstmanen nemen de ruimtestations een bijzondere plaats in omdat ze, veelal permanent, bewoond zijn. De eerste ruimtestations waren omgebouwde ruimtecapsules die in één keer in een baan om de aarde werden gebracht. Recentere ruimtestations zijn groter van omvang en worden ter plekke gebouwd. Sinds 24 maart 2001 is het Internationaal ruimtestation ISS het grootste ruimtestation dat in gebruik is. Enkele bekende ruimtestations uit het verleden zijn de Saljoets, Skylab, Mir en Tiangong 1 en 2. Sinds 2019 wordt de Lunar Orbital Platform-Gateway, een ruimtestation dat vanaf medio jaren 2020 rond de Maan zal zweven, ontwikkeld.
+
+
+=== Rovers ===
+De meeste ruimtevaartuigen zijn niet in staat om over vaste grond te bewegen. Om na aankomst op een andere planeet of maan langere afstanden af te kunnen leggen worden er soms beweegbare robots of autoachtige constructies meegevoerd, zogenaamde rovers. Op de maan staat nog een aantal vierwielige voertuigen die de Amerikanen daar in de jaren 70 achter lieten en op Mars en Venus bevinden zich intussen ook een aantal (al dan niet te pletter geslagen) voertuigen. Enkele bekende landvoertuigen die naar andere hemellichamen zijn gestuurd zijn: Maanwagen, Beagle 2, Mars Exploration Rover, Mars Pathfinder en de Mars Science Laboratory.
+
+
+== Voortstuwing en energie ==
+Draagraketten en ruimteveren maken veelal gebruik van grote tank met vaste of vloeibare brandstof en oxidatiemiddel zoals waterstof, hydrazine, zuurstof (LOX) en/of waterstofperoxide. Na het verbruiken hiervan worden de lege tanks afgeworpen om terug te vallen in zee of te verbranden in de aardatmosfeer. Ruimtestations, capsules en kunstmanen beschikken meestal over zonnepanelen om energie op te wekken. Sommige kunstmanen en de meeste ruimtesondes hebben nucleaire installaties aan boord voor de energieopwekking. Buiten de aardatmosfeer worden na het bereiken van voldoende snelheid de raketmotoren niet continu gebruikt maar alleen bij bepaalde manoeuvres zoals (eventueel) koerscorrecties, afremmen bij het bereiken van de bestemming, weer opstijgen, enz. Moderne ruimtesondes kunnen worden uitgerust met een ionenmotor. Dit type aandrijving is niet zo krachtig en alleen geschikt voor langzame aanpassingen van de snelheid of de richting. Extra stootkracht wordt vaak verkregen middels een zwaartekrachtsslinger van een planeet (of eventueel een maan).
+
+
+== Bevoorrading, onderhoud en reparatie ==
+Het ISS wordt regelmatig bevoorraad, en afvalstoffen worden afgevoerd; dit gebeurde ook bij eerdere ruimtestations. Naar de ruimtetelescoop Hubble zijn vier missies geweest voor onderhoud en reparatie. De meeste ruimtevaartuigen worden in de ruimte echter nooit bevoorraad, en indien onbemand ook nooit in de ruimte onderhouden of gerepareerd, behalve in de zin van het ontvangen van signalen en het ontvangen van zonne-energie, omdat een ruimterendezvous onmogelijk of erg duur is.
+Alles wat tijdens ruimtevluchten en bij landingen op hemellichamen uit de ruimte en van die hemellichamen is meegenomen waren monsters voor onderzoek, geen verbruiksmateriaal zoals brandstof, reactiemassa, zuurstof, voedsel of drinkwater.
+Er zijn soms wel plannen om voorraden in een ruimtestation of op een basis op een hemellichaam te creëren die door een ruimtevaartuig kunnen worden benut.
+
+
+== Financiering ==
+Ruimtevaart is een zeer dure bezigheid. In het verleden werden ruimtevaartprojecten altijd gefinancierd door overheden. Sinds het einde van de 20e eeuw kwam ruimtevaart echter langzaamaan steeds meer binnen het bereik van bedrijven. De eerste particulier georganiseerde bemande ruimtevlucht werd op 21 juni 2004 uitgevoerd met de SpaceShipOne, gebouwd door Scaled Composites van Burt Rutan. De eerste rendabele particulier georganiseerde vluchten waarbij meerdere mensen, tegen een niet al te exorbitante prijs, een ruimtesprong kunnen maken, waren voorlopig gepland voor 2010, al naargelang het tempo waarin het bouwen en testen van de SpaceShipTwo kan worden gerealiseerd.
+Eerder werden al kunstmanen in een baan om de aarde gebracht door bedrijven zoals Starsem.
+
+
+== Zie ook ==
+Lijst van ongevallen en incidenten met ruimtevaartuigen
+Voor vermeende ruimtevaartuigen die van elders de aarde bezoeken, zie Unidentified flying object.

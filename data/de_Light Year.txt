@@ -1,0 +1,37 @@
+Das Lichtjahr ist ein Längenmaß, das in der Astronomie zur Angabe großer Entfernungen üblich ist. Es ist definiert als die Strecke, die das Licht im Vakuum während eines julianischen Jahres (365,25 Tage) zurücklegt. Das sind 9,46 Billionen Kilometer (9,46 · 1012 km). Da die Bezeichnung das Wort „Jahr“ enthält, wird das Lichtjahr manchmal fälschlicherweise als Zeiteinheit interpretiert.
+
+
+== Verwendung ==
+Das Lichtjahr ist eine astronomische Längeneinheit. Sie wird oft zur Angabe kosmischer Entfernungen in der astronomischen Öffentlichkeitsarbeit benutzt. Im wissenschaftlichen Umfeld ist jedoch Parsec üblicher.
+Wie bei jeder Längeneinheit lässt sich auch vom Lichtjahr durch Potenzierung ein Raummaß zur Angabe von Volumina ableiten. In diesem Fall ergibt sich dadurch die Einheit Kubiklichtjahr, die dem Volumen eines Würfels mit einer Kantenlänge von einem Lichtjahr entspricht (= 8,4673 · 1047 m³).
+
+
+== Definition ==
+Ein Lichtjahr ist laut der Internationalen Astronomischen Union (IAU) definiert als die Strecke, die eine elektromagnetische Welle wie das Licht in einem julianischen Jahr im Vakuum zurücklegt. Es gibt mehrere Definitionen für ein Jahr. So gibt es das tropische Jahr, das gregorianische Jahr, das julianische Jahr und das siderische Jahr. Diese weichen bis zu 0,005 Prozent voneinander ab, was bei genaueren Angaben zu Divergenzen führt. Daher hat die Internationale Astronomische Union  empfohlen, ein „Jahr“ ohne genauere Angaben als julianisches Jahr (= exakt 365,25 Tage) auszulegen.
+Analog zum Lichtjahr werden die Einheiten Lichtsekunde, Lichtminute, Lichtstunde und Lichttag definiert.
+Im Internationalen Einheitensystem (SI) ist die Einheit „Meter“ über die Lichtgeschwindigkeit definiert, die mit dem Wert 299.792.458 m/s fixiert wurde. Daher entspricht ein Lichtjahr einer exakten ganzen Zahl von Metern:
+
+Ein Lichtjahr entspricht des Weiteren etwa
+
+
+== Beispiele ==
+
+Die mittlere Entfernung zwischen Erde und Mond beträgt ca. 1,28 Lichtsekunden.
+Die mittlere Entfernung zwischen Sonne und Erde beträgt ca. 499 Lichtsekunden (8 1/3 Lichtminuten).
+Die mittlere Entfernung zwischen Sonne und Neptun beträgt ca. 4,17 Lichtstunden.
+Die Grenze der Heliosphäre ist ca. 16,6 Lichtstunden entfernt.
+Der sonnennächste Stern, Proxima Centauri, ist ca. 4,24 Lichtjahre entfernt.
+Der Durchmesser unserer Galaxie, der Milchstraße, beträgt 170.000 bis 200.000 Lichtjahre.
+Die Entfernung zur nächsten größeren Galaxie, der Andromedagalaxie, beträgt 2,4 bis 2,7 Millionen Lichtjahre.
+Bis zur Grenze des beobachtbaren Universums sind es ca. 46,6 Milliarden Lichtjahre.
+
+
+== Siehe auch ==
+Lichtfuß 
+Wegstunde, Autostunde, Gehminute
+
+
+== Weblinks ==
+
+
+== Quellen ==

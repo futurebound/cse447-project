@@ -1,0 +1,38 @@
+De kelvin (symbool: K) is de eenheid van thermodynamische temperatuur, een van de zeven basiseenheden van het SI-stelsel.
+De schaal is genoemd naar de Britse fysicus William Thomson (1824-1907), die later in de adelstand werd verheven als Lord Kelvin.
+
+
+== Definitie ==
+
+
+=== Tot 2019 ===
+De definitie van de kelvin-temperatuurschaal bestaat uit twee delen:
+
+0 K is gelijk aan het absolute nulpunt, de laagste temperatuur die theoretisch bereikbaar is (alle moleculaire beweging is bij deze temperatuur afwezig).
+1 K is het 1/273,16e deel van de thermodynamische temperatuur van het tripelpunt van water. Dit tripelpunt ligt 0,01°C (graden Celsius) hoger dan het smeltpunt van ijs. Vandaar dat in de omrekening naar graden Celsius de waarde −273,15 gebruikt wordt, want 0°C is gedefinieerd als de temperatuur van smeltend ijs in water bij p = p0.In de definitie van de kelvin wordt gerefereerd aan water met de volgende isotopenverhouding:
+
+0,000 155 76 mol 2H per mol 1H,
+0,000 379 9 mol 17O per mol 16O,
+0,002 005 2 mol 18O per mol 16O.
+
+
+=== Sinds 20 mei 2019 ===
+Sinds 20 mei 2019 wordt de boltzmannconstante experimenteel bepaald. In de herdefinitie van de basiseenheden wordt aan deze constante een exacte waarde toegekend (1,380 649·10−23 J K−1). De kelvin wordt vervolgens van die waarde afgeleid: de thermodynamische temperatuur stijgt met 1 K als de thermische energie 1,380 649·10−23 J stijgt. Als gevolg daarvan is het tripelpunt van water sinds 20 mei 2019 niet meer exact 273,16 kelvin, maar wel met grote nauwkeurigheid daaraan gelijk.
+
+
+== Verband met de Celsiusschaal ==
+De schaal van Kelvin is in feite afgeleid van de schaal van Celsius, met een ander nulpunt. De Celsiusschaal kan worden uitgedrukt in kelvin maar er is een belangrijk verschil. In de thermodynamica kent men het begrip thermische energie. Grofweg is dat de energie die in de thermische beweging van de moleculen opgeslagen is. Deze energie is evenredig met de absolute temperatuur T:
+
+Ethermisch = kTDe evenredigheidsconstante k heet de boltzmannconstante en heeft als eenheid joule per kelvin [J/K]. Dat wil zeggen dat als de absolute temperatuur twee keer zo hoog is, er ook twee keer zo veel thermische energie aanwezig is. Deze uitspraak geldt voor een absolute temperatuurschaal, zoals de kelvinschaal, maar niet voor de Celsiusschaal. De kelvin is een absolute eenheid met een natuurlijk nulpunt, net als de joule of de ampère. Bij de Celsiusschaal is dit niet zo. 
+De eenheid van temperatuur heet sinds 1967 officieel de kelvin, en niet meer zoals daarvoor de "graad Kelvin" (zoals dat bijvoorbeeld nog wel zo is bij graden Celsius). Ook in het symbool is de ° komen te vervallen:
+
+273,15 K = 0°CBij zeer hoge temperaturen is er nauwelijks verschil tussen de aanduiding in kelvin en in graden Celsius. In populaire literatuur zegt men dat de temperatuur in het inwendige van de zon 15 miljoen graden Celsius is. Dat verschilt niet significant van 15 miljoen kelvin, zoals in wetenschappelijke literatuur staat.
+
+
+== Kleurtemperatuur ==
+Ook de kleurtemperatuur wordt meestal in kelvin aangegeven.
+
+
+== Externe links ==
+(en)  Conversion calculator for units of temperature
+(en)  SI-definities

@@ -1,0 +1,186 @@
+:Acest articol descrie conceptul de „Masă” din fizică. Pentru alte semnificații ale cuvântului „Masă” v. Masă (dezambiguizare).
+Masa unui corp sau a unei particule este una din cele 7 mărimi fizice fundamentale. Masa se definește ca o mărime ce determină măsura inerției unui corp sau particulă, determinabilă la nivel macroscopic și măsurată, de asemenea, macroscopic. Totodată, masa, prin intermediul  masei atomice este legată de cantitatea de substanță conținută într-un corp sau sistem fizic închis. Masa este o mărime fundamentală, scalară și extensivă; pentru sistemele fizice macroscopice are caracter de mărime globală. A nu se confunda cu greutatea unui corp, care este o forță.
+
+
+== Simbol și unitate de măsură ==
+Simbolul masei este litera minusculă "m", iar unitatea sa de măsură, în Sistemul Internațional (SI) este "kilogram", sau exprimat simbolic și comun, "1 kg". Formula corespunzătoare celor de mai sus este:
+
+  
+    
+      
+        ⟨
+        m
+        
+          ⟩
+          
+            S
+            I
+          
+        
+        =
+        1
+        
+        k
+        g
+      
+    
+    {\displaystyle \langle m\rangle _{SI}=1\;kg}
+  Alături de lungime și timp, masa reprezintă una din cele trei măsuri fundamentale sau esențiale din mecanică.
+A nu se confunda kilogramul cu kilogramul-forță, utilizat în sistemul MKfS.
+
+
+== Masă grea ==
+Masa grea (masa gravifică sau gravitațională) este o mărime fizică ce apare ca factor de proporționalitate în legea atracției universale a lui Newton.
+Masa grea este masa măsurată pe baza acțiunii câmpului gravitațional. Să presupunem că două corpuri punctiforme (puncte materiale) A și B se află la o distanță "rAB". Conform legii atracției universale, dacă masele gravifice (masele grele) ale celor două corpuri sunt "MA" și respectiv "MB", atunci ambele corpuri acționează reciproc unul asupra celuilalt cu o forță gravitațională "F" care scade proporțional cu patratul distanței dintre acestea. Expresia matematică scalară a acestei forțe a fost stabilită de Newton:
+
+  
+    
+      
+        
+          |
+        
+        F
+        
+          |
+        
+        =
+        
+          
+            
+              k
+              
+                M
+                
+                  A
+                
+              
+              
+                M
+                
+                  B
+                
+              
+            
+            
+              
+                |
+              
+              
+                r
+                
+                  A
+                  B
+                
+              
+              
+                
+                  |
+                
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle |F|={kM_{A}M_{B} \over |r_{AB}|^{2}}}
+  ,
+unde "k" reprezintă constanta gravitațională universală, cu valoarea de circa 6,67428 x 10−11 N m² kg−2.
+
+
+== Masa de mișcare (inerțială) ==
+Conceptul de masă de mișcare apare în legea mișcării (lege fundamentală a mecanicii clasice) formulată de Newton care arată relația dintre forță și accelerație:
+
+  
+    
+      
+        
+          F
+        
+        =
+        m
+        
+          a
+        
+      
+    
+    {\displaystyle \mathbf {F} =m\mathbf {a} }
+   sau echivalent 
+  
+    
+      
+        
+          a
+        
+        =
+        
+          
+            
+              F
+            
+            m
+          
+        
+      
+    
+    {\displaystyle \mathbf {a} ={\frac {\mathbf {F} }{m}}}
+  .Einstein a demonstrat că într-un sistem de coordonate mobil cu viteza v apropriată de cea a luminii, masa unui corp măsurată din sistemul fix de coordonate depinde de viteza corpului, și a dedus relația:
+
+ unde
+m este masa corpului în mișcare,
+mo masa de repaus,
+
+  
+    
+      
+        γ
+        =
+        
+          
+            1
+            
+              1
+              −
+              
+                v
+                
+                  2
+                
+              
+              
+                /
+              
+              
+                c
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \gamma ={\frac {1}{\sqrt {1-v^{2}/c^{2}}}}}
+   este factorul Lorentz, notat cu litera greacă gamma,
+iar 
+  
+    
+      
+        c
+        
+      
+    
+    {\displaystyle c\,}
+   este viteza luminii în vid (circa 300.000 km/s).
+
+
+== Echivalența între masa inerțială și cea gravitațională ==
+
+
+== Vezi și ==
+
+
+== Legături externe ==

@@ -1,0 +1,76 @@
+L'elettrolisi (pronuncia corretta: /eletˈtrɔlizi/; pronuncia accettabile: /elɛttroˈlizi/) è un processo che consiste nello svolgimento di trasformazioni chimiche grazie all'apporto di energia elettrica; si ha quindi la conversione dell'energia elettrica in energia chimica.
+Il processo teorico inverso dell'elettrolisi è la generazione di energia elettrica attraverso una pila; la pila infatti produce energia elettrica sfruttando trasformazioni chimiche, mentre l'elettrolisi sfrutta l'energia elettrica per fare avvenire trasformazioni chimiche. Il processo di produzione di energia elettrica in una pila è un processo spontaneo, mentre il processo di elettrolisi non avviene spontaneamente (infatti è necessario fornire dall'esterno energia elettrica al sistema perché il processo possa avvenire).
+
+
+== Elettrolisi e dissociazione elettrolitica ==
+Il termine "elettrolisi" deriva dal greco e significa "rompere con l'elettricità", dato che in molti casi sottoporre ad elettrolisi una sostanza significa scomporla nei suoi elementi costitutivi. Ad esempio attraverso l'elettrolisi dell'acqua (la cui molecola è composta da due atomi di idrogeno e un atomo di ossigeno) si ottengono gli elementi di cui è composta, cioè idrogeno (H2) e ossigeno (O2). Nei casi in cui l'elettrolisi porti effettivamente alla scissione di una sostanza nei suoi elementi costitutivi, si parla più precisamente di dissociazione elettrolitica.
+
+2H2O(aq) → 2H2(g) + O2(g)Per applicazione di una corrente elettrica continua, subiscono dissociazione elettrolitica tutte quelle sostanze che, in soluzione o fuse, si scompongono in ioni, ossia gli acidi, le basi, i sali e l'acqua.
+Il fenomeno della dissociazione elettrolitica può comunque avvenire anche senza apporto di energia elettrica dall'esterno e d'altro canto la dissociazione elettrolitica è solo uno dei tanti fenomeni che avvengono durante il processo di elettrolisi (ad esempio avvengono fenomeni di deposizione all'elettrodo e polarizzazione), per cui i termini "elettrolisi" e "dissociazione elettrolitica" non sono sinonimi.
+
+
+== Leggi di Faraday ==
+Uno studio sistematico sull'elettrolisi fu compiuto da Michael Faraday, che nel 1832 enunciò le sue due leggi sull'elettrolisi, scoperte in modo indipendente anche da Carlo Matteucci:
+
+la quantità di elementi prodotti da un processo di elettrolisi è direttamente proporzionale alla quantità di carica che ha attraversato la cella elettrolitica;
+a parità di carica, la quantità dei diversi elementi ottenuti è proporzionale ai pesi equivalenti delle specie chimiche.
+
+
+== Esecuzione dell'elettrolisi ==
+In laboratorio gli esperimenti di elettrolisi vengono in genere condotti sulle soluzioni acquose; nella soluzione acquosa vengono immersi due elettrodi ai quali viene applicata una corrente elettrica continua. Per attrazione tra le cariche opposte, gli ioni positivi (cationi) vengono attratti dall'elettrodo negativo (catodo) e gli ioni negativi (anioni) dall'elettrodo positivo (anodo). Nelle normali ossidoriduzioni, gli elettrodi hanno funzioni opposte, cioè, il catodo è quello positivo ed attrae anioni e l'anodo ovviamente ha il compito opposto,cioè quello di attrarre cationi; solo nel caso dell'elettrolisi si ha questo "scambio" poiché la riduzione viene forzata somministrando elettroni e quindi "gli elettrodi si invertono di ruolo".
+Quando uno ione positivo entra in contatto con l'elettrodo negativo (il catodo in questo caso) è forzato ad acquisire da esso elettroni, ossia subisce una riduzione. Ad esempio, nell'elettrolisi di un sale rameico, gli ioni rameici (Cu2+) sono trasformati in rame metallico (Cu(s)), che si deposita sulla superficie dell'elettrodo, secondo la reazione:
+
+Cu2+ + 2e- → Cu(s)Quando uno ione negativo entra in contatto con l'elettrodo positivo (l'anodo in questo caso) cede a questo i suoi elettroni, cioè subisce un'ossidazione. Uno ione cloruro, ad esempio, viene trasformato in un atomo di cloro; due atomi di cloro vicini si combinano in una molecola biatomica di cloro gassoso, che si allontanerà sotto forma di gas, secondo la reazione:
+
+2Cl- → Cl2 + 2e-Similmente, l'elettrolisi dell'acqua produce idrogeno ed ossigeno gassosi, attraverso le seguenti reazioni:
+
+catodo: 2H+ + 2e- → H2
+anodo: 2OH- → ½ O2 + H2O + 2e-La differenza di potenziale elettrico da applicare agli elettrodi per poter provocare l'elettrolisi dipende dai potenziali di riduzione delle reazioni che avvengono a ciascun elettrodo.
+La riduzione o l'ossidazione delle sostanze sottoposte a elettrolisi avverrà in accordo con le seguenti regole:
+
+Gli ioni H+, sotto forma di idrossonio (H3O+), sia provenienti dalla dissociazione dell'acqua che da quella di un acido, si riducono più facilmente degli ioni dei metalli che precedono l'idrogeno nella scala dei potenziali di riduzione; raggiungendo il catodo captano elettroni (riduzione), passano allo stato atomico e quindi a idrogeno molecolare.
+Gli ioni dei metalli che seguono l'idrogeno nella scala dei potenziali di riduzione si riducono più facilmente di esso, raggiungendo il catodo captano elettroni (riduzione), diventano atomi neutri e si depositano sul catodo in forma di metallo.
+Gli ioni cloruro, Cl-, se la soluzione è concentrata, si ossidano più facilmente degli ioni ossidrilici, raggiungono l'anodo, cedono elettroni (ossidazione) e si ha quindi sviluppo di cloro gassoso.
+Gli anioni degli ossiacidi e gli ioni fluoruro si ossidano meno facilmente degli ioni ossidrilici che, reagendo a due a due, danno acqua e sviluppano ossigeno gassoso.Bisogna tener conto del fatto che il potenziale di riduzione varia in funzione della concentrazione delle specie interessate all'elettrolisi, quindi nel caso più generale è necessario fare ricorso all'equazione di Nernst per valutare quale specie effettivamente si ossidi e quale si riduca, piuttosto che fare affidamento solamente ai potenziali redox tabulati (i quali sono riferiti ad una concentrazione 1M). Inoltre non si deve trascurare l'eventuale sovratensione, ovvero il surplus di potenziale (dovuto a cause dissipative) da applicare agli elettrodi rispetto al semplice potenziale di riduzione delle specie che partecipano all'elettrolisi. In particolare, a causa dell'elevata polarizzazione, risulta considerevole la sovratensione dovuta allo sviluppo di molecole gassose sulla superficie di un elettrodo (quali ad esempio idrogeno o ossigeno).
+
+
+== Applicazioni ==
+La sostanza più comunemente prodotta per elettrolisi in ambito industriale è il cloro, a partire dalla salamoia (soluzione di cloruro di sodio) o dal cloruro di sodio fuso.
+Un'altra applicazione dell'elettrolisi è l'elettrogravimetria, una metodica analitica molto accurata, utile in particolare per determinare il titolo di una lega pesando la quantità di metallo depositatasi sul catodo.
+La galvanostegia e la galvanoplastica sono importanti applicazioni tecnologiche che permettono di ricoprire la superficie di vari materiali con uno strato di metallo più nobile, per scopi protettivi nei confronti della corrosione o semplicemente per scopi decorativi o estetici. Un esempio in tal senso è il processo di cromatura.
+Un altro esempio di applicazione delle celle elettrolitiche è il generatore di idrogeno, utilizzato per realizzare il processo di elettrolisi dell'acqua.
+Importanti e più recenti applicazioni riguardano i trattamenti di inquinanti contenuti nei reflui industriali, tra i quali particolare attenzione è rivolta ai composti organici clorurati, alcuni dei quali sono cancerogeni e non eliminabili mediante trattamenti di tipo biologico (ovvero "biorefrattari"); essi provengono in particolare dalla produzione di polivinilcloruro (PVC), ottenuto dal cloruro di vinile monomero (VCM). In questi casi i processi di dealogenazione per riduzione elettrochimica appaiono particolarmente promettenti, dato che consentono di trasformare i composti policlorurati in idrocarburi, che sono biodegradabili, mentre gli atomi di cloro vengono trasformati in cloruri inorganici.
+
+		
+
+
+== Note ==
+
+
+== Voci correlate ==
+Cella elettrolitica
+Elettrogravimetria
+Equivalente
+Michael Faraday
+Galvanoplastica
+Galvanostegia
+Elettroflottazione
+Elettrolisi dell'acqua
+Elettrolisi di Kolbe
+Elettrolisi ad alta temperatura
+Marcatura elettrolitica
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «elettrolisi»
+ Wikimedia Commons contiene immagini o altri file su elettrolisi
+
+
+== Collegamenti esterni ==
+
+(EN) Elettrolisi, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ Elettrolisi: generalità, su dsch.univ.trieste.it.
+ L'elettrolisi dell'acqua, su itchiavari.org.
+ L'elettrolisi di una soluzione di ioduro di potassio, su itchiavari.org.
+ L'elettrolisi di un sale fuso, su itchiavari.org.

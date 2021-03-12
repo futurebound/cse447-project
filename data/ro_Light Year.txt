@@ -1,0 +1,29 @@
+Anul-lumină este o unitate de lungime utilizată pentru a exprima distanțe astronomice și este echivalent cu aproximativ 9,46 bilioane de kilometri (9,46 x 1012 km). Un an-lumină, definit de Uniunea Astronomică Internațională (IAU), este distanța pe care lumina o parcurge în vid într-un an iulian (365,25 zile). Deoarece include cuvântul „an”, termenul an-lumină poate fi interpretat în mod greșit ca o unitate de timp.Anul-lumină este cel mai adesea folosit atunci când se exprimă distanțe față de stele și alte distanțe pe o scară galactică, în special în publicațiile de popularizare a științei non-specializate. În astrometria profesională, unitatea cea mai frecvent utilizată este parsecul (simbol: pc, aproximativ 3,26 ani-lumină; distanța la care o unitate astronomică subtinde un unghi de un arcsecundă).
+
+
+== Definiții ==
+Așa cum este definit de IAU, anul-lumină este definit ca produsul dintre un an iulian  (365,25 zile spre deosebire de anul gregorian de 365,2425 zile) și viteza luminii (299.792.458 m/s). Ambele valori sunt incluse în Sistemul de constante astronomice, utilizat din 1984. Din aceasta, pot fi derivate următoarele conversii. IAU recunoaște ca abrevieri pentru an-lumină ly,, deși alte standarde precum ISO 80000 utilizează "l.y." și abrevieri localizate frecvente, cum ar fi „al“ în franceză (de la année-lumière), spaniolă (de la año luz) și italiană (de la anno luce), „Lj” în germană (de la Lichtjahr), etc.
+
+Înainte de 1984, în Sistemul de constante astronomice IAU (1964), utilizat între 1968 și 1983 erau folosite: anul tropic (nu anul iulian) și o viteză măsurată (nu definită) a luminii. Rezultatul lui Simon Newcomb J1900,0 înseamnă anul tropic de 31.556.925,9747 secunde efemeride și o viteză a luminii de 299.792,5 km/s care produceau un an-lumină de 9,460530 × 1015 m (rotunjit la cele șapte cifre semnificative ale vitezei luminii). Această valoare găsită în mai multe surse moderne a fost probabil derivată dintr-o sursă veche, cum ar fi CW Allen din 1973 Cantități astrofizice ca referință de lucru.Alte valori de înaltă precizie nu sunt derivate dintr-un sistem IAU coerent. O valoare de 9,460536207 × 1015 m găsită în unele surse moderne este produsul unui an gregorian mediu (365,2425 zile) și viteza definită a luminii (299.792.458 m/s). O altă valoare, 9,460528405 × 1015 m, este produsul anului tropic J1900.0 și viteza definită a luminii.
+
+
+== Istoric ==
+
+Unitatea an-lumină a apărut la câțiva ani după prima măsurare cu succes a distanței față de o stea, alta decât Soarele, de către Friedrich Bessel în 1838. Steaua era 61 Cygni și Bessel a folosit un heliometru de 16 cm proiectat de Joseph von Fraunhofer. Cea mai mare unitate pentru exprimarea distanțelor în spațiu în acel moment era unitatea astronomică, egală cu raza orbitei Pământului (1,50 × 108 km). În acești termeni, calcule trigonometrice pe baza paralaxei 61 Cygni de 0,314 arcsecunde, au arătat că distanța până la stea este de 660.000 de unități astronomice (9,9 × 1013 km). Bessel a adăugat că lumina are nevoie de 10,3 ani pentru a parcurge această distanță. El a recunoscut că cititorii săi se vor bucura de imaginea mentală a timpului aproximativ de tranzit pentru lumină, dar s-a abținut să folosească anul-lumină ca unitate. Este posibil să nu fi exprimat distanțele în ani-lumină deoarece ar fi redus precizia datelor sale de paralaxă din cauza multiplicării cu parametrul incert al vitezei luminii.
+Viteza luminii nu era încă cunoscută cu precizie în 1838; valoarea sa s-a schimbat în 1849 (Fizeau) și 1862 (Foucault). Nu era încă considerată a fi o constantă fundamentală a naturii, iar propagarea luminii prin eter sau spațiu era încă enigmatică.
+Unitatea an-lumină a apărut în 1851 într-un articol german de astronomie populară scris de Otto Ule. Ule a explicat ciudățenia unui nume de unitate de distanță care include „an” comparându-l cu o oră de mers.
+O carte astronomică populară germană contemporană a observat, de asemenea, că „an-lumină” este o denumire ciudată. În 1868, un ziar englez a etichetat anul-lumină ca o unitate folosită de germani. Eddington a numit anul-lumină o unitate incomodă și irelevantă, care uneori s-a strecurat din utilizarea populară în investigații tehnice.Deși astronomii moderni preferă adesea să utilizeze parsecul, anii-lumină sunt, de asemenea, utilizați în mod popular pentru a măsura întinderile spațiului interstelar și intergalactic.
+
+
+== Utilizarea termenului ==
+Distanțele exprimate în ani-lumină le includ pe cele dintre stele din aceeași zonă generală, cum ar fi cele aparținând aceluiași braț spiralat sau roi globular. Galaxiile în sine se întind de la câteva mii la câteva sute de mii de ani-lumină în diametru și sunt separate de galaxiile și roiurile de galaxii învecinate cu milioane de ani-lumină. Distanțele față de obiecte precum quasarii și Marele Zid Sloan ajung la miliarde de ani-lumină.
+
+
+== Note ==
+
+
+== Referințe ==
+
+
+== Legături externe ==
+ Definiția dicționarului Wikționar pentru an-lumină

@@ -1,0 +1,48 @@
+Tlen (O, łac. oxygenium) – pierwiastek chemiczny o liczbie atomowej 8, niemetal z grupy tlenowców w układzie okresowym.
+Stabilnymi izotopami tlenu są 16O (stanowi ponad 99% tlenu naturalnego), 17O oraz 18O.
+Tlen w stanie wolnym występuje w postaci cząsteczek dwuatomowych O2 oraz trójatomowych – ozonu O3 (głównie w ozonosferze). Szczególną jego odmianą jest odkryty w latach 90. XX w. „czerwony tlen” o wzorze O4.
+Tlen jest paramagnetykiem. Ciekły tlen ma barwę niebieską. Stały tlen znany jest w sześciu odmianach alotropowych.
+
+
+== Występowanie ==
+Tlen jest najbardziej rozpowszechnionym pierwiastkiem na Ziemi – zawartość tlenu w jej skorupie wynosi 46,4%. Stanowi też 20,95% objętości atmosfery ziemskiej (23,25% wagowych). W postaci związków z innymi pierwiastkami wchodzi w skład hydrosfery (gdzie jego zawartość wynosi około 89% – woda) i litosfery jako tlenki (np. krzemionka (piasek) zawiera ok. 53% tlenu). W przyrodzie obieg tlenu odbywa się w cyklu zamkniętym. Rozpuszczalność tlenu w wodzie słodkiej wynosi 8,3 mg/l, a w wodzie słonej (3,5% soli) 6,6 mg/l (25 °C, 1 atm.). Tlen jest około dwa razy lepiej rozpuszczalny w wodzie niż azot. Rozpuszczalność powietrza w wodzie wynosi 23 mg/l (25 °C, 1 atm.); powietrze rozpuszczone w wodzie zawiera 35,6% tlenu.
+
+
+== Historia ==
+Uznaje się, że tlen został odkryty przez Carla Scheelego przed 1773, ale odkrycie nie zostało opublikowane do 1777. W tym czasie za odkrywcę tlenu od dwóch lat uznawany był Joseph Priestley, który ogłosił jego odkrycie w Royal Society 23 marca 1775 roku. Otrzymał on tlen 1 sierpnia 1774 roku, ogrzewając tlenek rtęci(II) i zbierając wydzielający się gaz.
+Historyk alchemii Roman Bugaj wskazał, że tlen został odkryty już w XVII wieku przez Michała Sędziwoja, który nazywał go, między innymi, „pokarmem żywota” (łac. cibus vitae) i „duchem świata” (łac. spiritus mundi). Sędziwój wiedział, że „pokarm żywota, ukryty w powietrzu” jest niezbędny do życia i że przedostaje się z powietrza do krwi. Otrzymał go w drodze rozkładu saletry potasowej, który zachodził podczas jej prażenia; swoje doświadczenie opisał w dziele Dwanaście traktatów o kamieniu filozofów (1604). Stwierdził, że saletra jest ciałem złożonym, zawierającym „duch świata” (tak nazwał tlen, uznając go za kamień filozoficzny), umożliwiającym życie ludzi i zwierząt.
+Ciekły tlen po raz pierwszy otrzymali profesorowie Uniwersytetu Jagiellońskiego, Zygmunt Wróblewski i Karol Olszewski, 5 kwietnia 1883. Wcześniej, w 1877, mgłę skroplonego tlenu zaobserwowali niezależnie Szwed Raoul Pictet i Francuz Louis-Paul Cailletet.
+Łacińska nazwa tlenu oxygenium (z greckiego oksy, kwaśny, i gennao, rodzę), wprowadzona została przez Antoine’a Lavoisiera. Jako pierwszy uznał on tlen za pierwiastek chemiczny.
+Polską nazwą „tlen” (od słowa „tlić”) zaproponował Jan Oczapowski przed rokiem 1851 i została ona zaakceptowana przez większość polskiego środowiska chemicznego w ciągu ok. 10 lat. Wcześniejsza polska nazwa „kwasoród” była dosłownym tłumaczeniem łacińskiej, a wprowadził ją Jędrzej Śniadecki.
+
+
+== W przyrodzie ==
+Tlen jest pierwiastkiem biogennym.
+Jest niezbędny organizmom tlenowym do przeprowadzenia fosforylacji oksydacyjnej będącej najważniejszym etapem oddychania. Niektóre organizmy beztlenowe giną w obecności niewielkich ilości wolnego tlenu. Organizm przeciętnego dorosłego człowieka zużywa w ciągu minuty około 200 ml (0,3 g) tlenu. Oddychanie czystym tlenem jest dość niebezpieczne, ponieważ podnosi on ciśnienie krwi i wywołuje kwasicę. Niedobór tlenu staje się niebezpieczny dla życia, gdy jego zawartość w powietrzu spada poniżej 10–12%.
+Zwierzęta wykorzystują go w procesie oddychania tlenowego w celu otrzymania energii:
+
+C6H12O6 + 6O2 + ADP + H3PO4 → 6CO2 + 7H2O + ATP
+
+
+== Otrzymywanie w warunkach laboratoryjnych ==
+poprzez podgrzewanie nadmanganianu potasu w temperaturze powyżej 230 °C:2KMnO4 → K2MnO4 + MnO2 + O2↑poprzez termiczny rozkład azotanu potasu w temperaturze powyżej 400 °C, ale nie większej niż 440 °C:2KNO3 → 2KNO2 + O2↑poprzez termiczny rozkład chloranu potasu w temperaturze powyżej 550 °C:2KClO3 → 2KCl + 3O2↑poprzez ogrzewanie tlenku rtęci(II):2HgO → 2Hg + O2↑poprzez rozkład wodnego roztworu nadtlenku wodoru (wody utlenionej lub perhydrolu) pod wpływem ciepła lub katalizatora, na przykład dwutlenku manganu:2H2O2 → 2H2O + O2↑w wyniku reakcji nadmanganianu potasu z nadtlenkiem wodoru:2KMnO4 + 3H2O2 → 3O2 + 2KOH + 2MnO2 + 2H2Ow wyniku elektrolizy wody:2H2O → 2H2↑ + O2↑
+
+
+== Zastosowanie ==
+Tlen jest stosowany w medycynie, do sporządzania mieszanek oddechowych do nurkowania, w przemyśle jako utleniacz (na przykład w palnikach acetylenowo-tlenowych).
+
+
+== Związki tlenu ==
+Tlen wchodzi w skład wielu związków chemicznych o dużym znaczeniu przemysłowym: tlenków (w szczególności wody oraz dwutlenku węgla), nadtlenków (w szczególności nadtlenku wodoru), kwasów tlenowych, zasad. Jest też składnikiem większości związków organicznych o znaczeniu biologicznym, przykładowo białek i tłuszczy.
+Oprócz anionów tlenkowych, ozonkowych, podtlenkowych, ponadtlenkowych i nadtlenkowych znane są związki, w których tlen występuje w podsieci kationowej. Jest to kation oksygenylowy O+2 w związku O2PtF6 (heksafluoroplatynian oksygenylowy). Kation ten może być stabilizowany przeciwjonem anionowym o silniejszych właściwościach ox-bas od tlenu lub red-ac od kationu oksygenylowego.
+
+
+== Zobacz też ==
+tlen singletowy
+dziura ozonowa
+
+
+== Uwagi ==
+
+
+== Przypisy ==

@@ -1,0 +1,398 @@
+Snelheid is de mate van verandering per tijdseenheid. Vaak wordt gedoeld op de snelheid van een beweging: de afgelegde weg per tijdseenheid. Plaats en snelheid zijn  basisbegrippen in de kinematica. Het zijn beide vectorgrootheden, dus met een grootte en een richting. De snelheidsvector, die een grootte en een richting heeft, is de afgeleide naar de tijd van de plaatsvector. Het begrip snelheid wordt, afhankelijk van de context, ook vaak gebruikt voor de grootte van de snelheid (soms aangeduid met 'vaart' of 'gang').
+Het begrip snelheid wordt ook gebruikt voor andere grootheden die met de tijd veranderen. Zo kan men spreken over groeisnelheid, bijvoorbeeld het aantal personen waarmee een bevolking per jaar groeit of krimpt; of over omzettingssnelheid, bijvoorbeeld het aantal gram stof dat per seconde wordt omgezet bij een chemische reactie, stroomsnelheid en hoeksnelheid. In het Engels wordt hier vaak het begrip "rate" gebruikt, terwijl bij beweging de begrippen "velocity" (snelheid als vector, dus met grootte en richting) en "speed" (snelheid als scalair, dus met alleen een grootte) worden gebruikt. Ook bij cyclische processen wordt soms van een snelheid gesproken, bijvoorbeeld de kloksnelheid. Dit is dan dus een frequentie.
+
+
+== Dimensie en eenheden ==
+De dimensie van snelheid is die van de grootheid waar het om gaat gedeeld door de tijd: bij bewegingssnelheid dus lengte/tijd, bij een dimensieloze grootheid 1/tijd, bij stroomsnelheid volume/tijd, enz.
+Dienovereenkomstig is de eenheid samengesteld uit een eenheid voor de grootheid waar het om gaat, en een eenheid van tijd. Voorbeelden voor andere dan bewegingssnelheden zijn Hz, omwentelingen per minuut, beats per minute, m³/s, m³/min, l/s, l/min, enz.
+Een bewegingssnelheid wordt volgens de SI eenheden gemeten in meter per seconde (m/s). Deze eenheid is voorgeschreven voor de meeste natuurwetenschappelijke publicaties. Andere eenheden zijn kilometer per uur (km/h) en de knoop. In de Verenigde Staten en het Verenigd Koninkrijk wordt nog mijlen per uur gebruikt (mph) voor de snelheid in het wegverkeer.
+Een in de natuurkunde belangrijke snelheid is de lichtsnelheid in vacuüm c. Volgens gangbare inzichten kan geen enkel materieel object die snelheid helemaal bereiken, laat staan overschrijden. c is een natuurconstante en wordt in de praktijk gebruikt als eenheid van snelheid voor snelheden van elementaire deeltjes.
+Een eenheid die voor het vlieggedrag van vliegtuigen van belang is, is het Mach getal. Dit is de verhouding tussen de snelheid van een object en de geluidssnelheid die ter plaatse heerst. Deze eenheid wordt vooral gebruikt om aan te geven dat de geluidssnelheid wordt benaderd of overschreden. Een snelheid die groter is dan Mach 1, wordt aangeduid met supersonische snelheid, daaronder spreekt men van subsone snelheid.
+
+frequentiële snelheden
+Ook bij cyclische processen wordt soms van een snelheid gesproken.  De meest bekende cyclische snelheid zijn waarschijnlijk de hoeksnelheid en de reactiesnelheid.  De eenheden van de afwijkende grootheden zijn rad/s en mol/L*s bij de reactiesnelheid.
+
+
+== Gemiddelde en instantane snelheid ==
+Een gemiddelde snelheid kan berekend worden door de verandering van een grootheid tussen het begin en het einde van een bepaald tijdsinterval te meten. Stel iemand rijdt met de auto van Amsterdam naar Brussel. Om 15:30 uur passeert hij Breda, hij heeft dan 120 km gereden. Om 16:00 uur rijdt hij de ring van Antwerpen op, de teller staat dan op 170 km. Het tijdsinterval is een half uur, de verandering in de totale afgelegde afstand is 50 km. De gemiddelde snelheid is dan 100 km/u.
+In dit voorbeeld is het heel goed mogelijk dat de snelheid niet constant is geweest. Een groot deel van de weg is bijvoorbeeld met 120 km/u afgelegd, terwijl op sommige stukken de snelheid 70 km/u was vanwege wegwerkzaamheden. Een nauwkeuriger beeld van de snelheid op een bepaald moment kan verkregen worden door de afgelegde afstand te meten gedurende korte tijdsintervallen. Wanneer een auto op een bepaald tijdstip een hectometerpaaltje passeert, en 4 seconden later het volgende hectometerpaaltje (wat dus honderd meter verder staat), dan is de gemiddelde snelheid 25 m/s ofwel 90 km/u geweest.
+Door de tijdsintervallen steeds korter te maken, kan steeds beter de instantane of 'momentane' snelheid worden benaderd. Hiermee wordt de snelheid bedoeld die een punt heeft op een bepaald tijdstip. Dit is een nogal abstract begrip, omdat snelheid gedefinieerd wordt als een verschil van plaats gedeeld door een verschil in tijd. Wiskundig wordt dit een limiet genoemd: als het tijdverschil nadert naar nul, benadert het quotiënt van afstandsverschil en tijdsverschil een bepaalde waarde. Wiskundig gezegd: snelheid is de afgeleide naar de tijd van de afgelegde afstand.
+Redeneren over deze steeds kleiner wordende verschillen zonder wiskundige hulpmiddelen is lastig, zoals meer dan 2400 jaar geleden werd opgemerkt door Zeno van Elea (zie zijn Achilles/Schildpad paradox).
+
+
+== Versnelling ==
+Snelheid kan veranderen in de loop der tijd. Dit wordt versnelling genoemd. Een bekend voorbeeld van versnelling is het optrekken van een auto. De versnelling is eigenlijk de snelheid waarmee de snelheid zelf verandert. Ze kan berekend worden als de afgeleide van de snelheid. Met andere woorden: versnelling is de afgeleide van de afgeleide van de afgelegde weg en dus de tweede afgeleide daarvan naar de tijd.
+Omdat snelheid een vectorgrootheid is, kan versnelling betrekking hebben op zowel de grootte als de richting. De snelheid van een kogel die uit een geweer wordt afgevuurd, verandert (bij benadering) alleen van grootte, waarvoor een kracht in de richting van de snelheid nodig is; de snelheid van een voorwerp dat met een constant aantal omwentelingen per seconde in een cirkelbaan beweegt, verandert alleen van richting, waarvoor een kracht loodrecht op de snelheid nodig is, wijzend naar het middelpunt van de cirkel.
+
+
+== Relatief begrip ==
+Om te meten wat de absolute snelheid van een voorwerp is, moet er eerst een punt gevonden worden dat absoluut stil staat. Zo'n punt is er niet: de aarde, de zon, het melkwegstelsel : allemaal bewegen ze - of in ieder geval - ze bewegen ten opzichte van elkaar.
+Door de roodverschuiving van sterren te meten kan men concluderen dat een bepaald sterrenstelsel zich met grote snelheid van ons af beweegt. Maar er kan net zo goed gezegd worden dat de aarde, of de Melkweg met een grote snelheid de andere kant op beweegt.
+Dit is anders voor versnelling of voor rotatie: daarbij verandert de snelheid en dat gaat altijd met een kracht gepaard. Een waarnemer in een afgesloten ruimte kan precies meten of hij bezig is te versnellen of te draaien, maar niet met welke snelheid hij rechtlijnig beweegt.
+Als een trein met lage constante snelheid langs een andere trein rijdt, is het moeilijk vast te stellen welke er beweegt en welke niet. Als de trein dan remt, optrekt of een bocht maakt, is dit wel onmiddellijk duidelijk.
+Het inzicht dat alleen onderlinge snelheden of relatieve snelheden meetbaar zijn en dus wetenschappelijke waarde hebben, was een belangrijk uitgangspunt voor Albert Einstein bij het ontwikkelen van zijn speciale relativiteitstheorie.
+
+
+== Voorbeelden van snelheid ==
+ Het snelheidsrecord van de mens op de marathon (lange afstand) ligt rond 20 km/h (kilometer per uur). De normale wandelsnelheid van de mens is 5 km/h. In een sprint worden soms snelheden van 40 km/h gemeten. Sommige andere zoogdieren halen snelheden van tegen of zelfs boven de 100 km/h. Vogels als de slechtvalk kunnen in duikvluchten een eindsnelheid van gemiddeld 300 km/h halen. Gemotoriseerd vervoer gaat in het algemeen veel sneller dan mensen te voet; zo worden in de autosport snelheden tot 400 km/h gehaald, en kunnen vliegtuigen snelheden halen van vele honderden kilometers per uur. De geluidssnelheid van 340 m/s (1225 km/u, Mach 1) vormt een 'geluidsbarrière', waar supersonische vliegtuigen en geweerkogels doorheen kunnen 'breken'.
+
+
+== Zeer hoge snelheden ==
+De lichtsnelheid van ca. 300.000 km/s is de hoogst gemeten snelheid, en volgens de speciale relativiteitstheorie zelfs de hoogst mogelijke snelheid.
+Als A een zeer hoge snelheid heeft ten opzichte van B en B een zeer hoge snelheid in dezelfde richting heeft ten opzichte van C zou de snelheid van A ten opzichte van C boven de lichtsnelheid uit kunnen komen als de snelheden gewoon opgeteld zouden kunnen worden. Dit kan dan ook niet, er is een speciale formule voor de combinatie van snelheden, waarbij bijvoorbeeld als A een snelheid van 150.000 km/s heeft ten opzichte van B en B een snelheid van 150.000 km/s heeft ten opzichte van C, A een snelheid van 240.000 km/s heeft ten opzichte van C. Bij een stuk lagere, maar nog steeds zeer hoge snelheden is het verschil al gauw erg klein: als A een snelheid van 1000 km/s heeft ten opzichte van B en B een snelheid van 1000 km/s ten opzichte van C, heeft A een snelheid van 1999,98 km/s ten opzichte van C.
+
+
+== Snelheid in formulevorm ==
+De gemiddelde snelheid vgem van een object dat over een afstand Δx beweegt gedurende een tijdsinterval Δt is als volgt:
+
+  
+    
+      
+        
+          v
+          
+            g
+            e
+            m
+          
+        
+        =
+        
+          
+            
+              Δ
+              x
+            
+            
+              Δ
+              t
+            
+          
+        
+      
+    
+    {\displaystyle v_{gem}={\frac {\Delta x}{\Delta t}}}
+  De (momentane) snelheid(svector) v van een object waarvan de positie op moment t wordt gegeven door een functie x(t) is gedefinieerd als de afgeleide van x naar t:
+
+  
+    
+      
+        v
+        =
+        
+          lim
+          
+            Δ
+            t
+            →
+            0
+          
+        
+        
+          
+            
+              Δ
+              x
+            
+            
+              Δ
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+              x
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle v=\lim _{\Delta t\to 0}{\frac {\Delta x}{\Delta t}}={\frac {dx}{dt}}}
+  Als functie van de tijd wordt dat:
+
+  
+    
+      
+        v
+        (
+        t
+        )
+        =
+        
+          x
+          ′
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle v(t)=x'(t)}
+  De versnelling a is de verandering van de snelheid van het object over de tijd, en is de afgeleide van de snelheid.
+
+  
+    
+      
+        a
+        (
+        t
+        )
+        =
+        
+          v
+          ′
+        
+        (
+        t
+        )
+        =
+        
+          x
+          ″
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle a(t)=v'(t)=x''(t)}
+  De impuls 
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}}
+   van een object met massa m is een direct met de snelheid 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+   samenhangende (vector)grootheid.
+
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+        =
+        m
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}=m{\vec {v}}}
+  De kinetische energie (bewegingsenergie) van een bewegend voorwerp is een scalaire grootheid, evenredig met de massa m van het object en het kwadraat van de grootte v van de snelheid:
+
+  
+    
+      
+        
+          E
+          
+            k
+            i
+            n
+          
+        
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        m
+        
+          v
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{kin}={\tfrac {1}{2}}mv^{2}}
+  
+De ruk is de versnellingsverandering van het object over de tijd en is de afgeleide van de versnelling
+j(t) = a'(t) =v''(t) = x'''(t)
+Deze formule uit de klassieke mechanica klopt niet exact met de werkelijkheid. Bij lage snelheden is de afwijking nauwelijks op te merken, maar bij benadering van de lichtsnelheid treden grote afwijkingen op met de formule uit de speciale relativiteitstheorie. Zie hiervoor Kinetische energie en Ruimtetijd.
+
+
+== Omrekenen ==
+Omrekenen van een snelheid uitgedrukt in km/h naar m/s gaat eenvoudigweg als volgt:
+
+  
+    
+      
+        1
+        
+        
+          
+            k
+            m
+            
+              /
+            
+            h
+          
+        
+        =
+        
+          
+            
+              1000
+              
+              
+                
+                  m
+                
+              
+            
+            
+              3600
+              
+              
+                
+                  s
+                
+              
+            
+          
+        
+        =
+        
+          
+            1
+            
+              3
+              
+                ,
+              
+              6
+            
+          
+        
+        
+        
+          
+            m
+            
+              /
+            
+            s
+          
+        
+      
+    
+    {\displaystyle 1\,{\rm {km/h}}={\frac {1000\,{\rm {m}}}{3600\,{\rm {s}}}}={\frac {1}{3{,}6}}\,{\rm {m/s}}}
+  Een snelheid van bijvoorbeeld 120 km/h komt dus overeen met
+
+  
+    
+      
+        120
+        
+        
+          
+            k
+            m
+            
+              /
+            
+            h
+          
+        
+        =
+        
+          
+            120
+            
+              3
+              
+                ,
+              
+              6
+            
+          
+        
+        
+        
+          
+            m
+            
+              /
+            
+            s
+          
+        
+        =
+        33
+        
+          ,
+        
+        3
+        
+        
+          
+            m
+            
+              /
+            
+            s
+          
+        
+      
+    
+    {\displaystyle 120\,{\rm {km/h}}={\frac {120}{3{,}6}}\,{\rm {m/s}}=33{,}3\,{\rm {m/s}}}
+  
+
+
+== Zie ook ==
+Verkeersborden in Nederland
+trajectsnelheid
+snelheidscontrole
+ontsnappingssnelheid
+eindsnelheid
+Dopplereffect
+V-snelheden
+Lichtsnelheid

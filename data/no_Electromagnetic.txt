@@ -1,0 +1,75 @@
+Elektromagnetisme (Elektrodynamikk) er den delen av fysikken som beskriver alle elektriske og magnetiske fenomen i en og samme teori. Teorien er svært omfattende og beskriver elektrisk ladning, elektrisk strøm, elektriske og magnetiske krefter, lys og annen elektromagnetisk stråling, samt mye mer. Elektromagnetismen utnyttes i voldsom utstrekning 
+i dagliglivet, f.eks. ved navigasjon, elektronikk, belysning, transport, oppvarming, osv. 
+Klassisk  elektromagnetisme beskrives av Maxwells likninger som ble samlet på 1860-tallet. Alle andre elektromagnetiske lover kan i teorien utledes fra disse. I partikkelfysikk er elektromagnetisme en av de fire fundamentalkreftene og elektromagnetiske krefter forklares som utveksling av virtuell fotoner. Som konsekvens av dette er alle fysiske fenomen, utenom gravitasjon, fra atomskala og oppover, egentlig forkledd elektromagnetisme, i hvertfall i teorien. I praksis er dog mange fenomen ikke omtalt som elektromagnetisme, deriblant kontaktkrefter, friksjon og viskositet.
+
+
+== Teori ==
+For systemer i ro kan elektrisitet og magnetisme beskrives hver for seg, men ved bevegelse må de beskrives sammen. Derfor er det vanlig å omtale elektromagnetisme som elektrodynamikk. Det er to lover som binder elektrisitet og magnetisme sammen  
+
+Faradays induksjonslov beskriver elektromagnetisk induksjon. Den sier at en kan lage elektrisk strøm i en spole ved å endre magnetfeltet gjennom spolen. På denne måten lages strøm i et vannkraftverk
+Ampères sirkulasjonslov beskriver hvordan elektrisk strøm skaper magnetfelt. En magnet skapt ved å sende strøm gjennom en spole kalles en elektromagnetDen viktigste oppdagelsen ved forening av elektrisitet og magnetisme var at lys er elektromagnetiske bølger, dvs. koordinerte svinginger i elektriske og magnetiske felter. Disse feltene står normalt på retningen til lysstrålen og også normalt på hverandre. Retningen på det elektromagnetiske feltet kalles strålens polarisering (elektromagnetisme).
+
+
+== Anvendelser ==
+Kraftverk omdanner andre energiformer til elektrisk energi (ikke elektrisk kraft!). Elektrisk energi har høy energikvalitet og kan dermed brukes til det meste, slik som å flytte tog, lage lys, bevege industrielle roboter, oppvarming, osv.
+Elektronikk bruker elektromagnetisme til informasjon og kommunikasjon.
+Elektrolyse bruker elektromagnetisme til å skille kjemiske stoffer.
+Optikk er bruk av lys, som igjen er en  undergren av elektromagnetismen.
+Astronomi all viten om himmelen kommer i hovedsak fra elektromagnetisk stråling.
+
+
+== Historisk utvikling ==
+Statisk elektrisitet har vært kjent siden antikken. Ordet «elektro» kommer fra det greske navnet på rav, siden rav kan bli elektrisk ladd og tiltrekke lette gjenstander som hårstrå. Magnetisme har i vesten vært kjent siden 1600-tallet hvor det først ble brukt i skipskompass.
+En gradvis bedre forståelse kom på 1700-tallet hvor det ble gjort grunnleggende eksperimenter og teorier av fysikere som Benjamin Franklin (1706–1770), Charles Augustin Coulomb (1736–1806), Luigi Galvani (1737–1798), Alessandro Volta (1745–1827), André-Marie Ampère (1775–1836), Hans Christian Ørsted (1777–1851), Carl Friedrich Gauss (1777–1855), Georg Simon Ohm (1789–1854), Michael Faraday (1791–1867). Alt dette arbeidet ble sammenfattet (og revidert) av James Clerk Maxwell i 1860-årene. Først da kan snakke om elektromagnetisme som en enhetlig teori. Mot slutten av 1800-tallet og begynnelsen av 1900-tallet ble det gjort voldsomme framskitt innen anvendelser, av folk som Nikola Tesla, Samuel Morse, Antonio Meucci, Thomas Edison, George Westinghouse, Werner von Siemens, Charles Steinmetz, og Alexander Graham Bell.
+På 1900-tallet kom to store nye fundamentale teorier, relativitetsteorien og kvantemekanikken og begge disse fikk konsekvenser for elektromagnetismen. Det var en uoverensstemmelse mellom Maxwells likninger og Newtons lover som inspirerte Albert Einstein til å formulere spesiell relativitetsteori.
+Den mikroskopiske teorien for elektromagnetisme er kvanteelektrodynamikk (QED). Først kom en kvantemekanisk beskrivelse av elektroner av Paul Dirac rundt 1930. Den fulle teorien ble utviklet av Richard Feynman, Freeman Dyson, Julian Schwinger, og Sin-Itiro Tomonaga i 1940-årene.
+
+
+== Viktige begreper ==
+
+
+=== Elektrisk ladning ===
+Hovedartikkel Elektrisk ladningElektrisk ladning er opphav til elektriske felter og elektriske krefter. Disse kreftene beskrives av Coulombs lov. Ladninger kan være positive eller negative, hvor ladninger med samme fortegn frastøter hverandre og ulike fortegn tiltrekker hverandre. Vanlig symbol for elektrisk ladning er Q og SI-enhet er C. Protonets og elektronets ladning kalles elementærladning med henholdsvis positivt og negativt fortegn.
+
+
+=== Elektrisk strøm ===
+hovedartikkel Elektrisk strømElektrisk strøm er elektrisk ladning i bevegelse. Vanlig symbol er I og SI-enhet er A, som også er en grunnenhet.
+
+
+=== Elektrisk spenning ===
+hovedartikkel Elektrisk spenningSpenning er forskjell i elektrisk potensial mellom to punkter, dvs. et mål på hvor mye energi som trengs å flytte en ladning mellom punktene per ladning. Vanlig symbol er U og SI-enhet er V.
+
+
+=== Elektrisk felt ===
+Hovedartikkel Elektrisk feltEr den egenskapen ved rommet rundt elektriske ladninger som gjør at ladninger tiltrekker og frastøter hverandre.  Elektrisk felt er elektrisk kraft per ladning. Vanlig symbol er E og SI-enhet er N/C som også er lik V/m.
+
+
+=== Magnetisk felt ===
+Hovedartikkel Magnetisk feltMagnetfelt (også magnetisk felt, magnetisk feltstyrke) betegner  kraftfeltene rundt en magnet, magnetisert gjenstand, eller en strømførende elektrisk leder. Magnetiske felt er altså ansvarlig for at magneter og strømførende ledninger dras mot hverandre eller frastøter hverandre.
+Vanlig symbol er H og SI-enhet er A/m.
+Magnetisk felt er også nær knytte til magnetisk flukstetthet. Magnetisk felt og magnetisk flukstetthet er ekvivalente i vakuum, men er forskjellige i magnetiserbare materialer. Enhet for magnetisk flukstetthet er T.
+
+
+=== Elektromagnetisk stråling ===
+Hovedartikkel Elektromagnetisk strålingElektromagnetisk stråling er bølger som beveger seg
+med lysets hastighet i vakuum. Stråling med ulike bølgelengder har ulike navn og opphav. Synlig lys har bølgelengde på 400 nm til 700 nm. Andre typer er radiobølger, mikrobølger, røntgenstråling og gammastråling.
+Kvantisert elektromagnetisk stråling kalles fotoner og beskrives av kvanteelektrodynamikk
+
+
+=== Kvanteelektrodynamikk ===
+Hovedartikkel KvanteelektrodynamikkKvanteelektrodynamikk er den kvantemekaniske artikkelen for elektromagnetisme. Der beskrives kreftene mellom ladningene som utveksling av virtuelle fotoner.
+
+
+== Enheter ==
+Elektromagnetisme beskrives av SI-systemet, og dette begynner nå å bli dominerende. Fram til
+i dag har dog CGS-enheter vært mest vanlige og disse enhetene er fortsatt i utstrakt bruk.
+
+
+== Se også ==
+Elektrisitet
+Magnetisme
+Maxwells likninger
+Kvanteelektrodynamikk
+Elektrisk ladning
+Elektrisk strøm
+Polarisering (elektromagnetisme)

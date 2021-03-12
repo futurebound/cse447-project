@@ -1,0 +1,171 @@
+Das Apollo-Programm war ein Raumfahrtprojekt der USA. Es brachte mit den Apollo-Raumschiffen zum ersten und bislang einzigen Mal Menschen auf den Mond. Das Programm wurde von der National Aeronautics and Space Administration (NASA) zwischen 1961 und 1972 betrieben.
+In mehreren Schritten erprobte die NASA Techniken, die für eine Mondlandung wichtig sein würden, wie z. B. das Navigieren und Koppeln von Raumschiffen im All oder das Verlassen eines Raumschiffs im Raumanzug. Viele wichtige Tests wurden in der Vorbereitung im Gemini-Programm durchgeführt. Die erste bemannte Mondlandung war am 20. Juli 1969 mit der Mission Apollo 11. Nach fünf weiteren Landungen – die letzte 1972 mit Apollo 17 – wurde das Programm (auch) aus Kostengründen eingestellt. Seitdem hat kein Mensch mehr den Mond betreten, jedoch verfolgen mehrere Länder neue bemannte Mondprogramme.
+
+
+== Name ==
+Der Name „Apollo“ war eine Idee des NASA-Managers Abe Silverstein, damals Leiter der Abteilung für Raumfahrt-Programme (Office of Space Flight Programs). Er bezog sich dabei auf den Gott Apollon der griechischen Mythologie, der als Lenker des Sonnenwagens und treffsicherer Bogenschütze galt. NASA-intern wurde der Name vom NASA-Direktor Glennan am 9. Juli 1960 genehmigt. Öffentlich verkündet wurde der Name vom stellvertretenden Leiter der NASA, Hugh Latimer Dryden am 28. Juli 1960 bei der Eröffnung einer Konferenz der NASA mit Vertretern der Raumfahrt-Industrie.
+
+
+== Konzepte ==
+
+Im Juli 1960, noch bevor das Mercury-Programm erste Erfolge aufzuweisen hatte, fand in Washington eine Konferenz statt, auf der die NASA und verschiedene Industriebetriebe einen Langzeitplan für die Weltraumfahrt erarbeiteten. Geplant war eine bemannte Mondumrundung, von einer Landung war zu diesem Zeitpunkt noch nicht die Rede.
+Die Konfiguration des Mondfluges war zunächst unklar. Die ersten Planungen der 1960er Jahre sahen ein einziges Raumschiff für die Landung auf dem Mond und die Rückkehr zur Erde vor, da unklar war, ob ein Rendezvousmanöver und die Kopplung zweier Raumfahrzeuge möglich wären. Genauere Studien gingen von vier möglichen Strategien aus:
+
+Direktflug: Eine einzige Rakete startet mit dem Raumschiff, das als Ganzes auf dem Mond landet und (als Ganzes oder nur der Oberteil) wieder zur Erde zurückkehrt.
+Montage in der Erdumlaufbahn (EOR – Earth Orbit Rendezvous): Die Komponenten der Missionen werden einzeln gestartet und in der Erdumlaufbahn montiert, auch hier landet das gesamte Raumschiff auf dem Mond.
+Mondumlaufbahn-Rendezvous (LOR – Lunar Orbit Rendezvous): Das Raumfahrzeug trennt in der Mondumlaufbahn einen Landeteil ab, der zum Mond fliegt. Dafür ist nach dem Wiederaufstieg ein Rendezvous- und Umsteigemanöver erforderlich.
+Versorgungsschiff am Mond (LSR – Lunar Surface Rendezvous): In diesem Konzept müsste zuvor ein unbemanntes Versorgungsschiff auf den Mond gebracht werden. Die bemannte Mission hätte an dieser Stelle landen müssen, um den Treibstoff für die Rückreise aufzunehmen.Das letzte Konzept wurde als erstes verworfen. Es zeigte sich auch bald, dass die Pläne für einen Direktflug unrealistisch waren, da das dafür nötige Trägersystem noch um ein Vielfaches größer als die Saturn V hätte sein müssen. Auch das EOR-Konzept, das eine Vielzahl von Raketen erfordert hätte (man sprach von bis zu 15 Starts pro Mondflug), war mit Mehraufwand und Kosten verbunden. Insbesondere auf Betreiben von John C. Houbolt, der die anfängliche Minderheitsmeinung LOR hartnäckig und ohne Rücksicht auf Hierarchien vertrat, ging man daher Ende 1961 zu einer komplexeren, aber optimierten Konfiguration aus getrennten Raumfahrzeugen über. Dies ermöglichte nicht nur, mit einer einzigen Rakete auszukommen, sondern erlaubte auch die Optimierung der einzelnen Komponenten auf ihren genauen Zweck.
+
+
+== Planung ==
+Der eigentliche NASA-Plan sah sieben Missionen bis zur ersten bemannten Mondlandung vor. Dies waren die Missionen A bis G:
+
+Mission A: Unbemannter Test der Saturn V und des Apollo-Raumschiffs in einer Erdumlaufbahn (zweimal durchgeführt mit Apollo 4 und Apollo 6).
+Mission B: Unbemannter Test der Mondlandefähre (LM für Lunar Module) (durchgeführt mit Apollo 5).
+Mission C: Bemannter Test des Apollo-Raumschiffs im Erdorbit (durchgeführt mit Apollo 7).
+Mission D: Test der Kombination aus Kommandomodul und Landefähre in einem erdnahen Orbit (ursprünglich als Apollo 8 vorgesehen, als Apollo 9 neu nummeriert, weil ein Mondflug (Mission C') als Apollo 8 eingeschoben wurde).
+Mission E: Test der Kombination aus Kommandomodul und Landefähre in einem erdfernen Orbit (Mission wurde gestrichen, Mannschaft übernahm die Mission C').
+Mission F: Test der Kombination aus Kommandomodul und Landefähre in einem Mondorbit (durchgeführt mit Apollo 10).
+Mission G: Erste Landung auf dem Mond (durchgeführt mit Apollo 11).Die mit Apollo 8 durchgeführte erste Mondumkreisung, Weihnachten 1968, war von der NASA eigentlich nicht vorgesehen und wurde mit der Bezeichnung Mission C' zwischen die Missionen C und D eingeschoben.
+Zusätzlich wurden die Missionen H, I und J geplant:
+
+Mission H: Landung auf dem Mond mit erweiterten wissenschaftlichen Experimenten (durchgeführt mit Apollo 12 und Apollo 14. Apollo 13 nicht erfolgreich; Apollo 15 war ursprünglich ebenfalls als H-Mission vorgesehen).
+Mission I: Bemannte Flüge in der Mondumlaufbahn zu Forschungszwecken; keine Landung beabsichtigt. Konkrete Planungen für I-Missionen hat es nicht gegeben.
+Mission J: Landung auf dem Mond mit erweiterten wissenschaftlichen Experimenten und dem Mondrover (durchgeführt mit Apollo 15, Apollo 16 und Apollo 17).
+
+
+== Aufwand und Kosten ==
+Das Apollo-Programm kostete 23,9 Milliarden Dollar, etwa 120 Milliarden nach heutigen Maßstäben (2009), und beschäftigte bis zu 400.000 Menschen.
+
+
+== Wettlauf der Systeme ==
+Durch den Start von Sputnik 1 im Jahre 1957, die erste unbemannte harte Mondlandung 1959 durch Lunik 2 und den ersten bemannten Raumflug von Juri Gagarin mit Wostok 1 im April 1961 war die Sowjetunion zu Beginn des Zeitalters der Raumfahrt zur führenden Raumfahrtnation aufgestiegen. Die USA suchten nach einem Gebiet in der Raumfahrt, auf dem sie die Sowjetunion schlagen könnten. Die bemannte Mondlandung wurde dafür als geeignet angesehen.
+
+
+=== Das Apollo-Programm der USA ===
+Am 25. Mai 1961, eineinhalb Monate nach dem Flug von Gagarin, hielt Präsident John F. Kennedy vor dem US-Kongress eine berühmte Rede, in der er seiner Nation die Aufgabe stellte, noch im selben Jahrzehnt Menschen auf den Mond landen zu lassen und sicher wieder zur Erde zurückbringen. Mit den folgenden Worten fiel der Startschuss für das Apollo-Programm:
+
+Unter Mitarbeit des deutschstämmigen Ingenieurs Wernher von Braun, Direktor des Marshall Space Flight Centers in Huntsville (Alabama), wurde für den bemannten Mondflug die bis heute größte Rakete gebaut. Alle Starts der Saturn V waren trotz ihrer großen Leistung und Komplexität erfolgreich, was durchaus beachtenswert ist, da die meisten übrigen Raketensysteme wie die Redstone, Thor und Atlas auch Fehlstarts zu verzeichnen hatten.
+Das MIT Instrumentation Laboratory entwickelte für die Apollo-Raumfahrzeuge ein spezielles Trägheitsnavigationssystem, das sogenannte Primary Guidance, Navigation and Control System (PGNCS, ausgesprochen: pings). Der darin enthaltene Apollo Guidance Computer (AGC) war das erste Gerät, in dem integrierte Schaltkreise (IC) eingesetzt wurden. Das Project FIRE sollte Technologien für das notwendige Hitzeschild der Apollo-Kommandokapsel entwickeln und testen.
+Als Vorbereitung auf die Mondlandung lief parallel zum Apollo-Programm das Gemini-Programm, mit dem Erfahrungen zu Rendezvous-Manövern, Navigation und Arbeiten außerhalb eines Raumfahrzeuges im Weltall (extra-vehicular activity, EVA) gesammelt werden sollten.
+Am 27. Januar 1967 erlitt das Apollo-Programm einen schweren Rückschlag: Bei Bodentests brach im Apollo-Kommandomodul CM 012 ein Feuer aus, bei dem die drei Astronauten Gus Grissom, Ed White und Roger Chaffee ums Leben kamen. Die Rakete war während dieser Tests nicht betankt. Die Kommandokapsel war aber nicht mit gewöhnlicher Luft, sondern mit reinem Sauerstoff bei atmosphärischem Überdruck gefüllt. Dadurch wurde binnen weniger als einer Minute aus einem kleinen elektrischen Funken ein Feuer, in dem die Männer ums Leben kamen. Umfangreiche Änderungen an der Kommandokapsel waren die Folge. Dem Test wurde nachträglich die Bezeichnung Apollo 1 verliehen.
+Trotzdem konnte die Aufgabe Kennedys an die US-Nation, in den 1960er Jahren einen Menschen auf den Mond und sicher wieder zur Erde zurückzubringen, mit der erfolgreichen Mondlandung von Apollo 11 am 20. Juli 1969 erreicht werden. Obwohl ursprünglich noch weitere Starts geplant waren, wurde das Programm nach der sechsten erfolgreichen Mondlandung (Apollo 17) beendet.
+
+
+=== Das bemannte Mondprogramm der Sowjetunion ===
+
+Gleichzeitig zu dem Apollo-Programm arbeitete auch die sowjetische Raumfahrt daran, Menschen auf dem Mond zu bringen. Mit den Zond-Sonden wurden modifizierte Sojus-Raumschiffe unbemannt zum Mond gestartet und nach einem Mondumlauf wieder zur Erde gebracht. Dies diente dem Test des Raumschiffs, das für einen folgenden bemannten Mondflug gedacht war. Zond-5 umkreiste im September 1968 den Mond, kam jedoch bei der Rückkehr vom Kurs ab und musste aus dem Indischen Ozean geborgen werden, die Landung war eigentlich für das sowjetische Territorium geplant. Im Oktober 1970 wurde das Testprogramm mit Zond-8 beendet.
+Parallel arbeitete die Sowjetunion auch an einer Rakete für eine Mondlandemission, die ähnlich wie bei Apollo mit einer einzigen Rakete gestartet werden sollte. Dafür wurde die N1-Rakete entwickelt. Diese ist jedoch bei allen vier Teststarts, die zwischen 1969 und 1972 erfolgten, vor dem Erreichen einer Erdumlaufbahn explodiert. Daraufhin und angesichts der Tatsache, dass die US-Amerikaner bereits erfolgreich auf dem Mond gelandet waren, gab die Sowjetunion ihr bemanntes Mondprogramm auf. Erst nach dem Zerfall der Sowjetunion Anfang der 1990er-Jahre kamen detaillierte Informationen über dieses Programm und die N1-Rakete an die Öffentlichkeit.
+
+
+== Mondlandungen ==
+
+Die ersten beiden Menschen landeten im Rahmen der Mission Apollo 11 am 20. Juli 1969 um 21:17 Uhr (MEZ) auf dem Mond: Neil Armstrong und Buzz Aldrin. Sechs Stunden später, am 21. Juli um 03:56:20 Uhr MEZ, betrat Neil Armstrong im Mare Tranquillitatis als erster Mensch den Mond. Dabei sprach er den berühmt gewordenen Satz:
+
+Das „a“ vor „man“ wurde in späteren Texten hinzugefügt, um den Sinn zu erhalten, obwohl es im Funkverkehr nicht zu hören war. Armstrong wurde später gefragt, ob er es tatsächlich nicht gesagt habe, aber er konnte sich nicht mehr daran erinnern. Daher bleibt ungeklärt, ob es durch Störungen im Funkverkehr verloren gegangen ist oder tatsächlich nicht gesagt wurde. 
+Der dritte Astronaut, Michael Collins, umkreiste im Apollo-Mutterschiff den Erdtrabanten bis zur Rückkehr der Landeeinheit Eagle.
+Im Rahmen des Apollo-Programms wurden insgesamt sechs Mondlandungen durchgeführt. Damit haben bis heute 12 Menschen, allesamt US-Amerikaner, den Mond betreten. Harrison H. Schmitt – Mondfährenpilot von Apollo 17 – setzte als bislang letzter Mensch am 12. Dezember 1972 seinen Fuß auf den Mondboden. Eugene Cernan – Kommandant von Apollo 17 – ist bislang der letzte Mensch, der auf dem Mond war, indem er als letzter in die Mondfähre einstieg. Im Juli 2009 übermittelte die Mondsonde Lunar Reconnaissance Orbiter Aufnahmen der Landestellen von Apollo 11, 14, 15, 16 und 17.
+
+
+== Der „erfolgreiche Fehlschlag“ von Apollo 13 ==
+Als Routineflug von der Öffentlichkeit kaum wahrgenommen, starteten mit Apollo 13 am 11. April 1970 die Astronauten Jim Lovell, Jack Swigert und Fred Haise. Erst als auf dem Weg zum Mond ein Tank mit flüssigem Sauerstoff im Servicemodul explodierte und damit das Leben der drei Männer bedroht war, wurde die gesamte Weltöffentlichkeit auf die Mission aufmerksam. Die Astronauten konnten sich nur dadurch retten, dass sie die Mondlandefähre als „Rettungsboot“ zweckentfremdeten. An eine Mondlandung war nicht mehr zu denken.
+Da das Raumschiff zum Zeitpunkt des Unfalls schon die Erdumlaufbahn in Richtung Mond verlassen hatte und für eine sofortige direkte Umkehr der Treibstoff bei weitem nicht ausgereicht hätte, führte der einzige Weg zurück zur Erde um den Mond herum, wobei das Raumschiff durch ein Swing-by-Manöver mit Hilfe der Mondanziehung wieder in Richtung Erde beschleunigt wurde. Nach einer Mondumrundung und knapp 88 Stunden nach der Havarie gelang am 17. April 1970 die Landung im Pazifik. Kurioserweise waren durch ihre Mondumrundung die Mitglieder der Besatzung von Apollo 13 diejenigen Menschen, die bislang am weitesten von der Erde entfernt waren, wenngleich ungeplant. Trotz der gescheiterten Mondlandung wird Apollo 13 dennoch als Erfolg gewertet, weil es erstmals gelungen war, Astronauten in einer Notlage im Weltraum wieder lebend auf die Erde zu bringen. Kommandant Jim Lovell bezeichnete später den Verlauf der einzigen Mission des Apollo-Programms, die vorzeitig abgebrochen werden musste, als „erfolgreichen Fehlschlag“. Flugdirektor Gene Kranz nannte sie „die größte Stunde der NASA“ ("NASA's finest hour").Von den dramatischen Ereignissen handelt der 1995 gedrehte Film Apollo 13 mit Tom Hanks in der Rolle von Jim Lovell.
+
+
+== Typischer Apollo-Missionsverlauf ==
+
+Start am Kennedy Space Center
+Nach etwa zweieinhalb Minuten Abtrennung der 1. Stufe S-IC in ca. 56 km Höhe, d. h. in der hohen Stratosphäre (Geschwindigkeit ca. 10.000 km/h – Mach 8)
+Unmittelbar anschließend Zündung der 2. Stufe S-II
+Kurz darauf Abtrennung des Triebwerksgehäuses (engine skirt, offiziell interstage genannt)
+Drei Minuten und 25 Sekunden nach dem Start Abtrennung des Rettungsraketensystems (launch escape tower)
+Abtrennung der 2. Stufe in ca. 185 km Höhe (Geschwindigkeit ca. 24.000 km/h) inkl. des kegelförmigen Adapters zur 3. Stufe
+Unmittelbar danach Zündung der 3. Stufe S-IVB, Einschwenken in eine nahe Erdumlaufbahn (Geschwindigkeit ca. 28.000 km/h), Abschalten der 3. Stufe
+Nach einigen Erdumrundungen Neuzündung der 3. Stufe, (TLI, trans-lunar injection) Ausdehnung des Orbits bis zum Mond (im Gegensatz zu einer häufigen Annahme keine Überschreitung der Fluchtgeschwindigkeit und Erdflucht (Apollo 8 erreichte 10,82 km/s – ca. 39.000 km/h – auch auf dem Mond befindet man sich immer noch in einem Erdorbit)). Kritisch beim TLI war jedoch die Zeit, die nach dem ersten Brennschluss des J-2-Triebwerks und dessen erneuter Zündung verstreichen musste.
+Trennung des Apollo-Raumschiffs von der 3. Stufe in mehreren Schritten (TDM, transposition and docking maneuver):
+Trennung des Kommando-/Versorgungsmoduls (CSM, command/service module) vom auf der dritten Stufe sitzenden Stufenadapter (SLA, spacecraft lunar module adapter)
+Öffnung und Abwurf des Stufenadapters – er hatte bisher die Mondlandefähre (LM, lunar module) umschlossen
+180°-Drehung des Kommando-/Versorgungsmoduls, so dass es mit seinem Bug an die Landefähre ankoppeln kann
+Herausziehen der Landefähre aus ihrer in der dritten Stufe befindlichen Parkbucht
+Die dritte Stufe, der letzte Teil der Saturn-V-Rakete, hat an diesem Punkt ausgedient. Vom Kontrollzentrum aus gesteuert wird sie entsorgt (d. h. in einen Sonnenorbit manövriert oder für seismische Untersuchungen auf Kollisionskurs mit dem Mond gebracht)
+Antriebsloser Flug zum Mond, ggfs. Korrekturmanöver
+Zündung des Triebwerks des Versorgungsmoduls zum Einschwenken in den Mondorbit (LOI, lunar orbit insertion) auf der Mondrückseite
+Umstieg von zwei Astronauten in die Landefähre, das Kommando-/Versorgungsmodul verbleibt mit einem Astronauten im Mondorbit
+Abkoppeln der Landefähre, Zündung des Landetriebwerks, um eine elliptische Mondumlaufbahn zu erreichen (DOI, descent orbit initiation) auf der Mondrückseite
+Abstieg zur Mondoberfläche und Landung
+Mondlandung im engeren Sinne: Astronauten führen Aktivitäten außerhalb des Raumschiffs durch (Außenbordeinsatz, extra-vehicular activity /EVA), d. h. sie erkunden die Mondoberfläche zu Fuß oder auf späteren Missionen mit dem Mondauto
+Währenddessen: Kommando-/Versorgungsmodul umkreist den Mond, Kameras und andere Instrumente im Versorgungsmodul untersuchen den Mond, Astronaut führt Beobachtungen durch und prüft mögliche Landeplätze für spätere Missionen
+Start von der Mondoberfläche. Die Abstiegsstufe dient als Startrampe und bleibt mit Flagge, Kamera, Auto und diverser anderer Ausrüstung auf der Oberfläche zurück. Die Astronauten und die Gesteinsproben fliegen in der Aufstiegsstufe in den Mondorbit.
+Rendezvous mit dem Kommando-/Versorgungsmodul, Ankoppeln, Umstieg der Astronauten, Abwurf der Aufstiegsstufe
+Zündung des Triebwerkes des Versorgungsmoduls (TEI, trans-earth injection) zum Verlassen des Mondorbits auf der Mondrückseite
+Antriebsloser Rückflug zur Erde, ggfs. Korrekturmanöver
+EVA, um die Filme aus den Kameras im Versorgungsmodul zu bergen (bei den Missionen Apollo 15 bis 17)
+Abwurf des Versorgungsmoduls, Ausrichten des Kommandomoduls für den Wiedereintritt
+Wiedereintritt in die Erdatmosphäre inklusive ca. dreiminütiger Funkstille (blackout), da die Reibungswärme das Raumschiff einen Strahl aus heißer, ionisierter Luft hinter sich herziehen lässt, der den Funkverkehr behindert
+Einsatz der Hochgeschwindigkeitsfallschirme (drogue parachutes)
+Abwurf der Hochgeschwindigkeitsfallschirme, Einsatz der Pilot- und Hauptfallschirme, die auf Bildern der Landungen als drei rot-weiße, runde Schirme klar zu erkennen sind
+Wasserung im Landegebiet
+Abwurf der Hauptfallschirme
+Falls das Kommandomodul mit der spitzen Seite nach unten im Wasser liegen sollte (Position „stable two“): Einsatz des Aufrichtungssystems (uprighting system), d. h. Aufblasen der an überdimensionale Fußbälle erinnernden Gassäcke, die auf Bildern ebenfalls klar zu erkennen sind
+Bergung durch einen Flugzeugträger; bei mehreren Missionen mit Hilfe des Helicopter 66
+Bei den ersten Missionen (bis Apollo 14) verblieben die Astronauten und Gesteinsproben aus Sicherheitsgründen für mehrere Wochen in Quarantäne
+
+
+== Apollo-Missionen ==
+Kurz nach der erfolgreichen Mondlandung von Apollo 11 veröffentlichte die NASA die weitere Planung, die bis Ende 1972 neun weitere Apolloflüge vorsah. Doch bereits im Januar 1970, noch vor der Verzögerung durch die Panne von Apollo 13, wurde Apollo 20 aus Kostengründen gestrichen. Im September 1970 wurden auch die ursprüngliche Apollo-15-Mission sowie Apollo 19 eingespart. Die nicht aus dem Programm gestrichenen Missionen Apollo 16, Apollo 17 und Apollo 18 wurden danach in Apollo 15, Apollo 16 und Apollo 17 umbenannt.
+Die nach dem Abschluss der Mondflüge noch vorhandenen Apollo-Raumschiffe und Saturnraketen wurden für das Skylab-Projekt 1973/74 und das Apollo-Sojus-Test-Projekt 1975 verwendet.
+
+
+== Wissenschaft ==
+Dem Apolloprogramm wird vielfach ein zu geringer wissenschaftlicher Nutzen vorgeworfen. Das Ex-Missionsmitglied William Anders meint, Apollo sei „kein wissenschaftliches Programm“ gewesen, in Wahrheit habe es sich um eine „Schlacht im Kalten Krieg“ gehandelt. „Sicherlich, wir haben ein paar Gesteinsbrocken gesammelt und ein paar Fotos gemacht, aber wäre da nicht dieser Wettlauf mit den Russen gewesen, hätten wir niemals die Unterstützung der Steuerzahler gehabt.“ Nach dem Erfolg von Apollo 11 kündigten einige Forscher bei der NASA, darunter der damalige NASA-Chefgeologe Eugene Shoemaker. Er vertrat den Standpunkt, dass der wissenschaftliche Ertrag durch unbemannte Sonden zu einem Fünftel der Kosten und bereits 3 bis 4 Jahre früher hätte erbracht werden können.Der Schwerpunkt der wissenschaftlichen Arbeit der Astronauten auf dem Mond lag in der Geologie. Insgesamt 382 Kilogramm Mondgestein wurden auf den sechs Missionen zur Erde zurückgebracht.Weitere Projekte waren zum Beispiel das Solar Wind Composition Experiment der Universität Bern, das fünfmal auf den Mond mitgenommen wurde, und das Aufstellen von Reflektoren zu Vermessungszwecken.
+
+
+== Verschwörungstheorien ==
+
+Wie bei vielen Ereignissen von so großer politischer Tragweite wurden auch die Mondlandungen zum Objekt zahlreicher Verschwörungstheorien. Diese gehen davon aus, dass die Mondlandungen in den Jahren 1969 bis 1972 nicht stattgefunden haben (oft geht es auch nur um die erste bemannte Mondlandung), sondern von der NASA und der US-amerikanischen Regierung vorgetäuscht worden sind. Die Verschwörungstheorien haben seit den 1970ern, durch den Autor Bill Kaysing, jedoch verstärkt wieder seit 2001, Verbreitung gefunden. Keine der Verschwörungstheorien liefert einen nachvollziehbaren, wissenschaftlich haltbaren Zweifel an den erfolgten Mondlandungen.
+
+
+== Siehe auch ==
+Wettlauf ins All
+Bemannter Mondflug nach Apollo
+Apollo-Raumschiff
+Liste der Menschen, die auf dem Mond waren
+
+
+== Literatur ==
+in der Reihenfolge des Erscheinens
+
+Jesco von Puttkamer: Apollo 8, Aufbruch ins All. Der Report der ersten Mondumkreisung. Heyne, München 1969.
+Andrew Chaikin: A Man on the Moon. Penguin Books, London 1995, ISBN 0-14-027201-1.
+W. Henry Lambright: Powering Apollo. James E. Webb of NASA. Johns Hopkins University Press, Baltimore 1995, ISBN 0-8018-4902-0.
+David M. Harland: Exploring the Moon. Springer, London 1999, ISBN 1-85233-099-6.
+Robert Godwin (Hg.): Apollo. The NASA mission reports (11 Bände für Apollo 7 bis 17). Apogee Books, Burlington 1999–2002.
+Eugene Cernan: The Last Man on the Moon. Astronaut Eugene Cernan and America’s race in space. St. Martin’s Griffin, New York 2000, ISBN 0-312-26351-1.
+Jesco von Puttkamer: Apollo 11: „Wir sehen die Erde“. Der Weg von Apollo 11 zur internationalen Raumstation. Herbig, München 2001, ISBN 3-7766-2097-8.
+Thomas J. Kelly: Moon Lander: How We Developed the Apollo Lunar Module. Smithsonian Books, Washington, DC 2001, ISBN 1-56098-998-X.
+André Hoffmann: Der lange Weg zum Mond. Athene Media, Dinslaken  2009, ISBN 978-3-86992-148-8.
+Cortright, Edgar M.: Apollo Expeditions to the Moon. The NASA History. Dover, Mineola 2010, ISBN 978-0-486-47175-4.
+Thorsten Dambeck: Das Apollo-Projekt. Die ganze Geschichte – mit Originalaufnahmen der NASA. Kosmos Verlag, Stuttgart 2019, ISBN 978-3-440-16279-8.
+
+
+== Filme ==
+For All Mankind – Ein großer Schritt für die Menschheit (For All Mankind), USA 1989, Dokumentarfilm von Al Reinert
+Moon Shot, Dokumentation über das Apollo-Programm, USA 1994 (nach einem Buch der Apollo-Astronauten Alan Shepard und Deke Slayton u. a.)
+Apollo 13, 1995
+From the Earth to the Moon, 1998
+Im Schatten des Mondes, 2007, Dokumentation von David Sington mit Archivmaterial und Interviews
+Moonshot, Dokudrama über die erste Mondlandung 1969 mit Apollo 11, GB 2009
+Moon Machines, Discovery Science Channel, 2010
+First Man, Aufbruch zum Mond, 2018
+Apollo 11, US-Dokumentarfilm, 2019
+
+
+== Weblinks ==
+
+NASA: Apollo (englisch)
+NASA: Apollo Lunar Surface Journal (englisch)
+NASA: Fotos der NASA zum Apollo-Programm
+Project Apollo Archive (Bildsammlung)Marsch zum Mond in: Der Spiegel 18/1962 vom 2. Mai 1962
+
+
+== Einzelnachweise ==

@@ -1,0 +1,105 @@
+Un planeta es un objeto astronómico que orbita una estrella y que es lo suficientemente masivo como para ser redondeado por su propia gravedad, pero no  lo suficientemente masivo como para causar fusión termonuclear, y que ha despejado su región vecina de planetesimales.
+
+
+== Definición de planeta ==
+
+Etimológicamente, la palabra "planeta" proviene del latín planeta, que a su vez deriva del griego πλανήτης ("planētēs": «vagabundo» y «errante»). Esto se debe a que en la antigüedad, siguiendo la teoría geocéntrica de Ptolomeo, se creía que en torno a la Tierra giraban, además del Sol y la Luna, las estrellas. Se diferenciaban cinco (Mercurio, Venus, Marte, Júpiter y Saturno), descritas como "planetas" (errantes) por carecer de una trayectoria cíclica predecible y por desplazarse a mayor velocidad en el cielo a comparación de las estrellas.
+Muchos siglos después, al irse aceptando el conocimiento de la trayectoria real y predecible de estos planetas y la Tierra, se la denominó también como un planeta más. 
+
+Tiempo después, y según la definición adoptada por la Unión Astronómica Internacional, un planeta es un cuerpo celeste que:[1]​Orbita alrededor de una estrella o remanente de ella.
+Tiene suficiente masa para que su gravedad supere las fuerzas del cuerpo rígido, de manera que asuma una forma en equilibrio hidrostático (prácticamente esférica).
+Ha limpiado la vecindad de su órbita de planetesimales, o lo que es lo mismo tiene dominancia orbital.
+No emite una luz propia.Según esta definición, el sistema solar consta de ocho planetas (durante unas décadas atrás se consideraban a nueve), y estos ocho son: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno. En cambio Plutón, que hasta 2006 se consideraba un planeta, ha pasado a clasificarse como planeta enano, junto a Ceres, también considerado planeta durante algún tiempo, ya que era un referente en la ley de Titius-Bode, y más recientemente considerado como asteroide y Eris, un objeto transneptuniano similar a Plutón. Ciertamente, desde los años setenta existía un amplio debate sobre el concepto de planeta a la luz de los nuevos datos referentes al tamaño de Plutón (menor de lo calculado en un principio), un debate que aumentó en los años siguientes al descubrirse nuevos objetos que podían tener tamaños similares. De esta manera, esta nueva definición de planeta introduce el concepto de planeta enano, que incluye a Ceres, Plutón, Haumea, Sedna, Makemake y Eris; y tiene la diferencia de definición en (3), ya que no ha despejado la zona local de su órbita y no es un satélite de otro cuerpo.
+Los cuerpos que giran en torno a otras estrellas se denominan generalmente planetas extrasolares o exoplanetas. Las condiciones que han de cumplir para ser considerados como tales son las mismas que señala la definición de planeta para el sistema solar, si bien giran en torno a sus respectivas estrellas. Incluyen además una condición más en cuanto al límite superior de su tamaño, que no ha de exceder las 13 masas jovianas y que constituye el umbral de masa que impide la fusión nuclear de deuterio.[2]​
+
+Según la Real Academia Española, podemos ver la palabra planeta definida así:
+ 
+
+El problema de una definición correcta llegó a un punto crítico en los años 2000. Sin embargo, esta no es la primera vez que se identifica un sistema de este tipo. En el 2004, Gael Chauvin descubrió un objeto de unas 5 veces la masa de Júpiter orbitando alrededor de la enana marrón 2M1207. La distancia proyectada es de unas 55 unidades astronómicas.
+La Unión Astronómica Internacional, organismo responsable de resolver los asuntos de la nomenclatura astronómica, se reunió en agosto de 2006 dentro de su XXVI Asamblea General en Praga. Aquí, tras largas discusiones y varias propuestas, se adoptó finalmente que un planeta es:
+
+ 
+
+Además, propone el término planeta enano para los cuerpos que cumplan las condiciones (a) y (b), pero no (c) y no sean satélites. Este es el caso de Plutón, Ceres y Eris (conocido antes como 2003 UB313). Con posterioridad también se han añadido a la lista de planetas enanos Makemake y Haumea. Por último, el resto de los objetos del sistema solar, excepto los satélites pueden considerarse cuerpos menores del sistema solar.
+
+
+== Formación ==
+No se sabe con certeza cómo se forman los planetas. La teoría predominante es que lo hacen durante el colapso de una nebulosa en un delgado disco de gas y polvo. En el centro se forma una protoestrella rodeada de un disco protoplanetario en rotación. 
+Mediante la acreción (un proceso de coalescencia por colisión), las partículas de gas y polvo del disco acumulan sin interrupción masa para formar objetos cada vez más grandes. Estas acumulaciones de masa, conocidas como planetesimales, aceleran el proceso de acreción por la atracción gravitatoria de materiales adicionales y se vuelven cada vez más densas hasta que colapsan bajo la gravedad para formar protoplanetas.[3]​
+Después de que un planeta alcanza una masa algo mayor que la de Marte, comienza a reunir una atmósfera extensa[4]​
+que incrementa la tasa de captura de planetesimales por medio de la resistencia atmosférica.[5]​[6]​
+En función del modo de acreción de sólidos y gases, el resultado será un planeta gigante, un gigante de hielo o un planeta terrestre.[7]​[8]​[9]​
+
+
+== Clasificación general de los planetas del sistema solar ==
+Los planetas del sistema solar se clasifican conforme a dos criterios: su estructura y su movimiento aparente.
+
+
+=== Según su estructura ===
+Planetas terrestres o telúricos: pequeños, de superficie rocosa y sólida, densidad alta. Son Mercurio, Venus, la Tierra y Marte. También son llamados planetas interiores.
+Planetas jovianos (similares a Júpiter): grandes diámetros, esencialmente gaseosos (hidrógeno y helio), densidad baja. Son Júpiter, Saturno, Urano y Neptuno, los planetas gigantes del sistema solar. También son llamados planetas exteriores.Plutón, según el acuerdo tomado el 24 de agosto de 2006 por la Unión Astronómica Internacional sobre una nueva definición de planeta, se le considera dentro de la categoría de planeta enano. Los primeros asteroides descubiertos fueron también denominados temporalmente como planetas, como Ceres, que al igual que otros asteroides llegaron incluso a tener su símbolo planetario, hasta que fue evidente que formaban parte de toda una familia de objetos: el cinturón de asteroides.
+
+
+=== Según sus movimientos en el cielo ===
+La teoría geocéntrica clasificaba a los planetas según su elongación:
+
+Los planetas inferiores son aquellos que no se alejaban mucho del Sol (ángulo de elongación limitado por un valor máximo) y que, por tanto, no pueden estar en oposición, como Mercurio y Venus.Los planetas superiores son aquellos que hacen oposición, y se toma como referencia a la Tierra. Es decir que, todos los que se alejan del Sol. Más allá de la órbita terrestre, son superiores, tienen órbitas más alejadas del Sol. Sus tamaños gigantescos y su composición líquida y gaseosa los hace muy diferentes de los planetas interiores, siendo bastante menos densos que estos.Suelen tener grandes atmósferas compuestas por helio e hidrógeno, con componentes de otras sustancias como agua, metano o amoníaco.
+Las configuraciones de un planeta exterior son:
+
+Conjunción. El Sol se interpone entre la Tierra y el planeta, haciendo que este no se vea.
+Oposición. Las direcciones del Sol y el planeta difieren en 180º, estando la Tierra entre ambos. La visión del planeta es óptima. A la puesta del Sol está en dirección Este y al amanecer al oeste. Es uno de los mejores momentos para observarlo dado que en la oposición la distancia planeta-Tierra es mínima.
+Cuadratura oriental. Las direcciones del Sol y el planeta forman 90º hacia el Este. A la puesta del Sol el planeta está en la dirección Sur, y al amanecer en dirección Norte.
+Cuadratura occidental. Las direcciones del Sol y el planeta forman 90º hacia el Oeste. A la puesta del Sol el planeta está en dirección Norte, y al amanecer en dirección Sur.Los planetas interiores y exteriores, parten de un lugar de referencia que no es la Tierra: Es el cinturón de asteroides.
+Los planetas: Mercurio, Venus, La Tierra y Marte son internos.
+Los planetas: Júpiter, Saturno, Urano y Neptuno son exteriores.
+
+
+== Historia de la observación y nombres de los planetas ==
+
+Desde la prehistoria y hasta el comienzo de la astronomía con telescopios, los planetas conocidos eran: Mercurio, Venus, Marte, Júpiter y Saturno ya que son los fácilmente visibles a simple vista.
+Los orígenes de la observación de los planetas de los que hay registro se remontan a la civilización sumeria (3800 AEC. a 2000 AEC) cuya cultura, y especialmente su religión, repercutió en la mitología de otros pueblos antiguos de región de la Mesopotamia. Allí los planetas se identificaban con deidades de su religión de los que tomaban sus nombres. Además, en esta época se forjaron también los símbolos que se utilizan hasta el día de hoy.[10]​[11]​ Ordenados desde el Sol hacia el exterior son:
+
+Para nombrar los planetas, la cultura griega antigua clásica, tomó los nombres de los dioses babilonios traducidos a sus correspondientes divinidades. Ellos son: 
+
+La cultura romana antigua, renombró los dioses griegos y con ellos los planetas. Estos son los nombres que usamos en la actualidad. 
+
+
+=== Descubrimiento de planetas con telescopio ===
+Urano es visible a simple vista en el momento de la oposición, en cielos oscuros, sin contaminación lumínica, pero, en parte por la lentitud de sus movimientos, no fue identificado como planeta en la antigüedad  En en siglo XVII fue catalogado como estrella. En 1781 el británico William Herschel observó un objeto que más tarde se confirmó como un planeta más allá de la órbita de Saturno. Al momento de nombrarlo se intentó rendir homenaje al rey del Reino Unido, pero finalmente se lo denominó Urano, que en la mitología griega el es un titan primordial personificador del cielo y padre de Crono, que, como este, fue derrocado por su hijo. De esta manera, se continuó la tradición de usar la mitología antigua para nombrar los planetas, aunque, en lugar del nombre romano (Caelus) como en el resto de planetas, en este caso se usó la forma griega. Esta tradición había sido iniciada con la astronomía telescópica a principios del siglo XVII con la denominación de los satélites galielanos de Júpiter por Simon Marius. 
+En 1801 el italiano Giuseppe Piazzi descubrió un objeto de pequeño tamaño entre Marte y Júpiter que fue denominado Ceres, por la diosa romana de la agricultura, las cosechas y la fecundidad, ubicándose en la tradición de utilizar nombres de deidades romanas. De manera similar a Urano, originalmente se intentó agregarle un "apellido" en honor a un monarca de país del descubrimiento, algo que luego fue desechado. En Grecia se lo nombra Deméter, la equivalente griega de Ceres. Este objeto fue considerado planeta hasta mediados del siglo XIX, luego de la acumulación de varios descubrimientos de objetos similares que dieron cuenta de la existencia de un cinturón de asteroides al que el objeto pertenece. 
+En 1846 Johann Gottfried Galle y Urbain Le Verrier descubrieron un planeta más allá de Urano que, luego de algunos ensayos de nombres, fue llamado Neptuno, dios de la mitología romana, hijo de Saturno y hermano de Júpiter, que gobierna todas las aguas y mares, que vuelve a ubicarse en la tradición de nombrar con nombres de deidades romanas. El nombre del planeta se traduce literalmente en otras culturas: Se le llama estrella del rey del mar en chino, coreano, japonés y vietnamita (海王星 en caracteres chinos, 해왕성 en coreano) y en la India, el nombre que se da al planeta es Varuna (devanagari: वरुण), el dios del mar en la mitología hindú/védica. 
+Finalmente, en el año 1930 el estadounidense Clyde Tombaugh descubrió un cuerpo más allá de Neptuno. Para nombrarlo, se adoptó Plutón el dios romano del inframundo. De manera similar a Ceres, Plutón fue considerado planeta hasta que se descubre que pertenece a un cinturón de objetos menores, en esta caso al cinturón de Kuiper.
+
+
+== Planetas externos al sistema solar ==
+
+
+=== Planetas extrasolares ===
+Desde 1988 el descubrimiento de Gamma Cephei Ab, confirmó una serie de descubrimientos que se han hecho de planetas en órbita alrededor de estrellas distintas del Sol. Hasta octubre de 2011 se habían descubierto 567 sistemas planetarios que contienen un total de 692 cuerpos. La mayoría de ellos tienen masas que son comparables o mayores que Júpiter. Entre las excepciones se incluyen una serie de planetas descubiertos en órbita alrededor de los restos quemados de estrellas llamados púlsares, como PSR B1257 +12, los planetas en órbita alrededor de las estrellas: Mu Arae, 55 Cancri y GJ 436, que son aproximadamente del tamaño de Neptuno, y un sistema planetario que contiene al menos dos planetas en órbita alrededor de Gliese 876.
+No está nada claro si los grandes planetas recién descubiertos se parecen a los gigantes gaseosos en el sistema solar o si son de un tipo de gas distinto aún no confirmado, como el amoníaco o el carbono. En particular, algunos de los planetas recién descubiertos, conocidos como jupiteres calientes, orbitan muy cerca de sus estrellas padre, en órbitas casi circulares, por lo que reciben mucho más la radiación estelar que los gigantes de gas en el sistema solar, lo que hace preguntarse si son absolutamente el mismo tipo de planeta. También existe una clase de jupiteres calientes que orbitan tan cerca de su estrella que sus atmósferas son lentamente arrancadas: los planetas Chthonianos.
+Para una observación más detallada de planetas extrasolares será requerida una nueva generación de instrumentos, incluidos los telescopios espaciales. En la actualidad, la nave espacial CoRoT está a la búsqueda de variaciones de luminosidad estelar debido al tránsito de planetas. Varios proyectos han propuesto también la creación de un conjunto de telescopios espaciales para la búsqueda de planetas extrasolares con masas comparables a la de la Tierra. Estos incluyen el proyecto de la NASA Kepler Mission, Terrestrial Planet Finder, y programas de la Misión Espacial de Interferometría, el Darwin de la ESA, el CNES y la PEGASE. The New Worlds Misión es un dispositivo oculto que puede trabajar en conjunto con el telescopio espacial James Webb. Sin embargo, la financiación de algunos de estos proyectos sigue siendo incierta. La frecuencia de ocurrencia de tales planetas terrestres es una de las variables en la ecuación de Drake, que estima el número de planetas con seres inteligentes, con civilizaciones con las que comunicarnos nuestra galaxia. [41]
+
+
+=== Planetas interestelares ===
+
+Varias simulaciones por ordenador de evolución estelar y formación de los sistemas planetarios han sugerido que algunos objetos de masa planetaria habrían sido expulsados al espacio interestelar. Algunos científicos han argumentado que esos objetos encontrados vagando en el espacio deben ser clasificados como "planetas". Sin embargo, otros han sugerido que podrían ser estrellas de baja masa. La definición de la UAI sobre planetas extrasolares no toma posición sobre la cuestión.
+En 2005, los astrónomos anunciaron el descubrimiento de Cha 110913-773444, la enana marrón más pequeña encontrada hasta la fecha, con solo siete veces la masa de Júpiter. Ya que no se encuentran en órbita alrededor de una estrella de detonación, es una sub-enana marrón, de acuerdo con la definición de la UAI. Sin embargo, algunos astrónomos creen que debería ser denominada como planeta. Durante un breve tiempo en 2006, los astrónomos creían que habían encontrado un sistema binario de objetos, Oph 162225-240515, que los descubridores describen como "planemos", u "objetos de masa planetaria". Sin embargo, los últimos análisis de los objetos ha determinado que sus masas son mayores que 13 veces la de Júpiter; que es el tope de masa que debe tener un planeta para que en su núcleo no se produzcan combustiones termonucleares, es decir, para que no sea una estrella.
+
+
+== Las características más importantes de los planetas ==
+La siguiente tabla muestra una comparación entre las medidas de la Tierra, los demás planetas del sistema solar y el Sol. 
+
+
+== Véase también ==
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikcionario  tiene definiciones y otra información sobre planeta.
+ Wikimedia Commons alberga una categoría multimedia sobre planetas.
+Guía de los planetas (información y fotos de los planetas del sistema solar).
+Planetas del sistema solar (información, fotos y vídeos de los planetas del sistema solar).
+Sobre la definición de planeta.
+Simulador en línea, órbitas de revolución de los planetas.

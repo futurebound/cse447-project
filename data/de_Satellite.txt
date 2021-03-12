@@ -1,0 +1,96 @@
+Ein Satellit, auch Mond oder Trabant, ist in der Astronomie ein kompaktes, natürlich entstandenes astronomisches Objekt, das sich in einer Umlaufbahn um ein anderes, deutlich massereicheres Objekt befindet. Natürliche Satelliten von Planeten werden meist als Monde bezeichnet. Der Planet, den ein Mond umkreist, wird auch Mutterplanet genannt. Früher wurden die Monde von Planeten auch als Nebenplaneten bezeichnet. Daneben werden auch gravitativ an größere Galaxien gebundene Sternsysteme als Satellitengalaxien bezeichnet.
+Die Gravitation eines Planeten wirkt sich auf einen ihn umkreisenden Mond durch Gezeitenkräfte aus. Der Mond wird dabei leicht verformt. Dies führt dazu, dass sich die Rotation des Monds allmählich seiner Umlauffrequenz um den Planeten anpasst und er schließlich eine gebundene Rotation besitzt. Der Mond wendet dann dem Planeten immer dieselbe Seite zu. Umgekehrt bewirkt die Gravitation eines Monds Gezeitenkräfte auf dem Planeten und hat damit Rückwirkungen auf dessen Rotation. Da sich Mond und Planet deutlich in der Masse unterscheiden, reichen diese Gezeitenkräfte im Allgemeinen nicht aus, um die Rotation des Planeten an die Umlaufzeit des Monds anzugleichen.
+Die Gravitation von Monden nimmt deutlichen Einfluss auf die Form und Stabilität des Ringsystems eines Planeten.
+
+
+== Entstehung ==
+Über die Entstehung von natürlichen Satelliten bzw. Monden gibt es je nach Besonderheiten ihrer Größe oder seiner Bahneigenschaften unterschiedliche Vorstellungen. Am bekanntesten sind die vor allem in der Vergangenheit kontrovers diskutierten Ansätze zur Entstehung des Erde-Mond-Systems – hauptsächlich entweder aus einer gemeinsamen Akkretionsscheibe, durch Einfang, durch Abspaltung oder als Folge einer Großkollision von Protoplaneten.
+Für die regulären Satelliten der Gasplaneten gilt die Akkretion aus umgebenden Partikeln. Für verhältnismäßig besonders große Satelliten wie den Erdmond und den Plutomond Charon hat die Vorstellung einer Großkollision die Oberhand gewonnen. Für rückläufig kreisende Satelliten, das heißt, gegen den Rotationssinn des Hauptkörpers, wird als Herkunftsweg der Einfang eines auf einer ehemals selbstständigen Umlaufbahn fertig ausgebildeten Körpers angenommen. Für die Marsmonde (Phobos und Deimos) wird aufgrund ihrer sehr unregelmäßigen Form und der Nähe des Asteroidengürtels eine Herkunft als eingefangene Asteroiden vermutet. Bei kleinen und sehr unregelmäßigen Asteroiden, deren Rotationsgeschwindigkeit durch den YORP-Effekt beeinflusst wird, kann dieser Effekt im Falle einer Beschleunigung im Verlauf von mehreren Millionen Jahren möglicherweise dazu führen, dass die Himmelskörper zerbrechen und einzelne Fragmente als Satelliten verbleiben.
+
+
+== Sonstige Entwicklungen ==
+Über einen möglichen Untergang von Satelliten gibt es ebenfalls verschiedene Vorstellungen. Eine der ältersten davon ist die des Eindringens in die Roche-Grenze eines Planeten. Ab dieser kritischen Nähe werden die Gezeitenkräfte dermaßen stark, dass größere Satelliten von ihnen zerrissen werden. Diese Ansicht ist vor allem als Erklärung des hauptsächlichen Ursprungs der Saturnringe bekannt geworden. Daneben gibt es auch die Theorie, dass die Planetenringe der Gasplaneten aus restlichem Material der protoplanetaren Gas- und Staubscheibe bestehen, das sich dort innerhalb der Roche-Grenze nicht zu Satelliten zusammenballen konnte. Die Ringsysteme bestehen aus Eis und Staub von sehr feiner Teilchengröße bis hin zu hausgroßen Brocken. Für die Unterscheidung zwischen den kleinsten Monden und den größten Ringbrocken gibt es keine definierte Grenzgröße; die Unterscheidung erfolgt rein konventionell, zumal die Ringe fotografisch noch nicht in einzelne Komponenten aufgelöst worden sind.
+Manch einzelne Ringe innerhalb eines Ringsystems werden anscheinend von einem Satelliten aus gespeist: Im Fall des Saturnmondes Enceladus durch aufsteigende Fontänen eines Kryovulkanismus, und von dem Mond Mab aus, dessen Umlaufbahn um Uranus mit der Zone der höchsten Dichte des My-Ringes zusammenfällt, welcher möglicherweise durch die herausschlagende Wirkung von Meteoriteneinschlägen hervorgerufen wird. Während die Anziehungskraft größerer Himmelskörper dafür sorgt, dass die Trümmerstücke größtenteils auf die Oberfläche zurückstürzen, reicht sie bei kleinen dafür nicht aus und neben massearmen Satelliten verteilen sich auch feine Teilchen ringförmig im Orbit. Wie im Fall der zwei kleinen Plutomonde Nix und Hydra wird von Wissenschaftlern vermutet, dass die Einschläge von Mikrometeoriten über einen astronomischen Zeitraum bis zur Aufreibung eines kleineren Satelliten zu einem Staubring führen können.
+
+
+== Geschichte ==
+Nach der Erfindung des Fernrohrs war die Entdeckung der Galileischen Monde im Jahr 1610 am Jupiter die erste Beobachtung von astronomischen Objekten, deren Bahn ganz offensichtlich nicht die Erde umkreist. Das wurde als Argument gegen das geozentrische und für das heliozentrische Weltbild angesehen. Im Laufe weiterer Beobachtungen erkannte man, dass der Mond der einzige Himmelskörper ist, der wirklich um die Erde kreist. In Analogie zum Mond der Erde wurden die andere Planeten umkreisenden größeren Objekte ebenfalls Monde genannt.
+Johannes Kepler bestätigte Galileis Entdeckungen mit seiner 1611 in Frankfurt veröffentlichten Schrift Narratio de observatis a se quatuor Iovis Satellitibus erronibus („Bericht über die vier von ihm beobachteten umherirrenden Begleiter des Jupiter“) und unterstützte gleichzeitig dessen Schlussfolgerungen. In dieser Schrift wird zum ersten Mal das lateinische Wort satelles („Leibwächter“, im Plural satellites auch „Gefolge“) für diese Art von Himmelskörpern verwendet, welche Galilei noch Sidera Medicea („Mediceischen Gestirne“) nannte.
+Christiaan Huygens verwendet in seiner Veröffentlichung Systema Saturnium von 1659 für den von ihm entdeckten Saturnbegleiter Titan als Erster das Wort Luna (Mond).Deutsche Gelehrte des 18. und 19. Jahrhunderts bezeichneten Monde auch als „Nebenplaneten“, neben den „Hauptplaneten“.
+
+
+== Weitere Details ==
+In einem Planetensystem läuft der jeweilige Hauptkörper gemeinsam mit dem Mond auf einer Umlaufbahn um das Zentralgestirn.
+Insgesamt sind im Sonnensystem derzeit 557 natürliche Satelliten bekannt. (Stand: 4. Februar 2019)
+
+
+=== Monde von Planeten ===
+Die Planeten des Sonnensystems haben insgesamt 205 bisher bekannte Monde. Zwei von ihnen sind größer, aber nicht massereicher als der Planet Merkur. Von den acht Planeten haben sechs einen oder mehrere Monde, wobei die inneren, erdähnlichen Planeten ein bis zwei und die äußeren, jupiterähnlichen Planeten durchweg viele besitzen.
+Die Anzahl im Einzelnen mit Angabe der größten Exemplare und weiterer Besonderheiten (absteigend geordnet nach ihrer Masse):
+
+Merkur – 0
+Venus – 0
+Erde – 1: Mond (im Verhältnis zu seinem Planeten der größte bekannte Satellit)
+Mars – 2: Phobos (mit dem geringsten Abstand von seinem Planeten) und Deimos; beides wahrscheinlich eingefangene Asteroiden.
+Jupiter – 79: u. a. die vier Galileischen Monde: Ganymed (größter und massereichster Mond im Sonnensystem und einziger mit einem ausgeprägten Magnetfeld), Kallisto, Io (Mond mit der höchsten Dichte und vulkanisch aktivster Körper) und Europa; die kleine Metis hat die höchste bekannte mittlere Bahngeschwindigkeit.
+Saturn – 82: u. a. Titan (zweitgrößter und einziger Mond des Sonnensystems mit einer dichten Atmosphäre), Rhea, Iapetus (Körper mit den kontrastreichsten Albedounterschieden), Dione (mit zwei Trojaner-Monden), Tethys (ebenfalls mit zwei trojanischen Begleitern), Enceladus, Mimas, Hyperion (einziger bekannte Mond mit chaotischer Rotation) und Phoebe (einziger größerer Mond mit regelmäßiger, aber nicht gebundener Rotation); die zwei kleinen koorbitalen Satelliten Janus und Epimetheus tauschen regelmäßig ihre Umlaufbahn.
+Uranus – 27: u. a. Titania, Oberon, Ariel, Umbriel und Miranda (zerklüftetster Satellit)
+Neptun – 14: u. a. Triton (größter rückläufiger Mond), Proteus (größter Mond mit unregelmäßiger Form) und Nereid (exzentrischste Umlaufbahn); die kleine Naiad hat die kürzeste bekannte Umlaufzeit und die kleine Neso die größte Umlaufbahn mit der längsten Umlaufzeit und der geringsten mittleren Bahngeschwindigkeit.Monde von extrasolaren Planeten sind bisher noch nicht beobachtet worden. Siehe: Extrasolarer Mond.
+
+
+=== Monde von Zwergplaneten ===
+Auch bei Zwergplaneten sind Satelliten bekannt (nach Anzahl geordnet):
+
+Pluto – 5: Charon (größter Zwergplanetenmond), Nix, Hydra, Kerberos und Styx
+Haumea – 2: Namaka und Hiʻiaka
+Makemake – 1: S/2015 (136472) 1
+Eris – 1: Dysnomia
+
+
+=== Monde von Asteroiden ===
+
+Neben den Zwergplaneten haben unter den Kleinplaneten auch manche Asteroiden Satelliten. Bislang sind 345 Asteroiden mit jeweils einem oder mehreren Satelliten bekannt – insgesamt 366 derartige Satelliten. Als größter Asteroidenmond gilt gegenwärtig Vanth des TNO (90482) Orcus mit 443 km; weitere große Asteroidenmonde sind Ilmarë, Xiangliu, Actaea, Hiisi und Nunam. Als die zwei kleinsten Satelliten überhaupt gelten die Begleiter der erdnahen Asteroiden (162000) 1990 OS und (363067) 2000 CO101 mit Durchmessern von jeweils etwa 45 Metern. Die Sonde Galileo fotografierte 1993 zufällig erstmals einen Asteroidenmond, den Satelliten Dactyl des Asteroiden Ida. 1999 konnte bei Eugenia erstmals ein Asteroidensatellit mit einem erdgestützten Teleskop nachgewiesen werden.
+
+
+=== Monde von Kometen ===
+Die im Jahr 2006 bekanntgegebene Entdeckung des Satelliten Echidna des Asteroiden Typhon hat die Frage nach möglichen Satelliten von Kometen aufgeworfen, denn Typhon gehört der Asteroidenklasse der Zentauren an, mit stark elliptischen Umlaufbahnen im äußeren Planetensystem, und die gelten als wahrscheinlich „erloschene“ und manche auch als noch etwas aktive Kometenkerne. Die Unterscheidung zwischen Kometen und eisreichen, aber sonnenfernen und daher insofern inaktiven Asteroiden ist auch substanziell nicht eindeutig. 2017 wurde mit dem Begleiter von (300163) 2006 VW139 der erste Mond entdeckt, dessen Mutterkörper sowohl als Asteroid wie auch als Komet eingestuft wird. Ein „reiner Kometenmond“ wurde bisher noch nicht gefunden.
+
+
+=== Monde von Monden ===
+Monde, die um einen Satelliten eines Planeten kreisen, sind bisher nicht bekannt. Theoretisch sind diese Mondmonde innerhalb der Hill-Sphäre des Satelliten möglich, wobei aber die Störung durch Gezeitenkräfte die Dauer dieser Konstellation stark einschränkt. Über einen längeren Zeitraum stabil können darum nur Monde von Monden mit einer großen Umlaufbahn zum Planeten und entsprechend großen Massenverhältnissen sein. Möglich (aber aktuell nicht beobachtet) wäre dies im Sonnensystem bei den Monden Callisto, Titan, Iapetus und dem Erdmond. Auch bei Exoplaneten wird eine solche Konstellation für möglich gehalten, etwa bei Kepler-1625b.
+
+
+== Siehe auch ==
+Irregulärer Satellit
+Doppelplanet
+Extraterrestrischer Ozean
+Kordylewskische Wolken
+Kozai-Effekt
+Quasisatellit
+SchäfermondListenListe der Monde von Planeten und Zwergplaneten
+Liste der Jupitermonde
+Liste der Saturnmonde
+Liste der Uranusmonde
+Liste der Neptunmonde
+Liste der Monde von Asteroiden
+Liste der Satellitengalaxien der Milchstraße
+
+
+== Literatur ==
+Monde. Sterne und Weltraum, Special Bd. 7. Heidelberg 2002, ISBN 3-936278-22-9.
+David A. Rothery: Satellites of the outer planets – worlds in their own right. Oxford University Press, New York 1999, ISBN 0-19-512555-X.
+Sushil K. Atreya u. a.: Origin and evolution of planetary and satellite atmospheres. Univ. of Arizona Press, Tucson 1989, ISBN 0-8165-1105-5.
+Hans Heinrich Voigt, Hermann-Josef Röser (Hrsg.): Abriss der Astronomie. Brockhaus, Mannheim 1969 (6. Auflage: Wiley-VCH, Weinheim 2010), ISBN 3-527-40736-7.
+Jürgen Blunck: Solar system moons – discovery and mythology. Springer, Berlin 2010, ISBN 978-3-540-68852-5.
+
+
+== Weblinks ==
+
+Übersicht der Planetenmonde von Scott S. Sheppard (englisch)
+NASA-Liste von Satellitenentdeckungen (englisch)
+Was ist ein Mond?
+Monde.de
+Our Solar System: Moons solarsystem.nasa.gov
+
+
+== Einzelnachweise ==

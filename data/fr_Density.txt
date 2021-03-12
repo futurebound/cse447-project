@@ -1,0 +1,1804 @@
+La densité ou densité d'un corps ou densité relative d'un corps est le rapport de sa masse volumique à la masse volumique d'un corps pris comme référence.
+Pour les liquides et les solides, le corps de référence est l'eau pure à 4 °C.
+Dans le cas de gaz ou de vapeur, le corps de référence gazeux est l'air, à la même température et sous la même pression.
+La densité d'un corps est une grandeur sans dimension et sa valeur s'exprime sans unité de mesure.
+Il ne faut pas confondre la densité d'un corps, sans dimension, avec la densité d'une grandeur qui est le rapport statistique, dimensionnel, d'une grandeur physique donnée sur un élément d'espace (longueur, surface ou volume), utilisé pour apprécier la répartition de cette grandeur, comme c'est le cas par exemple pour la densité surfacique d'une population, la masse surfacique, la charge surfacique, la concentration surfacique, etc.
+
+
+== Histoire et terminologie ==
+La densité d'un corps est une notion de physique ancienne, apparue au XVIIe siècle. Cette grandeur caractéristique d'un corps, exprimée par un nombre sans dimension a un usage commun. Elle est souvent définie dans les dictionnaires savants ou encyclopédiques.
+Émile Littré définit la densité comme le « rapport de la masse d'un corps à son volume », c'est-à-dire comme la masse volumique. Le scientifique rationaliste Laplace, admirateur de Newton, cité en référence, utilise en 1810 la densité en synonyme de masse volumique. Le BIPM lui-même associe encore, en 1960, les termes densité et masse volumique.
+Néanmoins la mesure expérimentale directe de la masse volumique s'appuie toujours sur une pesée hydrostatique avec comme référence une masse d'eau liquide. C'est une mesure de densité relative. La « densité relative » étant la seule grandeur mesurable expérimentalement sa forme courte « densité » est généralement préférée. Le mot « densité » est, d'après Littré, l'expression moderne du terme « densité relative », expression toujours utilisée en anglais (relative density). La masse volumique reste le synonyme moderne des expressions désuètes « densité absolue » ou « densité propre » (density en anglais, sous-entendu absolute density).
+Enfin, il ne faut pas confondre la densité d'un corps, sans dimension, avec la densité particulaire, définie par une unité, puisque cette dernière densité d'une grandeur est un rapport statistique d'une population donnée sur un élément d'espace (longueur, surface ou volume) utilisé pour décompter cette population, comme c'est le cas pour la densité surfacique de population, la densité de charge, la concentration molaire.
+
+
+== Expression de la densité ==
+La densité, notée 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  , s'exprime par :
+
+  
+    
+      
+        d
+        =
+        
+          
+            
+              ρ
+              
+                
+                  c
+                  o
+                  r
+                  p
+                  s
+                
+              
+            
+            
+              ρ
+              
+                réf
+              
+            
+          
+        
+      
+    
+    {\displaystyle d={\frac {\rho _{\rm {corps}}}{\rho _{\text{réf}}}}}
+  où 
+  
+    
+      
+        
+          ρ
+          
+            
+              c
+              o
+              r
+              p
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \rho _{\rm {corps}}}
+   est la masse volumique du corps considéré, et 
+  
+    
+      
+        
+          ρ
+          
+            réf
+          
+        
+      
+    
+    {\displaystyle \rho _{\text{réf}}}
+   est la masse volumique du corps de référence.
+S'agissant d'un rapport entre deux mesures de même unité, la densité s'exprime par le rapport de deux grandeurs de même dimension et donc n'a pas d'unité.
+
+
+== Densité des gaz ==
+La densité des gaz est calculée à partir de la masse volumique de l'air. La valeur de référence prise est la masse d'un litre d'air à 0 °C sous une pression de 760 mmHg, soit 1,293 49 g.
+On a ainsi :
+
+  
+    
+      
+        
+          d
+          
+            
+              g
+              a
+              z
+            
+          
+        
+        =
+        
+          
+            
+              ρ
+              
+                
+                  g
+                  a
+                  z
+                
+              
+            
+            
+              ρ
+              
+                
+                  a
+                  i
+                  r
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle d_{\rm {gaz}}={\frac {\rho _{\rm {gaz}}}{\rho _{\rm {air}}}}}
+  Il existe une façon commode de relier la masse molaire M d'un gaz et sa densité. En effet, en considérant un gaz parfait, 
+  
+    
+      
+        P
+        V
+        =
+        n
+        R
+        T
+      
+    
+    {\displaystyle PV=nRT}
+   d'où :
+
+  
+    
+      
+        V
+        =
+        
+          
+            
+              n
+              R
+              T
+            
+            P
+          
+        
+        =
+        
+          
+            
+              m
+              R
+              T
+            
+            
+              M
+              P
+            
+          
+        
+      
+    
+    {\displaystyle V={\frac {nRT}{P}}={\frac {mRT}{MP}}}
+   avec 
+  
+    
+      
+        n
+        =
+        
+          
+            m
+            M
+          
+        
+      
+    
+    {\displaystyle n={\frac {m}{M}}}
+  On a donc :
+
+  
+    
+      
+        M
+        =
+        
+          
+            m
+            V
+          
+        
+        
+          
+            
+              R
+              T
+            
+            P
+          
+        
+      
+    
+    {\displaystyle M={\frac {m}{V}}{\frac {RT}{P}}}
+   ou 
+  
+    
+      
+        M
+        =
+        ρ
+        
+          
+            
+              R
+              T
+            
+            P
+          
+        
+      
+    
+    {\displaystyle M=\rho {\frac {RT}{P}}}
+  et :
+
+  
+    
+      
+        
+          d
+          
+            
+              g
+              a
+              z
+            
+          
+        
+        =
+        
+          
+            
+              ρ
+              
+                
+                  g
+                  a
+                  z
+                
+              
+            
+            
+              ρ
+              
+                
+                  a
+                  i
+                  r
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              M
+              
+                
+                  g
+                  a
+                  z
+                
+              
+            
+            
+              M
+              
+                
+                  a
+                  i
+                  r
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle d_{\rm {gaz}}={\frac {\rho _{\rm {gaz}}}{\rho _{\rm {air}}}}={\frac {M_{\rm {gaz}}}{M_{\rm {air}}}}}
+   avec 
+  
+    
+      
+        
+          
+            
+              R
+              T
+            
+            P
+          
+        
+      
+    
+    {\displaystyle {\frac {RT}{P}}}
+   pris identique pour l'air et le gaz considéré.En tenant compte de la composition de l'air et des masses molaires respectives (78 % de diazote, 21 % de dioxygène et 1 % d'argon environ), il est facile de montrer que : 
+  
+    
+      
+        
+          M
+          
+            a
+            i
+            r
+          
+        
+        =
+        29
+        
+        
+          g
+          ⋅
+          m
+          o
+          
+            l
+            
+              −
+              1
+            
+          
+        
+      
+    
+    {\displaystyle M_{air}=29\;\mathrm {g\cdot mol^{-1}} }
+  , soit :
+
+  
+    
+      
+        
+          M
+          
+            
+              g
+              a
+              z
+            
+          
+        
+        =
+        29
+        
+        
+          g
+          ⋅
+          m
+          o
+          
+            l
+            
+              −
+              1
+            
+          
+        
+        
+          d
+          
+            
+              g
+              a
+              z
+            
+          
+        
+      
+    
+    {\displaystyle M_{\rm {gaz}}=29\;\mathrm {g\cdot mol^{-1}} d_{\rm {gaz}}}
+  Par exemple, la densité du dihydrogène (
+  
+    
+      
+        
+          M
+          
+            
+              
+                H
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle M_{\rm {H_{2}}}}
+   = 2 g mol−1) est 
+  
+    
+      
+        
+          d
+          
+            
+              
+                H
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              M
+              
+                
+                  
+                    H
+                    
+                      2
+                    
+                  
+                
+              
+            
+            29
+          
+        
+        =
+        
+          
+            2
+            29
+          
+        
+      
+    
+    {\displaystyle d_{\rm {H_{2}}}={\frac {M_{\rm {H_{2}}}}{29}}={\frac {2}{29}}}
+   soit 
+  
+    
+      
+        
+          d
+          
+            
+              
+                H
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        0,069
+      
+    
+    {\displaystyle d_{\rm {H_{2}}}=0{,}069}
+   environ.
+Il découle de cette relation que plus un gaz a une masse molaire élevée, plus il est dense. Il est ainsi facile de prévoir que le dioxyde de carbone (CO2) sera plus dense que l'air (44/29 soit ~1,52) et que les gaz les moins denses sont le dihydrogène et l'hélium (environ 2/29 soit ~0,07 pour le dihydrogène et 4/29 ~0,14 pour l'hélium).
+Le composé gazeux le plus dense à température ambiante est l'hexafluorure de soufre, SF6 (d = 146/29 soit ~5,03).
+
+
+== Densité des solides et des liquides ==
+Le plus souvent, l'eau est utilisée comme corps de référence pour la densité des liquides et des solides. Dans ce cas, la masse volumique de l'eau est prise égale à 1 000 kg·m-3 (ou à 1 kg·dm-3, ou à 1 kg/L, ou encore 1 g·cm-3). Il s'agit de la masse volumique de l'eau à 3,98 °C et à pression atmosphérique.
+La densité devient :
+
+  
+    
+      
+        d
+        =
+        
+          
+            
+              ρ
+              
+                
+                  c
+                  o
+                  r
+                  p
+                  s
+                
+              
+            
+            
+              ρ
+              
+                
+                  e
+                  a
+                  u
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle d={\frac {\rho _{\rm {corps}}}{\rho _{\rm {eau}}}}}
+  où 
+  
+    
+      
+        
+          ρ
+          
+            
+              c
+              o
+              r
+              p
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \rho _{\rm {corps}}}
+   est la masse volumique du corps considéré et 
+  
+    
+      
+        
+          ρ
+          
+            
+              e
+              a
+              u
+            
+          
+        
+      
+    
+    {\displaystyle \rho _{\rm {eau}}}
+   est la masse volumique de l'eau (1 000 kg·m-3).
+Pour corriger les valeurs mesurées à d'autres températures que la température de référence, il faut exploiter la courbe de variation de la masse volumique de l'eau en fonction de la température pour en déduire la masse volumique des matériaux à la température des mesures.
+Pour les liquides, une mesure précise de densité utilise un pycnomètre.
+
+
+== Mesure de la densité relative d'un solide ==
+La densité relative d'un corps solide par rapport à un corps fluide est le rapport de la masse du corps solide sur la masse du corps fluide de volume identique à celui du corps solide.
+Mesurons cette densité relative en réalisant trois pesées et en immergeant le solide.
+Les mesures doivent être réalisées dans les mêmes conditions de pression et de température (souvent les conditions normales : 76 cm de mercure, 0 °C).
+
+Corps solide
+Un corps solide C1 est accroché au plateau d'une balance à l'aide d'une tige rigide t de masse Mt inconnue (figure A).
+La  masse m1 et le volume 
+  
+    
+      
+        
+          
+            
+              V
+            
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle {\mathcal {V}}_{1}}
+   du corps 
+  
+    
+      
+        
+          
+            
+              C
+            
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}_{1}}
+   ne sont pas connus.
+Une tare T, de masse MT inconnue, est posée sur l'autre plateau de la balance.
+Les masses inconnues des deux plateaux de la balance sont notées M1 et M2.
+L'équilibre du fléau de la balance est réalisé grâce à la présence d'un poids, de masse MA connue, posée sur le plateau auquel est accroché le corps 
+  
+    
+      
+        
+          
+            
+              C
+            
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}_{1}}
+   (à l'extrémité A du fléau).
+La force FA s'exerçant au niveau de l'extrémité A du fléau est égale à :
+
+  
+    
+      
+        
+          F
+          
+            A
+          
+        
+        
+        =
+        
+        
+          m
+          
+            1
+          
+        
+        
+        g
+        
+        +
+        
+        
+          M
+          
+            t
+          
+        
+        
+        g
+        
+        +
+        
+        
+          M
+          
+            A
+          
+        
+        
+        g
+        
+        +
+        
+        
+          M
+          
+            1
+          
+        
+        
+        g
+        
+        
+        
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle F_{A}\;=\;m_{1}\;g\;+\;M_{t}\;g\;+\;M_{A}\;g\;+\;M_{1}\;g\;\;\;\;(A)}
+  où 
+  
+    
+      
+        
+          g
+        
+      
+    
+    {\displaystyle \scriptstyle g}
+   est l'accélération de la pesanteur.
+
+Masse du corps solide
+Décrochons le corps 
+  
+    
+      
+        
+          
+            
+              C
+            
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}_{1}}
+   (figure B).
+Afin d'équilibrer de nouveau le fléau de la balance, déposons la masse MA et remplaçons la par une masse MB. 
+La force FA s'exerçant au niveau de l'extrémité A du fléau est égale à :
+
+  
+    
+      
+        
+          F
+          
+            A
+          
+        
+        
+        =
+        
+        
+          M
+          
+            t
+          
+        
+        
+        g
+        
+        +
+        
+        
+          M
+          
+            B
+          
+        
+        
+        g
+        
+        +
+        
+        
+          M
+          
+            1
+          
+        
+        
+        g
+        
+        
+        
+        
+        (
+        B
+        )
+      
+    
+    {\displaystyle F_{A}\;=\;M_{t}\;g\;+\;M_{B}\;g\;+\;M_{1}\;g\;\;\;\;(B)}
+  Puisque le fléau a retrouvé sa position d'équilibre, les forces FA données par les égalités (A) et (B) sont égales, d'où :
+
+  
+    
+      
+        
+          F
+          
+            A
+          
+        
+        
+        =
+        
+        
+          m
+          
+            1
+          
+        
+        
+        g
+        
+        +
+        
+        
+          M
+          
+            t
+          
+        
+        
+        g
+        
+        +
+        
+        
+          M
+          
+            A
+          
+        
+        
+        g
+        
+        +
+        
+        
+          M
+          
+            1
+          
+        
+        
+        g
+        
+        =
+        
+        
+          M
+          
+            t
+          
+        
+        
+        g
+        
+        +
+        
+        
+          M
+          
+            B
+          
+        
+        
+        g
+        
+        +
+        
+        
+          M
+          
+            1
+          
+        
+        
+        g
+        
+        
+        
+        
+        (
+        C
+        )
+      
+    
+    {\displaystyle F_{A}\;=\;m_{1}\;g\;+\;M_{t}\;g\;+\;M_{A}\;g\;+\;M_{1}\;g\;=\;M_{t}\;g\;+\;M_{B}\;g\;+\;M_{1}\;g\;\;\;\;(C)}
+  La masse m1 du corps 
+  
+    
+      
+        
+          
+            
+              C
+            
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}_{1}}
+   est donc égale à :
+
+  
+    
+      
+        
+          m
+          
+            1
+          
+        
+        
+        =
+        
+        
+          M
+          
+            B
+          
+        
+        
+        −
+        
+        
+          M
+          
+            A
+          
+        
+        
+        
+        
+        
+        (
+        D
+        )
+      
+    
+    {\displaystyle m_{1}\;=\;M_{B}\;-\;M_{A}\;\;\;\;(D)}
+  Densité relative du corps solide
+Le corps 
+  
+    
+      
+        
+          
+            
+              C
+            
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}_{1}}
+   est de nouveau suspendu au plateau (figure C).
+Mais, cette fois-ci, il est plongé dans un liquide de masse volumique 
+  
+    
+      
+        
+          ρ
+          
+            L
+          
+        
+      
+    
+    {\displaystyle \rho _{L}}
+   (en principe de l'eau distillée).
+Afin d'équilibrer la balance, la masse MB est déposée et une masse MC est installée à sa place.
+Le liquide exerce une force sur le corps 
+  
+    
+      
+        
+          
+            
+              C
+            
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}_{1}}
+  .
+Il s'agit de la poussée d'Archimède.
+C'est une force dont la direction est verticale et dont le sens est dirigée vers le haut.
+Son module est égal à 
+  
+    
+      
+        Π
+        
+        =
+        
+        
+          ρ
+          
+            L
+          
+        
+        
+        
+          
+            
+              V
+            
+          
+          
+            1
+          
+        
+        
+        g
+      
+    
+    {\displaystyle \Pi \;=\;\rho _{L}\;{\mathcal {V}}_{1}\;g}
+  .
+La force FA s'exerçant au niveau de l'extrémité A du fléau est égale à :
+
+  
+    
+      
+        
+          F
+          
+            A
+          
+        
+        
+        =
+        
+        
+          m
+          
+            1
+          
+        
+        
+        g
+        
+        +
+        
+        
+          M
+          
+            t
+          
+        
+        
+        g
+        
+        +
+        
+        
+          M
+          
+            C
+          
+        
+        
+        g
+        
+        −
+        
+        
+          
+            
+              
+                
+                  ρ
+                  
+                    L
+                  
+                
+                
+                
+                  
+                    
+                      V
+                    
+                  
+                  
+                    1
+                  
+                
+                
+                g
+              
+              ⏟
+            
+          
+          
+            Π
+          
+        
+        
+        +
+        
+        
+          M
+          
+            1
+          
+        
+        
+        g
+        
+        
+        
+        
+        (
+        E
+        )
+      
+    
+    {\displaystyle F_{A}\;=\;m_{1}\;g\;+\;M_{t}\;g\;+\;M_{C}\;g\;-\;\underbrace {\rho _{L}\;{\mathcal {V}}_{1}\;g} _{\Pi }\;+\;M_{1}\;g\;\;\;\;(E)}
+  Puisque le fléau a retrouvé sa position d'équilibre, les forces FA données par les égalités (A) et (E) sont égales, d'où :
+
+  
+    
+      
+        
+          m
+          
+            1
+          
+        
+        
+        g
+        
+        +
+        
+        
+          M
+          
+            t
+          
+        
+        
+        g
+        
+        +
+        
+        
+          M
+          
+            A
+          
+        
+        
+        g
+        
+        +
+        
+        
+          M
+          
+            1
+          
+        
+        
+        g
+        
+        =
+        
+        
+          m
+          
+            1
+          
+        
+        
+        g
+        
+        +
+        
+        
+          M
+          
+            t
+          
+        
+        
+        g
+        
+        +
+        
+        
+          M
+          
+            C
+          
+        
+        
+        g
+        
+        −
+        
+        
+          ρ
+          
+            L
+          
+        
+        
+        
+          
+            
+              V
+            
+          
+          
+            1
+          
+        
+        
+        g
+        
+        +
+        
+        
+          M
+          
+            1
+          
+        
+        
+        g
+        
+        
+        
+        
+        (
+        F
+        )
+      
+    
+    {\displaystyle m_{1}\;g\;+\;M_{t}\;g\;+\;M_{A}\;g\;+\;M_{1}\;g\;=\;m_{1}\;g\;+\;M_{t}\;g\;+\;M_{C}\;g\;-\;\rho _{L}\;{\mathcal {V}}_{1}\;g\;+\;M_{1}\;g\;\;\;\;(F)}
+  Donc :
+
+  
+    
+      
+        Π
+        
+        =
+        
+        
+          ρ
+          
+            L
+          
+        
+        
+        
+          
+            
+              V
+            
+          
+          
+            1
+          
+        
+        
+        g
+        
+        =
+        
+        
+          M
+          
+            C
+          
+        
+        
+        g
+        
+        −
+        
+        
+          M
+          
+            A
+          
+        
+        
+        g
+        
+        
+        
+        
+        (
+        G
+        )
+      
+    
+    {\displaystyle \Pi \;=\;\rho _{L}\;{\mathcal {V}}_{1}\;g\;=\;M_{C}\;g\;-\;M_{A}\;g\;\;\;\;(G)}
+  Le module 
+  
+    
+      
+        Π
+        
+        =
+        
+        
+          ρ
+          
+            L
+          
+        
+        
+        
+          
+            
+              V
+            
+          
+          
+            1
+          
+        
+        
+        g
+      
+    
+    {\displaystyle \Pi \;=\;\rho _{L}\;{\mathcal {V}}_{1}\;g}
+   de la poussée d'Archimède est assimilable au poids d'un corps liquide : le poids du liquide déplacé par le corps solide 
+  
+    
+      
+        
+          
+            
+              C
+            
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}_{1}}
+  .
+Soit 
+  
+    
+      
+        
+          
+            
+              C
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}_{2}}
+   le nom de ce corps liquide.
+Le volume, la masse volumique et la masse du corps 
+  
+    
+      
+        
+          
+            
+              C
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}_{2}}
+   sont donc respectivement égaux à :
+
+  
+    
+      
+        
+          
+            
+              V
+            
+          
+          
+            2
+          
+        
+        =
+        
+          
+            
+              V
+            
+          
+          
+            1
+          
+        
+        
+        
+        
+        e
+        t
+        
+        
+        
+        
+          ρ
+          
+            2
+          
+        
+        =
+        
+          ρ
+          
+            L
+          
+        
+      
+    
+    {\displaystyle {\mathcal {V}}_{2}={\mathcal {V}}_{1}\;\;\;et\;\;\;\rho _{2}=\rho _{L}}
+  
+  
+    
+      
+        
+          m
+          
+            2
+          
+        
+        
+        =
+        
+        
+          ρ
+          
+            2
+          
+        
+        
+        
+          
+            
+              V
+            
+          
+          
+            2
+          
+        
+        
+        =
+        
+        
+          ρ
+          
+            L
+          
+        
+        
+        
+          
+            
+              V
+            
+          
+          
+            1
+          
+        
+        
+        =
+        
+        
+          
+            Π
+            g
+          
+        
+        
+        =
+        
+        
+          M
+          
+            C
+          
+        
+        
+        −
+        
+        
+          M
+          
+            A
+          
+        
+        
+        
+        
+        (
+        H
+        )
+      
+    
+    {\displaystyle m_{2}\;=\;\rho _{2}\;{\mathcal {V}}_{2}\;=\;\rho _{L}\;{\mathcal {V}}_{1}\;=\;{\frac {\Pi }{g}}\;=\;M_{C}\;-\;M_{A}\;\;\;(H)}
+  En tenant compte des égalités (D) et (H), on peut donc déterminer la densité relative du corps solide 
+  
+    
+      
+        
+          
+            
+              C
+            
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}_{1}}
+   par rapport au corps fluide 
+  
+    
+      
+        
+          
+            
+              C
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}_{2}}
+   :
+
+  
+    
+      
+        
+          d
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        
+        =
+        
+        
+          
+            
+              m
+              
+                1
+              
+            
+            
+              m
+              
+                2
+              
+            
+          
+        
+        
+        =
+        
+        
+          
+            
+              
+                ρ
+                
+                  1
+                
+              
+              
+              
+                
+                  
+                    V
+                  
+                
+                
+                  1
+                
+              
+            
+            
+              
+                ρ
+                
+                  2
+                
+              
+              
+              
+                
+                  
+                    V
+                  
+                
+                
+                  2
+                
+              
+            
+          
+        
+        
+        =
+        
+        
+          
+            
+              
+                ρ
+                
+                  1
+                
+              
+              
+              
+                
+                  
+                    V
+                  
+                
+                
+                  1
+                
+              
+            
+            
+              
+                ρ
+                
+                  2
+                
+              
+              
+              
+                
+                  
+                    V
+                  
+                
+                
+                  1
+                
+              
+            
+          
+        
+        
+        =
+        
+        
+          
+            
+              ρ
+              
+                1
+              
+            
+            
+              ρ
+              
+                2
+              
+            
+          
+        
+        
+        =
+        
+        
+          
+            
+              
+                M
+                
+                  B
+                
+              
+              −
+              
+                M
+                
+                  A
+                
+              
+            
+            
+              
+                M
+                
+                  C
+                
+              
+              −
+              
+                M
+                
+                  A
+                
+              
+            
+          
+        
+        
+        
+        
+        
+        (
+        I
+        )
+      
+    
+    {\displaystyle d_{1/2}\;=\;{\frac {m_{1}}{m_{2}}}\;=\;{\frac {\rho _{1}\;{\mathcal {V}}_{1}}{\rho _{2}\;{\mathcal {V}}_{2}}}\;=\;{\frac {\rho _{1}\;{\mathcal {V}}_{1}}{\rho _{2}\;{\mathcal {V}}_{1}}}\;=\;{\frac {\rho _{1}}{\rho _{2}}}\;=\;{\frac {M_{B}-M_{A}}{M_{C}-M_{A}}}\;\;\;\;(I)}
+  
+
+
+== Densité et flottabilité ==
+
+La densité peut indiquer la flottabilité d'un corps par rapport à l'eau douce. En effet, si la densité d'un corps est supérieure à 1 comme pour une vis métallique (voir illustration) le corps en question coule dans l'eau. À l'inverse, si la densité d'un corps est inférieure à 1 comme pour un bouchon de liège (voir illustration) le corps en question flotte sur l'eau. Dans l'eau de mer ou une solution saline à gradient de salinité, ces chiffres sont à ajuster.
+
+
+=== Cas particulier de l'eau liquide ===
+D'une manière générale quand un corps liquide refroidit sa densité augmente et devient maximale à la température de solidification. De plus le corps solide est généralement plus dense que le corps liquide. L'eau fait partie des exceptions : sa densité maximale est atteinte non pas à 0 °C mais à 3,98 °C et la glace est moins dense que l'eau liquide. Cette anomalie dilatométrique permet à l'eau tiède, à l'eau très froide et à la glace de flotter sur de l'eau à 3,98 °C.
+Parmi les métaux moins denses à l'état solide qu'à l'état liquide, on peut citer le bismuth et le plutonium. Cela pose des problèmes importants lors du moulage, à cause du gonflement qui accompagne la solidification.
+
+
+=== Densité et flottabilité du bois ===
+
+
+== Densité des principaux métaux utilisés ==
+
+
+== Densité et flottation des minerais métalliques ==
+Les minerais qui contiennent de fortes teneurs en métaux lourds ou les métaux denses à l'état natif dispersés dans une gangue peuvent être séparés facilement des impuretés terreuses par effet de masse ou d'inertie, c'est-à-dire de moindre entraînement, dans un flux d'eau sur un plan incliné. C'est la séparation gravimétrique.
+D'autres minerais, plus légers, peuvent être rendus flottables à l'aide de savons ou corps tensioactifs spécifiques dans des bains plus ou moins agités. Ce sont les procédés industriels de flottation.
+
+
+== Densité des liquides biologiques en médecine ==
+Les densités ne servent que rarement en sciences médicales. Dans un ouvrage de référence, on ne trouve que le liquide sudoral du test de mucoviscidose et le liquide d'épanchement séreux. L'essentiel des données est exprimé en concentrations massique ou molaire.
+Il est fréquent (fruit de la confusion avec la terminologie anglo-saxonne exposée plus haut) que ce qui est appelé « densité » des urines, du sang ou de tout liquide biologique, soit simplement la masse volumique du liquide (exprimée en g/L). Ainsi, la « densité » du sang que l'on peut lire sur les résultats de laboratoire est supérieure à 1 000 (g/L).
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Références ===
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Masse volumique
+Glossaire des minéraux
+Minéralogie
+Pétrographie
+Densimètre électronique
+Mesure physique
+Illusion taille-poids
+
+
+=== Liens externes ===
+Densité d'une particule de matière fluide ou solide
+
+ Portail de la physique   Portail de la chimie

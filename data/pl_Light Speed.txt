@@ -1,0 +1,330 @@
+Prędkość światła w zależności od kontekstu może oznaczać:
+
+prędkość fali elektromagnetycznej w próżni i wynikającą z tego stałą fizyczną (c = 299 792 458 m/s),
+prędkość światła w ośrodkach materialnych.
+
+
+== Prędkość światła w próżni ==
+
+Prędkość rozchodzenia się fali elektromagnetycznej w próżni nie zależy od częstości fali 
+  
+    
+      
+        (
+        ω
+        =
+        c
+        
+        k
+        )
+      
+    
+    {\displaystyle (\omega =c\,k)}
+   ani układu odniesienia. Stałość tej prędkości wynika z podstawowych własności przestrzeni i dlatego w fizyce określa się stałą c o nazwie prędkość światła.
+
+
+=== Stała fizyczna ===
+Prędkość światła (prędkość rozchodzenia się fali elektromagnetycznej w próżni) jest stałą fizyczną oznaczaną symbolem c, wynoszącą dokładnie
+
+  
+    
+      
+        c
+        =
+        299
+        
+        792
+        
+        458
+        
+        
+          
+            
+              m
+              s
+            
+          
+        
+        .
+      
+    
+    {\displaystyle c=299\,792\,458\,{\tfrac {\operatorname {m} }{\operatorname {s} }}.}
+  W elektrodynamice klasycznej prędkość światła jest konsekwencją równań Maxwella. Rozwiązanie tych równań dla pola elektromagnetycznego w próżni prowadzi do równania falowego, w którym pojawia się stała będąca prędkością fazową fali elektromagnetycznej, czyli prędkość światła w próżni. Jest to stała fundamentalna związana z własnościami próżni, m.in. z przenikalnością elektryczną 
+  
+    
+      
+        
+          ε
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{0}}
+   (wyrażone w jednostkach SI):
+
+  
+    
+      
+        
+          ε
+          
+            0
+          
+        
+        =
+        
+          
+            
+              10
+              
+                7
+              
+            
+            
+              4
+              π
+              
+                c
+                
+                  2
+                
+              
+            
+          
+        
+        
+        
+          (
+          
+            A
+            
+              2
+            
+          
+          
+          
+            s
+            
+              4
+            
+          
+          
+          k
+          
+            g
+            
+              −
+              1
+            
+          
+          
+          
+            m
+            
+              −
+              3
+            
+          
+          ,
+          
+          a
+          l
+          b
+          o
+          
+          F
+          
+          
+            m
+            
+              −
+              1
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \varepsilon _{0}={\frac {10^{7}}{4\pi c^{2}}}\quad \mathrm {(A^{2}\,s^{4}\,kg^{-1}\,m^{-3},\,albo\,F\,m^{-1})} }
+  i przenikalnością magnetyczną 
+  
+    
+      
+        
+          μ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mu _{0}}
+  
+
+  
+    
+      
+        
+          μ
+          
+            0
+          
+        
+        =
+        4
+        
+        π
+        
+        
+          10
+          
+            −
+            7
+          
+        
+        
+        
+          (
+          k
+          g
+          
+          m
+          
+          
+            s
+            
+              −
+              2
+            
+          
+          
+          
+            A
+            
+              −
+              2
+            
+          
+          ,
+          
+          a
+          l
+          b
+          o
+          
+          N
+          
+          
+            A
+            
+              −
+              2
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle \mu _{0}=4\,\pi \,10^{-7}\quad \mathrm {(kg\,m\,s^{-2}\,A^{-2},\,albo\,N\,A^{-2})} .}
+  James Clerk Maxwell wykazał (około 1856 roku), że konsekwencją równań elektrodynamiki jest istnienie fali elektromagnetycznej propagującej się z prędkością
+
+  
+    
+      
+        
+          c
+          
+            m
+          
+        
+        =
+        
+          
+            1
+            
+              ε
+              μ
+            
+          
+        
+      
+    
+    {\displaystyle c_{m}={\frac {1}{\sqrt {\varepsilon \mu }}}}
+  
+ε – przenikalność elektryczna ośrodka,
+μ – przenikalność magnetyczna ośrodka,
+cm – prędkość światła w danym ośrodku.W przypadku próżni
+
+  
+    
+      
+        c
+        =
+        
+          
+            1
+            
+              
+                ε
+                
+                  0
+                
+              
+              
+                μ
+                
+                  0
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle c={\frac {1}{\sqrt {\varepsilon _{0}\mu _{0}}}}}
+  gdzie:
+
+ε0 – przenikalność elektryczna próżni,
+μ0 – przenikalność magnetyczna próżni.Eksperymentalnie zostało to potwierdzone przez Heinricha Hertza kilkadziesiąt lat później. To, że fala elektromagnetyczna propaguje się (rozprzestrzenia) z prędkością c, jest konsekwencją bezmasowości fotonu (masa spoczynkowa fotonu jest równa zeru).
+W szczególnej teorii względności stała ta wynika ze związku między czasem a przestrzenią w transformacji Lorentza i pojawia się w fizyce w wielu prawach i związkach, np. stanowi ona prędkość graniczną rozchodzenia się energii w szczególnej teorii względności.
+
+
+=== Standaryzacja ===
+Po zatwierdzeniu przez Generalną Konferencję Miar i Wag w 1983 definicji metra jako odległości jaką pokonuje światło w próżni w czasie 1 / 299792458 s prędkość światła w próżni stała się wzorcem i wynosi dokładnie 299 792 458 m/s.
+W mniej dokładnych obliczeniach często używa się przybliżonej wartości tej prędkości 3·108 m/s.
+
+
+== Prędkość światła w ośrodkach materialnych ==
+Prędkość rozchodzenia się fali elektromagnetycznej zależy od ośrodka, w jakim porusza się ta fala i osiąga wielkość maksymalną w próżni. W odróżnieniu np. od dźwięku, fala elektromagnetyczna do propagacji nie potrzebuje ośrodka materialnego. Hipotetyczny ośrodek, w którym miałaby się rozchodzić fala elektromagnetyczna, nazywano eterem. Doświadczenia Michelsona-Morleya pokazały jednoznacznie, że eter statyczny lub częściowo wleczony nie istnieje. Inne doświadczenia wykluczyły też alternatywne hipotezy eteru.
+Obiekty posiadające niezerową masę spoczynkową nie mogą osiągnąć prędkości światła w próżni, choć mogą się do niej dowolnie zbliżyć. Obiekty takie, jeżeli mają niezerowy ładunek elektryczny i poruszają się w ośrodku materialnym z prędkością większą od prędkości światła w tym ośrodku emitują fotony zwane promieniowaniem Czerenkowa.
+W najnowszych eksperymentach nad rozchodzeniem się światła w ośrodkach materialnych udało się spowolnić je do prędkości 0,2 mm/s. Spowolnienie osiągnięto w warunkach laboratoryjnych, poprzez dynamiczną zmianę własności fizycznych ośrodka, w którym rozchodziła się wiązka światła.
+Według mechaniki klasycznej fala elektromagnetyczna przechodząc przez ośrodek pobudza do drgań ładunki elektryczne w nim zawarte, co zmniejsza jej amplitudę. Pobudzone ładunki wracając do stanu równowagi emitują falę, ale jest ona opóźniona w stosunku do fali pobudzającej. W wyniku czego obserwuje się zmniejszenie prędkości fali elektromagnetycznej.
+
+
+== Pomiary ==
+
+Pierwszego pomiaru prędkości światła planował dokonać Galileusz. Eksperyment postanowił przeprowadzić wraz ze swoim pomocnikiem za miastem na dwóch wzgórzach, mając do dyspozycji dwie latarnie. Sama próba polegała na odsłanianiu i przesłanianiu latarni, jednak ze względu na ogromną prędkość światła i bardzo duży błąd pomiaru, skazana była na niepowodzenie. Galileusz oszacować mógł jedynie, że prędkość ta znacznie przekracza, w przeliczeniu na obecne jednostki, 30 km/s (co jest bliskie orbitalnej prędkości Ziemi w ruchu dokoła Słońca). Była to jednak pierwsza odnotowana eksperymentalna próba zmierzenia prędkości światła.
+W 1676 duński astronom Ole Rømer podał pierwsze dowody skończonej prędkości światła i czasu jego przelotu przez orbitę ziemską. Obliczenia oparł na obserwacji zaćmień satelity Jowisza przez tę planetę. Przy oddalaniu się Jowisza od Ziemi, zaćmienia te były rzadziej niż przy zbliżaniu się Jowisza do Ziemi. Rømer, pomimo znajomości promienia orbity ziemskiej, nie podał liczbowej wartości prędkości światła. Zrobił to dopiero Christiaan Huygens, ale jego wynik bywa błędnie przypisywany Rømerowi. Wynik obserwacji Rømera nie przekonał wszystkich uczonych, że prędkość światła jest skończona. Koronnym dowodem była dopiero aberracja gwiazdowa.
+W 1727 angielski astronom James Bradley dokonał pomiaru wykorzystując zjawisko aberracji światła gwiazd. Z ilorazu prędkości orbitalnej Ziemi i kąta aberracji uzyskał, w przeliczeniu na dzisiejsze jednostki, 301 000 km/s.
+Pierwszego laboratoryjnego pomiaru prędkości światła dokonał w 1849 roku francuski fizyk Armand Fizeau używając zwierciadła i koła zębatego (doświadczenie to można uznać za modyfikację metody zaproponowanej przez Galileusza przez zastąpienie drugiego obserwatora lustrem). Otrzymany wynik 315 300 km/s obarczony był błędem systematycznym. Metodę tę udoskonalano zwiększając odległość oraz liczbę zębów – w 1874 francuski fizyk Alfred Maria Cornu (1841–1902) uzyskał 300 030 ± 200 km/s, w 1902 Perrotin 299 880 ± 84 km/s. Dokładniejszą metodą jest metoda wirującego zwierciadła zaproponowana w 1838 przez François Arago, zastosowana po raz pierwszy przez Jeana Foucault w 1850, w 1862 uzyskał on wynik 298 000 ± 500 km/s, w 1882 Simon Newcomb ustalił tą metodą 299 810 ± 30 km/s.
+Metody pomiaru prędkości światła były stale rozwijane, czego efektem był wzrost dokładności pomiaru. W 1907 roku Albert Abraham Michelson otrzymał Nagrodę Nobla m.in. za bardzo dokładne pomiary prędkości światła, prowadzone od 1878. W 1880 uzyskał wynik 299 910 ± 50 km/s, w latach 1924–1926, dzięki aparaturze ustawionej na szczytach górskich Mount Wilson i Mount San Antonio odległych o 35 km, 299 796 ± 4 km/s zbliżony do przyjmowanego obecnie.
+W późniejszych pomiarach metody mechaniczne zastąpione zostały przez elektryczno-optyczne przy wykorzystaniu zjawiska Kerra. Przy mierzeniu prędkości fal radiowych wykorzystywane są metody rezonatora wnękowego.
+
+
+== Zobacz też ==
+
+
+== Uwagi ==
+
+
+== Przypisy ==
+
+
+== Bibliografia ==
+Alicja Nawrot, Dorota Karolczak, Jadwiga Jaworska: Encyklopedia – fizyka z astronomią. Kraków: GREG, 2013. ISBN 978-83-7517-210-2.
+Ole Rømer. Demonstration touchant le mouvement de la lumiere. „Journal des Sçavans”, 1676-12-07. 
+Andrzej Kajetan Wróblewski: Prawda i mity w fizyce. 1987.
+A.K. Wróblewski, J.A. Zakrzewski: Wstęp do fizyki. Wyd. 2. T. 1. Państwowe Wydawnictwo Naukowe, 1984. ISBN 83-01-01359-1.

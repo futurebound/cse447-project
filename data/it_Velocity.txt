@@ -1,0 +1,2717 @@
+In fisica, in primo luogo in cinematica, la velocità (dal latino vēlōcitās, a sua volta derivato da vēlōx, cioè veloce) è una grandezza vettoriale definita come la variazione della posizione di un corpo in funzione del tempo, ossia, in termini matematici, come la derivata del vettore posizione rispetto al tempo. Nel Sistema Internazionale la velocità si misura in m·s-1 (metri al secondo).
+Quando non specificato, per "velocità" si intende la velocità traslazionale, sottintendendo che lo spostamento a cui si fa riferimento è una traslazione nello spazio. Il termine, "velocità", infatti, può essere utilizzato con un significato più generale per indicare la variazione di una coordinata spaziale in funzione del tempo. Ad esempio, nella descrizione del moto rotatorio, per definire la velocità di rotazione si usano la velocità angolare e la velocità areolare.
+Talvolta si usa il termine rapidità per indicare il modulo della velocità. Ciò viene fatto in analogia con la lingua inglese, nella quale si indica con speed la rapidità e con velocity la velocità in senso vettoriale. La variazione della velocità, sia in aumento che in diminuzione, è l'accelerazione, anche se nel linguaggio comune a volte si parla di "decelerazione" quando la velocità diminuisce.
+
+
+== Velocità media e istantanea ==
+
+La velocità è un vettore che descrive lo stato di moto di un corpo e, in quanto tale, è caratterizzato da una rapidità, una direzione e un verso.
+Si definisce velocità media 
+  
+    
+      
+        
+          
+            
+              
+                v
+              
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {\mathbf {v} }}}
+   il rapporto tra lo spostamento, inteso come la variazione dello posizione, 
+  
+    
+      
+        Δ
+        
+          r
+        
+        =
+        
+          
+            r
+            
+              2
+            
+          
+        
+        −
+        
+          
+            r
+            
+              1
+            
+          
+        
+      
+    
+    {\displaystyle \Delta \mathbf {r} =\mathbf {r_{2}} -\mathbf {r_{1}} }
+   e l'intervallo di tempo 
+  
+    
+      
+        
+          Δ
+          t
+        
+        =
+        
+          
+            t
+            
+              2
+            
+          
+          −
+          
+            t
+            
+              1
+            
+          
+        
+      
+    
+    {\displaystyle {\Delta t}={t_{2}-t_{1}}}
+   impiegato a percorrerlo:
+
+  
+    
+      
+        
+          
+            
+              
+                v
+              
+              ¯
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  r
+                
+                
+                  2
+                
+              
+              −
+              
+                
+                  r
+                
+                
+                  1
+                
+              
+            
+            
+              
+                t
+                
+                  2
+                
+              
+              −
+              
+                t
+                
+                  1
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              Δ
+              
+                r
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {\mathbf {v} }}={\frac {\mathbf {r} _{2}-\mathbf {r} _{1}}{t_{2}-t_{1}}}={\frac {\Delta \mathbf {r} }{\Delta t}}}
+  dove 
+  
+    
+      
+        
+          
+            r
+            
+              1
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {r_{1}} }
+   e 
+  
+    
+      
+        
+          
+            r
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {r_{2}} }
+   sono i vettori posizione agli istanti iniziale 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+      
+    
+    {\displaystyle t_{1}}
+   e finale 
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle t_{2}}
+  . La velocità media può essere vista come il coefficiente angolare della retta in un grafico spazio-tempo. In particolare si parla di velocità positiva , se l'angolo che la retta forma con l'asse delle ascisse è acuto e di velocità negativa , se l'angolo che la retta forma con l'asse delle ascisse è ottuso. 
+Si definisce velocità istantanea 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+   il limite della velocità media per intervalli di tempo molto brevi, ovvero la derivata della posizione rispetto al tempo:. In parole povere la velocità istantanea è il valore limite della velocità media nell'intorno di un determinato istante quando la variazione di tempo 
+  
+    
+      
+        Δ
+        t
+      
+    
+    {\displaystyle \Delta t}
+   considerata tende al valore 0.
+
+  
+    
+      
+        
+          v
+        
+        =
+        
+          lim
+          
+            
+              t
+              
+                2
+              
+            
+            →
+            
+              t
+              
+                1
+              
+            
+          
+        
+        
+          
+            
+              
+                r
+              
+              (
+              
+                t
+                
+                  2
+                
+              
+              )
+              −
+              
+                r
+              
+              (
+              
+                t
+                
+                  1
+                
+              
+              )
+            
+            
+              
+                t
+                
+                  2
+                
+              
+              −
+              
+                t
+                
+                  1
+                
+              
+            
+          
+        
+        =
+        
+          lim
+          
+            Δ
+            t
+            →
+            0
+          
+        
+        
+          
+            
+              
+                r
+              
+              (
+              t
+              +
+              Δ
+              t
+              )
+              −
+              
+                r
+              
+              (
+              t
+              )
+            
+            
+              Δ
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+              
+                r
+              
+            
+            
+              d
+              
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {v} =\lim _{t_{2}\to t_{1}}{\frac {\mathbf {r} (t_{2})-\mathbf {r} (t_{1})}{t_{2}-t_{1}}}=\lim _{\Delta t\to 0}{{\mathbf {r} (t+\Delta t)-\mathbf {r} (t)} \over \Delta t}={\frac {\operatorname {d} \!\mathbf {r} }{\operatorname {d} \!t}}}
+  Si noti che la velocità media è proprio il risultati della media della velocità istantanea in un tempo finito 
+  
+    
+      
+        Δ
+        t
+      
+    
+    {\displaystyle \Delta t}
+  :
+
+  
+    
+      
+        ⟨
+        
+          v
+        
+        ⟩
+        =
+        
+          
+            1
+            
+              
+                t
+                
+                  2
+                
+              
+              −
+              
+                t
+                
+                  1
+                
+              
+            
+          
+        
+        
+          ∫
+          
+            
+              t
+              
+                1
+              
+            
+          
+          
+            
+              t
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                d
+              
+              
+                r
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+        
+          d
+        
+        t
+        =
+        
+          
+            
+              
+                r
+              
+              (
+              
+                t
+                
+                  2
+                
+              
+              )
+              −
+              
+                r
+              
+              (
+              
+                t
+                
+                  1
+                
+              
+              )
+            
+            
+              
+                t
+                
+                  2
+                
+              
+              −
+              
+                t
+                
+                  1
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              Δ
+              
+                r
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \langle \mathbf {v} \rangle ={\frac {1}{t_{2}-t_{1}}}\int _{t_{1}}^{t_{2}}{\frac {\mathrm {d} \mathbf {r} }{\mathrm {d} t}}\,\mathrm {d} t={\frac {\mathbf {r} (t_{2})-\mathbf {r} (t_{1})}{t_{2}-t_{1}}}={\frac {\Delta \mathbf {r} }{\Delta t}}}
+  avendo usato il teorema fondamentale del calcolo integrale.
+In un contesto più formale, sia 
+  
+    
+      
+        s
+        (
+        t
+        )
+      
+    
+    {\displaystyle s(t)}
+   la lunghezza di un arco della curva percorsa dall'oggetto in moto, ovvero lo spostamento dell'oggetto al tempo 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  . La norma della velocità istantanea nel punto 
+  
+    
+      
+        
+          r
+        
+        =
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+      
+    
+    {\displaystyle \mathbf {r} =(x,y,z)}
+   è la derivata dello spostamento rispetto al tempo:
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              
+                d
+              
+              s
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+          (
+          
+            
+              
+                d
+              
+              
+                x
+                
+                  2
+                
+              
+              +
+              
+                d
+              
+              
+                y
+                
+                  2
+                
+              
+              +
+              
+                d
+              
+              
+                z
+                
+                  2
+                
+              
+            
+          
+          )
+        
+        =
+        
+          
+            
+              
+                (
+                
+                  
+                    
+                      
+                        d
+                      
+                      x
+                    
+                    
+                      
+                        d
+                      
+                      t
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            +
+            
+              
+                (
+                
+                  
+                    
+                      
+                        d
+                      
+                      y
+                    
+                    
+                      
+                        d
+                      
+                      t
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            +
+            
+              
+                (
+                
+                  
+                    
+                      
+                        d
+                      
+                      z
+                    
+                    
+                      
+                        d
+                      
+                      t
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle v={\frac {\mathrm {d} s}{\mathrm {d} t}}={\frac {\mathrm {d} }{\mathrm {d} t}}\left({\sqrt {\mathrm {d} x^{2}+\mathrm {d} y^{2}+\mathrm {d} z^{2}}}\right)={\sqrt {\left({\frac {\mathrm {d} x}{\mathrm {d} t}}\right)^{2}+\left({\frac {\mathrm {d} y}{\mathrm {d} t}}\right)^{2}+\left({\frac {\mathrm {d} z}{\mathrm {d} t}}\right)^{2}}}}
+  ed il vettore velocità ha la direzione del moto:
+
+  
+    
+      
+        
+          v
+        
+        =
+        v
+        
+          
+            
+              
+                T
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {v} =v\mathbf {\hat {\mathbf {T} }} }
+  con 
+  
+    
+      
+        
+          
+            
+              
+                T
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\mathbf {T} }}}
+   il vettore unitario tangente alla curva.
+
+
+=== Velocità in due dimensioni ===
+Utilizzando uno spazio bidimensionale, la velocità media e quella istantanea si possono scomporre nel seguente modo:
+
+  
+    
+      
+        
+          
+            
+              
+                v
+              
+              ¯
+            
+          
+        
+        =
+        
+          
+            
+              Δ
+              x
+            
+            
+              Δ
+              t
+            
+          
+        
+        
+          
+            
+              
+                x
+              
+              ^
+            
+          
+        
+        +
+        
+          
+            
+              Δ
+              y
+            
+            
+              Δ
+              t
+            
+          
+        
+        
+          
+            
+              
+                y
+              
+              ^
+            
+          
+        
+        
+        
+          v
+        
+        =
+        
+          
+            
+              
+                d
+              
+              x
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+          
+            
+              
+                x
+              
+              ^
+            
+          
+        
+        +
+        
+          
+            
+              
+                d
+              
+              y
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+          
+            
+              
+                y
+              
+              ^
+            
+          
+        
+        =
+        
+          v
+          
+            x
+          
+        
+        
+          
+            
+              
+                x
+              
+              ^
+            
+          
+        
+        +
+        
+          v
+          
+            y
+          
+        
+        
+          
+            
+              
+                y
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {\mathbf {v} }}={\frac {\Delta x}{\Delta t}}{\hat {\mathbf {x} }}+{\frac {\Delta y}{\Delta t}}{\hat {\mathbf {y} }}\qquad \mathbf {v} ={\frac {\mathrm {d} x}{\mathrm {d} t}}{\hat {\mathbf {x} }}+{\frac {\mathrm {d} y}{\mathrm {d} t}}{\hat {\mathbf {y} }}=v_{x}{\hat {\mathbf {x} }}+v_{y}{\hat {\mathbf {y} }}}
+  dove 
+  
+    
+      
+        
+          
+            
+              
+                x
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\mathbf {x} }}}
+   e 
+  
+    
+      
+        
+          
+            
+              
+                y
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\mathbf {y} }}}
+   sono due versori in direzione degli assi 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   e 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  . Il modulo del vettore velocità è a sua volta scomponibile nei suoi componenti:
+
+  
+    
+      
+        
+          |
+        
+        
+          
+            
+              
+                v
+              
+              ¯
+            
+          
+        
+        
+          |
+        
+        =
+        
+          
+            
+              
+                (
+                
+                  
+                    
+                      Δ
+                      x
+                    
+                    
+                      Δ
+                      t
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            +
+            
+              
+                (
+                
+                  
+                    
+                      Δ
+                      y
+                    
+                    
+                      Δ
+                      t
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+          
+        
+        
+        
+          |
+        
+        
+          v
+        
+        
+          |
+        
+        =
+        
+          
+            
+              
+                
+                  v
+                  
+                    x
+                  
+                
+              
+              
+                2
+              
+            
+            +
+            
+              
+                
+                  v
+                  
+                    y
+                  
+                
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle |{\bar {\mathbf {v} }}|={\sqrt {\left({\frac {\Delta x}{\Delta t}}\right)^{2}+\left({\frac {\Delta y}{\Delta t}}\right)^{2}}}\qquad |\mathbf {v} |={\sqrt {{v_{x}}^{2}+{v_{y}}^{2}}}}
+  mentre l'angolo 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   formato dal vettore 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+   con l'asse delle ascisse è dato da:
+
+  
+    
+      
+        tan
+        ⁡
+        α
+        =
+        
+          
+            
+              v
+              
+                y
+              
+            
+            
+              v
+              
+                x
+              
+            
+          
+        
+        
+        
+          v
+          
+            x
+          
+        
+        =
+        
+          |
+        
+        
+          v
+        
+        
+          |
+        
+        cos
+        ⁡
+        α
+        
+        
+          v
+          
+            y
+          
+        
+        =
+        
+          |
+        
+        
+          v
+        
+        
+          |
+        
+        sin
+        ⁡
+        α
+      
+    
+    {\displaystyle \tan \alpha ={\frac {v_{y}}{v_{x}}}\qquad v_{x}=|\mathbf {v} |\cos \alpha \qquad v_{y}=|\mathbf {v} |\sin \alpha }
+  Se si considera il vettore posizione 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {r} }
+  , con 
+  
+    
+      
+        d
+        
+          r
+        
+        =
+        (
+        d
+        r
+        ,
+        r
+        d
+        θ
+        )
+      
+    
+    {\displaystyle d\mathbf {r} =(dr,rd\theta )}
+  , la velocità 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+   si può scomporre in direzione perpendicolare e parallela alla posizione:
+
+  
+    
+      
+        
+          v
+        
+        =
+        
+          v
+          
+            r
+          
+        
+        
+          
+            
+              
+                r
+              
+              ^
+            
+          
+        
+        +
+        
+          v
+          
+            θ
+          
+        
+        
+          
+            
+              
+                
+                  r
+                
+                ^
+              
+            
+          
+          
+            ⊥
+          
+        
+        =
+        
+          
+            
+              
+                d
+              
+              r
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+          
+            
+              
+                r
+              
+              ^
+            
+          
+        
+        +
+        r
+        
+          
+            
+              
+                d
+              
+              θ
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+          
+            
+              
+                
+                  r
+                
+                ^
+              
+            
+          
+          
+            ⊥
+          
+        
+      
+    
+    {\displaystyle \mathbf {v} =v_{r}{\hat {\mathbf {r} }}+v_{\theta }{\hat {\mathbf {r} }}_{\perp }={\frac {\mathrm {d} r}{\mathrm {d} t}}{\hat {\mathbf {r} }}+r{\frac {\mathrm {d} \theta }{\mathrm {d} t}}{\hat {\mathbf {r} }}_{\perp }}
+  dove 
+  
+    
+      
+        
+          v
+          
+            r
+          
+        
+        =
+        
+          d
+        
+        r
+        
+          /
+        
+        
+          d
+        
+        t
+      
+    
+    {\displaystyle v_{r}=\mathrm {d} r/\mathrm {d} t}
+   è il modulo della velocità in direzione di 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {r} }
+  , mentre 
+  
+    
+      
+        
+          v
+          
+            θ
+          
+        
+        =
+        r
+         
+        
+          d
+        
+        θ
+        
+          /
+        
+        
+          d
+        
+        t
+      
+    
+    {\displaystyle v_{\theta }=r\ \mathrm {d} \theta /\mathrm {d} t}
+   è il modulo della velocità ortogonale a 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {r} }
+  .
+La norma del vettore è pertanto:
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              
+                d
+              
+              s
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+          (
+          
+            
+              
+                d
+              
+              
+                x
+                
+                  2
+                
+              
+              +
+              
+                d
+              
+              
+                y
+                
+                  2
+                
+              
+            
+          
+          )
+        
+        =
+        
+          
+            
+              
+                (
+                
+                  
+                    
+                      
+                        d
+                      
+                      r
+                    
+                    
+                      
+                        d
+                      
+                      t
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            +
+            
+              r
+              
+                2
+              
+            
+            
+              
+                (
+                
+                  
+                    
+                      
+                        d
+                      
+                      θ
+                    
+                    
+                      
+                        d
+                      
+                      t
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle v={\frac {\mathrm {d} s}{\mathrm {d} t}}={\frac {\mathrm {d} }{\mathrm {d} t}}\left({\sqrt {\mathrm {d} x^{2}+\mathrm {d} y^{2}}}\right)={\sqrt {\left({\frac {\mathrm {d} r}{\mathrm {d} t}}\right)^{2}+r^{2}\left({\frac {\mathrm {d} \theta }{\mathrm {d} t}}\right)^{2}}}}
+  e la direzione è sempre tangente alla curva percorsa. Nel caso di moto circolare, la velocità tangenziale è espressa come:
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              d
+              s
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            d
+            
+              d
+              t
+            
+          
+        
+        (
+        r
+        cos
+        ⁡
+        (
+        ω
+        t
+        )
+        
+          
+            
+              i
+              →
+            
+          
+        
+        +
+        r
+        sen
+        ⁡
+        (
+        ω
+        t
+        )
+        
+          
+            
+              j
+              →
+            
+          
+        
+        )
+        =
+        −
+        r
+        ω
+        sen
+        ⁡
+        (
+        ω
+        t
+        )
+        
+          
+            
+              i
+              →
+            
+          
+        
+        +
+        r
+        ω
+        cos
+        ⁡
+        (
+        ω
+        t
+        )
+        
+          
+            
+              j
+              →
+            
+          
+        
+      
+    
+    {\displaystyle v={\frac {ds}{dt}}={\frac {d}{dt}}(r\cos(\omega t){\vec {i}}+r\operatorname {sen}(\omega t){\vec {j}})=-r\omega \operatorname {sen}(\omega t){\vec {i}}+r\omega \cos(\omega t){\vec {j}}}
+  in quanto 
+  
+    
+      
+        θ
+        =
+        ω
+        t
+      
+    
+    {\displaystyle \theta =\omega t}
+  
+Il modulo della velocità si ottiene ricordando che 
+  
+    
+      
+        
+          sen
+          
+            2
+          
+        
+        ⁡
+        θ
+        +
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        θ
+        =
+        1
+      
+    
+    {\displaystyle \operatorname {sen} ^{2}\theta +\cos ^{2}\theta =1}
+   per cui sarà:
+
+  
+    
+      
+        v
+        =
+        ω
+        r
+      
+    
+    {\displaystyle v=\omega r}
+  Nel caso di moto circolare uniforme la velocità tangenziale è un vettore costante in modulo, ma che varia la sua direzione, infatti questa sarà sempre tangente alla circonferenza e avrà verso nel senso di rotazione.
+
+
+==== Velocità scalare ====
+La velocità scalare media è una grandezza scalare definita come lo spazio totale percorso diviso il tempo impiegato, e tale definizione è molto diversa da quella per la velocità vettoriale media. Per esempio, nel moto circolare (il moto che avviene lungo una circonferenza) dopo un periodo 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   la velocità vettoriale media è nulla, perché il punto di arrivo e quello di partenza coincidono, ovvero 
+  
+    
+      
+        Δ
+        
+          r
+        
+        =
+        0
+      
+    
+    {\displaystyle \Delta \mathbf {r} =0}
+  , mentre la velocità scalare media è uguale a 
+  
+    
+      
+        2
+        π
+        R
+        
+          /
+        
+        T
+      
+    
+    {\displaystyle 2\pi R/T}
+  , con 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   il raggio della circonferenza.
+Data una traiettoria curva 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+  , la velocità scalare media è definita come:
+
+  
+    
+      
+        ⟨
+        
+          v
+          
+            s
+          
+        
+        ⟩
+        =
+        
+          
+            1
+            
+              Δ
+              t
+            
+          
+        
+        
+          ∫
+          
+            γ
+          
+        
+        
+        
+          d
+        
+        
+          r
+        
+        =
+        
+          
+            1
+            
+              Δ
+              t
+            
+          
+        
+        
+          ∫
+          
+            
+              t
+              
+                1
+              
+            
+          
+          
+            
+              t
+              
+                2
+              
+            
+          
+        
+        ‖
+        
+          v
+        
+        (
+        t
+        )
+        ‖
+        
+          d
+        
+        t
+      
+    
+    {\displaystyle \langle v_{s}\rangle ={\frac {1}{\Delta t}}\int _{\gamma }\,\mathrm {d} \mathbf {r} ={\frac {1}{\Delta t}}\int _{t_{1}}^{t_{2}}\|\mathbf {v} (t)\|\mathrm {d} t}
+  dove l'integrale è la lunghezza della curva che descrive la traiettoria. La velocità scalare non è quindi semplicemente la norma della velocità vettoriale media, e si può dimostrare che la prima è sempre maggiore o uguale della seconda.duramente durevole
+
+
+== Relazione integrale fra la posizione e velocità ==
+Tramite l'integrazione è possibile conoscere la variazione della posizione ricavandola dalla velocità. Dalla definizione di velocità:
+
+  
+    
+      
+        
+          v
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                d
+              
+              
+                r
+              
+              (
+              t
+              )
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {v} (t)={\frac {\mathrm {d} \mathbf {r} (t)}{\mathrm {d} t}}}
+  Si può effettuare una separazione delle variabili portando a primo membro 
+  
+    
+      
+        
+          r
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle \mathbf {r} (t)}
+   e al secondo membro il resto dell'equazione:
+
+  
+    
+      
+        
+          d
+        
+        
+          r
+        
+        (
+        t
+        )
+        =
+        
+          v
+        
+        (
+        t
+        )
+        
+          d
+        
+        t
+      
+    
+    {\displaystyle \mathrm {d} \mathbf {r} (t)=\mathbf {v} (t)\mathrm {d} t}
+  in modo che sia possibile integrare entrambi i membri:
+
+  
+    
+      
+        
+          ∫
+          
+            
+              r
+            
+            (
+            
+              t
+              
+                2
+              
+            
+            )
+          
+          
+            
+              r
+            
+            (
+            
+              t
+              
+                1
+              
+            
+            )
+          
+        
+        
+          d
+        
+        
+          r
+        
+        (
+        t
+        )
+        =
+        
+          ∫
+          
+            
+              t
+              
+                2
+              
+            
+          
+          
+            
+              t
+              
+                1
+              
+            
+          
+        
+        
+          v
+        
+        (
+        t
+        )
+        
+          d
+        
+        t
+      
+    
+    {\displaystyle \int _{\mathbf {r} (t_{2})}^{\mathbf {r} (t_{1})}\mathrm {d} \mathbf {r} (t)=\int _{t_{2}}^{t_{1}}\mathbf {v} (t)\mathrm {d} t}
+  e determinare così la variazione di 
+  
+    
+      
+        
+          r
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle \mathbf {r} (t)}
+  . Se, ad esempio, la velocità è costante l'integrale si riduce alla legge del moto rettilineo uniforme:
+
+  
+    
+      
+        
+          r
+        
+        (
+        
+          t
+          
+            2
+          
+        
+        )
+        −
+        
+          r
+        
+        (
+        
+          t
+          
+            1
+          
+        
+        )
+        =
+        
+          r
+        
+        (
+        
+          t
+          
+            2
+          
+        
+        −
+        
+          t
+          
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle \mathbf {r} (t_{2})-\mathbf {r} (t_{1})=\mathbf {r} (t_{2}-t_{1})}
+  .
+
+
+== Composizione delle velocità ==
+Considerando ad esempio una barca che si muove con una velocità 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   rispetto all'acqua di un canale, che a sua volta si muove con una velocità 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   rispetto alla riva, si prenda un osservatore 
+  
+    
+      
+        O
+      
+    
+    {\displaystyle O}
+   solidale con la riva e un osservatore 
+  
+    
+      
+        
+          O
+          ′
+        
+      
+    
+    {\displaystyle O'}
+   solidale con la barca. Si ha che:
+
+  
+    
+      
+        v
+        =
+        
+          v
+          
+            
+              O
+              ′
+            
+          
+        
+        +
+        V
+      
+    
+    {\displaystyle v=v_{O'}+V}
+  Quindi, per l'osservatore fisso le velocità della corrente e della barca si compongono sommandosi quando la barca va nel verso della corrente e sottraendosi quando va controcorrente. Va sottolineato che 
+  
+    
+      
+        
+          O
+          ′
+        
+      
+    
+    {\displaystyle O'}
+   con i suoi strumenti misura sempre la velocità 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   della barca rispetto all'acqua, e può anche misurare la velocità con la quale l'acqua scorre davanti 
+  
+    
+      
+        O
+      
+    
+    {\displaystyle O}
+  . Questo misura anch'esso la velocità con la quale si muove l'acqua e, a differenza di 
+  
+    
+      
+        
+          O
+          ′
+        
+      
+    
+    {\displaystyle O'}
+  , misura pure la velocità di 
+  
+    
+      
+        
+          O
+          ′
+        
+      
+    
+    {\displaystyle O'}
+   rispetto alla sponda del canale. Una situazione del tutto analoga si verifica pure quando la barca si muove trasversalmente alla corrente.
+Questo tipo di composizione delle velocità, introdotta da Galilei nella teoria della relatività galileiana, era già nota a Leonardo da Vinci che fa l'esempio di un arciere che lancia una freccia dal centro della Terra verso la superficie. L'esempio è ripreso in maniera più formale da Galilei: qui un osservatore esterno alla Terra vede comporsi il moto rettilineo della freccia lungo un raggio e il moto rotatorio della Terra. Il moto risultante è una spirale di Archimede. La freccia si muove con il moto rettilineo uniforme, e lo spazio percorso risulta allora:
+
+  
+    
+      
+        s
+        =
+        v
+        t
+      
+    
+    {\displaystyle s=vt}
+  Le proiezioni di 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   sui due assi è quindi:
+
+  
+    
+      
+        x
+        =
+        v
+        t
+        cos
+        ⁡
+        (
+        ω
+        t
+        )
+        
+        y
+        =
+        v
+        t
+        
+        
+          s
+          e
+          n
+        
+        (
+        ω
+        t
+        )
+      
+    
+    {\displaystyle x=vt\cos(\omega t)\qquad y=vt\,\mathrm {sen} (\omega t)}
+  
+
+
+=== Composizione delle velocità in relatività speciale ===
+Nella teoria della relatività speciale, passando da un sistema di riferimento 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   a un sistema di riferimento 
+  
+    
+      
+        
+          S
+          ′
+        
+      
+    
+    {\displaystyle S'}
+  , la velocità di una particella si trasforma nel modo seguente:
+
+  
+    
+      
+        
+          v
+          
+            x
+          
+          ′
+        
+        =
+        
+          
+            
+              
+                v
+                
+                  x
+                
+              
+              −
+              V
+            
+            
+              1
+              −
+              
+                v
+                
+                  x
+                
+              
+              V
+              
+                /
+              
+              
+                c
+                
+                  2
+                
+              
+            
+          
+        
+        
+        
+          v
+          
+            y
+          
+          ′
+        
+        =
+        
+          
+            
+              v
+              
+                y
+              
+            
+            
+              γ
+              (
+              1
+              −
+              
+                v
+                
+                  x
+                
+              
+              V
+              
+                /
+              
+              
+                c
+                
+                  2
+                
+              
+              )
+            
+          
+        
+        
+        
+          v
+          
+            z
+          
+          ′
+        
+        =
+        
+          
+            
+              v
+              
+                z
+              
+            
+            
+              γ
+              (
+              1
+              −
+              
+                v
+                
+                  x
+                
+              
+              V
+              
+                /
+              
+              
+                c
+                
+                  2
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle v'_{x}={\frac {v_{x}-V}{1-v_{x}V/c^{2}}}\qquad v'_{y}={\frac {v_{y}}{\gamma (1-v_{x}V/c^{2})}}\qquad v'_{z}={\frac {v_{z}}{\gamma (1-v_{x}V/c^{2})}}}
+  dove 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   è la velocità (diretta lungo l'asse 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  ) del sistema 
+  
+    
+      
+        
+          S
+          ′
+        
+      
+    
+    {\displaystyle S'}
+   rispetto al sistema di riferimento 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  , e 
+  
+    
+      
+        γ
+        =
+        γ
+        (
+        V
+        )
+      
+    
+    {\displaystyle \gamma =\gamma (V)}
+   è il fattore di Lorentz.
+
+
+== Velocità nei sistemi di punti materiali ==
+Se gli 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   punti materiali di un sistema sono in movimento, solitamente, la posizione del centro di massa varia. Pertanto, nell'ipotesi in cui la massa totale 
+  
+    
+      
+        m
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle m=\sum _{i=1}^{n}}
+   sia costante, la velocità del centro di massa sarà:
+
+  
+    
+      
+        
+          
+            v
+          
+          
+            G
+          
+        
+        =
+        
+          
+            
+              
+                d
+              
+              
+                
+                  r
+                
+                
+                  G
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+          
+            
+              S
+              
+                r
+              
+              
+                ∗
+              
+            
+            m
+          
+        
+        =
+        
+          
+            
+              
+                
+                  
+                    m
+                  
+                
+                
+                  (
+                  
+                    
+                      
+                        
+                          
+                            
+                              d
+                            
+                            m
+                          
+                          
+                            
+                              d
+                            
+                            t
+                          
+                        
+                      
+                    
+                    
+                      ∑
+                      
+                        i
+                        =
+                        1
+                      
+                      
+                        n
+                      
+                    
+                    
+                      
+                        r
+                      
+                      
+                        i
+                      
+                    
+                    +
+                    m
+                    
+                      ∑
+                      
+                        i
+                        =
+                        1
+                      
+                      
+                        n
+                      
+                    
+                    
+                      
+                        
+                          
+                            d
+                          
+                          
+                            
+                              r
+                            
+                            
+                              i
+                            
+                          
+                        
+                        
+                          
+                            d
+                          
+                          t
+                        
+                      
+                    
+                  
+                  )
+                
+                +
+                
+                  S
+                  
+                    r
+                  
+                  
+                    ∗
+                  
+                
+                
+                  
+                    
+                      
+                        
+                          d
+                        
+                        m
+                      
+                      
+                        
+                          d
+                        
+                        t
+                      
+                    
+                  
+                
+              
+            
+            
+              m
+              
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              p
+            
+            m
+          
+        
+      
+    
+    {\displaystyle \mathbf {v} _{G}={\frac {\mathrm {d} \mathbf {r} _{G}}{\mathrm {d} t}}={\frac {\mathrm {d} }{\mathrm {d} t}}{\frac {S_{r}^{*}}{m}}={\frac {\displaystyle {{\cancel {m}}\left({\cancel {\frac {\mathrm {d} m}{\mathrm {d} t}}}\sum _{i=1}^{n}\mathbf {r} _{i}+m\sum _{i=1}^{n}{\frac {\mathrm {d} \mathbf {r} _{i}}{\mathrm {d} t}}\right)+S_{r}^{*}{\cancel {\frac {\mathrm {d} m}{\mathrm {d} t}}}}}{m^{\cancel {2}}}}={\frac {\mathbf {p} }{m}}}
+  dove 
+  
+    
+      
+        
+          S
+          
+            r
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle S_{r}^{*}}
+   è il momento statico e 
+  
+    
+      
+        
+          p
+        
+      
+    
+    {\displaystyle \mathbf {p} }
+   la quantità di moto totale del sistema.
+
+
+== Caduta nel campo gravitazionale ==
+In caso di caduta di un oggetto immerso in un campo gravitazionale, la velocità finale dell'oggetto può essere determinata utilizzando la conservazione dell'energia, ottenendo così una semplice espressione:
+
+  
+    
+      
+        v
+        =
+        
+          
+            2
+            g
+            h
+          
+        
+      
+    
+    {\displaystyle v={\sqrt {2gh}}}
+  dove 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   è la differenza di quota tra il punto di caduta e quello in cui l'oggetto si ferma.
+In quest'ultimo caso si parla di velocità di impatto.
+
+
+=== Velocità terminale di caduta ===
+Per velocità terminale di caduta, o velocità limite, si intende la velocità massima che raggiunge un corpo in caduta. Cadendo attraverso un fluido infatti il corpo incontra una crescente resistenza all'aumentare della velocità e quando l'attrito eguaglia la forza di attrazione gravitazionale la velocità si stabilizza.
+
+
+== Velocità limite ==
+La velocità della luce, o di qualsiasi altra onda elettromagnetica, è identica nel vuoto per tutti i sistemi di riferimento. Questa invarianza, implicita nelle simmetrie delle equazioni di Maxwell per la propagazione delle onde elettromagnetiche e verificata sperimentalmente alla fine del 1800 con l'esperimento di Michelson-Morley, ha portato alla necessità di modificare le equazioni del moto e della dinamica. Una delle conseguenze della teoria della relatività ristretta di Albert Einstein è che la velocità massima raggiungibile al limite da un qualunque oggetto fisico è quella della luce nel vuoto.
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Paolo Mazzoldi, Massimo Nigro, Cesare Voci, Fisica, vol. 1, 2ª ed., Edises, 2000, ISBN 88-7959-137-1.
+ Lev D. Landau, Evgenij M. Lifšic, Fisica teorica 1 - Meccanica, Roma, Editori Riuniti Edizioni Mir, 1976, ISBN 88-6473-202-0.
+ Corrado Mencuccini, Vittorio Silvestrini, Fisica I - Meccanica e Termodinamica, 3rd Edition, Napoli, Liguori Editore, 1996, ISBN 88-207-1493-0.
+(EN) Edwin Bidwell Wilson, Vector analysis: a text-book for the use of students of mathematics and physics, founded upon the lectures of J. Willard Gibbs, 1901,  p. 125.
+
+
+== Voci correlate ==
+Posizione
+Accelerazione
+Strappo
+Sbalzo
+Crepitio
+Schiocco
+Composizione delle velocità
+Velocità commerciale
+Velocità operativa
+Velocità di fuga
+Velocità di deriva
+Velocità della luce
+Velocità del suono
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni sulla velocità
+ Wikizionario contiene il lemma di dizionario «velocità»
+ Wikimedia Commons contiene immagini o altri file sulla velocità
+
+
+== Collegamenti esterni ==
+
+ Velocità, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+(EN) Velocità / Velocità (altra versione) / Velocità (altra versione), su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ Velocità, in Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. URL consultato il 2 marzo 2016.

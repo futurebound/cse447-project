@@ -1,0 +1,198 @@
+Un astéroïde (du grec ancien ἀστεροειδής / asteroeidḗs, « qui ressemble à une étoile »,) est une planète mineure composée de roches, de métaux et de glaces, et dont les dimensions varient de l'ordre du mètre (limite actuelle de détection) à plusieurs centaines de kilomètres. L'appellation « en forme d'étoile » vient de l'aspect irrégulier des astéroïdes au télescope, différent du disque parfait des planètes, lors des premières observations astronomiques.
+En 1801, le premier astéroïde découvert est nommé Cérès. C'est le plus gros astéroïde de la ceinture principale, groupe d'astéroïdes le plus important en nombre d'objets connus (plus de 720 000 en avril 2019 ou environ 750 000 en comptant la périphérie immédiate), situé entre les orbites de Mars et de Jupiter. Les astéroïdes géocroiseurs (environ 20 000 connus en avril 2019) constituent le second groupe en nombre, ils croisent l'orbite de la Terre. Les deux groupes rassemblent plus de 95 % des planètes mineures connues.
+Les planètes mineures situées au-delà de Neptune sont parfois considérées comme des astéroïdes mais aussi, de plus en plus souvent, distinguées et désignées comme objets transneptuniens. Leur composition est plus riche en glace et plus pauvre en métaux et en roches, ce qui les apparente à des noyaux cométaires.
+Contrairement aux comètes, les astéroïdes ne présentent pas d'activité cométaire. Cependant, quelques-uns ont été observés avec une activité partielle et sont qualifiés d'astéroïdes actifs.
+On suppose que les astéroïdes sont des restes du disque protoplanétaire qui ne se sont pas regroupés en planètes.
+Certains astéroïdes géocroiseurs sont considérés comme potentiellement dangereux à cause du risque de collision avec la Terre. Ils sont surveillés par des systèmes automatisés et des études sont menées sur les possibilités de les détourner en cas de menace affirmée.
+
+
+== Terminologie ==
+
+
+== Histoire ==
+
+
+=== Premières découvertes ===
+
+Le premier astéroïde est découvert fortuitement par Giuseppe Piazzi, directeur de l’observatoire de Palerme. Le 1er janvier 1801, alors qu’il mène des observations dans la constellation du Taureau afin d’établir un catalogue stellaire, il repère un nouvel astre. Le lendemain, il constate avec surprise que celui-ci s’est déplacé vers l’ouest. Il suit le déplacement de cet objet pendant plusieurs nuits. Son collègue, Carl Friedrich Gauss, utilise ces observations pour déterminer la distance exacte de cet objet inconnu à la Terre. Ses calculs situent l’astre entre les planètes Mars et Jupiter. Piazzi le nomme Cérès, du nom de la déesse romaine qui fait sortir la sève de la terre et qui fait pousser les jeunes pousses au printemps, et également déesse protectrice de la Sicile.
+Selon la loi de Titius-Bode, formulée en 1766 par Johann Daniel Titius et divulguée par Johann Elert Bode, une planète aurait dû graviter entre Mars et Jupiter. Une campagne d’observation, initiée par Joseph Jérôme Lefrançois de Lalande en 1796, avait été lancée afin de la localiser. Piazzi, sans le vouloir, avait devancé ses collègues avec la découverte de Cérès sur l’orbite de l’hypothétique planète.
+Entre 1802 et 1807, trois autres objets sont découverts sur des orbites voisines : Pallas, Junon et Vesta. Les quatre nouveaux corps sont alors considérés comme de véritables planètes. Le terme de petites planètes est généralement employé ; cependant dès 1802, William Herschel propose l’appellation d’astéroïde, qui signifie littéralement « en forme d’étoile », à cause de leur aspect au télescope, différent de celui en forme de disque régulier des autres planètes. Avec, de plus, leur petite taille ou l’inclinaison orbitale élevée de Pallas, il s’agissait selon lui d’objets du Système solaire à distinguer des planètes.
+Il faut attendre 1845 pour qu’une nouvelle petite planète soit découverte, Astrée, par Karl Ludwig Hencke. Dès lors, les découvertes ne cessent de se multiplier et l’appellation proposée par Herschel s’impose.
+
+
+=== Au XXe siècle ===
+
+En juillet 1868, cent astéroïdes sont connus. La millième découverte homologuée a lieu en novembre 1921 ((969) Leocadia) et la dix-millième en octobre 1989 ((21030) 1989 TZ11). En règle générale, l’ordre des dates de découverte diffère de l’ordre de numérotation des astéroïdes, car l’affectation d’un numéro se fait après une détermination suffisamment fiable de l’orbite de l’objet.
+La majorité des astéroïdes connus sont situés dans la zone comprise entre Mars et Jupiter, dite ceinture d'astéroïdes (ou ceinture principale). Mais d'autres ont été découverts en dehors de cette zone, soit parce qu’ils possèdent une orbite qui les fait s’éloigner de la ceinture principale, soit parce qu’ils sont situés dans une tout autre zone du Système solaire (voir Principaux groupements). La plupart d'entre eux sont plus éloignés du Soleil, mais on en connaît qui sont moins éloignés que Mars (astéroïdes Amor et astéroïdes Apollon), la Terre (astéroïdes Aton et astéroïdes Atira) et même Vénus (2020 AV2).
+L’étude des astéroïdes fut longtemps délaissée par les astronomes. Nous les connaissons depuis maintenant plus de deux cents ans, mais ils étaient considérés comme les rebuts du Système solaire. On sait maintenant que les astéroïdes sont une clé importante de la compréhension de la formation du Système solaire et c’est pour cette raison que les astronomes montrent un plus grand intérêt envers ces objets.
+
+
+== Dénomination ==
+
+
+== Paramètres orbitaux ==
+
+
+== Composition et classification spectrale ==
+
+La composition des astéroïdes est évaluée d’après leur spectre optique mesurant la lumière réfléchie, qui correspond à la composition de leur surface. Celle des météorites est connue avec l'analyse des fragments retrouvés sur Terre.
+Le système classique de classification spectrale des astéroïdes, élaboré en 1975, les classe selon un système basé sur leur couleur, leur albédo et leur spectre optique. Ces propriétés étaient censées correspondre à la composition de leur surface. Il faut noter, cependant, que certains types sont plus facilement détectables que d'autres. Ainsi, ce n'est pas parce que la proportion d'astéroïdes d'un type donné est plus importante qu'ils sont effectivement plus nombreux. Il existe des systèmes de classification plus récents, dont deux se démarquent : Tholen et SMASS.
+À l'origine, la classification des astéroïdes se basait sur des suppositions au sujet de leur composition :
+
+type C - carbone
+type S - silice
+type M - métalliqueCeci a porté à confusion, car le type spectral d'un astéroïde ne garantit pas sa composition.
+
+
+== Principaux groupements ==
+
+
+=== Ceinture principale ===
+
+La ceinture principale d'astéroïdes, entre les orbites de Mars et Jupiter, distante de deux à quatre unités astronomiques du Soleil, est le principal groupement d'astéroïdes : environ 720 000 objets y ont été répertoriés à ce jour (avril 2019), auxquels on peut ajouter 30 000 autres gravitant dans sa périphérie immédiate (groupe de Hungaria, groupe de Cybèle et groupe de Hilda notamment). L’influence du champ gravitationnel de Jupiter les a empêchés de former une planète. Cette influence de Jupiter est également à l’origine des lacunes de Kirkwood, zones quasiment vides situées au milieu et sur les bords de la ceinture et dues à des phénomènes de résonance orbitale.
+
+
+=== Astéroïdes troyens de Jupiter ===
+
+Les troyens de Jupiter sont situés sur des orbites très proches de celle de Jupiter, à proximité des deux points de Lagrange L4 et L5. On en compte environ 7 200 en avril 2019. Le nom fait référence à la guerre de Troie : les points L4 et L5 sont associés respectivement au camp grec et au camp troyen et les astéroïdes y sont nommés, sauf exception, avec des noms de personnages du camp associé.
+
+
+=== Astéroïdes géocroiseurs ===
+
+Au sens strict, les astéroïdes géocroiseurs sont des astéroïdes dont l’orbite croise celle de la Terre (Earth-crosser asteroid ou ECA en anglais). En pratique, en français, le terme est le plus souvent entendu au sens large et inclut également les astéroïdes dont l'orbite est « proche » de celle de la Terre (passe à moins de 0,3 unité astronomique) (near Earth asteroid ou NEA en anglais). On en dénombre environ 20 000 (avril 2019).
+Ces astéroïdes sont classiquement classés en quatre groupes :
+
+les astéroïdes Atira, dont l'orbite est entièrement contenue dans celle de la Terre (19 connus en avril 2019 selon la base de données du JPL) ;
+les astéroïdes Aton, croiseurs dont l'orbite est principalement située à l'intérieur de celle de la Terre (a < 1 ua) (environ 1 500 connus en avril 2019) ;
+les astéroïdes Apollon, croiseurs dont l'orbite est principalement située à l'extérieur de celle de la Terre (a > 1 ua) (environ 11 000 connus en avril 2019) ;
+les astéroïdes Amor, dont l'orbite entoure entièrement celle de la Terre (environ 7 500 connus en avril 2019).L’intérêt médiatique parfois très fort porté sur les astéroïdes géocroiseurs est lié à la crainte de les voir entrer en collision avec la Terre. Voir section Risques d'impact avec la Terre.
+
+
+=== Centaures ===
+
+Les centaures sont des planètes mineures qui gravitent entre les orbites des planètes géantes gazeuses. On en compte en avril 2019 entre 200 et 500 suivant le périmètre précis attribué à ce groupe (frontière non standardisée avec d'autres groupes tels que celui des damocloïdes). Le premier qui fut découvert est (2060) Chiron, en 1977. On suppose généralement que ce sont d'anciens objets transneptuniens ayant été éjectés de leurs trajectoires, suite, par exemple, à un passage à proximité de Neptune.
+
+
+=== Ceinture de Kuiper et autres objets transneptuniens ===
+
+On dénombre en avril 2019 environ 3 200 objets transneptuniens. Les principaux groupes de cette zone du Système solaire sont décrits dans l'article Planète mineure.
+
+
+== Astéroïdes et histoire du Système solaire ==
+
+
+== Méthodes de détection et d'analyse ==
+
+
+== Exploration par des sondes spatiales ==
+
+Les premières images rapprochées d’astéroïdes sont l’œuvre de la sonde Galileo qui, lors de son transit vers Jupiter, put s'approcher de (951) Gaspra en 1991 puis de (243) Ida en 1993.
+La sonde NEAR Shoemaker est la première dont la mission principale concerne l'étude d'un astéroïde. Lancée le 17 février 1996 par la NASA, elle se met en orbite autour de (433) Éros, l’un des plus gros astéroïdes géocroiseurs. Après en avoir établi une cartographie complète entre avril et octobre 2000, et bien que cela n'ait pas été prévu initialement, la sonde se pose en douceur sur l’astéroïde le 12 février 2001. Son dernier signal est reçu le 28 février.
+En 2003, la JAXA lance la sonde Hayabusa vers l’astéroïde géocroiseur (25143) Itokawa, avec pour objectif de s’y poser en douceur et d’en prélever des échantillons. Malgré plusieurs pannes et incidents, la sonde revient sur Terre le 13 juin 2010, sans que l’on sache si elle contient effectivement des échantillons. Finalement, le 16 novembre, la Jaxa annonce que l’analyse des particules récoltées a confirmé leur origine extraterrestre. Le Japon devient ainsi le premier pays à s’être posé sur un astéroïde et en avoir rapporté des échantillons. Deux missions en cours (avril 2019) prévoient également des retours d'échantillon : Hayabusa 2 (prélèvement réussi en 2019 et retour prévu en décembre 2020) et OSIRIS-Rex (prélèvement d'échantillon prévu en 2020 et retour en 2023).
+En 2007, la NASA lance la sonde Dawn en direction de deux des plus gros astéroïdes de la ceinture principale, (4) Vesta et (1) Cérès. Elle se place d'abord en orbite autour de Vesta entre juillet 2011 et août 2012 puis rejoint Cérès autour duquel elle se met en orbite en mars 2015. C'est la première sonde spatiale à se positionner successivement en orbite autour de deux objets différents. Des études approfondies ont notamment concerné la géographie et la géologie des deux astéroïdes.
+Les principaux lancements planifiés concernent la mission DART (test de l'usage d'un impacteur pour dévier un astéroïde, lancement prévu en 2021), la sonde Lucy (étude de troyens de Jupiter, lancement prévu en 2021) et la sonde Psyché (étude de l'astéroïde métallique (16) Psyché, lancement prévu en 2022). Ces trois missions sont développées par la NASA.
+La sonde New Horizons est la première et à ce jour la seule à avoir exploré des objets transneptuniens (surlignés en jaune dans le tableau). Lancée par la NASA en janvier 2006, elle n'arrive au niveau de son objectif principal, Pluton, que 8 ans et demi plus tard en juillet 2015. Des résultats remarquables sont apportés sur la géographie, la géologie, l'atmosphère ou encore les satellites de Pluton. La sonde est ensuite dirigée vers (486958) 2014 MU69 qui devient ainsi le deuxième objet transneptunien photographié de près.
+
+Remarque : ne sont ici listés que les astéroïdes explorés "de près" par une sonde spatiale (a minima survolés à moins de 20 000 km) ; quelques autres ont été survolés "de loin" tels que les astéroïdes de la ceinture principale (2685) Masursky et (132524) APL ou l'objet transneptunien (15810) Arawn.
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+== Observations à l'œil nu ou aux jumelles ==
+Les astéroïdes sont presque impossibles à observer à l’œil nu. Ils sont bien plus petits que les planètes, et très peu lumineux. L’astéroïde 4 Vesta en est l’exception, puisque c’est le seul qu’il soit parfois possible d’observer sans appareil optique. Sa luminosité n’étant toutefois pas très grande, il faut donc savoir où poser le regard.
+Un astéroïde ressemble plus ou moins à une étoile qui brille dans le ciel nocturne. Le meilleur moyen pour partir à la chasse aux astéroïdes avec ses jumelles ou son télescope est d’observer le fond étoilé, plusieurs nuits d’affilée, et de détecter les points lumineux qui se déplacent par rapport au fond, qui, lui, paraît stable. Certains catalogues répertorient la position des astéroïdes, et il est alors plus facile de pointer le télescope au bon endroit.
+
+
+== Risques d'impact avec la Terre ==
+
+
+=== Astéroïdes potentiellement dangereux ===
+
+Au 27 avril 2019, la JPL Small-Body Database recense 20 000 astéroïdes géocroiseurs au sens large (notion de Near Earth Asteroids ou NEA en anglais) dont 12 500 géocroiseurs au sens strict (notion de Earth-Crosser Asteroids ou ECA en anglais).
+Seule une petite partie d'entre eux sont classés comme objets potentiellement dangereux (notion de Potentially Hazardous Asteroids ou PHA en anglais). La définition classique repose sur deux critères : une distance minimale d'intersection de l'orbite terrestre (T-DMIO ou E-MOID en anglais) inférieure à 0,05 ua (soit environ 7 480 000 km ou 19,5 distances lunaires) et une magnitude absolue inférieure à 22,0, ce qui correspond à un diamètre supérieur à 140 m dans le cas d'un albédo moyen de 14%. Le Centre des planètes mineures tient à jour quotidiennement une liste d'astéroïdes répondant à ces deux critères. La liste publiée le 24 avril 2019 recense 1 969 astéroïdes potentiellement dangereux.
+
+Les orbites de ces objets n'étant connues qu'avec une incertitude non négligeable, le risque est évalué à travers un calcul de probabilité. Deux échelles normalisées permettent de quantifier ce risque, l'échelle de Palerme et l'échelle de Turin. Cette dernière, reconnue par l'Union astronomique internationale depuis 1999 et couramment utilisée dans les articles de vulgarisation, quantifie le niveau de risque de 0 à 10 en croisant une estimation de la probabilité d'impact et une estimation de l'énergie d'impact. Ces évaluations évoluent en permanence en fonction des réévaluations régulières des orbites. Plusieurs institutions et programmes d'observation étudient ce risque en continu. L’agence spatiale européenne (ESA), par exemple, a initié en 2004 un projet à long terme de protection de la Terre contre les géocroiseurs.
+Chaque année, quelques astéroïdes sont un temps côtés au niveau 1 de l'échelle de Turin par l'un ou l'autre de ces programmes (le plus souvent durant les jours ou semaines qui suivent leur découverte ou une nouvelle observation), avant d'être rétrogradés au niveau 0 une fois l'orbite mieux connue. Entre 2002 et 2018, seuls deux astéroïdes ont dépassé le niveau 1 : (99942) Apophis (un temps côté 4 après sa découverte en 2004, puis resté côté 1 jusqu'en décembre 2006) et (144898) 2004 VD17 (un temps côté 2).
+
+
+=== Stratégies d'évitement de l'impact ===
+Parallèlement au développement de programmes visant à mieux connaître les objets potentiellement dangereux (astéroïdes ou comètes), plusieurs stratégies visant à détruire ou dévier un tel objet ont progressivement été étudiées. Les stratégies visant la destruction sont généralement jugées non pertinentes (risques liés à la fragmentation de l'objet, retombée de matière radioactive, coût élevé...). Les stratégies de déviation les plus étudiées reposent sur un impacteur ou sur une explosion à distance de l'objet. La mission DART développée par la NASA (lancement prévu en 2021) vise à tester l'effet d'un impacteur sur la déviation d'un astéroïde. D'autres stratégies reposant sur une déviation lente ont également été proposées (sonde jouant le rôle de tracteur gravitationnel, utilisation de l'effet Yarkovsky, voile solaire, éjection de matière par une catapulte installée sur l'objet, etc.) mais restent conditionnées à une longue anticipation de l’événement.
+
+
+=== Impacts d'astéroïdes de petite taille ===
+
+Régulièrement, des météoroïdes ou astéroïdes de petite taille pénètrent dans l'atmosphère terrestre, se transforment en bolide (phénomène lumineux intense généré par les frottements), et, finalement, impactent la Terre (généralement après s'être fractionnés dans le cas des petits astéroïdes). Le superbolide de Tcheliabinsk observé le 15 février 2013 est un exemple récent et célèbre de ce type de phénomène. Selon les estimations, l'objet à l'origine de l'événement était un astéroïde géocroiseur de type Apollon d'un diamètre compris entre 15 et 17 mètres. Cet astéroïde n'était pas connu avant son impact, ce qui est le cas le plus fréquent : la grande majorité des petits astéroïdes frôlant (ou éventuellement impactant) la Terre ne sont détectés qu'après leur passage ou moins de 24 heures avant.
+On ne compte en 2018 que 3 petits astéroïdes ayant été découverts (moins de 24 heures) avant leur impact (2008 TC3, 2014 AA et 2018 LA). Ce chiffre est à comparer au 556 bolides de diamètre supérieur à 1 mètre s'étant désintégrés dans l'atmosphère terrestre entre 1994 et 2013 selon les observations de la NASA.
+
+
+== Hypothèses d'exploitation minière ==
+
+Dans les années 2010, des projets d'exploitation minière des astéroïdes sont lancés par des sociétés privées du secteur spatial, Planetary Resources (créée en 2010) et Deep Space Industries (créée en 2013). Les astéroïdes sont en effet riches en matériaux précieux, tels les métaux lourds et les terres rares, présents sur leur surface car ces corps sont trop petits pour avoir subi la différenciation planétaire : la valeur commerciale d'un km3 d'astéroïde, hors frais d'exploitation, est estimée à 5000 milliards d'euros. La NASA a également pour ambition de capturer un petit astéroïde (de 7 à 10 mètres de diamètre, avec un poids maximal de 500 tonnes) et de le mettre en orbite stable autour de la Lune. Les faisabilités et le coût de ces projets font l'objet de débats, seule la sonde Hayabusa ayant réussi en 2010 à ramener quelques poussières de l'astéroïde Itokawa.
+
+
+== Astéroïdes notables ==
+La plupart des astéroïdes gravitent de manière anonyme dans la ceinture principale. Quelques-uns accèdent toutefois à la notoriété, en particulier au regard de l'histoire des découvertes, de leur taille, orbite ou propriété atypiques, de leur dangerosité pour la Terre, etc.
+
+Des tableaux plus complets (avec d'autres caractéristiques singulières et prolongés aux centaures et objets transneptuniens) sont proposés dans l'article Planète mineure.
+
+
+== Astéroïde et culture ==
+
+
+=== Films catastrophe ===
+Le genre cinématographique du film catastrophe a exploré plusieurs fois le thème du risque d'impact majeur. Les deux principaux représentant du genre sont :
+
+Meteor (1979), film américain de Ronald Neame avec Sean Connery et Natalie Wood. L'astéroïde Orpheus est finalement détruit par des tirs nucléaires conjoints d'un satellite américain et d'un satellite soviétique.
+Armageddon (1998), film américain de Michael Bay avec Bruce Willis. Une équipe spécialisée dans le forage pétrolier est envoyée sur l'astéroïde pour y enfouir une charge nucléaire.À noter que d'autres films du même genre mettent en scène une comète et non un astéroïde. C'est notamment le cas du film Deep Impact (1998, Mimi Leder) ou du film pionnier du genre La Fin du monde (1931, Abel Gance).
+
+
+=== Science-fiction ===
+Les récits de science-fiction interplanétaires mettent régulièrement en scène des astéroïdes. Plusieurs thèmes sont abordés : traversée de champs d'astéroïdes, exploitation minière, implantation de bases militaires, colonisation, astéroïdes habités par des créatures extra-terrestres, etc.
+
+
+=== Autres genres ===
+
+Le Petit Prince (1943), roman d'Antoine de Saint-Exupéry, œuvre poétique et philosophique écrit sous la forme d'un conte pour enfants. Le petit prince est originaire de l'astéroïde B 612 et poursuit un voyage initiatique de planète en planète. L'astéroïde (46610) Bésixdouze et le satellite de l'astéroïde (45) Eugénie nommé Petit-Prince ont été nommés en l'honneur de cette œuvre.
+Deux aventures de Tintin mettent en scène un astéroïde. Dans L'Étoile mystérieuse (1942), un « aérolithe », fragment d'un bolide ayant frôlé la Terre, tombe en mer… Dans On a marché sur la Lune (1954), le capitaine Haddock se trouve entraîné par l’attraction de l'astéroïde Adonis. À noter que le véritable astéroïde (2101) Adonis avait été découvert quelques années plus tôt, en 1936, et avait fait alors sensation par son passage à moins de 5 distances lunaires de la Terre. Les astéroïdes (1652) Hergé, (1683) Castafiore et (327082) Tournesol ont été nommés en l'honneur de l'auteur et de ses personnages.
+
+
+== Références ==
+
+
+=== Consultations de bases de données ===
+Page MPC Database Search sur le site du Minor Planet Center :
+Page JPL Small-Body Database Search Engine sur le site Solar System Dynamics du Jet Propulsion Laboratory :
+Page Lists and Plots: Minor Planets sur le site du Minor Planet Center :
+
+
+=== Autres références ===
+
+
+== Annexes ==
+
+
+=== Articles connexes ===
+
+
+=== Listes ===
+Liste des planètes mineures
+Liste des plus grands astéroïdes de la ceinture principale
+Liste des principaux astéroïdes de la ceinture principale classés par masse
+Liste d'astéroïdes géocroiseurs
+Liste d'astéroïdes ayant frôlé la Terre
+Liste de cratères d'impact sur Terre
+
+
+=== Liens externes ===
+Conférence donnée à l'Institut d'astrophysique de Paris le 8 novembre 2011, par Patrick Michel, astrophysicien et responsable du Groupe de Planétologie de l'Observatoire de la Côte d'Azur.
+"Les astéroïdes sont ils un danger ?", J.P. Luminet, "Chroniques de l'espace", France Inter, 31 juillet 2019
+ Portail de l’astronomie   Portail des planètes mineures et comètes

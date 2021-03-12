@@ -1,0 +1,42 @@
+Solenergi er energien i lyset fra Solen. Solens lyseffekt i Jordens afstand, er ca. 1367 W/m² målt vinkelret i forhold til solen. Soleffekten (solarkonstanten, S0) 1367 W/m² svarer til 1367 J/m² per sekund. Potentialet for solenergi er enormt, siden omkring 200000 gange er verdens samlede daglige elproduktionskapacitet modtaget af Jorden hver dag i form af solenergi. Ved jordoverfladen om dagen uden skyer mellem solen og målepunktet vil soleffekten, efter at være blevet filtreret af atmosfæren, være ca. 1000 W/m² målt vinkelret i forhold til solen. Nogle kalder en lyseffekt på 1000 W/m² for 1 sol eller på engelsk 1 sun.
+Da denne soleffekt afhænger af den vej som sollyset går igennem atmosfæren, er denne effekt naturligvis lavere når solen ikke står i zenit. Står solen ikke i zenit tager solstrålerne en skrå vej og dermed længere vej gennem atmosfæren. Atmosfæren virker som et filter og beskytter os delvist mod stråling fra verdensrummet (især fra solen). Står solen derimod i zenit kommer solens stråler direkte ind mod jorden, hvorved der er det mindste tab. Breddegraden på jorden hvor solen står i zenit skifter over året mellem nordlige og sydlige vendekreds. De gule og orange områder på kortet afspejler hvor solens stråler over året sendes lodret ind mod jorden.
+Et andet eksempel er solbadning. Her bruner solen også allermest ved middagstid når man ligger ned, hvor solen står lige over hovedet på os, – morgen og aften står solen lavt og skal dermed gennem mere luft, inden den når ned på jordoverfladen.
+Ved nogle få situationer kan lyseffekten godt blive højere end ca. 1000 W/m² ved jordoverfladen. Det kan ske, hvis målepunktet udover det direkte sollys, også får indirekte sollys fra f.eks. en vandoverflade eller skyer.
+
+
+== Energi modtaget fra solen ==
+Den fladerelevante indstråling på jordoverfladen og i klart vejr er afhængig af breddegrad og årstid, som f.eks.:
+
+
+== Udnyttelse af solens energi ==
+For at udnytte energien i solstråler må den først omformes til anden energi – via eksempelvis:
+
+Solkraft – resultat: elektrisk energi.
+Solvarme – resultat: varme – termisk energi.
+Luftsolfanger - resultat: ventilation
+Kunstig fotosyntese
+S2P,CR5-solpaneler – resultat: metanol, ætanol....
+Planter med klorofyl; fotosyntese – resultat; kulhydrat (sukker, cellulose...), carbonhydrider (terpentin, olie...), aminosyrer (enzymer, proteiner...), fedtstoffer.
+
+
+== Kildehenvisninger ==
+
+
+=== Litteratur ===
+Dieter Heinrich, Manfred Hergt (1992). Munksgaards atlas – økologi. København: Munksgaard. ISBN 87-16-10775-6. 
+Torben Andersen, Poul Brøndum, mf. (2000). geografihåndbogen. København: Gads Forlag. ISBN 87-12-03104-6.  CS1-vedligeholdelse: Flere navne: authors list (link)
+
+
+=== Referencer ===
+
+
+== Eksterne henvisninger ==
+
+University of Oregon: Solen (på engelsk)
+europa.eu: PV potential estimation utility – udgangspunkt statisk flade (solpanel, solvarmepanel). Tager højde for geografisk jordplacering (land, by), vinkel (inklination, øst-vest-orientering). Beregning viser  energi i kwh per døgn, måned og år.
+18. juni 2009, comon.dk: Solenergi fra Sahara skal løse Europas miljøproblemer
+DESERTEC Foundation
+
+
+== Se også ==
+Tidslinie for solenergi

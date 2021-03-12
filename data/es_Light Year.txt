@@ -1,0 +1,46 @@
+Un año luz es una unidad de distancia que equivale aproximadamente a 9,46 × 1012 km (9 460 730 472 580,8 km).[1]​[2]​
+Se calcula como la distancia que recorre la luz en un año. Más formalmente, un año luz es la distancia que recorrería un fotón en el vacío durante un año juliano (365,25 días de 86 400 s o 24 h) a la velocidad de la luz (299 792 458 m/s) a una distancia infinita de cualquier campo gravitacional o campo magnético.[1]​
+Un año luz es una unidad de longitud (es una medida de la longitud del espacio-tiempo absoluto einsteniano). Sin embargo, en campos especializados y científicos, se prefiere el pársec (unos 3,26 años luz) y sus múltiplos para las distancias astronómicas, mientras que el año luz sigue siendo habitual en ciencia popular y divulgación.[1]​ También hay unidades de longitud basadas en otros períodos, como el segundo luz y el minuto luz, utilizadas especialmente para describir distancias dentro del sistema solar; pero a la vez se suelen restringir a trabajos de divulgación, ya que en contextos especializados se prefiere la unidad astronómica (unos 8.32 minutos luz).
+Carece de símbolo, aunque en inglés es frecuente ver la abreviatura «l.y.» o «ly» (light year ‘año luz’) y en español «a. l.» o «al».
+
+
+== Equivalencias ==
+En unidades del SI, un año luz equivale a:
+
+Exactamente 9 460 730 472 580,8 km
+Aproximadamente 9,46 × 1012 km
+Aproximadamente 9,4607 × 1015 m
+Aproximadamente 5,8786 × 1012 millas
+Aproximadamente 5,1084 × 1012 millas náuticas
+Aproximadamente 63 241 ua
+Aproximadamente 0,3066 pc.
+
+
+== Algunos datos ==
+Según la teoría de la relatividad, ningún objeto material (de masa mayor que 0 g) puede acelerar hasta la velocidad de la luz (c), dado que cuanto más se aproxima a dicha velocidad, más pesado se vuelve.
+Ningún planeta del sistema solar está a una distancia próxima a un año luz partiendo del Sol, el más lejano, Neptuno, se encuentra del mismo a 0,000 622 594 529 785 0989 años luz.
+La distancia entre el Sol y la Nube de Oort exterior es de 1 año luz aprox.
+Un pársec equivale a 3,26 años luz. Es decir, 34 058 631 000 000 km.
+La distancia entre el Sol y la estrella más cercana, Próxima Centauri, es de 4,22 años luz. Es decir, 39 924 284 000 000 km.
+El diámetro de la Vía Láctea es de 150 000 años luz. Es decir, 1 419 109 600 000 000 000 km, siendo la segunda galaxia más grande del Grupo Local.
+La distancia entre la Vía Láctea y la galaxia enana del Can Mayor, la más cercana, es de 25 000 años luz. Es decir, 236 518 270 000 000 000 km.
+La distancia entre la Vía Láctea y la galaxia enana elíptica de Sagitario es de entre 63 000 y 77 000 años luz. Es decir, entre 596 026 040 000 000 000 km y 728 476 270 000 000 000 km.
+El diámetro de la galaxia de Andrómeda (M31), la más grande del Grupo Local, es de 240 000 años luz. Es decir, 2 270 575 313 000 000 000 km.
+La distancia entre la Vía Láctea y la Gran Nube de Magallanes es de 163 000 años luz. Es decir, 1 542 099 100 000 000 000 km.
+La distancia entre la Vía Láctea y la galaxia de Andrómeda es de 2 500 000 años luz. Es decir, 23 651 827 000 000 000 000 km. Se encuentran, además, en trayectoria de colisión.
+La distancia entre la Vía Láctea y GR8, la galaxia más lejana del Grupo Local, es de 5 200 000 años luz, es decir, 49 195 800 000 000 000 000 km.
+El diámetro aproximado del Grupo Local es de una esfera de 10 000 000 años luz. Es decir, 94 607 308 000 000 000 000 km.
+El diámetro aproximado del supercúmulo de Virgo, supercúmulo de galaxias que contiene al Grupo Local, es de 200 000 000 años luz. Es decir, 1 892 146 200 000 000 000 000 km.
+El diámetro aproximado del complejo de supercúmulos Piscis-Cetus, complejo formado por supercúmulos de galaxias que incluye el supercúmulo de Virgo, se estima alrededor de 1 000 000 000 años luz. Es decir, unos 9 460 730 800 000 000 000 000 km.
+El diámetro aproximado de la mayor estructura conocida del universo, la Gran Muralla de Hércules-Corona Boreal, es superior a los 10 000 000 000 años luz, lo que en kilómetros supone una cifra superior a 94 607 308 000 000 000 000 000 km.
+El radio aproximado de la esfera del universo observable desde el planeta Tierra es de 13 700 000 000 años luz, por lo que el diámetro si nos situamos en el centro de un extremo al otro sería aproximadamente de 27 400 000 000 años luz. Es decir, unos 259 224 020 000 000 000 000 000 km.
+
+
+== Véase también ==
+Distancia lunar (empleada en cuerpos con órbitas cercanas a la Tierra)
+Unidad astronómica (para mediciones dentro del sistema solar)
+Pársec
+Astronomía
+
+
+== Referencias ==

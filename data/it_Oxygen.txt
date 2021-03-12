@@ -1,0 +1,158 @@
+L'ossigeno è un elemento chimico con numero atomico 8 (simbolo O). Fa parte degli elementi del gruppo 16 sulla tavola periodica ed è un agente non metallico altamente reattivo (ossidante) che forma facilmente ossidi e altri composti con la maggior parte degli elementi. Per massa, è il terzo elemento più abbondante dell'universo dopo l'idrogeno e l'elio. Il suo isotopo più stabile ha numero di massa 16.
+A temperatura e pressione standard due atomi dell'elemento si legano per formare una molecola di diossigeno (formula chimica O2), un gas incolore e inodore che costituisce il 20,8% dell'atmosfera terrestre (l'ossigeno è chimicamente troppo reattivo per rimanere un elemento libero nell'aria);    legato ad altri elementi, è l'elemento chimico più comune della crosta terrestre, rappresentandone circa il 47% della massa, ed entra inoltre nella molecola dell'acqua.
+L'ossigeno è essenziale per la vita della maggior parte degli esseri viventi in quanto necessario alla respirazione; inoltre, le principali classi di molecole organiche presenti negli organismi viventi, come le proteine, gli acidi nucleici, i carboidrati e i lipidi, contengono ossigeno.
+Nelle attività umane viene comunemente utilizzato per l'ossigenoterapia, il sistema di supporto vitale degli aeromobili, dei sottomarini e dei veicoli spaziali, per le attività subacquee ricreative, come propellente per i razzi. Entra inoltre nei processi di produzione dell'acciaio e della plastica, nella brasatura, saldatura e il taglio di alcuni metalli, . 
+
+
+== Cenni storici ==
+L'ossigeno venne scoperto dal farmacista svedese Carl Wilhelm Scheele nel 1771, ma la scoperta non venne immediatamente riconosciuta; invece quella fatta nel 1774 da Joseph Priestley ricevette subito riconoscimento pubblico. Nel 1777 Antoine-Laurent de Lavoisier diede il nome all'elemento, che deriva dal greco ὀξύς, oxýs, "acido" (letteralmente: "appuntito") e la radice γεν-, ghen-, che significa "generare". Questo perché al momento della denominazione si riteneva erroneamente che entrasse nella composizione di tutti gli acidi. Nello stesso anno  Scheele lo riconobbe come un componente dell'aria. Nel 1781 Lavoisier ne accertò la funzione per i fenomeni di respirazione e combustione.
+
+
+== Isotopi ==
+L'ossigeno ha tre isotopi stabili con numero di massa 16, 17 e 18, e dieci isotopi radioattivi. Tutti i radioisotopi hanno tempi di decadimento inferiori a tre minuti.
+La massa atomica dell'ossigeno è però inferiore a 16, nonostante l'isotopo 16O sia presente per circa il 99%, perché come riferimento per il calcolo delle masse è stato scelto il carbonio-12 e per motivi relativistici si ha un difetto di massa nella sintesi degli elementi più pesanti. Infatti la formazione del nucleo avviene con una diminuzione di massa e una liberazione di energia, causata dalla fusione nucleare.
+
+
+== Allotropi ==
+
+
+=== Ossigeno biatomico ===
+A temperatura e pressione standard, l'ossigeno si trova in forma di gas costituito da due atomi (ossigeno biatomico). Si indica come: O2 (numero CAS: 7782-44-7). Questa sostanza è un importante componente dell'aria, venendo costantemente prodotta nella fotosintesi clorofilliana delle piante dall'acqua e dall'anidride carbonica, ed è necessaria per la respirazione degli esseri viventi.
+La specie O2 viene frequentemente e impropriamente chiamata "ossigeno" per sineddoche; per una nomenclatura univoca non ambigua si possono utilizzare, oltre a ossigeno biatomico, anche i seguenti termini: ossigeno molecolare, ossigeno diatomico e diossigeno.
+L'ossigeno biatomico O2, allo stato liquido e a quello solido, ha colore azzurro ed è altamente paramagnetico. La teoria degli orbitali molecolari ha spiegato il fenomeno del paramagnetismo e ha confermato che il legame è da considerarsi doppio: i due elettroni meno legati in O2 occupano orbitali degeneri di simmetria π ed hanno spin paralleli. Ciò porta ad uno stato fondamentale di tripletto che ha come conseguenza una straordinaria inerzia cinetica nelle reazioni di ossidazione di molecole organiche diamagnetiche perché queste reazioni avvengono senza la conservazione del numero quantico totale di spin.
+
+
+=== Ozono ===
+Un altro allotropo dell'ossigeno è l'ozono (O3), un gas in grado di assorbire notevolmente le radiazioni ultraviolette. Per questa sua proprietà lo strato di ozono presente ad alta quota aiuta a proteggere la biosfera da queste radiazioni. Tuttavia vicino alla superficie terrestre l'ozono, che è un sottoprodotto dello smog, è considerato un inquinante essendo un gas serra.
+
+
+=== Tetraossigeno ===
+Il tetraossigeno è una delle forme allotropiche nelle quali può essere trovato l'ossigeno.
+La molecola del tetraossigeno (O4) era stata teorizzata nel 1924 da Gilbert Lewis, che la propose come una spiegazione al fatto che l'ossigeno liquido non obbedisce alle Legge di Curie. Oggi si è scoperto che Lewis si sbagliava, sebbene non si fosse allontanato molto dalla realtà: le simulazioni al computer mostrano che benché non vi siano molecole stabili di O4 nell'ossigeno liquido, le molecole di O2 tendono ad associarsi in coppie con spin antiparallelo, formando molecole temporaneamente stabili di O4.
+Nel 1999 i ricercatori pensarono che l'ossigeno solido esistesse alla fase-ε come O4, scoprendo solo nel 2006 che in realtà è una forma di ossigeno octamolecolare.
+La struttura del tetraossigeno non è ancora del tutto chiarita. Anche un gruppo di studio della Sapienza Università di Roma ha condotto nel 2001 studi per investigare la struttura dell'O4.
+
+
+== Disponibilità ==
+L'ossigeno è l'elemento più abbondante della crosta terrestre. L'ossigeno forma l'87% degli oceani in quanto componente dell'acqua (H2O) e il 20% dell'atmosfera terrestre come ossigeno molecolare O2 o come ozono O3. I composti di ossigeno, in particolare ossidi metallici, silicati (SiO4−4) e carbonati (CO2−3), si trovano comunemente nelle rocce e nel terreno. L'acqua ghiacciata è un solido comune sui pianeti e le comete. I composti di ossigeno si trovano in tutto l'universo e lo spettro dell'ossigeno è spesso rintracciabile nelle stelle. Di solito l'ossigeno è molto scarso nei pianeti gassosi.
+
+Oltre che nella molecola O2, l'ossigeno si può trovare in natura sotto forma di ozono (O3): esso viene formato da scariche elettrostatiche in presenza di ossigeno molecolare. Un dimero della molecola di ossigeno (O2)2 si trova come componente minore nell'O2 liquido.
+
+
+== Produzione ==
+
+
+=== Preparazione in laboratorio ===
+La preparazione dell'ossigeno biatomico O2 in laboratorio avviene attraverso reazioni endotermiche che coinvolgono composti ossigenati, ad esempio:
+
+  
+    
+      
+        
+          2
+          
+          
+            KClO
+            
+              3
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          KCl
+          +
+          3
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2KClO3 -> 2KCl + 3O2}}}
+  questa reazione ha carattere esplosivo per cui viene condotta a bassa temperatura su catalizzatore a base di biossido di manganese (MnO2).Si ha inoltre produzione di ossigeno biatomico durante il processo di elettrolisi dell'acqua da cui si ottiene anche idrogeno biatomico gassoso H2.
+
+
+=== Preparazione industriale ===
+A livello industriale è possibile ottenere ossigeno biatomico attraverso:
+
+separazione criogenica dell'aria;
+separazione dell'aria per adsorbimento;
+separazione dell'aria per filtrazione a membrana.Il processo di separazione criogenica dell'aria, messa a punto tra il 1901 e il 1910 dall'ingegnere tedesco Carl von Linde, prevede la distillazione frazionata dell'aria liquida che è costituita principalmente da azoto molecolare N2 e ossigeno molecolare O2. Questa operazione unitaria viene svolta intorno a 77,35 K (−195,80 °C), in quanto a questa temperatura l'ossigeno biatomico è liquido mentre l'azoto molecolare è gassoso per cui è possibile separarli.
+
+
+== Composti ==
+A causa della sua elettronegatività l'ossigeno forma legami chimici con quasi tutti gli altri elementi e questa è l'origine della definizione di ossidazione. Gli unici elementi che sfuggono l'ossidazione sono elio, neon e argon.
+
+L'ossigeno si lega in modi diversi a seconda dell'elemento e delle condizioni: crea infatti ossidi, perossidi, superossidi o idrossidi. L'ossido più comune è il monossido di diidrogeno, l'acqua (H2O). Altri esempi includono i composti di carbonio e ossigeno quali: il biossido di carbonio (CO2), gli alcoli (R-OH), le aldeidi (R-CHO), e gli acidi carbossilici (R-COOH).
+Anioni ossigenati, quali i clorati (ClO−3), i perclorati (ClO−4), i cromati (CrO2−4), i dicromati (Cr2O2−7), i permanganati (MnO−4) e i nitrati (NO−3), sono forti agenti ossidanti. Molti metalli si legano ad atomi di ossigeno generando vari composti, per esempio il ferro dà luogo all'ossido di ferro(3+) (Fe2O3), comunemente chiamato ruggine.
+
+
+== Applicazioni ==
+L'ossigeno trova un impiego considerevole come ossidante e comburente; solo il fluoro possiede un'elettronegatività superiore.L'ossigeno biatomico O2 è utilizzato in forma liquida come ossidante nella propulsione dei razzi; è essenziale per la respirazione e quindi viene utilizzato in medicina; viene utilizzato come riserva d'aria negli aeroplani o per le ascensioni alpinistiche ad alta quota; è usato nella saldatura e nella produzione di acciaio e metanolo. Per la sua proprietà di rimanere allo stato liquido se mantenuto a una pressione blanda (4 bar), può venire stoccato in grandi quantità in bombole opportunamente predisposte; attraverso un corpo vaporizzante (o riscaldatore), viene poi gassificato per essere immesso in linee di distribuzione in forma gassosa.
+Una delle applicazioni più importanti dell'O2 in ambito terapeutico, ospedaliero e subacqueo è l'ossigenoterapia e l'ossigenoterapia iperbarica, attraverso cui è possibile curare e/o accelerare i processi curativi di una lunga serie di patologie di vario genere oltre a quelle da decompressione tipiche dei palombari e dei sommozzatori. Per pazienti con difficoltà respiratorie si usano maschere speciali ad O2 che ne aumentano la concentrazione nell'aria inspirata. Alla base di queste applicazioni sta il principio secondo cui la trasportabilità dell'O2 nel sangue aumenta con la sua pressione parziale.
+Essendo un farmaco a tutti gli effetti (Dlgs 219/06), da maggio 2010 l'O2 utilizzato in ambito ospedaliero dopo essere stato prodotto per distillazione frazionata viene trattato ulteriormente ed analizzato. Una volta verificate le sue caratteristiche, che devono essere come quelle riportate nella Farmacopea Ufficiale, viene "etichettato" con un numero di lotto come avviene per i farmaci, viene indicata la data di scadenza (nel caso dell'O2 medicinale è 5 anni) e consegnato alle strutture sanitarie attraverso un'operazione di "rilascio del lotto" sotto la completa responsabilità del farmacista dell'azienda che l'ha prodotto. Come farmaco a tutti gli effetti quindi, oltre che a possedere un AIC (Autorizzazione Immissione in Commercio) legata al tipo di confezionamento (bombola, cisterna, ecc.), deve essere somministrato dietro ricetta medica che ne indichi le modalità di somministrazione, la posologia e la durata della terapia.
+Altri utilizzi dell'O2 sono in miscele chiamate "stimolanti respiratori"; queste miscele sono composte principalmente da O2 in fase gassosa (95%) e anidride carbonica (5%), e vengono utilizzate in ambito ospedaliero. Queste miscele hanno la peculiarità di permettere un'espulsione più rapida di molecole dannose dall'organismo, ad esempio nel caso di intossicazioni da monossido di carbonio (CO).
+
+		
+		
+		
+
+
+== Precauzioni ==
+
+
+=== Pericolo di esplosione o combustione ===
+Una forte pressione parziale di O2 può provocare combustioni spontanee, può accelerare le combustioni già in atto e produrre esplosioni se sono presenti buoni combustibili. Questo è vero anche per composti molto ricchi di ossigeno come clorati, perclorati, dicromati, ecc.
+
+
+==== Ossigenocompatibilità ====
+
+Quando si maneggia O2 puro compresso, per evitare il rischio di combustioni o esplosioni, è necessario utilizzare attrezzature cosiddette ossigeno compatibili o pulite per ossigeno, cioè pulite accuratamente da ogni traccia di grassi e olii e in cui l'O2 compresso non entra mai in contatto con materiali combustibili, ad esempio guarnizioni o metalli non compatibili.
+
+
+=== Tossicità ===
+L'ossigeno è un elemento molto instabile e quindi reagisce anche violentemente con gli altri elementi per aumentare la sua stabilità. La compatibilità con la vita in sua presenza è legata alla possibilità di adoperarlo come prezioso e potente reagente (è letteralmente un pozzo di elettroni) senza esserne danneggiati.
+I viventi aerobi hanno strutture metaboliche che ne neutralizzino gli effetti dannosi. Gli effetti dannosi sono chiaramente evidenti invece nei viventi anaerobi che non hanno strutture di protezione fisiologiche e che sono distrutti dall'O2 e che possono sopravvivere solo se dotati di barriere fisiche che ne impediscano il contatto.
+Un'esposizione prolungata all'O2 ad alte pressioni parziali è tossica, dato che supera i livelli di neutralizzazione, e può avere gravi conseguenze a livello polmonare e neurologico a seconda della pressione e del tempo di esposizione. Gli effetti polmonari includono perdita di capacità e danni ai tessuti. Gli effetti neurologici possono comprendere convulsioni, cecità e coma.
+
+
+==== Tossicità dei composti ====
+Composti dell'ossigeno come i perossidi, i superossidi e il suo allotropo ozono sono altamente reattivi e quindi letali per gli organismi.
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Francesco Borgese, Gli elementi della tavola periodica. Rinvenimento, proprietà, usi. Prontuario chimico, fisico, geologico, Roma, CISU, 1993, ISBN 88-7975-077-1.
+ R. Barbucci, A. Sabatini, P. Dapporto, Tavola periodica e proprietà degli elementi, Firenze, Edizioni V. Morelli, 1998 (archiviato dall'url originale il 22 ottobre 2010).
+ Luigi Rolla, Chimica e mineralogia. Per le Scuole superiori, 29ª ed., Dante Alighieri, 1987.
+(EN) Mark J. Kirschner, Ullmann's Encyclopedia of Industrial Chemistry, "Oxygen", 6ª ed., Wiley-VCH, 2002, DOI:10.1002/14356007.a18_329, ISBN 3-527-30385-5.
+
+
+== Voci correlate ==
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni sull'ossigeno
+ Wikizionario contiene il lemma di dizionario «ossigeno»
+ Wikimedia Commons contiene immagini o altri file sull'ossigeno
+
+
+== Collegamenti esterni ==
+
+ Ossigeno, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+(EN) Ossigeno, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ Preparazione dell'ossigeno, su itchiavari.org.

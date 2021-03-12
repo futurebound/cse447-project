@@ -1,0 +1,10 @@
+For alternative betydninger, se Vægt. (Se også artikler, som begynder med Vægt)
+Vægt er af Generalkonferencen for mål og vægt i 1901 blevet fastsat som betegnelse for kraften på et legeme i et gravitationsfelt. Alligevel er »vægt« (som fysisk størrelse) et flertydigt begreb.
+
+I daglig tale bruges det om stofmængder – i situationer hvor fysikere i stedet ville tale om masse. Med denne fortolkning har vægt SI-enheden kilogram.
+I nogle sammenhænge forstås »vægten« af et givet legeme som den kraft gravitationen udøver på det pågældende legeme. Vægt er altså en kraft, og SI-enheden for vægt er således newton, N, (kg·m·s−2).
+Andre igen mener at ovenstående rettelig bør kaldes for tyngdekraften på et legeme, og bruger betegnelsen »vægt« (af et legeme) om den masseangivelse man får, når man vejer legemet på en vægt der er kalibreret til den tyngdeacceleration der hersker ved jordoverfladen. Med denne terminologi gælder, at selv om en måneastronaut har den samme masse på Jorden som på Månen, så er hans/hendes vægt på Månen kun ca. en sjettedel af hvad den er på Jorden, på grund af Månens svagere tyndeacceleration ved overfladen. Og i denne fortolkning får vægt igen SI-enheden kilogram.For legemer her på Jorden er der en nogenlunde konstant sammenhæng mellem masse og vægt: Jordens tyngdeacceleration (g) på ca. 9,82 m/s² vil påvirke et legeme med massen 1 kg med en kraft på 9,82 newton (N). Tyngdeaccelerationen kan dog variere alt efter geografisk placering i forhold til ækvator samt den geologiske sammensætning af jordskorpen.
+
+
+== Sammenligning af vægt ==
+Herunder følger en oversigt over vægten af et legeme på forskellige objekter i vort solsystem, i forhold til vægten på Jorden:

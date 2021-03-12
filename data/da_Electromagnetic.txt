@@ -1,0 +1,728 @@
+Elektromagnetisk stråling (forkortet EMS) kan beskrives som en kombination af oscillerende elektriske og magnetiske felter som, vinkelret på hinanden, udbreder sig gennem rummet med lysets hastighed (lys er et bestemt frekvensområde af elektromagnetisk stråling) og som formidler energi fra et sted til et andet. 
+Generelt klassificeres elektromagnetisk stråling ved sin bølgelængde (her nævnt fra længste til korteste) eller frekvens (fra laveste til højeste) i: radio, mikrobølger, infrarødt lys, synligt lys, ultraviolet lys, røntgen- og gammastråler. Den detaljerede klassifikation er i artiklen: Det elektromagnetiske spektrum.
+Enhver elektrisk ladning som accelereres, udsender elektromagnetisk stråling. Når enhver ikke-ohmsk-afsluttet elektrisk ledning (eller andet ledende objekt som f.eks. en radioantenne) leder vekselstrømsenergi, udstråles elektromagnetisk stråling med samme fase og frekvens som vekselstrømmens.
+
+
+== Energi og impuls ==
+Afhængigt af omstændighederne, kan elektromagnetisk stråling opføre sig som bølger eller som partikler. Som en bølge karakteriseres elektromagnetisk stråling ved en hastighed, amplitude og frekvens (evt. bølgelængde). Når elektromagnetisk stråling betragtes som partikler, også kendt som fotoner, har hver foton en energi, som er relateret til bølgens frekvens og den er givet ved Plancks relation:
+E = hν, hvor 
+
+E er fotonens energi.
+h er Plancks konstant: 6,626 × 10-34 J*s.
+ν er bølgens frekvens.Fotoner besidder også impuls og noget af denne impuls overføres til det objekt, som absorberer eller reflekterer fotonen. Denne effekt søges benyttet i solsejl. Jf. den specielle relativitetsteori gælder der mellem en fotons energi og impuls sammenhængen
+
+  
+    
+      
+        E
+        =
+        p
+        c
+      
+    
+    {\displaystyle E=pc}
+  ,hvor E er fotonens energi, p er impulsen, og konstanten c er lysets hastighed.Alment betyder det, at jo større frekvens (jo kortere bølgelængde) desto mere energi er der i strålingen. Man inddeler derfor stråling i stråling med lav energi, også kaldet ikke-ioniserende stråling, og stråling med høj energi, også kaldet ioniserende stråling. Den ioniserende del af det elektromagnetiske spektrum er højfrekvent ultraviolet lys, røntgen- og gammastråler. 
+
+
+== Udledning af den elektromagnetiske bølge ==
+At lys i virkeligheden kan ses som en elektromagnetisk bølge blev vist teoretisk af James Clerk Maxwell ud fra hans fundamentale love for elektromagnetisme. For at vise at de elektriske 
+  
+    
+      
+        
+          
+            
+              E
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {E}}}
+   og magnetiske 
+  
+    
+      
+        
+          
+            
+              B
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {B}}}
+   felter kan opføre sig som bølger, skal de overholde bølgeligningen givet ved:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        
+          
+            
+              u
+              →
+            
+          
+        
+        =
+        
+          
+            1
+            
+              c
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              
+                
+                  
+                    u
+                    →
+                  
+                
+              
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \nabla ^{2}{\vec {u}}={\frac {1}{c^{2}}}{\frac {\partial ^{2}{\vec {u}}}{\partial t^{2}}}}
+  hvor 
+  
+    
+      
+        
+          
+            
+              u
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {u}}}
+   er bølgens udsving, og 
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \nabla ^{2}}
+   er Laplace-operatoren.
+Hvor der ikke er nogen elektriske ladninger, dvs. i et vakuum, reducerer Maxwells ligninger til:
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          
+            
+              E
+              →
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \nabla \cdot {\vec {E}}=0}
+  
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          
+            
+              B
+              →
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \nabla \cdot {\vec {B}}=0}
+  
+
+  
+    
+      
+        ∇
+        ×
+        
+          
+            
+              E
+              →
+            
+          
+        
+        =
+        −
+        
+          
+            
+              ∂
+              
+                
+                  
+                    B
+                    →
+                  
+                
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \nabla \times {\vec {E}}=-{\frac {\partial {\vec {B}}}{\partial t}}}
+  
+
+  
+    
+      
+        ∇
+        ×
+        
+          
+            
+              B
+              →
+            
+          
+        
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          ε
+          
+            0
+          
+        
+        
+          
+            
+              ∂
+              
+                
+                  
+                    E
+                    →
+                  
+                
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \nabla \times {\vec {B}}=\mu _{0}\varepsilon _{0}{\frac {\partial {\vec {E}}}{\partial t}}}
+  Det kan allerede her ses, at E-feltet og B-feltet opfører sig på samme måde, så hvis en kan opfører sig som en bølge, kan den anden også. For at opnå bølgeligningen tages først rotationen på den tredje ligning:
+
+  
+    
+      
+        ∇
+        ×
+        (
+        ∇
+        ×
+        
+          
+            
+              E
+              →
+            
+          
+        
+        )
+        =
+        −
+        ∇
+        ×
+        
+          
+            
+              ∂
+              
+                
+                  
+                    B
+                    →
+                  
+                
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \nabla \times (\nabla \times {\vec {E}})=-\nabla \times {\frac {\partial {\vec {B}}}{\partial t}}}
+  Rotationen til en rotation giver:
+
+  
+    
+      
+        ∇
+        (
+        ∇
+        ⋅
+        
+          
+            
+              E
+              →
+            
+          
+        
+        )
+        −
+        
+          ∇
+          
+            2
+          
+        
+        
+          
+            
+              E
+              →
+            
+          
+        
+        =
+        −
+        ∇
+        ×
+        
+          
+            
+              ∂
+              
+                
+                  
+                    B
+                    →
+                  
+                
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \nabla (\nabla \cdot {\vec {E}})-\nabla ^{2}{\vec {E}}=-\nabla \times {\frac {\partial {\vec {B}}}{\partial t}}}
+  Da divergensen til E-feltet er lig nul jf. den første ligning, giver dette:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        
+          
+            
+              E
+              →
+            
+          
+        
+        =
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        (
+        ∇
+        ×
+        
+          
+            
+              B
+              →
+            
+          
+        
+        )
+      
+    
+    {\displaystyle \nabla ^{2}{\vec {E}}={\frac {\partial }{\partial t}}(\nabla \times {\vec {B}})}
+  Rotationen til B-feltet er givet ved Maxwells fjerde ligning:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        
+          
+            
+              E
+              →
+            
+          
+        
+        =
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        
+          (
+          
+            
+              μ
+              
+                0
+              
+            
+            
+              ε
+              
+                0
+              
+            
+            
+              
+                
+                  ∂
+                  
+                    
+                      
+                        E
+                        →
+                      
+                    
+                  
+                
+                
+                  ∂
+                  t
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \nabla ^{2}{\vec {E}}={\frac {\partial }{\partial t}}\left(\mu _{0}\varepsilon _{0}{\frac {\partial {\vec {E}}}{\partial t}}\right)}
+  eller
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        
+          
+            
+              E
+              →
+            
+          
+        
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          ε
+          
+            0
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              
+                
+                  
+                    E
+                    →
+                  
+                
+              
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \nabla ^{2}{\vec {E}}=\mu _{0}\varepsilon _{0}{\frac {\partial ^{2}{\vec {E}}}{\partial t^{2}}}}
+  Det elektriske felt kan altså opføre sig som en bølge. Det ses, at bølgens hastighed følgelig må være:
+
+  
+    
+      
+        c
+        =
+        
+          
+            1
+            
+              
+                μ
+                
+                  0
+                
+              
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle c={\frac {1}{\sqrt {\mu _{0}\varepsilon _{0}}}}}
+  Det viser sig, at dette netop er lysets hastighed. Historisk var det en stærk indikation på, at lys er elektromagnetisk stråling.
+Hvis samme fremgangsmåde følges for B-feltet fremkommer en tilsvarende bølgeligning:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        
+          
+            
+              B
+              →
+            
+          
+        
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          ε
+          
+            0
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              
+                
+                  
+                    B
+                    →
+                  
+                
+              
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \nabla ^{2}{\vec {B}}=\mu _{0}\varepsilon _{0}{\frac {\partial ^{2}{\vec {B}}}{\partial t^{2}}}}
+  Energien i en elektromagnetisk bølge bevæger sig i retningen langs med Poynting-vektoren 
+  
+    
+      
+        
+          
+            
+              S
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {S}}}
+  . Den er proportional med krydsproduktet mellem det elektriske felt og magnetfeltet:
+
+  
+    
+      
+        
+          
+            
+              S
+              →
+            
+          
+        
+        =
+        
+          
+            1
+            
+              μ
+              
+                0
+              
+            
+          
+        
+        
+          
+            
+              E
+              →
+            
+          
+        
+        ×
+        
+          
+            
+              B
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {S}}={\frac {1}{\mu _{0}}}{\vec {E}}\times {\vec {B}}}
+  
+
+
+== Fodnoter ==
+
+
+== Se også ==
+Orbitalt impulsmoment (bølge)
+Solenergi
+X-enhed
+Ellipsometri
+
+
+== Eksterne henvisninger ==
+Exploring the electromagnetic spectrums Arkiveret 25. november 2003 hos  Wayback Machine

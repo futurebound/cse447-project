@@ -1,0 +1,173 @@
+Planetoïden, ook wel asteroïden genoemd, zijn stukken materie die zich evenals planeten en dwergplaneten in een baan om de Zon bewegen. In 2018 waren er ruim 750.000 bekend. Verreweg de meeste daarvan hebben banen tussen de planeten Mars en Jupiter, in de zogenaamde planetoïdengordel. De grootste planetoïden hebben diameters van rond de 1000 km, maar de overgrote meerderheid is veel kleiner. Het kleinste gruis is met een telescoop niet waarneembaar, maar komt veelvuldig als vallende sterren op Aarde terecht. De bekende planetoïden zijn van samenstelling ijsachtig, steenachtig, of ijzer- en nikkelhoudend.
+
+
+== Naamgeving ==
+De term 'planetoïde' betekent planeetachtig. In vorige eeuwen was niet bekend wat voor hemellichamen dit waren. Ze werden daarom asteroïde (sterachtig) genoemd, omdat ze net als sterren aan de hemel leken te staan. De term asteroid of asteroide is daardoor in de meeste andere talen nog steeds in gebruik. In Nederlandstalige teksten vindt men dat woord vooral als de tekst vertaald is.
+Op het 26ste congres van de Internationale Astronomische Unie op 24 augustus 2006 is de term klein zonnestelsellichaam ingevoerd, die de meeste hemellichamen omvat die vroeger als planetoïden of kometen aangeduid werden. Hiermee is dus ook het onderscheid tussen deze laatstgenoemde groepen komen te vervallen, omdat dit in de praktijk niet houdbaar bleek.
+Tegelijkertijd werd de term dwergplaneet ingevoerd. Om dwergplaneet genoemd te worden moet het hemellichaam een omloopbaan rond de Zon hebben en zwaar genoeg zijn om door zijn eigen zwaartekracht een ellipsoïde (afgeplatte bolvorm) aangenomen te hebben. Afhankelijk van het soort materiaal gebeurt dit bij diameters van 200 tot 900 km. Pluto (voorheen tot de planeten gerekend) en Ceres (voorheen slechts als planetoïde bekend) werden hierbij ingedeeld.
+Objecten die wel een baan om de Zon beschrijven, maar te klein zijn om door hun eigen zwaartekracht de vorm van een ellipsoïde aan te nemen (rond te worden), zijn dus kleine zonnestelsellichamen.
+
+
+== Eigenschappen ==
+
+
+=== Vorm ===
+
+Enkele planetoïden zijn sinds 1991 door ruimtesondes van dichtbij gefotografeerd: Gaspra, Ida, Eros, Mathilde, Braille, Annefrank en Itokawa. Deze foto's laten zien dat het onregelmatige, aardappelvormige steenklompen zijn, met veel kleine en soms grotere kraters. Ze lijken daarmee erg op sommige manen, zoals de Marsmaan Phobos of de Saturnusmaan Phoebe; waarschijnlijk zijn dat oorspronkelijk ook planetoïden geweest, die later door een planeet werden ingevangen. Ook is er gelijkenis met de rots- en ijsachtige kernen van kometen. Dat planetoïden een grillige vorm hebben, blijkt ook uit het feit dat vele een regelmatig wisselende helderheid hebben: kennelijk zien we door de aswenteling vanop de Aarde afwisselend een heldere of brede, en een donkere of smalle kant.
+In tegenstelling tot planeten of dwergplaneten hebben kleine zonnestelsellichamen geen (afgeplatte) bolvorm. Dat komt doordat ze zo klein en licht zijn. Hoe meer massa een hemellichaam heeft, des te groter de zwaartekracht is aan het oppervlak. Daardoor kunnen uitstulpingen en bergen inzakken door hun eigen gewicht. Een grotere planeet heeft dus lagere bergen. Bij planetoïden is deze kracht meestal veel te gering om invloed te hebben.
+
+
+=== Grootte ===
+Uit de gemiddelde helderheid is de grootte van een planetoïde te berekenen als we het lichtweerkaatsend vermogen (albedo) kennen, maar dat loopt bij planetoïden enorm uiteen: er zijn "zwarte" planetoïden (minder dan 5% weerkaatsing) maar ook heel heldere (50% of meer). Schattingen van de afmetingen van planetoïden zijn daardoor vaak nogal onzeker. Voor een beperkt aantal heeft men de middellijn direct kunnen meten, bijvoorbeeld door middel van een sterbedekking.
+
+Er zijn bovendien voorbij de baan van Neptunus vele tientallen objecten met een middellijn van meer dan 250 km. Van de meeste daarvan is de grootte (en de vorm) alleen bij benadering bekend. Van de grootste objecten, zoals Eris met een middellijn van minimaal 2300 km, is aangetoond dat deze voldoende groot zijn om een evenwichtsvorm (een eventueel afgeplatte bolvorm) te hebben bereikt. Eris is dus een dwergplaneet. Objecten waarvan dat nog onzeker is, zoals Orcus, blijven vooralsnog bekendstaan als planetoïde.
+Het aantal planetoïden neemt sterk af naarmate ze groter worden. Hoewel dit over het algemeen volgens een machtsfunctie verloopt, zijn er 'hobbels' bij 5 km en 100 km, waar meer planetoïden worden aangetroffen dan volgens een logaritmische verdeling kan worden verwacht.
+
+
+=== Massa ===
+
+Het is niet gemakkelijk de massa van een planetoïde te meten; het is hiervoor nodig dat een ander object (een andere planetoïde, een ruimtesonde, of een maantje) zich vrij dicht langs de planetoïde beweegt, zodat men de verstoring van de baan kan meten. Sinds 1993 is gebleken dat tientallen planetoïden een maantje hebben, waardoor het aantal massabepalingen sterk is toegenomen. In veel gevallen blijkt de dichtheid erg gering te zijn, vaak niet veel meer dan 2000 kg/m³. Dat wijst erop dat planetoïden eerder hopen gruis dan massieve lichamen zijn. Dit is waarschijnlijk het gevolg van de relatief frequente onderlinge botsingen in de planetoïdengordel. Een hoop gruis zal bovendien niet zo snel in talloze fragmenten uiteenbarsten als het door een tamelijk groot object getroffen wordt; dit zal dan eerder leiden tot een herschikking van de gruishoop.
+
+
+=== Samenstelling ===
+Bestudering van de planetoïden heeft aan het licht gebracht dat het overgrote deel uit silicaten bestaat (steenmeteorieten) en een klein deel uit ijzer en nikkel (ijzernikkelmeteorieten). Ook zijn er combinaties van beide soorten. Omdat de planetoïden uit bruikbare materialen bestaan is het idee ontstaan uit sommige erts te winnen. Eén zo'n planetoïde  kwam in de aandacht omdat men de grondstof ervan wilde ontginnen, wat leidde tot een discussie over eigendomsrecht.
+
+
+=== Omwentelingstijd ===
+
+Aangezien planetoïden om hun eigen as draaien, kan de lichtweerkaatsing van de planetoïde veranderen tijdens de asomwenteling. Uit zulke periodieke helderheidswisselingen is voor veel planetoïden de omwentelingstijd bepaald; meestal ligt die tussen drie uur en één dag (uitersten zijn 2000 WH10 met 80 seconden, en 1997 AE12 met 68 dagen). Uit de lichtkromme van een planetoïde kan een drie-dimensionaal model ervan afgeleid worden.
+
+
+== Afstand tot de Zon ==
+
+
+=== Omlooptijd ===
+Planetoïden worden in groepen verdeeld op basis van hun gemiddelde afstand tot de Zon (halve lange baanas, symbool a). Dit is equivalent met een indeling naar hun omlooptijd T rond de Zon. De grenzen tussen de groepen worden gelegd bij omlooptijden die een eenvoudige verhouding hebben met die van planeten. (In enkele gevallen is ook de kortste afstand tot de Zon (periheliumafstand q) een indelingscriterium.) Zo ontstaat de volgende indeling:
+
+
+=== Omloopbaan ===
+Planetoïden volgen verschillende omloopbanen en worden ook op basis daarvan onderverdeeld.
+
+Plaats van hun omloopbaan tot de Aarde
+aardscheerders, planetoïden die de baan van de Aarde kruisen of zeer dicht naderen
+deze worden verder onderverdeeld in de Aten-groep, de Apollo-groep en de Amor-groep
+planetoïden die buiten de baan van de Aarde blijven (de meerderheid).
+planetoïden die volledig binnen de baan van de Aarde blijven; hiervan zijn er nog maar twee bekend.
+Plaats van de omloopbaan tot andere planeten
+Marskruisende planetoïden
+Centaurs zijn planetoïden, die grotendeels uit ijs bestaan en om de Zon draaien tussen de banen van Jupiter en Neptunus
+Trojanen zijn planetoïden die zich in de Lagrangepunten L4 en L5 van planeetbanen (met name die van Jupiter) bevinden.Een overzicht van de huidige posities van de planetoïden binnen het zonnestelsel is te vinden op de website van het MPC onder Plot of the Inner Solar System. Deze wordt iedere dag bijgewerkt. Er is een beeld en een animatie voor het binnenste en het buitenste zonnestelsel.
+
+
+=== Gordel tussen Mars en Jupiter ===
+
+De eerste planetoïden werden ontdekt tijdens een zoektocht naar een veronderstelde onbekende planeet tussen Mars en Jupiter. De banen van de nu bekende planetoïden liggen voor 98% in de planetoïdengordel tussen Mars en Jupiter.
+De eerst ontdekte planetoïde, dwergplaneet Ceres, is nu nog steeds het grootst bekende hemellichaam (942 km) in deze gordel. Het totale aantal wordt geschat tussen de 1,1 en 1,9 miljoen met een grootte van meer dan 1 kilometer in doorsnee en miljoenen kleinere.
+Deze planetoïden tussen Mars en Jupiter bevinden zich in een stabiele baan en er is weinig kans dat een ervan ooit de Aarde zal raken.
+
+
+=== Kuipergordel ===
+Ook in de Kuipergordel bevinden zich enorme hoeveelheden materie. De Kuipergordel is een gordel van vele miljarden komeetachtige, uit rots en ijs bestaande objecten, voorbij de baan van de achtste planeet van het zonnestelsel, Neptunus. De gordel bevindt zich tussen de 30 AE en 50 AE afstand van de Zon. Als deze objecten de Zon naderen, gedragen ze zich als een komeet. Het zijn dus feitelijk dezelfde objecten, vandaar de nieuwe officiële naam 'klein zonnestelsellichaam'.
+De grote "Kuipergordel-objecten" worden ook wel aangeduid met de naam plutino's. De grootste van deze objecten die tot nog toe zijn ontdekt, zijn Eris, die waarschijnlijk groter is dan Pluto, en Quaoar, ontdekt in 2002, met een doorsnede van 1280 km, groter dan Ceres en de maan Charon.
+De planetoïden in de Kuipergordel (ook wel KBO's genoemd, Kuiper belt objects) zijn veel minder onderhevig aan de zwaartekracht van de Zon, aangezien deze zwaartekracht met het kwadraat van de afstand afneemt. Hierdoor kan door inwerking van zwaartekracht van andere hemellichamen of door botsen met andere planetoïden hun baan makkelijk verstoord worden, waardoor deze planetoïden de ruimte ingeslingerd worden of richting Zon afwijken. Door de grote massa en dus ook de grote zwaartekracht van Jupiter worden vele planetoïden door deze planeet opgevangen.
+
+
+=== Oortwolk ===
+Op een afstand tussen ongeveer 10.000 en 100.000 AE rond de Zon (0,1–2 lichtjaar) zou zich een bolvormig gebied bevinden vanwaaruit kometen het zonnestelsel binnendringen. Dat gebied wordt de Oortwolk genoemd. Het is mogelijk dat enkele planetoïden, zoals Sedna en 2000 OO67, die een zeer elliptische baan hebben met een grootste afstand tot de Zon van ongeveer 1000 AE, uit dat gebied afkomstig zijn.
+
+
+== Lichtintensiteit en Spectraalklasse ==
+De planetoïden worden ook ingedeeld volgens hun albedo (lichtweerkaatsing) en volgens hun spectrum (kleur). Gemiddeld zijn planetoïden in banen dicht bij de Zon lichter dan planetoïden verder weg. De belangrijkste klassen zijn de C-, S-, M-, E- en R-klasse. Planetoïden die buiten het schema vallen, worden ingedeeld in de U klasse ('Unclassified').
+
+Voor veel kleine planetoïden is nog niet bekend tot welke klasse zij behoren. In zo'n geval wordt aangegeven welke klassen mogelijk zijn. Zo heeft planetoïde (75) Eurydike klasse CMEU. Daarmee wordt aangegeven dat deze planetoïde zou kunnen behoren tot de klasse C, M, E of U.
+De meeste planetoïden zijn van de C-klasse, welke slechts 3 tot 7% van het opvallende zonlicht weerkaatst. Ze zijn waarschijnlijk rijk aan koolstof, en vergelijkbaar met koolstofhoudende meteorieten. Een ondergroep hiervan is de B-klasse.
+De tweede meest voorkomende groep is de S-klasse, die gemiddeld 14% van het opvallende zonlicht weerkaatst. Het oppervlak van deze planetoïden is roodachtig van kleur. De samenstelling van deze planetoïden lijkt veel op die van op Aarde gevonden steen-meteorieten.
+Slechts weinig planetoïden zijn van de M-klasse, die 12% van het licht weerkaatst. Hun samenstelling lijkt op de ijzer- of nikkel-ijzer meteorieten.
+Ook de E-klasse omvat maar weinig planetoïden. Zij kaatsten 35% van het zonlicht terug.
+De zeldzaamste groep is de R-klasse. De belangrijkste kenmerken zijn de rode kleur en de hoge lichtweerkaatsing van 25%, de hoogste lichtweerkaatsing na de E-klasse.
+
+
+== Oorsprong ==
+Aanvankelijk kende men alleen de planetoïden van de planetoïdengordel tussen Mars en Jupiter, waar men een planeet verwachtte. Deze planetoïden werden dan ook gezien als de restanten van een vroegere planeet die door een natuurramp uit elkaar gespat was. De totale massa van de planetoïden is echter slechts voldoende voor een lichaam met een diameter van de helft van die van de Maan. Later vond men planetoïden die dicht langs de Aarde kwamen, zodat het idee ontstond dat ze ontstaan waren door een inslag op de Maan.
+Volgens de huidige inzichten bestaan de meeste planetoïden uit materiaal dat sinds de vorming van het zonnestelsel niet heeft bijgedragen tot de vorming van een planeet vanwege de storende invloed van de aantrekkingskracht van de andere planeten. Andere planetoïden kunnen ingevangen zijn tijdens het passeren van het zonnestelsel. Door bepaalde kenmerken van planetoïden, zoals het vlak waarin hun baan zich bevindt, denkt men te kunnen vaststellen of een planetoïde oorspronkelijk van het zonnestelsel is, of ingevangen is uit een ander zonnestelsel.
+
+
+== Observaties ==
+
+
+=== Zoektocht ===
+
+De wet van Titius-Bode was de aanleiding om op zoek te gaan naar een planeet tussen Mars en Jupiter. Het is een wiskundige formule opgesteld aan de hand van de waargenomen plaatsen van de planeten zonder wetenschappelijk basis. Op basis van deze aanname zette Franz Xaver von Zach in 1800 een van de eerste internationale wetenschappelijke onderzoeksprogramma's op het getouw, dat bekend is geworden onder de naam Celestial Police. Men zocht naar een kleine planeet, anders was die planeet reeds lang ontdekt. Men ontdekte echter niet één planeet tussen Mars en Jupiter, maar verschillende planetoïden.
+
+Op 1 januari 1801 ontdekte de sterrenkundige Giuseppe Piazzi in Palermo de eerste planetoïde in het sterrenbeeld Stier: (1) Ceres. Men dacht de gezochte planeet gevonden te hebben.
+In 1802 ontdekte Heinrich Olbers in het sterrenbeeld Maagd onverwacht de tweede planetoïde: (2) Pallas. Men ging toen op zoek naar nog meer planetoïden.
+Op 1 september 1804 werd in het sterrenbeeld Vissen de derde planetoïde gevonden: (3) Juno.
+Op 28 maart 1807 ontdekte Olbers de vierde planetoïde: (4) Vesta. Daarna duurde het tot 1845 voor de volgende planetoïde gevonden werd.Daarna ging het echter vlug:
+
+1900: 450 planetoïden gevonden
+september 1980: 2289
+december 1989: 4295
+eind 1995: 29 000
+eind 2000: 108 000
+eind 2005: reeds van 305 000 planetoïden is de baan bekend.Tegenwoordig is de zoektocht naar planetoïden weer actueel door het gevaar van planetoïden die met de Aarde zouden kunnen botsen. LINEAR, NEAT, Spacewatch en andere zoekprojecten houden zich continu bezig met het volgen en catalogiseren van de planetoïden. Het aantal geobserveerde planetoïden per observator wordt bijgehouden: zie externe link "Ontdekkers van planetoïden". Meer dan de helft, 47.899 van de 90.154 (22 nov. 2004) zijn gevonden door het LINEAR-project. Iedereen mag meewerken aan het zoeken naar nieuwe planetoïden, mits hij over de nodige apparatuur beschikt en de opgelegde regels volgt. Een nieuwe observatie moet minimum twee nachten gedurende 30 minuten gebeuren.
+In 2010 maakten de Verenigde Staten bekend ernaar te streven een bemande vlucht met terugkeer naar de Aarde te maken naar een planetoïde in 2025.
+
+
+=== Aantal ===
+Volgens de maandelijks bijgewerkte gegevens van het Minor Planet Center van de IAU (zie externe links) was de stand van zaken op 25 januari 2005 als volgt :
+
+Er waren 27.193.909 observaties van planetoïden en kometen (dat wil zeggen, precieze metingen van de positie aan de hemel; hiervan zijn een 10.000-tal dubbel geteld.)
+Hiervan waren 26.929.248 planetoïden (de rest betreft kometen), waarvan 18.923.021 genummerde en 8.006.227 niet genummerde planetoïden.
+Voor 264.447 planetoïden was de baan bepaald. Hiervan waren er 96.154 planetoïden die een nummer gekregen hadden, 103.053 die bij meerdere opposities zijn waargenomen (M-Opp) en 65.240 planetoïden met een één-oppositiebaan (1-Opp).
+Slechts 12.065 van deze 264.447 planetoïden hebben reeds een naam gekregen.Het aantal planetoïden in het zonnestelsel is niet constant:
+
+planetoïden kunnen uit elkaar spatten door inslag van een andere planetoïde en veel nieuwe kleinere planetoïden vormen.
+door inslag van andere planetoïden kan de baan van de planetoïde veranderd worden, weg uit het zonnestelsel.
+door inwerking van een ander planetenstelsel kunnen planetoïden uit het zonnestelsel gerukt worden.
+planetoïden kunnen inslaan op planeten of verbranden tijdens het indringen van een atmosfeer.
+
+
+== Inslaggevaar ==
+Sommige planetoïden komen sterk in de aandacht omdat ze dicht langs de Aarde voorbijkomen, of verbranden in de atmosfeer. De vrees voor een catastrofe door het botsen van een grote planetoïde met de Aarde houdt de aandacht gericht op de planetoïden. De aandacht voor het risico op inslagen, is vooral te danken aan het werk van Eugene Shoemaker, die in 1960 aantoonde dat inslagen van meteorieten een grote rol hebben gespeeld bij de vorming van kraters op de Aarde, de Maan en andere planeten.
+
+
+=== Inslag van een planetoïde op de Aarde ===
+Het massaal uitsterven van diersoorten 65 miljoen jaar geleden wordt toegeschreven aan de inslag van een middelgrote planetoïde. De eerstvolgende planetoïde die een mogelijke dreiging vormt, is waarschijnlijk Apophis die op 13 april 2036 de Aarde zal bereiken, en een kans van 1 op 45.000 heeft om de Aarde daadwerkelijk te raken. Vooral de ex-astronaut Rusty Schweickart heeft aangedrongen op een VN-commissie die de dreiging van planetoïden onder de loep moet nemen en tot eventuele maatregelen moet besluiten, zoals het sturen van een ruimtemissie om de planetoïde uit zijn baan te brengen.
+In oktober 2008 werd vanuit de Verenigde Staten voor het eerst een vermoedelijke "inslag" van een slechts kort tevoren ontdekte, de Aarde naderende kleine planetoïde gemeld. Het betrof het object genaamd 2008 TC3, vermoedelijk met de omvang van niet meer dan een personenauto, die boven noordelijk Soedan in de atmosfeer zou exploderen met een kinetische energie-equivalent van 1.000 of 2.000 ton TNT.
+De melding had betrekking op een planetoïde die de voorgaande nacht ontdekt was door Richard Kowalski en anderen op een observatorium in Arizona. Peter Brown, een meteoor-onderzoeker aan de Universiteit van West Ontario in Canada, meldde dat de explosie geregistreerd was door een ultrageluid-sensor van het International Monitoring System dat dient voor de detectie van kernwapenexlosies. Op beelden van de ESA-weersatelliet zou de gebeurtenis ook waargenomen zijn. Zdenek Charvat van het Tsjechisch Hydrometeorologisch Instituut ontdekte als eerste de flits op de Meteosat-opnamen.
+
+
+=== Risicofactoren ===
+De kans op en de gevolgen van een inslag van een planetoïde worden bepaald door het aantal planetoïden met een baan die in de buurt van de aardbaan komt, de snelheid van de planetoïden en hun massa (dus hun kinetische energie), hun samenstelling (makkelijker of minder makkelijk verbrandbaar tijdens hun tocht in de atmosfeer) en hun grootte (al of niet volledig verbrand tijdens hun tocht door de atmosfeer). Het risico (inslagkans maal mogelijke gevolgen) van een mogelijke inslag wordt uitgedrukt in de schaal van Torino. Een zware inslag kan niet alleen grote plaatselijke schade veroorzaken, maar zelfs het milieu totaal veranderen, bijvoorbeeld door grootschalige bosbranden en effecten door de enorme stofuitstoot in de atmosfeer. Dit laatste kan een inslagwinter tot gevolg hebben.
+
+Aardscheerders. Een aparte lijst van planetoïden die de Aarde dicht naderen gedurende de eerste 33 jaar is beschikbaar op de website van het MPC. Zie hiervoor ook het artikel aardscheerder. Van 1995 tot 2002 werden gedurende acht jaar optische flitsen waargenomen door satellieten, welke afkomstig zijn van planetoïden van 50-100 meter die in de atmosfeer ontploffen. Men schat nu dat de Aarde eenmaal per jaar geraakt wordt door een planetoïde die een energie doet vrijkomen van 5 kiloton TNT. Planetoïden, zoals die van de inslag in Tunguska die 2000 vierkante kilometer van het Siberisch woud met de grond gelijk maakte in 1908, en die een energie van 10 megaton TNT liet vrijkomen, hebben een frequentie van eenmaal in de duizend jaar. Vroegere observaties van op de Aarde gaven een frequentie van eenmaal in de 300 jaar.
+De snelheid. Het gevaar van de planetoïden is niet in de eerste plaats de grootte, maar wel de snelheid waarmee ze de Aarde kunnen bereiken, namelijk tot meer dan 20 km/s. Door de enorme kinetische energie, evenredig met de snelheid in het kwadraat, kunnen ze een grote krater slaan, waarbij grote hoeveelheden stof, gruis en gesmolten materiaal de atmosfeer in worden geworpen. Indien de inslag in zee is, bestaat het risico van vernietigende Tsunami's .
+De samenstelling en de grootte van de planetoïden. Sommige materialen fragmenteren en verbranden erg makkelijk bij het binnendringen van de atmosfeer. IJzerrijke planetoïden fragmenteren minder makkelijk in de atmosfeer en zullen eerder op de Aarde neerslaan. Afhankelijk van de grootte en de samenstelling kan de planetoïde uit elkaar spatten vooraleer ze de grond bereikt, waardoor het rampgebied veel groter kan worden indien het op lagere hoogte gebeurt.
+
+
+=== Bescherming ===
+De eerste bescherming is natuurlijk het gevaar op voorhand onderkennen. Daarom wordt een inventaris gemaakt van zo veel mogelijk planetoïden. Veel planetoïden kaatsen echter te weinig licht terug en worden zeer laat of niet ontdekt. Verder zou het kunnen dat een planetoïde steeds de kleinste zijde naar de Aarde toekeert, waardoor ontdekken moeilijker is en de grootte van de planetoïde sterk onderschat wordt.
+
+Indien een grote planetoïde op tijd ontdekt wordt kan overwogen worden deze te verbrijzelen met een atoomwapen. Dit wapen zou de planetoïde echter in veel kleinere stukken kunnen verdelen, waardoor het rampgebied veel groter zou worden. Bovendien zouden de brokstukken radio-actief worden.
+Door het atoomwapen op een afstand van de planetoïde te laten ontploffen zou door de druk de baan van de planetoïde afgebogen kunnen worden. Voor een planetoïde met een zeer poreuze structuur zou die baancorrectie echter bijna nihil zijn.
+Een derde mogelijkheid is een groot 'vergrootglas' op de meteoor te richten. Door een gebundelde zonnestraal op de planetoïde te richten gedurende verschillende jaren zou de planetoïde voldoende van zijn baan kunnen afwijken, zodat deze de Aarde op een veilige afstand passeert. Zulk een principe wordt reeds gebruikt in de ruimte voor het bundelen van radiogolven. Dit moet echter nog uitgewerkt worden voor bundeling van de zonnestralen. Tevens moet de planetoïde dan vele jaren op voorhand ontdekt zijn.
+
+
+=== Geen inslag van een planetoïde op Mars ===
+Eind december 2007 werd uitgekeken naar een mogelijke inslag van een planetoïde, 2007 WD5, op Mars. De planetoïde werd pas in november 2007 ontdekt en zou mogelijk op 30 januari 2008 inslaan op Mars. Het zou de eerste inslag van een planetoïde zijn op een planeet die waargenomen wordt, aangezien tot nu toe alleen een inslag van een komeet is waargenomen; in de jaren 90 werd de inslag van restanten van Shoemaker-Levy 9 op Jupiter waargenomen. Op 11 januari 2008 berichtte NASA echter dat er geen inslag zou plaatsvinden.
+
+
+== Zie ook ==
+Lijst van Belgische planetoïden
+Lijst van Nederlandse planetoïden
+Lijst van planetoïden
+Lijst van planetoïden in de baan van de Aarde
+Lijst van planetoïden in de baan van Mercurius
+Lijst van planetoïden in de baan van Mars
+Lijst van planetoïden in de baan van Venus
+Naamgeving van planetoïden
+Uitgedoofde komeet
+
+
+== Externe links ==
+Minor Planet Center van de IAU (de gezaghebbende instantie als het over planetoïden gaat)

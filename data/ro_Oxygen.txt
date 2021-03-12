@@ -1,0 +1,367 @@
+Oxigenul este un element chimic cu simbolul O și numărul atomic 8. Face parte din grupa calcogenilor și este un element nemetalic foarte reactiv și un agent oxidant care formează foarte ușor compuși (în special oxizi) cu majoritatea elementelor. După masă, oxigenul este al treilea cel mai întâlnit element în univers, după hidrogen și heliu. În condiții normale de temperatură și presiune, doi atomi de oxigen se leagă pentru a forma dioxigenul, o moleculă diatomică incoloră, inodoră și insipidă, cu formula O2.
+Multe clase majore de molecule organice în organismele vii, cum ar fi proteinele, acizii nucleici, carbohidrații, și grăsimile, conțin aer, la fel ca și cei mai importanți compuși organici, care fac parte din cochiliile, dinții și oasele animalelor. Majoritatea masei organismelor vii o reprezintă oxigenul deoarece face parte din apă, principala componentă a formelor de viață (spre exemplu, aproape 2/3 din masa corpului uman). Oxigenul elementar e produs de cianobacterii, alge și plante, fiind folosit în respirația celulară în toate formele complexe de viață. Oxigenul e toxic pentru organismele anaerobe obligate, care erau forma dominantă de viață timpurie pe Pământ până când O2-ul a început să se acumuleze în atmosferă. O2-ul liber elementar a început să se adune în atmosferă acum circa 2,5 miliarde de ani, la aproximativ un miliard de ani de la prima apariție a acestor organisme. Dioxigenul constituie 20,8% din volumul de aer. Oxigenul este cel mai abundent element după masă în scoarța Pământului, făcând parte din compuși de oxizi ca dioxidul de siliciu, reprezentând aproape jumătate din masa scoarței terestre.Oxigenul reprezintă o parte importantă din atmosferă, și e necesar la susținerea majorității vieții terestre, fiind folosit în respirație. Totuși, e prea reactiv chimic pentru a rămâne un element liber în atmosfera Pământului fără a ne fi reaprovizionat continuu de fotosinteza din plante, care folosesc energia luminii Soarelui pentru a produce oxigen elementar din apă. Altă formă (alotrop) a oxigenului, ozonul (O3), absoarbe radiațiile UVB și, consecvent, stratul de ozon de la mare altitudine ajută la protejarea biosferei de radiațiile ultraviolete, dar e un poluant lângă suprafață unde este un produs secundar al smogului. La altitudini chiar mai mari, oxigenul atomic are o prezență ridicată și e o cauză pentru eroziunea rachetelor spațiale. Oxigenul e produs industrial prin distilația fracțională a aerului lichefiat, folosirea zeoliților cu adsorbția la presiune variabilă pentru a concentra oxigenul din aer, electroliza apei și alte metode. Întrebuințările oxigenului elementar includ producția oțelului, plasticului și textilelor, lipirea, sudarea și tăierea oțelurilor și altor metale, propulsoare de rachete, terapia cu oxigen și sisteme de susținere a vieții în aeronave, submarine, zborul spațial și scufundare.Oxigenul a fost descoperit independent de Carl Wilhelm Scheele, în Uppsala, în anul 1773 sau mai devreme, și de Joseph Priestley în Wiltshire, în anul 1774, dar lui Priestley i se acordă mereu prioritate deoarece munca sa a fost publicată prima. Numele oxigen a fost inventat în 1777 de către Antoine Lavoisier, ale cărui experimente cu oxigenul au contribuit la discreditarea - atunci populară - teoriei flogisticului a combustiei și coroziunii.Numele lui derivă de la rădăcinile greci ὀξύς oxys, „acid”, literal „ascuțit”, referindu-se la gustul acru al acizilor, și -γενής -genes, „producător”, literal „născător”, deoarece la vremea denumirii, se credea, greșit, că toți acizii aveau nevoie de oxigen în compoziția lor.
+
+
+== Istoric ==
+
+
+=== Experimente timpurii ===
+
+Primele experimente cunoscute despre relația dintre ardere și aer a fost realizat de către Filon din Bizanț, un scriitor din domeniul mecanicii din Grecia Antică, secolul al II-lea î.Hr.. În lucrarea sa, Pneumatica, Filon a observat că inversarea unui vas deasupra unei lumânări aprinse și înconjurarea gâtului vasului cu apă a avut ca efect ridicarea apei. Filon a presupus incorect că părți din aerul din vas s-au transformat în elementul clasic foc și astfel a putut ieși prin porii vasului. Multe secole mai târziu, Leonardo da Vinci s-a bazat pe munca lui Filon, observând faptul că părți din aer sunt consumate în timpul combustiei și respirației.La sfârșitul secolului al XVII-lea, Robert Boyle a arătat că este nevoie de aer pentru ardere. Chimistul englez John Mayow (1641–1679) a îmbunătățit munca sa prin demonstrarea faptului că focul are nevoie doar de o parte din aer, pe care a numit-o spiritus nitroaereus sau simplu nitroaereus.
+Într-un experiment, el a aflat că dacă plasa ori un șoarece sau o lumânare aprinsă într-un recipient închis peste apă, se ridica apa și înlocuia o paisprezecime din volumul aerului înainte ca aceasta să se stingă.
+Plecând de aici, el a presupus că nitroaereus este consumat atât în respirație, cât și în ardere.
+Mayow a observat că stibiul crește în greutate dacă este încălzit, și a dedus că nitroaereus s-ar fi combinat cu metalul. El de asemenea s-a gândit că plămânii separă nitroaereus din aer și îl trece în sânge și că mișcarea și căldura animalelor este rezultatul unei reacții dintre nitroaereus și diverse substanțe din corp. Evidențe ale acestora și ale altor experimente au fost publicate în 1688 în lucrarea sa, Tractatus duo, din broșura „De respiratione”.
+
+
+=== Teoria flogisticului ===
+
+Robert Hooke, Ole Borch, Mikhail Lomonosov și Pierre Bayen au produs oxigen în urma experimentelor în timpul secolelor XVII și XVIII, dar niciunul nu l-a recunoscut ca fiind un element chimic. Aceasta a fost în parte din cauza răspândirii unei filozofii a combustiei și coroziunii denumită teoria flogisticului, teorie care era explicația favorită pentru aceste procese.
+Stabilită în 1667 de către alchimistul german J. J. Becher, și modificată de chimistul Georg Ernst Stahl la 1731, teoria flogisticului afirma faptul că toate materialele combustibile erau alcătuite din două părți. O parte, denumită flogistic, era eliberată când substanța care îl conținea era arsă, iar partea deflogisticată se credea că era forma sa adevărată, sau calx.Se credea despre materialele foarte combustibile care lasă puțin reziduu, cum ar fi lemnul sau cărbunele, că sunt făcute în majoritate din flogistic, în timp ce substanțele necombustibile care se corodează, cum ar fi fierul, conțineau foarte puțin. Aerul nu a avut un rol în teoria flogisticului, și nici nu s-au efectuat experimente cantitative inițiale pentru a testa idea; în schimb, teoria era bazată pe observațiile referitoare la ce se întâmplă când ceva arde, pe faptul că majoritatea obiectelor comune par să devină mai luminoase și să piardă ceva în timpul procesului.
+
+
+=== Descoperire ===
+
+Oxigenul a fost descoperit pentru prima dată de către farmacistul suedez Carl Wilhelm Scheele. El a produs oxigen gazos prin încălzirea oxidului mercuric și a diverșilor azotați prin anul 1772. Scheele a denumit gazul „aer de foc” (engleză fire air), deoarece era singurul lucru care putea întreține arderea, și a scris despre descoperirea sa într-un manuscris intitulat Tratat despre Aer și Foc (engleză Treatise on Air and Fire), pe care l-a trimis editorului său în 1775. Totuși, acel document nu a fost publicat până în anul 1777.
+
+Între timp, pe 1 august 1774, clericul britanic Joseph Priestley a focalizat un fascicul de lumină solară pe o eprubetă cu oxid mercuric (HgO), astfel eliberând un gaz pe care el l-a denumit „aer deflogisticat”. El a observat faptul că lumânările ard mai bine când sunt expuse acelui gaz, iar că șoarecii sunt mai activi și trăiesc mai mult în timp ce îl respiră. După ce însăși el a respirat gazul, a notat: „Senzația cauzată de gaz în plămânii mei nu era senzitiv diferită față de cea a aerului normal, dar am realizat că pieptul meu era deosebit de ușor după ceva vreme.”  Priestley și-a publicat descoperirile în 1775 într-o lucrare intitulată „An Account of Further Discoveries in Air”, care a fost inclusă în al doilea volum al cărții sale, Experiments and Observations on Different Kinds of Air. Deoarece Priestley a publicat primul, el este cel considerat ca fiind descoperitorul.
+Cunoscutul chimist francez Antoine Laurent Lavoisier a spus că ar fi descoperit noua substanță independent. Totuși, Priestley l-a vizitat pe Lavoisier în octombrie 1774 și i-a povestit despre experimentul său și cum a produs noul gaz. De asemenea, Scheele i-a trimis o scrisoare lui Lavoisier pe 30 septembrie 1774, în care descria propria descoperire a substanței anterior necunoscute, însă Lavoisier nu a recunoscut niciodată că ar fi primit-o (o copie a scrisorii a fost găsită printre lucrurile lui Scheele, după moartea sa).
+
+
+=== Contribuția lui Lavoisier ===
+Ceea ce Lavoisier a făcut incontestabil (deși la vremea aceea era disputat) a fost realizarea primelor experimente cantitative adecvate cu privire la oxidare și elaborarea unei explicații corecte referitoare la modul în care funcționează arderea.
+
+Într-un experiment, Lavoisier a observat că nu era nicio creștere în greutate când staniul metalic și aerul au fost încălzite într-un recipient închis. El a notat faptul că aerul a intrat când a deschis recipientul, ceea ce indica faptul că o parte de aer rămas înăuntru a fost consumat. De asemenea a realizat că staniul a crescut în greutate și că aceea creștere măsura la fel cu masa aerului care a intrat. Acestea și alte experimente referitoare la ardere au fost documentate în cartea sa, Sur la combustion en général, care a fost publicată în 1777. În această lucrare, el demonstrează că aerul este un amestec de două gaze: aer vital, care este esențial pentru ardere și respirație, și azote (ἄζωτον „fără viață”), care nu le întreține deloc. Termenul azote a devenit mai târziu azot în română (nitrogen în engleză), și a fost preluat în diferite limbi europene.Lavoisier a redenumit aerul vital în oxygène în 1777, denumire care provine din termenii greci ὀξύς (oxys) (acid, literal „ascuțit”, de la gustul acizilor) și -γενής (-genēs) (producător, literal „născător”), deoarece a crezut eronat că oxigenul este constituent al tuturor acizilor. Chimiștii (în special Sir Humphry Davy în 1812) au determinat în cele din urmă că Lavoisier greșise în această privință (de fapt hidrogenul este cel care stă la baza formării acizilor), dar era deja prea târziu; denumirea fusese preluată.
+
+
+=== Evenimente recente ===
+
+Ipoteza atomică originală a lui John Dalton afirma faptul că toate elementele chimice erau monoatomice și că atomii din compuși ar fi avut în mod normal cele mai simple rapoarte atomice. De exemplu, Dalton a crezut că formula chimică a apei era HO, prezentând masa atomică a oxigenului ca fiind de opt ori cea a hidrogenului, în contrast cu valoarea modernă de aproximativ 16. În 1805, Joseph Louis Gay-Lussac și Alexander von Humboldt au arătat că apa este formată din două volume de hidrogen și unul de oxigen, iar în 1811 Amedeo Avogadro a dat interpretarea corectă a compoziției apei, bazându-se pe ceea ce acum se numește legea lui Avogadro și pe ipoteza moleculelor diatomice elementale.Pe la sfârșitul secolului al XIX-lea, oamenii de știință au realizat faptul că aerul poate fi lichefiat, iar componentele sale izolate, prin compresie și răcire. Folosind o metodă de cascadă, chimistul și farmacistul elvețian Raoul Pierre Pictet a evaporat dioxid de sulf lichid pentru a lichefia dioxidul de carbon, care în parte a fost evaporat pentru a răci oxigenul gazos suficient pentru a putea fi lichefiat. El a trimis pe 22 decembrie 1877 o telegramă către Academia Franceză de Științe din Paris, anunțând descoperirea oxigenului lichid. Doar două zile mai târziu, fizicianul francez Louis Paul Cailletet a anunțat propria sa metodă de a lichefia oxigenul molecular. Doar câteva picături au fost produse în ambele cazuri, așadar nu au putut fi derulate analize semnificative. Oxigenul a fost lichefiat în formă stabilă, pentru prima dată, pe 29 martie 1883, de către savații polonezi de la Universitatea Jagiellonă, Zygmunt Wróblewski și Karol Olszewski.În 1891, chimistul scoțian James Dewar a reușit să producă suficient oxigen lichid pentru a fi studiat. Primul proces pentru producerea oxigenului lichid, viabil din punct de vedere comercial, a fost dezvoltat independent de inginerul german Carl von Linde, în 1895, și de inginerul britanic William Hampson. Ambii au micșorat temperatura aerului până s-a lichefiat, apoi au distilat componenții gașozi prin fierberea lor pe rând, iar apoi i-au cules. Mai târziu, în 1901, a fost prezentată pentru prima dată sudura oxiacetilenă prin arderea unui amestec de acetilenă și oxigen comprimat. Această metodă de sudură și tăiere a metalelor a devenit mai târziu comună, iar astăzi aparatul folosit pentru acest proces este cunoscut sub denumirea de suflător oxiacetilenic.În 1923, savantul american Robert H. Goddard a devenit prima persoană care a dezvoltat un motor de rachetă care folosea combustibil lichid; motorul utiliza benzină pe post de combustibil și oxigen lichid pe post de oxidant.  Pe 16 martie 1926, Goddard a reușit cu succes să facă o mică rachetă să zboare 56 m cu 97 km/h, în Auburn, Massachusetts, SUA.
+
+
+== Structură atomică ==
+
+În condiții normale de temperatură și presiune, oxigenul este un gaz incolor, inodor și insipid cu formula moleculară O2, în cadrul căreia doi atomi de oxigen sunt legați chimic unul de altul printr-o configurație electronică cu triplet de spini. Această legătură este de ordinul doi, și este adesea simplificată în descriere ca o legătură dublă sau ca o combinație dintre o legătură a doi electroni și două legături a trei electroni.Oxigenul triplet (a nu fi confundat cu ozonul, O3) este starea fundamentală a moleculei de O2. Configurația electronică a moleculei are doi electroni nepereche care ocupă doi orbitali moleculari degenerați.  Acești orbitali sunt clasificați ca orbitali de antilegătură (micșorând ordinul de legătură de la trei la doi), astfel că legătura oxigenului diatomic este mai slabă decât legătura tripă a azotului diatomic, în care toți orbitalii de legătură moleculară sunt sunt complet ocupați, însă unii orbitali de antilegătură nu sunt.
+
+În forma sa normală de triplet, O2, moleculele sunt paramagnetice. Mai pe larg, ei formează un magnet în prezența unui câmp magnetic, din cauza momentului magnetic al spinului electronilor nepereche din moleculă, și a interacțiunii de schimb negativ dintre moleculele de O2 vecine. Oxigenul lichid este atras de un magnet într-o așa măsură încât, în demonstrațiile de laborator, un firicel de oxigen lichid poate rezista împotriva propriei greutăți între polii unui magnet puternic.Oxigen singlet este numele dat unor specii variate de O2 de energie majoră, în cadrul cărora toți spinii electronici sunt pereche. Este mult mai reactiv față de moleculele organice decât oxigenul molecular în sine. În natură, oxigenul singlet se formează de obicei din apă în timpul fotosintezei, utilizându-se energia solară. De asemenea, este produs și în troposferă prin fotoliza ozonului realizată de lumină de lungimi de undă scurte, și de către sistemul imunitar, ca sursă de oxigen activ. În organismele fotosintetice -și posibil și în animale-, carotenoidele joacă un rol major în absorbția energiei de la oxigenul singlet și în conversia sa în starea fundamentală înainte să poată cauza posibile daune în țesuturi.
+
+
+== Izotopi ==
+
+Oxigenul care este răspândit în natură este compus din trei izotopi stabili: 16O, 17O, și 18O, 16O fiind cel mai abundent (99,762% abundență naturală). Majoritatea 16O este sintetizat la finalul procesului de fuziune a heliului în cadrul unei stele masive, dar o altă parte se produce prin procesul de ardere al neonului. 17O apare în mod fundamental prin arderea hidrogenului în heliu în timpul ciclului CNO, astfel devenind un izotop comun în zonele de ardere a hidrogenului din stele. La rândul său, majoritatea 18O este produs când 14N (abundent datorită arderi CNO) capturează un nucleu de 4He, cauzând o abundență a izotopului 18O în zonele bogate în heliu din stelele masive, evoluate.Au fost caracterizați paisprezece radioizotopi, dintre care cei mai stabili sunt 15O, cu un timp de înjumătățire de 122,24 secunde și 14O cu un timp de înjumătățire de 70,606 secunde. Toți ceilalți izotopi radioactivi au timpi de înjumătățire mai mici de 27 de secunde, iar majoritatea acestora au timpi de înjumătățire mai mici de 83 de milisecunde. Forma cea mai comună de dezintegrare a izotopilor mai ușori decât 16O este dezintegrarea β+ pentru a produce azot, și cea mai comună formă pentru izotopii mai grei ca 18O este dezintegrarea beta pentru a produce fluor.
+
+
+== Proprietăți - fizice si chimice ==
+
+
+=== Proprietăți fizice ===
+Oxigenul e un gaz incolor, inodor si insipid. El e putin solubil in apa, dar e mai solubil în apă decât azotul. Apa în echilibru cu aerul conține aproximativ o moleculă de O2 dizolvat pentru fiecare 2 molecule de N2, comparat cu un raport atmosferic de 1:4. Solubilitatea oxigenului în apă depinde de temperatură, și de 2 ori mai mult (14.6 mg·L−1) se dizolvă la 0 °C decât la 20 °C (7.6 mg·L−1). La 25 °C și o atmosferă standard (101,3 kPa), apa dulce conține circa 6,04 mililitri de oxigen pe litru, pe când apa de mare conține circa 4,95 ml pe litru. La 5 °C, solubilitatea crește la 9 ml (cu 50% mai mult decât la 25 °C) pe litru și 7,2 ml (cu 45% mai mult) pe litru în apa sărată.
+Oxigenul se condensează la 90,2 K (-182,95 °C, -297,31 °F), și îngheață la 54, 36 k (-218,79 °C, -361,82 °F). Și oxigenul lichid, și cel solid sunt substanțe limpezi de culoare albastru-deschis cauzată de absorbția în roșu (în contrast cu culoarea albastră a cerului, care e cauzată de împrăștierea Rayleigh a luminii albastre). O2 lichid foarte pur e obținut de obicei cu ajutorul distilației fracționale a aerului lichefiat. Oxigenul lichid poate fi produs, de asemenea, prin condensarea acestuia din aer, folosind azot lichid ca răcitor. E o substanță foarte reactivă și trebuie ținută departe de materialele flamabile.
+
+
+=== Proprietăți chimice ===
+
+
+== Compuși - organici , anorganici ==
+
+Numărul de oxidare al oxigenului este −2 în aproape toți compușii cunoscuți ai acestuia. Numărul de oxidare −1 este găsit în puțini compuși, cum ar fi peroxizii. Compușii ce conțin oxigen având alte numere de oxidare sunt foarte rari: −1/2 (superoxizi), −1/3 (ozonuri), 0 (alotropi ai oxigenului, acid hipofluoros), +1/2 (dioxigenil), +1 ([difluorid de dioxigen), și +2 (difluorid de oxigen).
+
+
+=== Oxizi și alți compuși anorganici ===
+Apa (H2O) este oxidul de hidrogen și cel mai familiar compus al oxigenului. Atomii de hidrogen sunt legați covalent de oxigen în cadrul unei molecule de apă, dar au de asemenea și o atracție adițională (aproximativ 23,3 kJ/mol1 per atom de hidrogen) față de un atom de oxigen adiacent din altă moleculă. Aceste legături de hidrogen dintre moleculele de apă le ține cu aproximativ 15% mai aproape decât ar fi fost de așteptat în cazul unui lichid simplu, în cadrul căruia se exercită doar forțe van der Waals.
+
+Datorită electronegativității sale, oxigenul formează legături chimice cu aproape toate celelalte elemente la temperaturi ridicate, dând oxizii corespunzători. Totuși, unele elemente formează ușor oxizi în condiții normale de temperatură și presiune; un exemplu concludent este ruginirea fierului. Suprafețele metalelor ca aluminiu și titan sunt oxidate în prezența aerului și devin în timp acoperite cu o peliculă fină de oxid, care protejează metalul și încetinește coroziunea. Unii dintre oxizii metalelor tranziționale sunt răspândiți în natură sub forma unor compuși nestoichiometrici, cu o cantitate de metal puțin mai mică decât formula chimică ar exprima. De exemplu, oxidul de fier (FeO) natural, cunoscut și ca wüstit, are formula Fe1 − xO, unde x este de obicei în jur de 0,05.Oxigenul ca și compus este prezent în atmosferă în cantități importante sub formă  de dioxid de carbon (CO2). Scoarța terestră este compusă în mare parte din oxizi de siliciu (cuarțul SiO2, găsit în granit și nisip), aluminiu (oxid de aluminiu Al2O3, în bauxită și corindon), fier (oxid de fier (III)) Fe2O3, în hematit și rugină), și carbonat de calciu (în calcar). Restul scoarței este de asemenea alcătuită din compuși ai oxigenului, în particular silicați complecși (minerale silicate). Mantaua Pământului, de masă mult mai mare decât scoarța, este în mare parte compusă din silicați de magneziu și fier.
+Silicații solubili în apă, de forma Na4SiO4, Na2SiO3, și Na2Si2O5, sunt folosiți ca detergenți și adezivi.
+
+
+=== Compuși organici și biomolecule ===
+
+Printre cele mai importante clase de compuși organici care conțin oxigen se numără  („R” reprezintă radicalul organic): Alcooli (R-OH); eteri (R-O-R); cetone (R-CO-R); aldehide (R-CO-H); acizi carboxilici (R-COOH); esteri (R-COO-R); anhidride acide (R-CO-O-CO-R); și amide (R-C(O)-NR2). Sunt mulți solvenți organici importanți care conțin oxigen, printre care: acetona, metanolul, etanolul, izopropanolul, furanul, THF-ul, eterul dietilic, dioxanul, acetatul de etil, DMF-ul, DMSO-ul, acidul acetic și acidul formic. Acetona ((CH3)2CO) și fenolul (C6H5OH) sunt utilizați ca materiale aditive la sinteza diferitelor substanțe. Alți compuși organici importanți care conțin oxigen sunt: glicerol, formaldehidă, glutaraldehidă, acid citric, anhidridă acetică, și acetamidă. Epoxizii sunt eteri în care atomul de oxigen face parte dintr-un nucleu de trei atomi.Oxigenul reacționează spontan cu mulți compuși organici la sau dedesubtul temperaturii ambientale, într-un proces cunoscut sub denumirea de autoxidare. Majoritatea compușilor organici care conțin oxigen nu sunt obținuți prin acțiunea directă a O2. Printre compușii organici importanți în industrie și comerț care sunt fabricați prin oxidarea directă a unui precursor se numără oxidul de etilenă și acidul paracetic.Acest element este întâlnit în aproape toate biomoleculele care sunt importante pentru (sau sunt produse de) organisme vii. Doar câteva biomolecule complexe comune, cum ar fi scualena și carotenii, nu conțin oxigen. Dintre toți compușii organici importanți din punct de vedere biologic, glucidele conțin cea mai mare proporție de oxigen după masă. Toate grăsimile, acizii grași, aminoacizii și proteinele conțin oxigen (datorită prezenței grupei carbonil din acești acizi și resturilor de ester). Oxigenul de asemenea se găsește în grupele fosfat (PO3−4) care fac parte dintr-o moleculele foarte importante din punct de vedere energetic, numite adenozintrifosfat (sau ATP) și adenozindifosfat (sau ADP), din bazele azotate purinice (excepție face adenina) și pirimidinice ale ARN-ului și ADN-ului, și în oase sun formă de fosfat de calciu și hidroxilapatit.
+
+
+== Răspândire ==
+Oxigenul este cel mai abundent element chimic, după masă, în biosfera, atmosfera, hidrosfera și litosfera Pământului. Oxigenul este al treilea cel mai răspândit element chimic din univers, după hidrogen și heliu. Aproximativ 0,9% din masa Soarelui este oxigen , element care constituie 49,2% din masa scoarței terestre, și este și componentul major al oceanelor planetare (88,8% din masa lor). Oxigenul gazos este al doilea cel mai răspândit component din atmosfera Pământului, deoarece reprezintă 20,8% din volumul său și 23,1% din masa sa (câteva 1015 tone). Pământul este o excepție printre planetele din Sistemul Solar, având o astfel de concentrație ridicată de oxigen gazos în atmosfera sa; de exemplu, Marte (cu 0,1% O2 din volum) și Venus au concentrații mult mai mici. Totuși, O2 din jurul acestor planete este produs exclusiv prin reacția suferită de moleculele care conțin oxigen -cum ar fi dioxidul de carbon-, în urma impactului radiațiilor ultraviolete.
+Concentrația neobișnuită de oxigen gazos de pe Pământ este rezultatul ciclului oxigenului. Acest ciclu biogeochimic descrie circulația oxigenului în cadrul și între cele trei mai rezerve ale planetei Pământ: atmosfera, biosfera și litosfera. Factorul de mișcare cel mai important în acest ciclu este fotosinteza, care este responsabilă pentru atmosfera modernă a Pământului. Fotosinteza eliberează oxigenului înapoi în atmosferă, în timp ce procese ca respirația sau descompunerea îl elimină. În echilibrul actual, într-un an producția și consumul are loc într-un raport aproximat la 1/2000 din totalitatea oxigenului atmosferic.
+
+Oxigenul necombinat de asemenea este răspândit în soluție în masele de apă prezente pe Pământ. Solubilitatea mare al O2 la temperaturi scăzute (vezi Proprietăți fizice) are implicații importante pentru viața marină, din moment ce oceanele polare suportă o densitate de viață mult mai mare datorită conținutului lor superior de oxigen. Apele poluate cu nutrienți proveniți de la plante, cum ar fi nitrații sau fosfații, pot stimula creșterea algelor printr-un proces numit eutrofizare, și descompunerea acestor organisme și a altor biomateriale poate reduce cantitățile de oxigen din apele eutrofe. Oamenii de știință evaluează acest aspect al calității apelor prin măsurarea cererii biochimice de oxigen, sau cantitatea de O2 care este necesară pentru a se restabili o concentrație normală.
+
+
+=== Alotropie ===
+
+Alotropul cel mai comun al oxigenului elemental se numește dioxigen O2, și are o lungime a legăturii de 121 pm și o energie de legătură de 498 kJ·mol−1. Aceasta este forma care este utilizată de forme de viață complexe, cum ar fi animalele, în respirația celulară (vezi și rolul biologic) și este forma care are o mare importanță în atmosfera Pământului (vezi răspândire).În atmosfera terestră înaltă la peste 180 km este prezent oxigenul atomic.
+Trioxigenul (O3) este cunoscut de obicei sub denumirea de ozon și este un alotrop al oxigenului foarte reactiv, dăunător pentru țesutul pulmonar. Ozonul este produs în atmosfera superioară când O2 se combină cu oxigenul atomic format prin diviziunea O2 din cauza radiațiilor ultraviolete (UV). Din moment ce ozonul este un puternic absorbant în regiunea ultravioletă a spectrului electromagnetic, stratul de ozon al atmosferei superioare funcționează ca un scut protector pentru radiațiile care sunt primite de planetă. Totuși, în apropiere de suprafața terestră, este un poluant puternic, format ca produs secundar al gazelor de eșapament. Molecula metastabilă de tetraoxigen (O4)  fost descoperită în 2001, și se presupunea că ar exista în una dintre cele șase faze ale oxigenului solid. S-a demonstrat în anul 2006 că această fază, creată prin presurizarea dioxigenului la 20 GPa, este de fapt un cluster O8 aparținând sistemului de cristalizare trigonal. Acest cluster are un potențial de agent oxidant mult mai mare decât O2 sau O3, și prin urmare ar putea fi utilizat ca și combustibil pentru rachete. În 1990 a fost descoperită o fază metalică a oxigenului solid, când acesta a fost supus unei presiuni mai mari de 96 GPa și în 1998 s-a demonstrat că în condiții de temperatură foarte scăzută, devine un superconductor.
+
+
+=== Analiză ===
+
+Paleoclimatologii măsoară relația dintre oxigenul-18 și oxigenul-16 în cadrul scheletelor și exoscheletelor organismelor marine, pentru a determina cum era clima acum câteva milioane de ani. Moleculele de apă de mare care conțin izotopul mai ușor, oxigen-16, se evaporă într-un ritm puțin mai rapid decât moleculele care conțin izotopul cu 12% mai greu, oxigen-18; această discrepanță crește la temperaturi mai scăzute. În timpul perioadelor cu temperaturi globale scăzute, ninsoarea și ploaia formate din acele ape evaporate tind să fie mai bogate în oxigen-16, iar apa marină rămasă tinde să fie mai bogată în oxigen-18. Organismele marine, prin urmare, incorporează mai mult oxigen-18 în scheletele și exoscheletele lor decât ar trebi să fie într-un climat mai cald. De asemenea, paleoclimatologii măsoară direct această relație în moleculele de apă din mostrele de nuclee de gheață conservate în timpul mai multor sute de mii de ani.
+Geologii planetari au măsurat diferenețele dintre abundanța izotopilor de oxigen din mostre provenite de pe Pământ, Lună, Marte și meteoriți, însă pentru mult timp nu au putut obține valori de referință pentru relațiile dintre izotopii prezenți în Soare, despre care se crede că sunt la fel cu cei din nebuloasa protosolară. Totuși, analiza mostrelor de siliciu expuse vântului solar din spațiu și reajunse pe Pământ prin intermediul sondei Genesis au arătat că Soarele are o proporție mai mare de oxigen-16 decât Pământul. Măsurarea implică faptul că un proces necunoscut a epuizat oxigenul-16 din discul protoplanetar al Soarelui, anterior fuzionării granulelor de praf care au format Pământul.Oxigenul prezintă două benzi de abosrbție spectrofotometrice, cu maximele de lungime de undă de 687 și respectiv 760 nanometri. Unii oameni de știință din domeniul teledetecției au propus utilizarea măsurătorii a strălucirii venite de la foliajul vegetației în acele benzi pentru a caracteriza starea de sănătate a unei plante de pe o platformă de satelit.
+
+
+== Producere ==
+
+
+=== Preparare în laborator ===
+Oxigenul este produs cu ajutorul peroxidului de sodiu sau peroxidului de hidrogen. Când H2O2 este picurat deasupra apei, se formează apă și oxigen:2H2O2 -> 2H2O + O2În mod similar, când apa este picurată pe Na2O2, se eliberează oxigen.
+
+
+=== Producere la scară industrială ===
+Două metode primare sunt folosite pentru a produce 100 de milioane de tone de O2 extras din aer, pentru întrebuințări industriale, anual. Cea mai folosită metodă este distilarea fracțională a aerului lichefiat în componenții săi variați, cu N2 distilându-se în vapori, iar O2 rămânând lichid.
+
+Cealaltă metodă principală de producere a O2-ului constă în trecerea unui curent de aer curat și uscat printr-un pat de site moleculare zeolitice perechi, identice, care absorb azotul și dau drumul unui curent de gaz care e între 90 și 93% O2. Simultan, azotul e eliberat din celălalt pat cu zeoliți saturați în azot, prin reducerea presiunii din cameră și direcționând o parte din oxigen prin el, în direcția inversă curgerii. După un timp presetat pentru ciclu, operațiile celor 2 paturi sunt schimbate între ele, astfel permițând ca o cantitate continuă de oxigen să fie pompat printr-o conductă. Acest proces e cunoscut sub numele de adsorbție la presiune variabilă. Oxigenul, într-o cantitate din ce în ce mai mare, este obținut de aceste tehnologii non-criogenice.Oxigenul poate fi, de asemenea, produs prin electroliza apei în oxigen și hidrogen molecular. Curentul continuu trebuie folosit: dacă curentul alternativ e pus în practică, gazele în fiecare parte constau în hidrogen și oxigen, în explozivul raport de 2:1. Contrar credinței populare, raportul de 2:1 observat în electroliza apei acidificate folosind curentul continuu nu verifică că formula empirică a apei e H2O, dacă anumite presupuneri despre formulele moleculare ale hidrogenului și oxigenului nu sunt făcute. O metodă similară este evoluția electrocatalitică a O2-ului din oxizi și oxoacizi. Catalizatori chimici pot fi, de asemena, folosiți, cum ar fi în generatorii chimici de oxigen sau în lumânările cu oxigen, care sunt folosite ca părți din echipamentul de susținere a vieții în submarine, și încă fac parte din echipamentul standard în avioanele comerciale în caz de depresurizare. Altă tehnologie de separare a aerului implică forțarea aerului să se dizolve prin membrane ceramice bazate pe dioxid de zirconiu, ori prin presiuni foarte ridicate ori un curent electric, pentru a produce oxigen aproape pur.În cantități mari, prețul oxigenului lichid în 2001 a fost aproximativ 0,21 $/kg. Deoarece principalul cost al producției este prețul energiei pentru lichefierea aerului, costul producției se va schimba după variațiile prețului energiei.
+Din motive economice, oxigenul este transportat cel mai des ca lichid în cisterne special izolate, deoarece un litru de oxigen lichefiat este echivalentul a 840 de litri de oxigen gazos, la presiunea atmosferei și 20 °C (68 °F). Astfel de cisterne sunt folosite pentru a reaproviziona majoritatea containerelor de depozitare, care se află în afara spitalelor și altor instituții care au nevoie de cantități mari de oxigen pur. Oxigenul e, de asemenea, depozitat și transportat în cilindri mai mici conținând gaz comprimat; o formă care e folositoare în anumite dispozitive medicale portabile și sudarea sau tăierea oxiacetilenică.
+
+
+== Utilizare ==
+
+
+=== Medicină ===
+
+Asimilarea de O2 din aer este scopul fundamental al respirației, ceea ce înseamnă că suplimentarea de oxigen e folosită în medicină. Tratamentul nu doar crește nivelul de oxigen în sângele pacienților, dar are și efectul secundar de a reduce rezistența față de cursul de sânge în multe tipuri de boli ale plămânilor, ușurând munca inimii. Terapia cu oxigen este folosită la tratarea emfizemelor, pneumoniei, unor boli cardiace (insuficiență cardiacă congestivă), unor tulburări care cauzează o presiune arterială pulmonară ridicată, și orice boală care scade eficiența corpului în asimilarea și folosirea oxigenului.Tratamentele sunt destul de practice încât să fie folosite în spitale, la domiciliile pacienților, sau, dintr-un număr din ce în ce mai mare, prin aparate mobile. Corturile de oxigen erau des folosite în terapia cu oxigen, dar acum au fost înlocuite de măștile de oxigen și de canulele nazale.Oxigenoterapia hiperbară folosește camere de oxigen speciale pentru a crește presiunea parțială a oxigenului a pacientului, sau, în caz de nevoie, a personalului medical. Intoxicarea cu monoxid de carbon, gangrena gazoasă și răul de decompresie sunt, uneori, tratate folosind aceste dispozitive. O concentrație ridicată de O2 în plămâni ajută la despărțirea monoxidului de carbon de grupul hemic al hemoglobinei. Oxigenul este otrăvitor pentru bacteriile anaerobe care cauzează gangrenele gazoase, deci creșterea presiunii sale parțiale ajută la eliminarea acestora. Răul de decompresie are loc în scafandrii care se decompresează prea repede după o scufundare, rezultând în bule de gaz inert, cel mai des constituind în azot și heliu, formându-se în sângele lor. Mărirea presiunii oxigenului cât de repede se poate face parte din tratament.Oxigenul e, de asemenea, folosit în scop medical pentru pacienții care necesită ventilație mecanică, de obicei la concentrații mai mare decât cea de 21% din aerul ambiental.
+
+
+=== Susținerea vieții și uz în scopuri recreative ===
+
+O aplicație notabilă a O2, sub forma unui gaz de respirat la o presiune scăzută, e folosirea lui în costumele spațiale moderne, care înconjoară corpul ocupantului lor cu aer presurizat. Aceste dispozitive folosesc oxigen aproape pur la o presiune de circa 3 ori mai mică decât cea normală, astfel presiunea parțială a oxigenului în sânge rămânând normală. Acest compromis în schimbarea unei concentrații mai mari de oxigen pentru o presiune mai scăzută e necesar pentru ca costumele spațiale să fie flexibile.
+Scafandrii și submarinele se bazează, de asemenea, pe O2 furnizat artificial, dar în majoritatea timpului folosesc o presiune normală, și/sau amestecuri de oxigen și aer. Folosirea O2-ului pur sau aproape pur în scufundările deasupra nivelului mării e de obicei limitat la recirculatoare, decompresie sau la tratamentul de urgență la adâncimi relativ mici (circa 6 metri adâncime, sau mai puțin). Scufundarea la adâncimi mai mari necesită o diluare semnificativă a O2-ului cu alte gaze, cum ar fi azotul sau heliul, pentru a preveni hiperoxia.Alpiniștii sau oamenii care zboară în avioane cu aripă fixă nepresurizate au uneori rezerve de O2 suplimentar. Pasagerii ce călătoresc în avioane comerciale (presurizate) au o rezervă de urgență de O2 automat furnizată în caz de depresurizare. Pierderi de presiune subite activează generatoare chimice de oxigen de deasupra fiecărui scaun, cauzând măștile de oxigen să coboare. Punerea măștilor „pentru a începe fluxul de oxigen” precum instrucțiunile de siguranță spun, forțează fierul să intre în cloratul de sodiu dinăuntrul recipientului. Un curs stabil de oxigen e produs ulterior de reacția exotermică.
+Oxigenul, ca un euforic ușor, are o istorie legată de uzul recreațional în baruri de oxigen și sporturi. Barurile de oxigen sunt clădiri, găsite în Japonia, California, Las Vegas, Nevada încă de la sfârșitul anilor 1990 care oferă o expunere la O2 mai ridicată decât normal, pentru un tarif. Atleții profesioniști, în special în fotbalul american, ies de pe teren uneori între reprize și poartă măști de oxigen pentru a primi un „impuls” în performanță. Efectul farmacologic e îndoielnic; un efect placebo e o explicație mai probabilă. Studiile disponibile susțin un impuls în performanță de la amestecuri îmbogățite de O2 doar dacă ele sunt respirate în timpul exercițiilor aerobe.Alte uzuri recreaționale car nu implică respirarea gazului includ aplicațiile pirotehnice, cum ar fi metoda lui George Goble de aprindere în 5 secunde a grătarelor.
+
+
+=== Industrie ===
+
+Topirea minereului de fier în oțel consumă 55% din oxigenul produs industrial. În acest proces, O2-ul e injectat printr-o „lance” cu presiune ridicată în fierul topit, care îndepărtează impuritățile de sulf și carbonul în exces, precum și respectivii oxizi SO2 și CO2. Reacțiile sunt exotermice, deci temperatura ajunge la 1.700 °C.Alt 25% din oxigenul produs comercial e folosit în industria chimică. Etena reacționează cu O2 pentru a crea oxid de etenă, care e convertită în glicol de etenă; un material indispensabil în producerea multor produse, cu ar fi antigelul și polimerii de poliester (precursorii multor plastice și țesături).Cea mai mare parte din restul de 20% din oxigenul produs comercial e folosit în scopuri medicale, sudare și tăiere, ca oxidant în combustibilul de rachete, și în tratamentul cu apă. Oxigenul e folosit în sudarea oxiacetilenică, arderea acetilenei cu O2 pentru a produce o flacără foarte fierbinte. În acest proces, metalul cu o grosime de până la 60 de cm e încălzit, prima dată, cu o flacără oxiacetilenică mică și apoi tăiat rapid cu un jet mare de O2.uti
+
+
+== Rolul elementului în biologie ==
+
+
+=== Fotosinteză și respirație ===
+
+În natură, oxigenul e produs de descompunerea fotochimică apei în timpul fotosintezei oxigenice. După unele estimări, algele verzi și cianobacteriile din mediile marine produc aproximativ 70% din oxigenul de pe Pământ, restul fiind eliberat de plantele terestre. Alte estimări despre contribuția oceanelor la crearea oxigenului atmosferic sunt mai ridicate, pe când altele sunt mai scăzute, sugerând că oceanele produc circa 45% din oxigenul din atmosfera Pământului, anual.O formulă simplificată și cuprinzătoare pentru fotosinteză este:
+
+  
+    
+      
+        6
+        C
+        
+          O
+          
+            2
+          
+        
+        
+        +
+        
+        6
+        
+          H
+          
+            2
+          
+        
+        O
+      
+    
+    {\displaystyle 6CO_{2}\,+\,6H_{2}O}
+   + fotoni → 
+  
+    
+      
+        
+          C
+          
+            6
+          
+        
+        
+          H
+          
+            12
+          
+        
+        
+          O
+          
+            6
+          
+        
+        
+        +
+        
+        6
+        
+          O
+          
+            2
+          
+        
+      
+    
+    {\displaystyle C_{6}H_{12}O_{6}\,+\,6O_{2}}
+  sau, mai simplu
+
+dioxid de carbon + apă + lumină → glucoză + dioxigenEvoluția fotolitică a oxigenului are loc în membranele tilacoide ale organismelor fotosintetice, având nevoie de energia a 4 fotoni. Mulți pași sunt necesari, dar rezultatul este formarea unui gradient de protoni de-a lungul membranei tilacoide, care e folosit la sintetizarea ATP-ului prin fotofosforilație. O2-ul rămas după oxidarea moleculei de apă este eliberat în atmosferă.Dioxigenul molecular, O2, e esențial pentru respirația celulară în toate organismele aerobe. Oxigenul e folosit în mitocondrii pentru a facilita generarea de adenozintrifosfat (ATP) în timpul fosforilației oxidative. Reacția respirației aerobe este inversa fotosintezei și este simplificată astfel:
+
+  
+    
+      
+        
+          C
+          
+            6
+          
+        
+        
+          H
+          
+            12
+          
+        
+        
+          O
+          
+            6
+          
+        
+        
+        +
+        
+        6
+        
+          O
+          
+            2
+          
+        
+      
+    
+    {\displaystyle C_{6}H_{12}O_{6}\,+\,6O_{2}}
+   → 
+  
+    
+      
+        6
+        C
+        
+          O
+          
+            2
+          
+        
+        
+        +
+        
+        6
+        
+          H
+          
+            2
+          
+        
+        O
+        
+        +
+        
+        2880
+        
+        k
+        J
+        
+        ∗
+        
+        m
+        o
+        
+          l
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle 6CO_{2}\,+\,6H_{2}O\,+\,2880\,kJ\,*\,mol^{-1}}
+  În vertebrate, O2 se propagă prin membrane în plămâni iar apoi în celulele roșii. Hemoglobina se atașează de O2, schimbându-și culoarea din roșu albăstrui în roșu deschis (CO2 e eliberat din altă parte a hemoglobinei prin efectul Bohr). Alte animale folosesc hemocianină (moluștele și unele artropode) sau hemeritrină (păianjenii și homarii). Un litru de sânge poate dizolva 200 cm3 de O2.Tipuri de oxigen reactiv, cum ar fi ionul superoxid (O−2) și peroxidul de hidrogen (H2O2), sunt produse secundare nocive ale folosirii oxigenului în organism. Părți din sistemul imunitar din organisme superioare, totuși, creează peroxid, superoxid și singleturi de oxigen pentru a distruge microbii invadatori. Tipurile de oxigen reactiv joacă, de asemenea, un rol important în răspunsul hipersenzitiv al plantelor împotriva atacurilor patogene.Un adult uman în repaus inhalează de la 1,8 până la 2,4 grame de oxigen pe minut. Aceasta duce la inhalarea de 6 miliarde de tone de oxigen anual, de către omenire.
+
+
+=== Conținutul în corp ===
+Presiunea parțială a oxigenului liber în corpul unei vertebrate în viață este cea mai ridicată în sistemul respirator, iar apoi scade de-a lungul oricărui sistem de artere, țesuturi periferice și sistem de vene, respectiv. Presiunea parțială e presiunea pe care oxigenul ar fi avut-o dacă ar fi ocupat volumul respectiv, singur.
+
+
+=== Construcția atmosferei ===
+
+Oxigenul liber a fost aproape de negăsit în atmosfera Pământului înainte ca archaea și bacteriile fotosintetice să evolueze, probabil cu 3,5 miliarde de ani în urmă. Oxigenul liber a apărut în cantități considerabile în timpul paleoproterozoic-ului  (acum 3 - 2,3 miliarde de ani). Pentru primele miliarde de ani, orice oxigen liber produs de aceste organisme se combina cu fierul dizolvat în oceane, pentru a forma formațiuni de fier. Când asemenea „puțuri” de oxigen s-au umplut, oxigenul liber a început să se răspândească în atmosferă, acum 3 - 2,7 miliarde de ani, ajungând la 10% din nivelul actual.Prezența cantităților mari de oxigen dizolvat și liber în oceane și atmosferă ar fi putut duce majoritatea organismelor anaerobe în viață de atunci la extincție în timpul Marelui Eveniment de Oxigenare (catastrofa oxigenului), acum circa 2, 4 miliarde de ani. Totuși, respirația celulară folosind O2 permite organismelor aerobe să producă mai mult ATP decât cele anaerobe, facilitându-le să domine biosfera terestră. Respirația celulară a O2 e prezentă în toate eucariotele, incluzând toate organismele multicelulare complexe ca plantele și animalele.
+De la începutul perioadei cambriene acum 540 de milioane de ani, nivelele de O2 au fluctuat în volum între 15% și 30%. Către sfârșitul perioadei carbonifere (în urmă cu aproximativ 300 de milioane de ani) nivelele atmosferice de O2, după volum, au ajuns la un maxim de 35%, care ar fi putut contribui la marea cantitate de insecte și amfibieni la acel timp. Activitățile umane, incluzând arderea a 7 miliarde de tone de combustibil fosil anual au avut un efect foarte mic asupra cantității de oxigen liber în atmosferă. În ritmul curent al fotosintezei, ar fi nevoie de 2000 de ani pentru a regenera tot O2-ul prezent în atmosferă.
+
+
+== Măsuri de protecție chimică ==
+Standard-urile NFPA 704 declară oxigenul comprimat ca fiind deloc primejdios pentru sănătate, inflamabil și nonreactiv, dar ca fiind un oxidant. Oxigenului lichid refrigerat i se acordă un grad de pericol pentru sănătate de 3 (pentru riscul crescut de hiperoxie de la vapori condensați, și pentru pericole comune lichidelor criogenice precum degerăturile), celelalte evaluări fiind identice cu cele de la forma de gaz comprimat.
+
+
+=== Toxicitate ===
+
+Oxigenul poate fi toxic la presiuni parțiale ridicate, cauzând convulsii și alte probleme de sănătate. Hiperoxia apare de obicei la presiuni parțiale mai mari de 50 kPa, fiind aceeași cu o compoziție de 50% a oxigenului la o presiune standard sau de 2,5 ori presiunea parțială a oxigenului la nivelul mării de circa 21 kPa. Aceasta nu e problemă decât pentru pacienții ce folosesc ventilatoare mecanice, precum aerul primit prin măștile de oxigen e, de obicei, compus din doar 30% - 50% O2 în volum (la aproximativ 30 kPa, presiunea standard) - deși acest lucru poate varia, depinzând pe tipul de mască folosit.Odată, copiii născuți prematur erau puși în incubatoare ce conțineau aer bogat în O2, dar această practică a fost oprită după ce unii bebeluși erau orbiți de cantitatea prea ridicată de oxigen.Respirarea oxigenului pur pentru aplicații spațiale, cum ar fi în costumele spațiale moderne, sau în rachetele spațiale timpurii ca Apollo, nu cauzează probleme din cauza presiunii scăzute folosite. În cazul costumelor spațiale, presiunea parțială a O2-ului e, de obicei, circa 30 kPa (de 1,4 ori mai mare decât în mod normal), iar presiunea parțială rezultată a O2-ului în sângele arterial al astronautului e doar cu puțin mai mare decât presiunea parțială a oxigenului la nivelul mării.
+Hiperoxia plămânilor și a sistemului nervos central poate apărea și în scufundările foarte adânci și în scufundarea cu alimentare de la suprafață. Respirația prelungită a unui amestec de aer cu o presiune parțială a O2-ului mai mare de 60 kPa poate duce la fibroză pulmonară permanentă. Expunerea la presiuni parțiale ale oxigenului mai mari de 160 kPa (circa 1,6 atmosfere) poate duce la convulsii (de obicei letale pentru scafandrii). Hiperoxia acută (cauzând crize epileptice, cele mai de temut pentru scafandrii) poate apărea prin respirarea unui amestec de aer cu 21% oxigen la o adâncime de 66 de metri sau mai mare; același lucru se poate întâmpla prin respirarea a 100% O2 la 6 metri adâncime.
+
+
+=== Combustia și alte pericole ===
+
+Surse cu o concentrație ridicată de oxigen încurajează combustia rapidă. Focul și exploziile se întâmplă când oxidanți concentrați și combustibili sunt aduși în proximitate; totuși, igniția, cum ar fi căldura sau o scânteie, e necesară pentru a declanșa arderea. Oxigenul însuși nu e combustibilul, ci oxidantul. Pericolele legate de combustie se aplică de asemenea compușilor oxigenului cu un potențial de oxidație foarte mare, cum ar fi peroxizii, clorații, nitrații, perclorații și dicromații deoarece ei pot dona oxigen unui foc.
+O2 concentrat va permite combustiei să performe rapid și energetic. Conductele de oțel și vasele de stocare folosite la depozitarea și transmiterea oxigenului lichid și gazos vor funcționa ca combustibil; ceea ce înseamnă că design-ul și fabricarea sistemelor de O2 necesită pregătire specială pentru a asigura că sursele de igniție sunt minimizate. Focul care a ucis echipajul Apollo 1 într-un test de lansare s-a împrăștiat așa de repede pentru că capsula era presurizată cu O2 pur, dar la o presiune puțin mai ridicată decât cea atmosferică, în loc de o treime din presiunea normală care ar fi folosită într-o misiune.Scurgeri de oxigen lichid, dacă se îmbibează în materii organice, cum ar fi lemnul, petrochemicele sau asfaltul, pot face ca aceste materiale să se detoneze impredictibil în cazul unui impact mecanic ulterior. Ca și cu alte lichide criogenice, contactul cu corpul uman poate duce la degerături ale pielii și ochilor.
+
+
+== Note de subsol ==
+
+
+== Note ==
+
+
+== Vezi și ==
+Hidrogen
+Calcogen
+Teoria flogisticului
+Oxid
+Ardere
+Respirație
+Fotosinteză
+
+
+== Legături externe ==
+  Materiale media legate de oxigen la Wikimedia Commons
+
+Oxygen pe In Our Time la BBC. (ascultă acum)ro Oxigenul pe sistemul-periodic.go.ro
+ro Circuitul oxigenului, secretul Pămăntului, 4 octombrie 2007, Delia Zahareanu, Jurnalul Național
+en Video despre oxigen de la The Periodic Table of Videos (University of Nottingham)
+en Agenți oxidanți > Oxigenul
+en Oxigenul (O2) Properități, utilizări, aplicații
+en Roald Hoffmann; articol despre „The Story of O”
+en WebElements.com – Oxigenul
+en Podcast despre chimie (MP3) de la Chemistry World, a Royal Society of Chemistry: Oxigenul
+en Scripps Institute: Oxigenul atmosferic a tot scăzut timp de 20 de ani
+
+
+== Bibliografie ==
+
+
+=== Română ===
+Constantin D. Albu, Maria Brezeanu:Mică enciclopedie de chimie, Editura enciclopedică română, București, 1974, pag. 359-360
+Raluca Ripan, I. Ceteanu: Manual de lucrări practice de chimie anorganică, Editura de Stat Didactică și Pedagogică, București, 1961, pag. 160-201. Conține informații despre istorie, răspândire, preparare, purificare, și proprietăți ale oxigenului
+Chimie generală, Editura Didactică și Pedagogică, București, 1967; despre apă: pag. 324-355; substanțe organice: pag. 311-318
+N.L. Glinka: Chimie generală, ediția a II-a (traducere după ediția a VIII-a rusă), Editura Tehnică, București, 1958; despre oxigen: pag. 285-287; despre compușii oxigenului: pag. 289-293
+Costin Nenițescu: Chimie generală, Editura Didactică și Pedagogică, București; pe larg despre hidrogen și oxigen: pag. 606-657
+Rodica Constantinescu, Marilena Râpă: Chimie - manual pentru clasa a VIII-a, Editura Sigma, 2000, pag. 16-23, ISBN 973-8068-02-9
+Sanda Fătu, Felicia Stroe: Chimie - manual pentru clasa a VIII-a, Editura Corint, 2008, pag. 10-14, ISBN 978-973-135-296-1
+Elena Alexandrescu, Emilia Meiroșu: Chimie - manual pentru clasa a IX-a, Editura LVS Crepuscul, 2004, pag.74-82, ISBN 973-8265-26-6
+Constantin Teodorescu, Demostene Ionescu, Florin Zăgănescu, Sateliți artificiali la sfârșit de mileniu, Editura Științifică și Enciclopedică, București, 1988
+
+
+=== Străină ===
+Holleman-Wiberg: Lehrbuch der Anorganischen Chemie, 102. Auflage, de Gruyter, Berlin 2007, ISBN 978-3-11-017770-1, S. 497–540.
+Ralf Steudel: Chemie der Nichtmetalle, de Gruyter, Berlin 1998, ISBN 3-11-012322-3.
+N.N. Greenwood, A. Earnshaw: Chemie der Elemente, 1. Auflage, VCH Verlagsgesellschaft, Weinheim 1988, ISBN 3-527-26169-9, S. 775–839.
+Hans Breuer: dtv-Atlas Chemie, Band 1, 9. Auflage, dtv-Verlag, 2000, ISBN 3-423-03217-0.
+Nick Lane: Oxygen - the molecule that made the world, Oxford Univ. Press, Oxford 2003, ISBN 0-19-860783-0.
+Glenn J. MacPherson: Oxygen in the solar system, Mineralogical Society of America, Chantilly 2008, ISBN 978-0-939950-80-5.
+Cook, Gerhard A.; Lauer, Carol M. (1968). „Oxygen”.  În Clifford A. Hampel. The Encyclopedia of the Chemical Elements. New York: Reinhold Book Corporation. pp. 499–512. LCCN 68-29938. 
+Emsley, John (2001). „Oxygen”. Nature's Building Blocks: An A-Z Guide to the Elements. Oxford, England, UK: Oxford University Press. pp. 297–304. ISBN 0-19-850340-7. 
+Raven, Peter H.; Evert, Ray F.; Eichhorn, Susan E. (2005). Biology of Plants, 7th Edition. New York: W.H. Freeman and Company Publishers. pp. 115–27. ISBN 0-7167-1007-2.

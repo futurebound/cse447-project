@@ -1,0 +1,1556 @@
+In fisica la velocità della luce è la velocità di propagazione di un'onda elettromagnetica e di una particella libera senza massa. Nel vuoto ha un valore di 299792458 m/s. Viene indicata normalmente con la lettera c (dal latino celeritas), scelta fatta per primo da Paul Drude nel 1894.
+Secondo la relatività ristretta, la velocità della luce nel vuoto, 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+  , è una costante fisica universale indipendente dal sistema di riferimento utilizzato e la velocità massima a cui può viaggiare qualsiasi informazione nell'universo, unendo le grandezze fisiche classiche di spazio e tempo nell'unica entità dello spaziotempo e rappresentando la grandezza di conversione nell'equazione di equivalenza massa-energia. Nella relatività generale è la velocità prevista per le onde gravitazionali. 
+Dal 21 ottobre 1983 si considera il valore 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+   come esatto, ovvero senza errore, e a partire da esso si definisce la lunghezza del metro nel Sistema Internazionale.
+
+
+== Storia ==
+
+Galileo Galilei fu il primo a sospettare che la luce non si propagasse istantaneamente e a cercare di misurarne la velocità. Egli scrisse del suo tentativo infruttuoso di usare lanterne per mandare dei lampi di luce tra due colline fuori Firenze. Giovanni Alfonso Borelli (1608-1679), seguace di Galilei, fece il tentativo di misurare la velocità della luce sulla distanza Firenze-Pistoia per mezzo di specchi riflettenti.
+La prima misura della velocità della luce fu effettuata nel 1676 dal danese Ole Rømer, che utilizzò un'anomalia nella durata delle eclissi dei satelliti medicei (i satelliti di Giove scoperti da Galileo). Egli registrò le eclissi di Io, un satellite di Giove: ogni giorno o due, Io entrava nell'ombra di Giove per poi riemergerne. Rømer poteva vedere Io "spegnersi" e "riaccendersi", se Giove era visibile. L'orbita di Io sembrava essere una specie di distante orologio, ma Rømer scoprì che il suo "ticchettio" era più veloce quando la Terra si avvicinava a Giove e più lento quando se ne allontanava. Rømer misurò le variazioni in rapporto alla distanza tra Terra e Giove e le spiegò stabilendo una velocità finita per la luce. Egli ottenne un valore di circa 210 800 000 m/s, il cui scostamento rispetto al valore accertato in seguito era dovuto essenzialmente alla scarsa precisione con cui aveva misurato il tempo necessario alla luce per percorrere il diametro dell'orbita terrestre. Una targa all'Osservatorio di Parigi, dove l'astronomo danese lavorava, commemora quella che fu, in effetti, la prima misurazione di una quantità universale. Rømer pubblicò i suoi risultati, che contenevano un errore del 10-25%, nel Journal des savants.
+
+Altre misure, via via più precise, furono effettuate da James Bradley, Hippolyte Fizeau e altri, fino a giungere al valore oggi accettato. In particolare Fizeau misurò la velocità della luce tramite un apparecchio consistente in una ruota dentata fatta girare a grande velocità. Sulla ruota venne proiettato un raggio di luce che ne attraversava le fenditure in maniera intermittente, raggiungendo uno specchio posto a grande distanza che rifletteva la luce nuovamente verso la ruota. Il raggio di ritorno, poiché intanto la ruota era girata, passava attraverso la fenditura successiva. Da ciò, nota la distanza che la luce percorreva, e noto l'intervallo di tempo in cui la ruota compiva la rotazione necessaria, Fizeau calcolò la velocità della luce con un piccolo errore.
+
+
+=== L'esperienza di Michelson e Morley ===
+Quando si rigettò il modello della luce come un flusso di particelle, proposto da Cartesio e sostenuto da Isaac Newton, il modello ondulatorio, suo successore, pose il problema dell'esistenza di un mezzo che sostenesse le oscillazioni. Tale ipotetico mezzo, detto etere, doveva avere caratteristiche molto peculiari: elastico, privo di massa e resistenza al moto dei corpi, doveva peraltro trascinare la luce come una corrente trascina una barca o il vento le onde sonore. Un vento dell'etere doveva trascinare la luce. Per verificare la presenza dell'etere tramite l'effetto di trascinamento, Albert Abraham Michelson e Edward Morley ripeterono più volte un'esperienza con un interferometro.
+
+Se, a causa del vento dell'etere, la velocità di propagazione della luce nei due bracci dell'interferometro fosse stata diversa, i due fasci di luce avrebbero impiegato un tempo diverso per tornare a incontrarsi e quindi le oscillazioni nei due fasci avrebbero presentato una differenza di fase δ, come nelle funzioni sinusoidali:
+
+  
+    
+      
+        A
+        (
+        t
+        )
+        =
+        
+          A
+          
+            0
+          
+        
+        sen
+        ⁡
+        (
+        ω
+        t
+        )
+      
+    
+    {\displaystyle A(t)=A_{0}\operatorname {sen} (\omega t)}
+  
+
+  
+    
+      
+        A
+        (
+        t
+        )
+        =
+        
+          A
+          
+            0
+          
+        
+        sen
+        ⁡
+        (
+        ω
+        t
+        +
+        δ
+        )
+      
+    
+    {\displaystyle A(t)=A_{0}\operatorname {sen} (\omega t+\delta )}
+  Ciò provocava la formazione di frange di interferenza al passare entro una fenditura di circa mezzo millimetro fra due cartoncini posti di fronte a una sorgente di luce a poca distanza dall'occhio. Le frange avrebbero dovuto spostarsi al variare dell'orientamento dello strumento rispetto al vento dell'etere.
+La differenza attesa nei tempi impiegati dalla luce per percorrere i bracci dell'interferometro parallelo e perpendicolare al vento dell'etere si calcola facilmente.
+Nelle numerose esperienze di Michelson, Morley e altri ancora non si osservò mai lo spostamento di tali frange, indipendentemente dal modo in cui veniva orientato l'interferometro e dalla posizione della Terra lungo la sua orbita. La spiegazione di tale risultato secondo Einstein era che non vi è nessun etere e che l'indipendenza della velocità della luce dalla sua direzione di propagazione è un'ovvia conseguenza dell'isotropia dello spazio. L'etere diventò quindi semplicemente non necessario.
+
+
+== Calcolo con le equazioni di Maxwell ==
+È possibile ricavare la velocità della luce nel vuoto (dal momento che è un'onda elettromagnetica), a partire dalle equazioni di Maxwell.
+A partire dalla terza equazione di Maxwell, applicandovi l'operatore rotore, si ottiene:
+
+  
+    
+      
+        
+          
+            
+              ∇
+              →
+            
+          
+        
+        ×
+        (
+        
+          
+            
+              ∇
+              →
+            
+          
+        
+        ×
+        
+          
+            
+              E
+              →
+            
+          
+        
+        )
+        =
+        −
+        
+          
+            
+              ∇
+              →
+            
+          
+        
+        ×
+        
+          
+            
+              ∂
+              
+                
+                  
+                    B
+                    →
+                  
+                
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\nabla }}\times ({\vec {\nabla }}\times {\vec {E}})=-{\vec {\nabla }}\times {\frac {\partial {\vec {B}}}{\partial t}}}
+  Ricordiamo che:
+
+  
+    
+      
+        
+          
+            
+              ∇
+              →
+            
+          
+        
+        ×
+        (
+        
+          
+            
+              ∇
+              →
+            
+          
+        
+        ×
+        
+          
+            
+              E
+              →
+            
+          
+        
+        )
+        =
+        −
+        
+          ∇
+          
+            2
+          
+        
+        
+          
+            
+              E
+              →
+            
+          
+        
+        +
+        
+          
+            
+              ∇
+              →
+            
+          
+        
+        (
+        
+          
+            
+              ∇
+              →
+            
+          
+        
+        ⋅
+        
+          
+            
+              E
+              →
+            
+          
+        
+        )
+      
+    
+    {\displaystyle {\vec {\nabla }}\times ({\vec {\nabla }}\times {\vec {E}})=-\nabla ^{2}{\vec {E}}+{\vec {\nabla }}({\vec {\nabla }}\cdot {\vec {E}})}
+  Ma, dal momento che si considera una situazione ideale ovvero la presenza del vuoto, si ha che 
+  
+    
+      
+        
+          
+            
+              ∇
+              →
+            
+          
+        
+        ⋅
+        
+          
+            
+              E
+              →
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\vec {\nabla }}\cdot {\vec {E}}=0}
+   in quanto non vi sono cariche e che 
+  
+    
+      
+        
+          
+            
+              J
+              →
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\vec {J}}=0}
+   in quanto vi è assenza di corrente.
+Dalle due equazioni, tenendo conto di quest'ultima considerazione, e considerando che l'operatore gradiente è effettuato rispetto alle coordinate spaziali, si ottiene:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        
+          
+            
+              E
+              →
+            
+          
+        
+        =
+        
+          
+            
+              ∇
+              →
+            
+          
+        
+        ×
+        
+          
+            
+              ∂
+              
+                
+                  
+                    B
+                    →
+                  
+                
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        (
+        
+          
+            
+              ∇
+              →
+            
+          
+        
+        ×
+        
+          
+            
+              B
+              →
+            
+          
+        
+        )
+      
+    
+    {\displaystyle \nabla ^{2}{\vec {E}}={\vec {\nabla }}\times {\frac {\partial {\vec {B}}}{\partial t}}={\frac {\partial }{\partial t}}({\vec {\nabla }}\times {\vec {B}})}
+  A questo punto, utilizzando la quarta equazione di Maxwell, otteniamo la prima delle due equazioni delle onde elettromagnetiche:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        
+          
+            
+              E
+              →
+            
+          
+        
+        =
+        
+          ε
+          
+            0
+          
+        
+        
+          μ
+          
+            0
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              
+                
+                  
+                    E
+                    →
+                  
+                
+              
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \nabla ^{2}{\vec {E}}=\varepsilon _{0}\mu _{0}{\frac {\partial ^{2}{\vec {E}}}{\partial t^{2}}}}
+  Questa equazione assomiglia all'equazione delle onde di d'Alembert, la cui espressione generale è
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        u
+        −
+        
+          
+            1
+            
+              v
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              u
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \nabla ^{2}u-{\frac {1}{v^{2}}}{\partial ^{2}u \over {\partial t^{2}}}=0}
+  dove v è la velocità dell'onda. In questo caso
+
+  
+    
+      
+        v
+        =
+        
+          
+            1
+            
+              
+                ε
+                
+                  0
+                
+              
+              
+                μ
+                
+                  0
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle v={\frac {1}{\sqrt {\varepsilon _{0}\mu _{0}}}}.}
+  
+
+
+=== Riduzione di c ===
+La velocità della luce è legata alle proprietà elettromagnetiche del mezzo in cui si propaga: precisamente alla permittività elettrica 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+   e permeabilità magnetica 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+  :
+
+  
+    
+      
+        c
+        =
+        
+          
+            1
+            
+              μ
+              ε
+            
+          
+        
+      
+    
+    {\displaystyle c={\frac {1}{\sqrt {\mu \varepsilon }}}}
+  solitamente ci si riferisce al vuoto: 
+  
+    
+      
+        c
+        =
+        
+          c
+          
+            0
+          
+        
+        
+          c
+          
+            r
+          
+        
+      
+    
+    {\displaystyle c=c_{0}c_{r}}
+  , 
+  
+    
+      
+        ε
+        =
+        
+          ε
+          
+            0
+          
+        
+        
+          ε
+          
+            r
+          
+        
+      
+    
+    {\displaystyle \varepsilon =\varepsilon _{0}\varepsilon _{r}}
+   e 
+  
+    
+      
+        μ
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          μ
+          
+            r
+          
+        
+      
+    
+    {\displaystyle \mu =\mu _{0}\mu _{r}}
+  , in cui la relazione diventa in particolare:
+
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+        =
+        
+          
+            1
+            
+              
+                μ
+                
+                  0
+                
+              
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle c_{0}={\frac {1}{\sqrt {\mu _{0}\varepsilon _{0}}}}}
+  dove 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+   è la velocità della luce nel vuoto, 
+  
+    
+      
+        
+          ε
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{0}}
+   è la permittività elettrica del vuoto e 
+  
+    
+      
+        
+          μ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mu _{0}}
+   la permeabilità magnetica del vuoto.
+Passando attraverso i materiali la luce subisce degli eventi di dispersione ottica e, in moltissimi casi di interesse, si propaga con una velocità inferiore a 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+  , di un fattore chiamato indice di rifrazione del materiale. La velocità della luce nell'aria è solo leggermente inferiore a 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+  . Materiali più densi, come l'acqua e il vetro rallentano la luce a frazioni pari a 3/4 e 2/3 di 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+  . Esistono poi materiali particolari, detti metamateriali, che hanno indice di rifrazione negativo.
+La luce sembra rallentare per effetto di urto anelastico: viene assorbita da un atomo del materiale attraversato che si eccita e restituisce la luce in ritardo e in direzione deviata.
+Nel 1999, un gruppo di scienziati guidati da Lene Hau fu in grado di rallentare la velocità di un raggio di luce fino a circa 61 km/h. Nel 2001, furono in grado di fermare momentaneamente un raggio. Si veda: condensato di Bose-Einstein per ulteriori informazioni.
+Nel gennaio 2003, Mikhail Lukin, assieme a scienziati della Harvard University e dell'Istituto Lebedev di Mosca, riuscirono a fermare completamente la luce dentro un gas di atomi di rubidio a una temperatura di circa 80 °C: gli atomi, per usare le parole di Lukin, "si comportavano come piccoli specchi" (Dumé, 2003), a causa degli schemi di interferenza di due raggi di "controllo". (Dumé, 2003)
+Nel luglio del 2003, all'Università di Rochester Matthew Bigelow, Nick Lepeshkin e Robert Boyd hanno sia rallentato che accelerato la luce a temperatura ambiente, in un cristallo di alessandrite, sfruttando i cambiamenti dell'indice di rifrazione a causa dell'interferenza quantistica. Due raggi laser vengono inviati sul cristallo, in determinate condizioni uno dei due subisce un assorbimento ridotto in un certo intervallo di lunghezze d'onda, mentre l'indice di rifrazione aumenta nello stesso intervallo, o "buco spettrale": la velocità di gruppo è dunque molto ridotta. Usando invece lunghezze d'onda differenti, si è riusciti a produrre un "antibuco spettrale", in cui l'assorbimento è maggiore, e dunque alla propagazione superluminale. Si sono osservate velocità di 91 m/s per un laser con una lunghezza d'onda di 488 nanometri, e di -800 m/s  per lunghezze d'onda di 476 nanometri. La velocità negativa indica una propagazione superluminale, perché gli impulsi sembrano uscire dal cristallo prima di esservi entrati.
+Nel settembre 2003, Shanhui Fan e Mehmet Fatih Yanik dell'Università di Stanford hanno proposto un metodo per bloccare la luce all'interno di un dispositivo a stato solido, in cui i fotoni rimbalzano tra pilastri di semiconduttori creando una specie di onda stazionaria. I risultati sono stati pubblicati su Physical Review Letters del febbraio 2004.
+
+
+== Calcolo con la relatività ristretta e con la relatività generale ==
+La formula che descrive lo spazio-tempo nella teoria della relatività ristretta venne utilizzata da Einstein per il calcolo della velocità della luce:
+
+  
+    
+      
+        Δ
+        
+          s
+          
+            2
+          
+        
+        =
+        Δ
+        
+          x
+          
+            2
+          
+        
+        +
+        Δ
+        
+          y
+          
+            2
+          
+        
+        +
+        Δ
+        
+          z
+          
+            2
+          
+        
+        −
+        
+          c
+          
+            2
+          
+        
+        Δ
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \Delta s^{2}=\Delta x^{2}+\Delta y^{2}+\Delta z^{2}-c^{2}\Delta t^{2}}
+  Nella relatività generale, l'espressione dell'elemento 
+  
+    
+      
+        d
+        s
+      
+    
+    {\displaystyle ds}
+   è data dal tensore fondamentale covariante:
+
+  
+    
+      
+        d
+        
+          s
+          
+            2
+          
+        
+        =
+        
+          g
+          
+            μ
+            ν
+          
+        
+        d
+        
+          x
+          
+            μ
+          
+        
+        d
+        
+          x
+          
+            ν
+          
+        
+      
+    
+    {\displaystyle ds^{2}=g_{\mu \nu }dx^{\mu }dx^{\nu }}
+  Einstein osservò quindi che se si conosce la direzione, cioè sono noti i rapporti 
+  
+    
+      
+        d
+        
+          x
+          
+            1
+          
+        
+        :
+        d
+        
+          x
+          
+            2
+          
+        
+        :
+        d
+        
+          x
+          
+            3
+          
+        
+      
+    
+    {\displaystyle dx_{1}:dx_{2}:dx_{3}}
+  , l'equazione del 
+  
+    
+      
+        d
+        s
+      
+    
+    {\displaystyle ds}
+   restituisce le grandezze
+
+  
+    
+      
+        d
+        
+          x
+          
+            1
+          
+        
+        
+          /
+        
+        d
+        
+          x
+          
+            4
+          
+        
+      
+    
+    {\displaystyle dx_{1}/dx_{4}}
+  , 
+  
+    
+      
+        d
+        
+          x
+          
+            2
+          
+        
+        
+          /
+        
+        d
+        
+          x
+          
+            4
+          
+        
+      
+    
+    {\displaystyle dx_{2}/dx_{4}}
+  , 
+  
+    
+      
+        d
+        
+          x
+          
+            3
+          
+        
+        
+          /
+        
+        d
+        
+          x
+          
+            4
+          
+        
+      
+    
+    {\displaystyle dx_{3}/dx_{4}}
+  ,e, in conseguenza, la velocità (definita nel senso della geometria euclidea):
+
+  
+    
+      
+        γ
+        =
+        
+          
+            (
+            d
+            
+              x
+              
+                1
+              
+            
+            
+              /
+            
+            d
+            
+              x
+              
+                4
+              
+            
+            
+              )
+              
+                2
+              
+            
+            +
+            (
+            d
+            
+              x
+              
+                2
+              
+            
+            
+              /
+            
+            d
+            
+              x
+              
+                4
+              
+            
+            
+              )
+              
+                2
+              
+            
+            +
+            (
+            d
+            
+              x
+              
+                3
+              
+            
+            
+              /
+            
+            d
+            
+              x
+              
+                4
+              
+            
+            
+              )
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \gamma ={\sqrt {(dx_{1}/dx_{4})^{2}+(dx_{2}/dx_{4})^{2}+(dx_{3}/dx_{4})^{2}}}}
+  .L'ultima formula è quella del calcolo del modulo di un vettore, applicata al vettore velocità della luce.
+Lo spazio-tempo ha quattro dimensioni, mentre quello euclideo ne ha tre: per utilizzare la geometria euclidea si è operata una restrizione da quattro a tre dimensioni, eliminando quella temporale.
+Esprimendo i tre termini spaziali in unità di tempo (si è diviso per 
+  
+    
+      
+        d
+        
+          x
+          
+            4
+          
+        
+      
+    
+    {\displaystyle dx_{4}}
+  ) si ottengono le componenti del vettore velocità.
+Il termine 
+  
+    
+      
+        d
+        
+          x
+          
+            4
+          
+        
+      
+    
+    {\displaystyle dx_{4}}
+   è ricavato per differenza dalla relatività ristretta, noti gli altri tre termini.
+L'intervallo spazio-temporale 
+  
+    
+      
+        d
+        s
+      
+    
+    {\displaystyle ds}
+   può essere riscritto come:
+
+  
+    
+      
+        Δ
+        
+          s
+          
+            2
+          
+        
+        =
+        Δ
+        
+          x
+          
+            2
+          
+        
+        +
+        Δ
+        
+          y
+          
+            2
+          
+        
+        +
+        Δ
+        
+          z
+          
+            2
+          
+        
+        −
+        
+          c
+          
+            2
+          
+        
+        Δ
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \Delta s^{2}=\Delta x^{2}+\Delta y^{2}+\Delta z^{2}-c^{2}\Delta t^{2}}
+  ,in cui è di importanza secondaria il fatto che 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   rappresenti la velocità della luce, mentre è rilevante che esiste una costante universale, in tutti i sistemi di riferimento, fattore di conversione fra lo spazio e il tempo.
+Spazio e tempo non sono la stessa cosa, ma sono indissolubilmente legati in un continuum a quattro dimensioni (l'equazione è polinomiale e quindi è una funzione continua).
+
+Il termine temporale è espresso in unità della luce per essere sommabile alle distanze spaziali: il segno negativo ha il significato fisico che (dato 
+  
+    
+      
+        d
+        s
+      
+    
+    {\displaystyle ds}
+   costante e tendente a zero) dove il tempo si contrae, lo spazio si dilata, e viceversa, dove lo spazio si contrae, il tempo si dilata. 
+Il termine 
+  
+    
+      
+        d
+        s
+      
+    
+    {\displaystyle ds}
+   è un invariante alla rotazione, riflessione e traslazione, cambi di coordinate: 
+
+  
+    
+      
+        Δ
+        
+          s
+          
+            ′
+            
+              2
+            
+          
+        
+        =
+        Δ
+        
+          x
+          
+            ′
+            
+              2
+            
+          
+        
+        +
+        Δ
+        
+          y
+          
+            ′
+            
+              2
+            
+          
+        
+        +
+        Δ
+        
+          z
+          
+            ′
+            
+              2
+            
+          
+        
+        −
+        
+          c
+          
+            2
+          
+        
+        Δ
+        
+          t
+          
+            ′
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \Delta s'^{2}=\Delta x'^{2}+\Delta y'^{2}+\Delta z'^{2}-c^{2}\Delta t'^{2}}
+  ,da cui si vede che 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   è il valore di una grandezza che non può essere superato.
+
+
+=== Costante in tutti i sistemi di riferimento ===
+Nell'esperienza diretta siamo abituati alla regola additiva delle velocità: se due automobili si avvicinano una all'altra a 50 km/h, ci si aspetta che ogni auto percepisca l'altra come se si avvicinasse a 100 km/h (ovvero la somma delle rispettive velocità). Dai dati legati fondamentalmente agli esperimenti con gli acceleratori di particelle, diventa evidente che a velocità prossime a quella della luce la regola additiva non è più valida: due astronavi che viaggiassero al 90% della velocità della luce relativamente a un osservatore posto tra di esse non si percepirebbero l'un l'altra come in avvicinamento al 180% della velocità della luce, ma avrebbero una velocità apparente di circa il 99,4475% di c. Questo non deriva da risultati sperimentali poiché la velocità massima mai raggiunta da un oggetto creato dall'uomo è di 265 000 km/h, ovvero 73 611 m/s, quindi molto inferiore.
+Si tratta di un risultato teorico dato dalla formula di Einstein per la composizione delle velocità:
+
+  
+    
+      
+        u
+        =
+        
+          
+            
+              v
+              +
+              w
+            
+            
+              1
+              +
+              
+                
+                  
+                    v
+                    ⋅
+                    w
+                  
+                  
+                    c
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle u={v+w \over 1+{\frac {v\cdot w}{c^{2}}}}}
+  dove 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   e 
+  
+    
+      
+        w
+      
+    
+    {\displaystyle w}
+   sono le velocità delle astronavi relativamente all'osservatore e 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+   è la velocità percepita da ciascuna astronave. Indipendentemente dalla velocità a cui un osservatore si muove relativamente a un altro, entrambi misureranno la velocità di un raggio di luce con lo stesso valore costante c. Gli esperimenti ispirati dalla teoria della relatività confermano direttamente e indirettamente che la velocità della luce ha un valore costante, indipendente dal moto dell'osservatore e della sorgente.
+Poiché la velocità della luce nel vuoto è costante, è conveniente misurare le distanze in termini di 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+  . Come già detto, nel 1983 il metro venne ridefinito in relazione a 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  . In particolare un metro è la 299 792 458ª parte della distanza coperta dalla luce in un secondo. Le distanze negli esperimenti fisici e in astronomia vengono comunemente misurate in secondi luce, minuti luce e anni luce.
+
+
+=== Velocità limite consentita nel mondo fisico ===
+
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+  , grandezza fissa indipendente dal sistema di riferimento secondo la relatività ristretta, è la velocità massima cui può viaggiare un ente fisico come energia e informazione nello spaziotempo di Minkowski, modellato sulla base del fatto che per ogni evento sia possibile tracciare un cono di luce e suddividere lo spazio in regioni disgiunte: il futuro, il passato e il presente dell'evento. La materia non può raggiungere c a causa del progressivo aumento dell'inerzia fino a valori tendenti all'infinito.
+Questo limite allo spazio fisico si appoggia alla struttura causale e 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+   costituisce una costante su cui si appoggia e articola tutta la teoria relativa alla dimensionalità dell'universo fisico osservabile in cui ci muoviamo. 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+   è quindi la velocità massima di tutte le particelle senza massa e dei relativi campi. Anche particelle di tipo immaginario, come i tachioni, pur viaggiando a velocità superiori a quella della luce, non possono essere rallentate a velocità subluminali, ma si possono solo accelerare. Anche in questo caso, allo stato attuale puramente un costrutto teorico, 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+   rimane un muro invalicabile. Esistono tuttavia situazioni, nell'ambito della meccanica quantistica, che implicano effetti istantanei, come l'entanglement quantistico, dove, benché non si trasmetta informazione, si teletrasporta uno stato quantico; questi effetti sono stati osservati sperimentalmente (vedi Esperimento sulla correlazione quantistica di Aspect).
+
+
+== Effetti "superluminali" ==
+Come sopra detto, allo stato attuale della conoscenza teorica 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   è solo una barriera invalicabile, ma allo stato attuale della conoscenza sperimentale non sono noti oggetti con velocità maggiore (tachioni) e perciò è la velocità massima nell'universo. 
+L'effetto Cherenkov è un effetto superluminare, ma è dovuto a particelle che si trovano a viaggiare al di sotto di c0 ma al di sopra della c del mezzo in cui si muovono, che "frenano" emettendo radiazione.
+Il limite imposto dalla relatività ristretta per la velocità quindi non è un limite sulla velocità di propagazione di oggetti e segnali ma è un limite sulla velocità a cui si può propagare l'informazione. Sebbene queste due cose coincidano quasi sempre questa sottile distinzione permette, in alcuni casi particolari, di ottenere effetti cosiddetti superluminali. In questi casi, si possono vedere brevi impulsi di luce che superano degli ostacoli con una velocità apparentemente maggiore di 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+  . Eccedere la velocità di gruppo della luce in questo modo è paragonabile a eccedere la velocità del suono sistemando una fila di persone opportunamente distanziate, e facendogli urlare "Sono qui!", una dopo l'altra a brevi intervalli temporizzati da un orologio, in modo che non debbano sentire la voce della persona precedente prima di poter urlare. In questo tipo di fenomeni, tuttavia, la velocità di fase di un pacchetto (più frequenze) è minore di quella della luce.
+Secondo le teorie relatività ristretta e generale non è possibile che l'informazione venga trasmessa più velocemente di 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+   in uno spaziotempo uniforme.
+L'esistenza di wormholes, cioè fenomeni che permettano il trasferimento di materia o di energia da un punto all'altro dell'universo, non è supportata da prove sperimentali; e anche se esistessero, non si tratterebbe di un effetto superluminare in quanto lo spazio percorso dall'informazione non sarebbe la distanza da noi misurata, ma la distanza abbreviata dalla "scorciatoia".
+Oggetti astrofisici (stelle e galassie) apparentemente superluminali vengono comunemente osservati. Per questo tipo di oggetti il trucco risiede nel moto di avvicinamento di questi oggetti in direzione della Terra. La velocità di un oggetto può essere misurata, banalmente, come la distanza tra due punti attraversati dall'oggetto divisa per il tempo necessario per questo tragitto. Per oggetti astrofisici l'informazione spaziale e temporale sui punti di inizio e fine tragitto è trasmessa all'osservatore tramite la luce. Se il punto di fine tragitto è più vicino all'osservatore del punto di inizio, la luce del punto di inizio tragitto risulta ritardata e quella del punto di fine anticipata nel suo arrivo sulla Terra. Il tragitto risulta, così, iniziato dopo e finito prima, cioè minore. Ne può risultare, dunque, anche una velocità apparente maggiore di quella della luce.
+
+
+=== L'esperimento OPERA e le osservazioni del MINOS ===
+Allo stato attuale non sono stati progettati grandi esperimenti di fisica delle particelle, volti specificamente a testare la superabilità di 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+  .
+Nel settembre 2011 un gruppo di scienziati dei Laboratori Nazionali del Gran Sasso (nell'ambito dell'esperimento OPERA) ha pubblicato i risultati delle loro osservazioni, collaterali, nell'ambito di ricerche volte a definire e verificare l'oscillazione dei neutrini, un fenomeno che farebbe mutare le particelle da un gruppo a un altro tra i muonici, gli elettronici e i tauonici, suggerendo che queste particelle posseggano una massa, così come già teorizzato da Bruno Pontecorvo nel 1969.
+In queste osservazioni, sembrava che fasci di neutrini muonici, lanciati dal CERN di Ginevra verso il Gran Sasso, viaggiassero a velocità appena superiore a quella della luce, anche tenendo conto delle incertezze di misura, pari a una parte su 40 000. Questa anomalia corrisponde a una differenza relativa tra la velocità del neutrino muonico e la velocità della luce di:
+
+  
+    
+      
+        
+          
+            
+              v
+              −
+              c
+            
+            c
+          
+        
+        =
+        
+          (
+          
+            2
+            
+              ,
+            
+            48
+            ±
+            0
+            
+              ,
+            
+            28
+            
+            (
+            
+              statistico
+            
+            )
+            
+            ±
+            0
+            
+              ,
+            
+            30
+            
+            (
+            
+              sistematico
+            
+            )
+            
+          
+          )
+        
+        ×
+        
+          10
+          
+            −
+            5
+          
+        
+      
+    
+    {\displaystyle {\frac {v-c}{c}}=\left(2{,}48\pm 0{,}28\;({\text{statistico}})\;\pm 0{,}30\;({\text{sistematico}})\;\right)\times 10^{-5}}
+  .La conferma non avrebbe falsificato la teoria della relatività, ma piuttosto ne avrebbe suggerito l'incompletezza, rendendo necessaria l'elaborazione di una teoria più estesa come è avvenuto con la relatività a sua volta rispetto alla meccanica newtoniana, probabilmente con il supporto della teoria delle stringhe. Il 22 febbraio 2012 comunque gli stessi ricercatori responsabili del progetto hanno attribuito a un errore di misurazione degli strumenti l'anomalia della velocità dei neutrini.Da tempo vengono ipotizzate alcune generalizzazioni della relatività ristretta: nel 2007 avvenne un'esperienza analoga al Main Injector Neutrino Oscillation Search in Minnesota, un esperimento sui neutrini inaugurato nel 2005 che lavora con particelle provenienti dal Fermilab. Studiando l'oscillazione dei neutrini attraverso le tre diverse famiglie vennero misurate velocità anomale per i neutrini, ma la maggiore incertezza sulle posizioni esatte di rivelatore e emissione, rese meno significativa la possibilità di un superamento di 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+  .
+
+
+== Note ==
+
+
+== Bibliografia ==
+(EN) Max Born e Emil Wolf, Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light, Cambridge University Press.
+ Corrado Mencuccini e Vittorio Silvestrini, Fisica II (Elettromagnetismo e Ottica), 3ª edizione, Napoli, Liguori Editore, settembre 1998, ISBN 978-88-207-1633-2.
+(DE) Albert Einstein, Zur Elektrodynamik bewegter Körper (PDF), in Annalen der Physik, vol. 17, 30 giugno 1905,  pp. 891–921. URL consultato il 6 giugno 2010 (archiviato dall'url originale il 29 dicembre 2009).
+
+
+== Voci correlate ==
+Apparato di Fizeau-Foucault
+Effetto Čerenkov
+Esperimento di Michelson-Morley
+Galileo Galilei
+Ole Rømer
+Onda
+Radiazione elettromagnetica
+Luce lenta
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni di o su velocità della luce
+ Wikimedia Commons contiene immagini o altri file su velocità della luce
+
+
+== Collegamenti esterni ==
+
+(EN) Velocità della luce, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

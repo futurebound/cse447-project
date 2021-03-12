@@ -1,0 +1,133 @@
+Une navette spatiale, dans le domaine de l’astronautique, désigne conventionnellement un véhicule spatial pouvant revenir sur Terre en effectuant un atterrissage contrôlé à la manière d'un avion ou d'un planeur et pouvant être réutilisé pour une mission ultérieure. Ce concept s'oppose à celui des vaisseaux spatiaux, tels que Soyouz, Shenzhou ou Apollo  effectuant une rentrée quasi balistique et atterrissant grâce à des parachutes et des rétrofusées. À l'origine le concept est associé à l'abaissement des coûts de mise en orbite de satellites artificiels (commerciaux ou militaires), d'éléments de station spatiale et à la possibilité d'effectuer des interventions de maintenance en orbite basse. En pratique la navette spatiale américaine, la seule à avoir eu une vie opérationnelle significative, a joué un rôle important essentiellement pour placer en orbite les principaux composants de la  station spatiale internationale. Dans ses autres missions, elle est remplacée avantageusement par des lanceurs classiques. À la suite de l'arrêt des missions de sa navette spatiale en 2011, la NASA prévoit le retour à des vaisseaux spatiaux conventionnels (Orion, Crew Dragon, CST-100 Starliner).
+Du côté américain, six navettes ont été construites, dont cinq destinées au vol orbital (Colombia, Challenger, Discovery, Atlantis, Endeavour) et une aux essais en vols (Enterprise). Les Soviétiques ont, quant à eux, construits douze navettes, dont cinq destinées au vol orbital, bien qu'une seule d'entre elles ait volé : Buran.
+D'autres projets de navettes au gabarit plus modeste ont vu, ou failli voir le jour, Hermès et le Space Rider du côté européen, la Dream Chaser ou le X-37b côté américain, les navettes BOR (premières navettes spatiales de l'histoire) ou le projet Klipper du côté soviétique.
+
+
+== Principales caractéristiques ==
+
+
+=== Engin partiellement ou totalement réutilisable ===
+Les navettes spatiales sont des vaisseaux conçus pour offrir une réutilisation partielle ou totale, permettant de réduire les coûts de lancement. Ce système doit également permettre un retour sur Terre de satellites ou de modules de stations spatiales dans un but de remise en état.
+En pratique, aucune navette spatiale n'est entièrement réutilisable, étant donné qu'elles étaient toutes lancées par des fusées conventionnelles, bien que la réutilisation totale ait été envisagée.
+
+Côté américain, les SRB (propulseurs d'appoints) de la navette spatiale américaine étaient récupérés sous parachutes dans l'Océan Atlantique, afin d'être réutilisés. Néanmoins la corrosion de l'eau de mer et les résidus de poudre dans les segments de boosters rendaient cette réutilisation peu efficiente et très chère. La Dream Chaser, projet de navette spatiale non-habitée, devra elle voler sur le lanceur Vulcan, qui aura la particularité d'avoir des moteurs réutilisables, les BE-4 revenant sous parachutes après le vol.
+Côté soviétique, Energiya, le lanceur de la navette Buran, était conçue pour être entièrement réutilisable. Ses boosters auraient dû revenir se poser sur Terre grâce à des parachutes et des pieds d'atterrissages, là où le premier étage aurait dû être équipé dans sa version finale d'une aile lui permettant de revenir se poser sur une piste en planant. A terme, les boosters auraient dû être équipés d'ailes dépliables et de moteurs d'avions. En pratique, Energiya n'a jamais été réutilisée, les compartiments contentant les parachutes ayant été remplis d'instruments de mesures du vol sur le premier vol du lanceur lourd. Une incertitude persiste néanmoins sur le deuxième vol d'Energiya, où la réutilisation des boosters a peut-être été tentée.
+Côté européen, le projet de navette Hermès a permis le développement d'un retour sous parachutes des deux EAP d'Ariane 5, en utilisant des parachutes fournis par les Russes, dérivant de ceux qui auraient dû être utilisés sur Energiya. Bien que le programme Hermès ait été abandonné, la récupération des EAP a tout de même été tentée à plusieurs reprises pour étudier leurs comportements en vol, bien que la récupération de ces derniers ne soit plus à l'ordre du jour.Si l'on ne tient pas compte du lanceur, alors mis à part certains démonstrateurs techniques (IXV par exemple), toutes les navettes ayant volé ont été conçues pour être réutilisées plusieurs fois.
+
+
+=== Fonctions et capacités d'emport d'une navette spatiale ===
+En fonction des pays et des besoins, une navette spatiale peut avoir plusieurs fonctions. Parmi elles, l'envoi de charges utiles importantes en orbite (satellite civils, institutionnels ou militaires, modules de stations spatiales, missions scientifiques...), d'équipage nombreux en orbite (jusqu'à 10 personnes pour la navette soviétique Buran), de cargo vers les stations spatiales (ISS ou Mir) ou doit également permettre le retour sur Terre de satellites en vue de leur réutilisation.
+La plus grande capacité pour une navette était observée par Buran, pouvant placer plus de 30 tonnes en orbite basse, la navette américaine ne pouvant en placer que 27. Néanmoins, ces chiffres sont à nuancer, Buran ayant été défavorisée de par la forte inclinaison du cosmodrome de Baïkonour, mais aussi qu'elle n'a jamais pu démontrer ses capacités à placer une telle charge en orbite basse.
+
+
+=== Propulsion ===
+La propulsion des navettes spatiales diffère énormément en fonction des modèles. Généralement, les petites navettes spatiales de type Dream Chaser, Hermès ou Space Rider ont de petits moteurs orbitaux permettant certaines manœuvres ou encore leur désorbitation. Les navettes plus grandes, comme Buran, possédaient des moteurs orbitaux plus importants lui permettant d'effectuer des manœuvres longues et complexes.
+Enfin, la navette spatiale américaine était la seule à posséder trois moteurs atmosphériques, les RS-25, qui était un avantage lors du décollage, mais qui devenaient trois poids morts une fois en orbite, pénalisant du même coup les capacités du véhicule.
+
+
+== Les corps portants ==
+
+
+== Navettes spatiales américaines ==
+
+Les États-Unis sont les premiers à concevoir une navette spatiale réutilisable capable d'emporter de gros satellites en orbite basse et de les rapporter sur la Terre. Six navettes ont été conçues depuis 1976 : Enterprise, Columbia, Challenger, Discovery, Atlantis et Endeavour. L’Enterprise fut un démonstrateur et n'est jamais allé dans l'espace. Columbia et Challenger ont été détruites en mission. Il y a eu aussi une maquette grandeur nature, Pathfinder, qui servit de banc d’essais. La première navette fut mise en service en 1981. La mise à la retraite des navettes a eu lieu en 2011. Un sénateur américain a émis l'idée de garder une ou plusieurs navettes en service jusqu'en 2015 (date à laquelle Orion devait prendre la relève, même si ce programme fut repoussé).
+
+
+== Navettes spatiales soviétiques ==
+
+
+=== Programme Energiya/Bourane ===
+
+Lorsque l'Union Soviétique a appris que les USA allaient lancer leur navette spatiale depuis la base militaire de Vandenberg en Californie, la décision de se doter d'un véhicule similaire fut prise. En effet, la navette allait doter les États-Unis d'une capacité militaire hors norme, l'URSS ne pouvant alors pas rivaliser.
+Le pays va tout d'abord faire une copie parfaite de la navette américaine, avant de l'améliorer pour la faire correspondre aux besoins russes (présence de sièges éjectables, absence de moteurs atmosphériques sur l'orbiteur, vol entièrement automatique). En tout douze navettes à l'échelle furent construites, dont six étaient des modèles d'essais au sol, une, OK-GLI étaient équipées de deux moteurs d'avions pour effectuer des vols suborbitaux, et cinq étaient destinées au vol spatial.
+Un seul exemplaire vola en orbite (désigné OK 1.01, ou Bourane ("Буран", "blizzard dans la steppe")), lancée le 15 novembre 1988 par le lanceur Energiya. Elle effectua un vol entièrement automatisé, devenant ainsi l'engin spatial le plus complexe ayant jamais volé à ce jour, la navette américaine n'étant pas capable d'effectuer un vol complet (décollage, vol orbital et atterrissage) en mode automatique.
+Un autre exemplaire était prêt pour le vol, OK 1.02, ou Burya ("Буря", "tempête de neige"), mais ne décolla jamais, à cause du manque de moyen causé par la chute de l'URSS. Les trois autres modèles orbitaux (OK 2.01, 2.02 et 2.03) n'ont eu jamais étés entièrement assemblés.
+Le programme fut entièrement annulé en 1993, par manque de moyens. Bourane, le seul exemplaire ayant volé, fut détruit dans l'effondrement de son hangar en 2002. Les autres exemplaires sont soit abandonnés dans des hangars, soit détruits. Seule OK-GLI est aujourd'hui correctement conservée, au Musée des techniques, à Spire, en Allemagne.
+Le programme Energiya/Bourane est le deuxième plus grand programme spatial de l'histoire après Apollo en termes de coûts, et le premier en terme humain (plus de 6 millions de personnes travaillaient directement ou indirectement sur le programme), et reste aujourd'hui largement méconnu dans grand public. En quelques années l'URSS a construit douze modèles à l'échelle de Bourane et plus d'une centaine de maquettes, un lanceur super-lourd (Energiya), un bras robotique entièrement automatisé, des combinaisons spatiales autonomes, équivalentes au MMU américain, la construction d'un avion porteur géant (l'Antonov An-225) et le développement du moteur fusée à ergols liquide le plus puissant au monde, le RD-170.
+
+
+=== Programme BOR et Spiral ===
+
+Avant le premier vol de Bourane, l'URSS possédait déjà une grande expérience des navettes spatiales grâce au programme BOR. Quand les USA lancent le projet X-20, alias Dyna-Soar, l'URSS lance de son côté le programme Spiral, un avion de combat orbital monoplace devant servir à des missions de reconnaissances et de destruction de cibles au sol. Néanmoins, à cette époque, l'URSS n'a jamais expérimenté la récupération de véhicules de type navette spatiale, et c'est dans ce but qu'elle lance le programme expérimental de navettes BOR ("БОР" en russe). Ce sont de petits vaisseaux d'environ 2 à 3 mètres de long, équipés de dizaines de capteurs. Plusieurs versions de ces navettes furent construites:
+
+BOR-1: Ces navettes ont uniquement servies à tester la technologie qui sera utilisée sur les prochaines versions de BOR. Cette dernière a effectué son premier vol suborbital en juin 1969, devenant ainsi la première navette spatiale de l'histoire.
+BOR-2: Plusieurs de ces navettes ont volé dans l'espace durant des vols suborbitaux. Plusieurs exemplaires furent réutilisés sur des vols ultérieurs. BOR-2 ainsi que toutes les versions suivantes de BOR décollèrent dans l'espace à bord de Cosmos-3M modifiées, appelée K65M-RB5. Ces navettes présentent la particularité d'avoir leurs ailes dépliables, permettant ainsi de pouvoir les lancer dans l'espace sous une coiffe classique.
+BOR-3: Version plus évoluée et moderne de BOR-2, servant à tester les derniers éléments du programme Spiral. Après ses différents vols, tous suborbitaux, le programme est mis en pause, le programme Spiral passant au stade supérieur par la réalisation du démonstrateur atmosphérique MiG-105. Le programme Spiral fut néanmoins abandonné quelques années plus tard.
+BOR-4: Lors du lancement du programme Bourane, les ingénieurs avaient besoin de tester les tuiles thermiques de la future navette, pour cela, ils reprirent les navettes BOR-3 en les adaptant pour correspondre aux besoins du programme Energiya/Bourane. Pour simuler un vol atmosphérique, BOR-4 pouvait également être attachée sous un avion de l'armée qui l'emportait à une vitesse supersonique pour étudier son comportement dans l'air. BOR-4 était un vaisseau tellement sophistiqué pour l'époque qu'il a servi de base à la navette Dream Chaser des chez Sierra Nevada Corporation.
+BOR-5: Les navettes BOR-5 étaient des modèles miniatures de Bourane, destinées à tester l'aérodynamisme de la navette durant la rentrée atmosphérique. L'utilisation de BOR-5, bien que coûteuse, permettait des résultats bien plus probants et concrets que les nombreux tests effectués en soufflerie.
+BOR-6: Après le premier vol de Bourane, il fut envisagé de reprendre le programme BOR pour le développement d'une navette plus ambitieuse appelée Ouragan, destinée à voler sur Energiya, Zenit-2 et Proton. BOR-6 était destinée à valider les technologies nécessaires à la réalisation de ce projet, mais ne volera jamais.Le programme BOR donnera naissance au projet HL-20 (Horizontal Landing 20) américain, puis plus tard à la navette orbitale Dream Chaser devant desservir la Station Spatiale Internationale en cargo et en équipage, depuis les USA et la France.
+Le MiG-105 vola lui plusieurs fois, mais à la suite d'un atterrissage trop violent, fut fortement endommagé. L'annulation du programme fit qu'il ne fut jamais réparé.
+
+
+=== Programme Klipper ===
+
+A la suite de l'annulation des programmes Energiya/Bourane et BOR, la Russie a cherché à réutiliser certaines technologies dans un nouveau projet de navette, devant lui permettre de totalement remplacer ses vaisseaux Soyouz, dont le design était alors vieux de plus de quarante ans. En 2004, le programme Kliper fut officialisé, avec un premier lancement inhabité en 2010, et un premier vol habité prévu en 2012. Les difficultés financières du programme spatial russe ont fait qu'elle a dû se résoudre à chercher des partenariats à l'étranger, notamment en Europe et au Japon. Le Japon désirait alors se concentrer sur son programme HTV et l'Europe ne voulait pas s'engager dans un programme de navettes, le souvenir de l'annulation d'Hermès étant encore dans toutes les têtes.
+La navette aurait dû décoller sur une Soyouz modifiée, ce qui aurait permis d'envisager des lancements depuis le cosmodrome de Baïkonour au Kazakhstan, Plessetsk et Vostochniy en Russie, et Kourou, en France. Le programme, faute de moyen et de réelle volonté politique, fut annulé dans son intégralité en 2006.
+Un seul élément survécu, l'utilisation du moteur NK-33 de la fusée lunaire sur une Soyouz modifiée donna en partie naissance à la Soyouz 2.1v, la version sans boosters de Soyouz, décollant depuis 2015 du cosmodrome de Plessetsk, en Russie.
+
+
+== Navettes spatiales européennes ==
+
+
+=== Hermès ===
+
+A la fin des années 1970, les navettes spatiales sont des concepts très bien vus par les différentes agences spatiales. Après l'officialisation des projets de navettes américaines et soviétiques, la France réfléchit à son tour à créer sa propre navette spatiale, qui prend rapidement le nom d'Hermès.
+Après avoir envisagé un lancement sur Ariane 4, l'ajout d'un système de sauvetage pour l'équipage oblige le développement d'un lanceur plus puissant, Ariane 5. Le projet est rapidement européanisé, et permet le développement en parallèle de la station française puis européenne Colombus. Néanmoins, le programme souffre de nombreux problèmes, la communication entre les pays est compliqué, le budget ne cesse d'augmenter et les dimensions d'Ariane 5 et d'Hermès sont sans cesse modifiées. En parallèle, des maquettes taille réelles sont créées, les centre d'entraînements ouvert et les spationautes commencent à être formés.
+En 1993, le programme Hermès est brusquement annulé, les pays membres de l'ESA n'arrivant pas à s'accorder sur les objectifs finaux du projet et sur le coût qu'il engendrerait.
+Le programme laissera en héritage Ariane 5, le nouveau lanceur phare européen, ainsi qu'un cockpit et deux maquettes de la navette grandeur nature. Le cockpit sera par la suite brûlé par l'aéroport qui l'hébergeait, une des deux maquettes disparu, et la dernière fut stockée en morceaux dans un hangar du Musée du Bourget, dans l'attente d'une rénovation.
+Le projet de station européenne Colombus, lui, donnera naissance au module Colombus de la Station Spatiale Internationale. Plusieurs autres éléments du programme seront également sur des projets tels que l'ATV, ou le démonstrateur IXV.
+
+
+=== IXV (Véhicule expérimental intermédiaire) ===
+
+Après l'annulation du programme Hermès, la France cherche à réutiliser certaines technologies dans le but de développer une nouvelle navette spatiale européenne. C'est ainsi qu'elle conçoit avec l'agence spatiale européenne le démonstrateur technologique IXV (Véhicule expérimental intermédiaire), qui a pour rôle de valider la faisabilité d'un tel système. Il s'agit d'un corps portant de 5 mètres de long, dépourvus d'ailes. Pour se diriger, l'IXV dispose d'un système de RCS, des propulseurs à gaz froid, et également de deux panneaux inclinable pour se diriger dans l'atmosphère terrestre. L'IXV est lancé depuis le Centre Spatial Guyanais en France le 11 février 2015 par un lanceur Vega, sur une trajectoire suborbitale, depuis la ZLV-1. Ce vol était bien évidemment inhabité.
+Après avoir réalisé une rentrée atmosphérique contrôlée grâce à ses deux panneaux, l'IXV a déployé un grand parachute avant d'amerrir en douceur dans l'Océan Pacifique. L'IXV ne volera plus, les technologies ayant ensuite été reprises sur le projet de navettes inhabitées Space Rider, qui au contraire de l'IXV, devra lui se poser sur une piste d'atterrissage conventionnelle.
+
+
+=== Space Rider ===
+
+A la suite du vol de l'IXV, l'ESA décide la création du projet Space Rider, un corps portant non habité devant permettre le retour d'expériences depuis l'orbite, ainsi que la maintenance de satellites.
+Le Space Rider doit effectuer son premier vol en 2022, sous la coiffe d'une Vega C depuis le Centre Spatial Guyanais en France. Par la suite, l'ESA envisage un à deux lancements par an, en fonction des applications commerciales que le véhicule pourrait offrir. L'agence spatiale européenne doit donner fin 2019 son accord pour la poursuite ou non des études, et la réalisation, ou non, du programme Space Rider.
+
+
+== Autres projets de navettes spatiales et d'avions spatiaux ==
+Plusieurs projets de navettes spatiales (pour des vols orbitaux) et d'avions spatiaux (pour des vols sub-orbitaux) ont été développés depuis le début de la conquête spatiale à la fin des années 1950, Mais en raison de leur complexité et de leur coût, un seul, piloté, a permis un vol réussi à ce jour : SpaceShipOne. Ce projet a été réalisé pour remporter le Ansari X Prize, qui offrait dix millions de dollars à la première entreprise privée parvenant à lancer un avion spatial réutilisable.
+Voici une liste de différents projets qui ont été développés :
+
+X-20 Dyna-Soar : le premier projet connu, démarré en 1957 par l’USAF, il s’agissait d’un vaisseau monoplace.
+NASP (National AeroSpace Plane), connu également sous le nom de X-30, a été annoncé en 1986 par le président américain Ronald Reagan avant d’être annulé en 1994.
+HOTOL pour HOrizontal TakeOff and Landing, projet de navette spatiale monoétage britannique étudié à la fin des années 1980 et abandonné au milieu des années 1990.
+Sänger, projet allemand au même destin que HOTOL.
+Tupolev-2000 (en), projet soviétique lancé en réaction à l'annonce du X-30 américain arrêté en 1992.
+HOPE-X, projet de démonstrateur d’une navette spatiale de la NASDA japonaise abandonné en 2003.
+X-33, démonstrateur pour la navette VentureStar, projet développé à partir de 1997 de Lockheed Martin utilisant des moteurs Aerospike développé par Boeing, le programme fut abandonné en 2000.
+X-34, démonstrateur de véhicule automatisé, abandonné en 2001.
+Boeing X-37, projet de navette automatique repris par l'USAF dont le premier vol a eu lieu le 22 avril 2010. Deux exemplaires sont en service en 2012.
+X-38 Crew Return Vehicle (CRV), prototype pour un projet de véhicule de sauvetage pour l’ISS, un vol atmosphérique fut effectué en 1998 puis le programme fut arrêté.
+Castor alias USV FTB-1 (it) (Unmanned Space Vehicle - Flying Test Beds 1), appareil d’essais sans pilote et sans moteur mesurant 9,2 mètres de long et possédant une masse de 1,2 tonne du centre italien de recherche aérospatiale, présenté en 2006, la première mise en orbite est prévue en 2010 depuis le Centre spatial guyanais
+Xerus, projet d’avion spatial autonome à décollage horizontal, et à vocation de tourisme et de transport (promoteur américain : Xcor)
+Space Ship One, avion spatial largué par le porteur White Knight de la société américaine Scaled Composites, dont un des fondateurs est Paul Allen de Microsoft. Il a remporté le Ansari X Prize le 4 octobre 2004 (la date anniversaire du lancement de Spoutnik 1, le 4 octobre 1957), et le prix de dix millions de dollars en jeu.
+Black Armadillo, projet de fusée sub-orbitale réutilisable, à décollage et atterrissage vertical. Elle est développée par la société Armadillo Aerospace, dont le principal actionnaire est John Carmack, créateur des jeux vidéo Doom et Quake.
+SpaceLiner, un avion suborbital hypersonique pour le transport de passager développé par une équipe du centre spatial allemand de l'aéronautique et de l'espace (Deutsches Zentrum für Luft- und Raumfahrt).
+Aries A et B (Alternative Reusable Italian Expandable Spacecraft). Projet italien de véhicule à décollage vertical et retour en vol plané.Malgré la réussite de Space Ship One, d'autres équipes privées continuent leurs recherches pour développer un véhicule spatial réutilisable, dans l’espoir d’un développement commercial du tourisme spatial sub-orbital.
+
+		
+		
+		
+		
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+
+Corps portant
+Navette spatiale américaine
+
+
+=== Liens externes ===
+ Portail des transports   Portail de l’astronautique

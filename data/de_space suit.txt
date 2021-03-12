@@ -1,0 +1,82 @@
+Der Raumanzug ist ein gasdichter Schutzanzug für Raumfahrer, der im Vakuum des Weltraums die Vitalfunktionen (insbesondere die Atmung) seines Trägers sichert, indem er sich unter Überdruck setzt. Ein an den Anzug angeschlossenes oder in den Anzug eingebautes Sauerstoffgerät entfernt das vom Träger ausgeatmete Kohlendioxid und ersetzt es durch Sauerstoff.
+
+
+== Einsatzgebiete ==
+Bei den Raumanzügen können folgende Einsatzgebiete unterschieden werden:
+
+Rettungsanzüge: Sie werden von der Besatzung nur innerhalb des Raumfahrzeugs bei gefährlichen Manövern wie während des Starts, der Kopplung und der Landung des Raumfahrzeugs getragen, um bei einem Versagen der Druckkabine des Fahrzeugs die Sauerstoffzufuhr zu sichern. Sie schützen also die Besatzung nur für kurze Zeit. Ab einer Höhe von 12.000 m reicht die Atmung von reinem Sauerstoff nicht mehr aus, um den für die Sauerstoffsättigung des Blutes benötigten Sauerstoff-Partialdruck zu erreichen. Abhilfe schaffen Anzüge, in deren Inneren ein Überdruck herrscht. Dieser Überdruck ermöglicht es dem Träger, Sauerstoff in ausreichender Menge zu atmen. Auch Piloten sehr hoch fliegender (Militär-)Flugzeuge (beispielsweise der Lockheed U-2 oder Lockheed SR-71) sowie Stratosphärenspringer tragen solche Druckanzüge. Beispiele für Rettungsanzüge sind der russische Sokol-Anzug für Insassen von Sojus-Raumschiffen und der orangefarbene ACES-Raumanzug für Space-Shuttle-Besatzungen.
+Raumanzüge für Außerbordaktivitäten (englisch extra-vehicular activity, EVAs). Bei Arbeiten im Weltraum außerhalb des Raumfahrzeugs bzw. der Raumstation werden meist Raumanzüge mit mobiler Sauerstoffversorgung auf dem Rücken des Trägers getragen. Sie müssen über spezielle Isolierfunktionen, Schutzschichten gegen Mikrometeoriten und ein Klimasystem zur Stützung der Körpertemperatur verfügen. Solche Anzüge werden bei der NASA als Extravehicular Mobility Units (EMUs) bezeichnet. Neben dem US-amerikanischen EMU (das von der ISS aus benutzt werden kann) gehören die russischen Anzüge der Orlan-Familie in diese Gruppe. Eine gebräuchliche russische Bezeichnung für einen Raumanzug ist Skaphander.
+
+
+== Fluganzug ==
+Nicht zu verwechseln ist der Raumanzug mit dem Fluganzug, einem strapazierfähigen, aus feuerfestem Gewebe gefertigten Overall. Dieser wird von Raumfahrern beim Training, zu offiziellen Anlässen und häufig bei der Arbeit an Bord des Raumfahrzeugs getragen, jedoch auch von Kunstfliegern, den Besatzungen von Militärmaschinen oder bei Testflügen (beispielsweise Parabelflüge).
+
+
+== Struktur eines Raumanzugs ==
+Jeder Raumanzug besteht aus zahlreichen Schichten verschiedener Textilien, Kunststoffe und häufig auch Metalle. In der innersten Schicht sind Schläuche eingelegt, durch die kaltes Wasser gepumpt wird, damit der Raumfahrer in seinem Anzug nicht überhitzt. Darüber befindet sich eine Schicht Neopren, die gasdicht, aber flexibel ausgeführt ist, und so den Überdruck halten kann. Zudem ist die Neoprenschicht von einer weiteren kräftigen Textilschicht umgeben. Die äußeren Anzugsschichten bestehen aus widerstandsfähigen feuerhemmenden Aramidfasern. Raumanzüge für Außenbordarbeiten sind zudem an der Außenseite mit Aluminium oder anderen Stoffen beschichtet, um Sonnenstrahlung zu reflektieren. Diese beiden Außenschichten schützen den Träger auch vor Mikrometeoriten und Strahlung.
+Damit sich der Anzug im Vakuum nicht übermäßig aufbläht und den Raumfahrer unbeweglich macht, wird der Druck im Anzug im Vergleich zur Erdatmosphäre so weit wie physiologisch möglich gesenkt. Je nachdem, in welcher Atmosphäre der Raumfahrer sich vor dem Ausstieg befunden hat, ist daher eine Anpassung an den reduzierten Druck erforderlich, um eine Dekompressionserkrankung zu verhindern. So muss beispielsweise auf der ISS ein Außenbordeinsatz im Raumanzug durch das mehrstündige Atmen von reinem Sauerstoff vorbereitet werden, da die Gasatmosphäre in den Wohnmodulen weitgehend der Erdatmosphäre entspricht (21 Prozent Sauerstoff, 78 Prozent Stickstoff, 1014 Hektopascal Druck). In den Raumschiffen des Apolloprogrammes wurde nach dem Start eine reine Sauerstoffatmosphäre hergestellt. Ein Ausstieg im Raumanzug war daher ohne ein solches 'Camp out' möglich. 
+Auf den Kopf des Raumfahrers wird ein nahezu kugelförmiger Helm gesetzt, der gasdicht an den Raumanzug angeschlossen und mit einem klappbaren Visier gegen die aggressive UV-Strahlung der Sonne (der Raumfahrer befindet sich jenseits der Ozonschicht) versehen ist. Meist im Rumpfbereich befinden sich die Anschlüsse für Sauerstoff, Abluft, Kühlwasser und Kommunikationssysteme.
+
+
+== Geschichte ==
+
+
+=== 1930er-Jahre ===
+Die modernen Raumanzüge haben ihren Ursprung in den Druckanzügen, wie sie in den 1930er-Jahren für Tiefseetaucher (Tauchanzug) und Testpiloten sehr hochfliegender Militärflugzeuge entwickelt wurden. Diese ursprünglichen Anzüge hatten allerdings einen großen Nachteil: Man konnte sich in ihnen praktisch nicht bewegen – entweder waren sie von vornherein zu steif oder sperrig, oder sie wurden es spätestens dann, wenn von innen her der Druck aufgebaut wurde. Es setzten sich schnell zwei Grundformen durch: Die einen waren „weiche“ Anzüge, die einen gewissen Grad an Beweglichkeit boten, allerdings keinen vollständigen Schutz gewährten. Die „harten“ Anzüge (wie sie bereits 1928 von Herman Potočnik vorgeschlagen wurden) waren dagegen zwar sicherer, dafür jedoch äußerst wuchtig. Die meisten Testpiloten, die in große Höhen vordrangen, benutzten weiche Anzüge. Für die späteren Raumfahrer suchte man nach einer ausgewogeneren Lösung. Heute verwenden sie harte Anzüge mit größerer Flexibilität. Die Evolution des Raumanzugs lässt sich in folgenden Schritten nachzeichnen: 1931 entwickelte der Russe Jewgeni Tschertowski einen unpraktikablen Druckanzug in Sankt Petersburg. 1933 überlebte der Amerikaner Mark Ridge in einem von den britischen Ingenieuren John Scott Haldane und Sir Robert H. Davis (von Siebe Gorman & Co. Ltd in London) entwickelten Anzug in einer Simulationskammer einen Atmosphärendruck von 27.500 Metern Höhe. 1934 entwickelten der amerikanische Pilot Wiley Post und der Designer Russell Colley von der Goodrich Company einen Anzug, der dem eines Tiefseetauchers ähnelte. Eines dieser frühen Modelle riss jedoch; ein anderes musste aufgeschnitten werden, um den Träger zu befreien. 1935 erreichte Post dann mit einem verbesserten Modell erstmals eine Höhe von 15 Kilometern. Im selben Jahr stellte die auf Taucheranzüge spezialisierte deutsche Firma Dräger einen Anzug aus Seide und mit Seidenschnur belegtem Gummi her. Unter Druck gesetzt blähte sich der Anzug jedoch derartig auf, dass das Augenfenster auf die Stirn des Piloten geschoben wurde. Eine französische Entwicklung aus demselben Jahr bestand aus Leinen, Seide und Gummi und wies Handschuhe mit Federspannung auf, damit der Pilot einen Brusthebel umlegen konnte, über den der innere Druck des Anzugs geregelt wurde. In den späten 1930er-Jahren tauchte der erste harte Anzug auf. Dieses italienische Fabrikat stellte sich jedoch als zu voluminös und schwer heraus, so dass die Piloten, nachdem sie sich von hinten in den Anzug gezwängt hatten, zum Flugzeug getragen werden mussten.
+
+
+=== 1940er-Jahre ===
+Im Jahre 1940 bewährte sich ein gummierter britischer Anzug mit einer am Oberschenkel montierten Sauerstoffflasche und einstellbarer Beinverschnürung bis in etwa 10.000 Meter Höhe. Im selben Jahr wurde der erste US-amerikanische Raumanzug von den Heeresfliegern in Auftrag gegeben. Er wog etwa 35 Kilogramm und wurde bei 200 hPa völlig starr; dies waren 35 hPa weniger als der im Weltraum zur Lebenserhaltung erforderliche Druck. Im Jahre 1942 erprobten die Heeresflieger unter anderem ein Anzugmodell mit der Bezeichnung XH-1. Es wies jedoch eine Reihe von Nachteilen auf, wie schlechte Lüftungseigenschaften und Unhandlichkeit, sobald es unter Druck stand. Ein zur selben Zeit von Dräger weiterentwickelter harter Anzug, der an eine mittelalterliche Ritterrüstung erinnerte, war zwar flexibler als die meisten anderen und konnte auch einem hohen Innendruck widerstehen, wie viele andere harte Anzüge war er jedoch zu schwer. 1943 inspirierte eine Raupe den Erfinder Russel Colley zu einer Konstruktion mit segmentartig gerippten Arm- und Beinteilen, die ihrem Träger erlaubten, seine Gliedmaßen zu heben und zu bewegen. Zusammen mit seinem käseglockenartigen Kunststoffhelm wurde er zum Vorbild zahlreicher Raumanzüge in der Science-Fiction-Literatur und in SF-Filmen der 1950er- und frühen 1960er-Jahre.
+
+
+=== 1950er- und 1960er-Jahre ===
+In den frühen 1950er-Jahren entwickelte die David Clark Company – seit 1939 Hersteller von Druckanzügen, aber auch Produzent von Büstenhaltern – einen Anzug aus Nylongewebe mit Waffelstruktur. 1960 wurde dann in der Sowjetunion der Weltöffentlichkeit ein Druckanzug vorgestellt, der dem des über dem Ural abgeschossenen und dann gefangengenommenen U-2-Piloten Gary Powers verblüffend ähnelte. 1962 präsentierten die Briten einen sehr leichten Anzug, der allerdings die Sicht behinderte und ziemlich starr wurde. Er wies einen rückwärtigen Reißverschluss-Einstieg auf, wie die späteren Apollo-Programm-Raumanzüge.
+Die Besatzungen der ersten Raumfahrzeuge Wostok und Mercury trugen Raumanzüge für den Fall des Entweichens der Atemluft aus dem Raumschiff. Die Mercury-Raumanzüge waren mit einer aufgedampften Außenschicht aus Aluminium zur Reflexion solarer Wärmestrahlung versehen, bestanden aus Nylon und Gummi, wogen nur neun Kilogramm und besaßen auch die besten Lüftungseigenschaften. Sie waren zuvor auf den Flügen des Raketenflugzeugs X-15 erprobt worden.
+Für die ersten Weltraumausstiege Mitte der 1960er-Jahre wurden diese Anzüge weiterentwickelt. Dazu dienten sogenannte Experimentalanzüge. 1964 stellte Litton Industries für die NASA den Prototyp eines harten Anzugs mit Knierohrgelenken, Drehverschlüssen und ohne Reißverschluss her. Für die Missionen des Apollo-Programms wurden jedoch weiche Anzüge benutzt, die mehr Beweglichkeit boten. 1965 stellte die David Clark Company für das Gemini-Programm mit seinen geplanten Weltraumausstiegen einen speziellen Raumanzug her, der ein goldbeschichtetes blendfreies Helmvisier besaß und zudem die ausgeatmete Luft von Nase und Mund fernhielt. Völlig neu konstruiert werden mussten die Raumanzüge für das Apollo-Programm, in denen sich Raumfahrer auf der Mondoberfläche bewegen sollten. Den Zuschlag für die Entwicklung und Produktion für den A7L-Raumanzug erhielt die ILC Dover von der NASA.
+
+
+=== 1970er-Jahre bis heute ===
+Die sowjetischen Kosmonauten auf den Missionen zur Saljut-Raumstation in den 1970er- und 1980er-Jahren trugen während Start, Landung und Umkopplungen weiche Raumanzüge, während die zu Weltraumausstiegen benutzten Anzüge harte Anzüge mit rückwärtigem Einstieg waren. Die US-amerikanischen Astronauten der ab den 1980er-Jahren eingesetzten Raumfähre Space Shuttle trugen Hybridmodelle, bei denen harte und weiche Materialien kombiniert waren. Anzüge dieser Art bieten Sicherheit und Beweglichkeit. Die heutigen US-amerikanischen EMUs sind aber prinzipiell Weiterentwicklungen der Apollo-Raumanzüge, allerdings mit einer Aussteifung aus Glasfaser-verstärktem Kunststoff im Rumpfbereich.
+Für den Einsatz im Space Shuttle wurde in den 1970er Jahren eine kleine Rettungskapsel entwickelt, die Personal Rescue Enclosure. Sie war kugelförmig und wie ein Raumanzug flexibel aufgebaut und bot Platz für einen Astronauten.Für die Sommer und Herbst 2012 durchgeführten Sprünge von Felix Baumgartner aus 39 km Höhe im Rahmen des Projektes Red Bull Stratos wurde ein Kurzzeitraumanzug für 0,24 bar Innendruck zum Fall mit mehr als Schallgeschwindigkeit – in dünner −68 °C kalter Atmosphäre – entwickelt.
+
+
+== Unfälle ==
+
+Wegen der Aufgabe und Nutzung eines Raumanzuges – besonders was die Außenbordaktivitäten der Träger angeht – ist ein Raumanzug mit einem tragbaren Raumschiff vergleichbar. Anders als bei den Raumfahrzeugen, wie zum Beispiel den im Apollo-Programm verwendeten Raumkapseln, kam es bei der Arbeit mit dem Raumanzug bisher zu keiner Katastrophe. Allerdings hätte es während des Fluges von Woschod 2 im Jahre 1965 fast eine Katastrophe gegeben. Damals hatte der sowjetische Kosmonaut Alexei Leonow für wenige Minuten den ersten Weltraumausstieg unternommen. Als er durch die Ausstiegsschleuse wieder in das Raumschiff zurückkehren wollte, hatte sein Schutzanzug sich durch den Innendruck dermaßen versteift, dass er nicht mehr genügend Bewegungsfreiheit besaß, um in die enge Schleuse zu gelangen. Der Druck im mit reinem Sauerstoff gefüllten Anzug konnte von 0,40 bar auf 0,23 bar reduziert werden. Mit diesem vorab für Notfälle vorbereiteten Modus gelang es Leonow, den Anzug wieder beweglicher zu machen und in die Schleuse zurückzukehren.
+Am 15. August 2007, dem achten Flugtag der STS-118-Mission zur Internationalen Raumstation, wurde ein Außenbordeinsatz zur Erweiterung der ISS frühzeitig abgebrochen. Missionsspezialist Mastracchio musste wegen eines Risses in der oberen Schicht seines Handschuhs in die Luftschleuse zurückkehren.
+
+
+=== Wasseraustritt ===
+Am 16. Juli 2013 kam es im Rahmen der ISS-Expedition 36 während des Außenbordeinsatzes EVA-23 zu einem schwerwiegenden Zwischenfall mit einem US-amerikanischen Raumanzug (EMU). 44 Minuten nach seinem Ausstieg meldete der ESA-Raumfahrer Luca Parmitano das Eindringen von Wasser in seinen Helm. Zunächst wurde eine Undichtheit in seinem Trinkwasserbeutel vermutet. Als Parmitano diesen leergetrunken hatte und die Wassermenge im Helm weiterhin zunahm, wurde die Mission sofort abgebrochen. Bei der Rückkehr in die Luftschleuse gerieten größere Wassermengen in den Helm und behinderten Parmitanos Sicht, Atmung und Sprechvermögen. Schlussendlich befanden sich geschätzte 1,5 Liter Wasser im Anzug, wodurch Ertrinkungsgefahr für den Astronauten bestand. Als Ursache für das Leck entpuppte sich eine verstopfte Pumpe im System zur Temperaturregelung des Raumanzuges, wodurch Wasser aus dem Kühlkreislauf in die Atemluft gelangte. In einem am 27. Februar 2014 veröffentlichten Untersuchungsbericht der NASA wurde eingeräumt, dass das Wasserproblem zwar bekannt, jedoch unterschätzt worden war.Am 25. Februar 2015 drang während des zweiten Außenbordeinsatzes der ISS-Expedition 42 auch Wasser in dem Helm der EMU von Terry Virts ein, jedoch in wesentlich geringerer Menge als zuvor bei Parmitano.
+
+
+== Zukunft ==
+
+Für spätere Missionen Richtung Mond oder Mars sind die heute verwendeten Raumanzüge wegen ihrer hohen Masse und ihrer schlechten Beweglichkeit im aufgeblasenen Zustand kaum geeignet. Ursprünglich (beispielsweise von Fachleuten der NASA) vorgeschlagen wurden hier Anzüge, die ähnlich einer Rüstung und einem Panzertauchanzug aus steifen, bruchfesten Kunststoffteilen mit Gelenken dazwischen aufgebaut sind. Aus Gründen des Gewichtes und der Beweglichkeit ist diese Lösung jedoch nicht optimal.
+Am Massachusetts Institute of Technology befindet oder befand sich eine alternative Konstruktion namens Bio Suit in Entwicklung: ein hauteng gespannter elastischer Ganzkörperanzug aus Latex mit eingebetteten Nanokunststoffplatten zum Schutz vor Mikrometeoriten und Sonnenstrahlung, der den Körper des Trägers an der Expansion hindert. Lediglich der Helm wird wie gewohnt unter Druck gesetzt.
+Für das Artemis-Mondlandeprogramm entwickelt die NASA einen neuen Raumanzug.
+
+
+== Geruch nach Außenbordeinsätzen ==
+Nach Aussagen mehrerer Astronauten riechen die Raumanzüge nach Außenbordeinsätzen an der Internationalen Raumstation dezent nach verbranntem Fleisch, Holzkohle, Schießpulver, Schweißrauch, Metall, Wunderkerze, Bremsbelag, Walnuss oder nasser Wäsche.
+
+
+== Siehe auch ==
+Hard Upper Torso, Teil vieler Raumanzüge
+Lebenserhaltungssystem, Teil aller Raumanzüge
+
+
+== Literatur ==
+Nicholas de Monchaux: Spacesuit. Fashioning Apollo. The MIT Press. Cambridge, Massachusetts 2011
+Eugen Reichl: Korrekt gekleidet im All-Tag. In: Star Observer Nov./Dez. 2003, S. 48–54.
+
+
+== Weblinks ==
+
+How Spacesuits Work
+EVA Support Information – Broschüre der ESA zum Außenbordeinsatz und Raumanzugverwendung bei der Installation des Columbus-ISS-Moduls (PDF; 1 MB)
+Suited for Spacewalking (PDF; 4,6 MB)
+Video: Wie funktioniert ein Raumanzug?. Deutsches Zentrum für Luft- und Raumfahrt 2014, zur Verfügung gestellt von der Technischen Informationsbibliothek (TIB), doi:10.5446/15410.
+
+
+== Einzelnachweise ==

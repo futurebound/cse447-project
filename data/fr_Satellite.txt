@@ -1,0 +1,106 @@
+Un satellite naturel est un objet céleste en orbite autour d'une planète ou d'un autre objet plus grand que lui-même qui n'est pas d'origine humaine, par opposition aux satellites artificiels. Ils peuvent être de grosse taille et ressembler à de petites planètes. De tels objets sont également appelés lunes, par analogie avec la Lune, le satellite naturel de la Terre.
+Techniquement, le terme pourrait s'appliquer à une planète orbitant une étoile, ou même une étoile orbitant un centre galactique, mais une telle utilisation est rare. En temps normal, il désigne les satellites naturels des planètes, planètes naines et petits corps.
+
+
+== Origine ==
+On suppose que les satellites naturels orbitant relativement proches d'une planète sur une orbite prograde se sont formés dans la même région du disque protoplanétaire à l'origine de cette planète. Par opposition, les satellites irréguliers (orbitant généralement sur des orbites distantes, inclinées, excentriques ou rétrogrades) seraient des objets étrangers capturés et éventuellement fragmentés lors de collisions.
+
+
+=== La naissance d’un satellite ===
+Il y a trois causes permettant la création d'un satellite : l'accrétion, la capture et la collision.
+
+
+==== Accrétion ====
+Lors de la formation d’une planète, on retrouve des morceaux de roches, des poussières de glace et des gaz tourbillonnants en forme de disque autour. Les bouts de roches s’agglutinent pour former un grumeau, qui sous les chocs d’autres fragments rocheux crée une sphère de roche qui grossit et absorbe les éventuels grumeaux voisins. Elle finit par dominer le disque et reste seule en orbite, donnant naissance à un satellite.
+Un modèle permet d'expliquer que la grande majorité des satellites réguliers du système solaire est formé à partir de l'accrétion d'anneaux planétaires. Au cours du temps, ces anneaux « visqueux » entourant des planètes géantes ou des planètes dites « telluriques » telles que la Terre ou Pluton (la prédiction de ce modèle ne fonctionne pas uniquement pour la répartition des satellites de Jupiter) s'étalent (près de la planète les forces gravitationnelles tendent à faire s'accréter les grains qui les constituent mais les forces de marée les en empêchent) et lorsqu'ils atteignent une certaine distance de la planète (appelée « limite de Roche »), la gravité l'emporte sur l'effet de marée, ils forment ainsi de petits agrégats qui se détachent progressivement (sur des millions d'années) et s'éloignent. Les anneaux donnent ainsi naissance à des satellites en orbite autour de la planète, certains de ces anneaux ayant depuis disparu alors que le processus se poursuit sur Saturne par des cycles de confinement et de déconfinement des anneaux de quelques millions d'années : lorsqu'un gros satellite s'éloigne, par le mécanisme d'action et réaction, il repousse l'anneau sous la limite de Roche (confinement) ; lorsque le satellite est suffisamment éloigné, l'anneau s'étale à nouveau pour redépasser la limite de Roche (déconfinement).
+
+
+==== Capture ====
+Cas le plus rencontré : il faut que deux astéroïdes (rarement un seul), gravitant l’un près de l’autre s'approchent suffisamment d'une planète pour que son champ gravitationnel ne soit pas négligeable. Dès lors, l'astéroïde le plus proche ou le plus massif de la planète se retrouve happé dans le champ gravitationnel de cette dernière. Sa trajectoire est alors modifiée par la force de l’attraction de l’astre qui s'ajoute aux autres forces exercées sur celui-ci (inertie, attraction de l'autre astéroïde, etc.). Si l’attirance de l’astre est la plus forte, la liaison entre les deux astéroïdes cède, le jumeau reçoit ainsi une impulsion d’énergie et file dans l’espace tandis que l’autre astéroïde commence son premier tour d’orbite ainsi que sa vie de satellite.
+
+
+==== Collision ====
+Dernier cas, qui est aussi le plus rare : il se produit lorsqu’un astéroïde de taille monstrueuse heurte une planète. Lors de ce choc titanesque, un panache de matière jaillit de l’impact, contenant roche et même des fragments du noyau de la planète. Cette matière va s’agglomérer, formant un nouveau corps. Mais ce dernier, trop lourd à cause de la masse métallique extraite du noyau de la planète, chute à nouveau et va percuter une seconde fois la planète. Cette fois, la partie arrachée du noyau se fond quasi-totalement avec celui de la planète. Le panache ainsi formé sera donc exempt de particules métalliques, plus lourdes. Ce dernier va tout de même se scinder en deux, une partie retournera à l’astre, l’autre commencera une orbite. Cette matière va s’agglomérer de façon à créer un nouveau satellite. Toute cette séquence peut prendre seulement vingt-quatre heures.
+Il existe des exceptions ou des variations à ce modèle standard de formation. En particulier, les couples Terre-Lune et peut-être Pluton-Charon tireraient leur origine de la collision de deux grands objets proto-planétaires. La matière éjectée en orbite autour du corps central aurait alors formé un ou plusieurs objets par accrétion. On pense par ailleurs que les satellites d'astéroïdes se forment principalement par ce processus.
+
+
+== Définition ==
+Le terme de « satellite » ne possède pas de définition scientifique précise. En particulier, l'existence de couples Pluton-Charon et Terre-Lune, où le rapport des masses entre le corps central et son satellite n'est pas aussi prononcé que dans la plupart des autres systèmes, rend difficile la détermination d'une limite séparant un système satellitaire d'une planète double. Une définition commune suppose qu'un système satellitaire doit posséder un barycentre situé sous la surface du corps le plus massif, mais elle n'est pas officielle et reste arbitraire.
+À l'autre bout de l'échelle, les systèmes annulaires autour des géantes gazeuses du Système solaire sont composés de petits morceaux de glace et de roche ; il n'existe aucune limite définissant une taille à partir de laquelle un tel morceau est suffisamment grand pour être considéré comme un satellite à part entière.
+
+		
+
+
+== Terminologie ==
+Le premier satellite naturel connu est la Lune. Jusqu'à la découverte des satellites galiléens en 1610, aucune occasion ne s'est donc présentée pour caractériser de tels objets. Galilée choisit pour sa part le terme grec latinisé stellae planetæ (« étoiles errantes », par opposition aux étoiles fixes) pour les désigner. C'est Képler qui les nomme « satellites » en 1611, du latin satelles signifiant « gardien » ou « compagnon », le satellite semblant accompagner la planète dans ses déplacements.
+Christian Huygens, le découvreur de Titan, est le premier à utiliser le terme « lune » pour ce type d'objet, appelant Titan Luna Saturni ou Luna Saturnia (« lune de Saturne » ou « lune saturnienne »).
+Au fil des découvertes, le terme est abandonné ; Jean-Dominique Cassini utilise parfois le terme de « planètes » pour ses découvertes, mais plus souvent celui de « satellites ».
+Le terme de « satellite » devient la norme pour décrire un objet en orbite autour d'une planète, permettant d'éviter l'ambiguïté de « lune ». Cependant, en 1957, le lancement de Spoutnik 1, le premier objet artificiel en orbite autour de la Terre, rend nécessaire la distinction entre les satellites artificiels et les satellites naturels. Le terme simple de « satellite » tend à désigner principalement les objets artificiels et le terme « lune » est à nouveau souvent employé. Par contre, on appelle toujours « satellite » les nouveaux corps détectés autour d'objets eux-mêmes en orbite autour du Soleil (leur désignation provisoire est « S » suivi d'un numéro, comme S/2004 N 1).
+
+
+== Satellites naturels du Système solaire ==
+
+
+=== Généralités ===
+À la mi-novembre 2020, on connaît plus de 620 satellites naturels dans le Système solaire dont au moins 416 autour d'un astéroïde et 205 satellites confirmés autour des planètes du Système solaire : Jupiter en compte 79, Saturne 82 (plus environ 150 lunes mineures), Uranus 27, Neptune 14, Mars 2 et la Terre 1. On connaît 9 lunes orbitant autour de planètes naines : 5 pour Pluton, 2 pour Hauméa, 1 pour Makémaké et 1 pour Éris. Environ 200 autres (dont au moins une quarantaine ayant une désignation provisoire ou définitive) ont été découvertes autour d'astéroïdes et autres petits corps du Système solaire. Certaines études[Lesquelles ?] estiment que 15 % des objets transneptuniens possèdent au moins un satellite.
+Les lunes du Système solaire d'un diamètre supérieur à 2 000 km sont la Lune (satellite de la Terre), les lunes galiléennes de Jupiter (Io, Europe, Ganymède et Callisto), Titan (lune de Saturne) et Triton (lune de Neptune). Toutes ces lunes sont plus grandes que Pluton. Ganymède et Titan sont plus grandes que Mercure, la plus petite des planètes du Système solaire.
+Les géantes gazeuses possèdent des systèmes entiers de satellites naturels, dont plusieurs ont une taille comparable à la Lune. Parmi les planètes internes, Mercure et Vénus n'ont aucun satellite, la Terre en possède un unique de grande taille (la Lune) et Mars deux lunes minuscules (Phobos et Déimos). Parmi les planètes naines, Cérès n'en possède pas (au contraire de nombreux autres objets de la ceinture d'astéroïdes) ; Éris en possède un (Dysnomie) ; Makémaké en possède également un (S/2015 (136472) 1) ; Hauméa deux (Hi'iaka et Namaka) ; Pluton cinq (Nix, Hydre, Charon, Kerbéros et Styx). Les candidats parmi d'autres au statut de planète naine Orcus et Quaoar en possèdent aussi chacun un.
+
+
+=== Rotation synchrone ===
+La plupart des satellites naturels proches sont en rotation synchrone avec le corps autour duquel il tourne, ce qui signifie qu'ils tournent sur eux-mêmes en autant de temps qu'ils effectuent une révolution complète autour de la planète, et présentent ainsi toujours la même face vers la planète (c'est le cas par exemple de la Lune). Parmi les exceptions, Hypérion, une lune de Saturne, tourne de façon chaotique à cause de plusieurs influences extérieures.
+En revanche, les satellites extérieurs des géantes gazeuses en sont trop éloignés pour être en rotation synchrone. Par exemple, Himalia (lune de Jupiter), Phœbé (lune de Saturne) et Néréide (lune de Neptune) ont une période de rotation de 10 h et une période orbitale de centaines de jours.
+
+
+=== Satellites de satellites ===
+
+On ne connaît aucun satellite naturel d'un autre satellite naturel dans notre Système solaire. On ne sait pas si de tels objets sont stables à long terme. Dans la plupart des cas, la force de marée causés par l'objet primaire rend un tel système instable. En théorie, un satellite secondaire peut exister à l'intérieur de la sphère de Hill d'un satellite primaire, mais aucun objet de ce type n'a encore été détecté. Des recherches ont été effectuées pour trouver un satellite de la Lune, sans succès.
+Mais même si aucun satellite naturel n'est découvert autour d'un autre satellite des objets suivant une trajectoire de quasi-satellite peuvent orbiter temporairement autour d'un satellite. C'est ce qu'a réalisé l'Union soviétique avec leur sonde Phobos 2 en 1989 autour du satellite martien du même nom.
+Un projet de la NASA prévoit de mettre un astéroïde de taille moyenne en orbite autour de la Lune et peut être le premier satellite d'un satellite connu, projet abandonné.
+L'exoplanète Kepler-1625 b peut avoir un satellite naturel (Kepler-1625 b I) dont un autre satellite naturel orbite autour du satellite naturel. La lune extrasolaire Kepler-1625 b I est un satellite naturel de la taille de Neptune, or, on n'a jamais découvert un satellite naturel aussi grand dans notre Système solaire ce qui rend possible l'existence de satellites de satellites dans d'autres systèmes planétaires.
+
+
+=== Les lunes co-orbitales ===
+Deux lunes possèdent des petits compagnons à leur point de Lagrange L4 et L5, appelés lunes co-orbitales par analogie avec les astéroïdes troyens de Jupiter :
+
+Télesto précède Téthys, tandis que Calypso le suit.
+Hélène précède Dioné et Pollux le suit.
+
+
+=== Satellites de planète mineure ===
+
+Un satellite de planète mineure est un astéroïde en orbite autour d'un autre astéroïde. On considère généralement qu'ils sont formés des débris résultant d'un impact impliquant l'astéroïde primaire. D'autres systèmes pourraient avoir été formés par de petits objets capturés par la gravité d'un corps plus grand. Au début des années 1990, la découverte de la petite lune Dactyle orbitant autour de (243) Ida a confirmé que les astéroïdes peuvent également posséder des satellites naturels. Certains corps, comme (90) Antiope, sont des astéroïdes doubles formés de deux composants de taille similaire. Plusieurs astéroïdes ayant deux satellites sont aujourd'hui connus, dont (87) Sylvia.
+
+
+=== Liste ===
+La table suivante regroupe les lunes du Système solaire selon leur diamètre moyen et le corps autour duquel elles orbitent. La colonne de droite inclut certains autres objets notables (planètes, planètes naines, astéroïdes, transneptuniens) à titre de comparaison.
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Astéroïde troyen
+Chronologie des découvertes des satellites naturels du Système solaire
+Galaxie satellite
+Lune astéroïdale
+Lune co-orbitale
+Lune extrasolaire
+Quasi-satellite
+Satellite intérieur
+Satellite irrégulier
+Satellites naturels par objet :
+Satellites naturels de Mars
+Satellites naturels de Jupiter
+Satellites naturels de Saturne
+Satellites naturels d'Uranus
+Satellites naturels de Neptune
+Système plutonien
+
+
+=== Références ===
+Science&Vie Junior, Les lunes du système solaire : Naissance des satellites, Mathilde Fontez, Paris, 1913, no 230, novembre 2008
+Science&Vie Junior, Le bing bong de la lune, Fabrice Nicot, Paris, 1913, no 162, mars 2003
+La cité des sciences
+
+ Portail de l’astronomie   Portail des planètes mineures et comètes

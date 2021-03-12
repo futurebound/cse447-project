@@ -1,0 +1,49 @@
+La electrólisis [1]​ es el proceso que separa los elementos de un compuesto por medio de la electricidad. En ella ocurre la liberación de electrones por los aniones en el ánodo (una oxidación) y la captura de electrones por los cationes en el cátodo (una reducción).
+
+
+== Historia ==
+Fue descubierta accidentalmente en 1800 por William Nicholson mientras estudiaba el funcionamiento de las baterías. En 1834 el físico y químico inglés Michael Faraday desarrolló y publicó las leyes de la electrólisis que llevan su nombre y acuñó los términos.
+
+
+== Proceso ==
+
+Se aplica una corriente eléctrica continua mediante un par de electrodos conectados a una fuente de alimentación eléctrica y sumergidos en la disolución. El electrodo conectado al polo positivo se conoce como ánodo, y el conectado al negativo como cátodo.[2]​
+Cada electrodo atrae a los iones de carga opuesta. Así, los iones negativos, o aniones, son atraídos y se desplazan hacia el ánodo (electrodo positivo), mientras que los iones positivos, o cationes, son atraídos y se desplazan hacia el cátodo (electrodo negativo).
+La manera más fácil de recordar toda esta terminología es fijándose en la raíz griega de las palabras:
+Odos significa camino. Electrodo es el camino por el que van los electrones.
+Catha significa hacia abajo (catacumba, catástrofe). Cátodo es el camino por donde caen los electrones.
+Anas significa hacia arriba. Ánodo es el camino por el que ascienden los electrones.
+Ion significa caminante. Anión se dirige al ánodo y catión se dirige al cátodo.
+La nomenclatura se utiliza también en pilas.
+Una forma fácil también de recordar la terminología es teniendo en cuenta la primera letra de cada electrodo y asociarla al proceso que en él ocurre; es decir: en el ánodo se produce la oxidación (las dos palabras empiezan con vocales) y en el cátodo la reducción (las dos palabras comienzan con consonantes).
+La energía necesaria para separar a los iones e incrementar su concentración en los electrodos es aportada por la fuente de alimentación eléctrica.
+En los electrodos se produce una transferencia de electrones entre estos y los iones, produciéndose nuevas sustancias. Los iones negativos o aniones ceden electrones al ánodo (+) y los iones positivos o cationes toman electrones del cátodo (-).En definitiva lo que ocurre es una reacción de oxidación-reducción, donde la fuente de alimentación eléctrica se encarga de aportar la energía necesaria.
+
+
+=== Electrólisis del agua ===
+
+Si el agua no es destilada, la electrólisis no solo separa el oxígeno y el hidrógeno, sino los demás componentes que estén presentes como sales, metales y algunos otros minerales (lo que hace que el agua conduzca la electricidad no es el H2O, sino que son los minerales. Si el agua estuviera destilada y fuera 100% pura, no tendría conductividad).
+Es importante hacer varias consideraciones:
+
+Nunca deben unirse los electrodos, ya que la corriente eléctrica no va a conseguir el proceso y la batería se sobrecalentará y quemará.
+Debe utilizarse siempre corriente continua (energía de baterías o de adaptadores de corriente), nunca corriente alterna (energía del enchufe de la red).
+La electrólisis debe hacerse de tal manera que los dos gases desprendidos no entren en contacto, de lo contrario producirían una mezcla peligrosamente explosiva (ya que el oxígeno y el hidrógeno resultantes se encuentran en proporción estequiométrica).
+Una manera de producir agua otra vez, es mediante la exposición a un catalizador. El más común es el calor; otro es el platino en forma de lana fina o polvo. El segundo caso debe hacerse con mucho cuidado, incorporando cantidades pequeñas de hidrógeno en presencia de oxígeno y el catalizador, de manera que el hidrógeno se queme suavemente, produciendo una llama tenue. Lo contrario nunca debe hacerse sin debida investigación y ayuda profesional.
+
+
+=== Aplicaciones de la electrólisis ===
+
+Producción de aluminio, sodio, potasio, y magnesio.
+Producción de hidróxido de sodio, ácido clorhídrico, clorato de sodio y clorato de potasio.
+Producción de hidrógeno con múltiples usos en la industria: como combustible, en soldaduras, entre otros. Ver más en hidrógeno diatómico.
+La electrólisis de una solución salina permite producir hipoclorito (cloro): este método se emplea para conseguir una cloración ecológica del agua de las piscinas.
+La electrometalurgia es un proceso para separar el metal puro de compuestos usando la electrólisis. Por ejemplo, el hidróxido de sodio es separado en sodio puro, oxígeno puro e hidrógeno puro.
+La anodización es usada para proteger los metales de la corrosión.
+La galvanoplastia, también usada para evitar la corrosión de metales, crea una película delgada de un metal menos corrosible sobre otro penco.
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una galería multimedia sobre Electrólisis.

@@ -1,0 +1,397 @@
+Se denomina propulsión espacial a cualquier tecnología capaz de impulsar una nave por el espacio. Para efectuar viajes espaciales es necesario algún sistema de propulsión capaz de imprimir aceleración a los vehículos. Debido al vacío del espacio exterior, cualquier aceleración deberá basarse en la tercera ley Newton (o ley de acción y reacción), según la cual, «por cada fuerza que actúa sobre un cuerpo, este realiza una fuerza de igual intensidad pero de sentido contrario». De esta manera, si un objeto expulsa parte de su masa en una dirección, el resto del objeto se desplazará en sentido contrario. Este es el fundamento de los motores a reacción, también llamados de «propulsión a chorro»: en ellos, parte de la masa de la nave (el combustible) es expulsada a gran velocidad en una dirección, ocasionando que el resto de la nave se desplace en el sentido opuesto.
+El motor más empleado para la propulsión de naves espaciales es el motor cohete, pues es capaz de generar una enorme potencia y, a diferencia de otros tipos de motores, no necesita de oxígeno atmosférico para funcionar. Sin embargo, a pesar de la gran potencia de los motores cohete, no son eficientes para las enormes distancias espaciales. Con este propósito se están desarrollando los motores iónicos, que gracias a la mayor velocidad de salida del propelente pueden ser diez veces más eficientes. Aun así, ningún motor conocido hasta el momento es capaz de obtener velocidades suficientes como para plantear viajes interestelares. No obstante, existen diversas alternativas a los motores a reacción: la más inmediata la constituyen las velas solares, capaces de obtener impulso de la radiación solar, del viento solar, incluso de rayos láser o de microondas enviados desde la Tierra. No se puede descartar tampoco que en un futuro lejano sean viables otros métodos de propulsión más exóticos, como los «motores de curvatura» o motores warp.
+
+
+== Necesidad de sistemas de propulsión ==
+Los satélites artificiales deben ser lanzados para ser puestos en órbita. Y una vez que han alcanzado su posición estacionaria en la órbita nominal, necesitan alguna manera de control de actitud para que se puedan mantener apuntando una cierta posición entre la Tierra, el Sol y posiblemente algunos objetos astronómicos de interés. Los satélites no sufren por lo general una resistencia aerodinámica apreciable (si bien en las órbitas más bajas todavía persiste una enrarecida atmósfera remanente). Por este motivo pueden permanecer en órbita durante largos períodos con solo una pequeña cantidad de propelente, utilizado tanto para propulsarse como para realizar pequeñas correcciones. Muchos satélites necesitan ocasionalmente moverse de unas órbitas a otras y precisan por tanto de una cierta cantidad de propelente. Cuando este tipo de satélites han agotado su capacidad para hacer estas operaciones, se dice que su vida útil se ha agotado.
+Durante la fase de lanzamiento todas las naves espaciales emplean cohetes de propelente químico, bien en estado líquido (propelente y oxidante separados), o bien sólido (propelente y oxidante mezclados). Aunque para órbitas bajas y cargas medianas y pequeñas existen algunos diseños recientes, tales como el cohete Pegaso o la nave SpaceShipOne), que durante la primera fase del lanzamiento, aprovechan la sustentación aerodinámica y el oxígeno presente en la atmósfera para la combustión, evitando así tener que cargar con él en el propio cohete, reduciendo los costes.
+Las naves espaciales que realizan viajes interplanetarios han de recorrer largas distancias. Por esta razón, además del lanzamiento requerido para abandonar la atmósfera de la Tierra (como en el caso de los satélites) necesitan un segundo sistema de propulsión para viajar por el espacio o, al menos, para poder corregir su trayectoria. Las naves interplanetarias realizan estas correcciones mediante pequeñas propulsiones de corta duración, mientras que generalmente, su desplazamiento principal se basa únicamente en su impulso inicial y simplemente tienen un comportamiento de caída libre a través de su órbita.
+
+La manera más simple y eficiente para cambiar de una órbita a otra desde el punto de vista de consumo de propelente se denomina transferencia de Hohmann: la nave espacial empieza en una órbita circular alrededor del Sol, y durante un corto período efectúa un impulso en la dirección de movimiento de la nave, tangente a su trayectoria. De esta manera la nave acelera o desacelera, pasando a adoptar una órbita elíptica alrededor del Sol, que es tangente a la órbita previa. La nave espacial así propulsada cae libremente en esta órbita hasta que alcanza su destino. Cuando las naves se acercan a un planeta con atmósfera, se puede recurrir al aerofrenado que a veces se emplea para el ajuste final de la órbita.[1]​
+Otros métodos de propulsión, tales como las velas solares, proporcionan un impulso reducido pero constante:[2]​ una nave con un sistema de propulsión de estas características podría ser capaz de viajar largas distancias interplanetarias utilizando un propelente inagotable como la radiación solar. Estas naves seguirían una trayectoria diferente a la definida por la transferencia orbital de Hohmann, ya que pueden ser permanentemente empujadas radialmente desde el Sol hacia el exterior del sistema solar.
+Las naves espaciales que pretendan realizar viajes interestelares necesitarán métodos de propulsión más eficientes, pues dada la magnitud de las distancias interestelares, se necesitará de una gran velocidad para recorrerlas en un intervalo de tiempo razonable hasta llegar al destino. Adquirir estas velocidades es un reto tecnológico hoy en día.
+
+
+== Efectividad de los sistemas de propulsión ==
+La masa de la Tierra genera un pozo gravitatorio: para que un cuerpo pueda escapar de esta fuerza gravitatoria ha de alcanzar una velocidad superior a los 11.2 km/s. Esta velocidad se denomina velocidad de escape. Si la nave es tripulada, su aceleración no debería diferir mucho del valor de 1 G (9.8 m/s²), pues es la aceleración a la que el cuerpo humano está acostumbrado. Si bien se han descrito casos de personas capaces de soportar aceleraciones hasta los 15 G, cuando se somete al cuerpo a periodos prolongados de caída libre se producen náuseas, debilidad muscular, reducción del sentido del sabor, falta de asimilación del calcio, y otros síntomas.[3]​
+
+
+=== Cinemática de la propulsión ===
+Una nave espacial modifica su velocidad v mediante su sistema propulsor. Debido a la inercia, cuanta más masa posea la nave, más difícil será acelerarla. Por ello se suele hablar del momento de una nave, y para cuantificar el cambio de momento se habla de impulso. De esta manera, el objetivo de la propulsión en el espacio es crear impulso. Cuando la nave espacial es lanzada desde la Tierra, el método de propulsión empleado deberá superar la fuerza gravitacional para obtener una aceleración neta positiva. Ponerse en órbita consiste en alcanzar una velocidad tangencial tal que genere una fuerza centrípeta suficiente para compensar el efecto del campo gravitatorio de la Tierra.
+La razón de cambio de la velocidad se denomina aceleración, y la razón de cambio de momento se denomina fuerza. De esta manera, para alcanzar una cierta velocidad, se puede imprimir una pequeña aceleración durante un periodo largo de tiempo, o puede imprimirse una gran aceleración durante un periodo corto de tiempo. De manera similar, se puede lograr un mismo impulso con una gran fuerza aplicada durante un corto período, o con una fuerza menor pero aplicada más tiempo. En ausencia de fuerzas externas, según las leyes de conservación del momento, para acelerar un cuerpo en el vacío parte de su masa deberá desplazarse en sentido opuesto al resto. Esta masa que se desplaza en sentido opuesto es el propelente, y su masa se denomina «masa de reacción».
+
+
+=== Requerimientos de la propulsión a chorro ===
+Para lograr que un cohete funcione son necesarias dos cosas:
+
+Masa de reacción
+EnergíaEl impulso proporcionado al expulsar una partícula de masa reactiva, si esta posee una masa de m a una velocidad v, es igual a m•v. Pero esta partícula se expulsa con una energía cinética igual a m•v2/2, que debe proceder de alguna parte. En un cohete de combustible sólido, líquido, o híbrido, el propelente debe quemarse, proporcionando energía, y los productos de la reacción se permite que fluyan hacia el exterior por la parte trasera de la nave espacial, proporcionando masa reactiva. En un propulsor iónico, se emplea la electricidad para acelerar los iones y expulsarlos. Existen otros dispositivos que proporcionan energía eléctrica como los paneles solares o un reactor nuclear, mientras que los iones son los encargados de proporcionar la masa reactiva.
+
+
+=== Parámetros de la eficiencia de la propulsión ===
+Cuando se menciona la eficiencia de un sistema de propulsión a chorro, los diseñadores a menudo se centran en el empleo adecuado de la masa reactiva. La masa reactiva debe llevarse necesariamente en el cohete y debe ser consumida irreversiblemente al ser usada. Una manera de medir la cantidad de impulso que es posible obtener de una cantidad dada de masa reactiva es lo que se denomina el impulso específico, llamando así a la cantidad de impulso por unidad de peso en la Tierra (se designa típicamente como 
+  
+    
+      
+        
+          I
+          
+            s
+            p
+          
+        
+      
+    
+    {\displaystyle I_{sp}}
+  ). La unidad para este valor es segundos. Como el impulso específico se mide con relación de peso en la tierra, a menudo no es importante cuando se habla de vehículos en el espacio, por esta razón se habla a veces de impulso específico en términos de unidades de masa. Esta manera alternativa de medir el impulso específico empleando unidades de masa (kg) hace que tenga unidades de velocidad (m/s), y en realidad es igual a la velocidad de las partículas (velocidad de evacuación) del motor cohete (denominado de manera típica como 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    {\displaystyle v_{e}}
+  ). Resulta confuso que ambos conceptos de impulso específico se denominan de manera similar. Aunque los dos valores difieren en un factor igual a la G, la aceleración de la gravedad sobre la superficie terrestre (
+  
+    
+      
+        
+          I
+          
+            s
+            p
+          
+        
+        G
+        =
+        
+          v
+          
+            e
+          
+        
+      
+    
+    {\displaystyle I_{sp}G=v_{e}}
+  ).
+Un cohete con una velocidad de evacuación alta puede alcanzar el mismo impulso empleando una masa de reacción menor. Por lo tanto la energía requerida para impulsar es proporcional al cuadrado de la velocidad de evacuación de la masa reactiva, de esta manera se necesita imprimir mucha energía a la masa reactiva. Esto es un problema si es un requerimiento que el motor proporcione una gran cantidad de empuje. Para generar una gran cantidad de impulso por segundo, se debe emplear una gran cantidad de energía por segundo. De esta manera un motor altamente eficiente requiere grandes cantidades de energía para proporcionar grandes cantidades de empuje. Como resultado, la mayoría de los motores se diseñan para proporcionar bajos niveles de empuje.
+
+
+=== Cálculos de la propulsión a chorro ===
+Quemar el propelente de un cohete de una nave espacial es la mejor manera de producir un cambio neto de velocidad en el espacio; a esta variación la denominamos 'delta-v'. La variación total de velocidad la representamos como 
+  
+    
+      
+        Δ
+        v
+      
+    
+    {\displaystyle \Delta v}
+   de un vehículo y representa una de las incógnitas a resolver cuando se emplea la ecuación cinemática de un cohete, donde M es la masa de combustible (o de propelente), P es la masa de la carga útil (incluyendo la masa estrucural del cohete), y 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    {\displaystyle v_{e}}
+   es la velocidad de evacuación de propelente por la tobera. Todo estos parámetros forman parte de la ecuación de Tsiolkovsky:
+
+  
+    
+      
+        Δ
+        v
+        =
+        −
+        
+          v
+          
+            e
+          
+        
+        ln
+        ⁡
+        
+          (
+          
+            
+              
+                M
+                +
+                P
+              
+              P
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \Delta v=-v_{e}\ln \left({\frac {M+P}{P}}\right)}
+  Por razones históricas, la velocidad 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    {\displaystyle v_{e}}
+   se escribe a menudo como
+
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+        =
+        
+          I
+          
+            s
+            p
+          
+        
+        
+          g
+          
+            o
+          
+        
+        
+      
+    
+    {\displaystyle v_{e}=I_{sp}g_{o}\,}
+  donde 
+  
+    
+      
+        
+          I
+          
+            s
+            p
+          
+        
+      
+    
+    {\displaystyle I_{sp}}
+   es el impulso específico del cohete, medido en segundos, y 
+  
+    
+      
+        
+          g
+          
+            o
+          
+        
+      
+    
+    {\displaystyle g_{o}}
+   es la aceleración gravitatoria en la superficie terrestre. Para un viaje de largas distancias la mayoría de la masa de la nave espacial es masa reactiva. Debido a que es necesario que la masa reactiva proporcione un aumento de velocidad a la masa de la carga útil. Si se tuviera que proporcionar a una carga útil de masa P un cambio de velocidad de 
+  
+    
+      
+        Δ
+        v
+      
+    
+    {\displaystyle \Delta v}
+  , y el motor del cohete tuviera una velocidad de evacuación ve, entonces la masa M reactiva sería calculada mediante la ecuación de Tsiolkovsky mediante 
+  
+    
+      
+        
+          I
+          
+            s
+            p
+          
+        
+      
+    
+    {\displaystyle I_{sp}}
+  
+
+  
+    
+      
+        M
+        =
+        P
+        
+          (
+          
+            
+              e
+              
+                Δ
+                v
+                
+                  /
+                
+                
+                  v
+                  
+                    e
+                  
+                
+              
+            
+            −
+            1
+          
+          )
+        
+      
+    
+    {\displaystyle M=P\left(e^{\Delta v/v_{e}}-1\right)}
+  Para 
+  
+    
+      
+        Δ
+        v
+      
+    
+    {\displaystyle \Delta v}
+   más pequeña que la ve, esta ecuación es lineal, y puede verse que basta con emplear una pequeña masa reactiva. Si 
+  
+    
+      
+        Δ
+        v
+      
+    
+    {\displaystyle \Delta v}
+   es comparable con ve, entonces se necesita aproximadamente el doble de masa de propelente que de carga útil (lo que incluye motores, tanques de combustible, estructura, y demás). Tras este punto, el crecimiento es exponencial; las velocidades más altas que la velocidad de evacuación requieren ratios cada vez mayores de masa de propelente con respecto a la carga de pago (carga útil). Para poder lograr esto, mucha de la energía almacenada se destina a acelerar la propia masa reactiva. Además conviene recordar que los motores (Por reglas termodinámicas) nunca son 100% eficientes, liberan energía sin utilizar, pero si se asume un 100% de eficiencia se necesitaría una energía de
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    1
+                    2
+                  
+                
+              
+            
+          
+        
+        M
+        
+          v
+          
+            e
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}{\frac {1}{2}}\end{matrix}}Mv_{e}^{2}}
+  Comparando con la ecuación de cohetes (que muestra cuanta energía necesita un vehículo) y la ecuación energética (que muestra la energía total requerida) se puede comprobar que bajo la suposición de un 100% de eficiencia en el motor, no toda la energía proporcionada acaba en el vehículo, sino una parte de ella; de hecho la mayor parte de ella, acaba siendo energía cinética de la masa evacuada. Para una misión, por ejemplo, de lanzamiento y planetizaje (Aterrizar en otro planeta) es necesario tener en cuenta que hay que superar las fuerzas de gravedad (son resistentes al despegue, y provocan un aumento del propelente necesario). Es típico considerar estas caractersísticas y otras muchas para poder lograr un correcto delta-v efectivo en la misión. Por ejemplo, cuando se lanza una nave a una misión de órbita baja se requiere una delta-v de 9.3 a 10 km/s, este valor forma parte de los número integrados de los computadores de a bordo.
+Por ejemplo, si se quieren enviar 10 000 kg a Marte, la 
+  
+    
+      
+        Δ
+        v
+      
+    
+    {\displaystyle \Delta v}
+   requerida para alcanzar una LEO (low earth orbit: órbita baja terrestre) es de aproximadamente 3000 m/s, empleando una órbita de transferencia de Hohmann. Si hubiera necesidad de guiar la nave se necesitaría mucho más propelente. Para ajustar el argumento, los cohetes impulsores empleados hoy en día pueden ser:
+
+Se ha de observar que cuando se es más eficiente en el consumo de combustible los motores pueden necesitar menos peso de propelente para las mismas funciones; esta masa es casi despreciable (en relación con la masa de carga útil) para algunos de los motores. Sin embargo, es de notar que es requerida una gran cantidad de energía.
+
+
+== Métodos de propulsión a chorro ==
+Los métodos de propulsión pueden clasificarse mediante la manera de acelerar la masa reactiva. Existen algunos métodos especiales para los lanzamientos, las llegadas a los planetas y los aterrizajes.[4]​
+
+
+=== Motores cohete ===
+
+La mayoría de los motores cohete son motores de combustión interna motores de calor (debido en parte al protagonismo que toma la combustión). El motor de un cohete generalmente produce altas temperaturas en la masa reactiva, produciendo un gas caliente. Este se produce mediante el quemado de un combustible sólido, líquido o gaseoso con un oxidante en una cámara de combustión. Al gas extremadamente caliente se le permite escapar a través de una abertura capaz de hacer expandir el gas a una proporción alta, la abertura se denomina: tobera. Esta tobera con forma de campana le proporciona al cohete una forma característica. El efecto de la tobera provoca una aceleración dramática de las partículas haciendo que la energía térmica se convierta en energía cinética. Las velocidades de evacuación de gases a nivel de presión normal pueden llegar a superar fácilmente casi 10 veces la velocidad del sonido.
+Los cohetes que emiten plasma pueden potencialmente transportar reacciones dentro de una botella magnética y lanzar el plasma vía una tobera magnética, de tal manera que no haya contacto material con el plasma. Desde luego la máquina que haga esto es compleja, pero las investigaciones en fusión nuclear han desarrollado métodos, algunos de los cuales han sido usados en sistemas especulativos de propulsión a chorro.
+Véase motor cohete para una lista de los diferentes tipos de motores cohetes empleados en la industria aeroespacial así como los diferentes formas de la cámara de combustión, incluyendo los químicos, eléctricos, solar, y nuclear.
+
+
+=== Reactores para el lanzamiento ===
+
+Los estudios muestran que los motores a reacción, tales como los ramjets o los turbojets son generalmente demasiado pesados (la razón empuje/peso es baja) para cualquier desarrollo de operaciones de lanzamiento, por esta razón se suelen lanzar desde otras naves ya en vuelo. Los sistemas de lanzamiento pueden ser lanzamiento aéreo desde un avión (como por ejemplo desde una B-29, Pegasus y White Knight) donde hacen uso de sus sistemas de propulsión.
+Por otra parte, existen los aerorreactores que son motores ligeros que tienen la ventaja de tomar aire durante la fase de ascenso:
+
+SABRE: un aerorreactor que emplea como combustible hidrógeno con un pre-enfriador[5]​
+ATREX: otro aerorreactor de bajo peso con pre-enfriador[6]​
+Motor de ciclo de aire líquido: Se trata de un motor que emplea hidrógeno y aire líquido antes de ser quemado en la cámara de combustión
+Scramjet: se trata de un aerorreactor que emplea combustión supersónicaLos cohetes normalmente se lanzan desde una posición casi vertical y vuelan durante una decena de kilómetros antes de llegar a su órbita; este inicial lanzamiento vertical consume mucho propelente pero es óptimo desde el punto de vista de resistencia aerodinámica. Los aerorreactores queman propelente más eficientemente y permiten emplear una trayectoria más tangencial, los vehículos típicamente vuelan tangencialmente a la superficie de la Tierra hasta que abandonan la atmósfera terrestre, en este instante desarrollan un segundo cohete delta-v que enlaza este estado con la órbita.
+
+
+=== Aceleración de la masa reactiva por electromagnetismo ===
+
+En lugar de someter a un líquido a altas temperaturas y a la dinámica de fluidos para acelerar la masa reactiva a altas velocidades, existen una variedad de métodos que emplean las fuerzas del campo electrostático o electromagnético para acelerar la masa reactiva. Generalmente en este tipo de motores la masa reactiva es una corriente de iones. Tales motores necesitan de una fuente de energía potente para poder funcionar, y unas altas velocidades de evacuación requieren altas cantidades de energía.
+Para algunas misiones la energía solar puede ser suficiente, y es empleada muy a menudo, pero para otras se requiere una fuente de energía nuclear; los motores que emplean la energía de una fuente nuclear se denominan cohetes de electricidad nuclear. Con la capacidad actual de generación de electricidad, bien sea químicamente, nuclear o solar se tiene una limitación de empuje con este tipo de propulsión.
+Algunos métodos electromagnéticos:
+
+Propulsión iónica
+Propulsión electrostática de iones
+Propulsión emisión de campo eléctrico
+Propulsión mediante efecto Hall
+Propulsión de doble capa Helicon
+Propulsión sin electrodos mediante plasma (aceleración por fuerzas electromagnéticas; emite plasma).
+Propulsión de pulsos inductivos
+Propulsión de dinámica por magnetoplasma
+Cohete de impulso específico variable
+
+
+=== Sistemas sin masa reactiva transportada en el cohete ===
+
+La ley de la conservación de momento establece que cualquier motor que no emplee masa reactiva, no puede mover su centro de gravedad (cambiar la orientación es sin embargo posible). Sin embargo el espacio no está vacío, especialmente en el área del Sistema Solar, donde puede haber campos magnéticos, el viento y la radiacción solar. Muchos sistemas de propulsión intentan diseñarse de manera tal que se aprovechen de estas características. Debido a la característica difusa de estos fenómenos en el sistema solar, los motores que aprovechan estas fuentes de energía necesitan de unas estructuras de tamaño considerable. Los motores de estas características no necesitan (o en cualquier caso emplean una cantidad muy pequeña) de masa reactiva:
+
+Propulsión mediante cables[7]​
+Propulsión mediante velas solares
+Propulsión mediante velas magnéticas
+Propulsión mediante plasma mini-magnetosféricoPara cambiar la orientación de la nave espacial en el espacio no existe sin embargo tal restricción, la ley de conservación de momento angular no impone restricciones, muchos satélites emplean un volante de inercia para controlar la orientación del satélite. Este método no es el único para controlar la actitud del mismo, se pueden emplear sistemas que aprovechen el viento solar o las fuerzas magnéticas para hacer la misma función, algunos de estos sistemas pueden diseñarse de tal manera que pueden servir como sistema secundario.
+
+
+== Véase también ==
+Nave estelar de agujero negroPropulsión espacial termonuclear
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+Guía de la NASA para principiantes, lectura obligada para aquellos que sin conocimientos técnicos desean saber algo sobre el tema.
+Proyecto de propulsión en el sitio web de la NASA.
+«Propulsión de cohetes» en el sitio web Braeunig.
+Journal of Advanced Theoretical Propulsion, revista en inglés publicada en el sitio web Transtator Industries.
+Diferentes tipos de cohetes, en el sitio web Project RHO.
+«Earth-to-orbit transportation bibliography», la más extensa bibliografía sobre la sistemas de transporte mediante propulsión; en el sitio web Island One.
+«Spaceflight propulsion», recopilación detallada realizada por Greg Goebel, de domino público; en el sitio web Vector Site.

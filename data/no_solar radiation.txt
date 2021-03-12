@@ -1,0 +1,27 @@
+Solstråling er strålingsenergi sendt ut fra solen, og da særlig elektromagnetisk energi. Omtrent halvparten av strålingen er i det synlige kortbølgeområdet av det elektromagnetiske spekteret. Den andre halvdelen er for det meste i det nær-infrarøde området, men det er også en mindre del i det ultrafiolette området av spekteret. Den delen av den ultrafiolette strålingen som ikke blir absorbert av atmosfæren kan føre til at mennesker blir solbrente og får brunere hud ved å oppholde seg i sola. 
+Solstråling blir vanligvis målt med et pyranometer eller et pyrheilometer.  
+
+
+== Solarkonstanten ==
+Solarkonstanten er mengden av solinnstråling per areal målt ved yttergrensen av jordatmosfæren i et plan normalt på solstrålene. Solarkonstanten inneholder alle typer solstråling og ikke bare det synlige lyset. Den er målt av satellitter til å være omtrent 1366 watt per kvadratmeter (selv om den varierer med et par tusendeler fra dag til dag). Så for hele jorden, med et tverssnittareal på 127 400 000 km² er effekten fra sola 1,740×1017 W. 
+Solarkonstanten er relativt konstant, men varierer i forbindelse med solflekkaktivitet. Det påvirker for det meste klimaet på lang sikt, og har ikke så mye å si for det daglige været. Den totale mengden stråling som jorden tar i mot er avhengig av tversnittet (π R2), men siden jorden roterer blir denne energien fordelt over hele overflatearealet (4 π R2). Dermed blir den gjennomsnittlige innkommende solstrålingen (kjent som «solinnstråling») en fjerdedel av solarkonstanten eller omtrent 342 W/m². Solstrålingen som et sted på jorden får er riktignok avhengig av tilstanden til atmosfæren og hvilken breddegrad mann befinner seg på. 
+Solarkonstanten er derimot ikke konstant over lange tidsperioder, se solvariasjon.
+
+
+== Solstrålingens effekt på klimavariasjoner ==
+
+På jorden merker vi solstrålingen som dagslys når sola er over horisonten. Når den direkte solstrålingen ikke er blokkert av skyer, opplever vi det som solskinn, en kombinasjon av skarpt gult lys og varme. Varmen på kroppen og andre objekter kommer både av solstrålingen og økningen i lufttemperaturen. 
+Mengden av stråling som en planet mottar varierer med roten av avstanden mellom sola og planeten. Jordens bane rundt sola og helningsvinkelen endrer seg med tiden. Av og til er banen nesten en perfekt sirkel, og andre ganger har den en eksentrisitet på 5 %. Den totale solinnstrålingen er nesten konstant, men årstidsvariasjonen, fordelingen med breddegraden og intensiteten av solstrålingen ved overflaten vil variere. (se graf over solinnstrålingen de siste 600 000 år). For eksempel kan endringen i solenergien på 65 grader bredde om sommeren og vinteren variere med mer enn 25 % som følge av slike variasjoner. Fordi sommeren og vinteren har en tendens til å oppheve hverandre, vil endringen i den årlige solinnstrålingen ofte være nær null, men omfordelingen av energi mellom sommer og vinter kan føre til store forskjeller mellom årstidene. Slik endringer er antakelegvis mye av årsaken til at istider oppstår (se Milankotvitch teori)
+
+
+== Se også ==
+Soloppvarming
+Solnøytronproblemet
+Solvariasjon
+Solvind
+
+
+== Eksterne lenker ==
+Målinger av solarkonstanten fra 1970 til i dag
+Måling av solstråling
+Formel for å regne ut daglengeden

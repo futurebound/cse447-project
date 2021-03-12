@@ -1,0 +1,79 @@
+Wahadłowiec kosmiczny (ang. space shuttle), in. wahadłowiec (ang. shuttle) – załogowy lub bezzałogowy statek kosmiczny, który może być wykorzystywany wielokrotnie i zwykle przystosowany jest do wynoszenia na orbitę i sprowadzania z orbity sztucznych satelitów i innych ładunków. Cechą charakterystyczną wahadłowców jest lądowanie na pasie startowym lotniska, podobnie jak samoloty, stąd używane są w stosunku do nich takie określenia jak samolot kosmiczny, rakietoplan i inne. Wahadłowce mogą natomiast startować wynoszone tradycyjną rakietą nośną lub na pokładzie większego samolotu-nosiciela.
+W założeniach prom, dzięki możliwości wielokrotnego wykorzystania, miał umożliwić znaczną redukcję kosztów związanych z wynoszeniem na orbitę ładunków i pasażerów. W praktyce te statki kosmiczne stały się bardzo skomplikowane, a każdy ich lot orbitalny okazywał się niezwykle kosztowny.
+
+
+== Zastosowanie ==
+Wahadłowce używane były m.in. do umieszczania w przestrzeni kosmicznej sztucznych satelitów Ziemi i sond kosmicznych oraz prowadzenia przez kilkuosobową załogę badań naukowych i eksperymentów technicznych na orbicie. Nietypowym zastosowaniem wahadłowca było użycie go dla naprawy i remontu umieszczonego na orbicie teleskopu Hubble’a.
+
+
+== Start i lądowanie ==
+W zależności od zastosowanych rozwiązań konstrukcyjnych wahadłowiec był wynoszony w przestrzeń kosmiczną dzięki pracy silników: albo głównie członu orbitalnego oraz wspomagających rakiet dodatkowych na paliwo stałe (odzyskiwanych), albo dzięki ciągowi głównej rakiety nośnej, a po jej odłączeniu – za pomocą silników członu orbitalnego.
+Powrót załogowego członu orbitalnego na Ziemię odbywał się przez stopniowe obniżanie jego orbity w wyniku hamującego działania silników, po którym następowało przejście do lotu ślizgowego zakończonego lądowaniem na specjalnym pasie lądowiska kosmodromu. Taki sposób powrotu orbitera na Ziemię wymagał m.in. zabezpieczenia kadłuba statku płytkami ceramicznymi chroniącymi kadłub statku przed przegrzaniem podczas wchodzenia w coraz gęstsze warstwy atmosfery. Wyhamowanie statku po wylądowaniu na pasie do lądowania odbywało się przy pomocy spadochronu.
+
+
+== Historia wahadłowców ==
+Do czynnej służby trafiły jedynie trzy typy promów – amerykańskie Space Shuttle w ramach programu Space Transportation System (STS) i wojskowe bezzałogowe X-37B, oraz radzieckie promy programu Buran.
+Pierwszym w historii astronautyki wahadłowcem był amerykański statek kosmiczny Columbia (pierwszy lot 12–14 kwietnia 1981), następnie zostały wprowadzone do eksploatacji amerykańskie wahadłowce: Challenger (uległ katastrofie 28 stycznia 1986), Discovery, Atlantis i Endeavour. Loty wahadłowców wznowiono w lipcu 2005 (STS-114) po przerwie spowodowanej katastrofą Columbii w 2003 (STS-107).
+Promy radzieckie wykonały zaledwie jeden lot przed zawieszeniem, a następnie zakończeniem programu ich budowy. 15 listopada 1988 odbył swój inauguracyjny (bezzałogowy) i jedyny lot kosmiczny po orbicie okołoziemskiej radziecki wahadłowiec Buran, wyniesiony w przestrzeń kosmiczną przez rakietę nośną Energia.
+Amerykańska agencja NASA korzystała z promów kosmicznych do 2011. Ich głównym zadaniem było w ostatnich latach dostarczanie załóg, zaopatrzenia i elementów konstrukcyjnych Międzynarodowej Stacji Kosmicznej. Do tego celu ma być wykorzystany w przyszłości statek Orion lub podobne konstrukcje firmy Boeing lub SpaceX, które jednak nie mają charakteru samolotu kosmicznego i lądować mają na spadochronach jak statki Apollo lub Sojuz.
+Siły Powietrzne Stanów Zjednoczonych wykorzystują dwa egzemplarze bezzałogowego niewielkiego wahadłowca X-37B wyprodukowanego przez przedsiębiorstwo Boeing. Są one przystosowane do wielomiesięcznej pracy na orbicie. Od 2010 odbyły się cztery wielomiesięczne loty tych statków. 9 września 2017 X-37B znalazł się piąty raz na orbicie. Po raz pierwszy wyniosła go rakieta Falcon 9 należąca do prywatnej firmy SpaceX. 
+W kilku krajach (m.in. w Chińskiej Republice Ludowej, Indiach) trwają prace nad projektami nowych samolotów kosmicznych.
+Wykaz wahadłowców, które odbyły loty w kosmos lub odbędą taki lot w ciągu kilku lat:
+
+Budowane są również samoloty kosmiczne będące mniejszymi wahadłowcami, zdolnymi do lotów suborbitalnych. Pierwszym takim samolotem był amerykański eksperymentalny X-15, który w 1963 dwukrotnie przekroczył wysokość 100 km (umowną granicę kosmosu). Wiele lat później przedsiębiorstwo Scaled Composites zbudowało eksperymentalny samolot rakietowy SpaceShipOne (SS1) wynoszony samolotem WhiteKnightOne (WK1), który w 2004 wygrał konkurs Ansari X PRIZE trzykrotnie wznosząc się powyżej 100 km. Budowane są obecnie suborbitalne samoloty rakietowe z przeznaczeniem do turystyki kosmicznej: zestaw SpaceShipTwo/WhiteKnightTwo (SS2/WK2) oraz XCOR Lynx.
+
+
+== Różnice między Buranem a orbiterami NASA ==
+Jakkolwiek zewnętrznie obie konstrukcje wydają się bliźniaczo podobne, założenia projektowe są zupełnie odmienne. Amerykańska wersja wahadłowca składa się z orbitera wyposażonego w trzy potężne silniki, napędzane mieszanką wodoru i tlenu oraz przymocowanego doń zewnętrznego zbiornika paliwa ET z wodorem i tlenem. Dodatkową moc potrzebną w pierwszej fazie startu zapewniały dwie rakiety SRB na paliwo stałe, przymocowane po obu stronach zbiornika z paliwem. Poza zbiornikiem zewnętrznym reszta elementów była odzyskiwana i mogła być użyta ponownie. W radzieckiej wersji główna jednostka napędowa została przeniesiona poza płatowiec. Do jego wyniesienia służyła zwykła jednorazowa rakieta Energia. Odzyskiwany miał być jedynie płatowiec (bez silników), czyli zaliczanie tego systemu do systemów wielokrotnego wykorzystania jest wątpliwe. 
+Energia była największą radziecką rakietą. Była napędzana paliwem płynnym, co umożliwiało regulację ciągu (rakiety pomocnicze amerykańskich wahadłowców nie mogą zostać wyłączone po ich uruchomieniu). Rakieta Energia mogła wynosić dowolny ładunek, nie tylko wahadłowiec, przez co jej ogromny udźwig mógł być wykorzystany do innych celów. Możliwości te zademonstrowała w misji wyniesienia satelity bojowego Polus. W konfiguracji Energia/Buran całkowity udźwig na niską orbitę okołoziemską wynosił 30 ton. Dla porównania udźwig Space Shuttle na niską orbitę (około 250 km) to 29 ton, po katastrofie Challengera ograniczony do 25 ton.
+Wahadłowiec Buran miał możliwość odbywania całkowicie automatycznych lotów kosmicznych i katapultowania foteli załogi. Jednak atuty tego promu i rakiety nośnej nie zostały wykorzystane, ze względu na zakończenie programu po rozpadzie ZSRR. Trudno z jednego udanego lotu (bez ładunku) wnioskować o wartości radzieckiego systemu. Energia była wykorzystana jedynie dwa razy.
+
+
+== Promy kosmiczne ==
+
+
+=== Stany Zjednoczone ===
+Space Shuttle
+Enterprise – testowy, do lotów atmosferycznych, bez własnego napędu.
+Pathfinder – makieta nieprzystosowana do odbywania lotów.
+Columbia – pierwszy prom w czynnej służbie; stracony w katastrofie w czasie wchodzenia do atmosfery ziemskiej w 2003.
+Challenger – zbudowany jako testowy, później przystosowany do lotów kosmicznych; stracony w katastrofie w czasie startu w 1986.
+Discovery 1984-2011
+Atlantis 1985-2011
+Endeavour 1992-2011
+X-37B
+OTV-1
+OTV-2
+
+
+=== ZSRR ===
+Buran
+OK-GLI – testowy, do lotów atmosferycznych.
+Buran 1.01 – jedyny egzemplarz, który wykonał lot orbitalny w 1988. Zniszczony w katastrofie hangaru.
+Buran 1.02 (Pticzka) – ukończony w 97%.
+2.01 – ukończony w 50%.
+2.02 – częściowo rozmontowany.
+2.03 – całkowicie rozmontowany.
+
+
+=== Projekty niezrealizowane ===
+X-20 Dyna Soar ( Stany Zjednoczone)
+Hermes (  ESA)
+HOPE-X ( Japonia)
+Silbervogel – pierwowzór współczesnych wahadłowców, suborbitalny bombowiec projektowany podczas II wojny światowej przez austriackiego inżyniera Eugena Sängera.
+EADS Phoenix (  ESA) – prototyp promu Hopper.
+Kliper (  Roskosmos)
+Pre-X ( CNES)
+USV-X (  Włoska Agencja Kosmiczna)
+
+
+=== Planowane ===
+Dream Chaser – budowany przez przedsiębiorstwo Sierra Nevada Corporation w ramach programu Commercial Crew Program.
+
+
+== Zobacz też ==
+oznaczenia promów kosmicznych
+
+
+== Linki zewnętrzne ==
+NASA: Amerykańskie wahadłowce kosmiczne (ang.)

@@ -1,0 +1,19 @@
+Een lichtjaar, symbool lj, (Engels: light-year, symbool ly) is een lengtemaat die wordt gebruikt in de astronomie en kosmologie. Een lichtjaar is de afstand die licht in vacuüm aflegt in een periode van één jaar volgens de juliaanse kalender. Een lichtjaar is dus geen eenheid van tijd, zoals de naam suggereert.
+Om precies te zijn is een lichtjaar gedefinieerd als de afstand die een foton zou afleggen in vrije ruimte, oneindig ver weg van elk zwaartekrachtsveld en magnetisch veld in één juliaans jaar (365,25 dagen van elk 86 400 seconden).
+Doordat de lichtsnelheid in vacuüm per definitie exact gelijk is aan 299 792 458 meter per seconde is een lichtjaar exact gelijk aan 9 460 730 472 580 800 meter, dus afgerond 9461 biljoen meter ofwel 9,46 biljoen kilometer. 
+Een lichtjaar is ook ongeveer gelijk aan 63 241 astronomische eenheden (AE).
+Het lichtjaar wordt gebruikt om de afstand tot sterren, sterrenstelsels en andere objecten in het heelal aan te duiden. In de astronomie wordt voor zulke afstanden echter vaker de parsec gebruikt, die gedefinieerd is als de afstand op welke een object een parallax van één boogseconde genereert als het geobserveerde object zich één astronomische eenheid zou verplaatsen loodrecht op de zichtlijn van de waarnemer. Een parsec is ongeveer gelijk aan 3,26 lichtjaar. De voorkeur wordt gegeven aan de parsec omdat deze gemakkelijker kan worden afgeleid uit en vergeleken met gegevens uit observaties. Bij het algemene publiek buiten wetenschappelijke kringen wordt de eenheid lichtjaar echter vaker gebruikt.
+Eenheden gerelateerd aan het lichtjaar zijn het lichtuur, de lichtminuut en lichtseconde, de afstand die het licht aflegt in vacuüm in respectievelijk een uur, een minuut en een seconde. Een lichtminuut is gelijk aan 17 987 547 480 meter, ofwel circa 18 miljard meter, dus 18 miljoen kilometer. Een lichtseconde is per definitie 299 792 458 m; dit volgt uit de definitie van de meter.
+
+
+== Enkele feiten ==
+De afstand tussen de aarde en de maan is ongeveer 1,3 lichtseconden.
+De afstand van de zon naar de aarde is 8,3 lichtminuten.
+De middellijn van de baan van de verste planeet, Neptunus, is ongeveer 8 lichtuur.
+In augustus 2020 was de Voyager 1 al 150 AE (22,4 miljard km) van onze zon verwijderd, ofwel 0,0024 lichtjaar (21 lichtuur).
+De dichtstbijzijnde ster na onze zon, Proxima Centauri, is 4,22 lichtjaar van ons verwijderd.
+Het centrum van ons sterrenstelsel, de Melkweg, is ongeveer 28 000 lichtjaar ver. De diameter van de Melkweg is ongeveer 100 000 lichtjaar.
+Het dichtstbijzijnde andere grote sterrenstelsel, de Andromedanevel (M31) staat ongeveer 2,54 miljoen lichtjaar van ons af.
+De dichtstbijzijnde grote cluster buiten onze eigen Lokale Groep, de Virgocluster, is ongeveer 50 miljoen lichtjaar weg.
+Het zichtbare deel van het heelal heeft een straal van ongeveer 46 miljard lichtjaar, hoewel het licht van de rand van het zichtbare deel van het heelal 13,7 miljard jaar geleden werd uitgezonden (de geschatte leeftijd van het heelal). De getallen verschillen doordat in de loop van de tijd het heelal is uitgedijd.
+Eén lichtjaar is ongeveer 236 miljoen rondjes om de aarde (over de evenaar).

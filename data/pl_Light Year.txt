@@ -1,0 +1,31 @@
+Rok świetlny – jednostka odległości stosowana w astronomii. Jest równy odległości, jaką pokonuje światło w próżni w ciągu jednego roku juliańskiego (365,25 dnia, 31 557 600 sekund).
+W przeliczeniu na inne jednostki:
+1 rok świetlny = 0,3066 pc = 63241 au = 9,4607×1015 m
+czyli
+≈ 9,5 Pm
+≈ 9,5 biliona km.
+
+
+== Symbol jednostki ==
+Nie ma ustalonego symbolu jednostki roku świetlnego. W literaturze angielskojęzycznej, zgodnie z broszurą BIPM używa się skrótu „l.y.” Międzynarodowa Unia Astronomiczna oficjalnie uznaje użycie skrótu bez kropek („ly”). W języku polskim używa się głównie pełnej nazwy.
+
+
+== Odległości ==
+Odległość od Ziemi do Księżyca światło pokonuje w ok. 1,3 s, co powodowało opóźnienia w komunikacji podczas misji załogowych Apollo.
+Około 8 minut i 20 sekund zajmuje światłu podróż ze Słońca do Ziemi.
+Najbliższa znana gwiazda od Słońca, Proxima Centauri jest położona w odległości 4,22 lat świetlnych od Słońca.
+Średnica Drogi Mlecznej wynosi w przybliżeniu 100 000 lat świetlnych.
+Kandydatem na najbardziej odległy obiekt zaobserwowany z Ziemi jest galaktyka GN-z11 oddalona o ok. 32 miliardy lat świetlnych od Ziemi (obecnie obserwowane światło zostało wyemitowane 13,4 miliarda lat temu), podobnie odległym obiektem jest źródło rozbłysku gamma GRB 090429B, który został zaobserwowany w 2009 roku.
+Średnica obserwowalnego Wszechświata to 93 mld ly
+
+
+== Zobacz też ==
+dzień świetlny
+godzina świetlna
+minuta świetlna
+
+
+== Uwagi ==
+
+
+== Przypisy ==

@@ -1,0 +1,769 @@
+In de wiskunde is een ruimte een verzameling die voorzien is van een wiskundige structuur.
+De moderne wiskunde gebruikt het begrip "ruimte" in algemenere zin dan in de klassieke wiskunde. In de klassieke wiskunde betekent de term ruimte: een model van de fysische ruimte (zie ruimte (natuurkunde)), waarin iedere plaats gekenmerkt wordt door drie getallen, coördinaten genaamd. Het woord ruimtemeetkunde verwijst naar deze oorspronkelijke interpretatie: de studie van meetkundige objecten in een driedimensionale vectorruimte over het getallenlichaam der reële getallen.
+Meestal wordt uit de context duidelijk met welk ruimtebegrip men te maken heeft.
+
+
+== Voorbeelden ==
+Een metrische ruimte is een geordend paar 
+  
+    
+      
+        (
+        M
+        ,
+        d
+        )
+      
+    
+    {\displaystyle (M,d)}
+   waarbij 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   een verzameling is en 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   een functie
+
+  
+    
+      
+        d
+        
+        :
+        M
+        ×
+        M
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle d\,\colon M\times M\to \mathbb {R} }
+  ,afstand genoemd, die voldoet aan bepaalde eisen.
+Een topologische ruimte is een geordend paar 
+  
+    
+      
+        (
+        X
+        ,
+        
+          
+            T
+          
+        
+        )
+      
+    
+    {\displaystyle (X,{\mathcal {T}})}
+   waarbij 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   een verzameling is en 
+  
+    
+      
+        
+          
+            T
+          
+        
+      
+    
+    {\displaystyle {\mathcal {T}}}
+   een collectie van deelverzamelingen van 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  , open verzamelingen genoemd, die voldoet aan bepaalde voorwaarden.
+Een groep is een geordend paar 
+  
+    
+      
+        (
+        G
+        ,
+        f
+        )
+      
+    
+    {\displaystyle (G,f)}
+   met een niet-lege verzameling 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   en een binaire operatie 
+  
+    
+      
+        f
+        :
+        G
+        ×
+        G
+        →
+        G
+      
+    
+    {\displaystyle f:G\times G\to G}
+  , soms optelling genoemd en als + geschreven, en soms vermenigvuldiging genoemd en als * geschreven, die voldoet aan bepaalde voorwaarden.
+Een lichaam (Ned) / veld (Be) is een tripel 
+  
+    
+      
+        (
+        K
+        ,
+        +
+        ,
+        ∗
+        )
+      
+    
+    {\displaystyle (K,+,*)}
+   met een niet-lege verzameling 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  , een optelling + en een vermenigvuldiging * die voldoen aan bepaalde voorwaarden.
+Een vectorruimte over een lichaam (Ned) / veld (Be) 
+  
+    
+      
+        (
+        K
+        ,
+        +
+        ,
+        ∗
+        )
+      
+    
+    {\displaystyle (K,+,*)}
+   is een 4-tupel 
+  
+    
+      
+        (
+        V
+        ,
+        (
+        K
+        ,
+        +
+        ,
+        ∗
+        )
+        ,
+        +
+        ,
+        ∗
+        )
+      
+    
+    {\displaystyle (V,(K,+,*),+,*)}
+   met een niet-lege verzameling 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  , waarvan de elementen worden aangeduid als vectoren, het lichaam / veld 
+  
+    
+      
+        (
+        K
+        ,
+        +
+        ,
+        ∗
+        )
+      
+    
+    {\displaystyle (K,+,*)}
+  , een optelling 
+  
+    
+      
+        +
+      
+    
+    {\displaystyle +}
+   van twee vectoren, en een scalaire vermenigvuldiging 
+  
+    
+      
+        ∗
+      
+    
+    {\displaystyle *}
+   van een element uit 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   (een scalair)  met een vector (het dubbele gebruik van de operatoren geeft geen verwarring), waarbij deze bewerkingen voldoen aan bepaalde voorwaarden.
+Een vectorruimte waarop een norm gedefinieerd is, heet een genormeerde vectorruimte.
+Een euclidische vectorruimte is een eindigdimensionale reële vectorruimte 
+  
+    
+      
+        (
+        V
+        ,
+        
+          R
+        
+        ,
+        +
+        ,
+        ∗
+        )
+      
+    
+    {\displaystyle (V,\mathbb {R} ,+,*)}
+   met inwendig product 
+  
+    
+      
+        ⟨
+        u
+        ,
+        v
+        ⟩
+      
+    
+    {\displaystyle \langle u,v\rangle }
+  . 
+Een affiene ruimte is een drietal 
+  
+    
+      
+        (
+        A
+        ,
+        V
+        ,
+        
+          
+            
+            →
+          
+        
+        )
+      
+    
+    {\displaystyle (A,V,{\overrightarrow {}})}
+  , waarin
+
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   een niet-lege verzameling is, waarvan de elementen punten genoemd worden, 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   een vectorruimte over een lichaam/veld 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is en 
+  
+    
+      
+        
+          
+            
+            →
+          
+        
+      
+    
+    {\displaystyle {\overrightarrow {}}}
+   een afbeelding, pijlafbeelding, 
+  
+    
+      
+        A
+        ×
+        A
+        →
+        V
+      
+    
+    {\displaystyle A\times A\to V}
+   is die aan het puntenpaar 
+  
+    
+      
+        (
+        P
+        ,
+        Q
+        )
+      
+    
+    {\displaystyle (P,Q)}
+   hun verbindingsvector 
+  
+    
+      
+        
+          
+            
+              P
+              Q
+            
+            →
+          
+        
+        ∈
+        V
+      
+    
+    {\displaystyle {\overrightarrow {PQ}}\in V}
+   toevoegt, en voldoet aan bepaalde voorwaarden.
+Een affiene euclidische ruimte is een affiene ruimte met eindigdimensionale reële vectorruimte 
+  
+    
+      
+        (
+        V
+        ,
+        
+          R
+        
+        ,
+        +
+        ,
+        ∗
+        )
+      
+    
+    {\displaystyle (V,\mathbb {R} ,+,*)}
+  , waarbij de laatste een inwendig product 
+  
+    
+      
+        ⟨
+        u
+        ,
+        v
+        ⟩
+      
+    
+    {\displaystyle \langle u,v\rangle }
+   heeft.
+Een maatruimte is een triplet 
+  
+    
+      
+        (
+        X
+        ,
+        Σ
+        ,
+        μ
+        )
+      
+    
+    {\displaystyle (X,\Sigma ,\mu )}
+  , bestaande uit een verzameling 
+  
+    
+      
+        X
+        ,
+      
+    
+    {\displaystyle X,}
+   een σ-algebra 
+  
+    
+      
+        Σ
+      
+    
+    {\displaystyle \Sigma }
+   van deelverzamelingen van 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   en een maat 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   daarop.
+
+
+== Erven/induceren van structuur ==
+Een ruimte kan structuur erven van een andere ruimte.
+
+
+=== Deelruimte ===
+Een deelverzameling van een ruimte kan soms de structuur erven van die ruimte:
+
+Een deelverzameling van een metrische ruimte is zelf ook een metrische ruimte met als metriek de restrictie tot de betreffende paren punten (de geïnduceerde metriek).
+Een deelverzameling van een topologische ruimte is zelf ook een topologische ruimte met als open verzamelingen steeds de doorsnede van de deelverzameling en een open verzameling van de hele ruimte (de deelruimtetopologie, de geïnduceerde topologie).
+Een deelverzameling van een groep is zelf een groep (ondergroep) met dezelfde groepsbewerking als de verzameling gesloten is met betrekking tot deze bewerking. In ieder geval is de deelverzameling voortbrenger van een ondergroep.
+Een deelverzameling van een vectorruimte is zelf een vectorruimte (lineaire deelruimte) met hetzelfde scalairenlichaam en dezelfde optelling en scalaire vermenigvuldiging als de verzameling gesloten is met betrekking tot deze bewerkingen. In ieder geval spant de deelverzameling een vectorruimte op, een deelruimte van de oorspronkelijke: het lineair omhulsel.
+Een deelverzameling van een affiene ruimte is een affiene deelruimte als en slechts als de translaties van de deelverzameling een lineaire deelruimte vormen van de translaties van de hele affiene ruimte.
+Een deelverzameling van een affiene euclidische ruimte die een affiene deelruimte is, is een affiene euclidische deelruimte met als inwendig product de restrictie tot de betreffende paren punten.
+Een deelverzameling van een euclidische vectorruimte kan zelf een euclidische vectorruimte zijn, deze is dan een euclidische lineaire deelruimte, of een lineaire variëteit in de euclidische vectorruimte (een affiene euclidische deelruimte), of geen van beide.
+
+
+=== Overig ===
+Een structuur kan ook een andere structuur op dezelfde verzameling induceren. Er is dan een altijd toepasbare methode om op basis van de ene structuur de andere te definiëren. Voorbeelden:
+
+Een metrische ruimte is altijd een topologische ruimte.
+Een genormeerde vectorruimte is altijd een metrische ruimte
+Een inwendig-productruimte is altijd een genormeerde vectorruimte, met als norm 
+  
+    
+      
+        ‖
+        x
+        ‖
+        =
+        
+          
+            ⟨
+            x
+            ,
+            x
+            ⟩
+          
+        
+      
+    
+    {\displaystyle \|x\|={\sqrt {\langle x,x\rangle }}}
+  .
+Een eindigdimensionale vectorruimte is voor elke basis isomorf met zijn coördinatenruimte. Zo kan men er op vele manieren een norm op definiëren. Onder meer kan dit voor ieder reëel getal 
+  
+    
+      
+        p
+        ≥
+        1
+      
+    
+    {\displaystyle p\geq 1}
+   met
+  
+    
+      
+        ‖
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+        
+          ‖
+          
+            p
+          
+        
+        =
+        (
+        
+          |
+        
+        
+          x
+          
+            1
+          
+        
+        
+          
+            |
+          
+          
+            p
+          
+        
+        +
+        
+          |
+        
+        
+          x
+          
+            2
+          
+        
+        
+          
+            |
+          
+          
+            p
+          
+        
+        +
+        …
+        +
+        
+          |
+        
+        
+          x
+          
+            n
+          
+        
+        
+          
+            |
+          
+          
+            p
+          
+        
+        
+          )
+          
+            1
+            
+              /
+            
+            p
+          
+        
+      
+    
+    {\displaystyle \|(x_{1},x_{2},\ldots ,x_{n})\|_{p}=(|x_{1}|^{p}+|x_{2}|^{p}+\ldots +|x_{n}|^{p})^{1/p}}
+  
+of met de limiet van 
+  
+    
+      
+        ‖
+        .
+        
+          ‖
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \|.\|_{p}}
+   voor 
+  
+    
+      
+        p
+        →
+        ∞
+      
+    
+    {\displaystyle p\to \infty }
+  , de supremumnorm:
+
+  
+    
+      
+        ‖
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+        
+          ‖
+          
+            ∞
+          
+        
+        =
+        max
+        (
+        
+          |
+        
+        
+          x
+          
+            1
+          
+        
+        
+          |
+        
+        ,
+        
+          |
+        
+        
+          x
+          
+            2
+          
+        
+        
+          |
+        
+        ,
+        …
+        ,
+        
+          |
+        
+        
+          x
+          
+            n
+          
+        
+        
+          |
+        
+        )
+      
+    
+    {\displaystyle \|(x_{1},x_{2},\ldots ,x_{n})\|_{\infty }=\max(|x_{1}|,|x_{2}|,\ldots ,|x_{n}|)}
+  
+Bij een inwendig-productruimte is de metriek die daarmee overeenkomt een van deze mogelijkheden (met 
+  
+    
+      
+        p
+        =
+        2
+      
+    
+    {\displaystyle p=2}
+  ), en vaak de meest zinvolle.Elk lichaam (Ned) of veld (Be) is een vectorruimte over zichzelf.
+Elke vectorruimte is een gladde variëteit.
+Elke vectorruimte is een groep.Soorten van wiskundige ruimten vormen zo vaak een hiërarchie, dat wil zeggen dat een soort van ruimten al zijn kenmerken kan erven van een oudersoort van ruimten.
+Een standaardmethode om op basis van de ene structuur de andere te definiëren hoeft niet de enige zinvolle te zijn. Op een cirkel kan men bijvoorbeeld de metriek van het vlak invoeren (de rechtstreekse afstand, binnendoor), of de afstand langs de cirkel (en analoog op andere samenhangende deelverzamelingen van een metrische ruimte).
+
+
+== Taxonomie van ruimten ==
+
+
+=== Hoogste classificatieniveau ===
+Ruimten worden op drie niveaus geclassificeerd. Gegeven het feit dat elke wiskundige theorie haar objecten aan de hand van enkele eigenschappen beschrijft, is de eerste vraag die men zich moet stellen: welke eigenschappen?
+Het hoogste classificatieniveau maakt bijvoorbeeld onderscheid tussen euclidische- en projectieve ruimten, aangezien de afstand tussen twee punten in de euclidische ruimte wel en in de projectieve ruimten niet is gedefinieerd. De euclidische en de projectieve ruimte zijn ruimten van verschillende aard.
+Een ander voorbeeld. De vraag "wat is de som van de drie hoeken van een driehoek" is in de context van de euclidische ruimte een zinvolle vraag, maar niet in de context van een projectieve ruimte; dit zijn ruimtes van verschillende aard. In een niet-euclidische ruimte is de vraag wel zinvol, maar zal deze vraag een ander antwoord kennen, wat echter geen hoogste classificatieniveau-onderscheid is.
+Het onderscheid tussen een euclidische vlak en een driedimensionale euclidische ruimte is ook geen onderscheid op het hoogste classificatieniveau; de vraag "wat is de dimensie" is immers in beide gevallen zinvol.
+In termen van Bourbaki wordt het hoogste classificatieniveau gerelateerd aan de "typerende karakterisering" (of "typering"). Dit is echter niet hetzelfde (aangezien twee gelijkwaardige structuren in typering kunnen verschillen).
+
+
+=== Middelste classificatieniveau ===
+Op het middelste classificatieniveau houdt men rekening met antwoorden op bijzondere belangrijke vragen (daaronder ook de zinnige vragen van het hoogste classificatieniveau). Op dit niveau wordt bijvoorbeeld onderscheid gemaakt tussen euclidische en niet-euclidische ruimten; tussen eindig-dimensionale en oneindig-dimensionale ruimten; tussen compacte- en niet-compacte ruimten, enz.
+In termen van Bourbaki is het middelste classificatieniveau de indeling in "soorten". In tegenstelling tot de biologische taxonomie kan een ruimte echter tot verschillende "soorten" behoren.
+
+
+=== Laagste classificatieniveau ===
+Op het laagste classificatieniveau neemt men, grosso modo, antwoorden op alle mogelijke vragen (die zinvol zijn op het hoogste classificatieniveau) in beschouwing. Op dit niveau maakt men bijvoorbeeld onderscheid tussen ruimten van verschillende dimensie, maar maakt men geen onderscheid tussen aan de ene kant een vlak van een driedimensionale euclidische ruimte, die wordt behandeld als een tweedimensionale euclidische ruimte, en de verzameling van alle paren van reële getallen, ook behandeld als een tweedimensionale euclidische ruimte. Ook wordt geen onderscheid gemaakt tussen de verschillende euclidische modellen van dezelfde niet-euclidische ruimte.
+Meer formeel wordt op laagste classificatieniveau ruimten geclassificeerd "upto" isomorfisme. Een isomorfisme tussen twee ruimten wordt gedefinieerd als een een-op-een-correspondentie tussen de punten van de eerste ruimte en de punten van de tweede ruimte, die alle relaties tussen deze punten bewaart, en dat bepaald door de gegeven "typering". Wederzijdse isomorfe ruimten beschouwt men als kopieën van een enkele ruimte. Als een van hen tot een bepaalde "soort" behoort dan doen zij dat allemaal.
+De notie van isomorfisme werpt licht op het hoogste classificatieniveau. Gegeven een een-op-een-correspondentie tussen twee ruimten van hetzelfde type, kan men zich afvragen of deze correspondentie al of niet een isomorfisme is. Deze vraag heeft geen zin voor twee ruimten van verschillende typen.
+Isomorfismen van een ruimte naar zichzelf noemt men automorfismen. Automorfismen van een euclidische ruimte zijn bewegingen en spiegelingen. Een euclidische ruimte is homogeen in de zin dat elk punt kan worden getransformeerd in elk willekeurig andere punten door enig automorfisme.
+
+
+== Aanvullende voorbeelden ==
+Fréchet-ruimte
+Hardy-ruimte
+Banachruimte
+Hilbertruimte
+Inwendig-productruimte
+Sobolev-ruimte
+Uniforme ruimte
+
+
+== Voetnoten ==

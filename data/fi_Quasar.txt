@@ -1,0 +1,35 @@
+Kvasaari, toiselta nimeltään kvasistellaarinen objekti (engl. quasi-stellar object, QSO) eli tähtimäinen kohde, on optisen kaukoputken kuvassa näkyvä tähteä muistuttava piste, jolla on tähdestä poiketen erittäin suuri punasiirtymä. Yleisen tulkinnan mukaan tämä johtuu Hubblen laista ja merkitsee sitä, että kvasaarit ovat hyvin kaukaisia kohteita ja täten liikkuvat meistä nopeasti poispäin.
+
+Koska pystymme havaitsemaan kvasaarit valtavasta etäisyydestä huolimatta (miljardeja valovuosia), niiden täytyy säteillä enemmän energiaa kuin kymmenet tavalliset galaksit. Joidenkin kvasaarien kirkkaus vaihtelee erittäin nopeasti, mikä viittaa niiden pieneen kokoon.
+Kvasaarit näyttävät olevan aktiivisten galaksien erikoistapaus, ja vallitsevan näkemyksen mukaan monissa pelkkä katselukulma erottaa ne muista aktiivisista galakseista, blasaareista ja radiogalakseista (katso: radiogalaksien yhtenäismalli). Kvasaarien valtavan kirkkauden arvellaan syntyvän, kun kvasaarin keskustassa olevaan mustaan aukkoon putoaa materiaa ympäröivästä galaksista. Mustan aukon ympäristössä materia kuumenee ja säteilee sen takia paljon voimakkaammin kuin koko muu galaksi yhteensä. Osa kvasaareista säteilee hyvin voimakkaasti radioalueella. Radiosäteily syntyy mustan aukon pyörimisakselin suuntaisissa massasuihkuissa, joissa kertymäkiekosta peräisin oleva materia syöksyy ulos avaruuteen liki valonnopeudella. Nämä suihkut ja niiden aikaansaamat laajat rakenteet voivat ulottua kauas isäntägalaksin ulkopuolelle.
+
+
+== Kvasaarien ominaisuuksia ==
+
+
+=== Radiospektri ===
+Radiotaajuuksilla tehdyt havainnot kertovat kvasaarien säteilymekanismin olevan synkrotronisäteilyä. Tästä kertovat säteilyn energiajakauman ei-terminen luonne, voimakas korkeiden taajuuksien vaihtelu sekä vuon polarisaatio. Säteilyn lähteiden muuttuminen puolestaan viittaa siihen, että synkrotronisäteilyä emittoivat relativistiset elektronit saavat alkunsa shokkirintamissa, jotka liittyvät massasuihkuihin.
+
+
+=== Infrapunaspektri ===
+Kvasaarien infrapuna- ja alimillimetrialueen säteilyssä on viitteitä kuuman pölyn läsnäolosta. Siinä on myös nähtävillä kaksi selvästi erillistä komponenttia. Pölyn lisäksi on olemassa nopeiden purkauksien aiheuttama komponentti, mikä havaitaan vain kestoltaan lyhyiden mutta voimakkaiden purkausten aikana. Purkaukset aiheuttavat suuria muutoksia pölystä aiheutuvaan taustaan. Niiden aikana on myös havaittavissa normaalia huomattavasti suurempaa, muutaman prosentin suuruista polarisaatiota. Siksi on syytä uskoa, että purkaukset liittyvät synkrotronisäteilyyn tavalla tai toisella. Purkaukset saavat todennäköisesti energiansa massasuihkun kineettisestä energiasta.
+
+
+=== Optinen alue ===
+Optisella ja UV-alueella kvasaareilta löytyy yleensä ylimääräistä emissiota verrattuna infrapunakontinuumista ekstrapoloituun arvoon. Tätä ylimäärää kutsutaan siniseksi kummuksi (blue pump). On ehdotettu, että sininen kumpu aiheutuisi geometrisesti ohuen mutta optisesti paksun kertymäkiekon pinnasta vapautuvasta säteilystä. Kiekon lämpötilajakauma, kuuma keskeltä ja viileämpi reuna-alueilta, voisi aikaansaada mustan kappaleen säteilyspektrien superposition, joka sitten näkyisi optisesti. 
+
+
+=== Viivaemissio ===
+Spekriviivojen tarkastelu tuottaa tyypillisesti enemmän informaatiota havaittavasta kohteesta kuin pelkkä kontinuumi. Kvasaareissa emissioviivat syntyvät tavallisesti ionisoidun kaasun pyöriessä nopeasti mustan aukon ympäri. Tämä malli vastaa hyvin havaittuja viivoja muuten paitsi FeII:n osalta, mihin ongelmaan ei vielä ole löydetty ratkaisua. Yleisesti raskaiden metallien spektriviivat ovat voimakkaita, mikä tarkoittaa, että kvasaareissa esiintyvä kaasu on läpikäynyt monta tähtisukupolvea ennen päätymistään kvasaarin keskustaan.
+
+
+=== Massasuihkut ===
+Parhaiten kvasaarit tunnistaa ytimestä kahteen vastakkaiseen suuntaan vapautuvista massasuihkuista. Niissä relativistiset elektronit törmäävät galaksienväliseen aineeseen vapauttaen runsaasti polarisoitunutta synkrotronisäteilyä. Suihkut ovat huomattavasti suurempia kuin itse kvasaarit, jotka näkyvät parhaimmissakin havainnoissa vain pistemäisinä kohteina. Usein vain Maata kohti purkautuva massasuihku on näkyvissä, sillä pois suuntautunut suihku katoaa äärimmäisen voimakkaan punasiirtymän vuoksi näkyvistä.
+
+
+== Lähteet ==
+T. J.-L. Courvoisier 1998, The bright quasar 3C 273, Astronomy and Astrophysics, 9, 1–32.
+
+
+== Aiheesta muualla ==
+ Kuvia tai muita tiedostoja aiheesta Kvasaari Wikimedia Commonsissa

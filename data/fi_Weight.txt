@@ -1,0 +1,26 @@
+Kappaleen paino on siihen kohdistuva taivaankappaleen (esim. Maan) vetovoima, joka aiheutuu gravitaatiosta ja pieneltä osin taivaankappaleen pyörimisestä.
+Kappaleen paino on suoraan verrannollinen sen massaan, ja se on samalla kappaleella likipitäen yhtä suuri kaikkialla Maan pinnalla. Tämän vuoksi arkielämässä massan ja painon välillä ei aina tehdä eroa, vaan usein kappaleen painosta puhuttaessa tarkoitetaan sen massaa. Fysikaalisesti massa ja paino ovat kuitenkin kaksi eri käsitettä. Kappaleen massa on riippumaton sen sijainnista ja sen voidaan katsoa kuvaavan aineen määrää kappaleessa, paino kuvaa gravitaation kappaleeseen aiheuttamaa voimaa.
+Koska paino on voima, SI-järjestelmässä sen yksikkönä on newton samoin kuin muidenkin voimien. Yksi newton on voima, joka aiheuttaa yhden kilogramman massaiselle kappaleelle kiihtyvyyden 1 m/s2.
+Kappaleen paino G voidaan laskea kohtuullisen tarkasti kaavalla 
+  
+    
+      
+        G
+        =
+        m
+        g
+      
+    
+    {\displaystyle G=mg}
+  , jossa m on kappaleen massa ja g gravitaatiokentän aiheuttama putoamiskiihtyvyys, joka Maassa on noin 9,81 m/s2. Sellaisen kappaleen paino, jonka massa on yksi kilogramma, on maapallon vetovoimakentässä noin 9,81 newtonia.
+Vanhassa kirjallisuudessa painoa ja muitakin voimia mitattiin massayksiköissä. Siten yhden kilogramman voima (kgf) eli kilopondi tarkoittaa sitä voimaa, jolla Maa vetää puoleensa yhden kilogramman massaista kappaletta. Se on siis noin 9,81 N. Vielä nykyisinkin näkee paineen yksikkönä kg/cm2, jota nimitetään myös tekniseksi ilmakehäksi.
+
+Muuttumattoman kappaleen massa on vakio riippumatta siitä, missä se sijaitsee, Maan pinnalla tai missä tahansa avaruudessa (olettaen, että kappale ei liiku suhteessa tarkkailijaan − katso tarkemmin suhteellisuusteoria). Sen paino sen sijaan vaihtelee, jonkin verran jo eri puolilla maapalloakin. Jos kappale siirretään päiväntasaajalta pohjoisnavalle, sen paino kasvaa noin 0,5 % Maan gravitaatiokentän erojen ja Maan pyörimisliikkeestä aiheutuvien erojen vuoksi. Saman kappaleen paino eri puolilla maapallon pintaa vaihtelee jonkin verran myös Maan sisäosien paikallisten tiheysvaihtelujen myötä sekä sen mukaan, millä korkeudella maanpinta on (mitä korkeammalla, sitä vähäisempi painovoima). Jos kappale viedään esimerkiksi Kuuhun tai vieraalle planeetalle, sen massa on yhä sama kuin Maassakin, mutta sen paino on kyseisen taivaankappaleen massasta ja läpimitasta riippuen hyvinkin eri suuri, esimerkiksi Kuussa vain noin kuudesosa siitä, mikä se on Maassa, johtuen Kuun noin kuusi kertaa heikommasta painovoimasta.
+Astronautit voivat kellua avaruusaluksessa ja ovat lähes painottomia: astronautin ei tarvitse käyttää voimaa pysyäkseen paikallaan suhteessa avaruusalukseen. Koska kappaleet kuitenkin säilyttävät massan ja inertian, astronautin on käytettävä kymmenkertainen voima, jos hän haluaa siirtää yhtä nopeasti 10 kg massaista kappaletta 1 kg massaisen kappaleen sijaan.
+
+
+== Katso myös ==
+Painovoima
+
+
+== Lähteet ==

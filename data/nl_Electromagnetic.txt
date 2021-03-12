@@ -1,0 +1,42 @@
+Elektromagnetisme is de fysica van het elektromagnetische veld: een vectorveld dat heel de ruimte beslaat en bestaat uit twee componenten: het elektrisch veld en het magnetisch veld. De twee componenten bewegen zich te allen tijde loodrecht op elkaar door de ruimte met de lichtsnelheid. De term elektrodynamica wordt soms gebruikt om de combinatie van elektromagnetisme en mechanica aan te duiden.
+
+
+== Elektrische en magnetische velden ==
+
+Een elektrisch veld wordt geproduceerd door elektrische ladingen en zorgt voor een elektrische kracht op andere ladingen. Een magnetisch veld wordt geproduceerd door de beweging van elektrische ladingen. In een magneet bijvoorbeeld wordt het veld veroorzaakt door de bewegingen van de elektronen in het materiaal. Ook rondom een kabel waardoor een stroom vloeit (afbeelding links) ontstaat een magneetveld, omdat de stroom een beweging van ladingen is.
+De term elektromagnetisme geeft aan dat elektrische en magnetische verschijnselen verstrengeld zijn. Zo zal een veranderlijk magnetisch veld een elektrisch veld opwekken en omgekeerd. Dit heet elektromagnetische inductie en vormt de basis voor de werking van dynamo's, elektromotoren en transformatoren.
+
+
+== De elektromagnetische kracht ==
+De kracht die elektrische geladen deeltjes voelen door elektromagnetische velden, heet de elektromagnetische kracht. Het is een van de vier fundamentele natuurkrachten, naast zwaartekracht, sterke kernkracht en zwakke kernkracht.
+De elektromagnetische kracht speelt naast de zwaartekracht een zeer grote rol in het dagelijkse leven. Deze kracht ligt aan de basis van de chemische eigenschappen van materie. Het elektromagnetisch veld en het elektrische veld zorgen ook voor de aggregatietoestand van de stof. Als de energie in de atomen laag genoeg is zullen deze minder bewegen waardoor de eerder genoemde krachten een rol spelen bij het bij elkaar houden van de atomen in de stof. Zo blijven de atomen/moleculen bij een bepaalde temperatuur in een aggregatietoestand. (meestal vast.).
+
+
+== Elektromagnetische straling ==
+Alle vormen van elektromagnetische straling vallen in het zogenaamde elektromagnetisch spectrum. De verschillende soorten elektromagnetische straling worden gekarakteriseerd door hun golflengte en frequentie. De verhouding tussen de golflengte en frequentie wordt bepaald door de voortplantingssnelheid (propagatiesnelheid) van elektromagnetische golven. Deze is gelijk aan de lichtsnelheid, die in de natuurkunde wordt aangeduid met de constante c.
+Licht kan worden gezien als zich voortbewegende verstoringen in het elektromagnetische veld (zie ook elektromagnetische straling). Alles wat optica betreft is dus een elektromagnetisch verschijnsel, maar ook radiogolven, microgolven, röntgenstraling en gammastraling behoren tot het elektromagnetisch spectrum.
+
+
+== Elektromagnetische theorie ==
+James Maxwell ontdekte dat licht een elektromagnetisch verschijnsel is en vatte alle voorgaande ontdekkingen op dit gebied, van onder meer Faraday, samen in één theorie, het klassieke elektromagnetisme die hij uitdrukte in de Maxwellvergelijkingen. Later voegde Hendrik Lorentz de lorentzkracht toe.
+Een van de eigenaardigheden van het klassieke elektromagnetisme is dat het niet compatibel is met de klassieke mechanica. Volgens de Maxwellvergelijkingen is de lichtsnelheid in vacuüm een universele constante die enkel afhangt van de elektrische permittiviteit en de magnetische permeabiliteit van het vacuüm. Dit is in strijd met de relativiteitsbetrekkingen van Galilei, een van de hoekstenen van de klassieke mechanica. Hierin wordt een snelheid altijd uitgedrukt ten opzichte van de beweging van het assenstelsel van de waarnemer. Uiteindelijk ontwikkelde Albert Einstein de speciale relativiteitstheorie, waarmee deze paradox uit de wereld werd geholpen.
+Met de komst van de kwantummechanica werd het nodig een kwantumtheorie voor het elektromagnetisme op te stellen. Deze theorie werd uitgewerkt in de jaren 1940-50 en heet kwantumelektrodynamica (QED).
+
+
+== Eenheden ==
+Elektromagnetische eenheden maken deel uit van een systeem van elektrische eenheden die primair gebaseerd zijn op de magnetische eigenschappen van elektrische stromen, waarvan de SI-basiseenheid de ampère is.
+
+
+== Zie ook ==
+Elektromagneet
+Elektrisch veld
+Magnetisch veld
+Lorentzkracht
+Elektromagnetische straling
+Elektrische flux
+Magnetische flux
+Magnetische fluxdichtheid
+Inductie (elektriciteit)
+Wetten van Maxwell
+James Clerk Maxwell
+Lagrangiaan

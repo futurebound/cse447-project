@@ -1,0 +1,834 @@
+Massa is een natuurkundige grootheid die een eigenschap van materie aanduidt, de hoeveelheid van een stof. Massa wordt uitgedrukt in kilogram. Massa dient niet te worden verward met gewicht, dat een maat is voor de aantrekking van een massa door de zwaartekracht, en daardoor afhangt van de plaats van een massa op een hemellichaam. Massa heeft twee belangrijke eigenschappen: traagheid als verzet tegen versnelling door een kracht, en gewicht ten gevolge van de zwaartekracht op die massa.
+
+
+== Massa en hoeveelheid materie ==
+De massa van een voorwerp is recht evenredig met de hoeveelheid materie. In de klassieke (niet-relativistische) mechanica is hij de som van de massa's van alle deeltjes waaruit het voorwerp bestaat. Omdat de hoeveelheid materie wordt uitgedrukt in mol geldt voor materie die uit een chemische stof bestaat:
+
+  
+    
+      
+        m
+        =
+        M
+        ⋅
+        n
+      
+    
+    {\displaystyle m=M\cdot n}
+  ,waarin
+
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   de massa is in gram
+
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   de hoeveelheid materie is in mol
+
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   de molaire massa is, de massa van een mol materie (in g/mol).
+
+
+== Massa en traagheid ==
+De traagheid van een massa wordt uitgedrukt in de eerste wet van Newton: een massa waarop geen krachten werkt ondervindt geen versnelling. Het zal met dezelfde snelheid blijven bewegen in een statisch referentiekader. Dus als de snelheid van een voorwerp nul is blijft die nul als er geen kracht op het voorwerp werkt. En als een voorwerp al een snelheid ongelijk aan nul heeft, blijft die snelheid onveranderd rechtlijnig als er geen kracht werkt. De tweede wet van Newton geeft een uitdrukking voor de verandering van de snelheid door de totale kracht (als er meer krachten zijn) als de massa gelijk blijft:
+
+  
+    
+      
+        F
+        =
+        m
+        ⋅
+        a
+      
+    
+    {\displaystyle F=m\cdot a}
+  De versnelling 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   is recht evenredig met de uitgeoefende totale kracht 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   en omgekeerd evenredig met de massa 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  , wat we weten uit het dagelijks leven, als we een voorwerp wrijvingsloos op het ijs voortduwen. Hoe meer massa een voorwerp heeft, des te groter de kracht die moet worden uitgeoefend om dezelfde versnelling van het voorwerp te krijgen; of omgekeerd, hoe groter de massa van een voorwerp, des te kleiner de versnelling bij een gelijke uitgeoefende kracht.
+
+
+== Massa en zwaartekracht ==
+Een hoeveelheid massa (een voorwerp) trekt andere massa's aan met de zwaartekracht. In de klassieke mechanica wordt deze kracht beschreven door de zwaartekrachtwet van Newton:
+
+  
+    
+      
+        
+          F
+          
+            z
+          
+        
+        =
+        G
+        ⋅
+        
+          
+            
+              
+                m
+                
+                  a
+                
+              
+              ⋅
+              
+                m
+                
+                  b
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle F_{\text{z}}=G\cdot {m_{a}\cdot m_{b} \over r^{2}}}
+  ,met
+
+  
+    
+      
+        
+          F
+          
+            z
+          
+        
+      
+    
+    {\displaystyle F_{\text{z}}}
+   de zwaartekracht ten gevolge van de massa's a en b (de resulterende zwaartekracht), in newton
+
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   de heel kleine gravitatieconstante (6,67·10−11Nm²/kg²)
+
+  
+    
+      
+        
+          m
+          
+            a
+          
+        
+      
+    
+    {\displaystyle m_{a}}
+   en 
+  
+    
+      
+        
+          m
+          
+            b
+          
+        
+      
+    
+    {\displaystyle m_{b}}
+   de twee massa's, in kilogram
+
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   de afstand tussen de twee massa's, in meterDe uitgeoefende kracht is hier recht evenredig met het product van de twee massa's en omgekeerd evenredig aan het kwadraat van de afstand tussen de twee massa's.
+De algemene relativiteitstheorie van Albert Einstein stelt echter dat er hier geen sprake is van eigenlijke krachten, maar van een kromming van de tijdruimte: een meetkundig effect. Een massa bepaalt hoe de tijdruimte eromheen wordt gekromd en de kromming van de tijdruimte bepaalt weer hoe een andere massa beweegt in die tijdruimte die wordt gekromd door de eerste massa.
+
+
+=== Trage massa, passieve en actieve zware massa ===
+In de twee genoemde wetten van Newton, 
+  
+    
+      
+        F
+        =
+        m
+        ⋅
+        a
+      
+    
+    {\displaystyle F=m\cdot a}
+   voor een constante massa, en de zwaartekrachtwet, komt de massa in drie betekenissen voor. De wetten van Newton gaan er stilzwijgend van uit, dat deze drie soorten massa's voor ieder voorwerp gelijk zijn. Om over deze vaststelling te kunnen praten, geeft men ze de afzonderlijke benamingen, te weten 
+
+trage massa (soms inertiaalmassa, dus verzet tegen versnelling door een kracht),
+passieve zware massa (om zwaartekracht te ondervinden, soms passieve gravitationele massa) en
+actieve zware massa (om andere massieve voorwerpen aan te trekken, actieve gravitationele massa, als bron van een zwaartekracht op een andere massa).De algemene relativiteitstheorie gaat op deze problematiek in. Het equivalentieprincipe zegt precies dat de trage massa gelijk is aan de passieve zware massa. Uit diezelfde theorie volgt niet onmiddellijk dat passieve en actieve zware massa dezelfde zijn: het is van tevoren (a priori) niet gegarandeerd dat actie gelijk is aan reactie volgens de Derde Wet van Newton (of dat energie en impulsmoment constanten van de beweging zijn). 
+In 1968 voerde L. B. Kreuzer een experiment uit met fluor en broom in een torsiebalans en stelde vast dat de verhouding tussen de actieve en passieve zware massa van beide materialen weinig scheelde:
+
+  
+    
+      
+        
+          |
+          
+            1
+            −
+            
+              
+                
+                  (
+                  
+                    M
+                    
+                      za
+                    
+                  
+                  
+                    /
+                  
+                  
+                    M
+                    
+                      zp
+                    
+                  
+                  
+                    )
+                    
+                      fluor
+                    
+                  
+                
+                
+                  (
+                  
+                    M
+                    
+                      za
+                    
+                  
+                  
+                    /
+                  
+                  
+                    M
+                    
+                      zp
+                    
+                  
+                  
+                    )
+                    
+                      broom
+                    
+                  
+                
+              
+            
+          
+          |
+        
+        ≤
+        5
+        ×
+        
+          10
+          
+            −
+            5
+          
+        
+      
+    
+    {\displaystyle \left|1-{\frac {(M_{\text{za}}/M_{\text{zp}})_{\text{fluor}}}{(M_{\text{za}}/M_{\text{zp}})_{\text{broom}}}}\right|\leq 5\times 10^{-5}}
+  In 1986 gebruikten D. F. Bartlett en D. Van Buren de lasermetingen van de afstand tot de Maan om een nog veel kleinere bovengrens op te leggen aan dit verschil voor de metalen aluminium en ijzer, die op de Maan ongelijk verdeeld zijn. In dit geval werd het relatieve verschil van de verhoudingen begrensd door
+
+  
+    
+      
+        
+          |
+          
+            1
+            −
+            
+              
+                
+                  (
+                  
+                    M
+                    
+                      za
+                    
+                  
+                  
+                    /
+                  
+                  
+                    M
+                    
+                      zp
+                    
+                  
+                  
+                    )
+                    
+                      aluminium
+                    
+                  
+                
+                
+                  (
+                  
+                    M
+                    
+                      za
+                    
+                  
+                  
+                    /
+                  
+                  
+                    M
+                    
+                      zp
+                    
+                  
+                  
+                    )
+                    
+                      ijzer
+                    
+                  
+                
+              
+            
+          
+          |
+        
+        ≤
+        4
+        ×
+        
+          10
+          
+            −
+            12
+          
+        
+      
+    
+    {\displaystyle \left|1-{\frac {(M_{\text{za}}/M_{\text{zp}})_{\text{aluminium}}}{(M_{\text{za}}/M_{\text{zp}})_{\text{ijzer}}}}\right|\leq 4\times 10^{-12}}
+  
+
+
+== Massa en energie ==
+De speciale relativiteitstheorie van Einstein stelt dat massa en energie twee verschijningsvormen van hetzelfde verschijnsel zijn in zijn beroemde formule voor de Massa-energierelatie:
+
+  
+    
+      
+        E
+        =
+        m
+        ⋅
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E=m\cdot c^{2}}
+  Daarin is
+
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   de energie (in joule)
+
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   de massa (in kg)
+
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   de lichtsnelheid.De betekenis wordt duidelijker als de eenheid van snelheid niet in meter per seconde wordt gegeven, maar in lichtseconde per seconde. Dat heeft tot gevolg dat 
+  
+    
+      
+        c
+        =
+        1
+      
+    
+    {\displaystyle c=1}
+   en dus ook 
+  
+    
+      
+        
+          c
+          
+            2
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle c^{2}=1}
+  , zodat deze formule energie en massa direct aan elkaar gelijkstelt: 
+  
+    
+      
+        E
+        =
+        m
+      
+    
+    {\displaystyle E=m}
+  . Dit resultaat was baanbrekend, omdat massa en energie voordien als twee afzonderlijke grootheden werden beschouwd. Anders gezegd is 
+  
+    
+      
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle c^{2}}
+   hier een omrekeningsfactor die stelt dat een kleine hoeveelheid massa gelijkstaat aan een zeer grote hoeveelheid energie.
+Omdat bij kernreacties als kernsplitsing en kernfusie een (klein) deel van de massa wordt omgezet, leveren deze reacties netto toch bijzonder veel energie op.
+
+
+== Massa en gewicht ==
+
+De woorden massa en gewicht worden in het dagelijks spraakgebruik door elkaar gehaald. Er is echter een wezenlijk verschil. Het gewicht van een voorwerp is onder 'aardse' omstandigheden de kracht die de aarde op een voorwerp uitoefent. Dit gewicht van een massa is afhankelijk van de plaats en de hoogte ten opzichte van het aardoppervlak. Een astronaut met een massa van 60 kg zal op de aarde een zwaartekracht van (ongeveer) 600 N ondervinden, terwijl dat op de maan maar ongeveer 100 N is. Dit komt omdat de zwaartekracht op de Maan veel kleiner is, want de massa van de Maan is veel kleiner dan die van Aarde. De massa van de astronaut is echter nog steeds 60 kg. Het gewicht kan worden uitgerekend met 
+
+  
+    
+      
+        
+          F
+          
+            gewicht
+          
+        
+        =
+        m
+        ⋅
+        g
+      
+    
+    {\displaystyle F_{\text{gewicht}}=m\cdot g}
+  ,met g de plaatselijke valversnelling, op Aarde vaak 9,81 m/s2, op de Maan maar 1,62 m/s2.
+
+
+== Rustmassa en relativistische massa ==
+Onderscheiden kunnen worden de rustmassa 
+  
+    
+      
+        
+          m
+          
+            0
+          
+        
+      
+    
+    {\displaystyle m_{0}}
+   (die niet van het inertiaalstelsel afhangt) en de relativistische massa 
+  
+    
+      
+        
+          m
+          
+            R
+          
+        
+      
+    
+    {\displaystyle m_{R}}
+  . Welke van de twee bedoeld wordt met "massa" is een kwestie van afspraak (conventie). In een context waarin duidelijk is welk van beide conventies wordt gehanteerd gebruikt men (zelfs als het verschil niet verwaarloosbaar is) afhankelijk daarvan wel kortweg de notatie m. Tegenwoordig wordt hiermee meestal de rustmassa bedoeld, maar de beroemde formule 
+  
+    
+      
+        E
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E=mc^{2}}
+   is algemener als m daarin staat voor de relativistische massa. Er geldt:
+
+  
+    
+      
+        
+          m
+          
+            R
+          
+        
+        =
+        γ
+        
+          m
+          
+            0
+          
+        
+      
+    
+    {\displaystyle m_{R}=\gamma m_{0}}
+  met 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+   de lorentzfactor.
+Voor de relativistische impuls p geldt:
+
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+        =
+        γ
+        
+          m
+          
+            0
+          
+        
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          m
+          
+            R
+          
+        
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}=\gamma m_{0}{\vec {v}}=m_{R}{\vec {v}}}
+  met 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+   de snelheid.
+Voor de totale energie (zie ook boven) geldt de massa-energierelatie:
+
+  
+    
+      
+        
+          E
+          
+            
+              t
+              o
+              t
+              a
+              a
+              l
+            
+          
+        
+        =
+        γ
+        
+          m
+          
+            0
+          
+        
+        
+          c
+          
+            2
+          
+        
+        =
+        
+          m
+          
+            R
+          
+        
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{\mathrm {totaal} }=\gamma m_{0}c^{2}=m_{R}c^{2}}
+  met c de lichtsnelheid.
+De energie kan worden onderverdeeld in de rustenergie
+
+  
+    
+      
+        
+          E
+          
+            
+              r
+              u
+              s
+              t
+            
+          
+        
+        =
+        
+          m
+          
+            0
+          
+        
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{\mathrm {rust} }=m_{0}c^{2}}
+  en de kinetische energie
+
+  
+    
+      
+        
+          E
+          
+            
+              k
+            
+          
+        
+        =
+        (
+        
+          m
+          
+            R
+          
+        
+        −
+        
+          m
+          
+            0
+          
+        
+        )
+        
+          c
+          
+            2
+          
+        
+        =
+        
+          m
+          
+            0
+          
+        
+        
+          c
+          
+            2
+          
+        
+        (
+        γ
+        −
+        1
+        )
+      
+    
+    {\displaystyle E_{\mathrm {k} }=(m_{R}-m_{0})c^{2}=m_{0}c^{2}(\gamma -1)}
+  Voor de kracht geldt in het eendimensionale geval:
+
+  
+    
+      
+        F
+        =
+        
+          m
+          
+            0
+          
+        
+        
+          γ
+          
+            3
+          
+        
+        a
+        =
+        
+          m
+          
+            R
+          
+        
+        
+          γ
+          
+            2
+          
+        
+        a
+      
+    
+    {\displaystyle F=m_{0}\gamma ^{3}a=m_{R}\gamma ^{2}a}
+  De kracht die nodig is voor een bepaalde versnelling (in de zin van verhoging van de snelheid per tijdseenheid in het vaste inertiaalstelsel) is bij een hoge snelheid extra groot, mede door de speciale formule voor de combinatie van snelheden. 
+De formules laten zien dat voor een deeltje met rustmassa groter dan nul oneindig veel energie en oneindig veel impuls nodig is om dit tot de lichtsnelheid te versnellen, wat betekent dat dit onmogelijk is. Een massa kan nooit de lichtsnelheid halen.
+
+
+== Molecuulmassa ==
+De molecuulmassa van een zuivere chemische stof (enkelvoudig of samengesteld) is de rustmassa van één molecuul van de stof, uitgedrukt in atomaire massa-eenheden. Molecuulmassa's zijn meestal in goede benadering gehele getallen, omdat de afzonderlijke bouwstenen van atoomkernen (protonen en neutronen) een vrijwel gelijke massa hebben, terwijl de elektronen ruim 1800 keer lichter zijn. De volgende omstandigheden veroorzaken grote en kleine afwijkingen op deze regel:
+
+De atomen waaruit de moleculen zijn opgebouwd, komen voor in verschillende isotopen, dat wil zeggen dat gelijksoortige atomen (met evenveel protonen en elektronen) een verschillend aantal neutronen in de kern kunnen hebben. Het bijvoeglijk naamwoord 'zuiver' in zuivere stof betekent niet dat iedere atoomsoort er mononuclidisch (met maar één isotoop) in voorkomt.
+Een neutron is een klein beetje lichter (massadefect) dan een proton en een elektron samen
+Op deze kleine schaal geldt de optelregel niet meer precies: van de totale massa van de samenstellende deeltjes van een atoomkern, en in mindere mate ook van de samenstellende atomen van een molecuul, moet het relativistische massa-equivalent van de bindingsenergie worden afgetrokken; het massadefect van het neutron is hiervan een bijzonder geval binnen de atoomkern
+
+
+== Meting ==
+Van voorwerpen op middelgrote schaal in het dagelijks leven wordt de massa meestal indirect vastgesteld op een weegschaal, bijvoorbeeld door het gewicht van een onbekend voorwerp te vergelijken met de gewichten van standaardmassa's.
+De massa van een individueel atoom of molecuul wordt gemeten door de massa van een grote hoeveelheid van de stof op de gebruikelijke wijze (conventioneel) vast te stellen, en vervolgens door scheikundige technieken te bepalen hoeveel atomen of moleculen in de totale massa aanwezig zijn (wet van Proust). Dit levert massa's uitgedrukt in atomaire massa-eenheden; om deze te vergelijken met standaardmassa's (bijvoorbeeld de kilogram) moeten afzonderlijke ijkproeven de constante van Avogadro meten.
+Van individuele elektrisch geladen deeltjes kan de massa worden geschat aan de hand van de uitwijking uit een rechte baan onder invloed van een elektrisch en/of een magnetisch veld: dit is het principe waarop massaspectrometrie berust.
+De massa van een hemellichaam kan worden geschat aan de hand van de derde wet van Kepler op voorwaarde dat het hemellichaam over een satelliet beschikt, en op voorwaarde dat de universele gravitatieconstante 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   bekend is. Deze laatste wordt gemeten met een torsiebalans (het experiment van Henry Cavendish). Met soortgelijke technieken kan de totale massa van een sterrenstelsel bepaald worden aan de hand van de rotatiesnelheid van de individuele sterren rond het centrum van het stelsel.
+De massa-lichtkrachtrelatie is een empirisch verband tussen de massa van een hoofdreeksster en haar absolute helderheid. Daarmee kunnen de massa's en absolute helderheden van de componenten van een dubbelster geschat worden door een iteratieve berekening, die dynamische parallax heet.
+
+
+== Eenheden ==
+De SI-eenheid van massa is de kilogram. Het is een van de zeven SI-basiseenheden, en de enige SI-eenheid die een voorvoegsel ("kilo") draagt. Dit is om historische en praktische redenen. Ingeburgerde termen als kilogram en gram een andere naam geven (respectievelijk een naam zonder "kilo", en die naam met "milli" ervoor) is bezwaarlijk, maar de gram als basiseenheid kiezen ook, omdat onder andere de newton, joule en watt dan geen samenhangende eenheden meer zouden zijn.
+Technische vakgebieden waar de bestudeerde massa's uitgedrukt in kilogram zeer grote of zeer kleine getallen opleveren, hanteren soms andere eenheden. Scheikundigen duiden molecuulmassa's aan in de atomaire massa-eenheid, dat is één twaalfde van de massa van een koolstof-12-atoom of 1,66·10−27 kg. In de fysica van elementaire deeltjes worden massa's omgerekend naar energieën en vervolgens uitgedrukt in elektronvolt of een veelvoud daarvan. Eén elektronvolt komt overeen met ongeveer 1,8·10−36 kg. Sterrenkundigen drukken de massa van een ster vaak uit als een veelvoud van de massa van de zon, die 2·1030 kg bedraagt.

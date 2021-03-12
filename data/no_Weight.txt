@@ -1,0 +1,317 @@
+En vekt er i allmennhet et måleinstrument som skal kunne måle et legemes tyngde i kg (kilogram). Måleprosessen kalles en veiing fra verbet å veie. Måleresultatet kalles legemets vekt, eller mere formelt dets masse.
+Avvikende kalles instrumenter som måler krefter (i N, Newton) (særlig innen vitenskapen) også for vekter.
+Instrumentet vekt blir hovedsakelig bygd opp på to forskjellige måter som blir opphav til typebetegnelsene fjærvekt og skålvekt. De to målemetodene er fundamentalt vesensforskjellige.
+
+Fjærvekta finner objektets kraft mot jorda på det stedet der veiingen foregår.
+Skålvekta sammenligner objektets masse med referanseobjekters masse, som kalles lodd.Siden en med veiing oftest vil frem til stoffmengden (massen) av objektet, er det bare skålvekta som er prinsipielt korrekt. Fjærvekta ville vise helt feil på månen og har noen små feil på jorda; ca. 0,5 % forskjell mellom polene og ekvator. I detalj:
+
+
+== Måling av masse med likearmet skålvekt ==
+ 
+Definisjon
+
+  
+    
+      
+        
+          M
+          a
+          s
+          s
+          e
+        
+        ⋅
+        
+          g
+          r
+          a
+          v
+          i
+          t
+          a
+          s
+          j
+          o
+          n
+        
+        =
+        
+          r
+          e
+          f
+          e
+          r
+          a
+          n
+          s
+          m
+          a
+          s
+          s
+          e
+        
+        ⋅
+        
+          g
+          r
+          a
+          v
+          i
+          t
+          a
+          s
+          j
+          o
+          n
+        
+      
+    
+    {\displaystyle \mathrm {Masse} \cdot \mathrm {gravitasjon} =\mathrm {referansmasse} \cdot \mathrm {gravitasjon} }
+  dvs.
+
+  
+    
+      
+        
+          M
+          a
+          s
+          s
+          e
+        
+        =
+        
+          r
+          e
+          f
+          e
+          r
+          a
+          n
+          s
+          m
+          a
+          s
+          s
+          e
+        
+      
+    
+    {\displaystyle \mathrm {Masse} =\mathrm {referansmasse} }
+  Med skålvekter veies et legeme ved at en likearmet vektbjelke utbalanseres av flere lodd med kjente masser. Gravitasjonens størrelse er likegyldig og vi måler vekten som gjenstandens masse i kilogram (kg) ved sammenligning. Noe gravitasjon må dog være til stede for at skålvekten skal fungere.
+Masse kan også måles uten gravitasjon, se masse og treghet.
+
+
+== Måling av masse med ulikearmet skålvekt ==
+ 
+Definisjon
+
+  
+    
+      
+        
+          M
+          a
+          s
+          s
+          e
+        
+        ⋅
+        
+          g
+          r
+          a
+          v
+          i
+          t
+          a
+          s
+          j
+          o
+          n
+        
+        ⋅
+        
+          a
+          r
+          m
+          l
+          e
+          n
+          g
+          d
+          
+            e
+            
+              1
+            
+          
+        
+        =
+        
+          r
+          e
+          f
+          e
+          r
+          a
+          n
+          s
+          m
+          a
+          s
+          s
+          e
+        
+        ⋅
+        
+          g
+          r
+          a
+          v
+          i
+          t
+          a
+          s
+          j
+          o
+          n
+        
+        ⋅
+        
+          a
+          r
+          m
+          l
+          e
+          n
+          g
+          d
+          
+            e
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Masse} \cdot \mathrm {gravitasjon} \cdot \mathrm {armlengde_{1}} =\mathrm {referansmasse} \cdot \mathrm {gravitasjon} \cdot \mathrm {armlengde_{2}} }
+  dvs.
+
+  
+    
+      
+        
+          M
+          a
+          s
+          s
+          e
+        
+        =
+        
+          r
+          e
+          f
+          e
+          r
+          a
+          n
+          s
+          m
+          a
+          s
+          s
+          e
+        
+        ⋅
+        
+          
+            
+              a
+              r
+              m
+              l
+              e
+              n
+              g
+              d
+              
+                e
+                
+                  2
+                
+              
+            
+            
+              a
+              r
+              m
+              l
+              e
+              n
+              g
+              d
+              
+                e
+                
+                  1
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Masse} =\mathrm {referansmasse} \cdot {\frac {\mathrm {armlengde_{2}} }{\mathrm {armlengde_{1}} }}}
+  Slike skålvekter kalles ofte for bismer og var hyppig å se i tidligere handel. På et bismer kan opphengningspunktet eller referansemassen flyttes inntil balanse er oppnådd. Objektets masse blir så beregnet.
+
+
+== Måling av masse med fjærvekt ==
+
+Definisjon
+
+  
+    
+      
+        
+          K
+          r
+          a
+          f
+          t
+        
+        =
+        
+          m
+          a
+          s
+          s
+          e
+        
+        ⋅
+        
+          g
+          r
+          a
+          v
+          i
+          t
+          a
+          s
+          j
+          o
+          n
+        
+      
+    
+    {\displaystyle \mathrm {Kraft} =\mathrm {masse} \cdot \mathrm {gravitasjon} }
+  Med en fjærvekt veies et legeme ved at en elastisk fjær deformeres av kraften som legemet får i jordas gravitasjonsfelt. Deformasjonen er lineært avhengig av kraften som virker på fjæren.  Det som måles, er derfor en kraft og ikke egentlig en masse. Kraften er proporsjonal til produktet av jordas gravitasjon og legemets masse. Kraften blir likevel ikke angitt i N, men i kg idet skalaen er forfalsket og forutsetter jordas tyngdekraft som en gitt fast størrelse på 9,81 m/s².
+Moderne digitale kjøkken- og personvekter er fjærvekter av type.
+
+
+== Se også ==
+Lodd
+Masse
+Vektstang

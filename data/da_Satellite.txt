@@ -1,0 +1,17 @@
+Udtrykket satellit bruges i bredeste forstand om alt, der kredser om en egentlig planet; både naturlige måner og menneskeskabte rumfartøjer. Normalt forstås "satellit" dog primært som et ubemandet fartøj i kredsløb om Jorden. Eksempelvis vejrsatellitter, kommunikationssatellitter, astronomisatellitter og spionsatellitter.
+Kommunikationssatellitter kredser oftest i den geostationære bane i cirka 36.000 kilometers højde, således at de befinder sig i samme position set fra jorden. 
+Området 400-1.000 kilometer kaldes lav jordbane og foretrækkes af rumstationer (som ISS) og almindelige satellitter, fordi det ligger lige oven for atmosfæren, men under Van Allen-bælterne, og er nemmest at nå med raketter. 
+Spionsatellitter vil sædvanligvis også befinde sig i lave baner, for eksempel kredser de amerikanske optiske KH-11-satellitter i 380-860 kilometers højde og Lacrosse radar-satellitterne i 650 kilometers højde.[kilde mangler]Kommunikationssatellitter er blevet stadig vigtigere elementer i nutidens globale kommunikation. Globale nyhedsstrømme, internetkommunikation og GPS-tracking er blot nogle få eksempler, som i dag er bredt tilgængelige, og som er totalt afhængige af disse kommunikations- og navigationssatellitter.
+
+
+== Se også ==
+Listen med danske satellitter
+
+
+== Kilder/referencer ==
+
+
+== Eksterne henvisninger ==
+
+www.GNSS.nu
+Satellit på Curlie (som bygger videre på Open Directory Project)

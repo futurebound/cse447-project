@@ -1,0 +1,312 @@
+Hastighet er i fysikk definert som endring av posisjon per tid og det vil si at «hastighet» bekriver både «fart» og «retning» selv om «hastighet» normalt tillegges samme betydning som «fart » i dagligtalen. Hastighet er en vektor, det vil si at den har retning i rommet. Hastighetens absoluttverdi omtales ofte som fart. Enheten til hastighet er lengde over tid. SI-enheten er m/s, men km/t og knop er også vanlige enheter.
+Mange symboler brukes til å beskrive hastighet, men v og u er vanligst. (Fet skrift er trykt notasjon for vektorer.)
+Langs en rett linje er gjennomsnittshastighet v gitt ved
+
+  
+    
+      
+        v
+        =
+        
+          
+            s
+            t
+          
+        
+      
+    
+    {\displaystyle v={\frac {s}{t}}}
+  hvor s er tilbakelagt strekning og t er tiden det tar. (Legg merke til at langs en rett linje er hastighet en skalar.)
+
+
+== Måling av hastighet ==
+Hastighet er en sentral størrelse og kan måles på mange måter. Noen metoder finner kun absoluttverdi, mens andre måler både fart og retning.
+
+Den vanligste måten å måle hastighet på er å ta tiden for bevegelse mellom to punkter. Målingen er ofte indirekte, slik som speedometer i en bil som måler omdreiningshastighet på et hjul eller en aksling og regner om til hastighet på veien.
+Hastighetsmåling ved hjelp av radar bruker dopplereffekten til å regne ut hastigheten.
+I fly måles hastighet som forskjell mellom dynamisk trykk og statisk trykk. Dette gir et uttrykk for strømningshastigheten til luften rundt flyet.
+I en ubåt måles lineær akselerasjon og rotasjon. Når disse måles kontinuerlig kan en også regne seg til hastighet og posisjon.
+
+
+== Definisjon ==
+Den matematiske definisjonen av hastighet er den tidsderiverte til posisjon r(t), dvs.
+
+  
+    
+      
+        
+          v
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                d
+              
+              
+                r
+              
+              (
+              t
+              )
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+      
+    
+    {\displaystyle \mathbf {v} (t)={\frac {\mathrm {d} \mathbf {r} (t)}{\mathrm {d} t}}\,}
+  Vanlig notasjon for tidsderivasjon er også 
+  
+    
+      
+        
+          
+            
+              
+                r
+              
+              ˙
+            
+          
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\dot {\mathbf {r} }}(t)}
+  . Denne definisjonen gjelder også når hastigheten selv endrer seg med tiden. Skrevet ut i kartesiske koordinater er definisjonen
+
+  
+    
+      
+        (
+        
+          v
+          
+            x
+          
+        
+        (
+        t
+        )
+        ,
+        
+          v
+          
+            y
+          
+        
+        (
+        t
+        )
+        ,
+        
+          v
+          
+            z
+          
+        
+        (
+        t
+        )
+        )
+        =
+        (
+        
+          
+            
+              x
+              ˙
+            
+          
+        
+        (
+        t
+        )
+        ,
+        
+          
+            
+              y
+              ˙
+            
+          
+        
+        (
+        t
+        )
+        ,
+        
+          
+            
+              z
+              ˙
+            
+          
+        
+        (
+        t
+        )
+        )
+        
+      
+    
+    {\displaystyle (v_{x}(t),v_{y}(t),v_{z}(t))=({\dot {x}}(t),{\dot {y}}(t),{\dot {z}}(t))\,}
+  
+
+
+== Eksempler ==
+
+
+=== Eksempel: Bevegelse med konstant hastighet ===
+Bevegelse med konstant hastighet v kan skrives
+
+  
+    
+      
+        
+          r
+        
+        (
+        t
+        )
+        =
+        
+          v
+        
+        t
+        +
+        
+          
+            r
+          
+          
+            0
+          
+        
+        
+      
+    
+    {\displaystyle \mathbf {r} (t)=\mathbf {v} t+\mathbf {r} _{0}\,}
+  
+
+
+=== Eksempel: Sirkelbevegelse ===
+En sirkelbevegelse med radius r i xy-planet beskrives ved
+
+  
+    
+      
+        
+          r
+        
+        (
+        t
+        )
+        =
+        
+          r
+          
+            0
+          
+        
+        (
+        cos
+        ⁡
+        (
+        ω
+        t
+        )
+        ,
+        sin
+        ⁡
+        (
+        ω
+        t
+        )
+        )
+      
+    
+    {\displaystyle \mathbf {r} (t)=r_{0}(\cos(\omega t),\sin(\omega t))}
+  hvor 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   er vinkelhastighet. Hastigheten er gitt ved den tidsderiverte
+
+  
+    
+      
+        
+          v
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                r
+              
+              ˙
+            
+          
+        
+        (
+        t
+        )
+        =
+        
+          r
+          
+            0
+          
+        
+        ω
+        (
+        −
+        sin
+        ⁡
+        (
+        ω
+        t
+        )
+        ,
+        cos
+        ⁡
+        (
+        ω
+        t
+        )
+        )
+        
+      
+    
+    {\displaystyle \mathbf {v} (t)={\dot {\mathbf {r} }}(t)=r_{0}\omega (-\sin(\omega t),\cos(\omega t))\,}
+  det vil si jo større 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+  , jo større fart.

@@ -1,0 +1,748 @@
+L'effetto Doppler è un fenomeno fisico che consiste nel cambiamento apparente, rispetto al valore originario, della frequenza o della lunghezza d'onda percepita da un osservatore raggiunto da un'onda emessa da una sorgente che si trovi in movimento rispetto all'osservatore stesso. Se la sorgente e l'osservatore si muovono entrambi rispetto al mezzo di propagazione delle onde, l'effetto Doppler totale è derivato dalla combinazione dei due movimenti. Perciò ognuno di essi è analizzato separatamente.
+
+
+== Storia ==
+L'effetto fu analizzato per la prima volta da Christian Andreas Doppler nel 1845. Procedette quindi a verificare la sua analisi in un famoso esperimento: si piazzò accanto ai binari della ferrovia, e ascoltò il suono emesso da un vagone pieno di musicisti, assoldati per l'occasione, mentre si avvicinava e poi mentre si allontanava. Confermò che l'altezza del suono era più alta quando l'origine del suono si stava avvicinando, e più bassa quando si stava allontanando, dell'ammontare predetto. Hippolyte Fizeau scoprì indipendentemente lo stesso effetto nelle onde elettromagnetiche nel 1848 (in Francia, l'effetto è a volte chiamato "effetto Doppler-Fizeau").
+
+
+== Osservazione diretta del fenomeno: la sirena e il treno ==
+
+L'effetto Doppler si può constatare ascoltando la differenza nel suono emesso dalla sirena di un mezzo di soccorso quando si avvicina e quando si allontana, oppure quella nel fischio di un treno in avvicinamento prima e in allontanamento poi. L'effetto è tanto più evidente quanto più il mezzo è veloce. L'effetto è anche più evidente quando l'oggetto o la fonte che emette il suono si trova vicino ad un osservatore.
+
+
+== Spiegazione del fenomeno ==
+È importante notare che la frequenza del suono emesso dalla sorgente non cambia nel sistema di riferimento solidale alla sorgente. Per comprendere il fenomeno, consideriamo la seguente analogia: se siamo fermi sulla spiaggia, vediamo arrivare le onde supponiamo ogni cinque secondi, quindi ad una determinata frequenza; se ora entriamo in acqua e navighiamo verso il mare aperto, andiamo incontro alle onde, quindi le incontriamo più frequentemente (la frequenza aumenta), mentre se navighiamo verso riva, nella stessa direzione delle onde, la frequenza con cui le incontriamo diminuisce. Per fare un altro esempio: qualcuno lancia una palla ogni secondo nella nostra direzione. Assumiamo che le palle viaggino con velocità costante. Se colui che le lancia è fermo e ogni palla è alla stessa velocità media della prima, riceveremo una palla ogni secondo. Ma, se si sta invece muovendo nella nostra direzione, ne riceveremo un numero maggiore nel medesimo lasso di tempo (ovvero, a una frequenza maggiore), perché esse saranno meno spaziate. Al contrario, se si sta allontanando ne riceveremo di meno nell'unità di tempo. Ciò che cambia è quindi la frequenza nel sistema di riferimento del rilevatore; come conseguenza, l'altezza del suono percepito cambia.
+
+Se una sorgente che si sta allontanando sta emettendo onde con una frequenza f, allora un osservatore stazionario (rispetto al mezzo di trasmissione) percepirà le onde con una frequenza f' data da:
+
+  
+    
+      
+        
+          f
+          ′
+        
+        =
+        
+          
+            v
+            
+              v
+              +
+              
+                v
+                
+                  s
+                  ,
+                  r
+                
+              
+            
+          
+        
+        f
+      
+    
+    {\displaystyle f'={\frac {v}{v+v_{s,r}}}f}
+  mentre se si sta avvicinando:
+
+  
+    
+      
+        
+          f
+          ′
+        
+        =
+        
+          
+            v
+            
+              v
+              −
+              
+                v
+                
+                  s
+                  ,
+                  r
+                
+              
+            
+          
+        
+        f
+      
+    
+    {\displaystyle f'={\frac {v}{v-v_{s,r}}}f}
+  
+dove v è la velocità delle onde nel mezzo e vs,r è la velocità della sorgente rispetto al mezzo (considerando solo la componente nella direzione che unisce sorgente ed osservatore). In termini relativi si può scrivere anche:
+
+  
+    
+      
+        
+          
+            
+              Δ
+              
+                f
+                ′
+              
+            
+            f
+          
+        
+        =
+        
+          
+            
+              
+                f
+                ′
+              
+              −
+              f
+            
+            f
+          
+        
+        =
+        
+          
+            v
+            
+              v
+              −
+              
+                v
+                
+                  s
+                  ,
+                  r
+                
+              
+            
+          
+        
+        −
+        1
+        =
+        
+          
+            
+              v
+              
+                s
+                ,
+                r
+              
+            
+            
+              v
+              −
+              
+                v
+                
+                  s
+                  ,
+                  r
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\Delta f'}{f}}={\frac {f'-f}{f}}={\frac {v}{v-v_{s,r}}}-1={\frac {v_{s,r}}{v-v_{s,r}}}}
+  Questa formula è equivalente a quella più comunemente usata in spettroscopia nella misure astronomiche, per ricavare la velocità  va di allontanamento di una sorgente di luce, sulla base dell'aumento della sua lunghezza d'onda, cioè dello spostamento del suo colore verso il rosso (vedi figura in basso e "voci correlate", spostamento verso il rosso, spostamento verso il blu):
+
+  
+    
+      
+        
+          
+            
+              Δ
+              
+                λ
+                ′
+              
+            
+            λ
+          
+        
+        =
+        
+          
+            
+              v
+              
+                a
+              
+            
+            c
+          
+        
+      
+    
+    {\displaystyle {\frac {\Delta \lambda '}{\lambda }}={\frac {v_{a}}{c}}}
+  dove c è la velocità della luce nel vuoto, Δλ' = λ' - λ
+e λ0 è la lunghezza d'onda a riposo di una determinata riga di un dato elemento chimico, misurata precedentemente in laboratorio.
+
+
+=== Moto della sorgente ===
+Consideriamo un'onda sferica emessa da una sorgente puntiforme e la sua lunghezza d'onda λ0 che è la distanza tra due fronti d'onda successivi che si trovano nella stessa fase, ad esempio due massimi.
+La relazione che lega la frequenza f , il periodo T0 = 1 / f e la velocità v di propagazione dell'onda vale:
+
+  
+    
+      
+        λ
+        =
+        v
+        
+        
+          T
+          
+            0
+          
+        
+        =
+        v
+        
+        
+          /
+        
+        f
+      
+    
+    {\displaystyle \lambda =v\;T_{0}=v\;/f}
+  Se la sorgente è in moto con velocità vs rispetto all'osservatore (fermo),
+detto θ l'angolo tra la velocità e la direzione verso l'operatore, e detta vs,r=vscosθ la componente della velocità in direzione dell'osservatore,
+nel tempo T0, che passa tra un fronte d'onda e il successivo, la sorgente si avvicina all'osservatore di un tratto pari a vs,rT0. La distanza tra i due fronti, in direzione dell'osservatore, si accorcia di questa quantità e quindi la lunghezza d'onda percepita diventa minore e vale:
+
+  
+    
+      
+        
+          λ
+          ′
+        
+        =
+        λ
+        −
+        
+          v
+          
+            s
+            ,
+            r
+          
+        
+        
+          T
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \lambda '=\lambda -v_{s,r}T_{0}}
+  Sostituendo al periodo T0 la formula equivalente λ /v , si ricava:
+
+  
+    
+      
+        
+          λ
+          ′
+        
+        =
+        λ
+        −
+        
+          
+            
+              
+                v
+                
+                  s
+                  ,
+                  r
+                
+              
+              λ
+            
+            v
+          
+        
+        =
+        λ
+        
+          (
+          
+            1
+            −
+            
+              
+                
+                  v
+                  
+                    s
+                    ,
+                    r
+                  
+                
+                v
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \lambda '=\lambda -{\frac {v_{s,r}\lambda }{v}}=\lambda \left(1-{\frac {v_{s,r}}{v}}\right)}
+  ed anche:
+
+  
+    
+      
+        
+          
+            
+              Δ
+              
+                λ
+                ′
+              
+            
+            λ
+          
+        
+        =
+        
+          
+            
+              
+                λ
+                ′
+              
+              −
+              λ
+            
+            λ
+          
+        
+        =
+        −
+        
+          
+            
+              v
+              
+                s
+                ,
+                r
+              
+            
+            v
+          
+        
+      
+    
+    {\displaystyle {\frac {\Delta \lambda '}{\lambda }}={\frac {\lambda '-\lambda }{\lambda }}=-{\frac {v_{s,r}}{v}}}
+  Analogamente, passando alle frequenze, mettendo 
+  
+    
+      
+        v
+        
+          /
+        
+        
+          f
+          ′
+        
+      
+    
+    {\displaystyle v/f'}
+   al posto di  
+  
+    
+      
+        
+          λ
+          ′
+        
+      
+    
+    {\displaystyle \lambda '}
+   e 
+  
+    
+      
+        v
+        
+          /
+        
+        f
+      
+    
+    {\displaystyle v/f}
+   al posto di  
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   , si ricava:
+
+  
+    
+      
+        v
+        
+        
+          /
+        
+        
+          f
+          ′
+        
+        =
+        
+          (
+          
+            v
+            
+              /
+            
+            f
+          
+          )
+        
+        
+          (
+          
+            1
+            −
+            
+              
+                
+                  v
+                  
+                    s
+                    ,
+                    r
+                  
+                
+                v
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle v\;/f'=\left(v/f\right)\left(1-{\frac {v_{s,r}}{v}}\right)}
+   cioè:
+  
+    
+      
+        
+          f
+          ′
+        
+        =
+        
+          
+            v
+            
+              v
+              −
+              
+                v
+                
+                  s
+                  ,
+                  r
+                
+              
+            
+          
+        
+        f
+      
+    
+    {\displaystyle f'={\frac {v}{v-v_{s,r}}}f}
+  ed anche:
+
+  
+    
+      
+        
+          
+            
+              Δ
+              
+                f
+                ′
+              
+            
+            f
+          
+        
+        =
+        
+          
+            
+              
+                f
+                ′
+              
+              −
+              f
+            
+            f
+          
+        
+        =
+        
+          
+            v
+            
+              v
+              −
+              
+                v
+                
+                  s
+                  ,
+                  r
+                
+              
+            
+          
+        
+        −
+        1
+        =
+        
+          
+            
+              v
+              
+                s
+                ,
+                r
+              
+            
+            
+              v
+              −
+              
+                v
+                
+                  s
+                  ,
+                  r
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\Delta f'}{f}}={\frac {f'-f}{f}}={\frac {v}{v-v_{s,r}}}-1={\frac {v_{s,r}}{v-v_{s,r}}}}
+  
+
+
+=== Moto dell'osservatore ===
+Un'analisi simile per un osservatore in movimento e una sorgente stazionaria fornisce la frequenza osservata (la velocità dell'osservatore è indicata come vos):
+
+  
+    
+      
+        
+          f
+          ′
+        
+        =
+        f
+        
+          (
+          
+            1
+            +
+            
+              
+                
+                  v
+                  
+                    o
+                    s
+                  
+                
+                v
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle f'=f\left(1+{\frac {v_{os}}{v}}\right)}
+  In questo caso l'osservatore in moto verso la sorgente riceve un numero maggiore di fronti d'onda nello stesso intervallo di tempo e percepisce una frequenza maggiore: più precisamente, in un tempo pari a un secondo, l'osservatore in moto riceve, oltre al numero f0=v/λ0 di treni d'onda emessi dalla sorgente, anche un numero di treni d'onda pari a  vos/λ0=vos• f0/v.
+
+
+=== Formula generale ===
+In generale, la frequenza osservata è data da:
+
+  
+    
+      
+        
+          f
+          ′
+        
+        =
+        f
+        
+          (
+          
+            
+              
+                v
+                −
+                
+                  v
+                  
+                    r
+                  
+                
+              
+              
+                v
+                −
+                
+                  v
+                  
+                    s
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle f'=f\left({\frac {v-v_{r}}{v-v_{s}}}\right)}
+  dove vr è la velocità del ricevitore, vs è la velocità della sorgente, v è la velocità del suono nel mezzo. Tutte le velocità sono positive se nello stesso verso lungo cui si propaga l'onda, o negative se nel verso opposto.
+Il primo tentativo di estendere l'analisi di Doppler alle onde luminose fu fatto poco dopo da Fizeau. Ma le onde luminose non richiedono un mezzo per propagarsi, e un corretto trattamento dell'effetto Doppler per la luce richiede l'uso della relatività speciale (vedi effetto Doppler relativistico). Nel caso di onde meccaniche, come quelle sonore, il mezzo in cui le onde si propagano individua un sistema di riferimento privilegiato. C'è perciò una differenza fisica tra il caso in cui l'osservatore è fermo e la sorgente in moto, e viceversa quello in cui la sorgente è ferma e l'osservatore in moto. Per la luce, però, tutti i sistemi di riferimento sono fisicamente equivalenti. Nell'espressione relativistica lo spostamento Doppler deve dipendere soltanto dalla velocità relativa della sorgente e dell'osservatore.
+
+
+== Applicazioni ==
+
+
+=== Vita quotidiana ===
+
+La sirena di un'ambulanza inizierà ad essere percepita più alta del tono che ha da ferma, si abbasserà mentre passa accanto all'osservatore, e continuerà più bassa del suo tono da ferma mentre si allontana dall'osservatore. L'astronomo amatoriale John Dobson ha descritto l'effetto in questo modo:
+
+"La ragione per cui il tono di una sirena cambia è che non ti ha colpito".In altre parole, se la sirena si stesse avvicinando direttamente verso l'osservatore, il tono rimarrebbe costante (anche se più alto dell'originale) fino a raggiungere l'osservatore, e salterebbe immediatamente ad un tono inferiore una volta che lo avesse oltrepassato (sempre che l'osservatore fosse ancora in grado di sentirla). Poiché, normalmente, la sirena passa ad una certa distanza dall'osservatore, la sua velocità radiale cambia continuamente, in funzione dell'angolo tra la linea di vista dell'osservatore e la velocità vettoriale della sirena:
+
+  
+    
+      
+        
+          v
+          
+            s
+            ,
+            r
+          
+        
+        =
+        
+          v
+          
+            s
+          
+        
+        ⋅
+        cos
+        ⁡
+        
+          ϑ
+        
+      
+    
+    {\displaystyle v_{s,r}=v_{s}\cdot \cos {\vartheta }}
+  dove vs è la velocità della sirena rispetto al mezzo di trasmissione, e 
+  
+    
+      
+        ϑ
+      
+    
+    {\displaystyle \vartheta }
+   è l'angolo tra la direzione di moto della sirena e la linea di vista tra la sirena e l'osservatore.
+
+
+=== Astronomia ===
+
+L'effetto Doppler, applicato alle onde luminose, è fondamentale nella astronomia radar. Interpretandolo come dovuto ad un effettivo moto della sorgente (esistono anche interpretazioni alternative, ma meno diffuse), è stato usato per misurare la velocità con cui stelle e galassie si stanno avvicinando o allontanando da noi, per scoprire che una stella apparentemente singola è, in realtà, una stella binaria con componenti molto vicine tra loro, e anche per misurare la velocità di rotazione di stelle e galassie.
+L'uso dell'effetto Doppler in astronomia si basa sul fatto che lo spettro elettromagnetico emesso dagli oggetti celesti non è continuo, ma mostra delle linee spettrali a frequenze ben definite, correlate con le energie necessarie ad eccitare gli elettroni di vari elementi chimici.
+L'effetto Doppler è riconoscibile quando le linee spettrali non si trovano alle frequenze ottenute in laboratorio, utilizzando una sorgente stazionaria. La differenza in frequenza può essere tradotta direttamente in velocità utilizzando apposite formule.
+Poiché i colori posti ai due estremi dello spettro visibile sono il blu (per lunghezze d'onda più corte) e il rosso (per lunghezze d'onda più lunghe), l'effetto Doppler è spesso chiamato in astronomia spostamento verso il rosso se diminuisce la frequenza della luce, e spostamento verso il blu se l'aumenta.
+L'effetto Doppler ha condotto allo sviluppo delle teorie sulla nascita ed evoluzione dell'Universo come il Big Bang, basandosi sul sistematico spostamento verso il rosso mostrato da quasi tutte le galassie esterne. Tale effetto è stato codificato nella legge di Hubble.
+L'effetto Doppler è una prova inoltre della continua espansione dell'universo. Consideriamo infatti una stella: controllando la sua lunghezza d'onda noteremo che si sposta sempre di più verso il rosso. Ciò significa che la sua lunghezza d'onda è aumentata e conseguentemente la stella è sempre più lontana da noi. Questo indica che l'universo è in continua espansione e ogni elemento tende ad allontanarsi da tutto, allungando sempre di più la sua lunghezza d'onda.
+
+
+=== Il radar ===
+
+L'effetto Doppler è anche usato in alcune forme di radar per misurare la velocità degli oggetti rilevati. Un fascio radar è lanciato contro un oggetto in movimento, per esempio un'automobile, nel caso dei radar in dotazione alle forze di polizia di molti Paesi del mondo. Se l'oggetto si sta allontanando dall'apparecchio radar, ogni onda di ritorno ha dovuto percorrere uno spazio maggiore della precedente per raggiungere l'oggetto e tornare indietro, quindi lo spazio tra due onde successive si allunga, e la frequenza delle onde radio cambia in modo misurabile. Usando le formule dell'effetto Doppler si può risalire alla velocità dell'oggetto. Questa tipologia di radar è molto utilizzata per le previsioni meteorologiche perché permettono di individuare con precisione distanza, velocità e direzione dei fronti nuvolosi.
+
+
+=== Medicina ===
+ 
+L'effetto Doppler è anche usato in medicina per la rilevazione della velocità del flusso sanguigno. Tale principio infatti è sfruttato dai Flussimetri Eco-Doppler (ADV, ovvero Acoustic Doppler Velocimeter), nei quali una sorgente di onde sonore, generalmente ultrasuoni, viene orientata opportunamente. Queste onde acustiche vengono poi riflesse con una nuova frequenza, a seconda della velocità vettoriale delle particelle sanguigne, rilevata e rielaborata in modo da ottenere tale misura di velocità.
+Un'altra applicazione è il laser Doppler imager, utilizzato in particolare per studi sull'angiogenesi, sulla disfunzione endoteliale, sulle ulcere cutanee, per la valutazione di prodotti farmaceutici o cosmetologici ad applicazione locale, per lo studio delle ustioni.
+
+
+=== Musica ===
+Esistono strumenti musicali che sfruttano l'effetto Doppler per rendere particolari effetti onomatopeici; come ad esempio il tamburo a frizione rotante che in Romagna è chiamato “Raganella”;. Per questo tipo di strumenti a Fabio Lombardi si devono le osservazioni sull'accentuazione della resa sonora per l'effetto Doppler: Quando il piccolo tamburo rotea, l'ascoltatore percepisce due picchi di frequenza modulati progressivamente ed alternativamente verso l'alto e verso il basso, per l'effetto sopra citato, e questo porta ad un suono simile al gracidare di rana da cui il nome dello strumento giocattolo.
+
+
+== Note ==
+
+
+== Bibliografia ==
+D. H. Evans and W. N. McDicken, Doppler Ultrasound, seconda edizione, John Wiley and Sons, 2000.
+
+
+== Voci correlate ==
+Spostamento verso il rosso
+Spostamento verso il blu
+Ottica
+Acustica
+Onda sonora
+Onda elettromagnetica
+Spettroscopia astronomica
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su effetto Doppler
+
+
+== Collegamenti esterni ==
+
+(EN) Effetto Doppler, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) The Doppler Effect, su archive.ncsa.uiuc.edu. URL consultato il 3 agosto 2004 (archiviato dall'url originale il 12 maggio 2009).
+(EN)  Effetto Doppler, simulazione in Java.
+Effetto Doppler, simulazione in Java.
+Angelo Ricotta - Note sull'effetto Doppler acustico, alcune considerazioni.

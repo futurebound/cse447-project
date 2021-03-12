@@ -1,0 +1,47 @@
+The light-year is a unit of length used to express astronomical distances and is equivalent to about 9.46 trillion kilometres (9.46×1012 km) or 5.88 trillion miles (5.88×1012 mi). As defined by the International Astronomical Union (IAU), a light-year is the distance that light travels in vacuum in one Julian year (365.25 days). Because it includes the word "year", the term light-year may be misinterpreted as a unit of time.The light-year is most often used when expressing distances to stars and other distances on a galactic scale, especially in non-specialist contexts and popular science publications. The unit most commonly used in professional astronomy is the parsec (symbol: pc, about 3.26 light-years) which derives from astrometry: it is the distance at which one astronomical unit subtends an angle of one second of arc.
+
+
+== Definitions ==
+As defined by the IAU, the light-year is the product of the Julian year (365.25 days as opposed to the 365.2425-day Gregorian year) and the speed of light (299792458 m/s). Both of these values are included in the IAU (1976) System of Astronomical Constants, used since 1984. From this, the following conversions can be derived. The IAU recognized abbreviation for light-year is ly, although other standards like ISO 80000 use "l.y." and localized abbreviations are frequent, such as "al" in French (from année-lumière), Spanish (from año luz) and Italian (from anno luce), "Lj" in German (from Lichtjahr), etc.
+
+Before 1984, the tropical year (not the Julian year) and a measured (not defined) speed of light were included in the IAU (1964) System of Astronomical Constants, used from 1968 to 1983. The product of Simon Newcomb's J1900.0 mean tropical year of 31556925.9747 ephemeris seconds and a speed of light of 299792.5 km/s produced a light-year of 9.460530×1015 m (rounded to the seven significant digits in the speed of light) found in several modern sources was probably derived from an old source such as C. W. Allen's 1973 Astrophysical Quantities reference work, which was updated in 2000, including the IAU (1976) value cited above (truncated to 10 significant digits).Other high-precision values are not derived from a coherent IAU system. A value of 9.460536207×1015 m found in some modern sources is the product of a mean Gregorian year (365.2425 days or 31556952 s) and the defined speed of light (299792458 m/s). Another value, 9.460528405×1015 m, is the product of the J1900.0 mean tropical year and the defined speed of light.
+Abbreviations used for light-years and multiples of light-years are
+
+"ly" for one light-year
+"kly" for a kilolight-year (1,000 light-years)
+"Mly" for a megalight-year (1,000,000 light-years)
+"Gly" for a gigalight-year (1,000,000,000 light-years)
+
+
+== History ==
+The light-year unit appeared a few years after the first successful measurement of the distance to a star other than the Sun, by Friedrich Bessel in 1838. The star was 61 Cygni, and he used a 6.2-inch (160 mm) heliometer designed by Joseph von Fraunhofer. The largest unit for expressing distances across space at that time was the astronomical unit, equal to the radius of the Earth's orbit (1.50×108 km or 9.30×107 mi). In those terms, trigonometric calculations based on 61 Cygni's parallax of 0.314 arcseconds, showed the distance to the star to be 660000 astronomical units (9.9×1013 km or 6.1×1013 mi). Bessel added that light takes 10.3 years to traverse this distance. He recognized that his readers would enjoy the mental picture of the approximate transit time for light, but he refrained from using the light-year as a unit. He may have resented expressing distances in light-years because it would reduce the accuracy of his parallax data due to multiplying with the uncertain parameter of the speed of light.
+The speed of light was not yet precisely known in 1838; its value changed in 1849 (Fizeau) and 1862 (Foucault). It was not yet considered to be a fundamental constant of nature, and the propagation of light through the aether or space was still enigmatic.
+The light-year unit appeared in 1851 in a German popular astronomical article by Otto Ule. Ule explained the oddity of a distance unit name ending in "year" by comparing it to a walking hour (Wegstunde).
+A contemporary German popular astronomical book also noticed that light-year is an odd name. In 1868 an English journal labelled the light-year as a unit used by the Germans. Eddington called the light-year an inconvenient and irrelevant unit, which had sometimes crept from popular use into technical investigations.Although modern astronomers often prefer to use the parsec, light-years are also popularly used to gauge the expanses of interstellar and intergalactic space.
+
+
+== Usage of term ==
+Distances expressed in light-years include those between stars in the same general area, such as those belonging to the same spiral arm or globular cluster. Galaxies themselves span from a few thousand to a few hundred thousand light-years in diameter, and are separated from neighbouring galaxies and galaxy clusters by millions of light-years. Distances to objects such as quasars and the Sloan Great Wall run up into the billions of light-years.
+
+
+== Related units ==
+Distances between objects within a star system tend to be small fractions of a light-year, and are usually expressed in astronomical units. However, smaller units of length can similarly be formed usefully by multiplying units of time by the speed of light. For example, the light-second, useful in astronomy, telecommunications and relativistic physics, is exactly 299792458 metres or ​1⁄31557600 of a light-year. Units such as the light-minute, light-hour and light-day are sometimes used in popular science publications. The light-month, roughly one-twelfth of a light-year, is also used occasionally for approximate measures. The Hayden Planetarium specifies the light month more precisely as 30 days of light travel time.Light travels approximately one foot in a nanosecond; the term "light-foot" is sometimes used as an informal measure of time.
+
+
+== See also ==
+1 petametre (examples of distances on the order of one light-year)
+Distance measures (cosmology)
+Einstein protocol
+Hubble length
+Orders of magnitude (length)
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+ The dictionary definition of light-year at Wiktionary

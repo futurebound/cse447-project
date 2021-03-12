@@ -1,0 +1,105 @@
+Een vacuüm is een ruimte zonder materie en zonder druk. In het dagelijks taalgebruik hanteert men ook wel de term luchtledig, omdat de afwezigheid van lucht een sterk verlaagde druk veroorzaakt. In een theoretisch perfect vacuüm bedraagt de druk 0 pascal (Pa).
+Het woord vacuüm wordt in twee betekenissen gebruikt:
+
+In de (theoretische) natuurkunde: een materievrije, maar niet noodzakelijkerwijs veldvrije ruimte.
+In de techniek en de toegepaste wetenschappen: een ruimte met lagere druk dan de druk van de buitenlucht. Een ander woord ervoor is onderdruk. Deze verloopt dan van 0 tot 1 bar.
+
+
+== Soorten vacuüm ==
+Tussen normale atmosferische druk en de extreem lage drukken die in laboratoria bereikt worden, liggen meer dan 16 grootte-orden, d.w.z. dat drukken van lager dan 10-16 atmosfeer kunnen gerealiseerd worden. Daarom worden de volgende conventionele benamingen gebruikt voor de verschillende tussenstadia:
+
+ruw vacuüm (RV): tussen  1000 en 1 millibar (mb)
+matig vacuüm (MV): tussen 1 en 10-3 mb
+hoog vacuüm (HV): tussen 10-3 en 10-7 mb
+ultrahoog vacuüm (UHV): lager dan 10-7 mb (normaal tot 10-14 mb)Scheikundigen spreken ook van intermediair vacuüm en bedoelen dan gewoonlijk een druk tussen 100 en 1 mbar. Sommige ingenieurs vermijden het woord vacuüm en spreken liever van lage druk of negatieve druk. De verschillende soorten vacuüm onderscheiden zich door de waarneembare eigenschappen van de aanwezige gassen en door de gebruikte technieken.
+
+
+== Enkele eigenschappen van vacuüm ==
+Elektromagnetische golven (zoals licht, radiogolven, röntgenstraling) verplaatsen zich ongestoord door vacuüm.
+Geluidstrillingen hebben materie nodig om zich te verplaatsen: geluid verplaatst zich dus niet door het vacuüm. Een klassiek experiment bestaat uit een hard tikkende wekker onder een vacuümklok. Als de klok wordt leeggepompt hoort men de wekker niet meer tikken, laat men de klok weer vollopen met lucht, dan hoort men het tikken weer wel.
+Vacuüm is een slechte warmtegeleider, waardoor het toepassing heeft als warmte-isolator, bijvoorbeeld in de dubbele wand van een thermosfles. Warmtestraling kan wel door vacuüm.
+Een vacuüm heeft invloed op de fase van verschillende stoffen. Bijvoorbeeld het kookpunt van water wordt lager naarmate het vacuüm hoger wordt. Het water kan dan gaan koken bij minder dan 100 graden Celsius.
+Sommige bacteriën, planten, stofmijten kunnen een bepaalde tijd in vacuüm overleven.
+
+
+=== Absoluut vacuüm ===
+Uit de kwantumveldentheorie volgt dat een absoluut vacuüm, in de zin van een ruimte zonder deeltjes, theoretisch niet kan bestaan. Het vacuüm, dat wordt gedefinieerd als de toestand met de laagste energie, bevat een veelheid aan virtuele deeltjes, die onder meer verantwoordelijk zijn voor het casimireffect en het Higgs-veld.
+
+
+== Aarde ==
+Op aarde oefent de atmosfeer op zeeniveau een druk uit van 1 atmosfeer, 1 bar, of rond de 101.000 Pa (± 101 kPa). 
+
+De kracht die de atmosfeer op een vacuüm uitoefent werd in 1657 door Otto von Guericke gedemonstreerd met de twee Maagdenburger halve bollen.
+Andere manier om de kracht van luchtdruk te laten zien, is door een groot glas te vullen met water en af te dekken met watervast papier. Als het glas omgedraaid wordt, dan blijft het water in het glas zitten. De reden hiervoor is dat de omgevingslucht het papier en het water tegenhoudt. Indien de omgevingslucht in het glas kan komen door een lek, valt die kracht weg, omdat de druk van binnen het glas dan de omgevingsluchtdruk compenseert.
+
+
+=== Buiten de dampkring ===
+Buiten de dampkring is het vacuüm veel beter dan ieder vacuüm dat op aarde gerealiseerd kan worden. Wetenschappelijke proeven waarvoor een hoog vacuüm nodig is, worden dan ook aan boord van satellieten uitgevoerd. In de interstellaire ruimte is het vacuüm nog beter. Zelfs dat haalt het niet bij wat er heerst in de intergalactische ruimte, tussen de sterrenstelsels.
+
+
+== Vacuümwaarden ==
+De atmosferische druk is ongeveer 101,325 kPa of 1 atm (met variaties die gebruikt worden bij weersvoorspellingen, en afname met hoogte).
+Onderdruk is een lagere druk, hieronder een lijstje met vacuümwaarden:
+
+stofzuiger = ongeveer 80 kPa of 0,8 atm
+mechanische vacuümpomp = ongeveer 1,35 Pa of 0,01 matm
+ruimte dicht bij de aarde = ongeveer 135 µPa of 1 natm
+beste vacuüm in een massaspectrometer = 13 µPa of 0,1 natm
+druk op de maan = ongeveer 1,3 µPa of 0,01 natm
+beste vacuüm met een turbopomp = ongeveer 130 nPa of 1patm
+interstellaire ruimte = ongeveer 13 nPa of 0,1 patm
+Laagst haalbaar vacuüm met een titaan-sublimatiepomp = ongeveer 1 nPa, iets minder dan 10 fatmOpm: De laatste drie waarden zijn met een redelijke nauwkeurigheid, maar zeker niet absoluut. De laatste waarde is een berekende benadering door andere verschijnselen dan een vacuümmeter verkregen.
+
+
+== Technisch vacuüm maken ==
+Een perfect vacuüm is alleen theoretisch mogelijk. Volgens de kwantummechanica is het onmogelijk. Een technisch gemaakt vacuüm zal nooit perfect of absoluut zijn.
+
+
+=== Indeling ===
+Vacuüm wordt in vier klassen ingedeeld:
+
+Laag- of grof vacuüm: 105 (atmosferische druk) neerwaarts tot 102 Pa
+Midden- of fijn vacuüm: 102 neerwaarts tot 10−1 Pa
+Hoogvacuüm: 10−1 neerwaarts tot 10−5 Pa
+Ultrahoogvacuüm: minder dan 10−5 PaVacuüm maakt men met vacuümpompen door een gedeeltelijk vacuüm te creëren met het verplaatsen van lucht. Op aarde is hiervoor een vat nodig. Door lucht uit een afgesloten vat te pompen (het vat vacuüm te maken), vermindert de druk in het vat. Hoe meer lucht uit het vat gepompt wordt, hoe lager de druk. De druk in het vat, die lager is dan buiten het vat, heet een onderdruk. Nadert de druk tot nul dan is er sprake van een maximaal vacuüm of vrijwel luchtledig. De capaciteit van de pomp speelt hierbij een grote rol: de minimaal te behalen einddruk wordt bepaald door het evenwicht tussen wandontgassing en pompcapaciteit.
+Water- en andere moleculen die aan de wand hechten en gassen die in de wand gediffundeerd zijn zullen vrijkomen. Die continue gasstroom beïnvloedt de kwaliteit van het vacuüm negatief.
+
+
+=== Geschiedenis van de vacuümtechniek ===
+Aristoteles heeft beweerd dat een luchtledig niet kon bestaan omdat het bestaan ervan een logische tegenstrijdigheid zou inhouden (horror vacui). Het was Torricelli die met zijn experimenten met buizen gevuld met kwik aantoonde dat dat niet waar was. Daarmee begaf Torricelli zich op glad ijs, omdat de kerk in haar dagen iedere afwijking van de norm der Ouden met argusogen bekeek.
+Uit het onderzoek van Torricelli bleek inderdaad dat zich in de ruimte boven een kwikkolom geen lucht bevond. Dit heet het vacuüm van Torricelli. Dit is echter geen perfect vacuüm doordat het kwik zelf ook een dampspanning heeft doordat de kwikatomen verdampen. De druk is dus niet volledig nul.
+
+
+=== Toepassingen ===
+
+Zuigen (het creëren van onderdruk om een vloeistof of gas aan te trekken):
+Inademen doen zoogdieren door hun borstholte te vergroten en zo in de longen een onderdruk te creëren ten opzichte van de buitendruk. De lucht stroomt als gevolg naar de longen. Uitademen gebeurt door de borstholte kleiner te maken.
+Drinken door het zuigen aan een speen van een zuigfles, of aan een rietje, of het met een brandslang oppompen van water uit een meer.
+Stofzuigen: opzuigen van lucht om vuil mee te voeren.
+Hevel: zuigwerking door zwaartekracht.
+Gloeilamp: Dankzij het vacuüm kon Edison in 1879 een gloeilamp maken. Met een vacuümpomp verwijderde hij de lucht (dus ook de zuurstof) uit de glazen ballon. Door het ontbreken van zuurstof verbrandde de gloeidraad niet en bleef de lamp lang branden. Latere gloeilampen werden met argon (een inert gas) gevuld.
+Elektronenbuizen: Door het vacuüm kunnen elektronen zich in de buis vrij bewegen.
+Opdampen van spiegels en lagen silicium bij de halfgeleiderfabricage (chips).
+Versnellen van elektronen: in een vacuüm kunnen elektronen versneld worden tot een bekende snelheid door het aanleggen van een elektrische spanning en met behulp van magnetische velden kunnen zij ook gefocusseerd worden. Zie ook: elektronenmicroscoop en massaspectrometer
+Faseleer
+Het verlagen van kookpunt (voor destillaties van fracties met hoog kookpunt)
+Vriesdrogen
+Vacuümverpakking:
+door vacuümverpakking wordt bederfelijk voedsel langer houdbaar, bijvoorbeeld koffie in vacuüm verpakking
+door vacuümverpakking nemen samendrukbare stoffen minder plaats in, bijvoorbeeld (dons)dekens
+Vacuümgaren
+door vacuüm te garen als kooktechniek wordt het mogelijk te koken op lagere temperaturen, met behoud van waardevolle voedings- en smaakstoffen en om de organisatie van de keuken te vereenvoudigen (sous-vide koken).
+Vacuümtafel
+toestel gebruikt onder meer bij de restauratie van schilderijen.
+Vacuüm hijs- en hefgereedschappen
+Het verplaatsen van materialen zoals sandwichpanelen of glaselementen.
+Vacuümdestillatie voor het winnen van organische verbindingen uit planten.
+
+
+==== Vrije weglengte ====
+Bij atmosferische druk bewegen de moleculen van een gas dichter bij elkaar dan bij een luchtdruk die het maximale vacuüm benadert. De gasmoleculen bewegen met hoge snelheid en botsen tegen elkaar. Bij verminderde luchtdruk wordt de vrije weglengte, de afstand die een molecuul gemiddeld af kan leggen alvorens een volgende botsing te maken, groter en zullen de moleculen dus minder vaak botsen.
+Het door middel van een vacuüm vergroten van de vrije weglengte van de moleculen heeft veel toepassingen: computer- en televisiescherm, oscilloscoop, massaspectrometer, elektronenmicroscoop, deeltjesversneller, het opdampen (bijvoorbeeld van een cd), fabricage van geïntegreerde schakelingen, testen van kunstmanen.
+
+
+== Externe links ==
+www.nevac.nl - de Nederlandse Vacuümvereniging NEVAC

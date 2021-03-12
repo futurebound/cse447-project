@@ -1,0 +1,56 @@
+Se også Satellitt.
+En kunstig satellitt er et romfartøy som kretser rundt en planet, og utfører en rekke forskjellige oppgaver. De fleste moderne satellitter har en levetid på 10 år eller mer.
+De fleste bæreraketter som skytes opp i rommet har satellitter som nyttelast. 
+
+Det har vært skutt opp tusenvis av satellitter siden den første, Sputnik 1, som ble skutt opp av Sovjetunionen den 4. oktober 1957. 
+Den ble blant annet brukt til å samle informasjon om tettheten til de ytre delene av jordatmosfæren. Sputnik 1 var en metallkule som var 58 cm i diameter og som veide 84 kg.
+De fleste satellittene som blir skutt opp nå for tiden er kommunikasjons- og kringkastingssatellitter, som eies av store, private selskaper. Offentlige organisasjoner som NASA eller ESA driver satellitter som brukes til forskningsformål og testing av ny teknologi. 
+Satellitter brukes også til forskning og overvåking av naturressurser eller etterretningsformål.
+
+
+== Satellittbaner ==
+Satellitter kretser i mange forskjellige baner. De vanligste er:
+
+Lave baner (LEO), gjerne noen få hundre km høye. Et omløp rundt Jorden tar da 1,5 time. Romstasjoner og de aller fleste bemannede romfartøy som ikke har dratt til Månen kretser i lave baner.
+Solsynkrone polbaner (SSO), gjerne 700–800 km høye. Passerer over nord- og sørpolen for hvert omløp, som varer i ca. 100 minutter. Baneplanet «vris» ca. 1 grad pr. døgn, slik at satellitter i SSO-baner passerer over et gitt sted på bakken til samme lokale soltid året rundt.
+Geostasjonære baner (GEO). 36 000 km høye, over ekvator. Omløpstid 24 timer, hvilket vil si at satellitten er over samme punkt på jorden hele tiden. De fleste bæreraketter bringer da satellittene opp til geostasjonær overføringsbane (GTO), hvorfra satellittene bruker av eget drivstoff til å komme seg inn i geostasjonær bane.
+Molnija-baner (oppkalt etter de russiske Molnija-kommunikasjonssatellittene): Meget avlange baner med omløpstid 12 timer. Høyeste punkt i banen (apogeum) ca. 40 000 km over den nordlige halvkulen (ved ca. 63 grader nordlig breddegrad). Laveste punkt (perigeum) noen få hundre km over 63 grader sør.
+Tundra-baner: Som Molnija-baner, men perigeum på mange tusen km. Omløpstid 24 timer.
+Middels høye baner (MEO): Banehøyder ca. 10 000-20 000 km. Brukes bl.a av GPS-satellittene og den ene oppskutte satellitten i det kansellerte mobiltelefonsystemet ICO.
+
+
+== Kringkastingssatellitter ==
+Kringkastingssatellitter, eller DBS-satellitter (Direct Broadcasting Satellite) sender TV-signaler direkte til hus med parabolantenne. Dette krever høyere sendestyrke eller mer konsentrerte «beams» enn kommunikasjonssatellittene. Det finnes flere titalls serier, f.eks.:
+
+Thor
+Astra
+Eutelsat
+DirecTVNesten alle kringkastingssatellitter eies av private selskap.
+Svært mange av disse, som Inteltsat-satellittene fungerer som både kringkastings- og kommunikasjonssatellitter. «Rene» kringkastingssatellitter blir ofte feilaktig kalt kommunikasjonssatellitter. Enkelte indiske satellitter fungerer både som kommunikasjonssatellitter og værsatellitter. Alle kringkastingssatellitter, og de aller fleste kommunikasjonssatellitter, kretser i geostasjonær bane, slik at de tilsynelatende står stille på himmelen, sett fra bakken.
+
+
+== Kommersielle jordovervåkningssatellitter ==
+Kommersielle jordovervåkningssatellitter tar mer detaljerte bilder av bakken enn jordovervåkningssatellittene, men over mindre områder om gangen, i den hensikt å selge disse bildene. Bildene har en oppløsning på fra 0,6 til 2 meter. Eksempler på jordovervåkningssatellitter er:
+
+OrbView, Ikonos, QuickBird (amerikanske)
+Eros (israelsk)
+Spin (russisk)
+
+
+== Andre satellitter ==
+Satellitter brukes også innen flere andre forskningsområder, f.eks:
+
+Biologi (som russiske Bion, som har med seg dyr på ferder på 1-2 uker)
+Observasjoner av Solen, bl. a for å varsle «solstormer» (f.eks. Europas SOHO og USAs Trace)
+Observasjoner av strålingsbelter rundt Jorden (for eksempel ESAs Cluster-satellitter)
+Testing av Albert Einsteins relativitetsteori (USAs Gravity Probe-B)
+Testing av ny teknologi i rommet (f.eks. Europas Artemis, som tester laserkommunikasjon)
+
+
+== Se også ==
+Kesslersyndromet
+
+
+== Eksterne lenker ==
+(en) Satellites – kategori av bilder, video eller lyd på Commons 
+(en) kunstig satellitt i Unified Astronomy Thesaurus

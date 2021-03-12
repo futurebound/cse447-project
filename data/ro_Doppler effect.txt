@@ -1,0 +1,102 @@
+Efectul Doppler constă în variația frecvenței unei unde emise de o sursă de oscilații, dacă aceasta se află în mișcare față de receptor. Efectul Doppler poate fi constatat atât în cazul undelor electromagnetice (inclusiv lumina), cât și în cazul undelor elastice (inclusiv sunetul). Frecvența măsurată crește atunci când sursa se apropie de receptor și scade când sursa se depărtează de receptor.
+
+
+== Exemplu ==
+Să considerăm o mașină ce trece pe lânga noi în viteză. Vom observa că sunetul produs de motor nu este „uniform”, ca urmare a fenomenului de variație a lungimii de undă a undelor sonore, datorat sursei aflate în mișcare. Când autovehiculul se apropie de observator, sunetul este mai acut (frecvențe înalte), iar după ce trece de el, devine mai grav (frecvențe joase).
+
+
+== Descoperire ==
+Efectul a fost descris prima oară în 1842 la Praga de către fizicianul austriac Christian Doppler în tratatul său, "Über das farbige Licht der Doppelsterne und einiger anderer Gestirne des Himmels" (Despre lumina colorată a stelelor binare și a altor stele de pe bolta cerească). Ipoteza a fost testată pentru undele sonore de către olandezul Buys Ballot în 1845. Acesta a confirmat că înălțimea sunetului era mai mare decât frecvența emisă, atunci când sursa sunetului se apropie de receptor, și mai joasă decât frecvența emisă când sursa se îndepărtează de el.
+Hippolyte Fizeau a descoperit în anul 1848, în mod independent, același fenomen în cazul undelor electromagnetice. De aceea în Franța efectul este numit Doppler-Fizeau, dar acest nume nu a fost adoptat în restul lumii, deoarece descoperirea lui Fizeau s-a produs la șase ani după cea a lui Doppler. În Marea Britanie John Scott Russell a făcut în anul 1848 un studiu experimental al efectului Doppler.
+
+
+== Aplicații ==
+
+
+=== Radarul de măsurat viteza unui obiect în mișcare ===
+Radarul de măsurat viteza unui obiect se bazează pe acest efect. Aparatele radar măsoară lungimea de undă a undelor radio reflectate de o mașină în mișcare, prin aceasta putându-se stabili viteza mobilului.
+
+
+=== Deplasarea spre roșu ===
+În astronomie, efectul Doppler ne dă certitudinea că universul nu este static, deoarece, conform acestui principiu, stelele ce se depărtează de noi vor avea lumina deplasată spre "partea roșie" a spectrului, în vreme ce acelea care se apropie vor avea lumina deplasată spre "partea albastră" a spectrului. Ceea ce ne dă certitudinea că Universul este în expansiune este faptul că majoritatea observațiilor ne arată că lumina ce ajunge la noi este deplasată spre roșu.
+Pe baza scaderii/creșterii lungimii de undă a unei stele/galaxii, se poate afla viteza corpului:
+
+  
+    
+      
+        Δ
+        λ
+        
+          /
+        
+        
+          λ
+          
+            0
+          
+        
+        =
+        ν
+        
+          /
+        
+        c
+      
+    
+    {\displaystyle \Delta \lambda /\lambda _{0}=\nu /c}
+   
+unde 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   este viteza, c viteza luminii (300.000 km/s), 
+  
+    
+      
+        Δ
+        λ
+      
+    
+    {\displaystyle \Delta \lambda }
+   variația lungimii de undă și 
+  
+    
+      
+        
+          λ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \lambda _{0}}
+   lungimea de undă observată în laborator.
+
+
+=== Ultrasonografia ===
+Efectul Doppler poate fi utilizat în ultrasonografie, permițând măsurarea vitezei de deplasare a sângelui în vase. Unda emisă are o frecvență bine determinată. În urma interacțiunii cu corpurile în mișcare (în cazul sângelui celulele și microparticulele plasmatice) această undă își va schimba frecvența conform ecuației doppler care ia în considerare și mediul de propagare al undei. Dacă corpul căruia dorim să-i măsuram viteza se deplasează în același sens cu unda emisă, unda reflectată va avea o frecvență mai mică, dependentă de viteza de măsurat. Dacă corpul se mișcă în sens opus, unda reflectată va avea o frecvență crescută. Transductorul ultrasonografului emite unda sonoră, a cărei direcție face un unghi £ cu direcția coloanei de sânge. Viteza sângelui din vas (Vsg) va avea și o componentă tangențială, egală cu VsgXcos£ și care deci va fi maximă când unghiul £ tinde la zero. Unda Doppler lovește coloana de sânge, apoi se întoarce la transductor, care analizează diferența de frecvență. Luând în considerare diferența de frecvență dintre unda trimisă și cea reflectată, particularitățile lichidului de propagare a undei și unghiul descris £, procesorul ultrasonografului poate calcula instantaneu viteza coloanei de sânge din vas. Acest fenomen este deosebit de util în cardiologie (pentru evaluarea gradului de stenoză vasculară sau valvulară sau a regurgitatelor valvulare), în obstetrică (pentru studiul malformațiilor vasculare, studiul fluxului sangvin transombilical, etc).
+
+
+== Bibliografie ==
+D. H. Evans and W. N. McDicken, Doppler Ultrasound, ediția a doua, John Wiley and Sons, 2000.
+
+
+== Legături externe ==
+Ilustrare printr-o animație
+L’effet Doppler - Fizeau, curs on-line de la Observatorul din Paris
+Etude de l'effet Doppler sonore (avec Geogebra) par François Byasson
+
+
+== Vezi și ==
+Deplasare spre roșu
+Deplasare spre albastru
+Optică
+Acustică
+Undă sonoră
+Undă electromagnetică
+Spectroscopie astronomică

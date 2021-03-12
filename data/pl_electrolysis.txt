@@ -1,0 +1,31 @@
+Elektroliza – termin określający wszelkie zmiany struktury chemicznej substancji, zachodzące pod wpływem przyłożonego do niej zewnętrznego napięcia elektrycznego. W węższym zakresie pojęcie to obejmuje tylko procesy rozkładu. Elektrolizie towarzyszyć może (choć nie musi) szereg dodatkowych zjawisk, takich jak dysocjacja elektrolityczna, transport jonów do elektrod, wtórne przemiany jonów na elektrodach i inne. W sensie technologicznym przez elektrolizę rozumie się wszystkie te procesy łącznie.
+
+
+== Mechanizm elektrolizy ==
+
+Elektroliza zachodzi w układach, w których występują substancje zdolne do jonizacji, czyli rozpadu na jony. Samo zjawisko jonizacji może być wywołane zarówno przyłożonym napięciem elektrycznym, jak i zjawiskami nie generowanymi bezpośrednio przez prąd – dysocjacją elektrolityczną, autodysocjacją, wysoką temperaturą czy działaniem silnego promieniowania.
+Proces elektrolizy jest napędzany wymuszoną wędrówką jonów do elektrod, zanurzonych w substancji, po przyłożeniu do nich odpowiedniego napięcia prądu elektrycznego. W elektrolizie elektroda naładowana ujemnie jest nazywana katodą, a elektroda naładowana dodatnio anodą. Każda z elektrod przyciąga do siebie przeciwnie naładowane jony. Do katody dążą więc dodatnio naładowane kationy, a do anody ujemnie naładowane aniony. Po dotarciu do elektrod jony przekazują im swój ładunek, a czasami wchodzą też z nimi w reakcję chemiczną, na skutek czego zamieniają się w obojętne elektrycznie związki chemiczne lub pierwiastki. Ponadto wędrujące przez substancję jony mogą po drodze ulegać rozmaitym reakcjom chemicznym z innymi jonami lub substancjami, które nie uległy rozpadowi na jony. Powstające w ten sposób substancje zwykle albo osadzają się na elektrodach albo wydzielają się z układu w postaci gazu. Proces elektrolizy wymaga stałego dostarczania energii elektrycznej.
+Zjawisko elektrolizy zostało opisane ilościowo w dwóch prawach elektrolizy Faradaya.
+
+
+== Zastosowanie elektrolizy ==
+Elektroliza jest procesem stosowanym na skalę przemysłową m.in. do:
+
+produkcji metali: aluminium, litu, sodu, potasu
+produkcji rozmaitych związków chemicznych, w tym kwasu trifluorooctowego, wodorotlenku sodu, potasu, chloranu sodu i chloranu potasu
+produkcji gazów: wodoru, chloru i tlenu.
+galwanizacji – pokrywanie metalu cienką warstwą innego metalu.Aparaty do przeprowadzania elektrolizy nazywane są elektrolizerami.
+
+
+== Elektroliza a generowanie prądu w ogniwach ==
+Nie należy mylić elektrolizy z procesami zachodzącymi w ogniwie galwanicznym. W elektrolizie energia elektryczna zamieniana jest na chemiczną, a w ogniwie galwanicznym kierunek przemian energetycznych jest przeciwny, tzn. energia chemiczna w procesie reakcji redoks zamieniana jest na energię elektryczną, co objawia się generowaniem prądu w obwodzie łączącym elektrody ogniwa. Ze względu na odwrotny przebieg procesu w ogniwach galwanicznych katoda jest naładowana dodatnio, a anoda ujemnie, jednak procesy chemiczne zachodzące na obu ogniwach mają podobny charakter:
+
+
+== Zobacz też ==
+elektrochemia
+elektrometalurgia
+powlekanie elektrolityczne
+polaryzacja elektrod
+
+
+== Przypisy ==

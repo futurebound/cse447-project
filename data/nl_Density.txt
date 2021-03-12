@@ -1,0 +1,282 @@
+De massadichtheid of soortelijke massa (of, als geen verwarring mogelijk is, kortweg dichtheid) van een homogeen materiaal is in de natuur- en scheikunde een intensieve grootheid die uitdrukt hoeveel massa van dat materiaal aanwezig is in een bepaald volume. Men drukt dit wel uit als de 'massa per volume-eenheid'.
+Vaak wordt nog de verouderde en foutieve term soortelijk gewicht gebruikt. Traditioneel duidt men dichtheid aan met de Griekse letter 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   (rho).
+
+  
+    
+      
+        ρ
+        =
+        
+          
+            m
+            V
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {m}{V}}}
+  Hierin is
+
+m de massa
+V het volumeIn het SI-stelsel wordt dichtheid uitgedrukt in kilogram per kubieke meter (kg/m3), maar de oudere eenheid (uit het cgs-systeem) gram per kubieke centimeter (g/cm3) of kilogram per kubieke decimeter wordt ook nog gebruikt. De omzetting is: 1000 kg/m3 = 1 g/cm3 = 1 kg/dm3.  Getalsmatig zijn de twee oudere eenheden dus aan elkaar gelijk, hoeveelheden in de SI-eenheid zijn een factor 103 groter.
+Volgens de voormalige, in 1795 in Frankrijk ingevoerde definitie van gram was de dichtheid van gedestilleerd water van 0 °C op basis van de toenmalige definitie van de meter exact 1 g/cm3.
+
+
+== Areïeke dichtheid ==
+
+Voor dichtheden van plaatmateriaal zoals plaatmetaal, folie of papier, wordt vaak de areïeke dichtheid (
+  
+    
+      
+        
+          ρ
+          
+            
+              A
+            
+          
+        
+      
+    
+    {\displaystyle \rho _{\rm {A}}}
+  ) gebruikt. De areïeke dichtheid wordt in massa per oppervlakteëenheid uitgedrukt met kg/m2 als SI-eenheid:
+
+  
+    
+      
+        
+          ρ
+          
+            
+              A
+            
+          
+        
+        =
+        
+          
+            m
+            A
+          
+        
+        =
+        t
+        ⋅
+        ρ
+      
+    
+    {\displaystyle \rho _{\rm {A}}={\frac {m}{A}}=t\cdot \rho }
+  .Daarin is:
+
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   de massa in kilogram
+
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   oppervlakte in m2
+
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   dikte in m
+
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   dichtheid in kg/m3De areïeke dichtheid van platen die uit composietmaterialen bestaan, kunnen niet rechtstreeks uit de dichtheden van de samenstellende componenten afgeleid worden.
+
+
+== Druk en temperatuur ==
+
+Men tabelleert de dichtheid van een stof meestal bij een bepaalde temperatuur en druk omdat de dichtheid afhankelijk is van de grootte van deze intensieve grootheden. De dichtheid van een stof wordt gewoonlijk opgegeven onder standaardomstandigheden, dit wil zeggen bij 20 °C of 25 °C en onder een druk van 101,325 kPa (1 atmosfeer).
+Bij de meeste stoffen neemt het volume lineair toe met een stijgende temperatuur. Die temperatuurafhankelijkheid van de dichtheid wordt uitgedrukt in de uitzettingscoëfficiënt van een stof. De uitzettingscoëfficiënt is meestal onafhankelijk van de temperatuur over een groot temperatuurtraject.
+
+  
+    
+      
+        ρ
+        (
+        
+          T
+          
+            0
+          
+        
+        +
+        Δ
+        T
+        )
+        =
+        
+          
+            
+              ρ
+              
+                
+                  T
+                  
+                    0
+                  
+                
+              
+            
+            
+              (
+              1
+              +
+              γ
+              ⋅
+              Δ
+              T
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \rho (T_{0}+\Delta T)={\frac {\rho _{T_{0}}}{(1+\gamma \cdot \Delta T)}}}
+  Onder andere water vormt een uitzondering op deze regel. Vooral bij lagere temperaturen vertoont de uitzettingscoëfficiënt van water afwijkend gedrag: rond 4°C heeft de uitzettingscoëfficiënt van water een minimum.
+De dichtheid van een stof neemt meestal lineair toe bij hogere hydrostatische drukken. Deze samendrukbaarheid wordt uitgedrukt in de compressiemodulus. De compressiemodulus hangt nauw samen met de elasticiteit van een materiaal die uitgedrukt wordt in de elasticiteitsmodulus.
+
+
+== Aggregatietoestand ==
+
+De dichtheid van een stof verschilt onder standaardomstandigheden per aggregatietoestand. In het algemeen is de dichtheid van een stof in de vaste fase hoger dan de dichtheid in de vloeistoffase. De dichtheid van gassen is onder standaardomstandigheden veel kleiner dan die van vloeistoffen en vaste stoffen. Bovendien hangt de dichtheid van gassen sterk af van de temperatuur en de druk. In de superkritische fase kan bij hoge druk de dichtheid van een stof bijna gelijk zijn aan de dichtheid in de vloeistoffase of de vaste fase.
+
+
+=== Gassen ===
+Een gas gedraagt zich gewoonlijk als een ideaal gas, tenzij de druk zeer hoog is of de temperatuur ver onder de kritische temperatuur van het gas ligt. Voor een ideaal gas kan de dichtheid berekend worden door:
+
+  
+    
+      
+        ρ
+        =
+        
+          
+            
+              M
+              
+              P
+            
+            
+              R
+              
+              T
+            
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {M\,P}{R\,T}}}
+  met daarin:
+
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   de molaire massa;
+
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   de druk;
+
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   de gasconstante;
+
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   de absolute temperatuur.Veel gassen gedragen zich onder zeer hoge druk in bepaalde opzichten als vloeistoffen. De dichtheid van gassen kan onder zulke omstandigheden met behulp van de Van der Waalsvergelijking, of met een variant van deze vergelijking, berekend worden. Gassen met de grootste dichtheid zijn SF6: 6,60 kg/m3, en xenon: 5,897 kg/m3.
+
+
+=== Vloeistoffen en vaste stoffen ===
+Vaste stoffen met een open kristalstructuur, zoals in het geval van elementen met een diamantrooster of verbindingen met een kwartsrooster, hebben een relatief lage dichtheid. Vaste stoffen met een dichte kristalstructuur, zoals metalen en legeringen, hebben een hogere dichtheid.
+Door smelten gaat de orde van de kristalstructuur van de vaste stof verloren en worden bindingen in het kristal verbroken. Daardoor wordt de gemiddelde afstand tussen atomen of moleculen groter zodat de meeste stoffen uitzetten tijdens het smelten. De dichtheid van een stof neemt daarom tijdens het smelten meestal af. Stoffen met een open kristalstructuur, zoals ijs, kunnen soms krimpen tijdens het smelten omdat open ruimten in de kristalstructuur instorten.
+Dichtheid van water neemt toe als de saliniteit toeneemt.De soortelijke massa van vloeistoffen kan bepaald worden met een pyknometer of een densitometer.
+
+
+=== Aggregatietoestanden met hoge dichtheid ===
+De dichtheden van sommige andere aggregatietoestanden kunnen onder extreme omstandigheden heel hoog zijn. In het binnenste van zware hemellichamen zijn de druk en de temperatuur vaak zeer hoog in vergelijking met de standaardomstandigheden die in de chemie als referentie gehanteerd worden.
+
+De materie waaruit een neutronenster opgebouwd is, het hypothetische neutronium, heeft voor zover bekend is de hoogste dichtheid met waarden tussen 3,7 × 1017 en 5,9 × 1017 kg/m³.
+De materie waaruit witte dwergen opgebouwd zijn kan een dichtheid hebben die tussen 108 en 1015 kg/m³ geschat wordt.
+Het plasma waaruit de Zon opgebouwd is heeft in de kern een dichtheid van ongeveer 160.000 kg/m³, ongeveer tien maal zo hoog als de dichtheid van lood. Het waterstofplasma onder in de convectiezone van de Zon heeft bij een temperatuur van 2.000.000 K een dichtheid van ongeveer 200 kg/m³, dat is ongeveer driemaal zo hoog als de dichtheid van vloeibare waterstof op Aarde bij het kookpunt van 20,28 K.
+De Aardkern bestaat uit nikkelijzer met een dichtheid van ongeveer 10.000 kg/m³. Het nikkelijzer in de Aardkern is een vaste stof bij een temperatuur die tussen de 5.500 en 7.000 °C ligt bij een druk van ongeveer 3,5 × 106 atm. De dichtheid van de Aardkern ligt ongeveer 25 % tot 30 % hoger dan de dichtheid van 8000 kg/m³ van nikkelijzer en de 7680 kg/m³ van ijzer onder standaardomstandigheden. De Aardkern heeft bovendien een 12 % hogere dichtheid dan de 8902 kg/m³ van nikkel onder standaardomstandigheden. IJzer kristalliseert gewoonlijk in een kubisch ruimtelijk gecentreerd rooster waarin de atomaire pakkingsfactor 0,680 is. Nikkel kristalliseert in een kubisch vlakgecentreerd rooster met een dichtste bolstapeling en een atomaire pakkingsfactor van 0,740. Onder de hoge druk in de Aardkern vindt een fase-overgang plaats van ruimtelijk gecentreerd rooster naar een vlakgecentreerd rooster. De verandering van de pakkingsfactor zou de dichtheid met ongeveer 8 % verhogen, zodat de overige 20 % van de toename van de dichtheid het gevolg moet zijn van een afname in de afstand tussen de ijzeratomen in het kristalrooster van ongeveer 7%.
+
+
+== Lichte materialen ==
+
+
+=== Keramisch materiaal ===
+Moderne keramische materialen met een lage dichtheid hebben meestal een open kristalstructuur. Metalen hebben doorgaans een veel hogere dichtheid dan keramische materialen omdat in metaalroosters de atomen zo dicht mogelijk gestapeld zijn. De atomen in een metaal hebben meestal twaalf of acht naaste buren waarmee ze een zwakke binding hebben. In roosters van keramische materialen hebben de atomen een laag coördinatiegetal door een tetraëder- of een octaëderomringing met maar vier of zes naaste buuratomen. De atomen vormen, zoals de koolstofatomen in diamant, sterke covalente bindingen met hun buuratomen. De atomen in de roosters van keramische materialen vormen netwerken van ringstructuren waarin veel ruimte tussen de atomen open blijft. De atomaire vullingsfactor van de diamantstructuur is slechts 0,3401, minder dan de helft van de pakkingsfactor van metalen.
+
+
+=== Aerogels en composieten ===
+Keramische materialen kunnen sterke, elastische keramische vezels en lagen vormen. Op basis van keramische vezels kunnen verschillende soorten gel en schuim gemaakt worden, waaronder de extreem lichte aerogels. Zoals gelatine bestaat uit een netwerk van collageenvezels in water, zo bestaat een aerogel uit een netwerk van silicaatvezels in lucht. Deze structuren ontstaan door een dendrietische kristalgroei. De eerste aerogel werd in 1931 vervaardigd uit silicagel. Inmiddels zijn er aerogels gemaakt van aluminiumoxide, chroom(III)oxide, tindioxide en grafeen. De lichtste aerogels hebben een dichtheid onder de 2 kg/m³. Aerogels zijn vuurvast en bieden tevens een hoge warmte-isolatie, zoals de afbeelding rechts laat zien.
+In composieten, zoals vezelversterkte kunststoffen, worden de eigenschappen van verschillende componenten in één samengesteld materiaal gecombineerd. Meestal worden vezels met een hoge treksterkte ingebed in een taaie matrix die hoge afschuifspanningen en druk kan weerstaan. In lichte composieten worden onder andere glasvezel, aramide, koolstofvezel en nanotubes verwerkt.
+
+
+=== Sterke materialen ===
+Sterke keramische materialen worden vaak gemaakt op basis van silicium-, boor-,  stikstof- en koolstofatomen die onderling en met aluminium en magnesium sterke bindingen kunnen vormen met een sterk covalent karakter. Deze elementen kunnen ook een interstitiële verbindingen vormen met overgangsmetalen als titanium en wolfraam. Er worden ook sterke keramische materialen vervaardigd op basis van silicaat en kwarts, verschillende metaaloxiden en andere mineralen. Sterke en harde keramische materialen bieden vaak een goed alternatief voor metalen voor de vervaardiging van gereedschappen en machine-onderdelen vanwege hun lage gewicht en hogere hardheid of sterkte. In onderstaande tabel staan, ter vergelijking, de dichtheden en hardheden van een aantal metalen en keramische materialen vermeld:
+
+
+== Tabellen ==
+Tabel met de soortelijke massa van vaste stoffen
+Tabel met de soortelijke massa van vloeistoffen
+Tabel met de soortelijke massa van gassen - bij 0°C en 1 bar
+
+
+== Volumetrisch gewicht ==
+Soms worden transportkosten in rekening gebracht op basis van het volumetrisch gewicht, dit is het grotere van twee massa's: de gewone massa en het volume vermenigvuldigd met een standaarddichtheid, bijv. 200 kg per kubieke meter.
+
+
+== Zie ook ==
+Massaconcentratie
+Massafractie
+Relatieve dichtheid

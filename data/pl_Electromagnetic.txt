@@ -1,0 +1,856 @@
+Promieniowanie elektromagnetyczne (fala elektromagnetyczna) – rozchodzące się w przestrzeni zaburzenie pola elektromagnetycznego.
+Składowa elektryczna i magnetyczna fali indukują się wzajemnie – zmieniające się pole elektryczne wytwarza zmieniające się pole magnetyczne, a z kolei zmieniające się pole magnetyczne wytwarza zmienne pole elektryczne. Właściwości fal elektromagnetycznych zależą od długości fali. Promieniowaniem elektromagnetycznym o różnej długości fali są fale radiowe, mikrofale, podczerwień, światło widzialne, ultrafiolet, promieniowanie rentgenowskie i promieniowanie gamma. W opisie kwantowym promieniowanie elektromagnetyczne jest traktowane jako strumień nieposiadających masy cząstek elementarnych zwanych fotonami. Energia każdego fotonu zależy od długości fali.
+
+
+== Historia ==
+Historia odkryć związanych z promieniowaniem elektromagnetycznym:
+
+W roku 1800 William Herschel odkrył promieniowanie cieplne (podczerwone) i stwierdził, że podobnie jak światło ulega ono odbiciu i załamaniu.
+
+W latach 1801–1803 Thomas Young zaproponował falową teorię światła.
+W 1801 Johann Wilhelm Ritter odkrył promieniowanie ultrafioletowe.
+W latach 1815–1818 Augustin Jean Fresnel rozwinął falową teorię światła i za jej pomocą wyjaśnił wiele zjawisk optycznych.
+W 1820 Hans Christian Ørsted odkrył, że prąd elektryczny wytwarza pole magnetyczne, wykazując w ten sposób związek między elektrycznością i magnetyzmem.
+W 1831 Michael Faraday odkrył, że zmienne pole magnetyczne wytwarza pole elektryczne.
+W 1838 James Forbes stwierdził, że zarówno widzialne, jak i niewidzialne promieniowanie słoneczne ulega polaryzacji.
+W latach 1849–1850 Armand Fizeau oraz Jean Bernard Léon Foucault wykonali pomiary prędkości światła w powietrzu i innych ośrodkach przezroczystych.
+James Clerk Maxwell w roku 1861 zebrał prawa elektrodynamiki w cztery równania, które opisują również falę elektromagnetyczną. Zasugerował też, że zjawiska elektromagnetyczne i światło mają wspólną naturę.
+W 1875 Hendrik Lorentz wyeliminował koncepcję eteru i nadał równaniom Maxwella sens, jaki znamy dzisiaj.
+Pierwszej emisji i odbioru fal elektromagnetycznych (w zakresie fal radiowych) dokonał Heinrich Hertz w roku 1886.
+W roku 1895 Wilhelm Conrad Röntgen odkrył promieniowanie, nazwane później rentgenowskim, za co w 1901 otrzymał pierwszą nagrodę Nobla.
+W 1896 Antoine Henri Becquerel odkrył promieniowanie jądrowe.
+W 1900 Paul Villard wykrył w promieniowaniu jądrowym promieniowanie gamma.
+W 1900 Max Planck analizując widmo promieniowania elektromagnetycznego ciała doskonale czarnego doszedł do wniosku, że energia tego promieniowania jest skwantowana. Za to osiągnięcie otrzymał w 1918 nagrodę Nobla.
+W 1905 Albert Einstein analizując zjawisko fotoemisji doszedł do wniosku, że energia tego promieniowania jest zależna od częstotliwości fali. Za to osiągnięcie otrzymał w 1921 nagrodę Nobla.
+1922 Arthur Compton ogłosił wyniki doświadczeń, w których promieniowanie rentgenowskie oddziałuje z elektronami i spełnia prawa zderzenia. W roku 1927 otrzymał za tę pracę Nagrodę Nobla.
+
+
+== Właściwości promieniowania elektromagnetycznego ==
+
+
+=== Widmo fal elektromagnetycznych ===
+
+Promieniowanie elektromagnetyczne przejawia właściwości falowe ulegając interferencji, dyfrakcji, spełnia prawo odbicia i załamania. W wyniku superpozycji fal elektromagnetycznych może powstać fala stojąca.
+Jednak niektóre właściwości promieniowania elektromagnetycznego (szczególnie jego oddziaływanie z materią) zależą od długości fali (częstotliwości promieniowania) i dlatego dokonano podziału promieniowania elektromagnetycznego na zakresy ze względu na jego częstotliwość. Granice poszczególnych zakresów są umowne i nieostre. Należy je traktować szacunkowo, promieniowanie o tej samej długości może być nazywane falą radiową lub mikrofalą – w zależności od kontekstu. Granice promieniowania gamma i promieniowania rentgenowskiego często rozróżnia się z kolei ze względu na źródło tego promieniowania. Najdokładniej określone są granice dla światła widzialnego, gdyż są one zdeterminowane fizjologią ludzkiego oka.
+
+
+==== Fale radiowe ====
+
+Fale radiowe znajdują bardzo szerokie zastosowanie w telekomunikacji, radiofonii, telewizji, radioastronomii i wielu innych dziedzinach nauki oraz techniki.
+W technice podstawowym źródłem fal radiowych są anteny zasilane prądem przemiennym odpowiedniej częstotliwości. Wiele urządzeń generuje też zakłócenia będące falami radiowymi, wymienić tu można na przykład: zasilacze impulsowe, falowniki i regulatory tyrystorowe, piece indukcyjne, spawarki, zapłon iskrowy silników samochodowych, iskrzące styki urządzeń elektrycznych.
+Naturalne źródła fal radiowych to między innymi wyładowania atmosferyczne, zorze polarne, radiogalaktyki.
+W atmosferze propagacja fal radiowych jest dosyć skomplikowana, zachodzą różnorodne odbicia i ugięcia fali w niektórych warstwach atmosfery. Przebieg tych zjawisk zależy zarówno od długości fali, jak i własności powietrza zależnych od pory dnia, pogody, położenia geograficznego.
+
+
+==== Mikrofale ====
+
+W zależności od metody wytwarzania niekiedy mikrofale są zaliczane do fal radiowych, albo do podczerwieni.
+Podstawowe zastosowania mikrofal to łączność (na przykład telefonia komórkowa, radiolinie, bezprzewodowe sieci komputerowe) oraz technika radarowa. Fale zakresu mikrofalowego są również wykorzystywane w radioastronomii, a odkrycie mikrofalowego promieniowania tła miało ważne znaczenie dla rozwoju i weryfikacji modeli kosmologicznych. Wiele dielektryków mocno absorbuje mikrofale, co powoduje ich rozgrzewanie i jest wykorzystywane w kuchenkach mikrofalowych, przemysłowych urządzeniach grzejnych i w medycynie.
+W elektronice mikrofalowej rozmiary elementów i urządzeń są porównywalne z długością fali przenoszonego sygnału. Powoduje to, że przy analizie obwodów nie można stosować elementów o stałych skupionych. Do prowadzenia mikrofal używane są falowody. Do wzmacniania i generacji sygnałów mikrofalowych służą masery, specjalne lampy mikrofalowe oraz mikrofalowe elementy półprzewodnikowe.
+
+
+==== Podczerwień ====
+
+Promieniowanie podczerwone jest nazywane również cieplnym, szczególnie gdy jego źródłem są nagrzane ciała. Każde ciało o temperaturze większej od zera bezwzględnego emituje takie promieniowanie, a ciała o temperaturze pokojowej najwięcej promieniowania emitują w zakresie długości fali rzędu 10 μm. Przedmioty o wyższej temperaturze emitują promieniowanie o większym natężeniu i mniejszej długości, co pozwala na zdalny pomiar ich temperatury i obserwację za pomocą urządzeń rejestrujących wysyłane promieniowanie.
+Technika rejestracji promieniowania podczerwonego emitowanego przez obiekty o temperaturach spotykanych w codziennych warunkach to termowizja. Umożliwia ona zobrazowanie obiektów w ciemności oraz pomiar temperatury w poszczególnych punktach ich powierzchni. Jest wykorzystywana między innymi w nauce, pożarnictwie, medycynie, wojskowości, w diagnostyce urządzeń mechanicznych i obwodów elektrycznych, oraz do oceny izolacji termicznej budynków.
+W paśmie promieniowania podczerwonego są prowadzone obserwacje astronomiczne i meteorologiczne. Promieniowanie to znalazło zastosowanie w technice grzewczej. Jest również stosowane do przekazu informacji – do transmisji danych w światłowodach i układach zdalnego sterowania.
+Spektroskopia w podczerwieni umożliwia identyfikację organicznych związków chemicznych i badanie ich struktury.
+
+
+==== Światło widzialne ====
+
+Światło (promieniowanie widzialne) to ta część widma promieniowania elektromagnetycznego, na którą reaguje zmysł wzroku człowieka. Różne zwierzęta mogą widzieć w nieco różnych zakresach.
+Światło jest tylko w niewielkim stopniu absorbowane przez atmosferę ziemską i przez wodę. Ma to duże znaczenie dla organizmów żywych, zarówno wodnych, jak i lądowych.
+Światło ma bardzo duże znaczenie w nauce i wiele zastosowań w technice. Dziedziny nauki i techniki zajmujące się światłem noszą nazwę optyki.
+
+
+==== Ultrafiolet ====
+
+Promieniowanie ultrafioletowe jest zaliczane do promieniowania jonizującego, czyli ma zdolność odrywania elektronów od atomów i cząsteczek. W dużym stopniu określa to jego właściwości, szczególnie oddziaływanie z materią i na organizmy żywe.
+Słońce emituje ultrafiolet w szerokim zakresie spektralnym, ale górne warstwy atmosfery ziemskiej (warstwa ozonowa) pochłaniają większość promieniowania z krótkofalowej części spektrum. Obserwacje astronomiczne w ultrafiolecie rozwinęły się dopiero po wyniesieniu ponad atmosferę przyrządów astronomicznych.
+W technice ultrafiolet stosowany jest powszechnie. Powoduje świecenie (fluorescencję) wielu substancji chemicznych. W świetlówkach ultrafiolet wytworzony na skutek wyładowania jarzeniowego pobudza luminofor do świecenia w zakresie widzialnym. Zjawisko to wykorzystuje się również do zabezpieczania banknotów i w analizie chemicznej (Spektroskopia UV). Ultrafiolet o małej długości fali jest wykorzystywany do sterylizacji (wyjaławiania) pomieszczeń.
+Niektóre owady, na przykład pszczoły, widzą w bliskiej światłu widzialnemu części widma promieniowania ultrafioletowego, również rośliny posiadają receptory ultrafioletu.
+
+
+==== Promieniowanie rentgenowskie ====
+
+Promieniowanie rentgenowskie jest promieniowaniem jonizującym.
+Technicznie promieniowanie rentgenowskie uzyskuje się przeważnie poprzez wyhamowywanie rozpędzonych cząstek naładowanych.
+W lampach rentgenowskich są to rozpędzone za pomocą wysokiego napięcia elektrony hamowane na metalowych anodach. Źródłem wysokoenergetycznego promieniowania rentgenowskiego są również przyspieszane w akceleratorach cząstki naładowane.
+Promieniowanie rentgenowskie jest wykorzystywane do wykonywania zdjęć rentgenowskich do celów defektoskopii i diagnostyki medycznej.
+W zakresie promieniowania rentgenowskiego są również prowadzone obserwacje astronomiczne.
+
+
+==== Promieniowanie gamma ====
+
+Promieniowanie gamma jest promieniowaniem jonizującym.
+Promieniowanie gamma towarzyszy reakcjom jądrowym, powstaje w wyniku anihilacji – zderzenie cząstki i antycząstki, oraz rozpadów cząstek elementarnych. Otrzymywane w cyklotronach promieniowanie hamowania i synchrotronowe również leży w zakresie długości fali promieniowania gamma, choć niekiedy bywa nazywane wysokoenergetycznym promieniowaniem rentgenowskim.
+Promienie gamma mogą służyć do sterylizacji żywności i sprzętu medycznego. W medycynie używa się ich w radioterapii oraz w diagnostyce. Zastosowanie w przemyśle obejmują badania defektoskopowe. Astronomia promieniowania gamma zajmuje się obserwacjami w tym zakresie długości fal.
+
+
+=== Mod fali elektromagnetycznej ===
+Płaska fala elektromagnetyczna rozchodząc się w próżni w nieograniczonym obszarze jest falą poprzeczną, w której składowa elektryczna i magnetyczna są prostopadłe do siebie, a obie są prostopadłe do kierunku rozchodzenia się fali. Fala elektromagnetyczna nie będąca falą płaską, lub rozchodząc się w ośrodku, lub w ograniczonym obszarze może mieć inny rozkład pola elektromagnetycznego. Charakterystyczne rozkłady pola elektromagnetycznego w propagującej fali nazywane są modami fali elektromagnetycznej.
+Ze źródła punktowego rozchodzą się fale kuliste. Każdą falę rozchodzącą się w nieskończonym bezstratnym ośrodku dielektrycznym, niezbyt blisko źródła, można uważać za kulistą, a dostatecznie mały jej wycinek za płaską.
+Promieniowanie laserów często ma gaussowski profil wiązki charakteryzujący się rozkładem amplitudy natężenia pola elektrycznego w płaszczyźnie prostopadłej do osi wiązki opisanym funkcją Gaussa.
+Mody fali elektromagnetycznej można podzielić na:
+
+falę poprzeczną (TEM od ang. Transverse ElectroMagnetic) – wektory natężenia pola elektrycznego i indukcji pola magnetycznego są prostopadłe do kierunku rozchodzenia się fali;
+TE (ang. Transverse Electric) – mody, dla których wektor natężenia pola elektrycznego jest prostopadły do kierunku rozchodzenia się fali, a wektor indukcji pola magnetycznego nie;
+TM (ang. Transverse Magnetic) – mody, dla których wektor indukcji pola magnetycznego jest prostopadły do kierunku rozchodzenia się fali, a wektor natężenia pola elektrycznego nie;
+mody hybrydowe – mody nie będące żadnym z powyższych – zarówno pole elektryczne, jak i magnetyczne mają niezerowe składowe w kierunku ruchu.Mod propagującej fali jest zdeterminowany przez rodzaj i kształt ośrodka, w którym rozchodzi się fala i przez jego granice. Charakterystyczne mody drgań występują przy propagacji mikrofal w falowodach i światła w światłowodach.
+
+
+=== Polaryzacja fali elektromagnetycznej ===
+Polaryzacja fali elektromagnetycznej to charakterystyczne zachowanie się kierunków wektorów pola elektrycznego i magnetycznego. Przyjęto, że polaryzację fali elektromagnetycznej określa się dla jej składowej elektrycznej (składowa magnetyczna jest do niej prostopadła).
+
+Polaryzacja jest liniowa, jeżeli w wybranym punkcie przestrzeni kierunek wektora natężenia pola elektrycznego jest cały czas taki sam.
+Przy polaryzacji kołowej wartość natężenia pola elektrycznego jest stała, a jego kierunek zatacza okrąg w czasie jednego okresu fali.
+Przy polaryzacji eliptycznej natężenie pola elektrycznego zmienia wartość i kierunek tak, że koniec jego wektora zatacza elipsę.
+Istnieją bardziej złożone typy polaryzacji.
+
+
+=== Energia fali elektromagnetycznej ===
+
+W fali elektromagnetycznej jej pola elektryczne i magnetyczne niosą ze sobą energię. W próżni i jednorodnym idealnym dielektryku składowe elektryczne i magnetyczne niesionej energii są sobie równe, natomiast w ośrodku o niezerowym przewodnictwie elektrycznym są różne.
+Choć w elektrodynamice klasycznej energię promieniowania elektromagnetycznego uważa się za wielkość ciągłą, zależną jedynie od natężenia pola elektrycznego i indukcji pola magnetycznego, to zjawiska zachodzące na poziomie atomowym dowodzą, że jest ona skwantowana. Energia pojedynczego kwantu jest zależna tylko od częstotliwości fali 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   i wynosi
+
+  
+    
+      
+        E
+        =
+        h
+        ν
+        ,
+      
+    
+    {\displaystyle E=h\nu ,}
+  gdzie 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   jest stałą Plancka.
+
+
+==== Wektor Poyntinga ====
+Strumień energii przenoszonej przez falę elektromagnetyczną w każdym punkcie przestrzeni określa wektor Poyntinga zdefiniowany jako
+
+  
+    
+      
+        
+          
+            
+              S
+              →
+            
+          
+        
+        =
+        
+          
+            1
+            
+              μ
+              
+                0
+              
+            
+          
+        
+        
+          
+            
+              E
+              →
+            
+          
+        
+        ×
+        
+          
+            
+              B
+              →
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\vec {S}}={\frac {1}{\mu _{0}}}{\vec {E}}\times {\vec {B}},}
+  gdzie:
+
+  
+    
+      
+        
+          μ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mu _{0}}
+   – przenikalność magnetyczna próżni,
+
+  
+    
+      
+        
+          
+            
+              E
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {E}}}
+   – natężenie pola elektrycznego,
+
+  
+    
+      
+        
+          
+            
+              B
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {B}}}
+   – indukcja pola magnetycznego.
+
+
+==== Pęd i ciśnienie fali elektromagnetycznej ====
+
+Biegnąca fala elektromagnetyczna niesie ze sobą pęd równy
+
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+        =
+        
+          
+            W
+            c
+          
+        
+        
+          
+            
+              k
+              ^
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\vec {p}}={\frac {W}{c}}{\hat {k}},}
+  gdzie:
+
+  
+    
+      
+        W
+      
+    
+    {\displaystyle W}
+   – energia niesiona przez falę,
+
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   – prędkość światła,
+
+  
+    
+      
+        
+          
+            
+              k
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {k}}}
+   – wektor jednostkowy w kierunku rozchodzenia się fali.Fala odbita lub pochłonięta przekazuje ten pęd wywierając ciśnienie. Pomiar ciśnienia promieniowania słonecznego przeprowadzony przez Lebiediewa w 1900 roku był pierwszym ilościowym potwierdzeniem teorii fali elektromagnetycznej Maxwella.
+
+
+=== Prędkość fali elektromagnetycznej ===
+Prędkość rozchodzenia się fali elektromagnetycznej w próżni jest stała, nie zależy od jej częstości ani układu odniesienia. Nazywa się ją prędkością światła. Jest ważną stałą fizyczną, a jej wartość wynosi około 3·108m/s. W ośrodkach materialnych prędkość fali elektromagnetycznej (rozchodzenia się fotonów) jest zawsze mniejsza niż w próżni.
+
+
+=== Oddziaływanie fali elektromagnetycznej z materią ===
+Rozchodzenie się fali w ośrodkach zależy zarówno od właściwości tych ośrodków, jak i częstotliwości fali.
+
+Gdy długość fali jest duża w porównaniu z odległościami między cząsteczkami ośrodka może on być traktowany jako ciągły. Gdy jest dielektrykiem, fala się w nim rozchodzi, ale zmienia się jej prędkość i długość. W ośrodkach przewodzących rozchodząca się fala jest tłumiona, tym bardziej, im lepsze jest ich przewodnictwo. Również straty dielektryczne powodują tłumienie fali. W dobrym przewodniku (metale) fale o tej długości wnikają jedynie na niewielką głębokość, natomiast silnie odbijają się.
+Gdy długość fali jest porównywalna z odległościami międzyatomowymi (rzędu nm – promieniowanie rentgenowskie) w jej oddziaływaniu z ośrodkiem zaczynają przeważać efekty dyfrakcyjne.
+Gdy długość fali jest mała w porównaniu z odległościami międzyatomowymi nazywamy promieniowanie przenikliwym, gdyż ma dużą zdolność penetracji materii. Kwanty promieniowania o małej długości mają jednak tak dużą energię, że mogą jonizować atomy i rozbijać cząsteczki.
+W dużym stopniu pochłaniane są również kwanty promieniowania o energii odpowiadającej różnicy poziomów energetycznych elektronów i cząsteczek w materiale (pochłanianie rezonansowe).
+
+
+== Opis teoretyczny ==
+Rozchodzenie się fal elektromagnetycznych opisują równania Maxwella. W pustej przestrzeni (próżni) nie zawierającej ładunków (źródeł) redukują się one do:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        
+          
+            
+              E
+              →
+            
+          
+        
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          ε
+          
+            0
+          
+        
+        
+          
+            
+              ∂
+              
+                2
+              
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        
+          
+            
+              E
+              →
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \nabla ^{2}{\vec {E}}=\mu _{0}\varepsilon _{0}{\frac {\partial ^{2}}{\partial t^{2}}}{\vec {E}},}
+  
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        
+          
+            
+              B
+              →
+            
+          
+        
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          ε
+          
+            0
+          
+        
+        
+          
+            
+              ∂
+              
+                2
+              
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        
+          
+            
+              B
+              →
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \nabla ^{2}{\vec {B}}=\mu _{0}\varepsilon _{0}{\frac {\partial ^{2}}{\partial t^{2}}}{\vec {B}},}
+  gdzie:
+
+  
+    
+      
+        
+          
+            
+              B
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {B}}}
+   – wektor indukcji pola magnetycznego,
+
+  
+    
+      
+        
+          
+            
+              E
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {E}}}
+   – wektor natężenia pola elektrycznego.Równania te są liniowymi równaniami różniczkowymi fali rozchodzącej się z prędkością
+
+  
+    
+      
+        c
+        =
+        
+          
+            1
+            
+              
+                μ
+                
+                  0
+                
+              
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle c={\frac {1}{\sqrt {\mu _{0}\varepsilon _{0}}}},}
+  gdzie:
+
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   – prędkość światła w próżni,
+
+  
+    
+      
+        
+          ε
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{0}}
+   – przenikalność elektryczna próżni,
+
+  
+    
+      
+        
+          μ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mu _{0}}
+   – przenikalność magnetyczna próżni.W nieprzewodzącym bezstratnym ośrodku o względnej przenikalności elektrycznej εr i względnej przenikalności magnetycznej μr prędkość fali wyniesie
+
+  
+    
+      
+        
+          c
+          
+            o
+            s
+            r
+          
+        
+        =
+        
+          
+            1
+            
+              
+                μ
+                
+                  r
+                
+              
+              
+                μ
+                
+                  0
+                
+              
+              
+                ε
+                
+                  r
+                
+              
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+        =
+        
+          
+            c
+            
+              
+                μ
+                
+                  r
+                
+              
+              
+                ε
+                
+                  r
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle c_{osr}={\frac {1}{\sqrt {\mu _{r}\mu _{0}\varepsilon _{r}\varepsilon _{0}}}}={\frac {c}{\sqrt {\mu _{r}\varepsilon _{r}}}}.}
+  Dla fali płaskiej rozchodzącej się w kierunku x niektóre rozwiązania powyższych równań różniczkowych mają postać:
+
+  
+    
+      
+        E
+        (
+        x
+        ,
+        t
+        )
+        =
+        
+          E
+          
+            0
+          
+        
+        sin
+        ⁡
+        
+          (
+          
+            2
+            π
+            ν
+            t
+            −
+            
+              
+                
+                  2
+                  π
+                
+                λ
+              
+            
+            x
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle E(x,t)=E_{0}\sin \left(2\pi \nu t-{\frac {2\pi }{\lambda }}x\right),}
+  
+
+  
+    
+      
+        B
+        (
+        x
+        ,
+        t
+        )
+        =
+        
+          B
+          
+            0
+          
+        
+        sin
+        ⁡
+        
+          (
+          
+            2
+            π
+            ν
+            t
+            −
+            
+              
+                
+                  2
+                  π
+                
+                λ
+              
+            
+            x
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle B(x,t)=B_{0}\sin \left(2\pi \nu t-{\frac {2\pi }{\lambda }}x\right),}
+  gdzie:
+
+  
+    
+      
+        
+          E
+          
+            0
+          
+        
+      
+    
+    {\displaystyle E_{0}}
+   – amplituda natężenia pola elektrycznego,
+
+  
+    
+      
+        
+          B
+          
+            0
+          
+        
+      
+    
+    {\displaystyle B_{0}}
+   – amplituda indukcji pola magnetycznego,
+
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   – częstotliwość fali,
+
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   – długość fali.Równania Maxwella i ich rozwiązanie pozwoliły połączyć pole elektryczne i magnetyczne w jedno pole elektromagnetyczne i pokazać, że ma ono taką samą naturę jak światło.
+
+
+== Fala elektromagnetyczna w fizyce kwantowej ==
+Fizyka kwantowa opisuje promieniowanie elektromagnetyczne jako strumień fotonów – niepodzielnych paczek falowych. Fotony są nieposiadającymi masy cząstkami elementarnymi, ich energia i pęd zależą od częstotliwości (a co za tym idzie od długości fali 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  ):
+
+  
+    
+      
+        E
+        =
+        h
+        ν
+        =
+        
+          
+            
+              h
+              c
+            
+            λ
+          
+        
+        ,
+      
+    
+    {\displaystyle E=h\nu ={\frac {hc}{\lambda }},}
+  
+
+  
+    
+      
+        p
+        =
+        
+          
+            
+              h
+              ν
+            
+            c
+          
+        
+        =
+        
+          
+            h
+            λ
+          
+        
+        .
+      
+    
+    {\displaystyle p={\frac {h\nu }{c}}={\frac {h}{\lambda }}.}
+  
+
+
+== Tabela Widma elektromagnetycznego ==
+
+
+== Zobacz też ==
+astronomia obserwacyjna – fale elektromagnetyczne w atmosferze ziemskiej
+detektory promieniowania elektromagnetycznego
+promieniowanie jonizujące
+promieniowanie naturalne
+promieniowanie niejonizujące
+promieniowanie synchrotronowe
+wpływ promieniowania telefonów komórkowych na zdrowie
+elektrosmog
+
+
+== Uwagi ==
+
+
+== Przypisy ==
+
+
+== Bibliografia ==
+Andrzej Januszajtis: Fale. Warszawa: Wydawnictwo Naukowe PWN, 1991. ISBN 83-01-09708-6.
+Romuald Litwin: Teoria pola elektromagnetycznego. Warszawa: Wydawnictwa Naukowo-Techniczne, 1969.
+Szczepan Szczeniowski: Elektryczność i magnetyzm: podręcznik dla studentów szkół wyższych. Warszawa: Państwowe Wydawnictwo Naukowe, 1980. ISBN 83-01-02582-4.
+Andrzej Kajetan Wróblewski: Historia fizyki: od czasów najdawniejszych do współczesności. Warszawa: Wydawnictwo Naukowe PWN, 2006. ISBN 83-01-14635-4.Tablice Matematyczne, Fizyczne, Chemiczne i astronomiczne. Warszawa: Wydawnictwo Szkolne i Pedagogiczne, 1984. ISBN 83-02-00763-3.
+
+
+== Literatura ==
+Szczepan Szczeniowski: Optyka: podręcznik dla studentów szkół wyższych. Warszawa: Państwowe Wydawnictwo Naukowe, 1963.
+
+
+== Linki zewnętrzne ==
+Wykład o falach elektromagnetycznych dla niefizyków
+Fale elektromagnetyczne

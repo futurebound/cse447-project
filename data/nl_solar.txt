@@ -1,0 +1,57 @@
+Zonne-energie is energie van de zon in de vorm van warmte en licht. Deze energie, samen met secundaire vormen zoals windenergie, waterkracht en biomassa vormt meer dan 99,9% van alle hernieuwbare energie op Aarde.
+Getijdenenergie is wel hernieuwbare energie, maar geen vorm van zonne-energie, omdat de getijden op aarde primair worden veroorzaakt door de aantrekkingskracht van de maan.
+De zon is een ster die zich gemiddeld op 150 miljoen kilometer afstand van de aarde bevindt. De energie die de zon uitstraalt ontstaat door kernfusie. De atmosfeer en de magnetosfeer (het magnetisch veld van de aarde) beschermen het leven op aarde tegen het grootste deel van de schadelijke straling die de zon naast licht en warmte eveneens uitstraalt. De hoeveelheid energie die de aarde bereikt, is ca. 9000 maal groter dan de energiebehoefte van alle 7 miljard aardbewoners samen. De energie bereikt de aarde als licht en warmtestraling, een mengsel van elektromagnetische straling van verschillende golflengten, voor 99% liggend tussen 300 en 3000 nm. (De golflengten van zichtbaar licht vallen tussen 390 en 780 nm).
+
+
+== Gebruik door planten ==
+
+Planten gebruiken zonne-energie voor fotosynthese, waarbij zij water en kooldioxide uit de lucht omzetten in suikers.
+Het fotosynthetisch proces waarop vrijwel het gehele leven op aarde draait, vangt slechts ongeveer 1% van de energie op voor nuttig gebruik, hetzij door lichamelijke activiteit, hetzij door consumptie, hetzij als fossiele brandstof. Bovendien zijn er grote stukken aardoppervlak zoals de woestijnen waar door gebrek aan water de fotosynthese geen kans krijgt.
+
+
+== Gebruik door de mens ==
+Met zonne-energie wordt tegenwoordig meestal bedoeld de energie die mensen zelf met hun technologie opwekken direct vanuit van zonnestraling. Dit gebeurt op dit moment in West-Europa vooral op twee manieren:
+
+De meest gebruikte toepassing is door middel van zonnepanelen met fotovoltaïsche cellen (ook wel PV-cellen genoemd). Die zetten het licht direct om in elektriciteit: zonnestroom.
+Een andere manier om gebruik te maken van zonlicht is thermische zonne-energie waarbij zonlicht wordt omgezet in warmte. Dit gebeurt door zonneboilers, oftewel zonnecollectoren.De term zonnepanelen wordt voor beide methodes wel gebruikt en is dus niet geheel eenduidig.
+
+
+=== Meer technieken ===
+Voor landen waar de zon bijna de hele dag schijnt bestaat een goede technologie om zonne-energie te oogsten: geconcentreerde zonne-energie, ook wel thermische zonne-energie genoemd. Hierbij worden de zonnestralen door middel van spiegels samengebracht op een klein oppervlak, waar een hoge temperatuur ontstaat. Met die hoge temperatuur wordt stoom gemaakt, waarmee net als in een gewone centrale elektriciteit wordt opgewekt. In Californië functioneren sinds de jaren 80 een aantal CSP-centrales met een gezamenlijk piekvermogen van 350 MWe naar volle tevredenheid. CSP kan gecombineerd worden met gesmolten zout. Overvloedige warmte kan overdag gebruikt worden om zout te smelten, om 's nachts teruggewonnen te worden. Hiermee wordt zonne-energie een betrouwbaardere bron van energie.
+Een minder toegepaste techniek is de zonnetoren. Lucht wordt opgewarmd door zonnewarmte onder een cirkelvormig doorschijnende collector die aan de rand open is. Zo vormt het doorschijnende dak samen met de grond een opslagruimte voor door de zon opgewarmde lucht. In het midden van de cirkel staat een verticale toren, die aan de basis een grote doorsnede heeft. Omdat hete lucht lichter is dan koude lucht, stijgt deze op door de toren. De toren zuigt meer lucht aan en er wordt nieuwe koude lucht aangevoerd aan de rand van de opslagruimte. Een continue stroom van lucht kan bereikt worden door met water gevulde buizen onder het dak te plaatsen. Overdag warmen deze op en ’s nachts geven ze hun warmte af. Zo is er sprake van een constante stroom veroorzaakt door zonnewarmte. De energie die ontstaat bij deze opwaartse stroom lucht wordt door windturbines omgezet in mechanische energie en met generatoren wordt deze mechanische energie omgezet in elektrische energie.
+
+
+=== Potentieel ===
+
+Zoals in de introductie al vermeld, is de potentiële hoeveelheid zonne-energie vele malen groter dan het elektriciteitsverbruik van de gehele mensheid.
+De zonneconstante, de maximale hoeveelheid energie die per vierkante meter per tijdseenheid op het oppervlak valt, bedraagt circa 1367 watt per vierkante meter. Deze vormt dan ook een beperking voor de maximale opbrengst. Over het algemeen geldt dat er veel oppervlakte nodig is voor zonne-energie ten opzichte van andere technieken. In gebieden met weinig wolken waar de zon hoog in de hemel staat is zonne-energie het voordeligst. Toch is het in gematigde streken ook steeds vaker economisch voordelig ten opzichte van fossiele energie.
+Ter illustratie van het potentiële vermogen van grootschalige zonne-energie het volgende voorbeeld. Het energiegebruik van Europa bedraagt ca. 1020 joule per jaar (ruim 3 × 1012 watt). Op basis van een energieopbrengst met een rendement van ca. 15% zou een gebied in de Sahara met een oppervlakte van netto ca. 50.000 vierkante kilometer voldoen voor alle energie die in Europa wordt gebruikt. Zie het oranje gebiedje op het kaartje in de Sahara. Dit is exclusief ruimte voor wegen, wonen en werken in het gebied van de zonnecentrale. En mits het probleem van energieopslag en -transport wordt opgelost. Voor een dergelijke zonnecentrale in Zuid-Europa (bijvoorbeeld Spanje, zie de illustratie) zou grofweg het dubbele oppervlak nodig zijn. Met vanzelfsprekend dezelfde kanttekening m.b.t. logistiek en opslag zoals hiervoor genoemd. Bovendien gaat bij noordelijker gelegen centrales het verschil tussen de seizoenen een grotere rol spelen.
+
+
+=== Voertuigen ===
+Sinds de jaren tachtig is het ontwikkelen van een auto op zonne-energie een belangrijk doel voor ingenieurs. Het was dan ook dat de grootste race voor auto's op zonne-energie in 1987 van start ging, de Australische World Solar Challenge. Over een afstand van ruim drie duizend kilometer wordt slechts gereden met behulp van zonne-energie. Het team van de TU Delft heeft de wedstrijd meermaals gewonnen. Het snelste team ooit haalde een gemiddelde snelheid van ruim 100 km/h. Elektrische auto's zonder eigen zonnepanelen kunnen toch op zonne-energie rijden door de batterij op te laden met stroom afkomstig uit zonnepanelen op het dak van een gebouw.In 1975 werd de eerste boot op zonne-energie gemaakt. Sindsdien is het gelukt een boot te maken die de hele wereld over kan varen op zonne-energie. Het TU Delft Solar Boat Team bouwt een boot op zonne-energie. Een kleinschalig voorbeeld is het fiets- en voetveer  't Leeuweveerke dat voorzien is van zonnepanelen.In 2016 lukte het ook met het zonnevliegtuig Solar Impulse de wereld om te gaan.
+
+
+=== Eigen beheer ===
+
+Een voordeel van zonnepanelen is het feit dat men elektrische energie kan verkrijgen op plaatsen waar het moeilijk, of onmogelijk is, om elektrische leidingen te leggen. Hierbij wordt over het algemeen wel gebruik gemaakt van opslag (e.g. accu's) en een DC/DC converter om het fluctuerende DC-vermogen te stabiliseren.
+
+
+=== Afgeleide vormen ===
+
+Aardolie, aardgas en steenkool zijn eigenlijk ook afgeleide vormen van zonne-energie. Ze werden gevormd uit de restanten van levende wezens in het geologisch verleden; allemaal ondersteund door fotosynthese. De snelheid waarmee we deze bronnen momenteel verbruiken wordt echter bij lange na niet bijgehouden door de snelheid waarmee door fotosynthese nieuwe organische brandstoffen worden aangemaakt. Ook waterkracht is een vorm van zonne-energie: het water verdampt door zonnewarmte, wordt door wind (ook een gevolg van temperatuurverschillen) omhoog getransporteerd, valt als regen weer op een berg of hoogte en de potentiële zwaartekrachtenergie van de massa van het water wordt als elektriciteit weer teruggewonnen bij het naar een lager niveau vallen of - stromen. Ook windenergie bestaat uitsluitend bij de gratie van door de zonnewarmte opgewekte temperatuurverschillen. Slechts getijdenenergie, geothermische energie en kernenergie zijn niet te herleiden tot zonne-energie, hoewel kernenergie gebruikmaakt van zware elementen die alleen in een supernova (ontploffing van een ster in zijn laatste levensstadium) konden ontstaan, maar dat was dus niet 'onze' zon.
+
+
+== Zie ook ==
+Agrivoltaics
+Duurzame energie
+Energie oogsten
+Passieve zonne-energie
+Thermische zonne-energie
+Zonnepaneel
+Zonneboiler
+Kunstmatige fotosynthese
+Desertec
+
+
+== Afbeeldingen ==

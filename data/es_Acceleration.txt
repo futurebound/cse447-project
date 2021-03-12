@@ -1,0 +1,1448 @@
+En física, la aceleración es una magnitud derivada vectorial que nos indica la variación de velocidad por unidad de tiempo. En el contexto de la mecánica vectorial newtoniana se representa normalmente por 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        
+      
+    
+    {\displaystyle {\vec {a}}\,}
+   o 
+  
+    
+      
+        
+          a
+        
+        
+      
+    
+    {\displaystyle \mathbf {a} \,}
+   y su módulo por 
+  
+    
+      
+        a
+        
+      
+    
+    {\displaystyle a\,}
+  . Sus dimensiones son 
+  
+    
+      
+        
+          [
+          L
+          ⋅
+          
+            T
+            
+              −
+              2
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \scriptstyle [L\cdot T^{-2}]}
+  . Su unidad en el Sistema Internacional es m/s2.
+
+
+== Introducción ==
+Según la mecánica newtoniana, una partícula no puede seguir una trayectoria curva a menos que sobre ella actúe una cierta aceleración como consecuencia de la acción de una fuerza, ya que si esta no existiese, su movimiento sería rectilíneo. Asimismo, una partícula en movimiento rectilíneo solo puede cambiar su velocidad bajo la acción de una aceleración en la misma dirección de su velocidad (dirigida en el mismo sentido si acelera; o en sentido contrario si desacelera). En mecánica clásica se define la aceleración como la variación de la velocidad respecto al tiempo (común a todos los observadores):
+
+  
+    
+      
+        
+          a
+        
+        =
+        
+          
+            
+              
+                
+              
+              
+                
+                  d
+                  
+                  
+                    V
+                  
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  d
+                  
+                  t
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {a} ={\cfrac {d\,\mathbf {V} }{d\,t}}}
+  
+
+En la mecánica newtoniana, para un cuerpo con masa constante, la aceleración del cuerpo medida por un observador inercial es proporcional a la fuerza que actúa sobre el mismo (segunda ley de Newton):
+
+  
+    
+      
+        
+          F
+        
+        =
+        m
+        
+          a
+        
+        
+        →
+        
+        
+          a
+        
+        =
+        
+          
+            
+              
+                
+              
+              
+                
+                  
+                    F
+                  
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  m
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {F} =m\mathbf {a} \quad \to \quad \mathbf {a} ={\cfrac {\mathbf {F} }{m}}}
+  
+
+donde F es la fuerza resultante que actúa sobre el cuerpo, m es la masa del cuerpo, y a es la aceleración. La relación anterior es válida en cualquier sistema de referencia inercial.
+Algunos ejemplos del concepto de aceleración son:
+
+La llamada aceleración de la gravedad en la Tierra es la aceleración que produce la fuerza gravitatoria terrestre; su valor en la superficie de la Tierra es, aproximadamente, de 9,8 m/s2. Esto quiere decir que si se dejara caer libremente un objeto, aumentaría su velocidad de caída a razón de 9,8 m/s por cada segundo (siempre que omitamos la resistencia aerodinámica del aire). El objeto caería, por tanto, cada vez más rápido, respondiendo dicha velocidad a la ecuación:
+
+  
+    
+      
+        v
+        =
+        a
+        t
+        =
+        g
+        t
+        =
+        9
+        ,
+        8
+        
+        t
+      
+    
+    {\displaystyle v=at=gt=9,8\,t}
+  
+
+Una maniobra de frenada de un vehículo, que se correspondería con una aceleración de signo negativo, o desaceleración, al oponerse a la velocidad que ya tenía el vehículo. Si el vehículo adquiriese más velocidad, a dicho efecto se le llamaría aceleración y, en este caso, sería de signo positivo.
+
+
+== Aceleración media e instantánea ==
+
+Para cada instante o punto de la trayectoria, queda definido un vector velocidad que, en general, cambia tanto en módulo como en dirección al pasar de un punto a otro de la trayectoria. La dirección de la velocidad cambiará debido a que la velocidad es tangente a la trayectoria y esta, por lo general, no es rectilínea. En la Figura se representan los vectores velocidad correspondientes a los instantes t y t+Δt, cuando la partícula pasa por los puntos P y Q, respectivamente. El cambio vectorial en la velocidad de la partícula durante ese intervalo de tiempo está indicado por Δv, en el triángulo vectorial al pie de la figura. Se define la aceleración media de la partícula, en el intervalo de tiempo Δt, como el cociente:
+
+  
+    
+      
+        ⟨
+        
+          a
+        
+        ⟩
+        =
+        
+          
+            
+              a
+              ¯
+            
+          
+        
+        =
+        
+          
+            
+              Δ
+              
+                v
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \langle \mathbf {a} \rangle =\mathbf {\bar {a}} ={\frac {\Delta \mathbf {v} }{\Delta t}}}
+  
+
+Que es un vector paralelo a Δv y dependerá de la duración del intervalo de tiempo Δt considerado. La aceleración instantánea se la define como el límite al que tiende el cociente incremental Δv/Δt cuando Δt→0; esto es la derivada del vector velocidad con respecto al tiempo:
+
+  
+    
+      
+        
+          a
+        
+        =
+        
+          lim
+          
+            Δ
+            t
+            →
+            0
+          
+        
+        
+          
+            
+              Δ
+              
+                v
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                v
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {a} =\lim _{\Delta t\to 0}{\frac {\Delta \mathbf {v} }{\Delta t}}={\frac {d\mathbf {v} }{dt}}}
+  
+
+Puesto que la velocidad instantánea v a su vez es la derivada del vector posición r respecto al tiempo, la aceleración es la derivada segunda de la posición con respecto del tiempo:
+
+  
+    
+      
+        
+          a
+        
+        =
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                r
+              
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {a} ={\frac {d^{2}\mathbf {r} }{dt^{2}}}}
+  
+
+De igual forma se puede definir la velocidad instantánea a partir de la aceleración como:
+
+  
+    
+      
+        
+          v
+        
+        −
+        
+          
+            v
+          
+          
+            0
+          
+        
+        =
+        
+          ∫
+          
+            
+              t
+              
+                0
+              
+            
+          
+          
+            t
+          
+        
+        
+          (
+          
+            
+              
+                
+                  d
+                
+                
+                  v
+                
+              
+              
+                
+                  d
+                
+                t
+              
+            
+          
+          )
+        
+        
+        
+          d
+        
+        t
+      
+    
+    {\displaystyle \mathbf {v} -\mathbf {v} _{0}=\int _{t_{0}}^{t}\left({\mathrm {d} \mathbf {v}  \over \mathrm {d} t}\right)\,\mathrm {d} t}
+  
+
+Se puede obtener la velocidad a partir de la aceleración mediante integración:
+
+  
+    
+      
+        
+          v
+        
+        =
+        
+          ∫
+          
+            0
+          
+          
+            t
+          
+        
+        
+          a
+        
+         
+        
+          d
+        
+        t
+        +
+        
+          
+            v
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mathbf {v} =\int _{0}^{t}\mathbf {a} \ \mathrm {d} t+\mathbf {v} _{0}}
+  
+
+
+=== Medición de la aceleración ===
+La medida de la aceleración puede hacerse con un sistema de adquisición de datos y un simple acelerómetro. Los acelerómetros electrónicos son fabricados para medir la aceleración en una, dos o tres direcciones. Cuentan con dos elementos conductivos, separados por un material que varía su conductividad en función de las medidas, que a su vez serán relativas a la aceleración del conjunto.
+
+
+=== Unidades ===
+Las unidades de la aceleración son:
+
+Sistema Internacional1 m/s2Sistema Cegesimal1 cm/s2 = 1 Gal
+
+
+== Componentes intrínsecas de la aceleración: aceleraciones tangencial y normal ==
+
+En tanto que el vector velocidad v es tangente a la trayectoria, el vector aceleración a puede descomponerse en dos componentes (llamadas componentes intrínsecas) mutuamente perpendiculares: una componente tangencial at (en la dirección de la tangente a la trayectoria), llamada aceleración tangencial, y una componente normal an (en la dirección de la normal principal a la trayectoria), llamada aceleración normal o centrípeta (este último nombre en razón a que siempre está dirigida hacia el centro de curvatura).
+Derivando la velocidad con respecto al tiempo, teniendo en cuenta que el vector tangente cambia de dirección al pasar de un punto a otro de la trayectoria (esto significa que no es constante) obtenemos
+
+  
+    
+      
+        
+          a
+        
+        =
+        
+          
+            
+              d
+              
+                v
+              
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            d
+            
+              d
+              t
+            
+          
+        
+        (
+        v
+        
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            t
+          
+        
+        )
+        =
+        
+          
+            
+              d
+              v
+            
+            
+              d
+              t
+            
+          
+        
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            t
+          
+        
+        +
+        v
+        
+          
+            
+              d
+              
+                
+                  
+                    
+                      e
+                      ^
+                    
+                  
+                
+                
+                  t
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          a
+          
+            t
+          
+        
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            t
+          
+        
+        +
+        v
+        (
+        
+          ω
+        
+        ×
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            t
+          
+        
+        )
+      
+    
+    {\displaystyle \mathbf {a} ={\frac {d\mathbf {v} }{dt}}={\frac {d}{dt}}(v\,\mathbf {\hat {e}} _{t})={\frac {dv}{dt}}\mathbf {\hat {e}} _{t}+v{\frac {d\mathbf {\hat {e}} _{t}}{dt}}=a_{t}\mathbf {\hat {e}} _{t}+v({\boldsymbol {\omega }}\times \mathbf {\hat {e}} _{\text{t}})}
+  
+
+siendo 
+  
+    
+      
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            t
+          
+        
+      
+    
+    {\displaystyle \mathbf {\hat {e}} _{t}}
+   el vector unitario tangente a la trayectoria en la misma dirección que la velocidad y 
+  
+    
+      
+        
+          ω
+        
+      
+    
+    {\displaystyle {\boldsymbol {\omega }}}
+   la velocidad angular. Resulta conveniente escribir la expresión anterior en la forma
+
+  
+    
+      
+        
+          a
+        
+        =
+        
+          
+            
+              d
+              
+                v
+              
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          a
+          
+            t
+          
+        
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            t
+          
+        
+        +
+        
+          
+            
+              v
+              
+                2
+              
+            
+            ρ
+          
+        
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            n
+          
+        
+        =
+        
+          a
+          
+            t
+          
+        
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            t
+          
+        
+        +
+        
+          a
+          
+            n
+          
+        
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbf {a} ={\frac {d\mathbf {v} }{dt}}=a_{t}\mathbf {\hat {e}} _{t}+{\frac {v^{2}}{\rho }}\mathbf {\hat {e}} _{n}=a_{t}\mathbf {\hat {e}} _{t}+a_{n}\mathbf {\hat {e}} _{\text{n}}}
+  
+
+siendo
+
+  
+    
+      
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbf {\hat {e}} _{n}}
+   el vector unitario normal a la trayectoria, esto es dirigido hacia el centro de curvatura de la misma,
+
+  
+    
+      
+        ρ
+        
+      
+    
+    {\displaystyle \rho \,}
+   el radio de curvatura de la trayectoria, esto es el radio de la circunferencia osculatriz a la trayectoria.Las magnitudes de estas dos componentes de la aceleración son:
+
+  
+    
+      
+        
+          a
+          
+            t
+          
+        
+        =
+        
+          
+            
+              d
+              v
+            
+            
+              d
+              t
+            
+          
+        
+        
+        
+        
+        
+          a
+          
+            n
+          
+        
+        =
+        
+          
+            
+              v
+              
+                2
+              
+            
+            ρ
+          
+        
+      
+    
+    {\displaystyle a_{t}={\frac {dv}{dt}}\qquad \qquad \qquad a_{n}={\frac {v^{2}}{\rho }}}
+  
+
+Cada una de estas dos componentes de la aceleración tiene un significado físico bien definido. Cuando una partícula se mueve, su velocidad puede cambiar y este cambio lo mide la aceleración tangencial. Pero si la trayectoria es curva también cambia la dirección de la velocidad y este cambio lo mide la aceleración normal.
+
+Si en el movimiento curvilíneo la velocidad es constante (v=cte), la aceleración tangencial será nula, pero habrá una cierta aceleración normal, de modo que en un movimiento curvilíneo siempre habrá aceleración.Si el movimiento es circular, entonces el radio de curvatura es el radio R de la circunferencia y la aceleración normal se escribe como an = v2/R.Si la trayectoria es rectilínea, entonces el radio de curvatura es infinito (ρ→∞) de modo que an=0 (no hay cambio en la dirección de la velocidad) y la aceleración tangencial at será nula o no según que la velocidad sea o no constante.Los vectores que aparecen en las expresiones anteriores son los vectores del triedro de Frênet que aparece en la geometría diferencial de curvas del siguiente modo:
+
+  
+    
+      
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            t
+          
+        
+      
+    
+    {\displaystyle \mathbf {\hat {e}} _{t}}
+   es el vector unitario tangente a la curva.
+
+  
+    
+      
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbf {\hat {e}} _{n}}
+   es el vector unitario normal a la curva.
+
+  
+    
+      
+        
+          ω
+        
+      
+    
+    {\displaystyle {\boldsymbol {\omega }}}
+   es el vector velocidad angular que es paralelo al vector binormal a la curva.
+
+
+=== Movimiento circular uniforme ===
+
+Un movimiento circular uniforme es aquel en el que la partícula recorre una trayectoria circular de radio R con rapidez constante, es decir, que la distancia recorrida en cada intervalo de tiempo igual es la misma. Para ese tipo de movimiento el vector de velocidad mantiene su módulo y va variando la dirección siguiendo una trayectoria circular. Si se aplican las fórmulas anteriores, se tiene que la aceleración tangencial es nula y la aceleración normal es constante: a esta aceleración normal se la llama "aceleración centrípeta". En este tipo de movimiento la aceleración aplicada al objeto se encarga de modificar la trayectoria del objeto y no en modificar su velocidad.
+
+  
+    
+      
+        
+          a
+        
+        =
+        
+          
+            
+              d
+              
+                v
+              
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+              v
+            
+            
+              d
+              t
+            
+          
+        
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            t
+          
+        
+        +
+        
+          
+            
+              v
+              
+                2
+              
+            
+            R
+          
+        
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            n
+          
+        
+        =
+        0
+        ⋅
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            t
+          
+        
+        +
+        
+          
+            
+              v
+              
+                2
+              
+            
+            R
+          
+        
+        
+          
+            
+              
+                
+                  e
+                
+                ^
+              
+            
+          
+          
+            n
+          
+        
+        =
+        
+          ω
+          
+            2
+          
+        
+        R
+         
+        
+          
+            
+              
+                
+                  e
+                
+                ^
+              
+            
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbf {a} ={\frac {d\mathbf {v} }{dt}}={\frac {dv}{dt}}\mathbf {\hat {e}} _{t}+{\frac {v^{2}}{R}}\mathbf {\hat {e}} _{n}=0\cdot \mathbf {\hat {e}} _{t}+{\frac {v^{2}}{R}}{\hat {\mathbf {e} }}_{n}=\omega ^{2}R\ {\hat {\mathbf {e} }}_{n}}
+  
+
+
+=== Movimiento rectilíneo acelerado ===
+
+Si se aplican las fórmulas anteriores al movimiento rectilíneo, en el que solo existe aceleración tangencial, al estar todos los vectores contenidos en la trayectoria, podemos prescindir de la notación vectorial y escribir simplemente:
+
+  
+    
+      
+        a
+        =
+        
+          
+            
+              d
+              v
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle a={\frac {dv}{dt}}}
+  
+
+Ya que en ese tipo de movimiento los vectores 
+  
+    
+      
+        
+          
+            a
+          
+        
+      
+    
+    {\displaystyle \scriptstyle \mathbf {a} }
+   y 
+  
+    
+      
+        
+          
+            v
+          
+        
+      
+    
+    {\displaystyle \scriptstyle \mathbf {v} }
+   son paralelos, satisfaciendo también la relación:
+
+  
+    
+      
+        v
+        (
+        t
+        )
+        =
+        
+          v
+          
+            0
+          
+        
+        +
+        
+          ∫
+          
+            0
+          
+          
+            t
+          
+        
+        a
+        (
+        τ
+        )
+         
+        d
+        τ
+      
+    
+    {\displaystyle v(t)=v_{0}+\int _{0}^{t}a(\tau )\ d\tau }
+  
+
+La coordenadas de posición viene dada en este caso por:
+
+  
+    
+      
+        x
+        (
+        t
+        )
+        =
+        
+          x
+          
+            0
+          
+        
+        +
+        
+          v
+          
+            0
+          
+        
+        t
+        +
+        
+          ∫
+          
+            0
+          
+          
+            t
+          
+        
+        (
+        t
+        −
+        τ
+        )
+        a
+        (
+        τ
+        )
+         
+        d
+        τ
+      
+    
+    {\displaystyle x(t)=x_{0}+v_{0}t+\int _{0}^{t}(t-\tau )a(\tau )\ d\tau }
+  
+
+Un caso particular de movimiento rectilíneo acelerado es el movimiento rectilíneo uniformemente variado donde la aceleración es además constante y por tanto la velocidad y la coordenadas de posición vienen dados por:
+
+  
+    
+      
+        v
+        (
+        t
+        )
+        =
+        
+          v
+          
+            0
+          
+        
+        +
+        a
+        t
+        ,
+        
+        x
+        (
+        t
+        )
+        =
+        
+          x
+          
+            0
+          
+        
+        +
+        
+          v
+          
+            0
+          
+        
+        t
+        +
+        
+          
+            
+              a
+              
+                t
+                
+                  2
+                
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle v(t)=v_{0}+at,\qquad x(t)=x_{0}+v_{0}t+{\frac {at^{2}}{2}}}
+  
+
+
+== Aceleración en mecánica relativista ==
+
+
+=== Relatividad especial ===
+El análogo de la aceleración en mecánica relativista se llama cuadriaceleración y es un cuadrivector cuyas tres componentes espaciales para pequeñas velocidades coinciden con las de la aceleración newtoniana (la componente temporal para pequeñas velocidades resulta proporcional a la potencia de la fuerza dividida por la velocidad de la luz y la masa de la partícula).
+En mecánica relativista la cuadrivelocidad y la cuadriaceleración son siempre ortogonales, eso se sigue de que la cuadrivelocidad tiene un (pseudo)módulo constante:
+
+  
+    
+      
+        
+          U
+        
+        ⋅
+        
+          U
+        
+        =
+        
+          c
+          
+            2
+          
+        
+        ⇒
+        2
+        
+          U
+        
+        ⋅
+        
+          
+            
+              d
+              
+                U
+              
+            
+            
+              d
+              τ
+            
+          
+        
+        =
+        0
+        ⇒
+        2
+        
+          U
+        
+        ⋅
+        
+          A
+        
+        =
+        0
+      
+    
+    {\displaystyle \mathbf {U} \cdot \mathbf {U} =c^{2}\Rightarrow 2\mathbf {U} \cdot {\frac {d\mathbf {U} }{d\tau }}=0\Rightarrow 2\mathbf {U} \cdot \mathbf {A} =0}
+  
+
+Donde c es la velocidad de la luz y el producto anterior es el producto asociado a la métrica de Minkowski:
+
+  
+    
+      
+        V
+        ⋅
+        W
+        :=
+        η
+        (
+        V
+        ,
+        W
+        )
+        =
+        
+          η
+          
+            μ
+            ν
+          
+        
+        
+          V
+          
+            μ
+          
+        
+        
+          V
+          
+            ν
+          
+        
+      
+    
+    {\displaystyle V\cdot W:=\eta (V,W)=\eta _{\mu \nu }V^{\mu }V^{\nu }}
+  
+
+
+=== Relatividad general ===
+En teoría general de la relatividad el caso de la aceleración es más complicado, ya que debido a que el propio espacio-tiempo es curvo (ver curvatura del espacio-tiempo), una partícula sobre la que no actúa ninguna fuerza puede seguir una trayectoria curva, de hecho la línea curva que sigue una partícula sobre la que no actúa ninguna fuerza exterior es una línea geodésica, de hecho en relatividad general la fuerza gravitatoria no se interpreta como una fuerza sino como un efecto de la curvatura del espacio-tiempo que hace que las partículas no trayectorias rectas sino líneas geodéscias. En este contexto la aceleración no geodésica de una partícula es un vector cuyas cuatro componentes se calulan como:
+
+  
+    
+      
+        
+          A
+          
+            α
+          
+        
+        =
+        
+          
+            
+              d
+              
+                U
+                
+                  α
+                
+              
+            
+            
+              d
+              τ
+            
+          
+        
+        +
+        
+          ∑
+          
+            β
+            ,
+            γ
+          
+        
+        
+          Γ
+          
+            β
+            γ
+          
+          
+            α
+          
+        
+        
+          U
+          
+            β
+          
+        
+        
+          U
+          
+            γ
+          
+        
+      
+    
+    {\displaystyle A^{\alpha }={\frac {dU^{\alpha }}{d\tau }}+\sum _{\beta ,\gamma }\Gamma _{\beta \gamma }^{\alpha }U^{\beta }U^{\gamma }}
+  
+
+Aquí 
+  
+    
+      
+        
+          α
+          =
+          0
+          ,
+          1
+          ,
+          2
+          ,
+          3
+        
+      
+    
+    {\displaystyle \scriptstyle \alpha =0,1,2,3}
+   (componente temporal y tres componentes espaciales). Se aprecia que cuando los símbolos de Christoffel 
+  
+    
+      
+        
+          Γ
+          
+            β
+            γ
+          
+          
+            α
+          
+        
+      
+    
+    {\displaystyle \Gamma _{\beta \gamma }^{\alpha }}
+   una partícula puede tener aceleración cero aunque su cuadrivelocidad no sea constante, eso sucede cuando la partícula sigue una línea geodésica de un espacio-tiempo de curvatura no nula.
+
+
+== Véase también ==
+Cinemática
+Velocidad
+Derivada
+Caída libre
+Movimiento rectilíneo uniformemente acelerado
+
+
+== Referencias ==
+
+
+=== Bibliografía ===
+Serway, Raymond A.; Jewett, John W. (2004). Physics for Scientists and Engineers (6th ed. edición). Brooks/Cole. ISBN 0-534-40842-7. 
+Tipler, Paul (2004). Physics for Scientists and Engineers: Mechanics, Oscillations and Waves, Thermodynamics (5th ed. edición). W. H. Freeman. ISBN 0-7167-0809-4. 
+Ortega, Manuel R. (1989-2006). Lecciones de Física (4 volúmenes). Monytex. ISBN 84-404-4290-4. 84-398-9218-7, 84-398-9219-5, 84-604-4445-7. 
+Resnick,Robert & Krane, Kenneth S. (2001). Physics (en inglés). Nueva York: John Wiley & Sons. ISBN 0-471-32057-9. 
+Tipler, Paul A. (2000). Física para la ciencia y la tecnología (2 volúmenes). Barcelona: Ed. Reverté. ISBN 84-291-4382-3. 
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Aceleración.
+ Wikcionario  tiene definiciones y otra información sobre aceleración.
+Serie de vídeos explicativos sobre la aceleración en caída libre en YouTube.
+Chile Científico: Análisis del Movimiento Circular
+Acceleration and free fall - Un capítulo del libro de texto, en línea (en inglés)
+Science aid: Movement (en inglés)
+Science.dirbix: Acceleration (en inglés)
+Acceleration Calculator (en inglés)
+Motion Characteristics for Circular Motion (en inglés)

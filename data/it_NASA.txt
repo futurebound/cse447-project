@@ -1,0 +1,249 @@
+La NASA (/ˈnaza/), acronimo di National Aeronautics and Space Administration (in italiano: "Ente Nazionale per le attività Spaziali e Aeronautiche"), è l'agenzia governativa civile responsabile del programma spaziale e della ricerca aerospaziale degli Stati Uniti d'America.
+Dopo il Programma Apollo per l'esplorazione della Luna, l'attività spaziale si è sviluppata attraverso il programma della stazione orbitale statunitense SkyLab, il lancio di numerose missioni di esplorazione del sistema solare con sonde automatiche e lo sfruttamento dello spazio orbitale terrestre con le navette Space Shuttle e supportando la costruzione della ISS (Stazione Spaziale Internazionale).
+La perdita di due Space Shuttle con i relativi equipaggi e i tagli di bilancio hanno indotto l'agenzia ad accantonare i progetti per nuove esplorazioni lunari con equipaggio umano e per l'invio di astronauti su Marte, la cui esplorazione continuerà a essere demandata a sistemi robotizzati. Il 14 settembre 2011 ha annunciato di aver selezionato il progetto per un nuovo sistema di trasporto con equipaggio umano, denominato Space Launch System, destinato a prendere il posto degli Space Shuttle.
+
+
+== Fondazione ==
+Dal 1946, il National Advisory Committee for Aeronautics (NACA) aveva sperimentato aerei a razzo come il supersonico Bell X-1. All'inizio degli anni '50, fu lanciata una sfida per il lancio di un satellite artificiale per l'Anno Geofisico Internazionale (1957-1958), che portò, tra gli altri, al progetto americano Vanguard. Dopo il lancio sovietico del primo satellite artificiale al mondo (Sputnik 1) il 4 ottobre 1957, l'attenzione degli Stati Uniti si rivolse ai propri sforzi spaziali ancora in erba. Il Congresso degli Stati Uniti, allarmato dalla minaccia percepita alla sicurezza nazionale e alla leadership tecnologica dell'Unione Sovietica  (nota come "crisi dello Sputnik"), ha sollecitato un'azione immediata e rapida; Il presidente Dwight D. Eisenhower e i suoi consiglieri hanno consigliato misure più deliberate. Il 12 gennaio 1958, il NACA organizzò un "Comitato speciale per la tecnologia spaziale", guidato da Guyford Stever. Il 14 gennaio 1958, il direttore della NACA Hugh Dryden pubblicò "Un programma di ricerca nazionale per la tecnologia spaziale" affermando:
+Il 29 luglio 1958, Eisenhower firmò il National Aeronautics and Space Act, istituendo la NASA. Quando iniziò le operazioni il 1 ° ottobre 1958, la NASA assorbì intatto il NACA, i suoi 8.000 dipendenti, un budget annuale di 100 milioni di dollari, tre importanti laboratori di ricerca (Langley Aeronautical Laboratory, Ames Aeronautical Laboratory e Lewis Flight Propulsion Laboratory) e due piccole strutture di prova.Elementi della Army Balistic Missile Agency e del laboratorio di ricerca navale degli Stati Uniti sono stati incorporati nella NASA. Un contributo significativo nei programmi della NASA nella corsa allo spazio con l'Unione Sovietica fu la tecnologia del programma missilistico tedesco guidato da Wernher von Braun, che ora lavorava per l'Agenzia dell'esercito balistico missilistico (ABMA). Precedenti sforzi di ricerca all'interno della US Air Force e molti dei primi programmi spaziali dell'ARPA furono trasferiti anche alla NASA. Nel dicembre del 1958, la NASA ottenne il controllo del Jet Propulsion Laboratory, una struttura di appaltatori gestita dal California Institute of Technology.
+
+
+== Programmi Spaziali ==
+La NASA ha condotto molti programmi di volo spaziale con equipaggio e senza equipaggio nel corso della sua storia. I programmi Uncrewed lanciarono i primi satelliti artificiali americani nell'orbita terrestre per scopi scientifici e di comunicazione e inviarono sonde scientifiche per esplorare i pianeti del sistema solare, a partire da Venere e Marte. I programmi dell'equipaggio mandarono i primi americani in orbita terrestre bassa, vinsero la Corsa allo spazio con l'Unione Sovietica facendo sbarcare dodici uomini sulla Luna dal 1969 al 1972 nel programma Apollo, svilupparono lo Space Shuttle un veicolo semi-riutilizzabile e svilupparono la stazione spaziale internazionale  con la cooperazione di diverse altre nazioni tra cui la Russia post-sovietica. Alcune missioni includono aspetti sia con equipaggio che senza equipaggio, come la sonda Galileo, che è stata dispiegata dagli astronauti nell'orbita terrestre prima di essere inviata senza equipaggio a Giove.
+
+
+=== Programmi con equipaggio ===
+I programmi sperimentali di aeromobili a propulsione avviati dalla NACA sono stati estesi dalla NASA come supporto per i voli spaziali con equipaggio. Questo è stato seguito da un programma di capsule spaziali per un solo uomo e, a sua volta, da un programma per capsule per due uomini. Reagendo alla perdita del prestigio nazionale e ai timori per la sicurezza causati dai primi indizi nell'esplorazione spaziale da parte dell'Unione Sovietica, nel 1961 il presidente John F. Kennedy propose l'ambizioso obiettivo "di far sbarcare un uomo sulla Luna entro la fine degli anni '60, e riportandolo in salvo sulla Terra". Questo obiettivo è stato raggiunto nel 1969 dal programma Apollo e la NASA ha pianificato attività ancora più ambiziose che hanno portato a una missione umana su Marte. Tuttavia, la riduzione della minaccia percepita e il cambiamento delle priorità politiche hanno causato quasi immediatamente la conclusione della maggior parte di questi piani. La NASA rivolse la sua attenzione a un laboratorio spaziale temporaneo e ad una navetta orbitale terrestre semi riutilizzabile. Negli anni '90 furono approvati finanziamenti per la NASA per lo sviluppo di una stazione spaziale orbitale terrestre permanente in collaborazione con la comunità internazionale, che ora includeva l'ex rivale, la Russia post-sovietica.
+
+
+==== Velivolo X-15 ====
+
+Il North American X-15 era un velivolo di ricerca ipersonico sperimentale alimentato a razzo, sviluppato dalla NACA in collaborazione con la US Air Force e la Marina. Il design presentava una sottile fusoliera con carenature laterali contenenti carburante e primi sistemi di controllo computerizzati. Dodici piloti sono stati selezionati per il programma dalla Air Force, Navy e NACA. Un totale di 199 voli furono effettuati tra il 1959 e il 1968, risultando il record mondiale ufficiale per la massima velocità mai raggiunta da un aereo a motore con equipaggio con una velocità massima di 7,273 km / h. Il record di altitudine per X-15 è stato di 107,96 km.
+
+
+==== Programma Mercury (1958–1963) ====
+
+Poco dopo l'inizio della corsa allo spazio, uno degli obiettivi iniziale era quello di portare una persona in orbita terrestre il più presto possibile: il veicolo più adatto allo scopo era il missile più semplice che poteva essere lanciato. 
+Il programma Man in Space Soonest della US Air Force prese in considerazione molti progetti di veicoli spaziali con equipaggio, che spaziavano da aerei a razzo come l'X-15 a piccole capsule spaziali balistiche. Nel 1958, i concetti del piano spaziale furono eliminati a favore della capsula balistica. Quando la NASA fu creata lo stesso anno, vi fu il trasferimento del programma dell'aeronautica con il passaggio del nome a programma Mercury. I primi sette astronauti furono selezionati tra i candidati dei programmi pilota di test della Marina e dell'Aeronautica. Il 5 maggio 1961, l'astronauta Alan Shepard divenne il primo americano nello spazio a bordo del Freedom 7, lanciato da un booster Redstone su un volo balistico suborbitale di 15 minuti.Successivamente John Glenn divenne il primo americano ad essere lanciato in orbita: il 20 febbraio 1962 a bordo di Friendship 7, lanciata tramite un razzo Atlas, completò tre orbite, cui seguirono altri tre voli orbitali.
+
+
+==== Programma Gemini (1961–1966) ====
+
+Basato su studi per accrescere le capacità dei veicoli spaziali Mercury su voli di lunga durata, sviluppando tecniche di incontro spaziale e atterraggi di precisione sulla Terra, il programma Gemini fu avviato come programma per due persone nel 1962 per superare il vantaggio dei sovietici e sostenere il programma lunare con equipaggio Apollo. Il primo volo Gemini con equipaggio, Gemini 3, fu pilotato da Gus Grissom e John Young il 23 marzo 1965. Seguirono 9 missioni nel 1965 e nel 1966, dimostrando una capacità di resistenza di quasi quattordici giorni, con lo svolgimento di un'attività extraveicolare (EVA) e la raccolta di dati medici sugli effetti dell'assenza di gravità sull'uomo.
+
+
+==== Programma Apollo (1961–1972) ====
+Il 25 maggio del 1961 il presidente statunitense John F. Kennedy annunciò al Congresso che gli Stati Uniti sarebbero riusciti a mandare i propri astronauti sulla Luna entro la fine di quel decennio. Sebbene ufficializzato in concomitanza con l'annuncio del presidente Kennedy, il programma Apollo era già stato teorizzato dal 1959.Il programma fu articolato in una serie di test e missioni con e senza equipaggio umano e fu segnato da un tragico incidente che il 27 gennaio 1967 costò la vita a tre astronauti, uccisi da un incendio scoppiato durante una prova a terra in vista della missione Apollo 1.La NASA investì nel programma fino al 60% delle proprie risorse.
+Nel 1967 la NASA contava 36 000 addetti (un aumento del 450% rispetto al momento della sua nascita nel 1958) e disponeva di un budget pari a 5 miliardi di dollari (5 000% superiore rispetto a quello del 1958) e faceva ampio ricorso a contratti e appalti esterni, al punto che nel 1965 le aziende esterne impiegavano 376 700 lavoratori nei programmi dell'ente.
+Nei suoi primi dieci anni di attività la NASA costruì nuovi centri per la ricerca e sviluppo e per la gestione delle attività aerospaziali: il Goddard Space Flight Center, il Manned Spacecraft Center, il Kennedy Space Center e l'Electronics Research Center.
+Il programma Apollo raggiunse la sua meta il 20 luglio 1969, con l'allunaggio dell'Apollo 11. Neil Armstrong, primo uomo a toccare il suolo lunare, nella circostanza pronunciò la celebre frase "un piccolo passo per un uomo, un enorme salto per l'umanità".
+Altri dieci astronauti allunarono nelle successive missioni Apollo, l'ultima delle quali ebbe luogo nel dicembre 1972.
+
+
+==== Skylab (1965–1979) ====
+Skylab è stata la prima e unica stazione spaziale costruita indipendentemente dagli Stati Uniti. 
+Concepita nel 1965 come base da costruire nello spazio da uno stadio superiore di un Saturno IB esaurito, la stazione di 77.088 kg fu costruita sulla Terra e lanciata il 14 maggio 1973, in cima ai primi due stadi di un Saturno V, in un'orbita di 435 km inclinata di 50 ° rispetto all'equatore. Vi fu un danneggiamento durante il lancio a causa della perdita della protezione termica e di un pannello solare che genera elettricità, è stato riparato alla funzionalità dal suo primo equipaggio.
+Fu occupata per un totale di 171 giorni da 3 equipaggi successivi nel 1973 e nel 1974. Comprendeva un laboratorio per studiare gli effetti della microgravità e un osservatorio solare.  La NASA progettò di avere un dock per lo Space Shuttle e di elevare Skylab a un'altitudine di sicurezza più elevata, ma lo Shuttle non era pronto per il volo prima del rientro di Skylab l'11 luglio 1979.  Per risparmiare sui costi, la NASA ha usato uno dei razzi Saturno V originariamente destinato a una missione Apollo annullata per lanciare lo Skylab. I veicoli spaziali Apollo venivano usati per trasportare gli astronauti da e verso la stazione. Tre equipaggi di tre uomini rimasero a bordo della stazione per periodi di 28, 59 e 84 giorni. Il volume abitabile di Skylab era di 320 m
+  
+    
+      
+        
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle ^{\text{3}}}
+  , 30,7 volte più grande di quello del modulo di comando Apollo.
+
+
+==== Programma Space Shuttle (1972–2011) ====
+Nel 1981 l'ente spaziale statunitense entrò in una nuova era con il lancio dello Space Shuttle Columbia avvenuto il 12 aprile di quell'anno.
+Lo Space Shuttle era un sistema basato su due componenti principali: il complesso di lancio basato su due razzi recuperabili e su un serbatoio a perdere, e una capiente navetta spaziale riutilizzabile in grado di trasportare astronauti, specialisti ed equipaggiamenti in orbita terrestre.
+La flessibilità e adattabilità delle navette spaziali (di cui sono stati realizzati un prototipo e cinque esemplari operativi) si è tradotta in un elevato numero di missioni: 135 nell'arco di 30 anni.Il programma Space Shuttle ha subito due battute d'arresto in conseguenza di due tragici incidenti che hanno provocato la distruzione delle navette Challenger nel 1986 e Columbia nel 2003, con la perdita dei relativi equipaggi. Il programma ha avuto termine l'8 luglio del 2011 con l'ultimo volo dell'ultima navetta operativa, l'Atlantis.
+
+
+==== Stazione Spaziale Internazionale  (1993–presente) ====
+
+La Stazione Spaziale Internazionale (ISS) combina il progetto Freedom della Stazione Spaziale della NASA con la stazione Mir-2 sovietica/russa, la stazione europea Columbus e il modulo di laboratorio giapponese Kibō. La NASA aveva originariamente progettato negli anni '80 di sviluppare da sola la stazione Freedom, ma i vincoli di bilancio statunitensi hanno portato alla fusione di questi progetti in un unico programma multinazionale nel 1993, gestito dalla NASA, dall'agenzia spaziale federale russa (RKA), dall'agenzia di esplorazione aerospaziale giapponese (JAXA), dall'agenzia spaziale europea (ESA) e dall'agenzia spaziale canadese (CSA). La stazione è composta da moduli pressurizzati, capriate esterne, pannelli solari e altri componenti che sono stati prodotti in varie fabbriche in tutto il mondo e sono stati lanciati dai razzi russi Proton e Soyuz e dalle navette spaziali statunitensi.I membri dell'equipaggio della spedizione in genere trascorrono circa sei mesi sulla ISS. Le dimensioni iniziali dell'equipaggio della spedizione erano tre, temporaneamente ridotte a due in seguito al disastro del Columbia, mentre dal maggio 2009, il numero di componenti è stato di sei membri. La ISS è stata continuamente occupata negli ultimi 20 anni, superando il precedente record detenuto dalla Mir ed è stata visitata da astronauti e cosmonauti di 15 nazioni diverse.
+Il programma ISS dovrebbe continuare fino al 2030. Il 29 marzo 2019, si è svolta la prima passeggiata spaziale tutta al femminile, con protagoniste Anne McClain e Christina Koch.
+
+
+==== Programmi commerciali (2006–presente) ====
+
+Il 23 dicembre 2008, la NASA ha assegnato contratti di servizi di fornitura commerciale a SpaceX e Orbital Sciences Corporation. SpaceX utilizza il razzo Falcon 9 e la navicella spaziale Dragon, mentre Orbital Sciences il razzo Antares e la navicella spaziale Cygnus. La prima missione di rifornimento di Dragon si è svolta nel maggio 2012, mentre la prima di Cygnus nel settembre 2013. Il programma CRS provvede a tutte le esigenze americane di trasporto merci verso la ISS, ad eccezione di alcuni carichi utili specifici per i veicoli che vengono consegnati sull'ATV europeo e sull'HTV giapponese.
+Nel 2010, quando la NASA ha annunciato i vincitori della prima fase del programma, un totale di 50 milioni di dollari è stato diviso tra cinque società americane per favorire la ricerca e lo sviluppo di concetti e tecnologie di volo spaziale umano nel settore privato. Nel 2011 sono stati annunciati i vincitori della seconda fase del programma e 270 milioni di dollari sono stati suddivisi in quattro società. Nel 2012 sono stati annunciati i vincitori della terza fase del programma: NASA ha fornito 1,1 miliardi di dollari suddivisi tra tre società per sviluppare ulteriormente i loro sistemi di trasporto dell'equipaggio. Nel 2014 sono stati annunciati i vincitori del round finale, ovvero Dragon V2 di SpaceX (previsto per essere lanciata su Falcon 9 v1.1) ha ricevuto un contratto valutato fino a 2,6 miliardi di dollari, e CST-100 di Boeing (che sarà lanciata su un Atlas V) fino a 4,2 miliardi di dollari.
+Sabato 30 maggio 2020 è avvenuto con successo il primo decollo di con una Crew Dragon di SpaceX con umani a bordo, gli astronauti Doug Hurley e Bob Behnken. Il giorno seguente, domenica 31 maggio, ha attraccato alla Stazione Spaziale Internazionale.
+
+
+==== Programma Constellation (2005–2009) ====
+
+Mentre il programma Space Shuttle era sospeso dopo la perdita della Columbia, il presidente George W. Bush annunciò la Vision for Space Exploration: una strategia di esplorazione spaziale per riaccendere l'interesse dell'opinione pubblica dopo il disastro delle Space Shuttle Columbia. Il documento prevedeva inoltre il ritiro dello Space Shuttle dopo aver completato la Stazione Spaziale Internazionale. La NASA venne così incaricata di sviluppare e lanciare il Crew Exploration Vehicle (in seguito chiamato Orion) entro il 2010, per riportare gli americani sulla Luna entro il 2020 e in seguito andare su Marte. Il progetto venne nominato programma Constellation.
+Nel 2009, l'allora neoeletto presidente Barack Obama istituì il comitato per la revisione dei voli umani nello spazio degli Stati Uniti per determinare se fosse possibile un atterraggio sulla Luna entro il 2020 con il budget stanziato. Il comitato conclusoe che il programma era massicciamente sottofinanziato e che un atterraggio sulla Luna del 2020 sarebbe stato impossibile. Per questo motivo, il 15 aprile 2010 il presidente Obama annunciò al Kennedy Space Center i piani dell'amministrazione per la NAS, cancellando gli elementi non Orion di Costellation, per motivi di sottofinanziamento. Furono inoltre promessi 6 miliardi di dollari in finanziamenti aggiuntivi e venne richiesto lo sviluppo di un nuovo programma di missili pronto per la costruzione entro il 2015, con missioni con equipaggio in orbita su Marte entro la metà degli anni 2030.
+
+
+==== Programma Artemis (2017–presente) ====
+Il programma Artemis è un programma di volo spaziale con equipaggio in corso portato avanti principalmente dalla NASA, dalle aziende di voli spaziali commerciali statunitensi e da partner internazionali come l'Agenzia spaziale europea (ESA), la JAXA e la Canadian Space Agency (CSA) con l'obiettivo di far sbarcare "la prima donna e il prossimo uomo" sulla Luna, in particolare nella regione del polo sud lunare, entro il 2024. La NASA vede Artemis come il prossimo passo verso l'obiettivo a lungo termine di stabilire una presenza autosufficiente sulla Luna, gettare le basi per le società private per costruire un'economia lunare e infine mandare gli umani su Marte.
+L'attuale programma Artemis incorpora diversi componenti principali di altri programmi e missioni NASA cancellati, come il programma Constellation e la missione di reindirizzamento degli asteroidi. 
+
+Il 30 giugno 2017, il presidente Donald Trump ha firmato un ordine esecutivo per ristabilire il National Space Council, presieduto dal vicepresidente Mike Pence. La prima richiesta di bilancio dell'amministrazione Trump ha mantenuto i programmi di voli spaziali umani dell'era Obama: sviluppo dell'equipaggio commerciale, Space Launch System e la capsula dell'equipaggio Orion per le missioni nello spazio profondo, riducendo al contempo la ricerca scientifica sulla Terra e chiedendo l'eliminazione dell'ufficio di istruzione della NASA.Nel febbraio 2020, la Casa Bianca ha richiesto un aumento del finanziamento del 12% per coprire il programma Artemis nell'ambito del bilancio dell'esercizio 2021. Il budget totale sarebbe ora di 25,2 miliardi di dollari all'anno con 3,7 miliardi dedicati a un sistema di sbarco umano. Jeff DeWit, Chief Financial Officer della NASA, ha dichiarato di ritenere che l'agenzia abbia fatto un ottimo lavoro ottenendo questo budget attraverso il Congresso, nonostante le preoccupazioni democratiche riguardo al programma.
+
+
+=== Programmi senza equipaggio ===
+Più di 1000 missioni senza equipaggio sono state progettate per esplorare la Terra e il sistema solare. Oltre all'esplorazione, la NASA ha lanciato anche satelliti per le comunicazioni. Le missioni sono state lanciate direttamente dalla Terra o da navette spaziali, che possono posizionare il satellite direttamente in orbita.
+Il primo satellite senza equipaggio negli Stati Uniti fu l'Explorer 1, che iniziò come progetto ABMA / JPL durante la prima parte della Corsa allo Spazio. Fu lanciato nel gennaio del 1958, due mesi dopo lo Sputnik. Alla creazione della NASA, il progetto Explorer è stato trasferito all'agenzia e continua ancora oggi. Le sue missioni si sono concentrate sulla Terra e sul Sole, misurando i campi magnetici e il vento solare, tra gli altri aspetti. 
+Nel 1965 la NASA avviò anche il programma Pioneer (il cui nome richiamava quello di una serie di sonde lanciate verso la Luna tra il 1958 e il 1960). Le missioni Pioneer 10 (lanciata nel 1972) e Pioneer 11 (lanciata nel 1973) furono dedicate all'esplorazione di Giove e Saturno e quindi indirizzate verso lo spazio interstellare. Nel 1978 furono lanciate due sonde Pioneer Venus per l'esplorazione di Venere.
+Tra il 1966 e il 1968 furono lanciate sette sonde lunari nell'ambito del programma Surveyor che aveva lo scopo di verificare la fattibilità di allunaggi morbidi in previsione delle missioni con equipaggio umano. Due missioni Surveyor fallirono ma le altre cinque (compresa la prima) andarono a buon fine.Nel 1968 partì il programma Viking destinato all'esplorazione di Marte e nel 1975 furono lanciate alla volta del pianeta rosso le sonde Viking 1 e Viking 2, ciascuna composta da un modulo orbitante (orbiter) e un modulo di atterraggio (lander). La superficie marziana fu raggiunta l'anno seguente, il 1976, bicentenario della dichiarazione di indipendenza degli Stati Uniti.Nel 1974 e nel 1976 furono lanciate rispettivamente le sonde Helios A e Helios B, frutto di un programma congiunto condotto dalla NASA e dal ministero della ricerca della Germania. Le due sonde furono immesse in orbita eliocentrica per studiare il Sole e i suoi fenomeni fisici ed elettromagnetici. Helios 2 è stato il più veloce oggetto costruito dall'uomo, con una velocità pari a 241350 km/h misurata il 17 aprile 1976 dalla stazione di monitoraggio di Honeysuckle Creek.Nel 1989 furono lanciate la sonda Magellan destinata alla mappatura radar in alta risoluzione di Venere e la sonda Galileo destinata a studiare Giove e il suo sistema di lune.
+Nel 1990 venne messo in orbita il Telescopio Hubble. 
+Nel 1992 la NASA lanciò la missione Mars Observer ma perse i contatti con la sonda pochi giorni prima del suo arrivo in orbita marziana.Quattro anni dopo, nel 1996, l'agenzia lanciò la sonda Mars Global Surveyor che si inserì in orbita marziana l'anno seguente. I sensori della sonda hanno realizzato una completa mappatura fotografica in alta risoluzione della superficie di Marte. La sonda ha cessato di funzionare nel 2006 a causa di un inconveniente tecnico.
+
+Il 4 dicembre 1996, appena un mese dopo il lancio del Mars Global Surveyor, la NASA avviò la missione Mars Pathfinder, il cui scopo principale era quello di trasportare un veicolo robotizzato capace di muoversi autonomamente sulla superficie marziana. La sonda atterrò su Marte il 4 luglio del 1997 espellendo un rover (successivamente chiamato Sojourner) che fu il primo mezzo di questo genere a operare sul pianeta rosso. Le apparecchiature di missione fornirono dati utili fino al 27 settembre 1997, quando le comunicazioni si interruppero definitivamente.Nel 2003 furono lanciate le due sonde della missione Mars Exploration Rover (MER) che atterrarono l'anno successivo su Marte e dispiegarono due rover robotizzati, battezzati Spirit e Opportunity, utilizzate per un complesso programma di esplorazione. Il rover Spirit ha funzionato fino al 2010, il rover Opportunity è rimasto efficiente ed è ancora impegnato nella sua missione esplorativa.
+
+
+==== Attività (2005-Presente) ====
+Nel 2005 la NASA ha lanciato la sonda Deep Impact destinata a intercettare la cometa 9P/Tempel. Giunta in prossimità dell'obiettivo, la sonda ha rilasciato un penetratore che ha colpito il nucleo della cometa provocando l'emissione di gas e detriti che sono stati studiati grazie ai sensori della sonda madre. Dopo la missione, la traiettoria della sonda Deep Impact è stata modificata per studiare altri oggetti, come la cometa 103P/Hartley raggiunta il 4 novembre 2010.Il 6 agosto 2012 atterra con successo su Marte il rover "Curiosity", un robot del costo di due miliardi e mezzo di dollari e dal peso di circa 900 kg avente il compito, per un periodo previsto di due anni, di cercare ed analizzare fossili, minerali e altri segni di vita sul pianeta rosso.
+Dal 2012 la NASA organizza l'International Space Apps Challenge, un hackathon internazionale di 48 ore dedicato alla tecnologia spaziale e alle sue applicazioni terrestri. Si tiene ogni anno (dal 2012) in un weekend di Aprile. L'I.S.A.C. fa parte dell'Open Government Iniziative voluta dal Presidente Barack Obama.
+Il James Webb Space Telescope (JWST) è attualmente in programma per il lancio ad ottobre 2021.
+
+
+== Rilevamenti NEO ==
+Nel 1994, c'era una direttiva del Congresso per trovare oggetti vicino alla Terra dell'inglese near-Earth objects (NEO) più grandi di 1 chilometro, e si stima che il 90% degli asteroidi della dimensione di 1 chilometro fosse stato trovato entro il 2010.
+
+La NASA ha visitato per la prima volta un asteroide vicino alla Terra con una sonda nel 1998, l'asteroide 433 Eros.
+Nel 2005, il Congresso degli Stati Uniti ha incaricato la NASA di raggiungere entro il 2020 specifici livelli di completezza della ricerca per scoprire, catalogare e caratterizzare asteroidi pericolosi più grandi di 140 metri, ma non sono stati stanziati nuovi fondi per questo sforzo. A partire da gennaio 2019, si stima che sia stato trovato circa il 40% dei NEO di queste dimensioni, anche se poiché per sua natura la quantità esatta di NEO è sconosciuta, i calcoli si basano su previsioni di quanti potrebbero esserci.
+
+
+== Ricerca ==
+La NASA ha fatto uso di tecnologie come il generatore termoelettrico radioisotopico multi-missione (MMRTG), che è un tipo di generatore termoelettrico radioisotopico utilizzato nelle missioni spaziali. La carenza del necessario plutonio-238 ha ridotto le missioni nello spazio profondo dall'inizio del millennio. Un esempio di un veicolo spaziale che non è stato sviluppato a causa della carenza di questo materiale è stato New Horizons 2. 
+Il programma di ricerca sulle scienze della Terra è stato creato e finanziato per la prima volta negli anni '80 sotto le amministrazioni di Ronald Reagan e George H.W. Bush.
+La NASA ha lanciato una competizione annuale nel 2014 denominata Cubes in Space. È organizzato congiuntamente dalla NASA e dalla società di istruzione globale I Doodle Learning, con l'obiettivo di insegnare agli studenti delle scuole di età compresa tra 11 e 18 anni a progettare e costruire esperimenti scientifici da lanciare nello spazio su un razzo o un pallone della NASA. Il 21 giugno 2017 è stato lanciato il satellite più piccolo del mondo, Kalam SAT, costruito da un team indiano.
+
+
+=== Ricerche sul clima ===
+La NASA ricerca e pubblica anche sui cambiamenti climatici. Le dichiarazioni della NASA concordano con il consenso scientifico globale sul fatto che il clima globale si stia riscaldando. Bob Walker, che ha consigliato al presidente degli Stati Uniti Donald Trump su questioni relative allo spazio, ha sostenuto che la NASA dovrebbe concentrarsi sull'esplorazione dello spazio e che le sue operazioni di studio sul clima dovrebbero essere trasferite ad altre agenzie come il NOAA. L'ex scienziato atmosferico della NASA J. Marshall Shepherd ha ribattuto che lo studio delle scienze della Terra è stato integrato nella missione della NASA al momento della sua creazione nel National Aeronautics and Space Act del 1958.
+
+
+== Programmi futuri ==
+
+
+=== New Frontiers Program ===
+La NASA ha in corso un programma di esplorazione spaziale a mezzo sonde automatiche denominato Programma New Frontiers. Nell'ambito di questo programma, nel 2006 l'agenzia ha avviato la missione Pluto's New Horizon con il lancio di una sonda che ha raggiunto il sistema Caronte-Plutone nel 2015. Il 5 agosto del 2011 ha lanciato la sonda Juno che ha raggiunto Giove il 5 luglio 2016.
+
+
+==== Space Launch System ====
+Il programma SLS è stato avviato per offrire alla NASA un vettore capace di colmare il vuoto creatosi con la dismissione degli Space Shuttle. La configurazione del nuovo vettore è stata congelata nel 2011. Il sistema consentirà di portare in orbita un carico utile di circa 77 tonnellate, compresa la navicella Orion MPCV (Multi Purpose Crew Vehicle) che consentirà di ospitare fino a 4 astronauti per periodi di oltre 20 giorni. Il primo lancio del vettore SLS, in origine previsto per il 2017, è stato posticipato al 2020.
+
+
+==== Creazione di una rete di sorveglianza per droni ====
+Nel 2015 la NASA ha annunciato la propria collaborazione con Verizon, il più grande operatore telefonico degli USA, che porterà alla creazione di una rete per controllare e sorvegliare il traffico aereo di droni civili e commerciali dalla sua rete di ripetitori per i telefoni.
+
+
+==== NextGen ====
+Il programma Next Generation Air Transportation System è stato lanciato con l'ambizioso obiettivo di mettere in servizio entro il 2025 una nuova generazione di aerei per il trasporto passeggeri e cargo, più sicuri, affidabili ed economici. Il programma integra anche una nuova concezione del sistema di controllo del traffico aereo. Nel 2010 sono stati selezionati alcuni progetti per l'espletamento di verifiche e test nel corso del 2011.
+
+
+== Strutture e direzione ==
+
+
+=== Infrastrutture principali ===
+Oltre al quartier generale di Washington, la NASA può contare anche sulle seguenti infrastrutture e centri spaziali:
+
+Ames Research Center, Moffett Field, California
+Dryden Flight Research Center, Edwards, California
+John H. Glenn Research Center at Lewis Field, Cleveland, Ohio
+Goddard Space Flight Center, Greenbelt, Maryland
+Goddard Institute for Space Studies, New York, New York
+Independent Verification and Validation Facility, Fairmont, Virginia Occidentale
+Wallops Flight Facility, Wallops Island, Virginia
+Jet Propulsion Laboratory, vicino a Pasadena, California
+Stazioni del Deep Space Network:
+Goldstone Deep Space Communications Complex, Barstow, California
+Madrid Deep Space Communication Complex, Madrid, Spagna
+Canberra Deep Space Communications Complex, Canberra, Australia
+Lyndon B. Johnson Space Center, Houston, Texas
+White Sands Test Facility, Las Cruces, Nuovo Messico
+John F. Kennedy Space Center, Florida
+Langley Research Center, Hampton, Virginia
+George C. Marshall Space Flight Center, Huntsville, Alabama
+Michoud Assembly Facility, New Orleans, Louisiana
+John C. Stennis Space Center, Bay St. Louis, Mississippi
+
+
+== Amministrazione ==
+L'amministratore della NASA, è nominato dal Presidente degli Stati Uniti con l'approvazione del Senato degli Stati Uniti, riferisce a lui o lei e funge da consulente senior in scienze spaziali. Il nominato di solito è associato al partito politico del Presidente (democratico o repubblicano) e di solito viene scelto un nuovo amministratore quando la presidenza cambia partito.
+
+
+=== Lista degli amministratori ===
+Dr. T. Keith Glennan, 19.08.1958 - 20.01.1961
+Dr. Hugh L. Dryden, 21.01.1961 - 14.02.1961 (Facente funzioni)
+James E. Webb, 14.02.1961 - 07.10.1968
+Dr. Thomas O. Paine, 08.10.1968 - 21.03.1969 (Facente funzioni)
+Dr. Thomas O. Paine, 21.03.1969 - 15.09.1970
+Dr. George M. Low, 16.09.1970 - 26.04.1971 (Facente funzioni)Dr. James C. Fletcher, 27.04.1971 - 01.05.1977
+Dr. Alan M. Lovelace, 02.05.1977 - 20.06.1977 (Facente funzioni)
+Dr. Robert A. Frosch, 21.06.1977 - 20.01.198
+Dr. Alan M. Lovelace, 21.01.1981 - 10.07.1981 (Facente funzioni)
+James M. Beggs, 10.07.1981 - 04.12.1985
+Dr. William R. Graham, 04.12.1985 - 11.05.1986 (Facente funzioni)
+Dr. James C. Fletcher, 12.05.1986 - 08.04.1989
+Dale D. Myers, 08.04.1989 - 13.05.1989 (Facente funzioni)
+Richard H. Truly, 14.05.1989 - 30-06.1989 (Facente funzioni)
+Richard H. Truly, 01.07.1989 - 31.03.1992
+Daniel S. Goldin, 01.04.1992 - 17.11.2001
+Dr. Daniel R. Mulville, 19.11.2001 - 21.12.2001 (Facente funzioni)
+Sean O'Keefe, 21.12.2001 - 11.02.2005
+Frederick D. Gregory, 11.02.2005 - 14.04.2005 (Facente funzioni)
+Dr. Michael Griffin, 14.04.2005 - 20.01.2009
+Christopher Scolese, 21.01.2009 - 16.07.2009 (Facente funzioni)
+Charles F. Bolden, dal 17.07.2009 - 20.01.2017
+Robert M. Lightfoot Jr., dal 20.01.2017 (Facente funzioni)
+Jim Bridenstine dal 19.04.2018
+
+
+== Note ==
+
+
+== Voci correlate ==
+CNES
+Agenzia Spaziale Italiana
+Astronauta
+Agenzia Spaziale Europea
+Luna
+Marte (astronomia)
+NIAC
+NACA
+Programma spaziale sovietico
+Agenzia Spaziale Russa
+ARCADE (NASA)
+NASA Office of Inspector General
+International Space Apps Challenge
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «NASA»
+ Wikinotizie contiene notizie di attualità su NASA
+ Wikimedia Commons contiene immagini o altri file su NASA Wikinotizie contiene l'articolo La NASA annuncia la scoperta di un nuovo sistema solare
+
+
+== Collegamenti esterni ==
+
+(EN) Sito ufficiale, su nasa.gov (archiviato il 31 dicembre 1996). 
+(EN) Blog ufficiale, su blogs.nasa.gov (archiviato il 30 giugno 2007). 
+ NASA (canale), su YouTube. 
+ NASA, su sapere.it, De Agostini. 
+(EN) NASA, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ Opere di NASA, su openMLOL, Horizons Unlimited srl. 
+(EN) Opere di United States. National Aeronautics and Space Administration. / National Aeronautics and Space Administration, su Open Library, Internet Archive. 
+(EN) Opere di NASA, su Progetto Gutenberg. 
+(EN) Opere riguardanti United States. National Aeronautics and Space Administration / NASA, su Open Library, Internet Archive. 
+(EN) Edizioni di NASA, su Internet Speculative Fiction Database, Al von Ruff. 
+(EN) National Aeronautics and Space Administration, su Goodreads. 
+(EN) NASA, su GitHub. 
+(EN) NASA, su MusicBrainz, MetaBrainz Foundation. 
+(EN) NASA, su SoundCloud. 
+ Sito ufficiale del JPL, su jpl.nasa.gov.
+ Centri NASA, su nasa.gov.
+ Amministratori e manager della NASA, su hq.nasa.gov.

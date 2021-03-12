@@ -1,0 +1,611 @@
+En física y química, la densidad (del latín densĭtas, -ātis) es una magnitud escalar referida a la cantidad de masa en un determinado volumen de una sustancia o un objeto sólido. Usualmente se simboliza mediante la letra rho ρ del alfabeto griego. 
+
+
+== Historia ==
+Según una historia popular, Arquímedes recibió el encargo de determinar si el orfebre de Hierón II de Siracusa desfalcaba el oro durante la fabricación de una corona dedicada a los dioses, sustituyéndolo por otro metal más barato (proceso conocido como aleación).[1]​ Arquímedes sabía que la corona, de forma irregular, podría ser aplastada o fundida en un cubo cuyo volumen se podía calcular fácilmente comparado con la masa. Pero el rey no estaba de acuerdo con estos métodos, pues habrían supuesto la destrucción de la corona del rey.
+Arquímedes se dio un relajante baño de inmersión, y observando la subida del agua caliente cuando él entraba en ella, descubrió que podía calcular el volumen de la corona de oro mediante el desplazamiento del agua. Hallado el volumen, se podía multiplicar por la densidad del oro hallando el peso que debería tener si fuera de oro puro (la densidad del oro es muy alta, 19 300 kg/m³, y cualquier otro metal, aleado con él, la tiene menor), luego si el peso no fuera el que correspondería si fuera de oro, significaría que la corona tendría aleación de otro metal. 
+Supuestamente, al hacer este descubrimiento salió corriendo desnudo por las calles gritando: «¡Eureka! ¡Eureka!» (Εύρηκα! en griego, que significa: «!!Lo encontré!!»). Como resultado, el término "Eureka» entró en el lenguaje común, y se utiliza hoy para indicar un momento de iluminación.
+La historia apareció por primera vez de forma escrita en De Architectura, de Marco Vitruvio, dos siglos después de que supuestamente tuviese lugar.[2]​ Sin embargo, algunos estudiosos han dudado de la veracidad de este relato, diciendo (entre otras cosas) que el método habría exigido medidas exactas que habrían sido difíciles de hacer en ese momento.[3]​[4]​
+Otra versión de la historia dice que Arquímedes notó que experimentaba un empuje hacia arriba al estar sumergido en el agua, y pensó que, pesando la corona, sumergida en agua, y en el otro platillo de la balanza poniendo el mismo peso en oro, también sumergido, la balanza estaría equilibrada si la corona era, efectivamente, de oro. Ciertamente, el empuje hacia arriba del agua sería igual si en los dos platillos había objetos del mismo volumen y el mismo peso. Con ello, la dificultad de conocer con exactitud el volumen del sólido de forma irregular, en la época, se dejaba de lado. De esta otra versión nació la idea del principio de Arquímedes. 
+Mucho más tarde, nació el concepto de densidad entre los científicos, en tiempos en que las unidades de medida eran distintas en cada país. Para evitar expresarlo en términos de las diversas unidades de medida usuales para cada cual, y no tener que hacer las necesarias conversiones, los físicos asignaron a cada materia un número, adimensional, que era la relación entre la masa de esa materia y la de un volumen igual de agua pura, sustancia que se encontraba en cualquier laboratorio (densidad relativa). Cuando se fijó la unidad de peso en el sistema métrico decimal, el kilogramo, como un decímetro cúbico (un litro) de agua pura, la cifra empleada hasta entonces, coincidió con la densidad absoluta (si se mide en kilogramos por litro, unidad de volumen en el viejo sistema métrico decimal, aunque aceptada por el SI, y no en kilogramos por metro cúbico, que es la unidad de volumen en el SI).
+
+
+== Tipos de densidad ==
+
+
+=== Densidad absoluta ===
+La densidad o densidad absoluta, es la magnitud que expresa la relación entre la masa y el volumen de una sustancia o un objeto sólido . Su unidad en el Sistema Internacional es kilogramo por metro cúbico (kg/m³), aunque frecuentemente también es expresada en g/cm³.  La densidad es una magnitud intensiva.También se puede expresar como 
+
+  
+    
+      
+        ρ
+        =
+        
+          
+            
+              k
+              g
+            
+            
+              m
+              
+                3
+              
+            
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {kg}{m^{3}}}}
+                           ,                        
+  
+    
+      
+        ρ
+        =
+        
+          
+            g
+            
+              m
+              l
+            
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {g}{ml}}}
+                                 O                                
+  
+    
+      
+        ρ
+        =
+        
+          
+            g
+            
+              c
+              
+                m
+                
+                  3
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {g}{cm^{3}}}}
+  
+
+
+=== Densidad relativa ===
+
+La densidad relativa de una sustancia es la relación existente entre su densidad y la de otra sustancia de referencia; en consecuencia, es una magnitud adimensional (sin unidades)
+
+Para los líquidos y los sólidos, la densidad de referencia habitual es la del agua líquida a la presión de 1 atm y la temperatura de 4 °C. En esas condiciones, la densidad absoluta del agua destilada es de 1000 kg/m³, es decir, 1 kg/dm³.
+Para los gases, la densidad de referencia habitual es la del aire a la presión de 1 atm y la temperatura de 0 °C.
+
+
+=== Densidad media y densidad puntual ===
+Para un sistema homogéneo, la expresión masa/volumen puede aplicarse en cualquier región del sistema obteniendo siempre el mismo resultado.
+Sin embargo, un sistema heterogéneo no presenta la misma densidad en partes diferentes. En este caso, hay que medir la "densidad media", dividiendo la masa del objeto por su volumen o la "densidad puntual" que será distinta en cada punto, posición o porción "infinitesimal" del sistema, y que vendrá definida por:
+
+  
+    
+      
+        ρ
+        =
+        
+          lim
+          
+            V
+            →
+            0
+          
+        
+        
+          
+            m
+            V
+          
+        
+        =
+        
+          
+            
+              d
+              m
+            
+            
+              d
+              V
+            
+          
+        
+      
+    
+    {\displaystyle \rho =\lim _{V\to 0}{\frac {m}{V}}={\frac {dm}{dV}}}
+  
+
+Sin embargo, debe tenerse en cuenta que las hipótesis de la mecánica de medios continuos solo son válidas hasta escalas de 10-8 m, ya que a escalas atómicas la densidad no está bien definida. Por ejemplo, el tamaño del núcleo atómico es aproximadamente de 10-13 m y en él se concentra la inmensa mayor parte de la masa atómica, por lo que su densidad (2,3·1017  kg/m³) es muy superior a la de la materia ordinaria. Es decir, a escala atómica la densidad dista mucho de ser uniforme, ya que los átomos están esencialmente vacíos, con prácticamente toda la masa concentrada en el núcleo atómico.
+
+
+=== Densidad aparente ===
+La densidad aparente es una magnitud aplicada en materiales de constitución heterogénea, y entre ellos, los porosos como el suelo, los cuales forman cuerpos heterogéneos con intersticios de aire u otra sustancia, de forma que la densidad total de un volumen del material es menor que la densidad del material poroso si se compactase. En el caso de un material mezclado con aire se tiene:
+
+  
+    
+      
+        
+          ρ
+          
+            a
+            p
+          
+        
+        =
+        
+          
+            
+              m
+              
+                a
+                p
+              
+            
+            
+              V
+              
+                a
+                p
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                m
+                
+                  r
+                
+              
+              +
+              
+                m
+                
+                  a
+                  i
+                  r
+                  e
+                
+              
+            
+            
+              
+                V
+                
+                  r
+                
+              
+              +
+              
+                V
+                
+                  a
+                  i
+                  r
+                  e
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \rho _{ap}={\frac {m_{ap}}{V_{ap}}}={\frac {m_{r}+m_{aire}}{V_{r}+V_{aire}}}}
+  
+
+La densidad aparente de un material no es una propiedad intrínseca del material y depende de su compactación. La densidad aparente del suelo (
+  
+    
+      
+        
+          ρ
+          
+            a
+            p
+          
+        
+      
+    
+    {\displaystyle \rho _{ap}}
+  ) se obtiene secando una muestra de suelo de un volumen conocido a 105 °C hasta peso constante.
+
+Se debe considerar que para muestras de suelo que varíen su volumen al momento del secado, como suelos con alta concentración de arcillas 2:1, se debe expresar el contenido de agua que poseía la muestra al momento de tomar el volumen.
+En construcción se considera la densidad aparente de elementos de obra, como por ejemplo de un muro de ladrillo, que contiene ladrillos, mortero de cemento o de yeso y huecos con aire (cuando el ladrillo es hueco o perforado).
+
+
+== Cambios de densidad ==
+En general, la densidad de una sustancia varía cuando cambia la presión o la temperatura, y en los cambios de estado. En particular se ha establecido empíricamente:
+
+Cuando aumenta la presión, la densidad de cualquier material estable también aumenta, notablemente en los gases, casi inapreciablemente en líquidos y sólidos.
+Como regla general, al aumentar la temperatura, la densidad disminuye (si la presión permanece constante). Sin embargo, existen notables excepciones a esta regla. Por ejemplo, la densidad del agua dulce crece entre el punto de fusión (a 0 °C) y los 4 °C;[5]​ algo similar ocurre con el silicio a bajas temperaturas.[cita requerida]
+De manera práctica y dependiendo del tipo de problema que se esté solucionando, para los líquidos y sólidos se puede considerar la densidad constante. Esto es debido a que las variaciones que presentan en cuanto a dilatarse o contraerse debido a cambios de presión y/o temperatura son relativamente pequeños.[6]​El efecto de la temperatura y de la presión en los sólidos y líquidos es muy pequeño, por lo que típicamente la compresibilidad de un líquido o sólido es de 10−6 bar−1 (1 bar=0,1 MPa) y el coeficiente de dilatación térmica es del orden de 10−5 K−1 Las consideraciones anteriores llevan a que una ecuación de estado para una sustancia ordinaria debe satisfacer las siguientes restricciones:
+
+(*)
+  
+    
+      
+        ϕ
+        (
+        ρ
+        ,
+        p
+        ,
+        T
+        )
+        =
+        0
+        ,
+        
+        
+          
+            {
+            
+              
+                
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            ∂
+                            ρ
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            ∂
+                            T
+                          
+                        
+                      
+                    
+                  
+                  =
+                  −
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            ∂
+                            ϕ
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            ∂
+                            T
+                          
+                        
+                      
+                    
+                  
+                  
+                    
+                      (
+                      
+                        
+                          
+                            
+                              
+                            
+                            
+                              
+                                ∂
+                                ϕ
+                              
+                            
+                          
+                          
+                            
+                              
+                            
+                            
+                              
+                                ∂
+                                ρ
+                              
+                            
+                          
+                        
+                      
+                      )
+                    
+                    
+                      −
+                      1
+                    
+                  
+                  ≤
+                  0
+                
+              
+              
+                
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            ∂
+                            ρ
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            ∂
+                            p
+                          
+                        
+                      
+                    
+                  
+                  =
+                  −
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            ∂
+                            ϕ
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            ∂
+                            p
+                          
+                        
+                      
+                    
+                  
+                  
+                    
+                      (
+                      
+                        
+                          
+                            
+                              
+                            
+                            
+                              
+                                ∂
+                                ϕ
+                              
+                            
+                          
+                          
+                            
+                              
+                            
+                            
+                              
+                                ∂
+                                ρ
+                              
+                            
+                          
+                        
+                      
+                      )
+                    
+                    
+                      −
+                      1
+                    
+                  
+                  ≥
+                  0
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle \phi (\rho ,p,T)=0,\qquad {\begin{cases}{\cfrac {\partial \rho }{\partial T}}=-{\cfrac {\partial \phi }{\partial T}}\left({\cfrac {\partial \phi }{\partial \rho }}\right)^{-1}\leq 0\\{\cfrac {\partial \rho }{\partial p}}=-{\cfrac {\partial \phi }{\partial p}}\left({\cfrac {\partial \phi }{\partial \rho }}\right)^{-1}\geq 0\end{cases}}}
+  
+
+Por otro lado, la densidad de los gases se ve notablemente afectada por la presión y la temperatura. La ley de los gases ideales describe matemáticamente la relación entre estas tres magnitudes:
+
+(**)
+  
+    
+      
+        ρ
+        =
+        
+          
+            
+              p
+              
+              M
+            
+            
+              R
+              
+              T
+            
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {p\,M}{R\,T}}}
+  
+
+donde 
+  
+    
+      
+        R
+        
+      
+    
+    {\displaystyle R\,}
+   es la constante universal de los gases ideales, 
+  
+    
+      
+        p
+        
+      
+    
+    {\displaystyle p\,}
+   es la presión del gas, 
+  
+    
+      
+        M
+        
+      
+    
+    {\displaystyle M\,}
+   su masa molar y 
+  
+    
+      
+        T
+        
+      
+    
+    {\displaystyle T\,}
+   la temperatura absoluta. Eso significa que un gas ideal a 300 K (27 °C) y 1 atm duplicará su densidad si se aumenta la presión a 2 atm manteniendo la temperatura constante o, alternativamente, se reduce su temperatura a 150 K manteniendo la presión constante. Como puede comprobarse las relaciones (*) también se satisfacen en (**)
+
+
+== Medición ==
+
+La densidad puede obtenerse de forma indirecta y de forma directa. Para la obtención indirecta de la densidad, se miden la masa y el volumen por separado y posteriormente se calcula la densidad. La masa se mide habitualmente con una balanza, mientras que el volumen puede medirse determinando la forma del objeto y midiendo las dimensiones apropiadas o mediante el desplazamiento de un líquido, entre otros métodos. 
+Los instrumentos más comunes para medir la densidad son:
+
+El densímetro, que permite la medida directa de la densidad de un líquido.
+El picnómetro, que permite la medida precisa de la densidad de sólidos, líquidos y gases (picnómetro de gas).
+La balanza hidrostática, que permite calcular densidades de sólidos.
+La balanza de Mohr (variante de balanza hidrostática), que permite la medida precisa de la densidad de líquidos.Otra posibilidad para determinar las densidades de líquidos y gases es utilizar un instrumento digital basado en el principio del tubo en U oscilante. Cuyo frecuencia de resonancia está determinada por los materiales contenidos, como la masa del diapasón es determinante para la altura del sonido[7]​
+
+
+=== Unidades ===
+Las unidades de medida más usadas son:
+En el Sistema Internacional de Unidades (SI):
+
+kilogramo por metro cúbico (kg/m³).
+gramo por centímetro cúbico (g/cm³).
+kilogramo por litro (kg/L) o kilogramo por decímetro cúbico. La densidad del agua es aproximadamente 1 kg/L (1000 g/dm³ = 1 g/cm³ = 1 g/mL).
+gramo por mililitro (g/mL), que equivale a (g/cm³).
+Para los gases suele usarse el gramo por decímetro cúbico (g/dm³) o gramo por litro (g/L), con la finalidad de simplificar con la constante universal de los gases ideales:
+  
+    
+      
+        R
+        =
+        0
+        ,
+        082
+         
+        
+          
+            
+              
+                atm
+              
+              ⋅
+              
+                L
+              
+            
+            
+              
+                mol
+              
+              ⋅
+              
+                K
+              
+            
+          
+        
+      
+    
+    {\displaystyle R=0,082\ {\frac {{\text{atm}}\cdot {\text{L}}}{{\text{mol}}\cdot {\text{K}}}}}
+  En el Sistema anglosajón de unidades:
+
+onza por pulgada cúbica (oz/in³)
+libra por pulgada cúbica (lb/in³)
+libra por pie cúbico (lb/ft³)
+libra por yarda cúbica (lb/yd³)
+libra por galón (lb/gal)
+libra por bushel americano (lb/bu)
+slug.
+
+
+=== Densidad de los elementos químicos ===
+Densidad de los elementos químicos en condiciones de laboratorio, expresadas en g·cm-3 (los elementos de una densidad mayor que la del osmio o el iridio solo tienen una densidad teóricaː los elementos radiactivos super-pesados se producen en cantidades demasiado bajas o se desintegran demasiado rápidamente para permitir la medición): 
+
+Densidad de los elementos en su punto de fusión[8]​ en g·cm-3ː
+
+
+== Véase también ==
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Schackelford, J. F. Introducción a la ciencia de los materiales para ingenieros, 6.ª ed., 2008. ISBN 978-84-205-4451-9
+
+
+== Enlaces externos ==
+ Wikcionario  tiene definiciones y otra información sobre densidad.El Diccionario de la Real Academia Española tiene una definición para densidad.

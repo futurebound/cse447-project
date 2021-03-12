@@ -1,0 +1,42 @@
+Happi on alkuaine, jonka kemiallinen merkki on O (lat. oxygenium), järjestysluku 8 ja atomimassa IUPACin standardin mukaisesti [15,99903;15,99977] amu. Esiintyessään vapaana alkuaineena se on tavallisissa lämpötiloissa kaasuna, ja sitä on Maan ilmakehässä noin 21 %.  Luonnossa sitä on runsaasti myös yhdisteinä kuten vetenä, joka on vedyn ja hapen yhdiste, sekä lukuisina maa- ja kallioperän mineraaleina, jotka ovat erilaisia muiden alkuaineiden ja hapen muodostamia yhdisteitä. Se on yleisin alkuaine maankuoressa, jossa sitä on noin 47 %.Vapaa happi reagoi herkästi monien muiden aineiden kanssa. Se ylläpitää palamista, ja se on myös useimpien eliöiden elämälle välttämätöntä. Sitä vapautuu kasvien yhteyttämisessä ja kuluu soluhengityksessä.
+
+
+== Ominaisuudet ==
+Happimolekyyli (O2) muodostuu kahden happiatomin liitoksesta, ja esiintyy kaasumaisena huoneenlämpötilassa. Happi on tärkeä ainesosa ilmakehässä, jossa sitä on 21 %. Nestehappi ja kiinteä happi ovat vaaleansinisiä, ja molemmat ovat hyvin paramagneettisia aineita. Happimolekyylin elektronikonfiguraatio on epätavallinen: happi on perustilassaan tripletti, jolloin sen kahdella uloimmalla molekyyliorbitaalilla on yksi elektroni, joiden spinit ovat samansuuntaiset. Nämä orbitaalit eivät pysty muodostamaan sidoksia, jonka vuoksi happi on diradikaali ja siitä käytetään nimitystä triplettihappi (tripletti tarkoittaa multiplisiteettia eli kvanttiluvun arvojen lukumäärää, joka on 3). Perustilan happi (triplettihappi) voi reagoida virittyneessä triplettitilassa olevan molekyylin kanssa, jolloin muodostuu reaktiivinen singlettihappimolekyyli.    
+
+Otsoni (O3) on hapen ns. allotrooppinen muoto, jossa yhdessä molekyylissä on kolme happiatomia kahden sijasta. Korkealla ilmakehässä otsonikerros on välttämätön elämän säilymiseksi maapallolla, mutta alempana ilmakehässä esiintyessään otsoni on erittäin paha ympäristömyrkky ja suurina pitoisuuksina tappava.
+Vuonna 2001 löytyi neljäs allotrooppinen muoto O4, syvänpunainen yhdiste, joka syntyy paineistamalla O2 20 GPa:n paineeseen. Sitä tutkitaan rakettipolttoainekäyttöä varten, koska se on voimakkaampi hapetin kuin O2 tai O3. 
+Avaruudessa happea esiintyy Maan lähiavaruudessa suhteellisen runsaasti myös atomaarisena (O). Atomaarinen happi on aina 900 km korkeille satelliittien kiertoradoille asti ongelma, koska se reagoidessaan satelliitin pintamateriaalien kanssa muuttaa niiden säteily- ja absorbointi-ominaisuuksia, ja sitä kautta satelliitin lämpötilaa.
+Happea voidaan valmistaa laboratoriossa vetyperoksidista (H2O2). Teollisuus valmistaa happea ilmakehästä alhaisessa lämpötilassa tislaamalla.Happi reagoi helposti monien aineiden kanssa. Korkeissa lämpötiloissa monet aineet reagoivat hapen kanssa  kiivaasti ja runsaasti lämpöä vapauttaen; tällöin ne palavat. 
+Suuremmissa paineissa happi voi olla myrkyllistä. Tietyt johdokset ja yhdisteet kuten otsoni, vetyperoksidi, hydroksyyliradikaalit ovat myös hyvin myrkyllisiä. Tiettyjä kemiallisesti reaktiivisia hapen muotoja tai happea sisältäviä yhdisteitä kutsutaan reaktiivisiksi happiyhdisteiksi (engl. reactive oxygen species, ROS). Reaktiivisista happiyhdisteistä tärkeimmät ovat superoksidiradikaali (O2-), vetyperoksidi (H2O2), singlettihappi (1O2) ja hydroksyyliradikaali. Joillakin reaktiivisilla happiyhdisteillä on yksi tai useampi pariton elektroni, jolloin ne luokitellaan vapaiksi radikaaleiksi (·OH, O2-). Toiset taas eivät ole vapaita radikaaleja (H2O2, 1O2). Useimmat reaktiiviset happiyhdisteet ovat hapettavia, ja tyypillinen reaktiivisen happiyhdisteen aiheuttama vaurio on proteiinin tai lipidin hapettuminen. Hapettavuutensa perusteella reaktiivisista happiyhdisteistä haitallisimmat ovat hydroksyyliradikaali ja singlettihappi, joka reagoi erityisen helposti kaksoissidoksia sisältävien yhdisteiden kanssa.Korkea happipitoisuus muodostaa tulipalo- ja räjähdysvaaran palavien aineiden kanssa. Esimerkiksi nestehappeen sekoitettuna hieno sahajauho muodostaa räjähdysaineen.
+
+
+== Käyttö ==
+Teollisuudessa hapella on käyttöä voimakkaana hapettimena. Sitä käytetään varsinkin teräs- ja kemianteollisuudessa. Nestehappea käytetään nestemäistä ajoainetta käyttävissä raketeissa hapettimena. Hapella on myös lääketieteellistä käyttöä sairaaloissa, etenkin anestesiassa ja hengityselinsairaiden hengitykseen. Lisäksi happea käytetään hitsauksessa.
+Happi on elämän kannalta tärkeä alkuaine. Happikaasu on monille eliöille elinehto. Happi muodostaa vedyn kanssa vettä, joka on välttämätöntä tuntemamme elämän muodostumiselle. Elämän syntyhistoriassa otsonikerroksen muodostuminen oli tärkeä vaihe, joka mahdollisti elämän levittäytymisen maalle, koska ilman otsonikerroksen suojaa eliöt altistuisivat liialliselle ultraviolettisäteilylle.
+
+
+== Historia ja nimeäminen ==
+Puhdasta happea erotti salpietarista Olaus Borrichius vuonna 1678, vuosisataa aiemmin saman menetelmän oli kuvannut Sendivogius, joka oli myös esittänyt että tätä "elämää ruokkivaa" ainetta löytyy ilmasta. Jo 1600-luvulla tiedettiin, että salpietarista irtoaa kuumennettaessa jotakin kaasua, mutta vanha käsitys, jonka mukaan ilma olisi alku­aine, vaikeutti pitkään tämän kaasun tunnistamista.Myöhemmin hapen löysi myös Carl Wilhelm Scheele vuonna 1772, joka valmisti sitä kuumentamalla elohopeaoksidia, mutta tätä löytöä ei heti tunnustettu. Itsenäisesti sen löysi Joseph Priestley vuonna 1774. Kansainvälisen nimen oxygenium antoi Antoine Lavoisier 1774. Nimi merkitsee happoja muodostavaa ja johtuu siitä, että Lavoisier arveli sen olevan oleellisena osana kaikissa hapoissa. Myöhemmin on kuitenkin osoittautunut, että esimerkiksi fluorivety tai suolahappo eli vety­kloridi ei sisällä happea. Lavoisier selvitti myös hapen merkityksen palamisessa ja osoitti täten aikaisemmin yleisesti hyväksytyn flogiston­teorian vääräksi.Suomenkielinen nimitys happi esiintyi ensi kerran Julius Krohnin vuonna 1862 julkaisemassa teoksessa Kemiallisia tiedesanoja. Hieman aiemmin kehitettyä uudissanaa happo oli käytetty hapen tai oksidin merkityksessä jo 1840-luvulla. Molemmat on johdettu vanhasta suomen kielen sanasta hapan; vastaavasti ruotsin kielessä happea tarkoittava sana syre on johdos hapanta tarkoittavasta sanasta sur.
+
+
+== Katso myös ==
+Hapen kiertokulku
+Happipitoisuus (limnologia)
+Happikato
+Hapen isotoopit
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+
+Hapen kansainvälinen kemikaalikortti
+Syväjäähdytetyn hapen kansainvälinen kemikaalikortti
+Turvallisuusohje (OVA-ohje): Happi
+Human Metabolome Database: Oxygen (englanniksi)
+KEGG: Oxygen (englanniksi)
+Periodictable: Technical data for Oxygen (englanniksi)
+Kokeita nestemäisellä hapella: http://koti.mbnet.fi/antitz/dime.
+Luettelo hapen isotoopeista The Isotopes Project Home Page (englanniksi))

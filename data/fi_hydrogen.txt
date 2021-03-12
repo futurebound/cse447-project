@@ -1,0 +1,180 @@
+Vety on jaksollisen järjestelmän ensimmäinen alkuaine. Sen kemiallinen merkki on H (lat. hydrogenium). Vety on epämetalli, mutta jaksollisessa järjestelmässä se on sijoitettu ensimmäiseen pääryhmään yhdessä alkalimetallien kanssa. Vedyn elektronit nimittäin jakautuvat energiatasoille samalla tavoin kuin alkalimetalleillakin yleensä: sillä on vain yksi elektroni, joka on siis sen valenssielektroni. Normaalissa ilmanpaineessa huoneenlämmössä vety on väritön, hajuton ja mauton, tulenarka, ilmaa huomattavasti kevyempi kaasu, joka esiintyy luonnossa kaksiatomisina molekyyleinä (H2). Vedyn sulamispiste on −259 °C ja kiehumispiste on −253 °C (n. 14 ja 20 K). Vedyn moolimassa IUPACin standardin mukaisesti on [1,00784; 1,00811] g/mol .
+Tunnetuin vety-yhdiste on vesi, jonka molekyylikaava on H2O. Keveydestään huolimatta vesi esiintyy huoneenlämpötilassa nesteenä, mikä johtuu vesimolekyylien välisistä vetysidoksista. Vedellä on korkea kiehumispiste, mikä on tehnyt mahdolliseksi nykyisen kaltaisen elämän syntymisen. Vetyä on maapallolla eniten nimenomaan vesimolekyyleissä, ja sitä on maapallon maankuoren kokonaismassasta 0,14 %. Vety on maailmankaikkeuden yleisin alkuaine, ja se toimii tähtien polttoaineena niissä tapahtuvissa fuusioreaktioissa.
+
+
+== Esiintyminen ==
+
+
+=== Maailmankaikkeudessa ===
+Vety on maailmankaikkeuden yleisin alkuaine ja sitä on noin 74 % maailmankaikkeudessa esiintyvän aineen massasta. Maailmankaikkeuden atomeista 90 % on vetyä, 9 % heliumia ja 1 % muita aineita. Spektroskooppisilla laitteilla tehdyillä mittauksilla on saatu selville, että Auringosta ja muista tähdistä suurin osa on vetyä. Auringossa vetyä fuusioituu jatkuvasti heliumiksi. Reaktio on Maassa olevan elämän kannalta elintärkeä, sillä ilman Auringon tuottamaa energiaa Maassa ei olisi riittävästi lämpöä elämälle. Vety (ja helium) oli ensimmäinen alkuaine maailmankaikkeudessa, ja muut alkuaineet syntyivät myöhemmin tähdissä vedyn fuusioituessa .
+Metallinen vety on ainakin teoriassa mahdollinen suuressa paineessa kuten suurten planeettojen ytimissä, esimerkiksi Jupiterissa. On yritetty tosin saada aikaan kokeellisesti suprajohtavaa vetyä myös laboratorio-olosuhteissa alentamalla vaadittavaa painetta tuottamalla litium- ja natriumhydridejä.
+
+
+=== Maapallolla ===
+Maapallolla vety on kymmenenneksi yleisin alkuaine, joten se on selvästi harvinaisempaa kuin muualla maailmankaikkeudessa. Vedyn keveyden vuoksi sen osuus Maan kokonaismassasta on vain 0,9 prosentin luokkaa ja maankuoren massasta vieläkin vähemmän, noin 0,15 %. Universumin massasta vedyn osuuden on arveltu olevan jopa 73 %. Vapaana alkuaineena vety on maapallolla harvinainen, ja se esiintyy lähes aina sitoutuneena kemiallisiksi yhdisteiksi. Tulivuorenpurkauksissa ja öljynporauksen yhteydessä saattaa kuitenkin vapautua pieniä määriä vetykaasua.Suurin osa maapallolla esiintyvästä vedystä on sitoutuneena veteen, joka on vedyn ja hapen yhdiste. Muita luonnossakin esiintyviä epäorgaanisia vety-yhdisteitä ovat muun muassa maaperässä esiintyvät ammoniumsuolat.
+Vetyä esiintyy myös lähes jokaisessa orgaanisessa yhdisteessä. Hiilivedyissä on vain hiili- ja vetyatomeja. Muissakin orgaanisissa yhdisteissä osa vetyatomeista on sitoutunut yleensä suoraan hiiliatomiin, mutta osa esimerkiksi happiatomiin, kuten alkoholeissa ja karboksyylihapoissa, tai typpiatomiin kuten amiineissa. Monimutkaisempia hiiltä, vetyä ja muitakin alkuaineita sisältäviä orgaanisia yhdisteitä ovat esimerkiksi sellaiset biologisesti tärkeät aineet kuin proteiinit, rasvat ja hiilihydraatit sekä myös DNA.Vetyä on sitoutuneena myös fossiilisissa polttoaineissa, joista maaöljy ja maakaasu ovat pääosin hiilivetyjä. Myös kivihiilen huokosissa on yleensä metaania (kaivoskaasua), joka on yksinkertaisin hiilivety.
+Merivedestä voi tulla polttoainelähde, jos hallittu fuusiorektio saadaan maan päällä aikaan. Merivedestä saadaan vetyä fuusioreaktion polttoaineeksi.
+
+
+== Ominaisuudet ==
+
+
+=== Fysikaaliset ominaisuudet ===
+
+Puhdas vety on normaalioloissa olomuodoltaan kaasua. Vetykaasu (H2) on huomattavasti ilmaa keveämpää: 0 °C:n lämpötilassa ja normaalissa ilmanpaineessa vedyn tiheys on noin 0,09 g/dm3, kun ilman tiheys vastaavissa olosuhteissa on 1,3 g/dm3. Myös nestemäisenä ja kiinteänä vedyn tiheys on huomattavasti pienempi kuin muiden alkuaineiden tiheydet vastaavissa olomuodoissa. Nestemäisen vedyn tiheys kiehumispisteessään on noin 0,07 g/cm3 ja kiinteän vedyn tiheys sulamispisteessään on 0,0763 g/cm3.Vedyn sulamis- ja kiehumispiste ovat alkuaineista toiseksi alhaisimmat, sillä ainoastaan heliumilla on vetyä alhaisempi sulamis- ja kiehumislämpötila. Vedyn sulamispiste 1,013 baarin paineessa on −259,4 °C ja kiehumispiste −252,9 °C. Nestemäinen vety, jota tuotti ensimmäisen kerran brittiläinen kemisti James Dewar vuonna 1898, on väritöntä muuten paitsi suurina määrinä, jolloin se näyttää vaalean siniseltä. Kiinteä vety on väritöntä.
+
+
+==== Isotoopit ====
+Vetyä esiintyy luonnossa kolmena isotooppina: 1H, 2H ja 3H. Laboratorioissa on kuitenkin pystytty syntetisoimaan myös muita vedyn isotooppeja, joita ovat 4H, 5H, 6H ja 7H. Ne ovat hyvin epävakaita, eikä niitä esiinny luonnossa.
+1H eli protium (kreik. πρῶτον, proton, ”ensimmäinen”) eli tavallinen vety on yleisin vedyn isotooppi, jota on 99,98 % kaikista vetyatomeista. Isotoopissa on vain yksi protoni, josta nimi protium tulee. Isotoopin ytimessä ei siis ole ainoatakaan neutronia.
+2H tai D, deuterium, (”toinen”), on toiseksi yleisin vedyn isotooppi, jota on noin 0,015 % Maassa olevasta vedystä. Isotoopin ytimessä on yhden protonin lisäksi yksi neutroni. Deuterium ei ole radioaktiivista, eikä se aiheuta merkittävää myrkytysvaaraa. Vesimolekyyliä, jossa on tavallisen vedyn sijasta deuteriumia, kutsutaan raskaaksi vedeksi. Raskasta vettä käytetään esimerkiksi ydinvoimaloissa CANDU-reaktoreissa hidastimena. Monia deuteroituja orgaanisia yhdisteitä, kuten deuteroitua kloroformia, käytetään liuottimina NMR-spektroskopiassa. Deuteriumia käytetään tulevaisuudessa myös fuusioreaktoreissa polttoaineena.
+3H tai T, tritium (”kolmas”), on hyvin harvinainen vedyn isotooppi, jonka ytimessä on yksi protoni ja kaksi neutronia. Kaikesta vedystä sitä on 1⁄10 000. Tritium on radioaktiivista, ja se hajoaa beetahajoamisen kautta helium-3:ksi. Tritiumin puoliintumisaika on noin 12,32 vuotta. Tritiumin löysivät Ernest Rutherford, M. L. Oliphant ja Harteck vuonna 1934 pommittaessaan deuterium-atomeja deuteroneilla eli deuterium-atomin ytimillä. Pieniä määriä tritiumia muodostuu yläilmakehässä, kun kosmiset säteet iskeytyvät typpimolekyyleihin. Tritiumia voidaan myös valmistaa reaktoreissa pommittamalla litium-6:ta neutroneilla. Tritium voi esiintyä kaasumaisena, mutta yleisimmin muodossa, jossa yksi vesimolekyylin protium-atomeista on korvautunut sillä. Tritiumin hajoamisessa syntyvät elektronit voivat virittää muiden aineiden elektroneja, joten sitä käytetään itsevalaisevana aineena rannekellojen näytöissä ja poistumistiekylteissä. Muita käyttökohteita ovat merkkiaineena isotooppigeokemiassa ja lääketieteessä tutkittaessa lääkeaineiden metaboliaa. Yksi energiantuotannon kannalta lupaavimmista fuusioreaktioista on deuteriumin ja tritiumin fuusio. Siinä vapautuu energiaa 16 MeV, mutta se vaatii noin 40 miljoonan kelvinin lämpötilan.
+
+
+==== Orto- ja paravety ====
+
+Useampiatomisilla molekyyleillä voi olla niin kutsuttuja spin-isomeerejä. Vedyllä niitä on kaksi: orto- ja paravety. Niiden olemassaolon havaitsi R. Mecke vuonna 1924 spektroskooppisesti, ja Werner Heisenberg selitti ne kvanttimekaniikan avulla vuonna 1927. Ortovedyssä vetymolekyylin atomien spinit ovat toisiinsa nähden samansuuntaiset ja paravedyssä vastakkaiset. Näiden isomeerien fysikaalisissa ominaisuuksissa on eroja, ja niiden sulamis- ja kiehumispisteet, höyrystymislämmöt ja lämpökapasiteetit eroavat toisistaan. Esimerkiksi ortovedyn kiehumispiste on 0,24 °C korkeampi kuin paravedyllä. Myös vety-yhdisteillä, kuten vedellä on orto- ja paraisomeerinsä.Huoneenlämpötilassa vedystä 75 % on ortomuodossa ja loput on paravetyä. Nestemäisessä vedyssä paramuoto on sen sijaan vallitseva, koska se on silloin stabiilimpi, ja absoluuttisessa nollapisteessä kaikki vety on paravetynä. Orto- ja paravety ovat kineettisessä tasapainossa. Ortovety voi muuntua para-isomeerikseen. Muuntuminen on eksotermistä eli lämpöä vapauttavaa, minkä vuoksi vetykaasua haihtuu säilytyspulloistaan. Häviön minimoimiseksi vetykaasu johdetaan nesteytysvaiheessa vesipitoisen rauta(III)oksidin lävitse. Rauta(III)oksidi, platina, palladium tai typpimonoksidi toimivat katalyytteinä ja muuntavat ortovedyn paravedyksi.
+
+
+=== Kemialliset ominaisuudet ===
+
+
+==== Sijainti jaksollisessa järjestelmässä ====
+
+Vakiintuneen käytännön mukaan vety sijoitetaan jaksollisessa järjestelmässä ensimmäiseen eli alkalimetallien sarakkeeseen.  Vety kuitenkin poikkeaa monella tavalla muista ryhmään kuuluvista alkuaineista: esimerkiksi se ei reagoi veden kanssa kuten litium, natrium tai kalium, ja sitä pidetään yleensä epämetallina. Kemialliselta kannalta vedyllä kuitenkin on myös metallimaisia ominaisuuksia kuten positiivinen hapetusluku. Joskus vety on sijoitettu halogeeneihin eli 17. ryhmään, koska vedyn rakenne on lähellä halogeenien rakennetta eli yhden elektronin päässä täydestä elektronikuoresta. IUPAC suosittelee nykyään vedyn sijoitettavaksi niin, että se on ensimmäisen jakson alkuaineena jaksollisen järjestelmän ylimmällä rivillä, taulukon keskellä niin ettei se kuulu mihinkään pääryhmistä. 
+Vedyn tavallisin hapetusluku on +I, mutta muutamat metallit voivat yhtyä vedyn kanssa hydrideiksi, joissa sen hapetusluku on poikkeuksellisesti −I. Vedyn ionisoitumisenergia on noin 1 310 kJ/mol, siis paljon suurempi kuin varsinaisilla alkalimetalleilla, joilla se on noin 400–500 kJ/mol. Tässä suhteessa vety muistuttaa enemmänkin halogeeneja. Myös vedyn elektronegatiivisuus on paljon suurempi kuin varsinaisten alkalimetallien.
+Vetyä yhdistää alkalimetalleihin kuitenkin sen alhainen elektroniaffiniteetti, toisin sanoen energia, joka vapautuu tai sitoutuu, kun kaasumaisessa muodossa olevan alkuaineen atomiin lisätään yksi elektroni. Vedyn elektroniaffiniteetti on 73 kJ/mol eli vetyyn sitoutuu energiaa 73 kJ/mol. Muilla alkalimetalleilla vastaava arvo on 46–60 kJ/mol ja halogeeneilla se on −270 – −349 kJ/mol. Yhdistävänä tekijänä on myös se, että vedyn uloin atomiorbitaali on alkalimetallien tapaan s-orbitaali, mutta halogeeneilla uloin orbitaali on p-orbitaali.
+
+
+==== Reaktiivisuus ====
+Vety esiintyy kaksiatomisena molekyylinä, joka on tavallisissa lämpötiloissa hyvin pysyvä, eikä kovin reaktiivinen. Tämä johtuu osittain vetymolekyylin vetyatomien välisen kovalenttisen sidoksen suuresta sidosenergiasta, joka on 436 kJ/mol. Molekyylin hajottamiseen tarvitaan suuri määrä energiaa, eivätkä kaikki vetymolekyylit ole hajonneet vetyatomeiksi edes yli 4 700 °C:n lämpötilassa. Hapen ja halogeenien kanssa se kuitenkin reagoi hyvin voimakkaasti, jopa räjähdysmäisesti, muodostaen vettä tai vetyhalogenideja.Atomaarinen vety sen sijaan on hyvin reaktiivista. Se on voimakas pelkistin, joka pelkistää jopa natriummetallia natriumsuoloista, ja erityisen voimakkaasti se reagoi halogeenien ja muiden voimakkaiden hapettimien kanssa. Siksi atomaarista vetyä ei esiinny luonnossa vapaana.
+
+
+==== Sidokset ====
+
+Vety muodostaa itsensä ja muiden alkuaineiden kanssa kovalenttisen sidoksen, koska vedyn elektronegatiivisuus on korkea 2,1. Vety muodostaa niin sanotun σ-sidoksen eli yksinkertaisen sidoksen. Sidos on pyörähdyssymmetrinen: vety pystyy pyörimään sidoksen suhteen ilman, että sidos katkeaa. Hybridisaatiomallissa vety on poikkeus siinä mielessä, että vedyn atomiorbitaali ei hybridisoidu muun orbitaalin kanssa.
+Vety on olennaisessa osassa myös vetysidoksen synnyssä molekyylien välille. Vetysidos on vahvin heikko sidos, joka syntyy poolisessa molekyylissä olevien vedyn ja hapen, typen tai fluorin (N, O, F) välille. (Molekyylin vety muodostaa vetysidoksen toisen molekyylin N, O, F-atomin kanssa.) Yhdisteillä, joilla esiintyy vetysidoksia, on poikkeuksellisen korkea sulamis- ja kiehumispiste. Tämä johtuu vetysidosten voimakkuudesta. Erityisen korkea sulamis- ja kiehumispiste on vedellä, sillä vesimolekyyli muodostaa neljä vetysidosta. Elämän kannalta veden korkea sulamis- ja kiehumispiste ovat elintärkeitä.
+
+
+==== Hapot ja emäkset ====
+Happo ja emäs on Brønsted–Lowry-teoriassa määritelty siten, että happo on aine, joka luovuttaa positiivisen vetyionin (H+) eli protonin emäkselle. Emäs taas on aine, joka vastaan­ottaa vetyionin hapolta. Happamat vesiliuokset syntyvät, kun happo luovuttaa yhden protonin vedelle, jolloin liuokseen syntyy oksoniumioneja (H3O+). Oksoniumionit aiheuttavat liuoksen happamuuden. Emäksiset vesiliuokset syntyvät, kun emäs reagoi veden kanssa muodostaen hydroksidi-ioneja (OH−). Happamuus tai emäksisyys riippuu liuoksessa olevien oksonium- ja hydroksidi-ionien lukumäärästä.
+
+
+==== Vedyn yhdisteet ====
+Vedyn binäärisiä yhdisteitä kutsutaan hydrideiksi ja ne voidaan jakaa sidostenperusteella kolmeen luokkaan kovalenttiset, ionisidokselliset ja metalliset yhdisteet. Kovalenttisia yhdisteitä ovat vedyn ja muiden epämetallien yhdisteet, kuten ammoniakki, vesi ja vetyhalogenidit. Näistä monet ovat olomuodoltaan huoneenlämpötilassa kaasuja.Ionisidokselliset hydridit sisältävät anionina hydridi-ionin (H−). Näitä vety muodostaa elektropositiivisten alkali- ja maa-alkalimetallien kanssa. Ionisidokselliset hydridit reagoivat kiivaasti veden kanssa vapauttaen vetykaasua esimerkkinä natriumhydridin reaktio
+
+  
+    
+      
+        
+          NaH
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          NaOH
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {NaH + H2O -> NaOH + H2}}}
+  Siirtymämetallien ja lantanoidien sekä aktinoidien kanssa vety muodostaa metallisia hydridejä. Metallisille hydrideille tyypillistä on metallimainen kiilto ja sähkönjohtokyky. Näissä yhdisteissä vety pienikokoisena pääsee diffundoitumaan metallihilaan ja muodostaa niin kutsuttuja välisijayhdisteitä. Nämä ovat useimmiten koostumukseltaan epästoikiometrisiä ja rakenteeltaan monimutkaisia. Metallisen hydridiin perustuu eräiden metallien tutkiminen vedyn varastointitapana, koska ne lämmitettäessä vapauttavat vedyn. Esimerkiksi platina pystyy näin sitomaan vetyä jopa 900 kertaa oman tilavuuteensa nähden. Vedyn varastoimiseen tutkitaan myös metalliseoshydridejä esimerkiksi lupaavimmiksi ovat osoittautuneet TiNi2- ja LaNi2-seokset.Tärkeitä epäorgaanisia vety-yhdisteitä ovat esimerkiksi vesi, kaikki epäorgaaniset hapot, ammoniakki ja natriumhydroksidi.
+
+
+== Historia ==
+
+
+=== Vedyn löytäminen ===
+Sveitsiläistä, 1500-luvulla elänyttä alkemistia Paracelsusta pidetään ensimmäisenä vedyn havaitsijana. Liuottaessaan rautaa rikkihappoon hän huomasi kehittyvän kaasua, jota hän kuvaili sanoin ”ilmaa nousee ja hajoaa kuin tuuli”. Paracelsus ei ollut varma, mitä oli tuottanut, eikä hän myöskään selvittänyt vedyn ominaisuuksia. Vuonna 1670 englantilainen Robert Boyle tuotti vetyä sekoittamalla rautaviilajauhoa laimeaan suolahappoon ja rikkihappoon. Boyle kuvasi vetyä tulenaraksi kaasuksi, jonka vertaista hän ei ollut koskaan aiemmin havainnut, ja nimitti sitä ”Marsin palavaksi liuokseksi”. Boyle huomasi syntyneen kaasun palavan ainoastaan, jos ilmaa oli saatavilla. Hän myös havaitsi, että palamisessa kului ilmaa ja palamistuotteet painoivat enemmän kuin palaneet aineet.Puhdasta vetyä valmisti ensimmäisenä englantilainen kemisti-fyysikko ja Britannian rikkaimpiin kuulunut Henry Cavendish vuonna 1766 antamalla raudan reagoida laimean rikkihapon kanssa. Hän itse ei kuitenkaan uskonut löytäneensä vetyä, vaan oletti sen olevan flogistonia. Hän arveli kaasun lähtevän metallista eikä haposta, ja käytti siitä nimeä ”metallien palava ilma”. Tutkimuksissaan Cavendish havaitsi vedyn ja ilman seoksen räjähtävän, ja hän päätti myös laskea vedyn tiheyden. Laskelmissaan hän pääsi lopputulokseen, että vety on keveämpää kuin ilma. Tutkittuaan räjähdyksessä tiivistynyttä pisaraa hän totesi sen olevan vettä. Tämän vuonna 1781 tehdyn kokeen ansiosta hän tuli todistaneeksi Aristoteleen ja muiden antiikin luonnonfilosofien olleen väärässä, kun nämä väittivät veden olevan alkuaine.Cavendishia pidetään vedyn löytäjänä, mutta nimen sille antoi ranskalainen kemisti Antoine Lavoisier. Lavoisier todisti vuonna 1783, että vesi sisältää Cavendishin aiemmin löytämää ”palavaa ilmaa” ja happea. Lavoisier antoi vedylle nimen hydrogène. Nimen lähtökohtana ovat kreikankieliset sanat ὕδωρ (hydor, vesi) ja γίγνομαι (gignomai, muodostaa, synnyttää) eli vedenmuodostaja. Nimi tulee vedyn palamisreaktiosta, josta syntyy reaktiotuotteena vettä. Myös suomenkielinen sana vety viittaa veden muodostamiseen; se esiintyi ensimmäisen kerran kirjakielessä vuonna 1851.
+
+
+=== Kylmätutkimus ===
+Vielä 1900-luvun alussa vedylle oli keksitty vain muutamia käyttökohteita: sitä käytettiin niin sanotuissa kalkkivaloissa, jotka olivat teatterien parrasvaloja, ja ilmalaivojen täyttökaasuna.
+Kryogeniikka eli matalien lämpötilojen tutkiminen alkoi vuoden 1880 tienoilla. Ranskalainen kaivosinsinööri Louis Cailletet ilmoitti vuonna 1877 havainneensa nestemäisiä happipisaroita. Muutamaa päivää aiemmin sveitsiläinen fyysikko Raoul Pictet oli ilmoittanut myös onnistuneensa hapen nesteyttämisessä, mutta eri tavalla. Matalien lämpötilojen tutkimus oli 1900-luvun vaihteessa hyvin kallista, ja vain harvat yliopistot kykenivät tarjoamaan tarvittavia laboratorio-olosuhteita. Hapen nesteyttämisen jälkeen alkoi kansainvälinen kilpailu siitä, kuka onnistuisi ensimmäisenä vedyn nesteyttämisessä. Kilpailua käytiin lähinnä Euroopassa, sillä suurin osa fyysikoista oli siihen aikaan eurooppalaisia. Kilpailu oli riitojen ja prioriteettikysymysten värittämää alusta alkaen, ja hätäiset tulokset olivat tavallisia arvovallasta kilpailtaessa. Ensimmäisenä onnistui vuonna 1898 skotlantilainen kemisti James Dewar, jonka työtä helpotti hänen aiempi keksintönsä vakuumikryostaatti eli termospullo. Termospullo johtaa huonosti lämpöä, koska siinä on kaksi hopeoitua lasiseinää, joiden välissä on tyhjiö. Dewar käytti sitä pitääkseen hyvin kylmät nesteet kylminä ja onnistui valmistamaan nestemäistä vetyä yhteensä 20 millilitraa. Sen jälkeen Dewar halusi valmistaa kiinteää vetyä, missä hän onnistuikin jo seuraavana vuonna.Harold Urey havaitsi Columbian yliopiston kollegoidensa kanssa spektroskooppisissa tutkimuksissaan höyrystyneessä vedyssä poikkeavaa ainetta, jonka rakenne oli muuten sama kuin vedyn, mutta sillä oli ytimessään yksi neutroni. Deuteriumiksi nimetyn aineen atomimassa oli kaksinkertainen verrattuna vetyyn. Ureyn johdolla tutkijat tuottivat elektrolyysin avulla kahdesta deuteriumatomista ja yhdestä happiatomista koostuvaa raskasta vettä. Raskaalla vedellä on sovelluksia muun muassa ydinvoimaloissa.
+
+
+=== Rooli atomimallin kehittymisessä ===
+
+Vety on 1900-luvulla kehittyneen atomimallin keskeisin alkuaine, sillä se on rakenteeltaan niistä yksinkertaisin. Vetyatomin ytimessä on yksi protoni, jota kiertää alimmalla energiatasolla yksi elektroni. Vedyn yksinkertaisen rakenteen ansiosta vedyn tuottamaa spektriä ja spektrissä näkyviä spektriviivoja oli helppo tutkia.
+Valon hajaantuminen spektriin on tunnettu jo keskiajalta asti. William Wollaston tutki vuonna 1802 Auringon spektriä ja havaitsi siinä muutamia pieniä tummia viivoja, mutta hän luuli niitä värien rajoiksi eikä kiinnittänyt asiaan sen enempää huomiota. Kaksitoista vuotta myöhemmin Joseph von Fraunhofer havaitsi Auringon spektriä tutkiessaan satoja viivoja, ja tutkiessaan Kuun ja planeettojen heijastaman valon spektriä hän totesi niidenkin spektreissä esiintyvän samoja viivoja. Hän havaitsi niitä myös tähtien spektreissä, mutta niiden paikka ja voimakkuus poikkesivat toisistaan. Fraunhoferin havainnot osoittivat, että spektriviivat liittyivät valonlähteen ominaisuuksiin.
+Spektroskopian perusperiaatteet loivat 1850-luvun lopulla Robert Bunsen ja Gustav Kirchhoff. Johann Balmer keksi vuonna 1885 yksinkertaisen kaavan, jonka avulla voitiin laskea vedyn spektriviivojen aallonpituudet. Samanlaisia kaavoja yritettiin kehitellä muillekin alkuaineille, mutta mitään yhtenäistä kaavaa, jota kaikki alkuaineet noudattaisivat, ei pystytty rakentamaan. Spektriviivojen syytä ei myöskään osattu vielä selittää tyhjentävästi.
+Niels Bohr kuitenkin kykeni selittämään omalla atomimallillaan vedyn spektriviivat. Bohrin mukaan elektronit kulkevat tietyillä radoilla atomin ytimen ympärillä, mutta ne pystyvät myös siirtymään korkeammalle tai alemmalle energiatasolle. Kun elektroni absorboi fotonin, elektroni siirtyy ylempään energiatilaan, jos sen absorboima energia on sama kuin kahden energiatilan vaatimien energioiden erotus. Atomin sanotaan virittyneen. Tämän seurauksena havaitsijaa kohti tuleva säteily heikkenee sellaisilla aallonpituuksilla, jotka vastaavat perustilan ja viritystilojen energioiden erotuksia. Spektriin ilmestyy joukko tummia viivoja, absorptioviivoja. Emissioviivoja eli kirkkaita viivoja tumman pohjan päällä esiintyy kaasuilla. Tavallisesti tutkittavat kaasut ovat hyvin kuumia, jolloin ne ovat virittäytyneitä. Viritystila ei kuitenkaan kestä kauan, ja elektroni siirtyy alemmalle energiatasolle luovuttaen fotonin. Tämä havaitaan emissioviivana. Bohrin malli kykeni ensimmäistä kertaa selittämään vedyn spektriviivat.
+
+
+== Valmistus ==
+
+Vetyä valmistetaan teollisuudessa usealla tavalla. Pääasiallisesti käytettyjä tapoja on viisi:
+1) Vetyä voidaan valmistaa maakaasusta tai maaöljystä sekä vesihöyrystä katalyytin, joka on usein nikkeliä, läsnä ollessa. Reaktiossa syntyy hiilimonoksidia ja vetyä, ja se tapahtuu 800–1 000 °C:n lämpötilassa ja 10–50 ilmakehän paineessa. Suurin osa teollisesti tuotetusta vedystä valmistetaan tällä tavoin metaanista.
+maakaasu (metaani) CH4 + H2O → CO + 3H2
+maaöljy C12H26 + 12H2O → 12CO + 25H22) Hehkuvan hiilen joukkoon johdetaan vesihöyryä, jolloin syntyy hiilimonoksidin ja vedyn seos, niin kutsuttua vesikaasua.
+C + H2O → CO + H23) Vety voidaan erottaa vesikaasusta tai vesikaasu johtaa katalyyttiä sisältävän putken läpi noin 400 °C:n lämpötilassa. Putkessa hiilimonoksidi reagoi vesihöyryn kanssa, jolloin muodostuu vedyn ja hiilidioksidin seos.
+CO + H2O → CO2 + H24) Vetyä muodostuu myös maaöljyn sisältämien hiilivetyjen krakkauksessa. Lisäksi muodostuu alkuaine hiiltä.
+5) Vetyä voidaan valmistaa myös vedestä elektrolyysillä:
+
+Anodireaktio: 4[OH]− → O2 + 2H2O + 4e−
+Katodireaktio: 2[H3O]+ + 2e− → H2 + 2H2O
+Yleisesti: [OH]− + [H3O]+ → O2 + 2H2Suuressa mittakaavassa vedyn tuottaminen elektrolyyttisesti ei ole taloudellisesti kannattavaa, koska sähköenergia on kallista. Korkean lämpötilan elektrolyysi saattaa muuttaa tätä tilannetta varsinkin jos primäärienergialähteeksi saadaan erittäin korkean lämpötilan reaktori, kaksoisfluidireaktori tai muu edullinen korkean lämpötilan energialähde.
+6) Epäjalon metallin reagoidessa jonkin hapon kanssa syntyy suolaa ja samalla vety vapautuu, esimerkiksi: 
+
+Zn + 2HCl → ZnCl2 + H27) Vetyä on laboratoriossa valmistettu myös fotolyysin avulla hajottamalla vettä galliumnitridin ja auringonvalon avulla.
+
+
+== Käyttö ==
+
+Tällä hetkellä vetyä käytetään eniten kemianteollisuudessa, kun kidevedetöntä ammoniakkia tehdään osana lannoitteiden valmistusprosessia. Valmistus tapahtuu Haber–Bosch-menetelmällä, jossa vety ja typpi yhdistyvät ammoniakiksi.Toinen huomattava käyttäjä on öljynjalostus, jossa vedyn avulla voidaan kasvattaa hiilivetyjen vety–hiilisuhdetta ja saada ne palamaan puhtaammin. Muita käyttökohteita ovat muun muassa oksidien poisto rautamalmeista, rikin poisto öljystä ja metanolin valmistus hiilimonoksidista. Yhteensä vetyä käytetään noin 50 miljoonaa tonnia vuodessa, ja kulutus kasvaa nykyisin noin 4–10 % vuodessa.Suuria määriä vetyä käytetään myös tyydyttymättömien kasvirasvojen kovettamiseen vedyttämällä. Vety liittyy tyydyttymättömien rasvojen kaksoissidoksiin, jolloin niistä tulee yksinkertaisia sidoksia ja rasvahapot muuttuvat tyydyttyneiksi.Vetyä on käytetty myös muun muassa ilmapallojen täytteenä ja heliumin rinnalla ilmalaivojen täyttökaasuna. Vedyn vaarallisuus tuli esille muun muassa ilmalaiva Hindenburgin tuhossa. Hindenburgissa käytettiin vetyä, koska Yhdysvalloilla oli heliumin teollisen valmistuksen monopoli eikä se myynyt heliumia esim. Saksalle.lähde? Nykyään tosin vaikuttaa siltä, että onnettomuuden todellinen syy olikin ilmalaivan ulkokuoren erittäin tulenarka kyllästeaine.Nestevety on nestemäistä ajoainetta käyttävien kantorakettien tehokkaimpia polttoaineita. Hapettimena on yleensä nestehappi. Komponenttien pysymiseksi nestemäisinä tulee lämpötilan olla kylmä, vähintään −183 °C. Tällaista seosta kutsutaan kryogeeniseksi ajoaineeksi. Koska polttoaine tulee pitää hyvin kylmänä, sen pitkäaikainen säilyttäminen on hankalaa.
+
+
+=== Käyttö polttokennoissa ===
+Polttokennot muuntavat vedyn sisältämän kemiallisen energian sähkö- ja lämpöenergiaksi. Polttokenno koostuu positiivisesta katodista ja negatiivisesta anodista, joita yhdistää elektrolyytti. Polttokennoon syötetään vety- ja happikaasuja, jolloin vetymolekyylit kulkeutuvat anodille ja happiatomit katodille ja kennossa tapahtuva energiaa vapauttava kokonaisreaktio on
+
+2 H2 + O2 → 2 H2OElektrolyytti vaikuttaa polttokennon toimintalämpötilaan ja hyötysuhteeseen, ja polttokennot voidaan jakaa ryhmiin elektrolyytin mukaan, kuten alkali-, sulakarbonaatti-, fosforihappo-, protoninvaihto- ja kiinteäoksidipolttokennoihin. Protoninvaihtopolttokenno on osoittautunut lupaavimmaksi autojen energianlähteenä.Suurimmat ongelmat, jotka haittaavat polttokennojen soveltamista laajaan käyttöön energianlähteenä, liittyvät kustannuksiin ja polttokennojen kestävyyteen. Polttokennojen korkea hinta johtuu suurelta osin siitä, että katalyyttinä käytetään platinaa.
+
+
+== Katso myös ==
+Antivety
+Pimeäfermentaatio
+Valofermentaatio
+Vetytalous
+
+
+== Lähteet ==
+Greenwood, N. N. & Earnshaw, A.: Chemistry of the Elements. 2nd Edition.   Butterworth Heinemann, 1997. ISBN 0-7506-3365-4.    (englanniksi)
+Gupta, Ram B.: Hydrogen fuel: Production, transport and storage.    CRC Press, 2008. ISBN 978-1-4200-4575-8.    
+Zumdahl, Steven S.; Zumdahl, Susan A.: Chemistry. 8. painos.   Brooks Cole. ISBN 978-0-495-82992-8.    (englanniksi)
+Karamäki, E. M.: Epäorgaaniset kemikaalit.    Kustannusliike Tietoteos, 1983. ISBN 951-9035-61-3.    
+Rayner-Canham, Geoff & Overton, Tina: Descriptive Inorganic Chemistry. 5th Edition.   W. H. Freeman and Company, 2006. ISBN 978-1-4292-2434-5.    (englanniksi)
+Wiberg, Egon; Wiberg, Nils; Holleman, Arnold Frederick: Inorganic chemistry.    Academic Press, 2001. ISBN 978-0-12-352651-9.  Kirja Googlen teoshaussa.  (englanniksi)
+
+
+=== Viitteet ===
+
+
+== Aiheesta muualla ==
+
+Vedyn kansainvälinen kemikaalikortti
+Kauranen, Pertti & Solin, Jussi & Törrönen, Kari & Koivula, Jouko & Laurikko, Juhani: Vetytiekartta – Vetyenergian mahdollisuudet Suomelle, Tutkimusraportti, VTT, 3.4.2013 (pdf)
+Periodictable: Technical data for Hydrogen (englanniksi)
+Human Metabolome Database: Hydrogen (englanniksi)
+KEGG: Hydrogen (englanniksi)
+ChemBlink: Hydrogen (englanniksi)
+Webmineral: Mineral Species containing Hydrogen (H) (englanniksi)
+Mindat: The Mineralogy of Hydrogen (englanniksi)
+Luettelo vedyn isotoopeista The Isotopes Project Home Page (englanniksi)
+Karttunen, Hannu: Vanhin tiede – Tähtitiedettä kivikaudesta kuulentoihin, s. 427. "Joseph von Fraunhofer (1787–1826)".  Helsinki: Ursa, 2003.  ISBN 978-952-5329-26-1.

@@ -1,0 +1,45 @@
+L’année-lumière, est une unité de longueur utilisée en astronomie. Son symbole est al,, bien qu'on rencontre aussi AL, A.L. ou a.l. Au pluriel, on écrit « des années-lumière ». On rencontre aussi couramment le symbole anglophone ly, pour light year. Anciennement, on pouvait utiliser « année de lumière »,.
+Une année-lumière est égale à la distance parcourue par la lumière dans le vide pendant une année julienne, soit environ 9 461 milliards de kilomètres, soit encore, en ordre de grandeur, environ 10 000 milliards de kilomètres (1013 kilomètres), 10 pétamètres ou environ 0,306 59 parsec.
+
+
+== Définition ==
+L'année-lumière est une unité de mesure de distance.
+L'Union astronomique internationale la définit comme la distance parcourue par un photon (ou plus simplement la lumière) dans le vide, en une année julienne (soit 365,25 jours, ou 31 557 600 secondes).
+La vitesse de la lumière dans le vide étant une constante fixée à 299 792 458 m/s (environ 300 000 km/s), une année-lumière est exactement égale à 9 460 730 472 580,8 km, soit environ 9 460,730 milliards de kilomètres, ce qui équivaut à 9,460 730 Pm ou 9 460,730 Tm. En valeur arrondie, une année-lumière vaut donc 9,461 Pm, soit 9,461 × 1015 m.
+
+
+== Utilisations ==
+L'année-lumière s'utilise surtout en vulgarisation pour exprimer les distances interstellaires et intergalactiques, car cette unité est facilement accessible par le grand public en raison de sa définition, la distance parcourue par la lumière pendant le temps cité.
+Par exemple, Proxima Centauri, l'étoile la plus proche du Système solaire, se trouve à 4,22 années-lumière, la galaxie d'Andromède se situe à environ 2,5 millions d'années-lumière et le halo de la Voie lactée a un diamètre d'environ 100 000 années-lumière.
+Cependant, l'année-lumière est rarement utilisée par les astronomes professionnels qui lui préfèrent le parsec (symbole pc), unité issue d'une technique expérimentale de mesure de distance utilisant la parallaxe annuelle de l'étoile visée. Un parsec correspond à la distance de laquelle une unité astronomique est vue sous un angle d'une seconde d'arc. Il équivaut à environ 3,26 années-lumière.
+L'unité astronomique (symbole ua), historiquement basée sur la distance Terre-Soleil, est souvent utilisée, notamment pour les objets relativement proches (à l'échelle astronomique). Une unité astronomique équivaut à environ 8,32 minutes-lumière et une année-lumière vaut 63 241,077 ua.
+Par approximation, l'année-lumière est souvent arrondie à 10 000 000 000 000 (dix mille milliards) de kilomètres. Cette valeur, simple à retenir, est exacte à environ 5,4 % et donc bien suffisante pour fixer des ordres de grandeur ou des distances approximatives.
+
+
+== Multiples et sous-multiples ==
+En multipliant la vitesse de la lumière par un temps choisi, des unités apparentées peuvent être définies comme l'heure-lumière, qui vaut exactement 1 079 252 848,8 km.
+
+NoteLe mois-lumière est quasiment inusité (il n'aurait que peu d'intérêt) et sa valeur n'est pas précisément définie : il faudrait préciser si le mois-lumière vaut par exemple 30 jours-lumière ou bien un douzième de l'année-lumière. Cette unité a intrinsèquement une imprécision trop grande par rapport aux autres unités d'astronomie. Les institutions officielles s'intéressent peu à ces unités dérivées.
+
+
+== Exemples ==
+La Lune orbite à 1,28 seconde-lumière de la Terre.
+De manière similaire, la Terre orbite à 8,32 minutes-lumière du Soleil, inversement une année-lumière est équivalente à 63 241,1 UA.
+La distance Terre - Mars (prochain voyage spatial habité probable[réf. souhaitée]) varie approximativement entre 3 et 22 minutes-lumière et nécessiterait un vol d'une durée de 6 à 9 mois compte tenu des phases d'accélération et de freinage.
+Neptune, planète la plus lointaine du Soleil, est située à 4,17 heures-lumière du Soleil. Pluton orbite pour sa part entre 4,11 heures-lumière et 6,83 heures-lumière du Soleil.
+Fin 2013, Voyager 1 se situait à plus de 17 heures-lumière du Soleil.
+Le nuage d'Oort, limite extérieure du système solaire, orbite à une à deux années-lumière du Soleil.
+L'étoile la plus proche (hors Soleil), Proxima Centauri, se situe à 4,22 années-lumière.
+Le rayon de l'Univers observable mesure environ 46,6 milliards d'années-lumière. Une erreur commune consiste à croire que ce rayon vaut 13,8 milliards d'années-lumière, attendu que l'âge de l'univers est de 13,8 milliards d'années et que rien ne peut excéder la vitesse de la lumière. L'expansion de l'Univers est le phénomène qui a permis cet écart considérable.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Parallaxe
+Table des constantes astrophysiques
+ Portail de l’astronomie

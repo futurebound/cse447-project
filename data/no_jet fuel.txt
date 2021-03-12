@@ -1,0 +1,37 @@
+Flybensin, også kalt 100LL, (100 oktan low lead / 100 oktan lavbly), brukes som betegnelse på bensinen som vanligvis benyttes i småflymotorer. Den inneholder fremdeles noe tetraetylbly for å oppnå så høyt oktantall, selv om blyforbindelser ellers er forbudt i drivstoff. Denne flybensinen må ikke forveksles med Jet A1 / Avgas som er et parafin- og diesellignende flydrivstoff som brukes i jetmotorer.
+
+
+== Kvalitetskrav til flybensin ==
+Kravene til filtrering med maksimal partikkelstørrelse og partikkelmengde er noe større for flybensin enn for vanlig bilbensin. Det er også krav til at det ikke skal dannes damp ved lavere lufttrykk som kan skape bobler (damplås) i bensinanlegget. 
+
+
+== Prosedyrer ved fylling av flybensin ==
+Siden det kan dannes vann i bensinen av kondens, og denne kan danne ispropper eller gi motorproblemer, blir det før hver flytur tappet litt bensin i en liten, klar beholder for å se etter vann. Det er varierende antall slike tappekraner på de forskjellige flymodellene.
+Ved fylling av flybensin kobler man alltid en jordingskabel med en klemme i enden fra bensinanlegget til en metallgjenstand på flyet, for eksempel eksosrøret. Dette skal hindre gnistdannelse mellom flyet og bensinanlegget under bensinfyllingen.
+
+
+== Bilbensin for småfly ==
+Prisen av flybensin påvirkes ikke av avgifter på biltrafikken som er pålagt bilbensinen, men siden det produseres små mengder, og det er kostbart å opprettholde distribusjonsopplegg for flybensin, blir likevel prisen på flybensin relativt høy. Flere småflymotorer er godkjent for å bruke både 100LL og vanlig bilbensin. Ved bruk av bilbensin på småfly kan man få refundert de bil- og vei- relaterte avgiftene på bilbensin. Faren for stans av motoren på grunn av dampdannelse i bensinanlegget (damplås), er noe større med bilbensin. Noen flyeiere bruker derfor 100LL i den ene vingetanken og bilbensin i den andre vingetanken. Da bruker de flybensin til avgang og landing, og stort sett bilbensin ellers. Mange fly har tankvelger som kan stenge bensintilførselen, eller velge mellom høyre og venstre vingetank.
+
+
+== Diesel / Jet A1 for småfly ==
+Det er gjort forsøk med dieselmotorer for småfly. Motorprodusenten Thielert i Tyskland var kommet langt i sertifiserings- og konstruksjons prosessen for dieselmotorer for småfly da de gikk konkurs. Det finnes derfor relativt få småfly med dieselmotor. Jet A1 er lett tilgjengelig og billig på mange flyplasser. Diesel har også mer energi per liter drivstoff. Det er mye ferdigutviklet teknologi for bilindustrien for dieselmotorer, så det er mange gode grunner til at småflyene bør gå over til diesel, men tilgangen til motorer har hindret denne utviklingen hittil. Siden småflymotorer må heloverhales etter omtrent 2000 flytimer, vil et godt tilbud på diesel byttemotor være attraktivt, og kunne gi utskifting av motorene i hele småflyflåten over endel år.
+
+
+== Oljeselskaper med flybensin ==
+Statoil og Shell har vært de selskapene som selger mesteparten av flybensinen som selges i Norge. I 2015 er Statoil Aviation i Norge og Sverige solgt til Air BP . Et lite svensk selskap "Hjelmco" har i endel år tilbudt 100 oktan flybensin uten bly, og er i ferd med å komme inn på det norske markedet. 
+Oljeselskapene har egne tanker på flere flyplasser, gjerne med kortautomat for egne kundekort. Ofte virker ikke vanlige bankkort eller kredittkort i kortleseren til flybensin på flyplassene. 
+På stadig flere kortbane-flyplasser har selskapene sluttet å tilby 100LL.  Småflygere må derfor ringe på forhånd om de skal på langtur for å forsikre seg om at de får det nødvendige drivstoffet der de forventer det, og at de har riktig kort til kortautomaten. Tilgjengeligheten på flybensin kan gi drastiske forandringer på en slik reiserute.
+
+
+== Utilgjengelige tankanlegg ==
+Avinor har begrensede åpningstider tilsvarende vanlig arbeidstid på endel mindre flyplasser. Utenom åpningstid er det både stengte porter i gjerdene og forbudt å lande der. Det er riktignok på trappene et komplisert regelverk som tillater noen småflygere å bruke noen slike plasser utenom åpningstid. For andre småflygere er det umulig å fylle 100LL på disse stedene utenom arbeidstid selv om rullebanen er hinderfri og bensinanlegget er selvbetjent. Dette er i stor kontrast til stengte bensinstasjoner for bil der man midt på natta kan kjøre inn, fylle tanken full og betale med kort uten problem .
+
+
+== Private tankanlegg ==
+Det er ikke uvanlig at flyklubber og private flyplasseiere har eget bensinanlegg med tank for flybensin. Disse kjøper gjerne en full tank som leveres av tankbil fra oljeselskapene. Småflygere på tur som trenger å fylle på slike plasser må både forsikre seg om at det er flybensin å få kjøpt, at de får lov til å kjøpe, og avtale betalingsmåte, og det må være eier eller flyklubbmedlem til stede på plassen når de kommer.
+
+
+== Flybensin på kanner ==
+Flyeiere uten eget flybensinanlegg på hjemmeplassen vil ha behov for å kjøpe flybensin på kanner fra andre flyplassbensinanlegg. Forskriftene for veitransport med bensin tillater ikke mer enn 260 liter bensin i en bil eller tilhenger for slik transport. Siden mange småfly bruker 30 til 40 liter i timen, vil en slik tur etter flybensin gi relativt lite flyging. 
+Ved fylling av flybensin fra jerrykanner brukes en stor trakt med et spesielt skinn som flybensinen filtreres igjennom for å sikre at det ikke kommer partikler i flyets bensinanlegg. Denne trakten settes i tankåpningen.

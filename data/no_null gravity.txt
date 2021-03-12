@@ -1,0 +1,174 @@
+Tyngdekraften eller tyngden til en masse er kraften den er utsatt for i et gravitasjonsfelt. Befinner dette seg i et ikke-inertielt system, vil treghetskrefter også kunne bidra til tyngdekraften. Dette er tilfelle på Jorden hvor det dominerende bidraget til tyngdekraften skyldes gravitasjonskraften rettet mot Jordens sentrum minus et mye mindre bidrag fra sentrifugalkraften forårsaket av dens rotasjon. Dette bidraget varierer med breddegraden.
+Som alle andre krefter angis tyngdekraften i SI-systemet i  enheten newton (N).  Den kan mest direkte måles med en fjærvekt og vil ha en verdi som er litt avhengig av hvor på Jorden målingen blir gjort. Med tyngden til en gjenstand mener man det samme som tyngdekraften den er utsatt for. Men ofte forbinder man tyngde heller med hva bruken av en skålvekt ville vise. Da er den naturlige måleenhet kilogram (kg), noe som også gjøres i dagligtale.
+Tyngdekraften på en masse i fritt fall vil avhenge av hvilket referansesystem den måles i. I et inertialsystem er den kun påvirket av gravitasjonskraften og vil få en akselerasjon  som er gitt ved Newtons andre lov. Derimot vil den i et medfølgende, akselerert referansesystem ikke være påvirket av noen krefter og være i ro. Massen sies da å være «vektløs» fordi tyngdekraften på den er null. Dette gjelder også for bevegelsen til en planet i en Kepler-bane om Solen eller for Månens bevegelse om Jorden. 
+Likedan vil en person langt borte fra alle graviterende masser, ikke føle noen tyngdekraft. Men utsettes hen for en akselerasjon, vil dette føles som en kraft som ikke kan skilles fra en vanlig gravitasjonskraft. På et romskip kan dette benyttes til å lage «kunstig gravitasjon». 
+I den generelle relativitetsteorien er det ingen forskjell mellom rene gravitasjonskrefter og fiktive krefter som skyldes akselerasjon. Her kan man bruke begrepene tyngdekraft og gravitasjonskraft om hverandre. En masse i fritt fall beveger seg langs en geodetisk kurve som om det ikke virker noen krefter på den.
+
+
+== Definisjon ==
+
+Tyngdekraften F som virker på en masse m som befinner seg i et gravitasjonsfelt kan generelt skrives som
+
+  
+    
+      
+        
+          F
+        
+        =
+        m
+        
+          g
+        
+      
+    
+    {\displaystyle \mathbf {F} =m\mathbf {g} }
+  hvor g kalles for tyngdeakselerasjonen. Den utgjør et vektorfelt og kan derfor kalles for tyngdefeltet.  I allminneliget består det av to deler, 
+
+  
+    
+      
+        
+          g
+        
+        =
+        
+          
+            g
+          
+          
+            N
+          
+        
+        +
+        
+          
+            g
+          
+          
+            a
+          
+        
+      
+    
+    {\displaystyle \mathbf {g} =\mathbf {g} _{N}+\mathbf {g} _{a}}
+  der den første delen skyldes selve gravitasjonsfeltet og er gitt ved Newtons gravitasjonslov. Den andre delen ga  er bidraget som kan oppstå hvis referansesystemet som benyttes, ikke er inertielt, men er utsatt for en akselerasjon.
+Antas Jorden å være nøyaktig kuleformet, er gravitasjonsfeltet rettet mot dens sentrum. Dets styrke på overflaten følger direkte fra gravitasjonsloven som gN = GM/R 2 hvor G er Newtons gravitasjonskonstant, M er Jordens masse og R dens radius. Setter man inn deres numeriske verdier, blir gN =  9.82 m/s2. Hvis dette var det eneste bidraget til tyngdekraften, ville en masse på 1 kg være utsatt for en tyngdekraft på 9.82 N.
+
+
+=== Ikke-inertielt bidrag ===
+En masse m ligger i ro på et bord inni en heis. Den er da utsatt for tyngdekraften F = mg  hvor g er tyngdeakselerasjonen på stedet. Kraften virker nedover og kan avleses på en fjærvekt. Hvis nå elevatoren beveger seg oppover med akselerasjon a, vil massen bli presset litt ekstra ned mot bordplaten. Dette tilsvarer at tyngdekraften som virker på den, er nå blitt F' = m (g + a). Økningen ma  er et ikke-inertielt bidrag som skyldes at massen befinner seg i et akselerert referansesystem og kan avleses på fjærvekten.
+Hvis derimot heisen begynte å bevege seg nedover slik at dens akselerasjon a  var negativ, ville tyngdekraften i den bli mindre. I det ekstreme tilfellet at a = - g, blir den resulterende tyngdekraften F'  = 0, og massen m ville sveve vektløs omkring i heisen. Den er da i fritt fall.
+
+
+== Tyngdekraft på Jorden ==
+
+En observatør på Jordens overflate befinner seg også i et akselerert referansesystem som skyldes Jordrotasjonen. Denne vil skape en sentrifugalkraft som er rettet utover vinkelrett på rotasjonsaksen og vil være proporsjonal med kvadratet av vinkelhastigheten ω. Kalles breddegraden til observatøren for λ, er størrelsen til den tilsvarende sentrifugalakselerasjonen ga = ω2R cosλ  der R er Jordens radius. Bidraget er null bare på polene hvor λ = 90°.
+Vinkelhastigheten  er ω = 2π /T hvor rotasjonsperioden T = 24 timer. Med R = 6.37×103 km er faktoren  ω2R = 0.034 m/s2. Da dette bidraget til tyngdeakselerasjonen er rettet utover og normalt på rotasjonsaksen, vil den radielle komponenten virke ut fra Jordens sentrum med størrelse ω2R cos2λ. Den reduserer derfor det rene gravitasjonsbidraget GM/R 2. Det betyr at tyngdeakselerasjonen ved polene er g = 9.82 m/s2, mens den er g = 9.79 m/s2 ved ekvator hvor λ = 0.
+
+
+=== Jordens form ===
+Bidraget til tyngdekraften fra sentrifugalkraften medfører at tyngdeakselerasjonen g = gN + ga  ikke vil være rettet Jordens sentrum.
+Den andre komponenten ω2R cosλ sinλ  av sentrifugalkraften virker langs Jordens overflate og er rettet mot Ekvator. Dermed blir en del av Jordens masse forskjøvet i samme retning slik at den der får en utbuling og en tilsvarende utflatning ved polene. 
+Den resulterende formen til Jorden kalles en geoide. Det er en ekvipotensialflate slik at tyngdeakselerasjonen g overalt står normalt på den. Med god nøyaktighet kan denne beskrives som en litt flattrykket sfæroide som benyttes som en referanseform i World Geodetic System.Kalles det totale gravitasjonspotensialet til Jorden for Φ(r, λ), er tyngdeakselerasjonen g = - ∇ Φ. Dette potensialet består av et bidrag 
+
+  
+    
+      
+        
+          Φ
+          
+            a
+          
+        
+        =
+        −
+        
+          
+            1
+            2
+          
+        
+        
+          ω
+          
+            2
+          
+        
+        
+          r
+          
+            2
+          
+        
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        λ
+      
+    
+    {\displaystyle \Phi _{a}=-{1 \over 2}\omega ^{2}r^{2}\cos ^{2}\lambda }
+  som skyldes sentrifugalkraften, pluss et rent gravitasjonspotensial ΦN  fra Jordens massefordeling som ikke lenger er kulesymmetrisk. Dens form r = r(λ) er da gitt ved den implisitte ligningen Φ = konstant.
+
+
+=== Pendelur ===
+Et pendelur har en svingetid som er omvendt proporsjonal med kvadratroten av tyngdeakselerasjonen g. I 1672 reiste den franske astronom Jean Richer med et slikt ur fra Paris til Cayenne. Men der merket han at uret gikk to og et halvt minutt for sakte i døgnet. Etter at han hadde regulert det slik at det igjen gikk riktig, viste det seg tilbake i Paris at det nå gikk to og et halvt minutt for fort i døgnet. Newton brukte denne observasjonen i sin Principia til å argumentere for at tyngdeakselerasjonen ikke var konstant på Jorden og at den derfor ikke kunne antas å være kuleformet.
+
+
+== Månen og Newtons eple ==
+Newtons gravitasjonslov kunne forklare planetenes bevegelser slik de uttrykkes ved Keplers lover. Men av kanskje likså stor betydning for Newton var hans forståelse av både Månens bevegelse omkring Jorden og fallet til et eple fra et tre som uttrykk for en og samme gravitasjonskraft skapt av Jordens masse. Her hadde hans bevis for skallteoremet stor betydning da det tillot å betrakte gravitasjonskraften på eplet som om Jordens masse er konsentrert i dens sentrum og der virker som fra en punktmasse.Både eplet og Månen er i fritt fall i Jordens gravitasjonsfelt.  Forskjellen er at Månen er befinner seg i en avstand r = 60R fra Jordens sentrum og kan antas å gå i en sirkelbane. Mens eplet er utsatt for en lineær akselerasjon g, vil Månen derfor ha en sentripetalakselerasjon ω2r som skyldes tyngdeakselerasjonen i dens posisjon som er redusert til g/602. Da Månen i sin bane har en vinkelfrekvens ω = 2π /T med omløpstid T = 27 dager og 8 timer, blir dermed
+
+  
+    
+      
+        g
+        =
+        
+          
+            
+              4
+              
+                π
+                
+                  2
+                
+              
+              
+                60
+                
+                  3
+                
+              
+              R
+            
+            
+              T
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle g={4\pi ^{2}60^{3}R \over T^{2}}}
+  Settes her inn verdien R = 6.37×103 km for radius til Jorden, får man g = 9.74 m/s2  som ikke er langt unna den riktige verdien g = 9.81 m/s2. I virkeligheten er Månens bevegelse mye mer komplisert da den også er influert av gravitasjonskraften fra Solen.
+
+
+== Se også ==
+Gravitasjon
+Newtons gravitasjonslov
+Sentrifugalkraft
+Sentripetalkraft
+Keplers lover
+
+
+== Referanser ==
+
+
+== Eksterne lenker ==
+Gravitasjon: Et eple falt i hodet på Newton - artikkel fra forskning.no 31.7.02

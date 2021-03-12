@@ -1,0 +1,16 @@
+Path Finder (originally SNAX) is a Macintosh file browser developed by Cocoatech. First released simultaneously with the public release of Mac OS X 10.0 'Cheetah', it replicates or integrates most of the features of the Finder, but introduces additional functionality similar to that found in Windows Explorer, Norton Commander and other third-party file browsers developed for a variety of platforms.
+Some of Path Finder's features not found in the Finder include a dual-pane browser, terminal, StuffIt compression, an active process viewer, an application launcher, and .dmg disk image creation tools. Path Finder also includes tabs, not found in Finder until 2013 in OS X 10.9 'Mavericks'.
+Path Finder's functionality can be extended through a plugin architecture; the program ships with plugins for Subversion support and a hex viewer, among others.
+The interface of Path Finder follows the common navigational file manager paradigm, also called the browser paradigm, as opposed to the spatial style. Most operations take place in a single window, although more windows or tabs can be opened. The interface can further be customized by enabling or disabling various panels and/or their corresponding functionality.
+
+
+== See also ==
+Comparison of file managers
+File manager
+
+
+== References ==
+
+
+== External links ==
+Official website

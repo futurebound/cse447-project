@@ -1,0 +1,549 @@
+Das Kelvin (Einheitenzeichen: K) ist die SI-Basiseinheit der thermodynamischen Temperatur und zugleich gesetzliche Temperatureinheit in der EU, der Schweiz und fast allen anderen Ländern. Das Kelvin wird vor allem in Naturwissenschaft und Technik zur Angabe von Temperaturen und Temperaturdifferenzen verwendet.
+Die Kelvin-Skala ist gegenüber dem Grad Celsius (°C) um exakt 273,15 K verschoben: Eine Temperatur von 0 °C entspricht 273,15 K; der absolute Nullpunkt liegt bei 0 K (= −273,15 °C). Der Zahlenwert eines Temperaturunterschieds in den beiden Einheiten Kelvin und Grad Celsius ist gleich.
+Das Kelvin wurde nach William Thomson, dem späteren Lord Kelvin, benannt, der im Alter von 24 Jahren die thermodynamische Temperaturskala vorschlug.
+Bis 1967 lautete der Einheitenname „Grad Kelvin“, das Einheitenzeichen war °K.
+
+
+== Definition ==
+
+Das Kelvin ist über die Boltzmann-Konstante 
+  
+    
+      
+        
+          k
+          
+            
+              B
+            
+          
+        
+      
+    
+    {\displaystyle k_{\mathrm {B} }}
+   definiert. Diese wurde dazu im Rahmen der Revision des Internationalen Einheitensystems 2019 auf den Wert 
+  
+    
+      
+        
+          k
+          
+            
+              B
+            
+          
+        
+        =
+        1
+        ,
+        380
+        
+        649
+        ⋅
+        
+          10
+          
+            −
+            23
+          
+        
+        
+        
+          J
+        
+        
+          /
+        
+        
+          K
+        
+      
+    
+    {\displaystyle k_{\mathrm {B} }=1,380\,649\cdot 10^{-23}\,\mathrm {J} /\mathrm {K} }
+   festgelegt.Ein Kelvin ist damit diejenige Änderung der thermodynamischen Temperatur T, die einer Änderung der thermischen Energie kBT um exakt
+1.380649e-23 Joule entspricht.Mit dieser Definition ist das Kelvin unabhängig von Materialien und Normalen definiert, hängt aber über das Joule von den (ebenfalls über Konstanten definierten) Basiseinheiten Meter, Kilogramm und Sekunde ab und damit letztlich von den drei Konstanten 
+  
+    
+      
+        
+          k
+          
+            
+              B
+            
+          
+        
+      
+    
+    {\displaystyle k_{\mathrm {B} }}
+  , 
+  
+    
+      
+        Δ
+        
+          ν
+          
+            
+              C
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \Delta \nu _{\mathrm {Cs} }}
+   und 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  . Zuvor war das Kelvin über die Temperatur am Tripelpunkt (fest/flüssig/gasförmig) von Wasser definiert.
+Der Nullpunkt der Kelvinskala (T = 0 K) liegt beim absoluten Nullpunkt. Diese Temperatur ist jedoch nach dem Nernstschen Wärmesatz weder messbar noch erreichbar.
+
+
+== Zusammenhang mit dem Grad Celsius ==
+Die Celsius-Skala der Temperatur ist so definiert, dass die Temperatur in Grad Celsius gemessen gegenüber der Temperatur in Kelvin um exakt 273,15 verschoben ist:
+
+  
+    
+      
+        
+          
+            {
+            T
+            }
+          
+          
+            
+
+            
+            
+              K
+            
+          
+          =
+          
+            
+              {
+              ϑ
+              }
+            
+            
+              
+                
+                
+                  ∘
+                
+              
+              C
+            
+          
+          +
+          273
+          
+            ,
+          
+          15
+        
+      
+    
+    {\displaystyle \mathrm {\left\{T\right\}{}_{K}=\left\{\vartheta \right\}_{^{\circ }C}+273{,}15} }
+  
+
+  
+    
+      
+        
+          
+            {
+            ϑ
+            }
+          
+          
+            
+
+            
+            
+              
+                
+                
+                  ∘
+                
+              
+              C
+            
+          
+          =
+          
+            
+              {
+              T
+              }
+            
+            
+              K
+            
+          
+          −
+          273
+          
+            ,
+          
+          15
+        
+      
+    
+    {\displaystyle \mathrm {\left\{\vartheta \right\}{}_{^{\circ }C}=\left\{T\right\}_{K}-273{,}15} }
+  Durch diese Festlegung wurde erreicht, dass die Differenz zwischen zwei Temperaturwerten in Kelvin und Grad Celsius gemessen zahlenmäßig gleich groß sind und gleichwertig verwendet werden können.
+
+  
+    
+      
+        
+          
+            
+              Δ
+              
+              T
+            
+            
+              1
+              
+              
+                K
+              
+            
+          
+        
+        =
+        
+          
+            
+              Δ
+              
+              ϑ
+            
+            
+              1
+              
+                
+                
+                  ∘
+                
+              
+              
+                C
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\Delta \,T}{1\,\mathrm {K} }}={\frac {\Delta \,\vartheta }{1\,^{\circ }\mathrm {C} }}}
+  .Gefrier- und Siedepunkt von Wasser bei Normalbedingungen (101,325 kPa Druck) liegen mit dieser Definition bei fast exakt 0 °C (273,15 K) und 100 °C (373,15 K).
+
+
+== Geschichte ==
+
+
+=== Bis 2018: Separate Temperaturskala ===
+Eine absolute Temperaturskala mit dem Wert 0 am absoluten Nullpunkt wurde 1848 von William Thomson (dem 1. Baron Kelvin) vorgeschlagen. Die Teilungen dieser Temperaturskala trugen zunächst die Bezeichnung °A (für absolut). Sie wurde so definiert, dass Temperaturdifferenzen den gleichen Zahlenwert hatten wie auf der Celsius-Skala, die wiederum den Gefrierpunkt (0 °C) und den Siedepunkt (100 °C) von Wasser als Fixpunkte hat. Die absolute Skala und die Celsius-Skala waren dadurch um einen festen Wert gegeneinander verschoben. (Eine andere absolute Temperaturskala ist die Rankine-Skala, die sich an die Fahrenheit-Skala anlehnt.)
+1948 wurde durch die 9. Generalkonferenz für Maß und Gewicht (CGPM) festgelegt, dass eine absolute thermodynamische Skala den Tripelpunkt des Wassers als einzigen fundamentalen Fixpunkt haben sollte. Vor allem die starke Abhängigkeit des Siedepunkts vom Luftdruck hatte die Kalibrierung über die bisherigen Fixpunkte schwierig gemacht. Der Tripelpunkt hingegen war leicht und eindeutig reproduzierbar. Der Nullpunkt der Celsius-Skala (damals noch englisch centesimal scale genannt) sollte nach neuer Definition exakt 0,01 Grad darunter liegen. In Vorwegnahme des zukünftigen Namens der Einheit wurde für „Grad Absolut“ das Zeichen °K festlegt.1954 wurde das Kelvin von der CGPM in der bis zum 19. Mai 2019 gültigen Form definiert und zur Basiseinheit erklärt. Dadurch bekam zugleich das Grad Celsius eine neue Definition. Die Bezeichnung war zunächst „Grad Kelvin (°K)“ und wurde 1967 auf „Kelvin (K)“ geändert. Die Definition lautete seitdem:
+
+„Das Kelvin, die Einheit der thermodynamischen Temperatur, ist der 273,16-te Teil der thermodynamischen Temperatur des Tripelpunktes des Wassers.“.2007 wurde noch hinzugefügt, dass es sich um (selbstverständlich chemisch reines) Wasser mit der Isotopenzusammensetzung von Standardozeanwasser handeln sollte. Die Messverfahren waren so präzise geworden, dass der  Einfluss der Isotopen­zusammensetzung auf den Tripelpunkt des Wassers (Größenordnung von etwa 10 mK) relevant wurde.
+Da die Tripelpunkttemperatur zur Kalibrierung von Temperaturmessinstrumenten für andere Temperaturbereiche unhandlich war, schuf man 1990 die ITS-90 („Internationale Temperaturskala von 1990“). Sie verzeichnet mehrere auf über einen großen Temperaturbereich hin verteilte Referenzwerte, zum Beispiel wohldefinierte Schmelzpunkte; der Tripelpunkt des Wassers ist auch hier zentraler Bezugspunkt.
+
+
+=== Seit 2019: Anbindung an die thermische Energie ===
+Die thermodynamische Temperatur ist direkt proportional zur thermischen Energie, mit der Boltzmann-Konstanten als Proportionalitätsfaktor. Solange die Einheiten von Energie (Joule) und Temperatur (Kelvin) unabhängig voneinander definiert waren, musste die Boltzmann-Konstante experimentell bestimmt werden. Diese Messungen wurden im Laufe der Zeit immer präziser und erreichten schließlich die Genauigkeit der Realisierung des Kelvin über den Tripelpunkt des Wassers. Damit war die Existenz zweier konkurrierender Definitionen nicht mehr zu rechtfertigen. Der Boltzmann-Konstanten wurde ein fester Wert in der Einheit J/K zugewiesen und das Kelvin dadurch direkt an das Joule gekoppelt. Der Wert der Boltzmann-Konstanten, die seitdem ein nur durch Konvention festgelegter Skalierungsfaktor ist, wurde so gewählt, dass das neue Kelvin möglichst genau mit dem alten übereinstimmte. Diese Änderung trat mit der Revision des Internationalen Einheitensystems am 20. Mai 2019 in Kraft.
+
+
+== Symbol ==
+Das Symbol für die Maßeinheit ist der Großbuchstabe „K“. Der Unicode-Standard in Unicodeblock „Buchstabenähnliche Symbole“ enthält zwar zusätzlich das Symbol U+212A KELVIN SIGN, aber nur aus Gründen der Kompatibilität. Das Unicode-Konsortium rät ausdrücklich von dessen Verwendung ab.Die Verwendung von SI-Präfixen für Vielfache (kilo-, Mega-, ...) ist beim Kelvin unüblich. Für Bruchteile des Kelvin werden mK, µK und nK verwendet.
+
+
+== Beziehung zu anderen Einheiten ==
+
+
+=== Kelvin als Maß für Energie ===
+Häufig ist es wichtig zu wissen, ob eine energetische Barriere 
+  
+    
+      
+        Δ
+        E
+      
+    
+    {\displaystyle \Delta E}
+   allein aufgrund von thermischen Fluktuationen überwunden werden kann. Die Wahrscheinlichkeit zur Überwindung der Barriere wird durch die Boltzmannverteilung bestimmt:
+
+  
+    
+      
+        W
+        (
+        E
+        )
+        ∼
+        exp
+        ⁡
+        
+          (
+          
+            −
+            
+              
+                
+                  Δ
+                  E
+                
+                
+                  
+                    k
+                    
+                      
+                        B
+                      
+                    
+                  
+                  T
+                
+              
+            
+          
+          )
+        
+        
+        .
+      
+    
+    {\displaystyle W(E)\sim \exp \left(-{\frac {\Delta E}{k_{\mathrm {B} }T}}\right)\,.}
+  Eine Barriere 
+  
+    
+      
+        Δ
+        E
+        ≫
+        
+          k
+          
+            
+              B
+            
+          
+        
+        T
+      
+    
+    {\displaystyle \Delta E\gg k_{\mathrm {B} }T}
+   wird faktisch nie überwunden, bei 
+  
+    
+      
+        Δ
+        E
+        =
+        
+          k
+          
+            
+              B
+            
+          
+        
+        T
+      
+    
+    {\displaystyle \Delta E=k_{\mathrm {B} }T}
+   wird sie leicht überwunden und bei 
+  
+    
+      
+        Δ
+        E
+        ≪
+        
+          k
+          
+            
+              B
+            
+          
+        
+        T
+      
+    
+    {\displaystyle \Delta E\ll k_{\mathrm {B} }T}
+   wird die Barriere quasi nicht wahrgenommen.
+Der Einfachheit halber gibt man Energien deshalb oft in Kelvin an, oder Temperaturen in energetischen Einheiten wie Joule oder Elektronenvolt (eV). Die Umrechnungsfaktoren sind dann:
+
+  
+    
+      
+        
+          
+            
+              
+                1
+                
+                
+                  K
+                
+              
+              
+                
+                  
+                    
+                      =
+                      ^
+                    
+                  
+                
+              
+              
+                8,617
+                ⋅
+                
+                  10
+                  
+                    −
+                    5
+                  
+                
+                
+                
+                  e
+                  V
+                
+              
+              
+              
+              
+                1
+                
+                
+                  e
+                  V
+                
+              
+              
+                
+                  
+                    
+                      =
+                      ^
+                    
+                  
+                
+              
+              
+                1,160
+                ⋅
+                
+                  10
+                  
+                    4
+                  
+                
+                
+                
+                  K
+                
+              
+            
+            
+              
+                1
+                
+                
+                  K
+                
+              
+              
+                
+                  
+                    
+                      =
+                      ^
+                    
+                  
+                
+              
+              
+                1,381
+                ⋅
+                
+                  10
+                  
+                    −
+                    23
+                  
+                
+                
+                
+                  J
+                
+              
+              
+              
+              
+                1
+                
+                
+                  J
+                
+              
+              
+                
+                  
+                    
+                      =
+                      ^
+                    
+                  
+                
+              
+              
+                7,243
+                ⋅
+                
+                  10
+                  
+                    22
+                  
+                
+                
+                
+                  K
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{rcllcccrcll}1\,\mathrm {K} &{\widehat {=}}&8{,}617\cdot 10^{-5}\,\mathrm {eV} &&&1\,\mathrm {eV} &{\widehat {=}}&1{,}160\cdot 10^{4}\,\mathrm {K} \\1\,\mathrm {K} &{\widehat {=}}&1{,}381\cdot 10^{-23}\,\mathrm {J} &&&1\,\mathrm {J} &{\widehat {=}}&7{,}243\cdot 10^{22}\,\mathrm {K} \\\end{array}}}
+  Dies soll am Beispiel des Wasserstoffmoleküls verdeutlicht werden: Die Rotationsenergie und die Energie der Schwingung der Wasserstoffatome gegeneinander sind gequantelt, d. h. sie können nur diskrete Werte annehmen. Um das Molekül vom nichtrotierenden Zustand in den langsamst rotierenden Zustand zu überführen, bedarf es einer Energie von 15 meV, entsprechend 174 K. Wasserstoff rotiert also bei Raumtemperatur schon ganz beträchtlich. Für den ersten Schwingungszustand sind 516 meV, entsprechend 5980 K erforderlich. Wasserstoffmoleküle beginnen also erst bei sehr hohen Temperaturen Schwingungen auszuführen.
+
+
+=== Umrechnung in andere Temperaturskalen ===
+Temperaturen in Kelvin lassen sich über eine Zahlenwertgleichung wie folgt exakt umrechnen:
+
+
+=== Fixpunkte ===
+Die Fixpunkte, mit denen die Skalen ursprünglich definiert wurden, sind farblich hervorgehoben und exakt in die anderen Skalen umgerechnet. Heute haben sie ihre Rolle als Fixpunkte verloren und gelten nur noch näherungsweise. Allein der absolute Nullpunkt hat weiterhin exakt die angegebenen Werte.
+
+
+== Weblinks ==
+Thermometry: SI base unit (kelvin). BIPM, abgerufen am 2. August 2019 (englisch, Wortlaut der Definition des Kelvin). 
+The Internet resource for the International Temperature Scale (ITS) of 1990 – The water triple point (englisch)
+Das Kelvin – Schweizer Bundesamt für Metrologie METAS
+Neubestimmung der Boltzmann-Konstante k für die Neudefinition der Basiseinheit Kelvin – PTB
+
+
+== Einzelnachweise ==

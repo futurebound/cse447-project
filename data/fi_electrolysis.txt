@@ -1,0 +1,76 @@
+Elektrolyysi (kreikk. ēlektron 'sähkö' + lysis 'hajottaminen') on sähkövirran avulla aikaan saatu eräiden aineiden, elektrolyyttien kemiallinen hajoaminen. Se on luonteeltaan pakotettu hapetus-pelkistysreaktio. 
+Elektrolyytit ovat aineita, jotka sulaessaan tai liuetessaan hajoavat kokonaan tai osittain positiivisiksi ja negatiivisiksi ioneiksi. Sellaisia ovat varsinkin hapot, metallihydroksidit ja suolat. Jos tällaisen aineen liuoksen tai sulatteen läpi johdetaan sähkövirta, sähköinen vetovoima saa ionit liikkumaan varatuille sauvoille, jolloin positiiviset ionit eli kationit kulkeutuvat katodiin, jossa ne pelkistyvät. Negatiiviset ionit, eli anionit kulkeutuvat anodiin, jossa ne hapettuvat. Positiivista napaa kutsutaan anodiksi ja negatiivista napaa katodiksi. Tämän muistaa helposti PANK-muistisäännöstä: Positiivinen anodi negatiivinen katodi.
+Elektrolyysi on kemiallisesti monimutkainen ilmiö. Elektrolyysillä voidaan useat alkuaineet eristää yhdisteistään erittäin puhtaina, ja sillä voidaan päällystää halvoista metalleista valmistettuja esineitä toisilla metalleilla. Esimerkiksi alumiinin samoin kuin alkali- ja maa-alkalimetallien sekä puhtaan elektro­lyyttisen kuparin tuotanto perustuu elektrolyysiin.Metallin päällystämisestä suojaavalla ja hitaammin hapettuvalla metallilla, sinkillä, käytetään nimitystä galvanointi. Esimerkiksi teräs voidaan päällystää sinkkikerroksella.
+Elektrolyysin havaitsivat ensimmäisinä William Nicholson ja Anthony Carlisle, jotka vuonna 1800 saivat sähkövirran avulla veden hajoamaan alkuaineikseen eli vedyksi ja hapeksi. Muutamaa vuotta myöhemmin Humphry Davy onnistui eristämään elektrolyysin avulla useita alkuaineita kuten natriumin, kaliumin ja kalsiumin, jotka siihen saakka oli tunnettu vain yhdisteinään. Ilmiötä tutki tarkemmin muun muassa Michael Faraday, joka esitti keskeisimmät sitä koskevat lait. Vuonna 1881 Svante Arrhenius osoitti, että elektrolyytit ovat liuoksissaan ja sulassa tilassa jakautuneena ioneiksi ja että elektrolyysi aiheutuu ionien liikkeestä sähkökentässä, ionivirrasta.
+
+
+== Elektrolyysin pääsäännöt ==
+Elektrolyysin ensimmäinen pääsääntö on, että alkuainemäärä, joka erkanee sähkövirran vaikutuksesta sulatetussa tai liuotetussa suolassa, on suoraan verrannollinen läpi virtaavan sähkövarauksen määrään. Tämän havaitsi ensimmäisenä Michael Faraday vuonna 1832. 
+Elektrolyysin toinen pääsääntö on, että erkanevien alkuaineiden massa on suoraan verrannollinen niiden atomimassoihin, kun laskuissa käytetään sopivaa jakajaa. Tämänkin havainnon teki Faraday, ja se antoi vahvaa tukea sähköhiukkasten eli elektronien olemassaololle aikana, jolloin niitä ei vielä varmasti ollut tunnistettu atomin osana.
+Jos elektrolyysissä käytettäviä aineita mitataan massan asemesta mooleina, samansuuruinen sähkövirta hajottaa samassa ajassa yhtä suuren moolimäärän mitä tahansa yhdenarvoisista ioneista koostuvaa elektrolyyttiä. Yhden moolin hajottamiseen tarvittavan sähkömäärän osoittaa Faradayn vakio, joka on 96 485,3383 As/mol. Jos elektrolyytti kuitenkin koostuu kahden- tai usemmanarvoisista ioneista, sama sähkövirta hajottaa samassa ajassa yhtä moninkertaisen määrän elektrolyyttiä.
+
+
+== Veden elektrolyysi ==
+
+Yksi merkittävimmistä elektrolyysin sovelluksista on vedyn sähkökemiallinen valmistus vedestä. Maapallolla kaikkein runsaimmin vetyä on saatavilla sitoutuneena happeen eli vetenä. Prosessina veden elektrolyysi sisältää veden (H2O) hajoamisen alkuaineikseen eli vedyksi (H2) ja hapeksi (O2), mikä edellyttää suhteellisen suurta määrää energiaa, sillä reaktion
+
+H2O → H2 + ½ O2entalpiaero on ΔHo = +289,5 kJ/mol. Monissa muissa vedyntuotantomenetelmissä tarvittava energia on usein peräisin kemiallisista sidoksista, mutta elektrolyysin kohdalla on mahdollista käyttää myös suoraa sähkövirtaa vesimolekyylin hajottamiseen. Kun sopivaan elektrolyyttiin sijoitettuihin elektrodeihin, eli niin sanottuun elektrolyysikennoon, synnytetään potentiaaliero, tapahtuu katodilla reaktio
+
+2H2O + 2e- →  H2 + 2OH-ja anodilla puolestaan reaktio
+
+2OH- →  ½O2 + H2O + 2e-.Reaktiot katodilla ja anodilla yhdessä muodostavat ensimmäisen kaavan mukaisen kennoreaktion, jossa vettä hajoaa vedyksi ja hapeksi.
+Veden elektrolyysille, kuten sähkökemiallisille reaktioille yleensä, pätee että reaktion vaatii sähköenergiaa Gibbsin energian verran, joka veden tapauksessa on NTP-olosuhteissa ΔGo = 237 kJ/mol. Gibbsin energia riippuu reaktion entropiasta ja lämpötilasta kaavan
+
+ΔGo = Ho - TΔSmukaisesti. Koska entropian muutos ΔS voi olla vain positiivinen, merkitsee suurempi lämpötila prosessissa pienempää energiankulutusta. Elektrolyysikennon hyötysuhde riippuu lisäksi käytetystä jännitteestä. Resistiivisten ja ylipotentiaalihäviöiden vuoksi kennojännitteet ovat tavallisesti 1,75–1,8 V ja jännitteitä vastaavat hyötysuhteet 80–85 %. Teoreettinen minimi jännitteelle on 1,48 V, joten jännitteen suhteen liikkumavaraa ei tavallisessa elektrolyysissä ole paljon.
+Tavallisessa elektrolyysikennossa on oma allas sekä katodille että anodille. Altaiden välissä on kaasutiivis seinämä, joka päästää ainoastaan sähkövirran lävitseen. Elektrolyysikennon positiiviselle anodille muodostuu happea ja negatiiviselle katodille vetyä. 
+Koska puhdas vesi sisältää vain niukasti ioneja, se johtaa vain heikosti sähköä. Sen johtavuuden lisäämiseksi siihen liuotetaan tavallisesti noin 25–36 % kaliumhydroksidia, joka koostuu K+- ja OH- -ioneista. Tällöin OH- -ionit hajovat niin, että niistä vapautuu happea, kun taas katodilla kalium ei suuren reaktiivisuutensa vuoksi vapaudu metallisessa muodossa, vaan se reagoi välittömästi veden kanssa vetyä vapauttaen. Lisäksi elektrolyytteinä käytetään esimerkiksi natriumkloridia sisältäviä tai polymeeriin sidottuja elektrolyyttejä.
+
+
+=== Teollinen käyttö ===
+Veden elektrolyysi on tunnettu keinona tuottaa vetyä jo yli vuosisadan ajan. Taloudellisesti kannattavan elektrolyysilaitoksen perustaminen edellyttää kuitenkin tarpeeksi edullisen sähkön saatavuutta, joten erityisesti suuret vesivoimavarat ovat houkutelleet lähelleen elektrolyysipohjaista vedynvalmistusta esimerkiksi Kanadassa ja Norjassa. Ensimmäisen suuren elektrolyysilaitoksen perusti Norsk Hydro vuonna 1927. Tällä hetkellä noin 5 % maailman vedystä tuotetaan elektrolyysillä.Teknologisesti veden elektrolyysi on kypsä teknologia ja sen hyötysuhde on jo varsin lähellä teoreettista maksimia, ollen nykyisin tavallisesti noin 80–85 %. Tämä tarkoittaa, että vedyn palaessa noin 80–85 % sen tuotantoon kuluneesta energiasta saadaan takaisin. Lopullinen nettohyötysuhde suhteessa primäärienergianlähteeseen riippuu luonnollisesti myös sähköntuotannon ja käyttökohteen hyötysuhteesta.
+Veden elektrolyysiteknologia voidaan jakaa kolmeen lupaavimpaan tyyppiin: Alkali-, polymeeri- ja höyryelektrolyysi. 
+
+
+==== 1) Veden alkalielektrolyysi ====
+Yleisin veden elektrolysointiteknologia on alkalielektrolyysi. Siinä hyödynnetään huokoisia, ioneja läpäiseviä kalvoja erottamaan kunkin kennon anodi- ja katodialueet, jotteivät reaktiotuotteet pääse uudelleen yhdistymään. Elektrolyyttinä käytetään voimakkaasti alkalista vesiliuosta, joka on yleensä kaliumhydroksidipohjaista. Sähköteholtaan nykyiset laitokset ovat yleensä 0,5–5 MW ja ne tuottavat 100–1000 m3 vetyä tunnissa.
+Veden alkalielektrolyysin teknologia on hyvin tunnettua ja testattua. Pääosa kehitystyöstä painottuukin nykyisin häviöiden minimointiin. Kennojen rakennetta ja geometriaa optimoidaan resistanssin minimoimiseksi ja elektrolyyttien ominaisuuksia parantamaan. Lisäksi kennojen materiaaleja pyritään kehittämään siten, että ne kestäisivät korkeampia lämpötiloja hyötysuhteen parantamiseksi.
+
+
+==== 2) Veden polymeerielektrolyysi ====
+Veden polymeerielektrolyysissä elektrolyyttinä on kiinteä polymeerikalvo, joka toimii protoneille johteena, sillä se sisältää sulfonihapporyhmiä, joiden ioninvaihto-ominaisuudet sallivat protonien siirtyä ryhmältä toiselle. Myös elektrodit ovat rakenteeltaan ohuita ja huokoisia, mikä sallii reaktiotuotteiden poistua niiltä esteettä. Yleinen elektrolyyttimateriaali on platina. Elektrodit ovat koko pinta-alaltaan yhteydessä virrankeräimiin, jotka ovat tavallisesti grafiittia katodipuolella ja titaania anodipuolella.Veden polymeerielektrolyysin hyötysuhde on pääsääntöisesti alkalielektrolyysiä parempi, mutta prosessina se vaatii materiaali- ja valmistusteknisesti haastavampia laitoksia. Tästä syystä veden polymeerielektrolyysin pääomakustannukset ovat korkeammat ja mittakaava yleensä pienempi verrattuna alkalielektrolyysereihin. Tyypillisesti polymeerielektrolyyserin sähköteho jää alle 100 kW:n. Mielenkiintoiseksi tekniikan tekee mahdollisuus niin sanottuun reversiibeliin polttokennoon, joka voisi sekä polttaa että tuottaa vetyä tarpeen mukaan. Selvää on, että polymeeriteknologia sopii parhaiten paikalliseen, pienen mittakaavan vedyntuotantoon.
+
+
+==== 3) Veden höyryelektrolyysi ====
+Parhaat hyötysuhteet veden elektrolyysissä saavutetaan korkeissa lämpötiloissa, mitä pyritään hyödyntämään veden höyryelektrolyysissä. Korkea lämpötila asettaa kuitenkin elektrolyysikennon valmistusmateriaaleille ja rakenteelliselle suunnittelulle ongelmia, joita toistaiseksi ei ole tyydyttävästi kyetty ratkaisemaan. Teknologia on kuitenkin sangen lupaava ja voi tulevaisuudessa parantaa elektrolyysin hyötysuhdetta.
+Veden höyryelektrolyysi tapahtuu kartiomaisista segmenteistä koostuvassa putkessa, jonka seinämän läpi happi-ionit kulkevat. Rakenteeltaan höyryelektrolyyseri koostuu putkimaiseen sarjaan liitetyistä katkaistun kartion muotoisista zirkoniumoksidisegmenteistä, jotka ovat läpimitaltaan noin 1–2 cm. Niiden koko pinta-ala on elektrodia – sisäpuolelta katodia ja ulkopuolelta anodia. Elektrodit on kytketty sarjaan siten, että edellisen segmentin sisäpinta on kytketty seuraavan sisäpintaan ja päinvastoin. Suurin teknologinen ongelma liittyykin tällä hetkellä sopivan elektrodimateriaalin valintaan.
+Veden höyryelektrolyysi perustuu zirkoniumoksidin kykyyn johtaa happi-ioneja. Kuumaa vesihöyryä suihkutetaan putken alaosasta sisään ja veden sisältämä happi kulkeutuu ioneina putken ulkopuolelle. Putken toisesta päästä virtaa ulos vedyn ja reagoimattoman vesihöyryn seosta, josta vety erotetaan kaasunerottimella. Laitteen suoraviivainen toimintatapa ja korkea hyötysuhde tekevät siitä erittäin houkuttelevan teknologian, mutta toistaiseksi materiaalien kestävyys on ollut suuri ongelma ja nykyiset laitteet ovatkin herkkiä rikkoutumaan.
+
+
+== Metallien elektrolyysi ==
+Elektrolyysiä voidaan käyttää eri metallien valmistamiseen ja puhdistamiseen. Jotkut metallit esiintyvät luonnossa pelkästään yhdisteinä, kun taas joillekin elektrolyysi voi olla ainoa tapa erottaa ne puhtaaksi alkuaineeksi. Esimerkiksi alumiinin ja useiden alkali­​- ja maa-­alkalimetallien sekä puhtaan elektrolyyttisen kuparin tuotanto perustuu elektrolyysiin. Elektrolyysiä käytetään metallien yhteydessä myös silloin, kun halvoista metalleista tehtyjä esineitä päällystetään toisilla metalleilla. ­Esimerkiksi galvanoitu teräs on terästä, joka on päällystetty elektrolyyttisesti sinkillä. Sinkkikerroksen ansioista galvanoitu teräs kestää korroosiota paremmin.
+
+
+==== 1) Sähkökemiallisen korroosion esto ====
+Luonnossa metallit pyrkivät takaisin luonnolliseen tilaansa eli kemiallisiksi yhdisteiksi, toisin sanottuna ollessaan puhdasta metallia, se reagoi herkästi ympäristön kanssa. Tätä prosessia kutsutaan korroosioksi ja erityisesti kosteassa ympäristössä tapahtuva korroosio tulkitaan sähkökemialliseksi korroosioksi. Tämä onkin metallien tapauksessa yleinen korroosion muoto. Metallien korroosiota pyritään estämään elektrolyysin keinoin yleisesti kahdella eri tavalla: pinnoituksella tai anodisella ja katodisella suojauksella. 						Pinnoituksessa puhtaan metallin pinnalle pelkistetään sähkövirran avulla toista metallia oleva kerros. Näin ollen se suojaa metallin kosteudelta ja hapen vaikutukselta. Teräs voidaan esimerkiksi päällystää kromilla tai tinalla, jotka reagoivat herkästi hapen kanssa, jolloin teräs saa suojaavan oksidipinnan.
+
+
+==== 2) Metallien elektrolyysi teollisuudessa ====
+Yksi tärkeimmistä elektrolyysin teollisista sovelluksista on metallisen alumiinin valmistus. Tässä prosessissa alumiinioksidi pelkistyy grafiitilla peitetyssä teräsastiassa lähes puhtaaksi alumiiniksi. Elektrolyysissä katodina toimii teräsastian grafiittipäällyste ja anodina grafiittisauvat. Valmis tuote sisältää 99,0­99,9 % alumiinia. Menetelmää kutsutaan Hall­​-Heroult­-p​rosessiksi. 						Muita teollisia prosesseja, joissa hyödynnetään elektrolyysiä
+
+alumiinin, kaliumin, kalsiumin, kloorin, kuparin, litiumin, magnesiumin, natriumin, natriumhydroksidin, valmistus elektrolyysin avulla­esikäsittelynä metallien liimauksessa.
+
+
+== Katso myös ==
+
+Elektrolyysi metallien valmistuksessa, puhdistuksessa ja pinnoituksessa
+Galvaaninen kenno
+Korkean lämpötilan elektrolyysi
+Sähkömäärä elektrolyysissä
+Sinkitys
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+Opetus TV: Elektrolyysi

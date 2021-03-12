@@ -1,0 +1,58 @@
+
+== Profil misji Apollo ==
+Profil standardowej misji programu Apollo zawiera wszystkie elementy misji niezbędne do lądowania człowieka na powierzchni Księżyca i niezbędne do powrotu na Ziemię. Moduł księżycowy LM znajdował się w adapterze SLA będącym elementem rakiety Saturn V. Skrót SLA pochodzi od ang. Spacecraft LM Adapter.
+
+
+=== Lot na orbitę okołoziemską ===
+Po starcie Saturna V SA504 z wyrzutni Centrum Kosmicznego im. Kennedy’ego, pierwszy człon rakiety, pracując około dwie i pół minuty, nadawał statkowi kosmicznemu prędkość 8640 km/godz. i wynosił go na wysokość około 64 kilometrów w odległości około 97 kilometrów od miejsca startu. Kiedy silnik pierwszego członu kończył pracę, był odłączany i cztery sekundy później uruchamiały się silniki drugiego członu. Tenże stopień pracował przez sześć minut i wynosił Apollo na wysokość około 180 kilometrów, zwiększając prędkość statku kosmicznego do 24 000 km/godz. W czasie gdy pracowały silniki drugiego członu odrzucany był ucieczkowy zespół ratunkowy. Kiedy silniki drugiego członu kończyły pracę, był odrzucany i uruchamiał się silnik trzeciego członu. Apollo napędzany trzecim członem był wprowadzany na orbitę okołoziemską (około 184 km) przy prędkości 26 400 km/godz., po czym silnik członu był wyłączany.
+Załoga mogła okrążać Ziemię maksymalnie trzy razy, przygotowując w tym czasie statek kosmiczny do podróży w stronę Księżyca.
+
+
+=== Lot do orbity Księżyca ===
+Po upływie 4,5 godziny, ponownie włączany był silnik trzeciego stopnia (S-IVB) rakiety Saturn V, i pracując przez pięć minut i trzydzieści sekund nadawał pojazdowi kosmicznemu drugą prędkość kosmiczną i kurs w kierunku Księżyca, był to przedostatni cykl pracy silnika trzeciego członu, a moment pracy silnika nazywano TLI (Trans-Lunar Injection).  W tym momencie Apollo osiągał prędkość 38 880 km/godz i był oddalony od Ziemi o 305 km. Częścią członu S-IVB był adapter, w którym transportowano do rejonu TLI moduł księżycowy LM.
+
+Poruszający się z II prędkością kosmiczną zestaw składający się z CSM i trzeciego członu rakiety Saturn V odłączał od siebie wspomniany człon S-IVB w ten sposób, że kiedy silnik członu S-IVB wyłączał się po raz przedostatni, moduł CSM odłączał się od członu S-IVB poprzez zadziałanie eksplozywnych połączeń i odsuwał się od niego na odległość około 20 metrów. Jednocześnie w tym momencie były otwierane i odrzucane cztery panele adaptera, w którym znajdował się moduł księżycowy LM. CSM oddalony od adaptera o około 20 metrów obracał się o 180°, wracał do modułu księżycowego i przycumowywał od strony modułu dowodzenia. Moduł księżycowy LM odłączał się od adaptera poprzez zadziałanie czterech małych ładunków wybuchowych w punktach, gdzie LM był przymocowany do adaptera. Moduły CSM i LM łączyły się włazami dokowania i tworząc zestaw CSM i LM rozdzielały się z członem S-IVB. Wszystkie manewry związane z rozłączeniem członu S-IVB i utworzeniem konfiguracji transksiężycowej były realizowane mocą silników RCS modułu serwisowego. W tej konfiguracji CSM i moduł księżycowy podążały do orbity okołoksiężycowej. Człon S-IVB wypalając resztki paliwa zostawał wprowadzany na orbitę okołosłoneczną, w ten sposób, że kierowany na krawędź Księżyca wykorzystywał jego grawitację do uzyskania większej prędkości niż nadał mu jego silnik. Tak rozpędzony człon S-IVB, jeżeli nie trafił w Księżyc, rozpoczynał bardzo długą okołosłoneczną podróż.
+W czasie lotu bezwładnościowego w kierunku Księżyca bywała przeprowadzana transmisja telewizji kolorowej z pokładu Apollo (nie podczas każdej misji). Po 24 godzinach była przeprowadzana korekcja kursu poprzez włączenie na kilka sekund silnika głównego modułu CSM, przy większych odchyleniach od kursu, lub poprzez pracę silników Systemu Sterowania Reakcyjnego przy mniejszych. Do tego momentu razem ze statkiem Apollo (w pobliżu) podróżowały cztery panele adaptera LM, po korekcji kursu ich drogi się rozchodziły. Jeżeli była taka konieczność, takich korekcji kursu na trasie do orbity Księżyca mogło być trzy.
+
+
+=== Operacje na orbicie okołoksiężycowej i na Księżycu ===
+Wprowadzenie na orbitę okołoksiężycową następowało po trzech dniach i było osiągane poprzez obrót statku kosmicznego o 180° i włączenie silnika głównego modułu CSM przez 357 sekund w celu zmniejszenia prędkości.
+Czwartego dnia dwaj astronauci, dowódca i pilot LM przechodzili z modułu CSM na pokład modułu LM, aby przeprowadzić ostatnie sprawdzenie. Po około czterech dniach i pięciu godzinach CSM i LM rozdzielały się skutkiem zadziałania silników systemu sterowania reakcyjnego modułu LM. Po wizualnej inspekcji LM przez dowódcę CSM, następowało uruchomienie silnika opadania LM na 30 sekund wprowadzając po 50 minutach LM na niższą orbitę 14,5 km nad powierzchnią Księżyca. Na niższej orbicie silnik opadania zostawał uruchomiany na 756 sekundy co rozpoczynało lądowanie. LM lądował po dalszych kolejnych dwunastu minutach.
+Start członu wznoszenia z powierzchni Księżyca odbywał się z platformy, którą był człon zniżania, a urządzeniem napędzającym człon wznoszenia był silnik rakietowy członu wznoszenia. Dokowanie z CSM odbywało się po czterech godzinach i 20 minutach od startu z Księżyca. Po dokowaniu z CSM, LM zostawał odłączany od CSM poprzez zadziałanie małych ładunków wybuchowych umieszczonych na mechanizmie dokowania, przez co mechanizm dokowania i moduł księżycowy pozostawały na orbicie Księżyca.
+
+
+=== Lot w kierunku Ziemi ===
+Powrót na Ziemię rozpoczynał się 2½ minutową pracą głównego silnika CSM, co zwiększało prędkość CSM do 8800 km/godz. Prędkość ta była konieczna do opuszczenia pola grawitacyjnego Księżyca. Po wejściu w rejon grawitacji ziemskiej szybkość Apollo, aż do skraju atmosfery, już tylko rosła i osiągała ponad 40 000 km/godz. Podróż w kierunku Ziemi trwała około 60 godzin. Przed wejściem w atmosferę ziemską Moduł Dowodzenia odłączał się od Modułu Serwisowego poprzez zadziałanie małych ładunków wybuchowych i silników systemu sterowania reakcyjnego Modułu Dowodzenia.
+
+
+=== Wejście w atmosferę ziemską ===
+
+Moduł Dowodzenia wchodził w atmosferę ziemską i poruszał się w niej podstawą skierowaną do przodu.
+Kąt wejścia w atmosferę nie mógł być za ostry ani zbyt płaski i wynosił około – 6,4 stopnia (szczegóły na wykresie). Lądowanie było sterowane automatycznie, chociaż załoga posiadała również zdublowany system sterowania ręcznego.
+Począwszy od wysokości 130 km moduł dowodzenia zaczynał odczuwać opór atmosfery. Prędkość 40 000 km/godz. generowała na osłonie termicznej CM temperaturę dochodząca do 4200 stopni, a przeciążenie maksymalne sięgało 5 G. Na wysokości 8000 metrów odrzucana była osłona termiczna, aby umożliwić rozwinięcie spadochronów. Spadochrony hamujące były zrefowane pojedynczo i rozwijały się po kilku sekundach. Zmniejszały one prędkość opadania modułu dowodzenia z 520 do 200 km/godz. Kiedy wysokość zbliżała się do poziomu 4000 metrów spadochrony hamujące były odłączane i rozwijał się pilocik spadochronów głównych. Były one podwójnie zrefowane i rozwijały się w dwóch etapach. Rozwinięcie tych spadochronów powodowało dalsze zmniejszenie prędkości opadania i w efekcie prędkość opadania malała do 35 km/godz.
+Kiedy tylko otworzyły się spadochrony główne załoga uruchamiała wypalanie resztek paliwa rakietowego Systemu Sterowania Reakcyjnego, włączała radiolatarnię VHF wskazującą położenie modułu dowodzenia, ustawiała leżanki w położenie do lądowania, przedmuchiwała przewody paliwowe. Finałowy etap opadania na spadochronach głównych trwał pięć minut. Apollo wodował na Oceanie Spokojnym po około 195 godzinach (było tak w misji Apollo 11), kolejne misje były dłuższe.
+
+
+=== Człon S-IVB ===
+
+Po wykonaniu swojego ostatniego zadania, tzn. nadania statkowi kosmicznemu Apollo prędkości ucieczki z Ziemi, w misjach Apollo 8, Apollo 9, Apollo 10, Apollo 11 i Apollo 12człon S-IVB był kierowany na orbitę okołosłoneczną. W misjach Apollo 13, Apollo 14, Apollo 15, Apollo 16 i Apollo 17 człon S-IVB był rozbijany o powierzchnię Księżyca i był to jeden z elementów operacji pomiarów sejsmicznych służących do określenia charakterystyki rdzenia księżycowego.
+Zdjęcie po lewej stronie przedstawia trzeci człon rakiety Saturn V i adapter SLA w siódmej misji programu Apollo. W standardowych misjach wewnątrz adapteru znajdował się moduł księżycowy LM. Adapter był elementem rakiety Saturn V przeznaczonym do przewożenia modułu LM. Na zdjęciu cztery panele adapteru są ustawione w pozycji całkowicie otwartej w sytuacji kiedy nie ma tam modułu księżycowego. Adapter jest to miejsce, w którym moduł księżycowy był złożony w czasie startu, podczas przelotu na orbitę i na początku drogi na Księżyc. W misjach wymagających użycia modułu księżycowego (LM), przed dokowaniem LM od strony Modułu Dowodzenia, cztery panele były otwierane i odrzucane. Zdjęcie to zostało wykonane podczas misji Apollo 7, kiedy LM nie był przewożony. W misjach, w których moduł księżycowy (LM) był przewożony, taki widok adaptera nie był możliwy, ponieważ cztery panele odpadały zanim LM opuścił adapter.
+
+
+== Zobacz też ==
+Program Apollo
+Moduł księżycowy LM
+Moduł Dowodzenia/Serwisowy CSM
+Wejście statku kosmicznego Apollo w atmosferę ziemską
+Rakietowy System Ratunkowy (LES)
+
+
+== Przypisy ==
+
+
+== Bibliografia ==
+Apollo Operations Handbook
+
+
+== Linki zewnętrzne ==
+Animacja misji oficjalnej strony Apollo

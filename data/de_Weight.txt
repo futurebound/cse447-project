@@ -1,0 +1,267 @@
+Die Gewichtskraft, auch Gewicht, ist die durch die Wirkung eines Schwerefeldes verursachte Kraft auf einen Körper. Im rotierenden Bezugssystem eines Himmelskörpers (wie dem der Erde) setzt sich dieses Schwerefeld aus einem Gravitationsanteil und einem kleinen Zentrifugalanteil zusammen. Die Gewichtskraft ist lotrecht nach unten gerichtet, was im Schwerefeld der Erde beinahe, aber nicht exakt, der Richtung zum Erdmittelpunkt entspricht.
+Als Formelzeichen wird meist 
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            G
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{\text{G}}}
+   oder 
+  
+    
+      
+        
+          
+            
+              G
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {G}}}
+   verwendet. Die SI-Einheit für die Gewichtskraft ist das Newton (N).
+
+
+== Betrag, Richtung und Angriffspunkt ==
+Die Gewichtskraft 
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            G
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{\text{G}}}
+   kann als Produkt der Masse 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   mit der Schwerebeschleunigung 
+  
+    
+      
+        
+          
+            
+              g
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {g}}}
+   berechnet werden:
+
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            G
+          
+        
+        =
+        m
+        
+        
+          
+            
+              g
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{\text{G}}=m\,{\vec {g}}}
+  Abgesehen von geringen Unregelmäßigkeiten ist die Gewichtskraft eines Körpers stets zum Mittelpunkt des Himmelskörpers hin gerichtet, auf dem er sich befindet, da das Schwerefeld in guter Näherung ein Radialfeld ist. In den meisten Anwendungen erreicht man aber auch eine ausreichende Genauigkeit, wenn man das Schwerefeld als homogenes Feld ansieht, nämlich dann, wenn alle Abmessungen viel kleiner als der Radius des Himmelskörpers sind. In diesem Fall hat die Gewichtskraft an jedem Ort gleiche Richtung und gleiche Stärke.
+Die Bahnkurve eines bewegten starren Körpers verläuft genau so, als griffe die gesamte Gewichtskraft im Gravizentrum (Schwerpunkt) des Körpers an. Das gilt auch für die Bewegung des Schwerpunkts eines Systems mehrerer Körper.  In einem homogenen Gravitationsfeld stimmt das Gravizentrum mit dem Massenmittelpunkt überein. Ist die Gewichtskraft die einzige wirkende Kraft, so befindet sich der Körper bzw. das Mehrkörpersystem im Zustand des freien Falls. Da die Trägheit eines Körpers von der Masse in derselben Weise abhängt wie die Gewichtskraft, sind die Beschleunigungen aller frei fallenden Körper gleich. Die Fallbeschleunigung hängt also nicht von der Masse oder anderen Eigenschaften des Körpers ab, sondern höchstens von seinem Ort.
+
+
+== Gewichtskraft auf der Erde ==
+
+Auf der Erdoberfläche kann man für die Schwerebeschleunigung den Näherungswert 
+  
+    
+      
+        g
+        =
+        9
+        
+          ,
+        
+        81
+        
+        
+          
+            
+              m
+              
+                s
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle g=9{,}81\,\mathrm {\tfrac {m}{s^{2}}} }
+   verwenden.Möchte man die Gewichtskraft auf der Erde jedoch genauer bestimmen, so ist die Ortsabhängigkeit der Schwerebeschleunigung (
+  
+    
+      
+        g
+        =
+        9
+        
+          ,
+        
+        78
+        
+        
+          
+            
+              m
+              
+                s
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle g=9{,}78\,\mathrm {\tfrac {m}{s^{2}}} }
+   am Äquator bzw. 
+  
+    
+      
+        9
+        
+          ,
+        
+        83
+        
+        
+          
+            
+              m
+              
+                s
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle 9{,}83\,\mathrm {\tfrac {m}{s^{2}}} }
+   an den Polen) durch Schwereformeln zu berücksichtigen, beispielsweise durch die Formel von Somigliana. Für diese Ortsabhängigkeit gibt es verschiedene Ursachen:
+
+die durch die Erdrotation verursachte Zentrifugalbeschleunigung,
+die unterschiedliche Stärke der Gravitation aufgrund der Erdabplattung,
+lokale Gravitationsanomalien.Auf der Erdoberfläche hängen die ersten beiden Effekte von der geographischen Breite ab: der erste, weil die Breite den Abstand des Standorts von der Erdachse bestimmt; der zweite, weil die Breite den Abstand vom Erdmittelpunkt und die genaue Verteilung der Erdmasse in Bezug zum Standort bestimmt. Dazu kommt eine Abhängigkeit von der Höhe des Standorts über der Erdoberfläche.
+
+
+== Gewichtskraft und Masse ==
+In der Alltagssprache wird vom Gewicht eines Körpers gesprochen, ohne zu unterscheiden, ob damit seine Masse oder seine Gewichtskraft gemeint ist. Dennoch handelt es sich um sehr unterschiedliche physikalische Begriffe:
+
+Die Masse ist ein Maß dafür, wie stark ein Körper ganz allgemein von Gravitationsfeldern beeinflusst wird und wie sehr er sich Beschleunigungen widersetzt (Trägheit).
+Die Gewichtskraft hingegen gibt an, wie stark ein Körper konkret von der Erde oder dem Himmelskörper, auf dem er sich befindet, angezogen wird.Die Masse ist daher eine dem Körper innewohnende Eigenschaft, während die Gewichtskraft Resultat eines äußeren Einflusses auf den Körper ist.
+Demzufolge ist die Masse eines Körpers, unabhängig von dem Ort, an dem er sich befindet (Erde, Mond, Schwerelosigkeit,  …), stets gleich, während die auf ihn wirkende Gewichtskraft von der Schwerebeschleunigung abhängt. (Auf dem Mond beträgt die Gewichtskraft nur ungefähr ein Sechstel derjenigen auf der Erde. Ein Körper mit einer Masse von 6 kg ist daher auf dem Mond nur so schwer wie ein Körper mit einer Masse von 1 kg auf der Erde)
+Bis 1960 war es üblich, die Kraft in der Einheit Kilopond (kp) anzugeben. Diese war so definiert, dass die Gewichtskraft auf der Erde, gemessen in Kilopond, dieselbe Maßzahl hatte wie die Masse in Kilogramm (
+  
+    
+      
+        1
+        
+        
+          k
+          p
+        
+        =
+        g
+        ⋅
+        1
+        
+        
+          k
+          g
+        
+      
+    
+    {\displaystyle 1\,\mathrm {kp} =g\cdot 1\,\mathrm {kg} }
+  ). Danach wurde das Kilopond im SI-Einheitensystem durch die Einheit Newton (1 kp = 9,80665 N ≈ 1 daN) ersetzt. Seither haben die Masse und die Gewichtskraft Maßzahlen, die sich näherungsweise um den o. g. Faktor 
+  
+    
+      
+        9
+        
+          ,
+        
+        81
+      
+    
+    {\displaystyle 9{,}81}
+   unterscheiden.
+
+
+== Messung ==
+
+Messgeräte zur direkten Feststellung einer Gewichtskraft sind Kraftmesser, beispielsweise Federwaagen. Allerdings verfälscht der statische Auftrieb das Ergebnis, was sich insbesondere bei Körpern geringer Dichte bemerkbar macht.
+Indirekt kann man die Gewichtskraft auch durch Wägung und anschließende Umrechnung des Wägewerts bestimmen. Bei einer genaueren Betrachtung der Funktionsweise einer Waage stellt man fest, dass die eigentliche direkt erfasste Messgröße ohnehin die um den Auftrieb verfälschte Gewichtskraft ist, auch wenn als Wägewert eine Masse angezeigt wird. So vergleicht z. B. eine einfache Balkenwaage die Kräfte, die die beiden Massen auf ihre jeweilige Waagschale ausüben.
+
+
+== Literatur ==
+Gewichtskraft wird in vielen in die Mechanik einführenden Büchern erklärt. Beispielhaft seien hier genannt:
+
+Paul A. Tipler, Gene Mosca: Physik. 6. Auflage. Spektrum Verlag, 2006, ISBN 978-3-8274-1945-3. 
+Christian Gerthsen, Dieter Meschede: Physik. 24. Auflage. Springer Verlag, ISBN 978-3-642-12893-6, S. 654–666 (Google Books). 
+
+
+== Einzelnachweise ==

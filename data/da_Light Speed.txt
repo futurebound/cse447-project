@@ -1,0 +1,696 @@
+Mekanik hører til blandt de allermest grundlæggende, og allerældste fysiske områder.
+Den fysiske mekanik eller klassiske mekanik beskriver nemlig helt basale ting såsom legemers bevægelse, kræfter og planeternes baner. Denne del af fysikken har derfor naturligt nok været i fokus hos fysikerne i mange århundreder. 
+Mekanikken beskriver dog også mere avancerede ting som for eksempel kvantemekanik og rotationsmekanik.
+
+
+== Klassisk mekanik ==
+
+Den klassiske mekanik er den del af den overordnede mekanik, som blandt andet beskriver legemers bevægelse, og vekselvirkningen mellem disse legemer i tilfælde af sammenstød, blot for at tage nogle eksempler. Med nogle af den klassiske mekaniks formler og læresætninger kan man altså beskrive, hvilke kræfter der virker på et legeme, og hvilke udfald det vil få. Når man bevæger sig videre ind i den rotationelle mekanik, kan man også begynde at beskrive bevægelsen af roterende legemer, som for eksempel et cykelhjul.
+
+
+=== Begreber ===
+Inden for mekanikken findes der et væld af begreber, som bruges til dagligt, måske uden at tænke videre over, at det rent faktisk er fysiske begreber. Følgende begrebsguide er et godt sted at starte, inden man giver sig i kast med mekanikken. Læs eventuelt følgende beskrivelser og kig nærmere på den enkelte side for en yderligere beskrivelse af det enkelte tema.
+
+
+==== Masse ====
+
+Masse er det måske mest grundlæggende begreb af alle, om ikke andet så inden for mekanikken. Vores opfattelse af masse, og hvordan vi bruger det i hverdagen er rent faktisk kun en del af hvad masse i virkeligheden er.
+Masse er i dagligdagen en fastsat standardiseret størrelse. Et lod er udstillet i Paris, og dette er måleenheden for, hvad et kilogram er. 
+Masse er også undertiden kaldt for inerti, eller bevægelsestræghed. Kort sagt vil man have sværere ved at sætte noget stort og tungt i bevægelse, i forhold til noget småt og let, hvilket også stemmer overens med vores erfaringer fra hverdagen. Det er lettere at få en legetøjsbil i bevægelse i forhold til en lastbil. 
+Derimod vil lastbilen fastholde bevægelsen længere end legetøjsbilen vil gøre det, når først den er sat i bevægelse. Dette er kort sagt princippet bag inerti, eller masse.
+
+
+==== Hastighed ====
+
+Hastighed er matematisk set en vektor, som fortæller om, hvor langt et legeme bevæger sig inden for en bestemt tidsenhed, og i hvilken retning det foregår. Hastigheden fremkommer altså ved at differentiation strækningen med hensyn til tiden. 
+Fart er en anden betegnelse, som ofte forveksles med hastighed. Farten beskriver dog i stedet længden af vektoren, og fortæller dermed intet om retningen af bevægelsen.
+
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    s
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}={d{\vec {s}} \over dt}}
+  Hastighedens betegnelse (v) er den internationale betegnelse for hastighed, og kommer af det latinske ord velocitas.
+SI-enheden for hastighed er meter per sekund.
+
+  
+    
+      
+        v
+        [
+        m
+        
+          /
+        
+        s
+        ]
+      
+    
+    {\displaystyle v[m/s]}
+  Inden for den klassiske mekanik opererer man udelukkende med lave hastigheder, da hastigheder, der kommer i nærheden af lysets hastighed, kan have stor betydning for udregningnerne.
+Man mener desuden, at lysets hastighed (c) er en absolut hastighed, dvs. at det er den højst opnåelige hastighed såvel som at nul Kelvin principielt er den lavest opnåelige temperatur. Dette har vakt stor diskussion, for hvad der sker, når man opnår disse hastigheder. 
+Et af de klassiske eksempler på en af disse tænkte situationer er, hvad der vil ske med lyset, når man kører i en bil med lysets hastighed og tænder forlygterne.
+
+
+==== Acceleration ====
+
+Acceleration er ligeså vel som hastigheden, en vektor. Accelerationen fortæller, hvor meget hastigheden ændrer sig per tidsenhed og opnås ved at differentiere hastigheden. 
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                d
+                t
+              
+            
+          
+          
+            (
+            
+              
+                
+                  d
+                  
+                    
+                      
+                        s
+                        →
+                      
+                    
+                  
+                
+                
+                  d
+                  t
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}={{d \over dt}\left({d{\vec {s}} \over dt}\right)}={d{\vec {v}} \over dt}}
+  SI-enheden for acceleration er således meter per sekund per sekund, eller meter per sekund i anden.
+
+  
+    
+      
+        a
+        [
+        m
+        
+          /
+        
+        
+          s
+          
+            2
+          
+        
+        ]
+      
+    
+    {\displaystyle a[m/s^{2}]}
+  Som man sikkert ved fra tog eller bil, kan man ikke mærke hastigheden. Man kan derimod mærke, når bilen starter, og man bliver presset tilbage i sædet. Dette kommer vi dog tilbage til, når vi kommer til kraft, men kort sagt er acceleration det, der ligger til grund for, hvad vi kalder kraft.
+Desuden kender vi alle til acceleration, og derigennem kraft gennem den såkaldte tyngdeacceleration (g). 
+Det er denne kraft, som holder os og alt andet på jorden. Denne kraft bliver dannet af den såkaldte massevirkningslov.
+
+  
+    
+      
+        g
+        =
+        9
+        ,
+        82
+        m
+        
+          /
+        
+        
+          s
+          
+            2
+          
+        
+      
+    
+    {\displaystyle g=9,82m/s^{2}}
+  I og med at hastigheden er en vektor, og at acceleration opstår når der forekommer en hastighedsændring, sker det altså ikke udelukkende når en bil ændrer hastighed fra 10-20 m/s, men også hvis en bil drejer eller kører i cirkler. Dette kender man blandt andet fra bagsædet når man kører ind i en rundkørsel eller drejer i et skarpt sving. Selvom en bil altså kører i cirkler, og speedometret står på 20 km/t vil bilen stadig konstant accelerere.
+
+
+==== Impuls ====
+
+Impulsen er en størrelse som man har indført for at være i stand til at beskrive sammenstød noget bedre. Impulsen bliver nemlig oftest brugt i forbindelse med sammenstød mellem to legemer. Som man intuitivt kan forestille sig, er der stor forskel på hvorvidt man spiller billard med en bordtennisbold eller en billardbal.
+Man har derfor indført, at impulsen (p, ikke at forveksle med tryk) er beskrevet ved massen ganget med hastigheden. 
+
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+        =
+        
+          m
+          ⋅
+          
+            
+              
+                d
+                
+                  
+                    
+                      s
+                      →
+                    
+                  
+                
+              
+              
+                d
+                t
+              
+            
+          
+        
+        =
+        m
+        ⋅
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}={m\cdot {d{\vec {s}} \over dt}}=m\cdot {\vec {v}}}
+  SI-enheden på impuls er ganske simpelt: 
+  
+    
+      
+        p
+        
+          [
+          
+            k
+            g
+            ⋅
+            
+              
+                m
+                s
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle p\left[kg\cdot {m \over s}\right]}
+  
+Dette stemmer godt overens med vores intuition, at massen har stor betydning, når det kommer til impulsen. Den føromtalte bordtennisbold er ikke i stand til at sætte ballerne i bevægelse, da den ganske enkelt vejer for lidt. Hastigheden skal altså gøre det ud for massen, men der skal meget fart på før det kommer til at gøre en forskel.
+Som det er til at se ovenfor, er impulsen også en vektor, da det egentlig blot er hastigheden med en konstant ganget på.
+Inden for den klassiske mekanik findes der desuden et grundlæggende begreb, impulsbevarelse, der siger at: impulsen er altid bevaret i konservative kraftfelter.
+
+
+==== Kraft ====
+
+Kraft er det sidste begreb, som bliver berørt i denne sammenhæng. Kraften har i princippet altid været kendt, eftersom kraft blandt andet er det, der holder os på jorden så at sige. Newton var dog blandt de første til decideret at formulere, hvordan man kan regne på kræfter. Der er dog alligevel ingen der helt ved, hvad kraft egentlig er. 
+Newton lagde altså grunden for kræfter ved at fremsætte de mest kendte love inden for mekanikken, nemlig Newtons tre love. Disse kaldes hhv.
+
+Newtons første lov
+Newtons anden lov og
+Newtons tredje lovKraften er, når man regner på den, en vektor og dannes ved ændringen i impulsen per tidsenhed. I og med at impulsen er masse ganget med legemets hastighed, kan kraften yderligere omskrives til noget mere simpelt. Nemlig masse gange acceleration. Dvs.
+
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    p
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          m
+          ⋅
+          
+            
+              
+                d
+                
+                  
+                    
+                      v
+                      →
+                    
+                  
+                
+              
+              
+                d
+                t
+              
+            
+          
+        
+        =
+        m
+        ⋅
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}={d{\vec {p}} \over dt}={m\cdot {d{\vec {v}} \over dt}}=m\cdot {\vec {a}}}
+  
+Enheden for kraft er navngivet efter ham der har haft størst betydning for matematikken bag kræfter, og kaldes altså newton.
+
+  
+    
+      
+        [
+        F
+        ]
+        =
+        k
+        g
+        ⋅
+        
+          
+            m
+            
+              s
+              
+                2
+              
+            
+          
+        
+        =
+        N
+      
+    
+    {\displaystyle [F]=kg\cdot {m \over s^{2}}=N}
+  
+Se Newtons tre love, eller afsnittet acceleration for yderligere beskrivelser omkring kraft.
+
+
+== Rotationel mekanik ==
+
+Den rotationelle mekanik adskiller sig væsentligt fra den klassiske mekanik i og med, at man også nu regner på rotationen i systemer. Det karakteristiske for den klassiske mekanik var, at man blot regnede på retlinede bevægelser, det kunne som allerede nævnt være en bil hen ad en vej, men hvis foretager en fuldstændig betragtning, kommer den rent faktiske bevægelse fra hjulene på bilen, som unægtelig roterer. Det samme gør sig naturligvis gældende for en cykel, og i allerhøjeste grad også en helikopter. Rotationel mekanik indgår altså mange steder i vores hverdag.
+
+
+=== Begreber ===
+Inden for denne form for mekanik findes der en række nye begreber, som egentlig ikke afviger drastisk fra de begreber, vi allerede kender til, hvis man blot sammenligner med lidt fornuft. Om ikke andet afviger de, da visse grundlæggende begreber såsom hastighedsbegrebet ikke længere eksisterer i helt samme forstand.
+
+
+==== Vinkelhastighed ====
+
+Vinkelhastighed har i bund og grund mere med matematik, end fysik at gøre, men ikke desto mindre defineres vinkelhastighed ved ændringen i vinklen per tidsenhed. Mere matematisk skrives det således op:
+
+  
+    
+      
+        ω
+        =
+        
+          
+            
+              d
+              Θ
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \omega ={\frac {d\Theta }{dt}}}
+  Enheden på dette er simpelt nok radianer per sekund altså 
+  
+    
+      
+        
+          [
+          
+            
+              
+                r
+                a
+                d
+              
+              s
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \left[{\frac {rad}{s}}\right]}
+   eller blot 
+  
+    
+      
+        
+          /
+        
+        s
+      
+    
+    {\displaystyle /s}
+  .
+Som det ses ovenfor betegnes vinkelhastigheden ved det lille græske bogstav omega.
+
+
+==== Vinkelacceleration ====
+Fuldstændig analogt til den traditionelle mekanik, hvor accelerationen fås ved at differentiere hastigheden, fås vinkelaccelerationen ved at differentiere vinkelhastigheden. Det gøres således:
+
+  
+    
+      
+        α
+        =
+        
+          
+            
+              d
+              ω
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                (
+                
+                  
+                    
+                      d
+                      Θ
+                    
+                    
+                      d
+                      t
+                    
+                  
+                
+                )
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \alpha ={\frac {d\omega }{dt}}={\frac {d\left({\frac {d\Theta }{dt}}\right)}{dt}}}
+  Tilsvarende er enheden på dette således 
+  
+    
+      
+        
+          [
+          
+            
+              
+                r
+                a
+                d
+              
+              
+                s
+                
+                  2
+                
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \left[{\frac {rad}{s^{2}}}\right]}
+   eller blot 
+  
+    
+      
+        
+          s
+          
+            −
+            2
+          
+        
+      
+    
+    {\displaystyle s^{-2}}
+  
+
+
+==== Inertimoment ====
+
+Inertimomentet er en lidt speciel størrelse, som dybest set svarer til massen i den traditionelle mekanik. Det er altså noget der fortæller hvor "modvillig" et legeme er til at foretage en ændring i dens tilstand, altså i en vis forstand hvor meget der skal til for at få legemet til at accelerere. Inertimomentet I beregnes således:
+
+  
+    
+      
+        I
+        =
+        ∫
+        
+          
+            r
+            
+              2
+            
+          
+        
+        d
+        m
+      
+    
+    {\displaystyle I=\int {r^{2}}dm}
+  Dette er den mest "korrekte" formel, der findes, men måske ikke den intuitivt mest forståelige. Formlen siger sådan set bare, at vi summerer over massen, således at vi får den "præcise" masse. Dette ganges op med den kvadrerede afstand. Det er dog imidlertid mest hyppigt, at man bruger antagelsen, at massen er homogent belagt, som vil sige massen er ligeligt fordelt på legemet. For at tage et eksempel vil en punktformig masse (de har som bekendt ingen udstrækning) ifølge vores formel have følgende generelle formel:
+
+  
+    
+      
+        I
+        =
+        k
+        ⋅
+        m
+        ⋅
+        
+          r
+          
+            2
+          
+        
+      
+    
+    {\displaystyle I=k\cdot m\cdot r^{2}}
+  Hvor 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   er en konstant der er forskellig fra objekt til objekt. m er massen af objektet, og r er radius.
+Se evt. siden om inertimomenter, hvor mange forskellige formler er udledt.
+
+
+==== Impulsmoment ====
+
+
+==== Kraftmoment ====
+
+ Tekst mangler, hjælp os med at skrive teksten
+
+
+==== Rotationsenergi ====
+ Tekst mangler, hjælp os med at skrive teksten
+
+
+== Kvantemekanik ==
+
+Kvantemekanikken er den del der beskæftiger sig med mekanikken på de allermindste af universets bestanddele, samt lyskvanter som navnet også angiver.
+Man kan intuitivt forestille sig, at kræfter som gælder i den klassiske mekanik vil være helt ubetydelige, når man arbejder med partikler af denne størrelsesorden. En elektrons masse er eksempelvis målt til at være 
+  
+    
+      
+        9
+        ,
+        11
+        ⋅
+        
+          10
+          
+            −
+            31
+          
+        
+        k
+        g
+      
+    
+    {\displaystyle 9,11\cdot 10^{-31}kg}
+  .
+Det vil betyde at eksempelvis tyngdekraften der virker på en elektron vil være:
+
+  
+    
+      
+        9
+        ,
+        11
+        ⋅
+        
+          10
+          
+            −
+            31
+          
+        
+        k
+        g
+        ⋅
+        9
+        ,
+        82
+        ≈
+        9
+        ,
+        11
+        ⋅
+        
+          10
+          
+            −
+            30
+          
+        
+        N
+      
+    
+    {\displaystyle 9,11\cdot 10^{-31}kg\cdot 9,82\approx 9,11\cdot 10^{-30}N}
+  Når man arbejder med så små partikler vil andre kræfter være af større betydning, som for eksempel den elektrostatiske kraft. 
+For at gøre en lang historie kort er den klassiske mekanik ikke funktionel, så snart man regner med tilstrækkeligt små partikler.
+
+
+== Eksterne henvisninger ==

@@ -1,0 +1,4212 @@
+Die Masse, veraltet auch Ruhemasse, ist eine Eigenschaft der Materie. Sowohl die auf einen Körper wirkenden als auch die von ihm verursachten Gravitationskräfte sind proportional seiner Masse. Ebenso bestimmt sie die Trägheit, mit der der Bewegungszustand des Körpers auf Kräfte reagiert. Diese doppelte Rolle der Masse ist Inhalt des Äquivalenzprinzips.
+In den meisten physikalischen Größensystemen ist sie eine der Basisgrößen. Sie wird gemäß dem internationalen Einheitensystem in der Einheit Kilogramm angegeben. Das Formelzeichen ist meist 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  . 
+Die Masse ist eine extensive Größe. Besitzt ein System eine von Null verschiedene Masse, dann sind die beiden mit der Bewegung verbundenen physikalischen Größen Impuls und kinetische Energie zu ihr proportional. Ferner bestimmt die Masse eines Systems dessen Ruheenergie. Aufgrund der Äquivalenz von Masse und Energie unterscheiden sich die beiden Größen Masse und Ruheenergie nur durch den konstanten Faktor 
+  
+    
+      
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle c^{2}}
+   (Lichtgeschwindigkeit zum Quadrat). Die Masse eines Körpers ist unabhängig von seiner Bewegung.
+Die Masse wird außerhalb der Physik, besonders in der Umgangssprache, auch als Gewicht bezeichnet. Dabei sollte beachtet werden, dass dieses Wort auch für die Gewichtskraft stehen kann.
+
+
+== Entwicklung des Begriffs der Masse ==
+
+
+=== Masse in der klassischen Mechanik ===
+Der physikalische Begriff Masse wurde Mitte des 17. Jahrhunderts geprägt, als Johannes Kepler, Galileo Galilei, Isaac Newton, Christiaan Huygens (und andere) mit dem Studium der Bewegungen von Körpern auf der Erde und am Himmel die Grundlagen der modernen Naturwissenschaften legten. Aus den Beobachtungen, wie sich die Geschwindigkeit eines Körpers durch Stoß oder Krafteinwirkung ändert, wurde geschlossen, dass jedem Körper eine unveränderliche Größe zukommt, die seine Trägheit verursacht. Dies entsprach dem älteren philosophischen Begriff „quantitas materiae“, der die Menge der in einem Körper enthaltenen Materie bezeichnen sollte. Newton definierte diese Größe, indem er von der Dichte und dem Volumen eines Körpers ausging, und bezeichnete sie fortan mit „Masse“. Demnach ließ sich Newton von dem damals gängigen Verständnis leiten, reine Materie existiere in Form von kleinen, gleich beschaffenen Partikeln, die mit äthergefüllten Zwischenräumen jeweils verschiedener Größe die verschiedenen realen Körper bilden. Daraus entwickelte sich schließlich der Massebegriff der klassischen Mechanik. Seine genauen Eigenschaften sind:
+Trägheit: Aufgrund seiner Masse setzt ein Körper einer Kraft, die seine Geschwindigkeit in Größe und/oder Richtung ändert, einen Widerstand entgegen: Die Geschwindigkeitsänderung erfolgt in der Richtung dieser beschleunigenden Kraft und ist umgekehrt proportional zur Masse.
+Gravitationsladung: Aufgrund ihrer Massen ziehen sich zwei Körper gegenseitig an, wobei die Richtung dieser anziehenden Kraft entlang der Verbindungslinie liegt und ihre Stärke zu den Massen beider Körper proportional ist.
+Invariantes Maß der Materiemenge: Die Masse eines Körpers hängt nicht von seiner Geschwindigkeit ab. D. h. sie bleibt die gleiche, wenn man das Bezugssystem wechselt, in dem der Körper betrachtet wird. In der klassischen Mechanik bedeutet dieser Wechsel, dass man die Koordinaten des Körpers mithilfe einer Galilei-Transformation umrechnet.
+Additivität: Die Masse eines zusammengesetzten Körpers ist die Summe der Massen seiner Einzelteile.
+Massenerhaltung: Bei allen physikalischen Prozessen bleibt die Gesamtmasse erhalten.Die Eigenschaft Nr. 1 ist ein Teil des zweiten newtonschen Gesetzes und definiert die Bedeutung der physikalischen Größe Masse durch ihre Trägheit, allerdings setzt sie die Definition der Größe Kraft voraus. Die Eigenschaft Nr. 2 ist Teil des newtonschen Gravitationsgesetzes, das zur Grundlage der genauen Beschreibung der Erdanziehung und der Planetenbewegung wurde. Sie liefert die benötigte Kraftdefinition, indem sie die Gravitationskraft konkret angibt und damit alle weiteren Kräfte durch Vergleich mit der aus der Gravitation folgenden Gewichtskraft zu messbaren Größen macht. Die im Gravitationsgesetz enthaltene Feststellung, dass es die durch Trägheit definierte Masse ist, welche die Gravitation verursacht, wird als Äquivalenz von träger und schwerer Masse bezeichnet. Die Eigenschaften Nr. 3 und 4 der Masse ergeben sich in der newtonschen Mechanik als Folgerungen aus der definierenden Eigenschaft Nr. 1. Die Massenerhaltung (Eigenschaft Nr. 5) ist eine Erfahrungstatsache zunächst aus dem Bereich der Mechanik, deren Gültigkeit Ende des 18. Jahrhunderts (vor allem durch Antoine de Lavoisier) auch auf die chemischen Vorgänge ausgeweitet werden konnte. Zusammen entsprechen die drei letztgenannten Eigenschaften genau der Vorstellung von einer unzerstörbaren Substanz, aus der die materielle Welt besteht.
+Bis etwa Mitte des 18. Jahrhunderts wurden die wichtigen Erhaltungsgrößen Impuls und kinetische Energie herausgearbeitet, die mit der Masse eines in Bewegung befindlichen Körpers verbunden sind:
+
+Bewegungsgröße: Zur Bewegung eines Körpers gehört neben der Geschwindigkeit eine zweite gerichtete Größe, der Impuls. Sein Betrag ist der Masse proportional, seine Richtung ist parallel zur Geschwindigkeit. Bei jedem Vorgang bleibt die vektorielle Summe der Impulse aller beteiligten Körper erhalten.
+Kinetische Energie: Zur Bewegung eines Körpers gehört auch eine ungerichtete Erhaltungsgröße, die kinetische Energie. Sie ist der Masse proportional und beträgt Null, wenn der Körper ruht. Bei jedem Vorgang bleibt die Gesamtenergie, d. h. die Summe aus kinetischer Energie und allen anderen Energieformen, erhalten.Diese beiden Erhaltungssätze für Impuls und Energie sind grundlegend sowohl für die klassische als auch für die moderne Physik und gelten in der gegebenen Formulierung exakt in beiden Bereichen. Auf ihrer Grundlage kann man eine neue Definition der Masse geben, die im Ergebnis mit den fünf oben genannten Eigenschaften übereinstimmt, aber keine von ihnen schon voraussetzt. Man benötigt dazu noch die genaue Festlegung, wie die Beschreibung eines physikalischen Vorgangs abzuändern ist, wenn man in ein bewegtes Bezugssystem wechselt. Es ist kein Rückgriff auf den Kraftbegriff nötig, der nach Ernst Mach, Gustav Kirchhoff, Heinrich Hertz und anderen im 19. Jahrhundert als ungeeignet für einen wissenschaftstheoretisch befriedigenden Grundbegriff kritisiert wurde.
+
+
+=== Umbruch zur modernen Physik ===
+Im Rahmen der klassischen Physik, und damit auch in der Alltagswelt, gelten alle fünf oben genannten Eigenschaften der Masse. In der von Relativitätstheorie und Quantenphysik geprägten modernen Physik gelten sie nur noch näherungsweise.
+Hendrik Lorentz entdeckte zu Beginn des 20. Jahrhunderts, dass für elektrodynamische Vorgänge ein Wechsel des Bezugssystems nicht mithilfe der Galilei-Transformation, sondern mittels der Lorentz-Transformation vollzogen werden muss. Albert Einstein erkannte, dass dies für jedes physikalische Phänomen gilt, auch im Bereich der Mechanik. Das lässt den Zusammenhang zwischen der Kraft und der von ihr bewirkten Änderung der Geschwindigkeit weit komplizierter werden als in der klassischen Definition der Masse (Eigenschaft Nr. 1) angenommen. Außerdem folgt, dass ein System bei Änderung seiner inneren Energie (das ist der Energieinhalt, den er in seinem Ruhesystem hat) eine dazu proportionale Änderung seiner Masse erfährt. Die Masse eines zusammengesetzten Körpers hängt also nicht nur von den Massen seiner Bestandteile ab, sondern auch von den kinetischen und potenziellen Energien, die diese haben, wenn der Körper als Ganzes ruht. So verliert ein Körper beim Zusammensetzen aus einzelnen Bestandteilen an Masse, wenn Bindungsenergie frei wird, man spricht vom Massendefekt. Umgekehrt vergrößert sich seine Masse, wenn seine Bestandteile sich heftiger bewegen, wie das etwa bei Erwärmung der Fall ist. Dabei ergeben sich die betreffenden Energiewerte stets so, dass man den Wert der Masse bzw. Massenänderung mit dem Quadrat der Lichtgeschwindigkeit multipliziert. Dieser Umrechnungsfaktor ist eine universelle Konstante. Mithin lassen sich Veränderungen der Masse und der Energie überhaupt nicht voneinander trennen, vielmehr besteht eine allgemeine Äquivalenz von Masse und Energie.
+Die Äquivalenz von Masse und Energie gilt immer. Einem in Ruhe befindlichen Körper muss man entsprechend seiner Masse 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   eine Ruheenergie 
+  
+    
+      
+        
+          E
+          
+            0
+          
+        
+        =
+        m
+        
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{0}=m\,c^{2}}
+   zuschreiben (Einsteinsche Gleichung). Umgekehrt muss man nach derselben Gleichung einem System immer auch eine Masse zuschreiben, wenn es Ruheenergie besitzt, d. h. wenn es beim Gesamtimpuls null noch Energie hat. Dies bleibt im Alltag meist verborgen, wird aber besonders deutlich bei der gegenseitigen Vernichtung (Annihilation) von zwei massebehafteten Elementarteilchen, wenn man den Prozess in deren Schwerpunktsystem betrachtet, also im Ruhesystem des Zweiteilchensystems. Es entsteht Vernichtungsstrahlung mit einer Energie, die durch die Ruheenergie des verschwundenen Zweiteilchensystems gegeben ist. Sie hat den Gesamtimpuls null, wie vorher das Zweiteilchensystem auch. Diesem Strahlungsfeld muss auch dieselbe Masse zugeschrieben werden wie dem Zweiteilchensystem, denn es lässt sich kein Unterschied feststellen. Auch masselose Objekte (z. B. zwei oder mehr Lichtquanten) können also Systeme bilden, die eine Masse haben.
+Die oben angegebenen klassischen Eigenschaften der Masse können daher nur näherungsweise gültig bleiben, nämlich für den klassischen oder nichtrelativistischen Grenzfall, d. h. für massebehaftete Körper mit geringer Geschwindigkeit. Nach den Erfordernissen der Speziellen und der Allgemeinen Relativitätstheorie müssen sie wie folgt umformuliert werden:
+
+Trägheit: Aufgrund seiner Masse setzt ein System einer Kraft, die seine Geschwindigkeit in Größe und/oder Richtung ändert, einen Widerstand entgegen: Die Geschwindigkeitsänderung ist umgekehrt proportional zur Masse, hängt aber in Richtung und Größe auch von der Größe der Geschwindigkeit und dem Winkel zwischen der Kraft und der Geschwindigkeit ab.
+Gravitationsladung: Zwei Systeme ziehen sich aufgrund der in ihnen enthaltenen Massen, Energien und Impulse gegenseitig an.
+Invariante Größe Masse: Die Masse eines Systems hängt nicht von seiner Geschwindigkeit ab; sie bleibt unverändert, wenn man durch eine Lorentz-Transformation das Bezugssystem wechselt, in dem das System betrachtet wird.
+Additivität: Die Masse eines zusammengesetzten Systems ist gleich der Summe der Massen seiner Einzelteile, abzüglich des Massenäquivalents der Bindungsenergie, die zur vollständigen Trennung der gebundenen Einzelteile zugeführt werden müsste, und zuzüglich des Massenäquivalents der kinetischen Energien derjenigen Einzelteile, die als freie Teilchen zum System gehören.
+Energieerhaltung: Bei allen Prozessen bleibt die Summe aller Energien erhalten. Die mit den Massen verknüpften Ruheenergien sind darin enthalten. Die Summe der Massen allein bleibt nicht immer erhalten.Im Endergebnis definiert man ganz allgemein die Masse mittels der Gleichung 
+  
+    
+      
+        
+          E
+          
+            0
+          
+        
+        =
+        m
+        
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{0}=m\,c^{2}}
+   durch die Ruheenergie. Damit ist die Masse eine Lorentzinvariante, so wie die nach Newton definierte Masse eine Galilei-Invariante ist. Daher stimmen beide Definitionen der Masse nicht nur im Wert überein, sondern teilen eine tiefliegende Beziehung, an der aber auch ihr Unterschied deutlich wird: Beide Definitionen der Masse ergeben sich in gleicher Weise allein aus dem Erhaltungssatz für den Impuls, wenn man ihn einmal im Ruhesystem formuliert und ein zweites Mal in einem dagegen bewegten Bezugssystem (s. u.). Vollzieht man den Übergang von einer zur anderen Beschreibung mit der nur näherungsweise richtigen Galilei-Transformation, gelangt man zum klassischen Begriff der Masse, vollzieht man ihn mit der Lorentz-Transformation, gelangt man zum modernen Begriff der Masse.Die ursprüngliche Bedeutung der Masse als Maß für die Menge der Materie ist nicht mehr aufrechtzuerhalten.
+
+
+=== Veraltet: „relativistische Masse“ und „Ruhemasse“ ===
+Mit der Einführung der Relativitätstheorie entstand das Bedürfnis, den Begriff der Masse, ausgehend von der klassischen Mechanik, anzupassen. Über die Äquivalenz von Masse und Energie wurde z. B. von Lorentz eine sogenannte „relativistische Masse“ eines Systems eingeführt, die nach Multiplikation mit dem Faktor 
+  
+    
+      
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle c^{2}}
+   gleich der Summe aus Ruheenergie und kinetischer Energie ist. Die „relativistische Masse“ wurde in der Folge zur Masse definiert. Daher war es dann nötig, diejenige Masse, die sich aus der Energie für das System in Ruhe ergibt, so dass es keine kinetische Energie hat, als „Ruhemasse“ zu bezeichnen. Da die kinetische Energie eines Systems vom Bezugssystem abhängt, von dem aus es betrachtet wird, ist die „relativistische Masse“ nicht geeignet, um universell und unmittelbar das System zu charakterisieren.
+
+In der ersten Hälfte des 20. Jahrhunderts existierten die verschiedenen Bezeichnungen in der Fachwelt nebeneinander, bis sich dort die moderne, heute gültige Definition durchsetzte: Mit Masse wird eine vom Bezugssystem unabhängige Systemeigenschaft bezeichnet. Es handelt sich dabei um die zur Ruheenergie gehörende Masse, gleichbedeutend zur früheren „Ruhemasse“. Die Bezeichnung „Ruhemasse“ ist damit obsolet. Einstein selbst begründete die Wortwahl im Jahre 1948: 
+Es ist somit nicht möglich, alleine durch Beschleunigung einem System Masse hinzuzufügen.
+Die nun historische Definition der Masse in Form der relativistischen Masse hält sich hingegen in der populärwissenschaftlichen Literatur und Lehrbüchern. Sie spiegelt sich auch in der populären Schreibweise der Masse-Energie-Äquivalenz 
+  
+    
+      
+        E
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E=mc^{2}}
+   wieder; diese lautet korrekt 
+  
+    
+      
+        
+          E
+          
+            0
+          
+        
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{0}=mc^{2}}
+  , mit 
+  
+    
+      
+        
+          E
+          
+            0
+          
+        
+      
+    
+    {\displaystyle E_{0}}
+   als Ruheenergie und 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   als Masse.
+
+
+=== Definition der Masse mithilfe der Impulserhaltung ===
+Die Herleitung des Massenbegriffs aus der Impulserhaltung beleuchtet sowohl Unterschiede als auch Ähnlichkeiten zwischen der klassischen und der relativistischen Physik. Als Ergebnis der Herleitung sieht man: Wenn jedem Körper einzeln eine zu seiner Geschwindigkeit 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+   parallele Größe 
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}}
+   zugeordnet werden kann, so dass die Summe dieser beiden Größen bei einem inelastischen Stoß konstant bleibt, dann muss es zu jedem Körper einen vom Bezugssystem unabhängigen Wert 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   geben, mit dem 
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+        =
+        m
+         
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}=m\ {\vec {v}}}
+   (klassisch) bzw. 
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+        =
+        m
+         
+        
+          
+            
+              v
+              →
+            
+          
+        
+         
+        
+          
+            1
+            
+              1
+              −
+              (
+              v
+              
+                /
+              
+              c
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}=m\ {\vec {v}}\ {\frac {1}{\sqrt {1-(v/c)^{2}}}}}
+   (relativistisch) gilt. Man bezeichnet 
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}}
+   als den Impuls und 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   als die Masse des Körpers. Hiermit ist eine eigenständige Definition der Masse gegeben, die allein auf der Impulserhaltung beruht. Weiter ergibt sich, dass außer der Summe der Impulse in der klassischen Physik auch die Summe der Massen erhalten bleibt, in der relativistischen Physik aber die Summe der Größen 
+  
+    
+      
+        m
+         
+        
+          
+            1
+            
+              1
+              −
+              (
+              v
+              
+                /
+              
+              c
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle m\ {\frac {1}{\sqrt {1-(v/c)^{2}}}}}
+  , die (bis auf den universellen Faktor 
+  
+    
+      
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle c^{2}}
+  ) die Energien der einzelnen Körper angibt.
+Für diese Herleitung betrachtet man den vollkommen unelastischen Stoß, d. h. zwei Körper (
+  
+    
+      
+        
+          K
+          
+            1
+          
+        
+        ,
+        
+          K
+          
+            2
+          
+        
+      
+    
+    {\displaystyle K_{1},K_{2}}
+  ), die sich aufeinander zubewegen und zu einem einzigen (
+  
+    
+      
+        
+          K
+          
+            1
+            +
+            2
+          
+        
+      
+    
+    {\displaystyle K_{1+2}}
+  ) vereinigen. Die Impulse (
+  
+    
+      
+        
+          
+            
+              
+                p
+                →
+              
+            
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}_{i}}
+  ) sind jeweils parallel zur Geschwindigkeit (
+  
+    
+      
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}_{i}}
+  ), mit zunächst unbekannten Faktoren (
+  
+    
+      
+        
+          M
+          
+            i
+          
+        
+      
+    
+    {\displaystyle M_{i}}
+  ). Impulserhaltung bedeutet:
+
+  
+    
+      
+        
+          
+            
+              
+                p
+                →
+              
+            
+          
+          
+            1
+          
+        
+        +
+        
+          
+            
+              
+                p
+                →
+              
+            
+          
+          
+            2
+          
+        
+        =
+        
+          
+            
+              
+                p
+                →
+              
+            
+          
+          
+            1
+            +
+            2
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}_{1}+{\vec {p}}_{2}={\vec {p}}_{1+2}}
+  Das ergibt die Gleichung:
+
+  
+    
+      
+        
+          M
+          
+            1
+          
+        
+         
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            1
+          
+        
+        +
+        
+          M
+          
+            2
+          
+        
+         
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            2
+          
+        
+        =
+        
+          M
+          
+            1
+            +
+            2
+          
+        
+         
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            1
+            +
+            2
+          
+        
+      
+    
+    {\displaystyle M_{1}\ {\vec {v}}_{1}+M_{2}\ {\vec {v}}_{2}=M_{1+2}\ {\vec {v}}_{1+2}}
+  Die Faktoren 
+  
+    
+      
+        
+          M
+          
+            i
+          
+        
+      
+    
+    {\displaystyle M_{i}}
+   können in noch unbekannter Weise auch von der jeweiligen Geschwindigkeit abhängen. Sicher sind sie aber gleich in dem Fall, dass beide Körper vollkommen gleich beschaffen sind: 
+  
+    
+      
+        
+          M
+          
+            1
+          
+        
+        (
+        
+          
+            
+              v
+              →
+            
+          
+        
+        )
+        =
+        
+          M
+          
+            2
+          
+        
+        (
+        
+          
+            
+              v
+              →
+            
+          
+        
+        )
+        =:
+        M
+        (
+        
+          
+            
+              v
+              →
+            
+          
+        
+        )
+      
+    
+    {\displaystyle M_{1}({\vec {v}})=M_{2}({\vec {v}})=:M({\vec {v}})}
+  . In diesem Fall gilt, wenn der Stoß in dem Ruhesystem (
+  
+    
+      
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            1
+            +
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\vec {v}}_{1+2}=0}
+  ) des im Stoß gebildeten Körpers 
+  
+    
+      
+        
+          K
+          
+            1
+            +
+            2
+          
+        
+      
+    
+    {\displaystyle K_{1+2}}
+   betrachtet wird:
+
+  
+    
+      
+        M
+        (
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            1
+          
+        
+        )
+        ⋅
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            1
+          
+        
+        +
+        M
+        (
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            2
+          
+        
+        )
+        ⋅
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle M({\vec {v}}_{1})\cdot {\vec {v}}_{1}+M({\vec {v}}_{2})\cdot {\vec {v}}_{2}=0}
+  Daher ergibt sich, dass in diesem Bezugssystem die Geschwindigkeiten der beiden gleichen stoßenden Körper entgegengesetzt gleich sein müssen:
+
+  
+    
+      
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            1
+          
+        
+        =
+        −
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            2
+          
+        
+        =:
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}_{1}=-{\vec {v}}_{2}=:{\vec {v}}}
+  Die beiden Geschwindigkeiten sind aber nicht entgegengesetzt gleich, wenn derselbe Stoß in einem mit der Geschwindigkeit 
+  
+    
+      
+        −
+        
+          
+            
+              V
+              →
+            
+          
+        
+      
+    
+    {\displaystyle -{\vec {V}}}
+   bewegten Bezugssystem betrachtet wird. Darin bewegt sich nach dem Stoß der Körper 
+  
+    
+      
+        
+          K
+          
+            1
+            +
+            2
+          
+        
+      
+    
+    {\displaystyle K_{1+2}}
+   mit Geschwindigkeit 
+  
+    
+      
+        
+          
+            
+              V
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {V}}}
+  . Die Gleichung der Impulserhaltung lautet nun:
+
+  
+    
+      
+        M
+        (
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            1
+          
+          
+            
+              
+              ′
+            
+          
+        
+        )
+        ⋅
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            1
+          
+          
+            
+              
+              ′
+            
+          
+        
+        +
+        M
+        (
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            2
+          
+          
+            
+              
+              ′
+            
+          
+        
+        )
+        ⋅
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            2
+          
+          
+            
+              
+              ′
+            
+          
+        
+        =
+        
+          M
+          
+            1
+            +
+            2
+          
+        
+        (
+        
+          
+            
+              V
+              →
+            
+          
+        
+        )
+        ⋅
+        
+          
+            
+              V
+              →
+            
+          
+        
+      
+    
+    {\displaystyle M({\vec {v}}_{1}^{\,'})\cdot {\vec {v}}_{1}^{\,'}+M({\vec {v}}_{2}^{\,'})\cdot {\vec {v}}_{2}^{\,'}=M_{1+2}({\vec {V}})\cdot {\vec {V}}}
+  Darin sind 
+  
+    
+      
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            1
+          
+          
+            
+              
+              ′
+            
+          
+        
+         
+        ,
+         
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            2
+          
+          
+            
+              
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}_{1}^{\,'}\ ,\ {\vec {v}}_{2}^{\,'}}
+   die Geschwindigkeiten der beiden stoßenden Körper im bewegten Bezugssystem.
+
+Betrachtung mit klassischer PhysikNach der in der klassischen Physik gültigen Galilei-Transformation gilt die einfache Addition der Geschwindigkeiten
+
+  
+    
+      
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            1
+          
+          
+            
+              
+              ′
+            
+          
+        
+        =
+        
+          
+            
+              v
+              →
+            
+          
+        
+        +
+        
+          
+            
+              V
+              →
+            
+          
+        
+         
+         
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            2
+          
+          
+            
+              
+              ′
+            
+          
+        
+        =
+        −
+        
+          
+            
+              v
+              →
+            
+          
+        
+        +
+        
+          
+            
+              V
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}_{1}^{\,'}={\vec {v}}+{\vec {V}}\ \ {\vec {v}}_{2}^{\,'}=-{\vec {v}}+{\vec {V}}}
+  und folglich
+
+  
+    
+      
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            1
+          
+          
+            
+              
+              ′
+            
+          
+        
+        +
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            2
+          
+          
+            
+              
+              ′
+            
+          
+        
+        =
+        2
+         
+        
+          
+            
+              V
+              →
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {v}}_{1}^{\,'}+{\vec {v}}_{2}^{\,'}=2\ {\vec {V}}.}
+  Diese Gleichung zwischen den drei Geschwindigkeiten ist mit der obigen Gleichung zwischen den drei Impulsen nur dann verträglich, wenn
+
+  
+    
+      
+        M
+        (
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            1
+          
+          
+            
+              
+              ′
+            
+          
+        
+        )
+        =
+        M
+        (
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            2
+          
+          
+            
+              
+              ′
+            
+          
+        
+        )
+         
+        ,
+      
+    
+    {\displaystyle M({\vec {v}}_{1}^{\,'})=M({\vec {v}}_{2}^{\,'})\ ,}
+   sowie 
+  
+    
+      
+        
+          M
+          
+            1
+            +
+            2
+          
+        
+        =
+        2
+         
+        M
+        .
+      
+    
+    {\displaystyle M_{1+2}=2\ M.}
+  Denn mit zwei verschiedenen Faktoren 
+  
+    
+      
+        M
+        (
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            1
+          
+          
+            
+              
+              ′
+            
+          
+        
+        )
+        ≠
+        M
+        (
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            2
+          
+          
+            
+              
+              ′
+            
+          
+        
+        )
+      
+    
+    {\displaystyle M({\vec {v}}_{1}^{\,'})\neq M({\vec {v}}_{2}^{\,'})}
+   kann sich kein zu 
+  
+    
+      
+        
+          
+            
+              V
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {V}}}
+   paralleler Vektor ergeben. Aus der ersten Gleichung der vorigen Zeile folgt nun, dass der Faktor 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   für alle Geschwindigkeiten gleich ist. Er ist identisch mit der aus der älteren Definition bekannten Masse. Damit gilt allgemein (mit den üblichen Symbolen):
+
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+        =
+        m
+         
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}=m\ {\vec {v}}}
+  Mit Kenntnis dieser Gleichung kann die Überlegung auf den Fall verschiedener Massen 
+  
+    
+      
+        
+          m
+          
+            1
+          
+        
+        ≠
+        
+          m
+          
+            2
+          
+        
+      
+    
+    {\displaystyle m_{1}\neq m_{2}}
+   verallgemeinert werden. Einsetzen in die Gleichung der Impulserhaltung führt auf das Ergebnis:
+
+  
+    
+      
+        
+          M
+          
+            1
+            +
+            2
+          
+        
+        =
+        
+          m
+          
+            1
+          
+        
+        +
+        
+          m
+          
+            2
+          
+        
+      
+    
+    {\displaystyle M_{1+2}=m_{1}+m_{2}}
+  Demnach ist in der klassischen Mechanik die Masse eine additive Erhaltungsgröße.
+
+Betrachtung mit relativistischer PhysikIn diesem Fall muss man statt der Galilei-Transformation die Lorentz-Transformation zugrunde legen. Dann gilt statt der einfachen Addition der Geschwindigkeitsvektoren das relativistische Additionstheorem. Daraus folgt (nach längerer Rechnung): Nicht 
+  
+    
+      
+        (
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            1
+          
+          
+            
+              
+              ′
+            
+          
+        
+        +
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            2
+          
+          
+            
+              
+              ′
+            
+          
+        
+        )
+      
+    
+    {\displaystyle ({\vec {v}}_{1}^{\,'}+{\vec {v}}_{2}^{\,'})}
+   ist parallel zu 
+  
+    
+      
+        
+          
+            
+              V
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {V}}}
+  , sondern der Vektor 
+  
+    
+      
+        
+          (
+          
+            
+              
+                
+                  
+                    
+                      
+                        
+                          v
+                          →
+                        
+                      
+                    
+                    
+                      1
+                    
+                    
+                      
+                        
+                        ′
+                      
+                    
+                  
+                  
+                    1
+                    −
+                    (
+                    
+                      v
+                      
+                        1
+                      
+                      
+                        
+                          
+                          ′
+                        
+                      
+                    
+                    
+                      /
+                    
+                    c
+                    
+                      )
+                      
+                        2
+                      
+                    
+                  
+                
+              
+            
+            +
+            
+              
+                
+                  
+                    
+                      
+                        
+                          v
+                          →
+                        
+                      
+                    
+                    
+                      2
+                    
+                    
+                      
+                        
+                        ′
+                      
+                    
+                  
+                  
+                    1
+                    −
+                    (
+                    
+                      v
+                      
+                        2
+                      
+                      
+                        
+                          
+                          ′
+                        
+                      
+                    
+                    
+                      /
+                    
+                    c
+                    
+                      )
+                      
+                        2
+                      
+                    
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \left({\tfrac {{\vec {v}}_{1}^{\,'}}{\sqrt {1-(v_{1}^{\,'}/c)^{2}}}}+{\tfrac {{\vec {v}}_{2}^{\,'}}{\sqrt {1-(v_{2}^{\,'}/c)^{2}}}}\right)}
+  . Multipliziert mit einer Konstante, die hier im Vorgriff schon mit 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   bezeichnet wird, muss sich der Gesamtimpuls 
+  
+    
+      
+        
+          M
+          
+            1
+            +
+            2
+          
+        
+         
+        (
+        
+          
+            
+              V
+              →
+            
+          
+        
+        )
+         
+        
+          
+            
+              V
+              →
+            
+          
+        
+      
+    
+    {\displaystyle M_{1+2}\ ({\vec {V}})\ {\vec {V}}}
+   ergeben. Folglich sind die beiden Impulse der stoßenden Körper durch
+
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+        =
+        
+          
+            m
+            
+              1
+              −
+              (
+              v
+              
+                /
+              
+              c
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+         
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}={\frac {m}{\sqrt {1-(v/c)^{2}}}}\ {\vec {v}}}
+  gegeben. Dies geht für kleine Geschwindigkeiten, wo 
+  
+    
+      
+        
+          
+            1
+            −
+            (
+            v
+            
+              /
+            
+            c
+            
+              )
+              
+                2
+              
+            
+          
+        
+        ≈
+        1
+      
+    
+    {\displaystyle {\sqrt {1-(v/c)^{2}}}\approx 1}
+   gesetzt werden kann, in die nichtrelativistische Formel 
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+        =
+        m
+         
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}=m\ {\vec {v}}}
+   über, womit der konstante Faktor 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   sich tatsächlich als die Masse in relativistischer Definition erweist. Die Gleichung der Impulserhaltung lautet nun
+
+  
+    
+      
+        
+          
+            
+              m
+               
+              
+                
+                  
+                    
+                      v
+                      →
+                    
+                  
+                
+                
+                  1
+                
+                
+                  
+                    
+                    ′
+                  
+                
+              
+            
+            
+              1
+              −
+              (
+              
+                v
+                
+                  1
+                
+                
+                  
+                    
+                    ′
+                  
+                
+              
+              
+                /
+              
+              c
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              m
+              
+              
+                
+                  
+                    
+                      v
+                      →
+                    
+                  
+                
+                
+                  2
+                
+                
+                  
+                    
+                    ′
+                  
+                
+              
+            
+            
+              1
+              −
+              (
+              
+                v
+                
+                  2
+                
+                
+                  
+                    
+                    ′
+                  
+                
+              
+              
+                /
+              
+              c
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                M
+                
+                  1
+                  +
+                  2
+                
+              
+              
+              
+              
+                
+                  
+                    V
+                    →
+                  
+                
+              
+            
+            
+              1
+              −
+              (
+              V
+              
+                /
+              
+              c
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {m\ {\vec {v}}_{1}^{\,'}}{\sqrt {1-(v_{1}^{\,'}/c)^{2}}}}+{\frac {m\,{\vec {v}}_{2}^{\,'}}{\sqrt {1-(v_{2}^{\,'}/c)^{2}}}}={\frac {M_{1+2}\,\,{\vec {V}}}{\sqrt {1-(V/c)^{2}}}}}
+  und ermöglicht damit wieder die Bestimmung von 
+  
+    
+      
+        
+          M
+          
+            1
+            +
+            2
+          
+        
+      
+    
+    {\displaystyle M_{1+2}}
+  . Es zeigt sich, dass die Masse in der relativistischen Mechanik keine additive Erhaltungsgröße ist, denn es gilt:
+
+  
+    
+      
+        
+          
+            
+              m
+              
+                1
+              
+            
+            
+              1
+              −
+              (
+              
+                v
+                
+                  1
+                
+                
+                  
+                    
+                    ′
+                  
+                
+              
+              
+                /
+              
+              c
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              m
+              
+                2
+              
+            
+            
+              1
+              −
+              (
+              
+                v
+                
+                  2
+                
+                
+                  
+                    
+                    ′
+                  
+                
+              
+              
+                /
+              
+              c
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              M
+              
+                1
+                +
+                2
+              
+            
+            
+              1
+              −
+              (
+              V
+              
+                /
+              
+              c
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {m_{1}}{\sqrt {1-(v_{1}^{\,'}/c)^{2}}}}+{\frac {m_{2}}{\sqrt {1-(v_{2}^{\,'}/c)^{2}}}}={\frac {M_{1+2}}{\sqrt {1-(V/c)^{2}}}}}
+  Nach dieser Gleichung ist die nach der relativistischen Formel 
+  
+    
+      
+        E
+        =
+        
+          
+            
+              
+                m
+                
+                
+                  c
+                  
+                    2
+                  
+                
+              
+              
+                1
+                −
+                (
+                v
+                
+                  /
+                
+                c
+                
+                  )
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle E={\dfrac {m\,c^{2}}{\sqrt {1-(v/c)^{2}}}}}
+   berechnete Energie eine additive Erhaltungsgröße.
+
+
+=== Positive und negative effektive Masse ===
+Die vor allem in der Festkörperphysik gebräuchliche effektive Masse von Teilchen ist eine Größe, die in gewisser Hinsicht zu ihrer Masse analog ist. Sie wird aus der Dispersionsrelation der Teilchen 
+  
+    
+      
+        E
+        =
+        f
+        (
+        p
+        )
+      
+    
+    {\displaystyle E=f(p)}
+   gewonnen, indem diese in einem bestimmten Bereich durch die nicht-relativistische Gleichung 
+  
+    
+      
+        
+          E
+          
+            
+              k
+              i
+              n
+            
+          
+        
+        =
+        
+          
+            
+              
+                p
+                
+                  2
+                
+              
+              
+                2
+                
+                  m
+                  
+                    eff
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle E_{\mathrm {kin} }={\tfrac {p^{2}}{2m_{\text{eff}}}}}
+   angenähert wird. Die effektive Masse kann im Gegensatz zur echten Masse vom Impuls abhängen und in bestimmten Wertebereichen sogar negativ werden.
+
+
+=== Massenschale ===
+Da der Impuls eines Teilchens der Masse 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  , das sich mit Geschwindigkeit 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+   bewegt, in relativistischer Physik
+
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+        (
+        
+          
+            
+              v
+              →
+            
+          
+        
+        )
+        =
+        
+          
+            
+              m
+              
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              1
+              −
+              
+                
+                  
+                    
+                      
+                        
+                          v
+                          →
+                        
+                      
+                    
+                    
+                      2
+                    
+                  
+                  
+                    c
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}({\vec {v}})={\frac {m\,{\vec {v}}}{\sqrt {1-{\frac {{\vec {v}}^{2}}{c^{2}}}}}}}
+  beträgt (Herleitung siehe Viererimpuls), hängen die Energie und der Impuls mit der Masse durch die Energie-Impuls-Beziehung
+
+  
+    
+      
+        
+          E
+          
+            2
+          
+        
+        −
+        
+          
+            
+              p
+              →
+            
+          
+        
+        
+        
+          
+
+          
+          
+            2
+          
+        
+        
+        
+          c
+          
+            2
+          
+        
+        =
+        
+          m
+          
+            2
+          
+        
+        
+        
+          c
+          
+            4
+          
+        
+      
+    
+    {\displaystyle E^{2}-{\vec {p}}\,{}^{2}\,c^{2}=m^{2}\,c^{4}}
+  zusammen. Im vierdimensionalen Raum aller denkbaren Energie- und Impulswerte liegen gemäß dieser Gleichung die physikalisch möglichen Energien eines Teilchens der Masse 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   auf einer dreidimensionalen Fläche, der sogenannten Massenschale. Sie ist ein Hyperboloid (
+  
+    
+      
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          x
+          
+            2
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle y^{2}-x^{2}=1}
+   beschreibt eine Hyperbel in der 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  -
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  -Ebene).
+Die Energie-Impuls-Beziehung gilt auch für Photonen. Sie sind masselos und bewegen sich stets mit Lichtgeschwindigkeit. Die Energie eines Photons ist bis auf einen Faktor 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   der Betrag seines Impulses, seine Masse verschwindet:
+
+  
+    
+      
+        
+          E
+          
+            Photon
+          
+        
+        =
+        c
+        
+        
+          |
+        
+        
+          
+            
+              
+                p
+                →
+              
+            
+          
+          
+            Photon
+          
+        
+        
+          |
+        
+        
+        ,
+        
+        
+          m
+          
+            Photon
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle E_{\text{Photon}}=c\,|{\vec {p}}_{\text{Photon}}|\,,\,m_{\text{Photon}}=0}
+  
+
+
+== Einheiten ==
+Die SI-Basiseinheit der Masse ist das Kilogramm mit dem Einheitenzeichen kg. Im Zusammenhang mit geschäftlichen Vorgängen ist in den meisten Industrieländern die Verwendung des Kilogramms als Masseneinheit rechtlich vorgeschrieben.
+Historisch waren zahllose Gewichtsmaße in Verwendung, die teilweise auch unspezifisch je nach Gegend, Zeit und Produkt Hohlmaßen, Packeinheiten, Traglasten und anderem entsprachen und daher schwer präzise anzugeben sind; siehe Alte Maße und Gewichte.
+Für die Angabe der Masse von Atomen und Molekülen ist die atomare Masseneinheit (u oder amu) weit verbreitet.
+In der Teilchenphysik ist eine Angabe in Elektronenvolt geteilt durch das Quadrat der Lichtgeschwindigkeit üblich (siehe Masse-Energie-Äquivalenz).
+
+
+== Messung ==
+
+
+=== Direkte Massenbestimmung ===
+Die direkte Messung der Masse erfolgt am ruhenden Körper durch Vergleich mit einer Referenzmasse. Zwei Massen sind gleich, wenn sie im selben Schwerefeld die gleiche Gewichtskraft haben. Dies kann man mit einer Balkenwaage überprüfen. Dabei ist die Stärke des Schwerefeldes unerheblich, es muss nur von Null verschieden und an den Orten der beiden Körper gleich sein. Zur Festlegung der Masseneinheit siehe Kilogramm.
+Strenggenommen kann die direkte Massenbestimmung nur im Vakuum erfolgen. Innerhalb der Atmosphäre wird nicht direkt die Masse, sondern der Wägewert bestimmt, da unterschiedliche Massen einen unterschiedlichen Auftrieb haben. Ist die Dichte des Körpers hoch genug, kann der Auftrieb vernachlässigt werden. Bei geringer Dichte (z. B. bei Gasen) kann der Auftrieb jedoch nicht vernachlässigt werden.
+
+
+=== Indirekte Massenbestimmung ===
+Die Masse kann auch über Kräfte und Beschleunigungen bestimmt werden. In der newtonschen Mechanik ist jede Bewegungsänderung proportional zu der Kraft, welche die Bewegungsänderung verursacht hat (s. u.: 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+        =
+        m
+         
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}=m\ {\vec {a}}}
+  ). Masse ist somit die Proportionalitätskonstante zwischen Kraft und Beschleunigung:
+
+  
+    
+      
+        m
+        =
+        
+          
+            
+              
+                |
+              
+              
+                
+                  
+                    F
+                    →
+                  
+                
+              
+              
+                |
+              
+            
+            
+              
+                |
+              
+              
+                
+                  
+                    a
+                    →
+                  
+                
+              
+              
+                |
+              
+            
+          
+        
+      
+    
+    {\displaystyle m={\frac {|{\vec {F}}|}{|{\vec {a}}|}}}
+  Hierbei ist 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+   die durch eine Kraft 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}}
+   verursachte Beschleunigung.
+Die meisten Messgeräte zur Bestimmung von makroskopischen Massen (Waagen) beruhen darauf, dass bei einer bekannten Beschleunigung die entsprechende Kraft gemessen wird. Im Schwerefeld der Erde mit der Fallbeschleunigung 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   wird die Gewichtskraft gemessen. Da sich die gemessene Größe von der Masse nur durch einen konstanten Faktor unterscheidet, kann dass Messgerät auch in Einheiten der Masse kalibriert werden. Dies wird beispielsweise bei Federwaagen verwendet, deren Messprinzip auch den meisten mechanischen Haushaltswaagen zugrunde liegt. Auch elektronische Waagen, die Piezoelemente oder Dehnungsmessstreifen verwenden, messen eigentlich Kräfte, obwohl sie Massen anzeigen. Die Schwankungen der Fallbeschleunigung in Abhängigkeit vom geografischen Ort und der geografischen Höhe sind so gering, dass der systematische Fehler, der sich daraus ergibt, in den meisten Fällen vernachlässigt werden kann und auch wird.
+Umgekehrt kann man auch die Masse bestimmen, indem man die Beschleunigung bei bekannter Kraft misst. Darauf beruhen verschiedene Bauformen von Massenspektrometern. So werden beispielsweise geladene Teilchen mit gegebener Geschwindigkeit im Magnetfeld eines Sektorfeld-Massenspektrometers umso stärker abgelenkt, je geringer ihre Masse ist. Aus dem Kurvenradius der Bahnkurve kann somit auf die Masse rückgeschlossen werden. Beim Flugzeitmassenspektrometer hingegen werden die geladenen Teilchen in einem elektrischen Feld beschleunigt. Ihre Endgeschwindigkeit ist dann umso größer, je geringer ihre träge Masse ist.
+Die Masse von Himmelskörpern kann auch durch ihre Gravitationswirkung bestimmt werden. Man kann beispielsweise die Masse der Sonne mithilfe des Gravitationsgesetzes aus den Bahndaten der Planeten berechnen, weil deren Zentralbeschleunigung ausschließlich von der Masse und Entfernung des Zentralkörpers abhängt.
+Bei homogenen Körpern bekannter Dichte kann die Masse auch durch Volumenmessung bestimmt werden. Am einfachsten gelingt dies bei Flüssigkeiten und Schüttgütern (z. B. Mehl, Zucker, Reis, …) durch geeichte Messbecher.
+
+
+== Verwandte Größen ==
+In der newtonschen Mechanik ist die Masse eine extensive Größe. Das bedeutet, dass zwei Körper der Masse 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   insgesamt die doppelte Masse 
+  
+    
+      
+        2
+        m
+      
+    
+    {\displaystyle 2m}
+   haben. Intensive Größen ändern sich bei der Systemverdopplung nicht. Mit der Masse verwandt sind folgende intensive Größen:
+
+Bezieht man die Masse auf das Volumen 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  , erhält man die Dichte 
+  
+    
+      
+        ρ
+        =
+        
+          
+            m
+            V
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {m}{V}}}
+   mit der SI-Einheit 
+  
+    
+      
+        
+          [
+          ρ
+          ]
+        
+        =
+        1
+        
+        
+          
+            
+              k
+              g
+            
+            
+              m
+              
+                3
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \left[\rho \right]=1\,\mathrm {\frac {kg}{m^{3}}} .}
+  Man kann also die Masse eines homogenen Körpers berechnen, wenn sein Volumen und seine Dichte bekannt sind.Bezieht man die Masse auf die Stoffmenge 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , erhält man die molare Masse 
+  
+    
+      
+        M
+        =
+        
+          
+            m
+            n
+          
+        
+      
+    
+    {\displaystyle M={\frac {m}{n}}}
+   mit der SI-Einheit 
+  
+    
+      
+        
+          [
+          M
+          ]
+        
+        =
+        1
+        
+        
+          
+            
+              k
+              g
+            
+            
+              m
+              o
+              l
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \left[M\right]=1\,\mathrm {\frac {kg}{mol}} .}
+  
+
+
+== Klassische Physik ==
+In der klassischen Physik ist die Masse eine Erhaltungsgröße. Das bedeutet, dass sich die Masse in einem geschlossenen System nicht ändert. Wenn beispielsweise ein Stück Holz verbrennt, dann haben nach der klassischen Physik die entstehenden Verbrennungsabgase und die Asche nach der Verbrennung exakt die gleiche Masse wie das Holzstück und der verbrauchte Luftsauerstoff vor der Verbrennung. Dies wird als selbstverständliche empirische Tatsache angenommen, ohne dafür eine Begründung zu geben.
+Ebenso wenig erklärt die klassische Mechanik die Äquivalenz von schwerer und träger Masse.
+Als schwere Masse bezeichnet man sowohl die Quelle der Gravitationskraft als auch die „Gravitationsladung“. Die von der Masse 
+  
+    
+      
+        
+          M
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle M_{\mathrm {s} }}
+   auf die Masse 
+  
+    
+      
+        
+          m
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle m_{\mathrm {s} }}
+   ausgeübte Kraft ist
+
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+        =
+        −
+         
+        G
+        
+          
+            
+              
+                m
+                
+                  
+                    s
+                  
+                
+              
+              
+                M
+                
+                  
+                    s
+                  
+                
+              
+            
+            
+              
+                |
+              
+              
+                
+                  
+                    r
+                    →
+                  
+                
+              
+              
+                
+                  |
+                
+                
+                  2
+                
+              
+            
+          
+        
+        
+        
+          
+            
+              
+                r
+                →
+              
+            
+            
+              
+                |
+              
+              
+                
+                  
+                    r
+                    →
+                  
+                
+              
+              
+                |
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\vec {F}}=-\ G{\frac {m_{\mathrm {s} }M_{\mathrm {s} }}{|{\vec {r}}|^{2}}}\,{\frac {\vec {r}}{|{\vec {r}}|}},}
+  wobei die Massen punkt- oder kugelförmig gedacht sind und 
+  
+    
+      
+        
+          
+            
+              r
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {r}}}
+   der Vektor von 
+  
+    
+      
+        
+          M
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle M_{\mathrm {s} }}
+   nach 
+  
+    
+      
+        
+          m
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle m_{\mathrm {s} }}
+   ist. 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   ist die Gravitationskonstante, eine Naturkonstante.
+Die träge Masse 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   ist in der newtonschen Mechanik das, was sich einer Beschleunigung widersetzt. Um den Bewegungszustand eines Körpers zu ändern, muss man daher eine Kraft 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}}
+   aufwenden. Je größer diese Kraft ist, umso stärker ändert sich der Impuls. Dies wird durch das 2. newtonsche Axiom, das Aktionsprinzip, ausgedrückt:
+
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                d
+              
+               
+              
+                
+                  
+                    p
+                    →
+                  
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}={\frac {\mathrm {d} \ {\vec {p}}}{\mathrm {d} t}}}
+  Daraus ergibt sich mit dem Impuls 
+  
+    
+      
+        p
+        =
+        m
+        
+        v
+      
+    
+    {\displaystyle p=m\,v}
+   für Körper mit konstanter Masse die Bewegungsgleichung zu „Kraft ist gleich Masse mal Beschleunigung“, der „Grundgleichung der Mechanik“:
+
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+        =
+        m
+         
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}=m\ {\vec {a}}}
+  Hier ist die träge Masse also der Proportionalitätsfaktor zwischen Kraft und Beschleunigung.
+
+
+== Spezielle Relativitätstheorie ==
+
+
+=== Definition der Masse als Lorentzinvariante ===
+In der speziellen Relativitätstheorie wird die Masse so definiert, dass sie eine lorentzinvariante Größe ist, die im Grenzfall kleiner Geschwindigkeiten mit der Masse der klassischen Physik übereinstimmt. Dazu geht man von der Energie-Impuls-Relation eines Systems aus und stellt sie nach der Masse 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   um:
+
+  
+    
+      
+        m
+        =
+        
+          
+            1
+            c
+          
+        
+         
+        
+          
+            
+              
+                
+                  E
+                  
+                    2
+                  
+                
+                
+                  c
+                  
+                    2
+                  
+                
+              
+            
+            −
+            
+              p
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle m={\frac {1}{c}}\ {\sqrt {{\frac {E^{2}}{c^{2}}}-p^{2}}}}
+  Darin ist 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   die Energie und 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   der Betrag des Impulses des Systems.
+Damit ist die so definierte Größe 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   die durch die Konstante 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   dividierte Norm des relativistischen Vierervektors 
+  
+    
+      
+        (
+        E
+        
+          /
+        
+        c
+        ,
+        p
+        )
+      
+    
+    {\displaystyle (E/c,p)}
+   (siehe Energie-Impuls-Vektor), folglich eine Lorentzinvariante. Diese Größe stimmt mit der im Gültigkeitsbereich der klassischen Mechanik definierten Masse überein, d. h. für Geschwindigkeiten, die klein gegenüber der Lichtgeschwindigkeit sind. Dies geht aus der Beziehung zwischen Impuls und Geschwindigkeit hervor:
+
+  
+    
+      
+        p
+        =
+        m
+         
+        v
+         
+        
+          
+            1
+            
+              1
+              −
+              (
+              v
+              
+                /
+              
+              c
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle p=m\ v\ {\frac {1}{\sqrt {1-(v/c)^{2}}}}}
+  Der Faktor 
+  
+    
+      
+        γ
+        =
+        
+          
+            1
+            
+              1
+              −
+              (
+              v
+              
+                /
+              
+              c
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            E
+            
+              m
+              
+              
+                c
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \gamma ={\frac {1}{\sqrt {1-(v/c)^{2}}}}={\frac {E}{m\,c^{2}}}}
+   heißt auch Lorentzfaktor.
+In der speziellen Relativitätstheorie ist der Impuls 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   also nicht wie bei Newton das Produkt von Masse 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   und Geschwindigkeit 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  . Die newtonsche Formel gilt nur als Näherung im nichtrelativistischen Grenzfall.
+
+
+=== Relativistische Masse ===
+
+Um dennoch die newtonsche Formel beibehalten zu können, wurde der Begriff relativistische Masse
+
+  
+    
+      
+        
+          m
+          
+            rel.
+          
+        
+        (
+        v
+        )
+        =
+        m
+         
+        
+          
+            1
+            
+              1
+              −
+              (
+              v
+              
+                /
+              
+              c
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle m_{\text{rel.}}(v)=m\ {\frac {1}{\sqrt {1-(v/c)^{2}}}}}
+  eingeführt, sodass 
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+        =
+        
+          m
+          
+            rel.
+          
+        
+         
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}=m_{\text{rel.}}\ {\vec {v}}}
+   gilt. In diesem Zusammenhang wird die Masse 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   oft als 
+  
+    
+      
+        
+          m
+          
+            0
+          
+        
+      
+    
+    {\displaystyle m_{0}}
+   geschrieben und „Ruhemasse“ genannt (siehe oben unter „Wortgebrauch“), denn für 
+  
+    
+      
+        v
+        =
+        0
+      
+    
+    {\displaystyle v=0}
+   gilt
+
+  
+    
+      
+        
+          m
+          
+            rel.
+          
+        
+        =
+        
+          m
+          
+            0
+          
+        
+      
+    
+    {\displaystyle m_{\text{rel.}}=m_{0}}
+  .Der Begriff der relativistischen oder relativistisch veränderlichen Masse wird in der populären Literatur heute noch benutzt. In der Fachsprache wird er jedoch zunehmend vermieden, damit der Begriff der Masse konsequent für eine vom Beobachter unbeeinflusste Eigenschaft des Teilchens oder Systems verwendet werden kann. Zudem führt die relativistische Masse 
+  
+    
+      
+        
+          m
+          
+            rel.
+          
+        
+        (
+        v
+        )
+      
+    
+    {\displaystyle m_{\text{rel.}}(v)}
+   an Stelle von 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   nur in den Gleichungen für den Impuls 
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}}
+   und für die relativistische Energie 
+  
+    
+      
+        E
+        =
+        
+          m
+          
+            rel.
+          
+        
+        (
+        v
+        )
+         
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E=m_{\text{rel.}}(v)\ c^{2}}
+   zu richtigen Ergebnissen. Im newtonschen Gravitationsgesetz eingesetzt bringt sie aber falsche Ergebnisse hervor, ebenso im 2. newtonschen Gesetz, wenn man es als 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+        =
+        
+          m
+          
+            rel.
+          
+        
+        (
+        v
+        )
+        ⋅
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}=m_{\text{rel.}}(v)\cdot {\vec {a}}}
+   schriebe.
+Der letztgenannte Mangel ergibt sich aus der Definition der Kraft 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}}
+   als die zeitliche Änderung des Impulses, in der speziellen Relativitätstheorie also:
+
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                d
+              
+               
+              
+                
+                  
+                    p
+                    →
+                  
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            m
+            
+              1
+              −
+              (
+              v
+              
+                /
+              
+              c
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+         
+        
+          
+            
+              a
+              →
+            
+          
+        
+        +
+        
+          
+            
+              m
+               
+              (
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+              ⋅
+              
+                
+                  
+                    a
+                    →
+                  
+                
+              
+              )
+            
+            
+              
+                c
+                
+                  2
+                
+              
+              
+              
+                
+                  (
+                  
+                    
+                      1
+                      −
+                      (
+                      v
+                      
+                        /
+                      
+                      c
+                      
+                        )
+                        
+                          2
+                        
+                      
+                    
+                  
+                  )
+                
+                
+                  3
+                
+              
+            
+          
+        
+         
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}={\frac {\mathrm {d} \ {\vec {p}}}{\mathrm {d} t}}={\frac {m}{\sqrt {1-(v/c)^{2}}}}\ {\vec {a}}+{\frac {m\ ({\vec {v}}\cdot {\vec {a}})}{c^{2}\,\left({\sqrt {1-(v/c)^{2}}}\right)^{3}}}\ {\vec {v}}}
+  Bildet man hieraus die Größe 
+  
+    
+      
+        (
+        
+          
+            
+              v
+              →
+            
+          
+        
+        ⋅
+        
+          
+            
+              F
+              →
+            
+          
+        
+        )
+      
+    
+    {\displaystyle ({\vec {v}}\cdot {\vec {F}})}
+   und damit die Größe
+
+  
+    
+      
+        
+          (
+          
+            
+              
+                
+                  F
+                  →
+                
+              
+            
+            −
+            
+              
+                
+                  (
+                  
+                    
+                      
+                        v
+                        →
+                      
+                    
+                  
+                  ⋅
+                  
+                    
+                      
+                        F
+                        →
+                      
+                    
+                  
+                  )
+                
+                
+                  c
+                  
+                    2
+                  
+                
+              
+            
+             
+            
+              
+                
+                  v
+                  →
+                
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle \left({\vec {F}}-{\frac {({\vec {v}}\cdot {\vec {F}})}{c^{2}}}\ {\vec {v}}\right),}
+  so lässt sich nach der Beschleunigung 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+   umstellen:
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              1
+              −
+              (
+              v
+              
+                /
+              
+              c
+              
+                )
+                
+                  2
+                
+              
+            
+            m
+          
+        
+        
+          (
+          
+            
+              
+                
+                  F
+                  →
+                
+              
+            
+            −
+            
+              
+                
+                  (
+                  
+                    
+                      
+                        v
+                        →
+                      
+                    
+                  
+                  ⋅
+                  
+                    
+                      
+                        F
+                        →
+                      
+                    
+                  
+                  )
+                
+                
+                  c
+                  
+                    2
+                  
+                
+              
+            
+             
+            
+              
+                
+                  v
+                  →
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle {\vec {a}}={\frac {\sqrt {1-(v/c)^{2}}}{m}}\left({\vec {F}}-{\frac {({\vec {v}}\cdot {\vec {F}})}{c^{2}}}\ {\vec {v}}\right)}
+  Demnach hat die Beschleunigung grundsätzlich auch eine Komponente in Richtung der Geschwindigkeit. Diese ist für kleine Geschwindigkeiten 
+  
+    
+      
+        (
+        v
+        ≪
+        c
+        )
+      
+    
+    {\displaystyle (v\ll c)}
+   aber zu vernachlässigen. Dann entspricht diese Gleichung der Grundgleichung der newtonschen Mechanik:
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            1
+            m
+          
+        
+         
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}={\frac {1}{m}}\ {\vec {F}}}
+  Man sieht aber, dass die Richtung der Beschleunigung nur dann parallel zur Kraft ist, wenn diese genau senkrecht oder parallel zur Geschwindigkeit einwirkt. Andernfalls hat die Beschleunigung auch einen Anteil, der parallel oder antiparallel zur Geschwindigkeit ist und mit zunehmender Geschwindigkeit anwächst. Zudem ergibt sich die Beschleunigung um den Faktor 
+  
+    
+      
+        (
+        1
+        −
+        
+          v
+          
+            2
+          
+        
+        
+          /
+        
+        
+          c
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle (1-v^{2}/c^{2})}
+   geringer, wenn die Kraft in oder entgegengesetzt zur Richtung der Geschwindigkeit einwirkt als senkrecht dazu. Welche Beschleunigung eine Kraft 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}}
+   bewirkt, hängt also nach Größe und Richtung von der Geschwindigkeit des Körpers ab. Es gibt keinen einfachen Proportionalitätsfaktor zwischen Kraft und Beschleunigung wie in der newtonschen Mechanik. Die unterschiedliche Trägheit in Richtung der Bewegung und quer dazu hatte man zunächst mit den Begriffen der longitudinalen und transversalen Masse zu erfassen versucht, die aber heute nicht mehr verwendet werden.
+In diesem und anderen Artikeln wird die Größe 
+  
+    
+      
+        
+          m
+          
+            rel.
+          
+        
+        (
+        v
+        )
+      
+    
+    {\displaystyle m_{\text{rel.}}(v)}
+   nicht weiter verwendet, und das Symbol 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   für die Masse hat stets die Bedeutung der Ruhemasse, also 
+  
+    
+      
+        m
+        =
+        
+          m
+          
+            0
+          
+        
+        .
+      
+    
+    {\displaystyle m=m_{0}.}
+   Zu beachten ist jedoch, dass mitunter, vor allem in älteren Texten, das Symbol 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   für die relativistische Masse steht.
+
+
+=== Ruheenergie ===
+
+Die Ruheenergie 
+  
+    
+      
+        
+          E
+          
+            0
+          
+        
+      
+    
+    {\displaystyle E_{0}}
+   ist die Energie eines Körpers oder Systems in seinem Ruhesystem, d. h. in dem Bezugssystem, in dem sein Gesamtimpuls null ist. Die Ruheenergie ist eine Eigenschaft des Systems, die nicht von seinem Bewegungszustand abhängt. Aus der oben angegebenen Energie-Impuls-Relation folgt die berühmte einsteinsche Gleichung:
+
+  
+    
+      
+        
+          E
+          
+            0
+          
+        
+        =
+        m
+        
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{0}=m\,c^{2}}
+  Damit ist die Ruheenergie durch die Masse des Systems eindeutig bestimmt und umgekehrt. Beide Größen unterscheiden sich nur durch den konstanten Faktor 
+  
+    
+      
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle c^{2}}
+   und sind daher äquivalent, siehe Äquivalenz von Masse und Energie.
+Die Ruheenergie von Teilchen wirkt sich insbesondere bei Erzeugungs- (z. B. Paarbildung) und Vernichtungsvorgängen (z. B. Annihilation) aus. Die Ruheenergie des Elektrons beträgt 0,511 MeV, diejenige eines Protons 938 MeV. Von der Ruheenergie eines Photons zu sprechen, ist ein Widerspruch in sich, denn es gibt kein Bezugssystem, in dem das Photon keinen Impuls hat. Richtig ist stattdessen für das Photon die Aussage 
+  
+    
+      
+        m
+        =
+        0
+      
+    
+    {\displaystyle m=0}
+  .
+
+
+=== Mehrteilchensysteme ===
+Für ein System aus mehreren nicht wechselwirkenden Teilchen sind die Gesamtenergie und der Gesamtimpuls die Summen der jeweiligen Größen aller Teilchen. Die Energie-Impuls-Relation lautet daher
+
+  
+    
+      
+        
+          
+            (
+            
+              
+                m
+                
+                  invariant
+                
+              
+              
+              
+                c
+                
+                  2
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        =
+        
+          
+            (
+            
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  N
+                
+              
+              
+                E
+                
+                  i
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        −
+        
+          
+            (
+            
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  N
+                
+              
+              
+                
+                  
+                    
+                      p
+                      →
+                    
+                  
+                
+                
+                  i
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        
+        
+          c
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle \left(m_{\text{invariant}}\,c^{2}\right)^{2}=\left(\sum _{i=1}^{N}E_{i}\right)^{2}-\left(\sum _{i=1}^{N}{\vec {p}}_{i}\right)^{2}\,c^{2},}
+  wobei 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   die Anzahl der Teilchen ist. Hierbei ist die invariante Masse des Mehrteilchensystems 
+  
+    
+      
+        
+          m
+          
+            invariant
+          
+        
+      
+    
+    {\displaystyle m_{\text{invariant}}}
+   im Allgemeinen nicht gleich der Summe der Massen der Einzelteilchen. Multipliziert man die invariante Masse mit dem konstanten Faktor 
+  
+    
+      
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle c^{2}}
+  , so ergibt sich daraus die Ruheenergie des Systems, in diesem Zusammenhang auch als Schwerpunktsenergie bezeichnet. Diese umfasst nicht nur die Ruheenergien der einzelnen Teilchen, sondern auch ihre Relativbewegung gegenüber dem Schwerpunkt. Zur Erläuterung stelle man sich ein Gefäß vor, das ein Gas enthält. Fügt man dem Gas Energie zu, indem man es komprimiert oder erhitzt, so hat das Gefäß als Ganzes eine erhöhte Schwerpunktsenergie und damit eine größere invariante Masse. Im Detail betrachtet verändert sich die Masse der einzelnen Gasmoleküle dabei nicht, wohl aber ihre kinetische Energie relativ zum gemeinsamen Schwerpunkt.
+Die Schwerpunktsenergie ist – ebenso wie die invariante Masse – invariant unter Lorentztransformation. Sie gibt den Energiebetrag an, der für die Erzeugung neuer Teilchen bei einer Teilchenkollision zur Verfügung steht, und ist daher in der experimentellen Teilchenphysik von Bedeutung.
+
+
+=== Massendefekt ===
+
+Gibt ein geschlossenes System Energie über die Systemgrenzen z. B. in Form von Strahlung ab, so verringert sich der Energieinhalt des Systems und damit seine Masse. In diesem Sinne ist die Masse in der modernen Physik keine Erhaltungsgröße mehr, wenngleich sich dies in alltäglichen Situationen kaum bemerkbar macht.
+Bei Kernreaktionen werden jedoch Energiemengen umgesetzt, die gegenüber der Ruheenergie der Kernbausteine nicht mehr zu vernachlässigen sind. Die Bindungsenergie führt dazu, dass ein Atomkern eine wägbar geringere Masse hat als die Summe seiner Bausteine. Die Differenz wird Massendefekt genannt. Die Bindungsenergie liegt bei den meisten Atomkernen zwischen 7 und 9 MeV pro Nukleon und bewirkt dadurch einen Massendefekt zwischen 0,7 und 0,9 Prozent. Sehr leichte Atomkerne (2H, 3H, 3He, Li, Be, B) weisen mit 1 bis 6 MeV geringere Bindungsenergien pro Nukleon und mit 0,1 und 0,6 Prozent geringere Massendefekte auf.
+Die Bindungsenergie chemischer Bindungen liegt mit typischen 2 bis 7 eV pro Bindung (pro Nukleon wäre sie entsprechend dem Molekülgewicht noch einmal deutlich kleiner) um 7 bis 9 Größenordnungen darunter. Bei einigen Reaktionen liegen die Werte im Bereich der Nachweisgrenze aktueller Massekomparatoren (
+  
+    
+      
+        1
+        …
+        2
+        ⋅
+        
+          10
+          
+            −
+            8
+          
+        
+      
+    
+    {\displaystyle 1\ldots 2\cdot 10^{-8}}
+   Prozent): Der größte chemische Massendefekt ist 
+  
+    
+      
+        2
+        
+          ,
+        
+        25
+        ⋅
+        
+          10
+          
+            −
+            7
+          
+        
+      
+    
+    {\displaystyle 2{,}25\cdot 10^{-7}}
+   Prozent bei der Bindung 
+  
+    
+      
+        
+          2
+           
+          H
+           
+          →
+          
+          
+            H
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ H\ \rightarrow \,H_{2}} }
+  . Zu 
+  
+    
+      
+        
+          L
+          i
+          +
+          F
+           
+          →
+           
+          L
+          i
+          F
+        
+      
+    
+    {\displaystyle \mathrm {Li+F\ \rightarrow \ LiF} }
+   gehört ein Massendefekt von 
+  
+    
+      
+        2
+        
+          ,
+        
+        47
+        ⋅
+        
+          10
+          
+            −
+            8
+          
+        
+      
+    
+    {\displaystyle 2{,}47\cdot 10^{-8}}
+   Prozent. Aber bislang konnte noch kein chemischer Massendefekt durch Wägung nachgewiesen werden. 
+Da bei chemischer Bindung der Massendefekt so klein ist, dass er bei keiner Wägung zu bemerken wäre, konnte Ende des 18. Jahrhunderts von Antoine de Lavoisier der Massenerhaltungssatz aufgestellt werden. Diese Erkenntnis trug maßgeblich zur Abkehr von der Alchemie und Phlogistontheorie bei und wurde damit eine wichtige Grundlage der auf den Begriff der chemischen Elemente gestützten Chemie.
+
+
+== Allgemeine Relativitätstheorie ==
+In der allgemeinen Relativitätstheorie wird der freie Fall von Körpern im Gravitationsfeld als kräftefrei verstanden. Eventuell wirkende Kräfte würden bewirken, dass die Bahnkurven vom freien Fall abweichen. Wird der Körper vom freien Fall abgehalten, ist eine Kraft nötig, deren Größe zur trägen Masse des Körpers proportional ist.
+Die Weltlinien frei fallender Teilchen sind die Geraden (genauer: Geodäten) der Raumzeit. Sie sind vollständig durch den anfänglichen Ort und die anfängliche Geschwindigkeit festgelegt und hängen nicht von anderen Eigenschaften wie Größe oder Masse des frei fallenden Teilchens ab (Äquivalenzprinzip). Da die Raumzeit gekrümmt ist, ergibt die Projektion der Geodäten auf den dreidimensionalen Ortsraum normalerweise keine Geraden, sondern beispielsweise Wurfparabeln.
+Quelle der Gravitation ist in der Grundgleichung der Allgemeinen Relativitätstheorie der Energie-Impuls-Tensor, der sich aus Energiedichte, Impulsdichten, Energieströmen und Impulsströmen zusammensetzt. Da die Energie ruhender Körper durch ihre Masse bestimmt ist, bewirkt allein deren Masse die Gravitation. Kann man die Bewegung der gravitationserzeugenden Körper vernachlässigen und ist die Geschwindigkeit der frei fallenden Teilchen klein gegen die Lichtgeschwindigkeit, so wirkt sich die Masse der gravitationserzeugenden Körper wie in Newtons Gravitationstheorie aus. Für Licht als Testteilchen trifft diese Einschränkung nicht zu: Es wird an der Sonne doppelt so stark abgelenkt, wie nach Newton zu erwarten wäre.
+
+
+== Ursprung der Massen der Elementarteilchen ==
+Im Standardmodell der Elementarteilchenphysik wird der Ursprung der Massen der Elementarteilchen durch den Higgs-Mechanismus erklärt. Durch Wechselwirkung mit dem Higgs-Feld, das indirekt durch die Beobachtung des Higgs-Bosons nachgewiesen wird, erhalten sie eine Masse, da das Higgs-Feld auch im Vakuum nicht verschwindet. Nur die Masse des Higgs-Bosons selbst wird hierdurch nicht erklärt. In supersymmetrischen Theorien könnte ein ähnlicher Mechanismus auch durch andere Teilchen (Goldstinos) vermittelt werden (siehe auch Goldstonetheorem und Gravitino).Die Massen der Baryonen, zu denen auch Proton und Neutron gehören, sind allerdings ca. 100-mal größer als die Massen der drei Quarks, aus denen sie bestehen. Die Baryonenmassen werden dynamisch erklärt (siehe auch: Gebundener Zustand). Ansätze zur Berechnung liefern Gitterrechnungen in der Quantenchromodynamik (QCD). Halb anschaulich kann man mit der geringen Ausdehnung der Baryonen von etwa 10−15 m argumentieren: Wenn sich die Quarks im Baryon auf so kleinem Raum konzentrieren, haben sie eine so kurze De-Broglie-Wellenlänge, dass ihre kinetische Energie 
+  
+    
+      
+        
+          E
+          
+            kin
+          
+        
+      
+    
+    {\displaystyle E_{\text{kin}}}
+   nach Einsteins Formel 
+  
+    
+      
+        E
+        =
+        m
+        
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E=m\,c^{2}}
+   erhebliche Masse bedeutet. Drei solcher Konstituenten-Quarks ergeben dann tatsächlich etwa die Masse des Protons oder Neutrons.
+Die Baryonen machen den größten Teil der Masse sichtbarer Materie aus. Es wird vermutet, dass schwach wechselwirkende massereiche Teilchen (englisch weakly interacting massive particles, abgekürzt WIMP) wie etwa das hypothetische leichteste supersymmetrische Teilchen (englisch lightest supersymmetric particle, abgekürzt LSP) die nicht sichtbare Dunkle Materie aufbauen könnten.
+
+
+== Sprachgebrauch: Masse und Gewicht ==
+Im allgemeinen Sprachgebrauch wird die Masse eines Objekts auch als Gewicht bezeichnet. Beispiele sind das Übergewicht, Leergewicht, Abtropfgewicht oder Gewichtsangaben in Kochrezepten. Dies trifft auch auf viele Gesetze und Verordnungen zu. Beispiele sind das Deutsche Mutterschutzgesetz und das Schweizer Straßenverkehrsgesetz.Beim Gleichsetzen von Masse und Gewichtskraft kann der Eindruck entstehen, die Masse hänge von der vor Ort herrschenden Schwerkraft ab. So ist die folgende Aussage missverständlich: „Auf dem Mond wiegt ein 60 kg schwerer Mensch nur ungefähr 10 kg.“ Klarer ist: „Ein Mensch mit einem ‚Gewicht‘ auf der Erde von 60 kg wiegt auf dem Mond ungefähr so viel, wie ein Mensch mit einem ‚Gewicht‘ von 10 kg auf der Erde wiegt.“
+
+
+== Siehe auch ==
+Liste von Größenordnungen der Masse
+
+
+== Literatur ==
+Max Jammer: Der Begriff der Masse in der Physik. Wissenschaftliche Buchgesellschaft, Darmstadt 1964 (Concepts of Mass in Classical and Modern Physics, Harvard 1961, deutsch).
+Gordon Kane: Das Geheimnis der Masse. In: Spektrum der Wissenschaft. Nr. 2. Spektrum der Wissenschaft Verlag, 2006, ISSN 0170-2971, S. 36–43. 
+
+
+== Weblinks ==
+
+Seite nicht mehr abrufbar, Suche in Webarchiven:@1@2Vorlage:Toter Link/www.ptb.de  Seite der PTB zum Kilogramm (mit Hinweisen auf Projekte zur Neudefinition)
+Versuche und Aufgaben zur Masse (LEIFI)
+Cornelius C. Noack: Was ist eigentlich eine ‚Ruhemasse‘? (PDF; 279 kB).
+The Problem of Mass for Quarks and Leptons. Vortrag (engl.) von Harald Fritzsch am 22. März 2000 im Kavli Institute for Theoretical Physics (Vortragsunterlagen/Audioaufzeichnung).
+Lew Borissowitsch Okun: The Concept of Mass in the Einstein Year. (arXiv). PDF, 175 kB.
+
+
+== Einzelnachweise ==

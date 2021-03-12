@@ -1,0 +1,24 @@
+Waga – przyrząd do wyznaczania masy ciał na zasadzie równoważenia sił lub wykorzystania zjawisk fizycznych. W prostej wadze szalkowej jedną z sił jest ciężar ciała o mierzonej masie, drugą – ciężar odważników lub inna wyskalowana siła.
+Z uwagi na konstrukcję rozróżnia się m.in. wagi dźwigniowe, sprężynowe, elektryczne, elektroniczne.
+Konstrukcja i dokładność pomiaru masy jest zależna od przeznaczenia wagi. Do najczęściej spotykanych można zaliczyć:
+
+wagę kuchenną – umożliwia pomiar masy danego produktu z uwzględnieniem masy opakowania – tary
+wagę sklepową – w wersji elektronicznej umożliwia ona równoczesne określenie kosztu ważonego towaru, często jest sprzężona z kasą fiskalną, tego rodzaju wagi podlegają kontroli prawnej ze względu na ochronę praw konsumenta
+wagę sprężynową – np. wędkarską
+wagę samochodową – często montowaną w jezdni, do ważenia pojazdów, określania nacisku na oś
+wagę laboratoryjną
+wagi przemysłowe – często automatyczne wagi elektroniczne stosowane przy dozowaniu i pomiarze produktów masowych
+wagę osobową – stosowaną do kontroli ciężaru ciała osób (np. w celach medycznych, sportowych).W laboratoriach używa się różnej konstrukcji wag precyzyjnych. Współcześnie, najbardziej rozpowszechnione laboratoryjne wagi elektroniczne działają poprzez pomiar kąta skręcenia włókna kwarcowego i są tłumione mechanicznie albo pneumatycznie, aby przyspieszyć pomiar.
+Podział wag laboratoryjnych ze względu na dokładność i nośność:
+
+techniczna – dokładność do 100 mg, nośność do 10 kg.
+analityczna – dokładność do 10 mg, nośność do 1 kg
+półmikroanalityczna – dokładność do 1 mg, nośność do 1 kg
+mikroanalityczna – dokładność do 100 μg, nośność do 100 g.
+ultramikroanalityczna	– dokładność do 10 μg lub wyżej – nośność rzędu do 10 g.
+
+
+== Historia ==
+
+Jednymi z pierwszych wag, znanych już w starożytności, były wagi szalkowe. W 1945 roku szwajcarski wynalazca dr Erhard Mettler skonstruował pierwszą wagę jednoszalkową.
+Waga w starożytnej Grecji miała wiele znaczeń. Oznaczała między innymi bezstronność w osądach, wagę cudzego grzechu oraz w wypadku sądzenia dwóch osób kto jest winny. Szala przechylała się po stronie winnego co świadczyło o jego większej winie w danym występku.

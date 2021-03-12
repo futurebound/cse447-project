@@ -1,0 +1,2657 @@
+L'effet Doppler, ou effet Doppler-Fizeau, est le décalage de fréquence d’une onde (mécanique, acoustique, électromagnétique ou d'une autre nature) observé entre les mesures à l'émission et à la réception, lorsque la distance entre l'émetteur et le récepteur varie au cours du temps. Si on désigne de façon générale ce phénomène physique sous le nom d'effet Doppler, le nom d'« effet Doppler-Fizeau » est réservé aux ondes électromagnétiques.
+Cet effet est présenté par Christian Doppler en 1842 dans l'article Sur la lumière colorée des étoiles doubles et de quelques autres astres du ciel (Über das farbige Licht der Doppelsterne und einige andere Gestirne des Himmels), confirmé sur les sons par le physicien néerlandais Christoph Buys Ballot (en utilisant des musiciens jouant une note calibrée sur un train de la ligne Utrecht-Amsterdam), et est également proposé par Hippolyte Fizeau pour les ondes lumineuses en 1848.
+
+
+== L'effet Doppler ==
+
+L'effet Doppler se manifeste par exemple pour les ondes sonores dans la perception de la hauteur du son d’un moteur de voiture, ou de la sirène d’un véhicule d’urgence. Le son est différent selon que l’on se trouve à l'intérieur du véhicule (l’émetteur étant immobile par rapport au récepteur), ou que le véhicule se rapproche du récepteur (le son étant alors plus aigu) ou s’en éloigne (le son étant plus grave). Il faut cependant remarquer que la variation de la hauteur du son dans cet exemple est due à la position de l'observateur par rapport à la trajectoire du mobile. En effet, la vitesse du mobile perçue par l'observateur 
+  
+    
+      
+        
+          v
+          
+            r
+          
+        
+      
+    
+    {\displaystyle v_{r}}
+   varie suivant l'angle 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   formé par sa ligne de visée vers le mobile et la trajectoire de celui-ci. On a : 
+  
+    
+      
+        
+          v
+          
+            r
+          
+        
+        =
+        
+          v
+          
+            s
+          
+        
+        ⋅
+        cos
+        ⁡
+        
+          θ
+        
+      
+    
+    {\displaystyle v_{r}=v_{s}\cdot \cos {\theta }}
+  . Il n'y a pas de modulation si l'observateur est exactement sur la trajectoire et va à la même vitesse et dans le même sens que l'émetteur.
+Cet effet est utilisé pour mesurer une vitesse, par exemple celle d’une voiture, ou bien celle du sang lorsqu’on réalise des examens médicaux, notamment les échographies en obstétrique ou en cardiologie. Il revêt une grande importance en astronomie car il permet de déterminer directement la vitesse d’approche ou d’éloignement des objets célestes (étoiles, galaxies, nuages de gaz, etc.). Toutefois, le décalage vers le rouge cosmologique, qui traduit la fuite apparente des galaxies et constitue une preuve de l’expansion de l’espace, est d’une autre nature : il n’est pas justifiable par un effet Doppler car il est dû (de façon imagée) à un étirement de l’espace produisant lui-même un étirement des longueurs d’onde (la longueur d’onde d’un rayonnement suivant fidèlement la taille de l’Univers).
+
+
+== Explication physique ==
+Imaginons le cas d'une personne sur une plage, debout dans l’eau, au bord du rivage. Des vagues arrivent à ses pieds toutes les dix secondes. La personne marche en direction du large : elle va à la rencontre des vagues, celles-ci l’atteignent alors avec une fréquence plus élevée, par exemple toutes les huit secondes. Lorsque cette personne se met à courir vers le large, les vagues l'atteignent alors toutes les cinq secondes. Lorsque cette personne fait demi-tour, et marche puis court en direction de la plage, les vagues l’atteignent avec une fréquence moins élevée, par exemple toutes les douze, puis quinze secondes.
+La fréquence des vagues ne dépend pas du mouvement de la personne par rapport à l’eau (elle est notamment indépendante de la présence ou non d’un courant), mais du mouvement de la personne par rapport à l’émetteur des vagues (en l’occurrence un lieu au large où le courant s’oppose au vent).
+De manière inverse, on peut imaginer une source mobile de vagues, par exemple un aéroglisseur dont le jet d’air générerait des vagues à une fréquence régulière. Si l’aéroglisseur se déplace dans une direction, alors les vagues sont plus resserrées vers l’avant du mouvement et plus espacées vers l’arrière du mouvement ; sur un lac fermé, les vagues frapperont la berge à des fréquences différentes.
+
+
+== Formulation mathématique ==
+
+
+=== Effet Doppler-Fizeau galiléen ===
+Supposons que l’émetteur et le récepteur se déplacent sur une même droite. Il y a trois référentiels galiléens à considérer  :
+
+Le référentiel du milieu dans lequel se propage l’onde (par exemple l’atmosphère pour une onde sonore). On note c la célérité de l’onde dans ce référentiel (ce n’est pas forcément la vitesse de la lumière).
+Le référentiel lié à l’émetteur (source) : appelons vem la vitesse algébrique de l’émetteur (source) par rapport au référentiel (1).
+Le référentiel lié au récepteur : appelons vrec la vitesse du récepteur par rapport au référentiel (1).Par convention, les vitesses seront comptées comme positives suivant la direction et dans le sens de propagation du signal (de l’émetteur vers le récepteur). Ainsi une vitesse vem positive et vrec négative correspondra à un rapprochement entre source et récepteur tandis qu’une vitesse vem négative et vrec positive correspondra à un éloignement.
+Si ƒem est la fréquence de l’onde dans le référentiel de la source, alors le récepteur va recevoir une onde de fréquence ƒrec
+
+  
+    
+      
+        
+          f
+          
+            r
+            e
+            c
+          
+        
+        =
+        
+          
+            
+              c
+              −
+              
+                v
+                
+                  r
+                  e
+                  c
+                
+              
+            
+            
+              c
+              −
+              
+                v
+                
+                  e
+                  m
+                
+              
+            
+          
+        
+        ⋅
+        
+          f
+          
+            e
+            m
+          
+        
+        =
+        
+          
+            
+              1
+              −
+              (
+              
+                v
+                
+                  r
+                  e
+                  c
+                
+              
+              
+                /
+              
+              c
+              )
+            
+            
+              1
+              −
+              (
+              
+                v
+                
+                  e
+                  m
+                
+              
+              
+                /
+              
+              c
+              )
+            
+          
+        
+        ⋅
+        
+          f
+          
+            e
+            m
+          
+        
+      
+    
+    {\displaystyle f_{rec}={\frac {c-v_{rec}}{c-v_{em}}}\cdot f_{em}={\frac {1-(v_{rec}/c)}{1-(v_{em}/c)}}\cdot f_{em}}
+  En effet, supposons que la source émette des bips à une fréquence ƒem et que le mouvement relatif entre émetteur et récepteur se fasse selon la droite les joignant. Lorsque le deuxième bip est produit, le premier bip a parcouru une distance
+
+d0 = c·Temdans le référentiel (1), avec Tem = 1/ƒem. La source s’étant déplacée de vem·Tem pendant le temps Tem, la distance séparant deux bips est
+
+d1 = (c - vem)·Tem.Calculons le temps Trec séparant la détection des deux bips par le récepteur. Ce dernier reçoit le premier bip. Au bout de ce temps Trec, il a parcouru la distance vrec·Trec au moment où il reçoit le deuxième bip. Durant ce laps de temps Trec, le deuxième bip aura donc parcouru la distance
+
+d2 = d1 + vrec·Trec = c·Trec,ce qui donne bien :
+
+  
+    
+      
+        
+          f
+          
+            r
+            e
+            c
+          
+        
+        =
+        
+          
+            1
+            
+              T
+              
+                r
+                e
+                c
+              
+            
+          
+        
+        =
+        
+          
+            
+              c
+              −
+              
+                v
+                
+                  r
+                  e
+                  c
+                
+              
+            
+            
+              d
+              
+                1
+              
+            
+          
+        
+        =
+        
+          
+            
+              c
+              −
+              
+                v
+                
+                  r
+                  e
+                  c
+                
+              
+            
+            
+              c
+              −
+              
+                v
+                
+                  e
+                  m
+                
+              
+            
+          
+        
+        ⋅
+        
+          
+            1
+            
+              T
+              
+                e
+                m
+              
+            
+          
+        
+        =
+        
+          
+            
+              c
+              −
+              
+                v
+                
+                  r
+                  e
+                  c
+                
+              
+            
+            
+              c
+              −
+              
+                v
+                
+                  e
+                  m
+                
+              
+            
+          
+        
+        ⋅
+        
+          f
+          
+            e
+            m
+          
+        
+      
+    
+    {\displaystyle f_{rec}={1 \over T_{rec}}={c-v_{rec} \over d_{1}}={c-v_{rec} \over c-v_{em}}\cdot {1 \over T_{em}}={c-v_{rec} \over c-v_{em}}\cdot f_{em}}
+  Si seule la source est mobile par rapport au référentiel (vrec = 0), on a alors :
+
+  
+    
+      
+        
+          f
+          
+            r
+            e
+            c
+          
+        
+        =
+        
+          
+            c
+            
+              c
+              −
+              
+                v
+                
+                  e
+                  m
+                
+              
+            
+          
+        
+        ⋅
+        
+          f
+          
+            e
+            m
+          
+        
+        =
+        
+          
+            1
+            
+              1
+              −
+              (
+              
+                v
+                
+                  e
+                  m
+                
+              
+              
+                /
+              
+              c
+              )
+            
+          
+        
+        ⋅
+        
+          f
+          
+            e
+            m
+          
+        
+      
+    
+    {\displaystyle f_{rec}={\frac {c}{c-v_{em}}}\cdot f_{em}={\frac {1}{1-(v_{em}/c)}}\cdot f_{em}}
+  et si seul le récepteur est mobile par rapport au référentiel (vem = 0), on a :
+
+  
+    
+      
+        
+          f
+          
+            r
+            e
+            c
+          
+        
+        =
+        
+          
+            
+              c
+              −
+              
+                v
+                
+                  r
+                  e
+                  c
+                
+              
+            
+            c
+          
+        
+        ⋅
+        
+          f
+          
+            e
+            m
+          
+        
+        =
+        
+          (
+          
+            1
+            −
+            
+              
+                
+                  v
+                  
+                    r
+                    e
+                    c
+                  
+                
+                c
+              
+            
+          
+          )
+        
+        ⋅
+        
+          f
+          
+            e
+            m
+          
+        
+      
+    
+    {\displaystyle f_{rec}={\frac {c-v_{rec}}{c}}\cdot f_{em}=\left(1-{\frac {v_{rec}}{c}}\right)\cdot f_{em}}
+  Les deux situations ne sont pas symétriques : en effet, si le récepteur « fuit » l’émetteur à une vitesse supérieure à c, il ne recevra jamais d’onde, alors que si l’émetteur fuit un récepteur immobile, celui-ci recevra toujours une onde. On ne peut pas inverser le rôle de l’émetteur et du récepteur. Dans le cas classique, il y a dissymétrie dans le décalage fréquentiel selon que l’émetteur ou le récepteur est en mouvement (les fréquences reçues diffèrent par les termes du second ordre pour une même fréquence d’émission). Cette dissymétrie est due à la présence du milieu dans lequel se propagent les ondes, elle est justifiée pour les ondes sonores.
+
+
+=== Effet Doppler et invariance galiléenne ===
+On peut vérifier que la formule: 
+
+  
+    
+      
+        
+          f
+          
+            r
+            e
+            c
+          
+        
+        =
+        
+          
+            
+              c
+              −
+              
+                v
+                
+                  r
+                  e
+                  c
+                
+              
+            
+            
+              c
+              −
+              
+                v
+                
+                  e
+                  m
+                
+              
+            
+          
+        
+        ⋅
+        
+          f
+          
+            e
+            m
+          
+        
+        =
+        
+          
+            
+              1
+              −
+              (
+              
+                v
+                
+                  r
+                  e
+                  c
+                
+              
+              
+                /
+              
+              c
+              )
+            
+            
+              1
+              −
+              (
+              
+                v
+                
+                  e
+                  m
+                
+              
+              
+                /
+              
+              c
+              )
+            
+          
+        
+        ⋅
+        
+          f
+          
+            e
+            m
+          
+        
+      
+    
+    {\displaystyle f_{rec}={\frac {c-v_{rec}}{c-v_{em}}}\cdot f_{em}={\frac {1-(v_{rec}/c)}{1-(v_{em}/c)}}\cdot f_{em}}
+  
+résulte directement de l'invariance galiléenne des longueurs (ici la longueur d'onde) qui s'écrit en notant respectivement 
+  
+    
+      
+        
+          T
+          
+            m
+          
+        
+      
+    
+    {\displaystyle T_{m}}
+   et 
+  
+    
+      
+        c
+        
+          T
+          
+            m
+          
+        
+        =
+        
+          λ
+          
+            m
+          
+        
+      
+    
+    {\displaystyle cT_{m}=\lambda _{m}}
+   la période et la longueur d'onde dans le référentiel du milieu de propagation au repos:
+
+  
+    
+      
+        (
+        
+          c
+          −
+          
+            v
+            
+              r
+              e
+              c
+            
+          
+        
+        )
+        
+          T
+          
+            r
+            e
+            c
+          
+        
+        =
+        (
+        
+          c
+          −
+          
+            v
+            
+              e
+              m
+            
+          
+        
+        )
+        
+          T
+          
+            e
+            m
+          
+        
+        =
+        c
+        
+          T
+          
+            m
+          
+        
+        =
+        
+          λ
+          
+            m
+          
+        
+      
+    
+    {\displaystyle ({c-v_{rec}})T_{rec}=({c-v_{em}})T_{em}=cT_{m}=\lambda _{m}}
+  .
+La longueur d'onde qui est la même dans les trois référentiels ne dépend que de la vitesse de la source par rapport au référentiel de référence:
+
+  
+    
+      
+        
+          λ
+          
+            e
+            m
+          
+        
+        =
+        (
+        
+          c
+          −
+          
+            v
+            
+              e
+              m
+            
+          
+        
+        )
+        
+          T
+          
+            e
+            m
+          
+        
+        =
+        c
+        
+          T
+          
+            m
+          
+        
+        =
+        
+          λ
+          
+            m
+          
+        
+      
+    
+    {\displaystyle \lambda _{em}=({c-v_{em}})T_{em}=cT_{m}=\lambda _{m}}
+  .
+
+
+=== Calcul relativiste rapide ===
+Dans le cas d’ondes électromagnétiques dans le vide, la vitesse de l’onde est la vitesse de la lumière, elle ne dépend pas du référentiel. On doit alors traiter le problème dans le cadre de la relativité restreinte et on s’attend alors à trouver un effet parfaitement symétrique puisqu’on ne peut pas distinguer entre vitesse de l’émetteur et vitesse du récepteur, seule comptant la vitesse relative entre les deux.
+Cependant dans le cas d’ondes électromagnétiques dans un milieu diélectrique, la vitesse de l’onde dépend de la nature du milieu (et notamment de son indice de réfraction) et du référentiel (combinaison de la vitesse de l'onde dans le milieu diélectrique et de la vitesse du milieu diélectrique dans le référentiel considéré) comme le montre l'expérience de Fizeau.    
+Avant de donner la formule de l’effet Doppler relativiste dans le cas général, voici d’abord une démonstration simplifiée rapide de la formule relativiste dans le cas où tous les mouvements se font le long d’un même axe, celui le long duquel se propage le signal. Le principe du calcul consiste à tenir compte de l’effet de dilatation du temps qui accompagne le passage d’un repère au repos à un repère en mouvement.
+Changeons de notation avant de passer à une symétrisation du problème. La vitesse entre l’émetteur et le récepteur sera notée v et sera comptée comme positive si elle correspond à une vitesse d’éloignement. C’est la convention généralement adoptée en astronomie pour la vitesse radiale. Par conséquent si la source se déplace seule, sa vitesse des formules antérieures est vem=-v et si c’est le récepteur qui se déplace seul, sa vitesse est vrec=+v.
+
+Considérons d’abord que c’est la source qui se déplace. Si on la calculait par la formule classique précédente, la fréquence du signal à la réception serait
+  
+    
+      
+        
+          f
+          
+            r
+            e
+            c
+          
+        
+        =
+        
+          
+            
+              f
+              
+                e
+                m
+              
+            
+            
+              1
+              +
+              (
+              v
+              
+                /
+              
+              c
+              )
+            
+          
+        
+        =
+        
+          
+            
+              f
+              
+                e
+                m
+              
+            
+            
+              1
+              +
+              β
+            
+          
+        
+         
+      
+    
+    {\displaystyle f_{rec}={\frac {f_{em}}{1+(v/c)}}={\frac {f_{em}}{1+\beta }}\ }
+     avec   
+  
+    
+      
+         
+        β
+        =
+        v
+        
+          /
+        
+        c
+        
+        .
+      
+    
+    {\displaystyle \ \beta =v/c\,.}
+  Si on tient compte maintenant du facteur de dilatation du temps de la relativité restreinte 
+
+  
+    
+      
+        γ
+        =
+        1
+        
+          /
+        
+        
+          
+            1
+            −
+            (
+            
+              v
+              
+                2
+              
+            
+            
+              /
+            
+            
+              c
+              
+                2
+              
+            
+            )
+          
+        
+        =
+        (
+        1
+        −
+        
+          β
+          
+            2
+          
+        
+        
+          )
+          
+            −
+            1
+            
+              /
+            
+            2
+          
+        
+         
+      
+    
+    {\displaystyle \gamma =1/{\sqrt {1-(v^{2}/c^{2})}}=(1-\beta ^{2})^{-1/2}\ }
+  qui augmente les durées mesurées par le récepteur fixe, la fréquence observée diminuera par le facteur inverse 
+  
+    
+      
+        [
+        1
+        −
+        (
+        
+          v
+          
+            2
+          
+        
+        
+          /
+        
+        
+          c
+          
+            2
+          
+        
+        )
+        
+          ]
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle [1-(v^{2}/c^{2})]^{1/2}}
+   de sorte que la fréquence frec devient
+
+  
+    
+      
+        
+          f
+          
+            r
+            e
+            c
+          
+        
+        =
+        
+          
+            
+              (
+              1
+              −
+              
+                β
+                
+                  2
+                
+              
+              )
+            
+            
+              1
+              +
+              β
+            
+          
+        
+        
+          f
+          
+            e
+            m
+          
+        
+        =
+        
+          
+            
+              1
+              −
+              β
+            
+            
+              (
+              1
+              −
+              
+                β
+                
+                  2
+                
+              
+              )
+            
+          
+        
+        
+          f
+          
+            e
+            m
+          
+        
+        =
+        
+          
+            
+              
+                1
+                −
+                β
+              
+              
+                1
+                +
+                β
+              
+            
+          
+        
+        
+          f
+          
+            e
+            m
+          
+        
+        
+        .
+      
+    
+    {\displaystyle f_{rec}={\frac {\sqrt {(1-\beta ^{2})}}{1+\beta }}f_{em}={\frac {1-\beta }{\sqrt {(1-\beta ^{2})}}}f_{em}={\sqrt {\frac {1-\beta }{1+\beta }}}f_{em}\,.}
+  Considérons maintenant que c’est le récepteur qui se déplace. Avec la formule galiléenne nous aurions
+  
+    
+      
+        
+          f
+          
+            r
+            e
+            c
+          
+        
+        =
+        (
+        1
+        −
+        β
+        )
+        
+          f
+          
+            e
+            m
+          
+        
+         
+        .
+      
+    
+    {\displaystyle f_{rec}=(1-\beta )f_{em}\ .}
+  Comme précédemment, il faut tenir compte du facteur relativiste γ . Ici, c’est le récepteur qui est en mouvement et la source qui est fixe. C’est l’expression de 
+  
+    
+      
+        
+          f
+          
+            e
+            m
+          
+        
+        =
+        
+          f
+          
+            r
+            e
+            c
+          
+        
+        
+          /
+        
+        (
+        1
+        −
+        β
+        )
+      
+    
+    {\displaystyle f_{em}=f_{rec}/(1-\beta )}
+   qui doit être multipliée par 
+  
+    
+      
+        [
+        1
+        −
+        (
+        
+          v
+          
+            2
+          
+        
+        
+          /
+        
+        
+          c
+          
+            2
+          
+        
+        )
+        
+          ]
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle [1-(v^{2}/c^{2})]^{1/2}}
+  . Nous obtenons donc la même formule que précédemment :
+
+  
+    
+      
+        
+          f
+          
+            r
+            e
+            c
+          
+        
+        =
+        
+          
+            
+              1
+              −
+              β
+            
+            
+              (
+              1
+              −
+              
+                β
+                
+                  2
+                
+              
+              )
+            
+          
+        
+        
+          f
+          
+            e
+            m
+          
+        
+        =
+        
+          
+            
+              (
+              1
+              −
+              
+                β
+                
+                  2
+                
+              
+              )
+            
+            
+              1
+              +
+              β
+            
+          
+        
+        
+          f
+          
+            e
+            m
+          
+        
+        =
+        
+          
+            
+              
+                1
+                −
+                β
+              
+              
+                1
+                +
+                β
+              
+            
+          
+        
+        
+          f
+          
+            e
+            m
+          
+        
+         
+        ,
+      
+    
+    {\displaystyle f_{rec}={\frac {1-\beta }{\sqrt {(1-\beta ^{2})}}}f_{em}={\frac {\sqrt {(1-\beta ^{2})}}{1+\beta }}f_{em}={\sqrt {\frac {1-\beta }{1+\beta }}}f_{em}\ ,}
+  qui montre que l’effet Doppler est parfaitement symétrique et ne dépend que de la vitesse relative entre l’émetteur et le récepteur. 
+Cette symétrie a été exploitée par le physicien Hermann Bondi à des fins pédagogiques, dans sa méthode de calcul par le facteur k (Bondi's k-calculus), graphiquement représentée par le diagramme de Bondi.
+L’effet Doppler relativiste combine deux effets, l’effet galiléen et l’effet de ralentissement des horloges. Le premier fait intervenir la vitesse radiale entre source et observateur, le second la valeur de la vitesse totale.
+Si l’on considère le cas plus classique d’une onde électromagnétique progressive plane monochromatique se déplaçant dans R le long des x avec un champ électrique selon l’axe des y 
+
+  
+    
+      
+        
+          
+            
+              E
+              →
+            
+          
+        
+        =
+        
+          E
+          
+            0
+          
+        
+        cos
+        ⁡
+        (
+        k
+        x
+        −
+        ω
+        t
+        )
+        
+          
+            
+              
+                e
+                
+                  y
+                
+              
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {E}}=E_{0}\cos(kx-\omega t){\vec {e_{y}}}}
+  et un champ magnétique
+
+  
+    
+      
+        
+          
+            
+              B
+              →
+            
+          
+        
+        =
+        
+          B
+          
+            0
+          
+        
+        cos
+        ⁡
+        (
+        k
+        x
+        −
+        ω
+        t
+        )
+        
+          
+            
+              
+                e
+                
+                  z
+                
+              
+              →
+            
+          
+        
+        =
+        
+          
+            
+              E
+              
+                0
+              
+            
+            c
+          
+        
+        cos
+        ⁡
+        (
+        k
+        x
+        −
+        ω
+        t
+        )
+        
+          
+            
+              
+                e
+                
+                  z
+                
+              
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {B}}=B_{0}\cos(kx-\omega t){\vec {e_{z}}}={\frac {E_{0}}{c}}\cos(kx-\omega t){\vec {e_{z}}}}
+  et si l’on considère un référentiel R’ mû d’une vitesse v par rapport à R comme on a :
+
+  
+    
+      
+        c
+        t
+        =
+        γ
+        c
+        
+          t
+          ′
+        
+        +
+        β
+        γ
+        
+          x
+          ′
+        
+      
+    
+    {\displaystyle ct=\gamma ct'+\beta \gamma x'}
+  
+
+  
+    
+      
+        x
+        =
+        γ
+        
+          x
+          ′
+        
+        +
+        β
+        γ
+        c
+        
+          t
+          ′
+        
+      
+    
+    {\displaystyle x=\gamma x'+\beta \gamma ct'}
+  alors:
+
+  
+    
+      
+        k
+        x
+        −
+        ω
+        t
+        =
+        k
+        (
+        γ
+        
+          x
+          ′
+        
+        +
+        β
+        γ
+        c
+        
+          t
+          ′
+        
+        )
+        −
+        ω
+        
+          (
+          
+            γ
+            
+              t
+              ′
+            
+            +
+            β
+            γ
+            
+              
+                
+                  x
+                  ′
+                
+                c
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle kx-\omega t=k(\gamma x'+\beta \gamma ct')-\omega \left(\gamma t'+\beta \gamma {\frac {x'}{c}}\right)}
+    et   
+  
+    
+      
+        
+          
+            ω
+            c
+          
+        
+        =
+        k
+      
+    
+    {\displaystyle {\frac {\omega }{c}}=k}
+  d’où
+
+  
+    
+      
+        k
+        x
+        −
+        ω
+        t
+        =
+        k
+        γ
+        (
+        1
+        −
+        β
+        )
+      
+    
+    {\displaystyle kx-\omega t=k\gamma (1-\beta )}
+   
+  
+    
+      
+        
+          x
+          ′
+        
+        −
+        ω
+        γ
+        (
+        1
+        −
+        β
+        )
+        
+          t
+          ′
+        
+      
+    
+    {\displaystyle x'-\omega \gamma (1-\beta )t'}
+  On a un nouveau vecteur d’onde  
+  
+    
+      
+        
+          k
+          ′
+        
+        =
+        k
+        γ
+        (
+        1
+        −
+        β
+        )
+      
+    
+    {\displaystyle k'=k\gamma (1-\beta )}
+   et une nouvelle pulsation  
+  
+    
+      
+        
+          ω
+          ′
+        
+        =
+        ω
+        γ
+        (
+        1
+        −
+        β
+        )
+      
+    
+    {\displaystyle \omega '=\omega \gamma (1-\beta )}
+  
+Le tenseur de Maxwell permet de trouver les transformations de E0
+En l’occurrence
+
+  
+    
+      
+        
+          
+            
+              E
+              
+                y
+              
+              ′
+            
+            c
+          
+        
+        =
+        γ
+        (
+        1
+        −
+        β
+        )
+        
+          
+            
+              E
+              
+                y
+              
+            
+            c
+          
+        
+      
+    
+    {\displaystyle {\frac {E'_{y}}{c}}=\gamma (1-\beta ){\frac {E_{y}}{c}}}
+    de même pour BLa nouvelle onde dans R’
+
+  
+    
+      
+        
+          
+            
+              
+                E
+                ′
+              
+              →
+            
+          
+        
+        =
+        
+          E
+          
+            0
+          
+          ′
+        
+        cos
+        ⁡
+        (
+        
+          k
+          ′
+        
+        x
+        −
+        ω
+        
+          t
+          ′
+        
+        )
+        
+          
+            
+              
+                e
+                
+                  y
+                
+              
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {E'}}=E'_{0}\cos(k'x-\omega t'){\vec {e_{y}}}}
+  
+
+  
+    
+      
+        =
+        γ
+        (
+        1
+        −
+        β
+        )
+        
+          E
+          
+            0
+          
+        
+        cos
+        ⁡
+        
+          (
+          
+            k
+            γ
+            (
+            1
+            −
+            β
+            )
+            x
+            −
+            ω
+            γ
+            (
+            1
+            −
+            β
+            )
+            t
+          
+          )
+        
+        
+          
+            
+              
+                e
+                
+                  y
+                
+              
+              →
+            
+          
+        
+      
+    
+    {\displaystyle =\gamma (1-\beta )E_{0}\cos \left(k\gamma (1-\beta )x-\omega \gamma (1-\beta )t\right){\vec {e_{y}}}}
+  On retrouve la proportionnalité entre l’augmentation de l’énergie et l’augmentation de la fréquence en intégrant la densité d’énergie 
+  
+    
+      
+        
+          
+            1
+            2
+          
+        
+        
+          (
+          
+            
+              
+                
+                  
+                    E
+                    →
+                  
+                
+              
+              
+                2
+              
+            
+            
+              ϵ
+              
+                0
+              
+            
+            +
+            
+              
+                
+                  B
+                  
+                    2
+                  
+                
+                
+                  μ
+                  
+                    0
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle {\frac {1}{2}}\left({\vec {E}}^{2}\epsilon _{0}+{\frac {B^{2}}{\mu _{0}}}\right)}
+   sur un volume 
+  
+    
+      
+        
+          V
+          ′
+        
+        =
+        γ
+        (
+        1
+        +
+        β
+        )
+        V
+      
+    
+    {\displaystyle V'=\gamma (1+\beta )V}
+  
+c’est-à-dire si U’ est l’énergie de l’onde dans R’ et U dans R alors 
+  
+    
+      
+        
+          
+            
+              U
+              ′
+            
+            U
+          
+        
+        =
+        γ
+        (
+        1
+        −
+        β
+        )
+        =
+        
+          
+            
+              ω
+              ′
+            
+            ω
+          
+        
+      
+    
+    {\displaystyle {\frac {U'}{U}}=\gamma (1-\beta )={\frac {\omega '}{\omega }}}
+  
+
+
+=== Effet Doppler-Fizeau relativiste ===
+
+En relativité restreinte, un photon est entièrement caractérisé par son quadrivecteur énergie-impulsion P. Cette quantité est définie indépendamment de tout système de coordonnées mais il est utile lorsqu’on veut faire des mesures ou des calculs algébriques de préciser la valeur des composantes de ce quadrivecteur. Si, dans un système de coordonnées, la fréquence du photon est 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   et le vecteur unitaire le long du trajet du photon est le vecteur à 3 dimensions 
+  
+    
+      
+        
+          
+            
+              n
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {n}}}
+  , le quadrivecteur P est
+
+  
+    
+      
+        
+          P
+        
+        =
+        
+          (
+          
+            
+              
+                
+                  h
+                  ν
+                
+                c
+              
+            
+            ,
+            
+            
+              
+                
+                  h
+                  ν
+                
+                c
+              
+            
+            
+            
+              
+                
+                  n
+                  →
+                
+              
+            
+          
+          )
+        
+        =
+        (
+        
+          p
+          
+            0
+          
+        
+        ,
+        
+        
+          p
+          
+            1
+          
+        
+        ,
+        
+        
+          p
+          
+            2
+          
+        
+        ,
+        
+        
+          p
+          
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle \mathbf {P} =\left({\frac {h\nu }{c}},\,{\frac {h\nu }{c}}\,{\vec {n}}\right)=(p_{0},\,p_{1},\,p_{2},\,p_{3})}
+  où h est la constante de Planck.
+
+Considérons une étoile dont nous recevons les photons sur Terre. Choisissons un repère terrestre Oxyz tel que l’axe Ox soit orienté le long de la vitesse v de l’étoile. La relativité restreinte nous apprend alors que les composantes 
+  
+    
+      
+        (
+        
+          p
+          
+            0
+          
+          ′
+        
+        ,
+        
+        
+          p
+          
+            x
+          
+          ′
+        
+        ,
+        
+        
+          p
+          
+            y
+          
+          ′
+        
+        ,
+        
+        
+          p
+          
+            z
+          
+          ′
+        
+        )
+      
+    
+    {\displaystyle (p'_{0},\,p'_{x},\,p'_{y},\,p'_{z})}
+   d’un quadrivecteur P dans le repère en mouvement de l’étoile se transforment dans les composantes 
+  
+    
+      
+        (
+        
+          p
+          
+            0
+          
+        
+        ,
+        
+        
+          p
+          
+            x
+          
+        
+        ,
+        
+        
+          p
+          
+            y
+          
+        
+        ,
+        
+        
+          p
+          
+            z
+          
+        
+        )
+      
+    
+    {\displaystyle (p_{0},\,p_{x},\,p_{y},\,p_{z})}
+   dans le repère terrestre selon les formules de Lorentz suivantes
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  
+                    p
+                    
+                      0
+                    
+                  
+                  =
+                  γ
+                  (
+                  
+                    p
+                    
+                      0
+                    
+                    ′
+                  
+                  +
+                  β
+                  
+                    p
+                    
+                      x
+                    
+                    ′
+                  
+                  )
+                
+              
+              
+                
+                  
+                    p
+                    
+                      x
+                    
+                  
+                  =
+                  γ
+                  (
+                  β
+                  
+                    p
+                    
+                      0
+                    
+                    ′
+                  
+                  +
+                  
+                    p
+                    
+                      x
+                    
+                    ′
+                  
+                  )
+                
+              
+              
+                
+                  
+                    p
+                    
+                      y
+                    
+                  
+                  =
+                  
+                    p
+                    
+                      y
+                    
+                    ′
+                  
+                
+              
+              
+                
+                  
+                    p
+                    
+                      z
+                    
+                  
+                  =
+                  
+                    p
+                    
+                      z
+                    
+                    ′
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}p_{0}=\gamma (p'_{0}+\beta p'_{x})\\p_{x}=\gamma (\beta p'_{0}+p'_{x})\\p_{y}=p'_{y}\\p_{z}=p'_{z}\end{cases}}}
+  avec toujours
+
+  
+    
+      
+        β
+        =
+        v
+        
+          /
+        
+        c
+        
+      
+    
+    {\displaystyle \beta =v/c\,}
+     et   
+  
+    
+      
+        γ
+        =
+        1
+        
+          /
+        
+        
+          
+            1
+            −
+            
+              β
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \gamma =1/{\sqrt {1-\beta ^{2}}}}
+  En utilisant les notations des paragraphes précédents, les fréquences du photon sont 
+  
+    
+      
+        ν
+        
+        =
+        
+        
+          f
+          
+            r
+            e
+            c
+          
+        
+      
+    
+    {\displaystyle \nu \,=\,f_{rec}}
+   dans le repère terrestre et 
+  
+    
+      
+        
+          ν
+          ′
+        
+        
+        =
+        
+        
+          f
+          
+            e
+            m
+          
+        
+      
+    
+    {\displaystyle \nu '\,=\,f_{em}}
+   dans le repère de l’étoile émettrice. Les équations de Lorentz donnent alors (les composantes du quadrivecteur sont proportionnelles à la fréquence et le facteur commun de proportionnalité h/c disparaît)
+
+  
+    
+      
+        
+          f
+          
+            r
+            e
+            c
+          
+        
+        =
+        γ
+        (
+        1
+        +
+        β
+        cos
+        ⁡
+        
+          θ
+          ′
+        
+        )
+        
+          f
+          
+            e
+            m
+          
+        
+         
+        
+        ,
+      
+    
+    {\displaystyle f_{rec}=\gamma (1+\beta \cos \theta ')f_{em}\ \,,}
+  où 
+  
+    
+      
+        
+          θ
+          ′
+        
+      
+    
+    {\displaystyle \theta '}
+   est l’angle que fait le photon avec l’axe Ox dans le repère de l’étoile. Si la quantité 
+  
+    
+      
+        
+          β
+          
+            r
+            a
+            d
+          
+          ′
+        
+      
+    
+    {\displaystyle \beta '_{rad}}
+   correspond à la composante radiale de la vitesse relative entre émetteur et récepteur dans le repère de l’étoile, c’est-à-dire
+
+  
+    
+      
+        
+          β
+          
+            r
+            a
+            d
+          
+          ′
+        
+        =
+        v
+        cos
+        ⁡
+        
+          θ
+          ′
+        
+        
+          /
+        
+        c
+        
+        ,
+      
+    
+    {\displaystyle \beta '_{rad}=v\cos \theta '/c\,,}
+  on peut écrire la formule Doppler relativiste sous la forme
+
+  
+    
+      
+        
+          f
+          
+            r
+            e
+            c
+          
+        
+        =
+        
+          
+            
+              1
+              +
+              
+                β
+                
+                  r
+                  a
+                  d
+                
+                ′
+              
+            
+            
+              1
+              −
+              
+                β
+                
+                  2
+                
+              
+            
+          
+        
+        
+        
+          f
+          
+            e
+            m
+          
+        
+        
+      
+    
+    {\displaystyle f_{rec}={\frac {1+\beta '_{rad}}{\sqrt {1-\beta ^{2}}}}\,f_{em}\,}
+  qui redonne les formules présentées ci-dessus quand on prend 
+  
+    
+      
+        cos
+        ⁡
+        
+          θ
+          ′
+        
+        =
+        −
+        1
+      
+    
+    {\displaystyle \cos \theta '=-1}
+  .
+L’effet relativiste est en quelque sorte la combinaison de l’effet Doppler classique dû à la vitesse radiale et du phénomène de ralentissement des horloges inhérent à la relativité restreinte.
+Trouvons l’angle 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   que fait le rayon lumineux avec l’axe Ox dans le repère terrestre. La différence entre les directions du photon dans le repère terrestre et le repère de l’étoile constitue le phénomène d’aberration de la lumière. D’après les équations de Lorentz écrites ci-dessus, on a :
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  cos
+                  ⁡
+                  θ
+                  =
+                  
+                    p
+                    
+                      x
+                    
+                  
+                  
+                    /
+                  
+                  
+                    p
+                    
+                      0
+                    
+                  
+                  =
+                  (
+                  β
+                  +
+                  cos
+                  ⁡
+                  
+                    θ
+                    ′
+                  
+                  )
+                  
+                    /
+                  
+                  (
+                  1
+                  +
+                  β
+                  cos
+                  ⁡
+                  
+                    θ
+                    ′
+                  
+                  )
+                
+              
+              
+                
+                  sin
+                  ⁡
+                  θ
+                  =
+                  
+                    p
+                    
+                      y
+                    
+                  
+                  
+                    /
+                  
+                  
+                    p
+                    
+                      0
+                    
+                  
+                  =
+                  
+                    γ
+                    
+                      −
+                      1
+                    
+                  
+                  sin
+                  ⁡
+                  
+                    θ
+                    ′
+                  
+                  
+                    /
+                  
+                  (
+                  1
+                  +
+                  β
+                  cos
+                  ⁡
+                  
+                    θ
+                    ′
+                  
+                  )
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}\cos \theta =p_{x}/p_{0}=(\beta +\cos \theta ')/(1+\beta \cos \theta ')\\\sin \theta =p_{y}/p_{0}=\gamma ^{-1}\sin \theta '/(1+\beta \cos \theta ')\end{cases}}}
+  Ces formules donnent une description relativiste complète de l’effet Doppler-Fizeau.
+Il y a une subtilité à saisir dans le phénomène d’aberration. Si le photon se propage radialement dans un repère, il le fera aussi dans l’autre. Autrement dit, si 
+  
+    
+      
+        cos
+        ⁡
+        
+          θ
+          ′
+        
+        
+        =
+        
+        −
+        1
+      
+    
+    {\displaystyle \cos \theta '\,=\,-1}
+   alors 
+  
+    
+      
+        cos
+        ⁡
+        θ
+        
+        =
+        
+        −
+        1
+      
+    
+    {\displaystyle \cos \theta \,=\,-1}
+  . En revanche, si la vitesse est perpendiculaire à la direction du photon dans un repère, elle ne le sera pas en toute rigueur dans l’autre. En effet si
+
+  
+    
+      
+        cos
+        ⁡
+        
+          θ
+          ′
+        
+        
+        =
+        
+        0
+      
+    
+    {\displaystyle \cos \theta '\,=\,0}
+   alors 
+  
+    
+      
+        cos
+        ⁡
+        θ
+        
+        =
+        
+        β
+      
+    
+    {\displaystyle \cos \theta \,=\,\beta }
+  . Et si 
+  
+    
+      
+        cos
+        ⁡
+        θ
+        
+        =
+        
+        0
+      
+    
+    {\displaystyle \cos \theta \,=\,0}
+   alors 
+  
+    
+      
+        cos
+        ⁡
+        
+          θ
+          ′
+        
+        
+        =
+        
+        −
+        β
+      
+    
+    {\displaystyle \cos \theta '\,=\,-\beta }
+  .
+
+
+== Applications ==
+L’effet Doppler est utilisé dans des domaines où la mesure de la vitesse de déplacement d’un milieu ou d’un mobile est requise. On peut citer les applications suivantes.
+
+
+=== Astronomie ===
+L’effet Doppler est particulièrement précieux en astronomie car il renseigne à la fois sur le mouvement des astres et sur les mouvements de matière à l’intérieur de ces astres.
+L’effet Doppler permet de déterminer directement la vitesse radiale d’une étoile. En effet en étudiant le spectre d’un astre, on constate que les raies spectrales sont décalées en longueur d’onde par rapport aux mêmes raies observées en laboratoire. Le décalage d’une raie visible se produit soit vers le rouge, ce qui indique que l’étoile s’éloigne, soit vers le bleu, si elle se rapproche.
+La mesure de la vitesse des étoiles ou des nuages de gaz interstellaire a permis de préciser les mouvements de matière à l’intérieur de la Voie lactée et d’en déterminer la structure spirale.
+L’effet Doppler explique pourquoi les raies observées présentent une largeur en longueur d’onde supérieure à la largeur naturelle. En effet, par suite de l’agitation thermique, une moitié des atomes émettant la lumière se déplace vers l’observateur, avec une diminution correspondante de la longueur d’onde et l’autre moitié s’en éloigne, avec une augmentation de la longueur d’onde. La largeur caractéristique d’une raie λ 0 est mesurée par une quantité appelée largeur Doppler directement proportionnelle à la vitesse moyenne d’agitation thermique et donnée par la formule
+
+  
+    
+      
+        Δ
+        
+          λ
+          
+            D
+          
+        
+        =
+        (
+        
+          λ
+          
+            0
+          
+        
+        
+          /
+        
+        c
+        )
+        
+          
+            2
+            k
+            T
+            
+              /
+            
+            m
+          
+        
+      
+    
+    {\displaystyle \Delta \lambda _{\text{D}}=(\lambda _{0}/c){\sqrt {2kT/m}}}
+  où k est la constante de Boltzmann et m la masse des atomes considérés. La largeur d’une raie est donc une indication de la température de l’étoile observée. L’agitation thermique n’est pas la seule cause d’élargissement : des mouvements turbulents sont présents dans tous les milieux astrophysiques et contribuent à déformer et élargir les raies.
+
+
+=== Radar ===
+
+Un radar est un appareil qui émet des paquets d’ondes et écoute ensuite le retour de cible. Si ces cibles se déplacent, un effet Doppler est engendré ce qui permet d’en tirer la vitesse radiale de leur déplacement. Le radar peut donc être adapté pour utiliser ce principe. 
+
+Radar de contrôle routier : la police et la gendarmerie utilisent des radars pour déterminer la vitesse des automobiles. Pour cela ils utilisent un radar dont la fréquence est parfaitement connue. La mesure de la fréquence de l’écho donne la vitesse du véhicule. La technologie moderne permet aujourd’hui d’avoir des radars automatiques et des jumelles laser.
+Radar météorologique : on utilise non pas la variation de la fréquence par l’effet Doppler dans un radar météorologique, car celle-ci est trop petite, mais plutôt la variation de la phase entre deux impulsions revenant des précipitations. Ceci est un effet de second ordre Doppler.
+Profileur de vents : c’est un radar météorologique pointant verticalement et qui mesure la vitesse de chute et de déplacement horizontal des précipitations.
+Radar de mesure balistique : de nombreuses mesures balistiques sont effectuées grâce au radar Doppler. Il permet de mesurer la vitesse du projectile (calibre de 1 mm, éclat par exemple jusqu’au missile), et surtout la mesure du V0 (vitesse initiale du projectile à la sortie de la bouche du canon), la vitesse à l’impact (mise au point de gilet pare-balle, par exemple), la vitesse de rotation du projectile ainsi que sa trajectographie et son coefficient de traînée. La gamme de mesure de vitesse va de 30 m/s à 3 000 m/s, ce qui couvre la majorité des applications dans le domaine de la balistique.Rappelons que pour effectuer une bonne prise de mesure de vitesse, les coordonnées x, y et z de positionnement du radar Doppler par rapport à la bouche du canon de l’arme sont rentrées au mm près dans le logiciel d’analyse et de traitement des données. Les fréquences d’émission en mode CW (continuous wave) couramment utilisées sont 10,525 GHz et 35,525 GHz. La distance de mesure est fonction du calibre et de la fréquence d’émission du radar Doppler. La fréquence de 35,525 GHz permet d’obtenir une résolution 3,5 fois meilleure qu’à la fréquence de 10,525 GHz, mais la distance de mesure est pratiquement 3 fois moins importante.
+
+
+=== Lidar ===
+Sur le même principe qu’un radar, le lidar utilise un laser pour mesurer le déplacement des particules. Il est utilisé en météorologie comme profileur de vents ou comme anémomètres laser (LDV) pour la mesure de vitesses d’écoulement des fluides.
+
+
+=== En médecine ===
+En 1958, le doppler continu (qui est un cristal émettant et recevant en continu des ultrasons) permit l’étude de la circulation sanguine dans les vaisseaux (Rushmer). Le premier doppler pulsé (émission de l’ultrason en discontinu et fenêtre d’écoute temporelle fixée, permettant d’analyser la vitesse du sang à une profondeur définie) a été introduit par Baker en 1970. 
+
+Le doppler, couplé ou non à un examen échographique, permet d’analyser la vitesse du sang. On peut ainsi quantifier des débits, des fuites ou des rétrécissements.En effet, l’échodoppler est utilisé en médecine pour mesurer la vitesse des hématies et pour calculer le diamètre d’un vaisseau sanguin (aorte…).
+
+En cardiologie, on peut analyser la vitesse des parois cardiaques à l’aide du doppler tissulaire, c’est l’imagerie doppler des tissus, ou TDI (tissular dopplar imaging)
+
+
+=== Maritime ===
+
+
+==== Antennes de repérage d'urgence ====
+Le radiogoniomètre de repérage d’urgence à effet Doppler est constitué d’un groupe de 4 antennes (alimentées électroniquement les unes après les autres pour déterminer la direction de la station en difficulté) sur les fréquences : 156,8 MHz Canal 16 et 121,500 MHz.
+En France, cet équipement est obligatoire sur les vedettes d’assistance, de surveillance et de sauvetage.
+
+
+==== Loch doppler ====
+Les grands navires utilisent un loch doppler pour mesurer leur vitesse lors d’un accostage.
+
+
+=== Autres ===
+Plusieurs appareils utilisent l’effet Doppler dans les laboratoires expérimentaux de physique et les applications de télédétection ainsi que dans certains détecteurs d’alarme de type bivolumétrique ou double technologie. Mentionnons le vibromètre laser pour la mesure de vibrations en mécanique, le sonar et l’interféromètre.
+L'effet Doppler est aussi utilisé sur certains débitmètres, pour la mesure de liquide dans une canalisation pleine.
+Lors des recherches entreprises pour retrouver les traces du vol MH370 disparu en vol le 8 mars 2014, les enquêteurs britanniques ont utilisé l'effet Doppler. Car l'un des systèmes de l'avion reçoit un signal satellite chaque heure et lui répond. Les variations du délai de réponse à ce signal ont permis de reconstituer la trajectoire de l'avion.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Calculs relativistes / Le voyage dans le futur des autres, où l’effet Doppler est utilisé pour analyser le paradoxe des jumeaux dans le cadre de la relativité restreinte.
+Une façon plus simple et élégante de résoudre le paradoxe des jumeaux mais avec un effet Doppler transverse.
+L'effet Dicke est utilisé dans le domaine des micro-ondes pour annuler l'effet Doppler.
+Le Doppler Transcrânien pour la détection des micro-emboles est une application de l'effet Doppler, permettant de détecter le passage d'emboles dans une artère cérébrale.
+
+
+=== Liens externes ===
+Illustration par une animation (vidéo de 4:28)
+L’effet Doppler - Fizeau, cours en ligne de l’Observatoire de Paris
+Etude de l'effet Doppler sonore (avec Geogebra) par François Byasson Portail de l’astronomie   Portail de la physique   Portail des exoplanètes   Portail de l’optique

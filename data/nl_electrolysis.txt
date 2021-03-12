@@ -1,0 +1,1056 @@
+Elektrolyse is een chemische reactie waarbij onder invloed van een elektrische stroom samengestelde stoffen worden ontleed tot enkelvoudige stoffen en/of andere samengestelde stoffen.
+In 1832 ontdekte Michael Faraday dat in een zoutoplossing stoffen ontleed worden als er een elektrische stroom doorheen gestuurd wordt en dat die ontleding afhankelijk is van de stroom. Later werd deze ontdekking bekend als de eerste elektrolysewet van Faraday.
+Hierna ontdekte Faraday ook dat de massa van de gevormde elementen recht evenredig was met de atoommassa van de betrokken elementen. Hierdoor werd het vermoeden van het bestaan van elektronen versterkt. Deze ontdekking werd bekend als de tweede elektrolysewet van Faraday.
+
+
+== Principe ==
+Het te ontleden materiaal wordt, indien het nog niet vloeibaar was, opgelost of gesmolten zodat de ionen vrij kunnen bewegen. In de vloeistof worden twee elektroden gedompeld: de kathode en de anode. Tussen deze elektroden wordt een elektrische spanning aangebracht. Hierdoor zullen positief geladen deeltjes (kationen) naar de kathode bewegen en negatief geladen deeltjes (anionen) naar de anode. Aan de kathode vindt een reductiereactie plaats. Hierbij neemt de kathode elektronen op van stoffen in de oplossing. Aan de anode vindt een oxidatiereactie plaats, waarbij de elektrode elektronen afgeeft aan stoffen in de oplossing. De energie die nodig is voor het scheiden, is afhankelijk van de concentratie van de oplossing en neemt toe naarmate de concentratie hoger wordt.
+
+
+== Elektrolyse van water ==
+Tijdens elektrolyse van water (
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {H2O}}}
+  ) wordt water opgesplitst in waterstof (
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {H2}}}
+  ) en zuurstof (
+  
+    
+      
+        
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {O2}}}
+  ). Waterstof komt vrij aan de kathode, zuurstof aan de anode.
+
+  
+    
+      
+        
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          energie
+          ⟶
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2 H2O + energie -> 2H2 + O2}}}
+  
+
+
+=== Bestanddelen van water ===
+Zuiver water bestaat voornamelijk uit moleculair 
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {H2O}}}
+  . Maar door de autoprotolyse van water komen er ook 
+  
+    
+      
+        
+          
+            H
+            
+              3
+            
+            
+              
+            
+          
+          
+            O
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {H3O+}}}
+   
+  
+    
+      
+        
+          
+            (
+            
+              H
+              
+                +
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle {\ce {(H^+)}}}
+   en 
+  
+    
+      
+        
+          
+            OH
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {OH-}}}
+   ionen voor.
+Autoprotolyse reactie van water: 
+
+  
+    
+      
+        
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          
+            
+              
+                
+                  
+                    
+                      ↽
+                    
+                    
+                    
+                    
+                      −
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      −
+                    
+                    
+                    
+                    
+                      ⇀
+                    
+                  
+                
+              
+            
+          
+          
+            H
+            
+              3
+            
+            
+              
+            
+          
+          
+            O
+            
+              +
+            
+          
+          +
+          
+            OH
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2 H2O <=> H3O+ + OH-}}}
+  Onder standaardomstandigheden zal slechts weinig van het 
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {H2O}}}
+   omgezet worden.
+
+  
+    
+      
+        
+          K
+          
+            eq
+          
+        
+        =
+        
+          
+            
+              [
+              O
+              
+                H
+                
+                  −
+                
+              
+              ]
+              [
+              
+                H
+                
+                  3
+                
+              
+              
+                O
+                
+                  +
+                
+              
+              ]
+            
+            
+              [
+              
+                H
+                
+                  2
+                
+              
+              O
+              
+                ]
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              K
+              
+                w
+              
+            
+            
+              [
+              
+                H
+                
+                  2
+                
+              
+              O
+              
+                ]
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle K_{\text{eq}}={\frac {[OH^{-}][H_{3}O^{+}]}{[H_{2}O]^{2}}}={\frac {K_{\text{w}}}{[H_{2}O]^{2}}}}
+  Experimenteel werd aangetoond dat 
+  
+    
+      
+        
+          K
+          
+            w
+          
+        
+        =
+        
+          10
+          
+            −
+            14
+          
+        
+      
+    
+    {\displaystyle K_{\text{w}}=10^{-14}}
+   onder standaardomstandigheden. Hieruit volgt dat de concentratie van zowel 
+  
+    
+      
+        
+          
+            H
+            
+              3
+            
+            
+              
+            
+          
+          
+            O
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {H_3O^+}}}
+   als 
+  
+    
+      
+        
+          
+            OH
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {OH^-}}}
+   gelijk is aan 
+  
+    
+      
+        
+          10
+          
+            −
+            7
+          
+        
+      
+    
+    {\displaystyle 10^{-7}}
+  M mol/l. Hierdoor is de zuurgraad van water:
+
+  
+    
+      
+        
+          p
+          H
+        
+        =
+        −
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        (
+        [
+        
+          H
+          
+            3
+          
+        
+        
+          O
+          
+            +
+          
+        
+        ]
+        )
+        =
+        7
+      
+    
+    {\displaystyle \mathrm {pH} =-\log _{10}([H_{3}O^{+}])=7}
+  
+Als in zuiver water twee elektrodes worden ingebracht en hierop een voldoend groot elektrisch potentiaalverschil wordt aangebracht, start de elektrolyse. Om te weten welk potentiaalverschil nodig is, wordt er gekeken naar de halfreacties aan de anode en de kathode bij een pH van 7.
+Aan de anode:       
+
+  
+    
+      
+        
+          4
+          
+          
+            OH
+            
+              −
+            
+          
+          ⟶
+          0
+          
+            
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          4
+          
+          
+            e
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {4 OH^- -> 0_2 + 2 H_2O + 4 e^-}}}
+  met 
+  
+    
+      
+        
+          E
+          
+            0
+          
+        
+        =
+        0,815
+        
+        
+          V
+        
+      
+    
+    {\displaystyle E^{0}=0{,}815\,{\text{V}}}
+  .
+Aan de kathode:
+
+  
+    
+      
+        
+          2
+          
+          
+            H
+            
+              3
+            
+            
+              
+            
+          
+          
+            O
+            
+              +
+            
+          
+          +
+          2
+          
+          
+            e
+            
+              −
+            
+          
+          ⟶
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {2 H_3O^+ + 2 e^- -> H_2 + 2 H_2O}}}
+  met 
+  
+    
+      
+        
+          E
+          
+            0
+          
+        
+        =
+        −
+        0,414
+        
+        
+          V
+        
+      
+    
+    {\displaystyle E^{0}=-0{,}414\,{\text{V}}}
+  .
+Bij een potentiaalverschil groter dan 
+  
+    
+      
+        0
+        ,
+        815
+        −
+        (
+        −
+        0
+        ,
+        414
+        )
+        =
+        1,229
+        
+        
+          V
+        
+      
+    
+    {\displaystyle 0,815-(-0,414)=1{,}229\,{\text{V}}}
+   zal de elektrolyse doorgaan. De elektrode met de hoogste potentiaal zal de anode zijn, met de laagste de kathode. Als men echter de elektrische spanning te hoog opdrijft, zullen de bellen met 
+  
+    
+      
+        
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {O_2}}}
+   en 
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {H_2}}}
+   (knalgas) het contact met het water belemmeren, waardoor de reactie weer vertraagt. Door de pH aan de anode en kathode aan te passen kan de elektrische spanning die men minimaal moet aanleggen, verlagen. Uiteraard moet men er ook rekening mee houden dat de concentraties van 
+  
+    
+      
+        
+          
+            H
+            
+              3
+            
+            
+              
+            
+          
+          
+            O
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {H_3O^+}}}
+   en 
+  
+    
+      
+        
+          
+            OH
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {OH^-}}}
+   zullen veranderen.
+(a) Anode, pH = 0       
+
+  
+    
+      
+        
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          +
+          4
+          
+          
+            H
+            
+              +
+            
+          
+          +
+          4
+          
+          
+            e
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2 H_2 -> O_2 + 4 H^+ + 4 e^-}}}
+  
+  
+    
+      
+        
+          E
+          
+            0
+          
+        
+        =
+        1
+        ,
+        229
+        V
+      
+    
+    {\displaystyle E^{0}=1,229V}
+  .
+(b) Anode, pH = 14
+
+  
+    
+      
+        
+          4
+          
+          
+            OH
+            
+              −
+            
+          
+          ⟶
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          4
+          
+          
+            e
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {4 OH^- -> O_2 + H_2O + 4 e^-}}}
+  
+  
+    
+      
+        
+          E
+          
+            0
+          
+        
+        =
+        0
+        ,
+        401
+        V
+      
+    
+    {\displaystyle E^{0}=0,401V}
+  .
+(c) Kathode, pH = 0
+
+  
+    
+      
+        
+          4
+          
+          
+            H
+            
+              +
+            
+          
+          +
+          4
+          
+          
+            e
+            
+              −
+            
+          
+          ⟶
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {4 H^+ + 4 e^- -> 2 H_2}}}
+  
+  
+    
+      
+        
+          E
+          
+            0
+          
+        
+        =
+        0
+        ,
+        0
+        V
+      
+    
+    {\displaystyle E^{0}=0,0V}
+  .
+(d) Kathode, pH = 14
+
+  
+    
+      
+        
+          4
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          4
+          
+          
+            e
+            
+              −
+            
+          
+          ⟶
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          +
+          4
+          
+          
+            OH
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {4 H_2O + 4 e^- -> 2 H_2 + 4 OH^-}}}
+  
+  
+    
+      
+        
+          E
+          
+            0
+          
+        
+        =
+        −
+        0
+        ,
+        828
+        V
+      
+    
+    {\displaystyle E^{0}=-0,828V}
+  .
+Als de pH aan beide elektrodes gelijk is, moet er steeds een potentiaalverschil groter dan 1,229 V worden aangelegd. Als er echter gewerkt kan worden met een pH-verschil tussen de anode en de kathode, kan dit potentiaalverschil verkleind worden. Optimaal zou zijn als de pH aan de kathode 0 is en bij de anode 14. Dit zou het benodigde potentiaalverschil tussen de elektrodes verlagen tot 0,401 V. Dit pH-verschil is echter niet eenvoudig te verwezenlijken. Bovendien zal er om dit pH-verschil aan te leggen, extra energie nodig zijn.
+Een vaak gebruikte methode om het rendement van elektrolyse te verhogen is het toevoegen van zouten. Zoals eerder vermeld zijn er in zuiver water in totaal slechts 
+  
+    
+      
+        2
+        ⋅
+        
+          10
+          
+            −
+            7
+          
+        
+      
+    
+    {\displaystyle 2\cdot 10^{-7}}
+   M ionen. Door het aantal ionen te verhogen wordt de oplossing meer geleidend, waardoor het rendement stijgt. Een vaak gebruikt inert elektrolyt is natriumsulfaat of zwavelzuur.
+Verder kan het rendement van elektrolyse verhoogd worden door te roeren, zodat aan beide elektrodes de gewenste oplossing beschikbaar is. Een verschillende temperatuur en druk kunnen eventueel ook de productie van waterstofgas verbeteren. Een hogere druk op het reactiemengsel zorgt er voor dat het geproduceerde waterstofgas reeds onder druk staat, waardoor wordt een externe compressor overbodig is. Waterstofgas onder druk heeft het voordeel dat het een hogere energiedichtheid heeft, waardoor er meer energie kan worden opgeslagen. 
+Een verhoging van de temperatuur zorgt ervoor dat de activeringsenergie voor het splitsen van de watermolecule gedeeltelijk al verkregen is. De stroom die bij elektrolyse loopt, is evenredig met de productie van 
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {H_2}}}
+  . Door de temperatuur te verhogen zal het spanningsverschil over de cel dalen. Dus zal de efficiëntie toenemen als de temperatuur stijgt. Eveneens kan de vorm van de elektrodes aangepast worden om het reactieoppervlak te vergroten. Ook kan er een ander materiaal gekozen worden. Zo worden alkaline elektrodes gebruikt, omdat deze beter tegen corrosie bestand zijn. Daarnaast kunnen er ook katalysatoren worden toegevoegd.
+Het rendement van moderne elektrolyse-centrales ligt tussen 70 en 80%. Maar verwacht wordt dat tegen 2030 de efficiëntie zal stijgen tot 82-86%.
+
+
+== Toepassingen ==
+In de industrie wordt elektrolyse op grote schaal toegepast om metalen te winnen uit mineralen en om de metalen te zuiveren. Ook de werking van brandstofcellen is op het principe van elektrolyse gebaseerd. Daarnaast is het galvaniseren van metalen objecten een toepassing van elektrolyse in de praktijk. Zout elektrolyse wordt inmiddels vaak gebruikt in zwembaden voor het aanmaken van natriumhypochloriet ("chloor") voor desinfectie. Kalium- en natriumchloraat kunnen worden bereid door elektrolyse, omdat de aan de elektroden gevormde stoffen (dichloor, hydroxide-ionen en hydroniumionen) in de oplossing verder reageren tot chloraationen (en bij langer doorgaan perchloraat).
+Een solid oxide electrolyser cell (SOEC) is een solid oxide fuel cell in regeneratieve modus voor de elektrolyse van water met een vast oxide of keramiek elektrolyt voor de productie van waterstofgas.Hoge-drukelektrolyse is de elektrolyse van water door de ontleding van water (H2O) in zuurstofgas (O2) en waterstofgas (H2) onder druk.
+
+
+== Zie ook ==
+Hydrolyse
+Ontleding van water
+Toestel van Hofmann
+Wet van Nernst

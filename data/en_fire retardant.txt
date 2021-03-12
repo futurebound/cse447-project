@@ -1,0 +1,77 @@
+A fire retardant is a substance that is used to slow down or stop the spread of fire or reduce its intensity.  This is commonly accomplished by chemical reactions that reduce the flammability of fuels or delay their combustion. Fire retardants may also cool the fuel through physical action or endothermic chemical reactions. Fire retardants are available as powder, to be mixed with water, as fire-fighting foams and fire-retardant gels. Fire retardants are also available as coatings or sprays to be applied to an object.Fire retardants are commonly used in fire fighting, where they may be applied aerially or from the ground.
+
+
+== Principles of operation ==
+In general, fire retardants reduce the flammability of materials by either blocking the fire physically or by initiating a chemical reaction that stops the fire.
+
+
+=== Physical action ===
+There are several ways in which the combustion process can be retarded by physical action:
+
+By cooling: Some chemical reactions actually cool the material down.
+By forming a protective layer that prevents the underlying material from igniting.
+By dilution: Some retardants release water and/or carbon dioxide while burning.  This may dilute the radicals in the flame enough for it to go out.Commonly used fire retardant additives include mixtures of huntite and hydromagnesite, aluminium hydroxide, and magnesium hydroxide. When heated, aluminium hydroxide dehydrates to form aluminum oxide (alumina, Al2O3), releasing water vapor in the process.  This reaction absorbs a great deal of heat, cooling the material into which it is incorporated. Additionally, the residue of alumina forms a protective layer on the material's surface. Mixtures of huntite and hydromagnesite work in a similar manner. They endothermically decompose releasing both water and carbon dioxide,  giving fire retardant properties  to the materials in which they are incorporated.
+
+
+=== Chemical action ===
+Reactions in the gas phase: chemical reactions in the flame (i.e. gas phase) can be interrupted by fire retardants. Generally, these retardants are organic halides (haloalkanes) such as Halon and PhostrEx. The chemicals used in these types of retardants are often toxic. 
+Reaction in the solid phase: some retardants break down polymers so they melt and flow away from the flame. Although this allows some materials to pass certain flammability tests, it is not known whether fire safety is truly improved by the production of flammable plastic droplets.
+Char Formation: For carbon-based fuels, solid phase flame retardants cause a layer of carbonaceous char to form on the fuel surface. This char layer is much harder to burn and prevents further burning.
+Intumescents: These types of retardant materials incorporate chemicals which cause swelling behind the protective char layer, providing much better insulation. They are available as plastic additives, and as paints for protecting wooden buildings or steel structures.
+
+
+== Uses ==
+
+
+=== Fire extinguishers ===
+Class A foam is used as a fire retardant in 2.5 gallon [APW] and [CAFS] extinguishers to contain incipient brush fires and grass fires by creating a fire break. Other chemical retardants are capable of rendering class A material and Class B fuels non-flammable and extinguishing class A, class B, and some class D fires.  Fire retardant slurries dropped from aircraft are normally applied ahead of a wildfire to prevent ignition, while fire suppression agents are used to extinguish fires.
+
+
+=== Surface coating ===
+Objects may be coated with fire retardants. For example, Christmas trees are sprayed with retardants. As a tree dries out it becomes very flammable and a fire-hazard.
+Steel structures have a fire retardant coating around columns and beams to prevent structural elements from weakening during a fire.
+Dormitories in the US are also considering using these products. Since 2000, 109 people have died in fires in dormitories or off-campus student housing across the nation, according to Campus Firewatch, an online newsletter. Campus Firewatch's publisher, Ed Comeau, said a January 2000 fire at Seton Hall University in New Jersey drew attention to the perils of fire on campus. A common area in a Seton Hall dorm caught fire after two students ignited a banner from a bulletin board. The fire quickly spread to furniture and killed three students and injured 58 others.
+
+
+=== Forest-fire fighting ===
+
+Early fire retardants were mixtures of water and thickening agents, and later included borates and ammonium phosphates.Generally, fire retardants are dropped from aircraft or applied by ground crews around a wildfire's edges in an effort to contain its spread.  This allows ground crews time to work to extinguish the fire. However, when needed, retardant can also be dropped directly onto flames to cool the fire and reduce flame length.
+
+
+==== Aerial firefighting ====
+
+Aerial firefighting is a method to combat wildfires using aircraft. The types of aircraft used include fixed-wing aircraft and helicopters. Smokejumpers and rappellers are also classified as aerial firefighters, being delivered by parachute from a variety of fixed-wing aircraft, or rappelling from helicopters. Chemicals used to fight fires may include water, water enhancers, or specially-formulated fire retardants.
+
+
+=== Textiles ===
+
+
+== Materials ==
+
+
+=== Wildfire retardants ===
+Fire retardants applied to wildfires are usually a mixture of water and chemicals designed to wet the area as well as chemically retard a fire's progression through vegetation. Typically it is colored so that the application area can be seen from the air. Fire retardant gel based retardants which meet NFPA Standard 1150 are also being used in service. These are dyed other colors to differentiate them from the traditional red retardant. The gels and their dyes are designed to biodegrade naturally. Phos-Chek is a brand of long-term retardant currently approved for wildland fire use. Phos-Chek also has a consumer-based fire retardant spray called Wildfire Home Defense that is effective immediately after application and that remains effective until it is washed off with heavy water levels. It's designed to be applied to fuel beds around homes and outbuildings to create a firebreak in the fuels leading up to each structure.  Ember Bloc is another consumer-based fire retardant gel that can be applied to the exterior of your house and nearby structures to help protect against both embers and flames in a wildfire. It has a unique ability to cling onto the side of a house to withstand high heat and windy conditions.
+
+
+== Environmental concerns ==
+Forest fire retardants that are used are generally considered non-toxic, but even less-toxic compounds carry some risk when organisms are exposed to large amounts.  Fire retardants used in firefighting can be toxic to fish and wildlife as well as firefighters by releasing dioxins and furans when halogenated fire retardants are burned during fires, and drops within 300 feet of bodies of water are generally prohibited unless lives or property are directly threatened. The US Forest Service is the governing agency that conducts research and monitors the effect of fire retardants on wildland systems in the US.A study published in June 2014 found that marine bacteria have the ability to manufacture a non-synthetic source of chemically identical polybrominated diphenyl ethers (PBDEs). These chemicals are used as flame retardant, but are known to be toxic to the environment.
+
+
+== See also ==
+Aerial firefighting
+Flame retardant
+List of fire-retardant materials
+Modular Airborne FireFighting System
+Wildland fire suppression
+
+
+== References ==
+
+
+== External links ==
+Fire Management Notes (1989)
+National Fire Protection Association
+Defense Fire Protection Association
+Using Fire Retardant Materials
+Influence of the fire retardant, ammonium polyphosphate, on the thermal degradation of poly(methyl methacrylate)
+Fire retardant Glass - UL9 Certified Fire Resistant glass in USA

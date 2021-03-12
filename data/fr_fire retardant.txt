@@ -1,0 +1,100 @@
+Les retardateurs de flamme sont une classe d’additifs utilisés pour minimiser les risques d'incendie des produits polymériques. De nombreux retardateurs de flamme sont suspectés d'avoir des effets délétères pour la santé et l'environnement. Certains retardateurs de flamme sont retrouvés dans des concentrations croissantes chaque année dans la poussière des maisons, dans le sang et dans le lait maternel.
+
+
+== Description ==
+Les retardateurs de flamme sont utilisés depuis le début du 20e siècle pour prévenir les risques d'incendies des matières dérivées de la pétrochimie. La production mondiale toutes molécules confondues a atteint 2,5 millions de tonnes en 2016.
+
+
+=== PCB ===
+
+
+=== PBB ===
+
+
+=== PBDE ===
+
+
+=== HBCD ===
+
+
+=== TBBPA ===
+
+
+=== Produits organophosphorés ===
+
+
+== Principe de fonctionnement ==
+Les mécanismes basiques d'ignifugeage varient en fonction du retardateur de flamme et du substrat. Les produits chimiques ignifuges additifs et réactifs peuvent tous deux fonctionner en phase vapeur (gazeuse) ou condensée (solide). Les réactions de combustion sont des réactions d'oxydoréduction qui font intervenir des radicaux libres.
+
+
+=== Dégradation endothermique ===
+Certains composés se décomposent endothermiquement lorsqu'ils sont soumis à des températures élevées. Les hydroxydes de magnésium et d'aluminium en sont un exemple, de même que divers carbonates et hydrates tels que les mélanges de huntite et d'hydromagnésite,,. La réaction élimine la chaleur du substrat, refroidissant ainsi le matériau. L'utilisation d'hydroxydes et d'hydrates est limitée par leur température de décomposition relativement faible, ce qui limite la température de traitement maximale des polymères (typiquement utilisés dans les polyoléfines pour les applications de fils et de câbles).
+
+
+=== Protection thermique (phase solide) ===
+Un moyen d'empêcher l'étalement de la flamme sur le matériau lors de la pyrolyse est de créer une barrière d'isolation thermique entre les pièces en feu et non brûlées. Des additifs intumescents sont souvent utilisés. Leur rôle est de transformer la surface du polymère en couche non conductrice, qui sépare la flamme du matériau et ralentit le transfert de chaleur vers le carburant non brûlé et limite ainsi sa dégradation. Les agents ignifuges à base de phosphate inorganique et organique non halogénés agissent généralement à travers ce mécanisme en générant une couche polymère d'acide phosphorique carbonisé.
+
+
+=== Dilution de phase gazeuse ===
+Les gaz inertes (le plus souvent le dioxyde de carbone et l'eau) produits par la dégradation thermique de certains matériaux agissent comme diluants des gaz combustibles, abaissant leurs pressions partielles et la pression partielle de l'oxygène et ralentissent le taux de réaction,.
+
+
+=== Piégeage des radicaux libres en phase gazeuse ===
+Les retardateurs de flamme piègent les radicaux libres des gaz formés. Les matières chlorées et bromées subissent une dégradation thermique et libèrent du chlorure d'hydrogène et du bromure d'hydrogène ou, si elles sont utilisées en présence d'un synergiste comme le trioxyde d'antimoine ou des halogénures d'antimoine. Ceux-ci réagissent avec les radicaux H· et OH· hautement réactifs dans la flamme, entraînant une molécule inactive et un radical Cl· ou Br·. Le radical halogène est beaucoup moins réactif par rapport à H· ou OH· et a donc un potentiel beaucoup plus faible pour propager les réactions d'oxydation radicalaire de la combustion.
+
+
+== Sécurité incendie ==
+Les retardateurs de flamme sont généralement ajoutés aux produits manufacturés pour répondre aux normes d'inflammabilité pour les meubles, les textiles, l'électronique et les produits de construction comme l'isolation.
+En 1975, la Californie a adopté le bulletin technique 117 (TB 117), qui exige que des matériaux tels que la mousse de polyuréthane utilisée pour remplir des meubles puissent résister à une petite flamme nue, équivalente à une bougie, pendant au moins douze secondes,. Dans la mousse de polyuréthane, les fabricants de meubles ajoutent des additifs ignifugeants organiques halogènes. Bien qu'aucun autre État américain ne dispose d'une norme similaire, et en raison de l'importance du marché californien, de nombreux fabricants produisent des objets répondant au TB 117 qu'ils distribuent à travers les États-Unis. La prolifération des ignifugeants, et surtout des ignifugeants organiques halogènes, dans les meubles à travers les États-Unis et dans le monde, est fortement liée au TB 117.
+En réponse aux préoccupations concernant les répercussions sur la santé des ignifugeants dans les meubles rembourrés, en février 2013, la Californie a proposé de modifier le TB 117. Les tissus recouvrant les meubles rembourrés devraient résister à un test de brûlure et non plus les mousses de rembourrage. Le gouverneur Jerry Brown a signé la version du TB117-2013 modifiée en novembre et il est entré en vigueur en 2014. Le règlement modifié ne mentionne pas explicitement de réduction de l'utilisation des ignifugeants.
+En Europe, les normes de sécurité incendie pour le mobilier varient d'un pays à l'autre. Elles sont les plus strictes au Royaume-Uni et en Irlande. D'une manière générale, la comparaison des différents tests de résistance au feu dans le monde pour les meubles indiquerait que le test californien Cal TB117 - 2013 est un des moins exigeants. Le test britannique BS 5852 est plus restrictif suivi du test Cal TB133. L'un des tests d'inflammabilité les plus exigeants dans le monde entier est probablement le test de l'aviation fédérale des États-Unis pour les sièges d'avion qui implique l'utilisation d'un brûleur de kérosène. Une étude conduite par Greenstreet Berman en 2009 à la demande du gouvernement britannique, a montré que, entre 2002 et 2007, à la suite de l'adoption du règlement britannique sur la sécurité incendie et l'ameublement en 1988, il avait été enregistré une réduction moyenne de 54 décès, 780 accidents non mortels et 1 065 incendies de moins chaque année.
+
+
+== Efficacité ==
+L'efficacité des produits chimiques ignifuges pour réduire l'inflammabilité des produits de consommation dans les incendies de maisons est contestée. Les avocats de l'industrie des retardateurs de flamme, tels que l'American Chemistry Council’s North American Flame Retardant Alliance, se basent sur une étude du Bureau national des normes indiquant qu'une pièce remplie de produits ignifugés (une chaise rembourrée en mousse de polyuréthane et plusieurs autres objets, y compris une armoires et de l'électronique) présentaient une fenêtre de temps 15 fois plus grande pour les occupants pour s'échapper de la pièce que dans une pièce similaire sans retardateurs de flamme,. Cependant, certains critiques, y compris l'auteur principal de l'étude, estiment que les quantités d'additifs ignifuges utilisées dans l'étude de 1988 étaient beaucoup plus élevées que les niveaux requis par le TB 117, bien que ces niveaux soient parfois utilisés dans des produits commercialisés.
+Une autre étude a conclu que les agents ignifugeants sont un outil efficace pour réduire les risques d'incendie sans créer d'émissions toxiques.
+Plusieurs études réalisées dans les années 1980 ont testé les risques d'incendie dans une pièce entièrement meublée avec différents types de rembourrage et de remplissage, y compris avec des retardateurs de flamme. Les études se sont notamment intéressées au dégagement de chaleur maximum et au temps nécessaire avant ce dégagement de chaleur maximum, deux indicateurs clés du risque d'incendie. Ces études ont révélé que le type de revêtement de tissu avait une grande influence sur la facilité d'inflammation. Les études ont notamment conclu que les garnitures de coton étaient beaucoup moins inflammables que les garnitures de mousse de polyuréthane et qu'un revêtement intermédiaire permettait de réduire considérablement la facilité d'inflammation des meubles,. Ils ont également constaté que bien que certaines formulations ignifuges avaient diminué la facilité d'inflammation, les retardateurs les plus élémentaires conforme au TB 117 avaient eu très peu d'effets. Dans une des études, les obturations de mousse conformes au TB 117 présentaient les mêmes temps d’inflammation que les mêmes garnitures en mousse sans additifs ignifuges. Un rapport de la Proceedings of the Polyurethane Foam Association n'a pas non plus démontré les avantages des coussins en mousse traités avec des ignifugeants conformes au TB 117 dans des essais de mis à feu avec flammes nues et cigarettes. Cependant, d'autres scientifiques continuent de juger ce test à flamme ouverte fiable.
+
+
+== Toxicité ==
+
+
+=== Contamination et toxicité chez l'homme ===
+Les PBDE sont des polluants devenus omniprésents dans l'environnement mondial, faisant que les niveaux de contamination corporelle d'organismes animaux et du corps humain ne cessent d'augmenter, avec des coïncidences notables en Chine, en Europe, au Japon et aux États-Unis entre la consommation de produits laitiers, de poissons et de fruits de mer et l'exposition humaine aux PBDE.
+Les principales voies de contaminations sont l'inhalation de molécules ou de particules et l'ingestion de poussières et la consommation d'aliments contaminés. 
+Le corps de presque tous les Américains testés présentent des traces de contamination par des retardateurs de flamme. Des recherches récentes (2017) ont relié une part de cette exposition à la poussière des téléviseurs, suite au chauffage des ignifugeants présents dans leur boîtier plastique. L'élimination imprudente des téléviseurs et d'autres DEEE (micro-ondes, ordinateurs...) augmente considérablement la contamination environnementale. Une étude récente menée par Harley et al.(2010) sur les femmes enceintes d'une communauté d'immigrants à faible revenu, majoritairement mexicaines en Californie, a enregistré une diminution significative de la fécondité associée à l'exposition aux diphényléthers polybromés (PBDE).
+La même année, une autre étude (Chevrier et al.) a mesuré des concentrations de dix congénères du PBDE, de la thyroxine (T4) libre, de la T4 totale et de la thyréostimuline (TSH) chez 270 femmes enceintes autour de la 27e semaine de gestation. Les associations entre PBDE et T4 libre et totale ont été jugées statistiquement insignifiantes. Cependant, les auteurs ont trouvé une association significative entre l'exposition aux PBDE et la baisse des taux de thyréostimuline pendant la grossesse, ce qui peut affecter la santé maternelle et le développement du fœtus, notamment cognitif.
+Une étude prospective menée par Herbstman et al. en 2010 et initiée après le 11 septembre 2001, a surveillé 329 mères dans trois hôpitaux de Lower Manhattan, New York. Les auteurs de cette étude ont analysé 210 échantillons de sang de cordon ombilical et recherché des congénères du PBDE et ont parallèlement évalué les effets sur le développement neurologique des enfants à 12, 48 et 72 mois. Résultat : Les résultats les plus contaminés par les PBDE avaient des résultats plus mauvais aux tests de développement mental et moteur à 1-4 et 6 ans. C'est la première étude à faire une telle association chez l'homme. Une étude similaire avait été menée par Roze et al. en 2009 aux Pays-Bas sur 62 mères et enfants pour évaluer les impacts de 12 composés organohalogénés (OHC), y compris les biphényles polychlorés (PCB) et les ignifugeants à base de diphényléthers polybromés (PBDE). Les chercheurs ont mesuré les polluants dans le sérum maternel au cours de la 35e semaine de grossesse et les performances motrices (coordination, compétences motrices fines), cognitives (intelligence, perception visuelle, intégration visuo-motrice, contrôle inhibiteur, mémoire verbale et attention) et comportementales à 5 - 6 ans. Les auteurs avaient pour la première fois montré que le passage transplacentaire de retardateurs de flamme polybromés était associé à des retards du développement chez l'enfants en âge scolaire.
+Rose et al.(2010) ont mesuré les niveaux de contamination au PBDE de cent enfants âgés de deux à cinq ans en Californie. Ces niveaux étaient 10 à 1 000 fois plus élevés que ceux trouvés dans d’autres études chez des enfants européens, et 5 fois plus élevés que chez les autres enfants des États-Unis, et  2 à 10 fois plus élevés que chez les adultes américains. L'alimentation, l'environnement intérieur et les facteurs sociaux influençaient le degré de contamination des enfants (manger des volailles et du porc contribuait notamment à des charges corporelles élevées pour presque tous les types de retardateurs de flamme). Un moindre niveau d’éducation maternelle était en outre associé (de manière indépendante et significative) à une contamination plus élevées par les congénères d’additifs ignifuges chez ces enfants.
+En 2010, dans la Déclaration de San Antonio sur les retardateurs de flamme bromés et chlorés, 145 scientifiques éminents de 22 pays ont signé une déclaration de consensus sur les risques sanitaires induits par les ignifugeants chimiques. Ils indiquent que les retardateurs de flamme (retrouvés à des niveaux élevés dans les meubles de maison, l'électronique, l'isolation et d’autres produits de consommation courante) présentent des avantages limités pour la sécurité incendie, et qu'ils peuvent causer de graves problèmes de santé. Ils soulignent que les alternatives aux produits interdits devraient faire preuve de leur innocuité avant d’être mis sur le marché. Ils souhaite enfin modifier les politiques exigeant l'utilisation de retardateurs de flamme.
+
+
+=== Brome ; facteur de risque d'autisme ===
+Dans les années 2010, après que les méthodes analytiques d'analyse du brome dans les urines et le sang aient beaucoup progressé, une série d'études plaide pour un lien entre une exposition (dès le stade fœtal) au brome dispersé par l'Homme dans l'environnement (sous forme de PBDE notamment) et des problèmes neurodéveloppementaux de l'enfant.
+Nota : la désinfection de l’eau contenant des traces de brome par l’ozone produit aussi des produits bromés problématiques.
+
+
+==== Chez l'être humain ====
+En 2011 Gascon et al. trouvent un lien entre l'expositon prénatale ou post-natale à certains produits bromés et des difficultés neurodéveloppemenales du fœtus et de l'enfant. La même année, Roman et ses collègues observent un risque accru d’être atteints de troubles liés à l’autisme, pour des enfants dont la mère était en état d'hypothyroïdie lors de son premier trimestre de grossesse, or on montrera en 2017 que le brome fait partie des perturabateurs endocriniens sources d'hypothyroïdie (le brome, en tant qu’halogène (proche de l’iode sur le tableau de Mendeleïev) peut en effet prendre la place de l’iode dans le système thyroïdien (ce qui en fait un perturbateur endocrinien). En 2014, le caractère délétère des diphényléthers polybromés comme délétères pour le neurodéveloppement est démontré, puis confirmé en 2015 par une autre équipe via des tests faits chez des enfants de neuf à douze ans, alors qu'une autre équipe met le brome en relation avec des anomalies de date de survenue de la puberté chez les filles. En 2016, on admet que certaines maladies du trouble du spectre autistique (et des retards mentaux) sont clairement liées à des dysfonctionnements endocriniens (survenus in utero) et/ou chez le nouveau-né) et notamment au niveau de l’axe thyroïdien ; et il semble y avoir une corrélation entre la déficience en iode (source d'hypothyroïdie) et la sévérité des symptômes de l'autisme (résumé).
+
+
+==== Confirmation par le modèle animal ====
+En 2012, une étude faite avec des souris femelles, génétiquement modifiées pour développer un trouble similaire au syndrome de Rett (trouble autistique), par la mutation du gène MECP2 du chromosome X, a montré qu’après l'exposition au BDE-47 (un PDBE), leur descendance, également exposée, avait un poids de naissance et un taux de survie inférieurs, et présentait des déficits de sociabilité et d'apprentissage. Début 2013 une étude montre des lésions cérébrales lié au BDP-49, induites chez des souris par l'inhibition du processus de production d'ATP mitochondriale nécessaire pour que les cellules du cerveau obtiennent de l'énergie. Une toxicité se manifestait dès de faibles doses. L'étude offre une voie d'explication possible du fait que les PDBE entraîneraient l’apparition de symptômes autistiques.
+
+
+=== Interdictions ===
+Les retardateurs de flamme semblent suivre un cycle qui se répètent avec chaque nouvelle molécule et présentant les étapes suivantes : mise au point, enregistrement, commercialisation, dangers suspectés, augmentation de la production et de la consommation, dangers reconnus, réglementation et interdiction suivi d'un arrêt de la production.
+Les premiers retardateurs de flamme, les biphényles polychlorés (PCB), ont été interdits aux États-Unis en 1977 lorsque leur toxicité a été établie. À partir de 1970, de nouveaux types d’agents ignifuges bromés (PBB) sont progressivement mis sur le marché notamment pour remplacer les PCB principalement aux États-Unis. À la suite notamment d'une contamination de nourriture pour animaux en 1973 au Michigan, la production de PBB est interrompue aux États-Unis dès 1976. En 2004 et en 2008, l'UE a interdit plusieurs autres types d'éthers diphényliques polybromés (PBDE). Les négociations entre l'EPA et les deux producteurs américains de DecaBDE (un retardateur de flamme utilisé dans l'isolation électronique des fils et câbles, de textiles, pour l’automobile et les avions etc.), Albemarle Corporation et Chemtura Corporation et le plus grand importateur américain ICL Industrial Products Inc. a permis d’établir un calendrier visant à mettre fin à la production du DecaBDE d'ici la fin de 2013. En 2011, l'état de Californie a classifié le tris (tris(hydroxyméthyl)aminométhane) ou TDCPP chloranique comme cancérogène. En décembre 2012, le Centre pour la santé environnementale à but non lucratif de Californie (California nonprofit Center for Environmental Health) a rendu public son intention de poursuivre plusieurs grands détaillants et producteurs de produits pour bébés pour avoir enfreint la loi californienne pour avoir omis d'étiqueter des produits contenant ce retardateur de flamme cancérogène. Bien que la demande de retardateurs de flamme bromés et chlorés en Amérique du Nord et en Europe de l'Ouest diminue, elle augmente dans toutes les autres régions du monde.
+
+
+== Contamination de l'environnement ==
+La contamination de l'environnement est une contamination globale de la planète. La dispersion des retardateurs de flamme dépend des propriétés physico-chimiques des molécules considérées. La plupart des retardateurs de flamme ne sont pas liés chimiquement aux matériaux qu'ils protègent à l'exception du TBBPA. Ils sont donc susceptibles d'être dispersés dans l'environnement. La contamination de l'environnement peut se faire par la décharge inappropriée des objets contaminés, notamment dans les pays en voie de développement. Les retardateurs sont pour la plupart peu solubles et se retrouvent majoritairement dans les sédiments ou liés à d'autres particules. Les additifs ignifuges se retrouvent souvent concentrés dans les graisses des animaux notamment les poissons gras et les mammifères marins.
+
+
+== Références ==
+
+
+== Voir aussi ==
+Agent ignifuge bromé
+Retardant
+Bromoforme Portail de la chimie   Portail de la biochimie   Portail de la médecine   Portail du bâtiment et des travaux publics   Portail de l'écotoxicologie

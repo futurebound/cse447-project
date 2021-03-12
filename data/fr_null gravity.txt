@@ -1,0 +1,85 @@
+Le vocable médical lymphocytome désigne plusieurs pseudo-lymphomes non épidermotropes. 
+
+Ils se présentent comme des gonflements dus à un infiltrat de lymphocytes B (d'où leur nom). La prolifération de lymphocytes produit un nodule ou granulome plus ou moins épais (jusqu'à quelques millimètres) et larges (plus d'un centimètre parfois), généralement rouges ou brunâtres, indolores. 
+Ils sont plus souvent situés sur le visage et notamment sur l'oreille, mais apparaissent aussi sur le thorax avec parfois un aspect tumoral, lupoïde à la vitro-pression. Très rarement, des lymphocytomes débutants peuvent être disséminés sur le corps (une biopsie doit être effectuée pour les différencier d'éventuels lymphomes cutanés malins).
+
+
+== Synonymes ==
+Le lymphocytome est également appelé : hyperplasie lymphoide reactive, ou pseudolymphome.
+
+
+== Gravité, pronostic ==
+Leurs caractéristiques histologiques et cliniques peuvent parfois les faire confondre avec un lymphome malin, mais ils s'en distinguent par une infiltration bénigne de lymphocytes B (polyclonaux) (pouvant être mis en évidence par une étude phénotypique de l'infiltrat).
+Les lymphocytomes cutanés bénins disparaissent la plupart du temps spontanément, après quelques jours ou en quelques semaines. 
+Très rarement, un Lymphocytome cutané évolue vers un lymphome.
+
+
+== Cause, origine ==
+Souvent la cause reste inconnue. 
+Un lymphocytome est une réaction inflammatoire qui pourrait faire suite à 
+
+un petit traumatisme physique (piqure, lésion de la peau…) ;
+une vaccination ;
+une infection ; Ce peut être par exemple l'une des manifestations cutanées d'une maladie de Lyme (voir ci-dessous), maladie qui peut alors être confirmée par l'analyse d'une biopsie du Lymphocytome ;
+
+
+== Le cas particulier du lymphocytome borrélien (lié à la maladie de Lyme) ==
+
+
+=== Histoire médicale ===
+Cette maladie est induite par un groupe de bactéries spirochètes (borrélies) lorsqu'elles sont inoculées dans l'organisme par une morsure de tique infectée. C'est une maladie émergente ou en forte croissance depuis les années 1980. Elle présente de nombreux symptômes, souvent non spécifiques et non systématiques. Certaines variantes de cette maladie ne sont associées qu'à des symptômes cutanés ; elles sont dites  « dermato-borrélioses ». Parmi ces symptômes figure un Lymphocytome cutané réputé bénin dit lymphocytome borrélien, pouvant apparaître lors de l'infection (cette expression a été inventée par Bäfverstedt en 1943 pour un symptôme décrit pour la première fois en 1911 par le médecin allemand Burckhardt.
+
+
+=== Diagnostic ===
+Le comité allemand des maladies infectieuses et de la vaccination de l'Académie allemande de la pédiatrie et de la santé de l'adolescent constate (en 2012) que pour des raisons mal comprises, en présence de lymphocytome borrélien sur l'oreille, le nez ou le sac testiculaire, le test sérologique donne souvent un résultat qui est un faux négatif.
+Le diagnostic doit donc être clinique, sérologique ou anatomopathologique. La maladie peut souvent être confirmée par une « sérologie de Lyme » mais pas toujours (La sensibilité des tests sérologiques n'est que d'environ 80 %). Il apparait dans un délai variable après la morsure d'une tique (un à deux mois selon les données rassemblées par la SPILF en 2007 .
+Dans les années 2000-2018, en cas de lymphocytome, une sérologie à deux niveaux figure dans plus de 70 % des recommandations de  bonnes pratiques issues d'experts du SPILF, l’IDSA , de l’ESGBOR, de la British Infection Association, du NICE, de la Société allemande de dermatologie ou d'une associations polonaise sur les maladies infectieuses), avec une sensibilité du test qui sera meilleure qu'au stade plus précoce de l’érythème migrant. Cependant, les directives du comité des maladies infectieuses et de la vaccination de l'Académie allemande de la pédiatrie et de la santé de l'adolescent indiquent que des faux négatifs sont encore possibles pour le lymphocytome, et que le diagnostic peut être établi par des moyens cliniques, comme c'est le cas pour la SE.
+La plupart des bonnes pratiques citées ci-dessus recommandent en outre une biopsie pour analyse histologique et pour une PCR,,,.   
+La Société suisse de maladies infectieuses ne conseille la biopsie de la lésion que si l'on ne constate pas d'amélioration après le traitement antibiotique, ou en cas de localisation atypique, afin d'exclure un lymphome cutané. le belge B. Delaere juge aussi que la biopsie peut n'être que facultative, réservée aux cas de lymphocytome atypique. 
+En 2017, la GMS (Société allemande de dermatologie) a mis à jour ses recommandations, soulignant que ans de rares cas, un lymphocytome débutant peut être disséminé ; une biopsie doit alors être effectuée pour le différencier d'éventuels lymphomes cutanés malins. En cas de lymphocytome douteux, elle recommande en outre un test de transformation lymphocytaire. La Société allemande de la borréliose (DBG) a de son côté aussi recommandé ce test, mais sans préciser quand une biopsie est nécessaire ou non.
+
+
+=== Prévalence ===
+Elle varie selon la géographie. Ainsi, le lymphocytome  borrélien - tout comme l’acrodermatite chronique atrophiante (ACA) - est rarissime aux États-Unis,,, , alors qu'il est moins rare en Europe (ex : respectivement 2 % et 7 % des malades adultes et enfants diagnostiqués (cliniquement avec vérification sérologique) en suède selon Berglund et al. en 1995 . Ceci est du au fait que les souches de borrélies diffèrent entre l'Amérique du Nord et l'Europe où elles sont en outre plus nombreuses, ; Selon Lenormand  et ses collègues en 2009 , ce lymphocytome (et l'ACA) seraient le plus souvent induit par B. afzelii mais quelques cas ont été signalés aux  États-Unis au début des années 1990, et au Mexique (par Gordillo-Perez et al en 2007). 
+
+
+=== Aspect, localisations ===
+Ce lymphocytome se présente en une ou plusieurs lésions qui respectent toujours l'épiderme (le granulome borrélien en est séparé par une bande dermique).  Plus ou moins étalé, il a l'apparence d'un nodule de couleur rouge à violacé ou brun, arrondi et ferme, mesurant de quelques mm à 1 voire 2 cm de diamètre (notamment sur le lobe de l'oreille). 
+Le nodule forme parfois une « plaque rouge ou brunâtre à violacée » qui se développerait plus souvent chez les enfants de moins de 12 ans, souvent au niveau du lobe de l’oreille ou de sa bordure carilagineuse (helix), et chez l’adulte (et parfois l'enfant) au niveau d'un mamelon, ou plus atypiquement « sur le scrotum, le lobe du nez, les bras et les épaules ». 
+
+
+=== Sensations ===
+À maturité, il procure une sensation de chaud et/ou de douleur à la pression. Un prurit, des douleurs et des symptômes systémiques accompagnent la lésion qui chez l’enfant guérit sous antibiotiques adéquats en 3 semaines en moyenne (86 % des patients guérissent dans un délai de six semaines. 
+
+
+=== Biologie ===
+Dans l’ACA, ce sont principalement les chimiokines CXCL9 et CXCL10 qui stimulent le recrutement des lymphocytes T, alors que dans les lymphocytomes  borréliens les CXCL9 et CXCL10 s'expriment peu, au contraire des CXCL13 qui sont là les principaux recruteurs de lymphocytes B et leur organisation au sein des follicules lymphocytaires est spécifique notait Müllegger et ses collègues en 2007 
+
+
+=== Taux de prévalence ===
+Il est mal connu, d'une part car c'est un symptôme méconnu de la maladie et d'autre part parce qu'il varie selon les régions (en fonction de la souches dominante de borrélie). En effet, plusieurs groupes biogéographiques de borrélies provoquent des symptômes différents (plutôt neurologique, ou plutôt dermatologiques), ce qui explique que les symptômes et la sensibilité de certains tests diffèrent en Amérique du Nord et en Europe. 
+En Europe du Nord, un Lymphocytome cutané borrélien serait présent dans environ 15 % des cas étudiés, généralement sous forme d'un petit nodule cutané violacé, d’allure lupoïde. Il est présent en une ou plusieurs lésions, le plus souvent sur le lobe ou le pavillon de l’oreille mais aussi parfois sur le thorax, éventuellement l'aréole du sein, ou le scrotum.
+Selon Maraspin (2002), au stade II de la maladie, il n'est encore présent que dans 1 % des cas seulement des borrélioses de Lyme diagnostiquées à ce stade de la maladie (stade dit « disséminé précoce ») ,. le « lymphocytome borrélien (LB) » peut apparaître durant les phases de « dissémination hématogène de la bactérie ». 
+Il abrite une prolifération polyclonale de lymphocytes B et on peut y trouver des borrélies. 
+Ces lymphocytomes borréliens sont souvent précédées ou accompagnées d'un érythème migrant (chez 60 à 80 % des sujets contractant une borréliose) et plus rarement d'une acrodermatite chronique atrophiante. 
+Certains auteurs le considèrent comme un « marqueur de la phase précoce disséminée » car il apparaitrait plus souvent dans les deux mois qui suivent le début de la maladie. Ces lymphocytomes peuvent toutefois apparaître plus tardivement (au moins jusqu’à dix mois après la morsure de la tique.
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+
+
+=== Lien externe ===
+Base de données illustrée, dermatologique (Dermis.net)
+
+
+=== Bibliographie ===
+de Koning J (1993) Histopathologic patterns of erythema migrans and borrelial lymphocytoma. Clin Dermatol 11: 377–383.
+Gautier C, B Vignolly and A Taïeb ; Lymphocytome cutané bénin de l'aréole mamelonnaire et Erythema chronicum migrans: une association pathognomonique de borrélioseBenign cutaneous lymphocytoma of the breast areola and Erythema chronicum migrans: an association pathognomonic of lyme disease ; Archives de Pédiatrie ; Vol. 2, Issue 4, avril 1995, Pages 343-346
+
+
+== Notes et références ==
+
+ Portail de la médecine   Portail de l’hématologie

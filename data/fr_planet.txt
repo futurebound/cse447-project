@@ -1,0 +1,185 @@
+Une planète est un corps céleste orbitant autour du Soleil ou d'une autre étoile, possédant une masse suffisante pour que sa gravité la maintienne en équilibre hydrostatique, c'est-à-dire sous une forme presque sphérique, et ayant éliminé tout corps « rival » se déplaçant sur son orbite ou sur une orbite proche. Par extension on qualifie parfois aussi de planètes les objets libres de masse planétaire.  
+Ptolémée fut l'un des premiers à essayer de comprendre la formation et le fonctionnement des planètes. Celui-ci en était venu à la conclusion que toutes étaient en orbite autour de la Terre selon un mouvement déférent et épicyclique. Bien que l'idée que les planètes tournent autour du Soleil ait été suggérée à plusieurs reprises, il a fallu attendre le XVIIe siècle pour que cette opinion soit corroborée par les tout premiers télescopes d'observations astronomiques, réalisés par Galilée. Par la suite, une analyse minutieuse des données d'observation mène Johannes Kepler à trouver que les orbites des planètes ne sont pas circulaires, mais bien elliptiques.
+Il n'existe pas de définition officielle générale du mot « planète » hormis une définition de travail de l'Union astronomique internationale (UAI) datant de 2002 et modifiée en 2003. En bref, celle-ci définit la limite supérieure des planètes par la limite de fusion nucléaire du deutérium (au-delà on parle de naine brune) et exclut les objets libres de masse planétaire (appelées sous-naines brunes). La limite inférieure est définie comme pour les planètes du système solaire. Cette limite date de 2006 et précise, en termes simples, que l'objet doit, en plus de tourner autour du Soleil, être relativement sphérique et avoir éliminé tout corps rival se déplaçant sur une orbite proche (cela peut signifier soit en faire un de ses satellites, soit provoquer sa destruction par collision). De fait, ce dernier critère ne s'applique pas aujourd'hui aux exoplanètes pour des raisons technologiques. On estime que le nombre d'exoplanètes dans notre seule galaxie est d'au moins 100 milliards.
+Selon la définition de 2006, il y a huit planètes confirmées dans le Système solaire : Mercure, Vénus, la Terre, Mars, Jupiter, Saturne, Uranus et Neptune (sans Pluton, cf. ci-dessous).
+En même temps que la définition d'une planète était clarifiée, l'UAI définissait comme étant une planète naine un objet céleste répondant à tous les critères, sauf l'élimination des corps sur une orbite proche. Contrairement à ce que suggère l'usage habituel d'un adjectif, une planète naine n'est pas une planète, puisque l'un des critères de la définition des planètes n'est par définition jamais rempli par les planètes naines ; ceci explique qu'il n'y ait, comme listé ci-dessus, que huit planètes dans le Système solaire. On compte actuellement cinq planètes naines dans le Système solaire : Cérès, Pluton, Makémaké, Hauméa et Éris. Cependant il est possible et même probable qu'à l'avenir cette liste devienne plus longue que celle des planètes.
+La liste des planètes a fortement varié au gré des découvertes et nouvelles définitions de l'astronomie. La Terre n'est considérée comme une planète que depuis la reconnaissance de l'héliocentrisme (position centrale du Soleil), Pluton et Cérès furent classées comme planètes en premier lieu lors de leur découverte, mais la définition de l'UAI a conduit à exclure de manière claire de tels objets.
+
+
+== Étymologie ==
+Le substantif féminin,, « planète » est emprunté,, par l'intermédiaire du latin planeta,,, au grec ancien πλανήτης, planếtês, pris de l'expression πλανήτης ἀστήρ, planếtês astêr, qui désigne un « astre en mouvement » ou « astre errant », par opposition aux étoiles (les « étoiles fixes ») qui apparaissent immobiles sur la voûte céleste.
+Ce mouvement apparent, repéré en suivant la planète dans le ciel d'une nuit à l'autre, a été observé très tôt par les hommes de toutes les civilisations, mais sa complexité est longtemps restée un mystère pour les astronomes jusqu'à son identification à la résultante des courses elliptiques de la Terre et des autres planètes autour du Soleil.
+Si les planètes du Système solaire sont visibles la nuit dans le ciel, c'est parce qu'elles réfléchissent la lumière du Soleil, contrairement aux étoiles qui brillent par elles-mêmes.
+
+
+== Définition ==
+
+La définition d'une planète telle que reprise ci-dessus dit en substance qu'un corps doit présenter une masse d'au moins 5 × 1020 kg et un diamètre d'au moins 800 km pour être considéré comme une planète.
+Pour le dictionnaire, dont les définitions n'ont qu'une valeur académique et non scientifique, une planète est un « objet céleste compact, dépourvu de réactions thermonucléaires (ou anciennement : sans lumière propre), gravitant autour du Soleil ou, par extension, d'une étoile ».
+En 2003, Sedna avait déjà été décrétée par les médias comme étant la dixième planète du Système solaire, mais beaucoup d'astronomes étaient réticents pour lui accorder ce statut. En fait, les astronomes n'étaient pas unanimes sur la définition d'une planète et l'UAI a donc tranché la question.
+Jusqu'en 2006, la National Academy of Sciences américaine définissait une planète comme étant un corps de moins de deux masses joviennes gravitant autour d'une étoile. Mais cette définition ne tenait pas compte des récentes découvertes, dont celles de (136199) Éris (en 2005), de (90377) Sedna et autres objets de la Ceinture de Kuiper.
+
+
+=== Distinguer planète et étoile ===
+Classiquement, le terme « planète » s'oppose à celui d'« étoile ». Planète et étoile diffèrent en ceci que l'énergie lumineuse rayonnée par une planète ne provient pas de son sein propre mais de l'étoile autour de laquelle elle gravite (toute planète émet des rayonnements électromagnétiques, généralement dans l'infrarouge en raison de sa faible température). Même si cette opposition entre production et réflexion de lumière garde une part essentielle de sa pertinence, elle pose quelques problèmes conceptuels de définition.
+Ce qui aujourd'hui distingue le plus utilement le concept de planète et celui d'étoile est le mode de formation :
+
+la formation d'une étoile résulte de l'effondrement d'une sphère de gaz ;
+la formation d'une planète résulte de l'agrégation de poussières dans un disque, suivie ou non d'une accrétion gazeuse, en fonction de la masse du noyau.
+
+
+==== Les planètes ====
+Bien qu'elles n'émettent pas de lumière visible, les planètes produisent un peu d'énergie détectable en infrarouge (IR). Pour la Terre, vu de l'espace, ceci est environ 4 000 fois moins que ce qui est reçu du Soleil. Le phénomène est plus important pour Jupiter, Saturne et Neptune. Dans l'infrarouge, elles renvoient 2 à 2,5 fois plus d'énergie qu'elles n'en reçoivent du Soleil.
+Théoriquement, il existe des planètes qui n'orbitent autour d'aucune étoile. Formées autour de ces dernières, elles peuvent être libérées de leur lien gravitationnel par diverses interactions gravitationnelles. De telles planètes, dites « planètes flottantes » ne reflètent la lumière d'aucune étoile. Le 14 novembre 2012, l'Institut de planétologie et d'astrophysique de Grenoble a annoncé la découverte probable d'une planète de cette catégorie, appelée CFBDSIR 2149-0403.
+Au sein du Système solaire, les planètes ont une orbite elliptique qui est, à l'exception de Mercure, quasi circulaire et dont le Soleil est situé à l'un des foyers. En première approximation, les planètes orbitent toutes dans un même plan nommé écliptique. L'écliptique est inclinée de sept degrés par rapport au plan de l'équateur du Soleil. Les planètes orbitent toutes dans la même direction, dans le sens contraire de celui des aiguilles d'une montre lorsque regardées du dessus du pôle nord du Soleil.
+
+
+==== Les étoiles ====
+Les étoiles les plus petites, les naines brunes, n'ont jamais été assez massives pour engendrer un processus de fusion thermonucléaire en leur sein, à part les plus massives qui brûlent le deutérium de leur enveloppe pendant quelques dizaines de millions d'années avant de se refroidir. Les naines brunes rayonnent un grand nombre de milliards d'années mais pas selon le processus classique (proton/proton ou CNO) ; elles n'appartiennent pas de ce fait à la séquence principale.
+
+
+=== Propositions récentes de définition ===
+Tout astronome a besoin de construire une définition scientifique qui peut s'avérer parfois assez éloignée de la définition communément admise.
+Quatre définitions ont été proposées en 2005 par l'astronome Michael E. Brown qui permettent d'avoir une idée plus claire sur la question :
+
+Point de vue purement historique, les Planètes sont : Mercure, Vénus, la Terre, Mars, Jupiter, Saturne, Uranus, Neptune et Pluton, aucune autre de plus.
+Historique mis à jour. On peut envisager des raisons historiques tenant compte des dernières découvertes. Dans ce cas Mercure jusqu'à Pluton sont des planètes ainsi que tout nouvel objet plus grand que Pluton (désormais classée comme planète naine).
+La sphère gravitationnelle. Tout objet arrondi en raison de sa force gravitationnelle, qui ne produit pas sa propre lumière et qui gravite directement autour du Soleil, et par extension d'une étoile, est une planète. Cette définition de l'aspect régi par la gravité permet de classer le corps Cérès de la ceinture d'astéroïdes parmi les planètes.
+Les classes de populations. Cette définition du terme « planète » est la plus complexe mais également la plus satisfaisante d'un point de vue scientifique. Une population est un ensemble d'individus appartenant à la même espèce. Dans notre contexte, il s'agit d'un ensemble d'objets solitaires partageant les mêmes propriétés.Michael Brown et son équipe reconnaissent qu'il n'existe pas de définition scientifique qui épouse à la fois les conditions rencontrées dans le Système solaire et notre culture. Comme il l'a écrit « pour une fois j'ai décidé de laisser gagner la culture. Nous, scientifiques, pouvons continuer nos débats, mais j'espère que nous serons globalement ignorés ». Pour lui, la question est donc entendue : en 2005, il existe donc dix planètes dans le Système solaire et une kyrielle d'autres populations de petits corps.
+À l'inverse, beaucoup d'astronomes préfèrent considérer qu'il existe huit planètes (de Mercure à Neptune), et qu'en raison de leurs caractéristiques, Pluton et les autres corps de la ceinture de Kuiper, qu'ils soient petits ou gros, sont des objets d'un autre type (qu'on désigne d'ailleurs sous le terme générique de transneptuniens).
+
+
+== Planètes du Système solaire ==
+
+
+=== Description ===
+On connaît avec certitude l'existence de huit planètes dans le Système solaire. En Occident elles sont chacune nommées d'après un dieu romain, sauf la Terre, et on leur associe un symbole astronomique, voire astrologique. Par ordre croissant d'éloignement du Soleil, ce sont :
+
+Mercure (symbole ☿) ;
+Vénus (♀) ;
+la Terre (⊕/♁) ;
+Mars (♂) ;
+Jupiter (♃) ;
+Saturne (♄) ;
+Uranus (♅) ;
+Neptune (♆).Une neuvième planète pourrait également exister, à une distance très supérieure aux autres planètes connues.
+Les planètes du système solaire peuvent être divisées en trois catégories : 
+
+les planètes telluriques : Mercure, Vénus, la Terre et Mars ;
+les géantes gazeuses : Jupiter et Saturne ;
+les géantes de glaces : Uranus et Neptune.
+Pour se souvenir de l'ordre, une méthode courante est de mémoriser une phrase mnémotechnique comme « Me Voici Toute Mignonne, Je Suis Une Nébuleuse », les initiales de chaque mot suivant celles des planètes, classées par distance en partant du Soleil. Celle donnée ici est une adaptation de la phrase « Me Voici Toute Mignonne : Je Suis Une Nouvelle Planète », écrite à l'époque où on considérait Pluton comme une planète.
+En effet, historiquement, Pluton, comme (1) Cérès, a été considérée comme une planète depuis sa découverte. Puis les astronomes ont reconsidéré ce statut en constatant qu'il s'agissait d'un objet d'un type relativement courant découvert depuis les années 2000. Ils ont requalifié Pluton le 24 août 2006 car on a découvert d'autres objets transneptuniens de taille comparable dans la ceinture d'astéroïdes extérieurs, comme (136199) Éris (paradoxalement on hésitait alors à qualifier cet objet de dixième planète, et on le désignait alors par son nom de code Xéna car la décision sur le nom était trop lourde de responsabilité au cas où il serait qualifié de planète).
+
+
+=== Satellites des planètes du Système solaire ===
+Les deux planètes les plus proches du soleil, Mercure et Vénus, n'ont pas de satellite. Parmi les planètes telluriques, seules Mars et la Terre en possèdent : deux satellites tournent autour de Mars, et la Terre n'a que la Lune comme satellite naturel. Les géantes gazeuses, plus volumineuses et ayant une masse plus importante, sont susceptibles d'attirer des objets célestes. Ainsi, Saturne possède officiellement 82 satellites après la découverte courant 2019 de 20 nouvelles lunes, ce qui la place devant Jupiter avec ses 79 lunes. Uranus et Neptune, géantes de glace beaucoup moins massives que les géantes gazeuses, possèdent respectivement, aux erreurs d'observation près, 29 et 14 satellites.
+
+
+== Autres systèmes planétaires ==
+
+Depuis 1990, année de la découverte d'un pulsar autour duquel on découvrira des planètes extrasolaires par Aleksander Wolszczan, mais surtout 1995 et la confirmation par Michel Mayor et Didier Queloz de la découverte de la première planète autour de 51 Pegasi b (primeur pour laquelle ils obtiennent le prix Nobel de physique en 2019), on sait qu'il existe des planètes autour d'autres étoiles. Il est même probable que leur présence soit très courante étant donné le nombre de planètes identifiées depuis lors, alors que les techniques dont on dispose pour le moment ne permettent de détecter que les planètes massives et proches de leur étoile. Même si celles qui ont été détectées jusqu'ici sont presque toutes des planètes géantes (au moins de la taille de Jupiter ou Saturne), les astronomes ne désespèrent pas de mettre en évidence des planètes similaires à la Terre, ce qui pourrait justifier certaines recherches d'une vie extraterrestre. Entre 1995 et 2005, près de 170 exoplanètes ont été ainsi découvertes.
+En 2005, pour la première fois, des astronomes ont pu discerner la lumière émise directement par deux planètes, malgré la lueur éblouissante et toute proche de leurs étoiles. Jusqu'alors, les découvertes n'étaient qu'indirectes, en constatant les perturbations exercées par les planètes sur leurs étoiles ou en mesurant une baisse de luminosité lors d'une éclipse.
+Cette fois, deux découvertes presque simultanées ont été faites par deux équipes différentes observant des planètes différentes. Mais comme les deux équipes ont toutes deux utilisé le télescope spatial infrarouge américain Spitzer, la Nasa a décidé de profiter de l'occasion pour annoncer les deux découvertes en même temps.
+Le 13 juin 2005, une équipe de scientifiques américains a annoncé la découverte de la 155e exoplanète découverte depuis 1995. Les caractéristiques de cette planète sont :
+
+distance à la Terre : 15 années-lumière ;
+température : entre 204 et 361 degrés Celsius ;
+masse estimée : 5,80 à 7,50 fois celle de la Terre ;
+son étoile est Gliese 876 (aussi connue sous le nom de BD-15°6290, une naine rouge dans le Verseau).Dans la revue Nature du 14 juillet 2005, l'astrophysicien polonais Maciej Konacki du California Institute of Technology (Caltech) a révélé qu'il avait découvert une géante gazeuse, autour de HD 188753, une étoile triple (un système binaire gravitant autour d'une étoile primaire de type solaire). La planète, HD 188753 Ab, gravite autour de l'étoile principale et est du type Jupiter chaude, c'est-à-dire une géante gazeuse comme Jupiter, mais beaucoup plus proche de son étoile que ne l'est Jupiter du Soleil — plus proche de son étoile que Mercure ne l'est du Soleil, en fait ! Les modèles actuels (juillet 2005) de formation de telles planètes supposaient une formation à une distance appropriée pour une planète géante, suivie d'un rapprochement vers l'étoile centrale, ce qui n'est pas possible dans le cas particulier de HD 188753.
+La première photographie optique d'une exoplanète a été publiée le 13 novembre 2008. D'une masse probablement proche de celle de Jupiter, cette planète, baptisée Fomalhaut b, est en orbite autour de l'étoile Fomalhaut dans la constellation du Poisson austral (Piscus austrinus), à une distance d'environ quatre fois celle séparant Neptune du soleil.
+Depuis, le nombre de planètes découvertes a augmenté. Au 3 septembre 2020, Il y a 4 330 exoplanètes confirmées dans 3 200 systèmes solaires, dont 708 systèmes ayant plus d'une planète.
+
+
+== Formation des planètes ==
+
+On considère que les planètes se forment en même temps que leur étoile, par accrétion et condensation d'un nuage de gaz et de poussières sous l'influence de la gravitation. Tous les modèles de formation planétaire commencent donc par la formation d'une, voire de deux ou plus, étoiles au sein d'un effondrement, suivie par l'accrétion des poussières dans le disque résiduel circumstellaire.
+
+
+=== Formation stellaire préalable dans l'atmosphère galactique ===
+Une galaxie est un corps autogravitant aplati formé de gaz plus ou moins ionisés (plus ou moins chauds autrement dit) qui se stratifient selon l'épaisseur par gravité. Le plan médian, appelé plancher galactique, le plus dense, correspond pourrait-on dire à la troposphère terrestre et c'est en son sein que se déroule la formation d'étoiles, assimilables à des précipités de gaz, suivie d'une restitution partielle sous le mode nébuleuse planétaire ou supernova, selon la masse de l'étoile. Le gaz restitué est enrichi en éléments lourds (C, N, O, Si, Al, Mg, Fe, etc.) qui se condensent en poussières, dont le rôle ultérieur est essentiel pour la formation planétaire.
+Les étoiles naissent en groupe au sein de vastes complexes moléculaires qui parsèment le plancher galactique. Ces complexes (ou nuages) moléculaires sont ainsi nommés en référence au fait que l'hydrogène s'y présente sous forme de molécule de dihydrogène H-H. Ces « régions H2 » sont particulièrement denses (plus de 10 000 atomes/cm3) et froides (typiquement 10 à 100 K) par rapport aux régions voisines HII formées d'hydrogène ionisé (chaudes à 10 000 K et presque vides avec 10 atomes/cm3 ou moins). La formation de ces régions nous introduit au phénomène central de la formation stellaire (qui se reproduit ensuite un peu différemment pour les planètes gazeuses, au moment d'accréter) : l'effondrement gravitationnel.
+Il y a effondrement lorsque la force de gravité créée par le nuage excède la pression thermique résultant du couple température-densité. L'effondrement est typiquement un phénomène auto-entretenu : au fur et à mesure que les molécules du nuage se dirigent vers le centre, sa densité augmente et avec elle la gravité qu'il génère.
+Mais le processus ne peut perdurer que si l'énergie thermique peut s'évacuer. En se contractant, c’est-à-dire en chutant librement sur lui-même, le nuage convertit son énergie gravitationnelle en énergie cinétique et celle-ci engendre une pression thermique, à l'occasion de nombreux chocs. Il faut donc que le nuage rayonne, phénomène facilité par la densité croissante, qui augmente la probabilité des chocs moléculaires, en partie non-élastiques.
+Il se forme ainsi au centre un noyau de gaz (« modèle de nucléation »), alors appelé proto-étoile, sur lequel tombe un flux de gaz à une vitesse qui croit avec la gravité de l'astre, c’est-à-dire avec sa masse. Un corps en chute libre percute la surface de l'astre avec une vitesse égale à la vitesse de libération de cet astre. Elle augmente rapidement au-delà de 10 km/s pour la proto-étoile. Au bilan, l'énergie gravitationnelle du nuage (Eg = GM²/r) est convertie en chaleur à la surface du jeune astre et constitue une quantité d'énergie rayonnée considérable. L'étoile naissante, avant même d'entamer le processus de fusion de l'hydrogène possède une température de surface 10 fois supérieure à ce qu'elle deviendra après stabilisation en séquence principale (soit pour le Soleil de l'ordre de 60 000 K contre 6 000 K par la suite). L'intense rayonnement de la proto-étoile, situé dans les UV, permet donc la poursuite du processus, tant que le nuage qui la surplombe reste transparent.
+Cette transparence est contrecarrée par la présence de poussière en densité croissante avec l'effondrement et qui l'opacifie. Toutefois en même temps que le nuage se contracte, il augmente sa vitesse angulaire de rotation afin de conserver son moment M de rotation.
+En tout point, M ~ w.r avec w la vitesse angulaire, en rad.s-1 et r la distance au centre de gravité. Si le r moyen diminue, w augmente : les pôles se dépeuplent en conséquence en faveur de l'équateur et ce tournoiement accéléré aplatit le nuage.
+Les pôles étant déchargés de matière, l'étoile peut rayonner librement sur une moitié de son angle solide. Par contre, la rotation de ce disque (où va se dérouler la formation planétaire) limite le processus d'effondrement et l'arrête complètement en l'absence de mécanisme qui dissipe son énergie de rotation.
+Ce disque est extraordinairement ténu, par rapport à toute forme d'état de la matière observable sur Terre. Il s'agit pourtant d'une zone très dense de gaz et de poussière, à l'échelle interstellaire. Un corps de taille métrique en orbite en son sein met moins de 10 Ma pour tomber sur la proto-étoile, en dissipant son énergie gravitationnelle par frottements.
+C'est dans cet intervalle que vont pouvoir se former des planètes.
+
+
+=== Phase A : formation des flocules centimétriques ===
+Au départ, le nuage possède une opacité non négligeable sur une épaisseur de l'ordre de 10 à 30 UA. La poussière responsable de cette opacité tombe doucement, à une vitesse de un à dix mètres par seconde, au sein du gaz ténu, vers le plan de révolution. En 10 000 ans environ, la proto-étoile se dote d'un disque fin de poussières (quelques kilomètres d'épaisseur) enserré dans une galette de gaz qui garde presque son épaisseur initiale. La poussière, durant sa chute au sein d'un gaz turbulent, forme au hasard des flocules qui peuvent atteindre des tailles centimétriques (10 000 fois plus gros que les poussières). L'agrégation résulte des simples forces de contacts entre grains.
+
+
+=== Phase B : formation des planétésimaux ===
+Avant que ces grumeaux poussiéreux aient atteint une taille kilométrique, ils génèrent une traînée hydrodynamique suffisante pour les faire plonger vers la surface de la jeune étoile en moins d'un siècle (pour un corps d'un mètre situé à une unité astronomique). Il s'agit donc d'une étape critique. La phase de formation allant du centimètre au kilomètre (soit un gain de cinq ordres de grandeur) est une des plus difficilement modélisables, les rencontres au hasard à grande vitesse (plusieurs kilomètres à dizaines de kilomètres par seconde) étant tout autant susceptibles de pulvériser l'agrégat que de former un corps plus massif capable d'encaisser les chocs ultérieurs.
+En raison de sa masse supérieure, un des corps parvient à attirer par gravitation des poussières du sillon planétaire dans un périmètre qui excède son diamètre. À l'issue de ce stade, il peut atteindre le kilomètre et est à la fois attractif pour ce qui l'entoure et résistant en termes de traînée. Il se forme alors un planétésimal, dont le diamètre peut atteindre cinq à dix kilomètres et la masse est de l'ordre de mille milliards de tonnes. Il deviendra un petit corps (astéroïde ou comète) ou une planète.
+À ce stade, le système est peuplé de milliards de comètes coexistant avec des corps solides de tailles échelonnées du micromètre au kilomètre.
+
+
+=== Phase C : formation des cœurs planétaires ===
+La formation de planète à partir des planétésimaux dure environ 100 000 ans et a fait l'objet de simulations numériques qui en donnent l'image suivante :
+
+au départ, des collisions aléatoires au sein d'un ensemble de milliards de planétésimaux engendrent la croissance de certains aux dépens des autres ;
+dès qu'un planétésimal a gagné une masse largement supérieure à la masse moyenne des planétésimaux voisins, il peut engloutir tout ce qui se trouve dans sa zone d'influence gravitationnelle ;
+une fois le vide fait autour de lui, sa croissance s'arrête faute de matériau : on a alors affaire à un cœur planétaire dont on dit qu'il a atteint sa « masse d'isolation ». À une UA, cette masse d'isolation représente environ le dixième de la masse terrestre et correspond à l'agglomération d'environ un milliard de planétésimaux.
+
+
+=== Phase D : formation des noyaux telluriques ===
+Les simulations numériques montrent que les orbites circulaires des cœurs planétaires sont perturbées par les interactions gravitationnelles mutuelles et ont tendance à devenir elliptiques, ce qui favorise la collision des cœurs et leur croissance par agglomération. Cette phase nettoie également le système en formation des innombrables planétésimaux résiduels qui, s'ils frôlent de trop près les planètes en formation sont détruits par la force de marée ou expulsés dans l'espace interstellaire.
+Dans un disque circumstellaire d'environ un millième de masse solaire, une planète tellurique (ou rocheuse) peut se former en 10 à 100 millions d'années et le scénario qui précède rend compte avec succès de leur formation.
+
+
+=== Phase E : formation des enveloppes gazeuses ===
+Expliquer la formation des planètes gazeuses — quelque 100 000 ans à 1 million d'années — comme Jupiter ou Saturne dans un disque de masse minimal, tel que précédemment défini est plus problématique.
+Les planètes géantes sont sans doute constituées d'un cœur solide (métaux + silicates + glaces planétaires) qui doit ensuite capturer par gravité une enveloppe gazeuse, ce qui nécessite l'atteinte d'une masse critique en deçà de laquelle la pression due à l'énergie libérée par les planétésimaux qui entrent en collision avec le cœur planétaire est suffisante pour s'opposer à l'effondrement gravitationnel du gaz environnant, et l'enveloppe gazeuse reste peu importante. À l'emplacement des géantes gazeuses de notre système, la masse critique est de l'ordre de quinze masses terrestres ce qui correspond à peu près à la masse de Neptune ou d'Uranus.
+Cette masse critique a été atteinte car ces planètes sont au-delà de la ligne des glaces où la quantité de matière solide disponible était plus importante grâce à la condensation de l'hélium et de l'hydrogène qui forment des glaces (méthane CH4, ammoniac NH3, neige carbonique CO2, glace d'eau H2O, etc.).
+Au-delà de la masse critique l'accrétion ne s'arrête qu'après épuisement du gaz disponible dans la fraction du disque où s'est formée la planète, ouvrant ainsi un sillon dans le disque protoplanétaire. Ainsi se forment des géantes gazeuses de la masse de Jupiter (trois cents masses terrestres) ou de Saturne (cent masses terrestres).
+Encore faut-il pour cela que tout le disque ne soit pas déjà retombé sur l'étoile. Or sa durée de vie n'est que de un à quelques dizaines de millions d'années.
+
+Les simulations montrent que pour former des planètes de la masse de Saturne et de Jupiter le disque doit posséder une masse de trois à cinq fois supérieure à la masse minimale suffisante à la formation des planètes telluriques et doit les former en un temps limité par la durée de vie du disque.
+
+
+== Principes de nomination des planètes ==
+Les noms des planètes du Système solaire sont attribués par les commissions de l'Union astronomique internationale (UAI). Celles-ci adoptent de manière cohérente les noms des dieux de la mythologie romaine qui ont été imposés par l'astrolâtrie de la mythologie grecque. En raison de sa couleur rouge, on dénomma la quatrième planète Mars en référence au dieu romain de la guerre (et donc du sang) et, plus récemment, la planète (136199) Éris, déesse de la discorde pour la planète naine dont la découverte a obligé les astronomes à redéfinir la notion de planète au détriment de Pluton, qui ne respecte pas le nouveau critère d'« élimination des rivales ».
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+Thérèse Encrenaz et James Lequeux, L'exploration des planètes : De Galilée à nos jours... et au-delà, Paris, Belin, 2014, 223 p. (ISBN 978-2-7011-6195-2)
+
+
+=== Articles connexes ===
+Astronomie
+Système solaire
+Soleil
+Planètes naines, petits corps du Système solaire (catégories d'objets à côté des planètes)
+Planète interstellaire
+Nébuleuse planétaire (aucunement liée aux planètes dans la réalité)
+SETI (projet Search for Extra-Terrestrial Intelligence)
+Symboles astronomiques
+Terraformation : comment rendre une planète habitable
+UAI : Union astronomique internationale
+PDS 70 b
+
+
+=== Liens externes ===
+(fr) L'Encyclopédie des Planètes extrasolaires de l'Observatoire de Paris.
+(en) Dwarf Planets, plutoids and the Solar System today.
+(fr) Quelques dessins d'exoplanètes sur Alien Worlds.
+(en) Les planètes sur le site de la Nasa.
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Références ===
+
+ Portail de l’astronomie

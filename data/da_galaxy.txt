@@ -1,0 +1,48 @@
+En galakse, (af græsk:γαλαξίας som betyder mælkeagtig), er et komplekst system af stjerner, mørkt stof og interstellart stof, bundet sammen af tyngdekraften. Solen er blot én af mange stjerner i Mælkevejsgalaksen. Solsystemet indeholder Jorden og alle de andre himmellegemer, der kredser om Solen. Mælkevejen er en større galakse med 3-4x1011 (300-400 milliarder) stjerner, hvoraf ca. 73-78% er ret små, lyssvage røde dværge.
+Galakser kan indeholde mange solsystemer, stjernehobe, og forskellige interstellare skyer. Galakser indeholder som minimum mere end 1 million stjerner og har sandsynligvis alle et sort hul i deres center, som visse galakser tilmed roterer om. Galakser er så store, at deres størrelser måles i lysår eller kiloparsec. Mælkevejen har en diameter på 100.000 lysår og en tykkelse på 1.000 lysår.
+
+En galakses relative bevægelsesretning og radialhastighed kan bestemmes ud fra forskydningen af dens lysfrekvens på grund af dopplereffekten.
+Det er ændringen af lysets bølgelængde (farve), set fra observationspunktet, der benyttes til at bestemme, om objektet bevæger sig væk fra eller mod observatøren.
+Hvis den observerede galakse udsender lys, der er rødforskudt, betyder det at afstanden øges, og hvis dens lys er blåforskudt formindskes afstanden til observatøren. Rød og blå refererer til det synlige lys, men dopplereffekten gælder alle elektromagnetiske bølgelængder. Til afstandsbestemmelse af galakser benyttes Cepheidemetoden ved observationer af lysstyrken af specielle lysstærke, variable Cepheidestjerner i galakserne.
+Den fjerneste galakse, der er observeret (oktober 2010) er UDFy-38135539 13,1 milliarder lysår borte.
+Galaksehobe er samlinger af galakser, Mælkevejen ligger i en galaksehob der hedder Den lokale galaksegruppe. Galaksehobe er samlet i superhobe og Den lokale galaksegruppe tilhører Virgo-superhoben.
+
+
+== Galaksetyper ==
+
+Historisk set er galakser blevet kategoriseret efter deres udseende. Edwin Hubble var den første der i 1926 lavede et system til klassifikation af galakser efter deres udseende (som han antog var deres egentlige form). Systemet bruges i vid udstrækning den dag i dag og kendes som Hubble sekvensen (eller Hubbles gaffeldiagram). Galaksetyperne i den oprindelige Hubble sekvens var som følger:
+
+Spiralgalakser (Sa, Sb og Sc)
+Bjælkegalakser (SBa, SBb og SBc) – Mælkevejen menes at være en bjælkespiralgalakse.
+Linseformede galakser (S0)
+Elliptiske galakser (E0→E7)
+Irregulære galakser (Ir I og Ir II)En spiralgalakse har form som en flad skive med spiralarme, en elliptisk galakse er ellipseformet og en linseformet galakse er en blanding af spiral- og ellipseform. Irregulære galakser er galakser der ikke har en åbenlys regelmæssig struktur, hverken spiral- eller ellipseform. Bjælkegalaksen er en underkategori af spiralgalaksen.
+Armene i en spiralgalakse kan forstås med tæthedsbølgeteori.
+
+		
+		
+		
+		
+
+		
+		
+Senere udvidelser til Hubbles klassifikationsmodel, kom til at indeholde bl.a. ringgalakser, dværggalakser og aktive galakser, men klassificeringen er ikke længere kun baseret på galaksens form og udseende. Udseendet af galakser afhænger også af afstanden, da fjerne galakser ses, som de så ud da de var meget unge, kortere tid efter Big Bang.
+
+
+== Referencer ==
+
+
+== Eksterne henvisninger ==
+
+Galakser Arkiveret 14. juli 2007 hos  Wayback Machine Tycho Brahe Planetarium
+Galakser Arkiveret 17. marts 2010 hos  Wayback Machine Rummet.dk
+Galakser, om Mælkevejen og Universets store strukturer Arkiveret 17. marts 2009 hos  Wayback Machine Rundetaarn.dk
+Stars, Galaxies, and Cosmology Arkiveret 24. februar 2010 hos  Wayback Machine University of Tennessee (engelsk)
+News Release Archive Galaxy Arkiveret 4. juni 2003 hos  Wayback Machine Hubblesite.org (engelsk)
+GALAXIES Arkiveret 17. marts 2010 hos  Wayback Machine University of Cambridge (engelsk)
+Dark Energy, Dark Matter Arkiveret 19. januar 2016 hos  Wayback Machine (engelsk) science.nasa.gov
+
+
+=== Freeware software simulatorer ===
+Celestia Arkiveret 16. oktober 2013 hos  Wayback Machine
+OpenUniverse: A Free Space Simulator Arkiveret 14. august 2010 hos  Wayback Machine

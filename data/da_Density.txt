@@ -1,0 +1,121 @@
+Massefylde er forholdet mellem et stofs masse og dets rumfang. Massefylde er altså massen per rumfang. En liter vand har større tæthed end en liter luft og derved større massefylde.
+Massefylde omtales også som densitet eller massetæthed. Vægtfylde er en ældre betegnelse, som dog stadig er i almindelig brug uden for fagkredse, og rumvægt anvendes udelukkende som kornmål. Massefylde betegnes med det græske bogstav (Rho) 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  .
+Massefylden er temperaturafhængig, da de fleste stoffer i nogen udstrækning udvider sig ved opvarmning og trækker sig sammen ved afkøling, uden at massen ændres. For gassers vedkommende er massefylden også trykafhængig, idet (ideale) gassers volumen er proportionalt med produktet af tryk og temperatur. Når man angiver massefylden, bør man derfor også altid angive ved hvilken temperatur, og for gassers vedkommende tillige ved hvilket tryk, massefylden er målt. Tidligere benyttede man et aræometer til at måle massefylden.
+
+
+== Beregning ==
+Rumfanget er volumen og angives i liter, kubikmeter eller andre enheder til måling af rumfang.
+Massen angives som gram, kilogram eller andre enheder til at måle vægt.
+For at beregne massefylden benyttes en formel:
+
+  
+    
+      
+        
+          m
+          a
+          s
+          s
+          e
+          f
+          y
+          l
+          d
+          e
+        
+        =
+        
+          
+            
+              m
+              a
+              s
+              s
+              e
+            
+            
+              r
+              u
+              m
+              f
+              a
+              n
+              g
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {massefylde} ={\mathrm {masse}  \over \mathrm {rumfang} }}
+  Rumfang/volumen betegnes som V
+Masse betegnes som m
+Massefylde betegnes som 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  
+  
+    
+      
+        ρ
+        =
+        
+          
+            m
+            V
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {m}{V}}}
+  Hvor m = masse (kg)
+og V = volume (m3)
+
+Eller ved mindre mængder:
+m = masse (g)
+V = volume (cm3)
+
+
+== Arkimedes ==
+
+Hvis et stofs massefylde er mindre end en væskes massefylde, kan stoffet flyde på væskeoverfladen. Hvis stoffet har en større massefylde, synker det ned i bunden af væsken. Der ses bort fra væskens overfladespænding. Denne opdrift kaldes Arkimedes' princip efter den græske matematiker og fysiker Arkimedes.
+Arkimedes skulle finde ud af hvor meget guld der var i kong Hieron 2's kongekrone. Kongen mistænkte guldsmeden for at snyde ved at benytte halvdelen af det guld han havde fået af kongen og i stedet benyttet sølv. Hvis man kunne bestemme densiteten, kunne man afgøre om der var sølv i kongekronen, da sølv er lettere end guld, men massefylden kan ikke alene findes ved vejning, man må også kende rumfanget. Historien fortæller at Arkimedes fandt løsningen mens han var i bad. Hvis han sænkede kongekronen ned i badekarret skulle mængden af vand stige og rumfanget af kongekronen ville være lig med rumfanget af stigningen. På den måde kunne han beregne massefylden af kongekronen som vægten divideret med rumfanget. Da sølv har en mindre massefylde end guld kunne Arkimedes konstatere at guldsmeden havde snydt kongen.
+En anden måde at gøre det på er at balancere kongekronen og rent guld på en vægt. Ved nedsænkning i vand, vil der være en større opdrift på kongekronen, hvis der er blandet sølv i (se billedet). Denne erkendelse førte til formuleringen af Arkimedes' lov: Når et legeme sænkes ned i vandet, taber det lige så meget i vægt, som den fortrængte væske vejer (Arkimedes' lov, ca. 250 f.kr.).
+
+
+== Forskellige stoffers massefylde og ydergrænser ==
+Sorteret efter stoftype og dernæst massefylde:
+
+
+== Se også ==
+Amedeo Avogadro
+
+
+== Kilder, referencer og eksterne henvisninger ==
+B. Østergaard Pedersen, Fysik og Kemi leksikon : Håndbog i naturlære (1988) Odense : Skandinavisk bogforlag , ISBN 87-7501-109-3Massefylde – Vand
+Duffield Timber – wood importer and sawmiller (engelsk)
+Chemical & Physical Resistance Data for Fibres (engelsk)
+The Physics Factbook f.eks.: (engelsk)
+Density of Concrete
+Density of Wood
+natural-stone.com, Stonetips (engelsk)
+Rebuttal of North and Nieto. Martin Selbrede. Hypotetisk maximons middelmassefylde. (engelsk)
+The Element Radon (engelsk)
+Sound Absorption. alulight international Citat: "...is non inflammable and does not release toxic gases..." (engelsk)
+Flydende vands massefylde som funktion af temperaturen (engelsk)
+Gas density (engelsk)
+List of Periodic Table Elements Sorted by Density (engelsk)
+Lava Pimpsten  (Website ikke længere tilgængelig) (engelsk)
+COLLAPSING STARS (doc) Atomkernemassefylde.  (Website ikke længere tilgængelig) (engelsk)

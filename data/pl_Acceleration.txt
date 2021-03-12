@@ -1,0 +1,1118 @@
+Przyspieszenie – wektorowa wielkość fizyczna wyrażająca zmianę wektora prędkości w czasie.
+Przyspieszenie definiuje się jako pochodną prędkości po czasie, czyli jest szybkością zmiany prędkości. Jeśli przyspieszenie jest skierowane przeciwnie do zwrotu prędkości ruchu, to wartość prędkości w tym ruchu maleje, a przyspieszenie to jest wtedy nazywane opóźnieniem.
+
+
+== Definicja ==
+
+Jeżeli dany wektor 
+  
+    
+      
+        
+          
+            
+              r
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {r}}}
+   określa położenie punktu materialnego, a wektor 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+   określa prędkość tego punktu, to jego przyspieszenie 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+   jest pochodną prędkości po czasie:
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {a}}={\frac {d{\vec {v}}}{dt}}.}
+  Ponieważ prędkość z kolei jest pochodną położenia po czasie, to przyspieszenie można zapisać jako drugą pochodną położenia po czasie:
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                
+                  
+                    r
+                    →
+                  
+                
+              
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {a}}={\frac {d^{2}{\vec {r}}}{dt^{2}}}.}
+  Jednostką przyspieszenia w układzie SI jest metr na sekundę do kwadratu.
+
+  
+    
+      
+        [
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ]
+        =
+        
+          
+            m
+            
+              s
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle [{\vec {a}}]=\mathrm {\frac {m}{s^{2}}} .}
+  
+
+
+== Związek z dynamiką ==
+Zgodnie z drugą zasadą dynamiki przyspieszenie 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+   ciała jest proporcjonalne do wypadkowej siły 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}}
+   działającej na to ciało i odwrotnie proporcjonalne do masy ciała 
+  
+    
+      
+        m
+        .
+      
+    
+    {\displaystyle m.}
+   Kierunek i zwrot przyspieszenia 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+   pokrywa się z kierunkiem i zwrotem siły 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {F}}.}
+   Wzór wyrażający tę zależność ma postać
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                F
+                →
+              
+            
+            m
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {a}}={\frac {\vec {F}}{m}}.}
+  
+
+
+== W ruchu prostoliniowym ==
+W ruchu po linii prostej kierunek prędkości jest ustalony, więc można ją traktować tak jak wielkość skalarną. Wówczas przyspieszenie określa wzór:
+
+  
+    
+      
+        a
+        =
+        
+          
+            
+              d
+              v
+            
+            
+              d
+              t
+            
+          
+        
+        .
+      
+    
+    {\displaystyle a={\frac {dv}{dt}}.}
+  
+
+
+=== W ruchu jednostajnie zmiennym ===
+Gdy przyspieszenie jest stałe (
+  
+    
+      
+        a
+        =
+        
+          c
+          o
+          n
+          s
+          t
+        
+      
+    
+    {\displaystyle a=\mathrm {const} }
+  ), wzór definicyjny przybiera postać
+
+  
+    
+      
+        a
+        =
+        
+          
+            
+              Δ
+              v
+            
+            
+              Δ
+              t
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle a={\frac {\Delta v}{\Delta t}},}
+  gdzie 
+  
+    
+      
+        Δ
+        v
+      
+    
+    {\displaystyle \Delta v}
+   jest przyrostem prędkości w czasie 
+  
+    
+      
+        Δ
+        t
+        .
+      
+    
+    {\displaystyle \Delta t.}
+  
+
+
+== Przyspieszenie w ruchu krzywoliniowym ==
+
+Jeżeli punkt porusza się po torze krzywoliniowym, wówczas jego całkowite przyspieszenie może być rozłożone na dwie składowe: prostopadłą do toru ruchu zwaną przyspieszeniem dośrodkowym lub normalnym (oznaczanym 
+  
+    
+      
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}_{n}}
+  ) i składową równoległą do toru, zwaną przyspieszeniem stycznym (ozn. 
+  
+    
+      
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}_{t}}
+  ).
+Wektor 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+   przyspieszenia całkowitego jest sumą jego składowych – normalnej 
+  
+    
+      
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}_{n}}
+   i stycznej 
+  
+    
+      
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            t
+          
+        
+        
+          :
+        
+      
+    
+    {\displaystyle {\vec {a}}_{t}{:}}
+  
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            n
+          
+        
+        +
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            t
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {a}}={\vec {a}}_{n}+{\vec {a}}_{t}.}
+  Składowe – styczna i normalna – są wzajemnie prostopadłe i dlatego wartość przyspieszenia całkowitego jest równa:
+
+  
+    
+      
+        
+          |
+        
+        
+          
+            
+              a
+              →
+            
+          
+        
+        
+          |
+        
+        =
+        
+          
+            
+              |
+            
+            
+              
+                
+                  
+                    a
+                    →
+                  
+                
+              
+              
+                n
+              
+            
+            
+              
+                |
+              
+              
+                2
+              
+            
+            +
+            
+              |
+            
+            
+              
+                
+                  
+                    a
+                    →
+                  
+                
+              
+              
+                t
+              
+            
+            
+              
+                |
+              
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle |{\vec {a}}|={\sqrt {|{\vec {a}}_{n}|^{2}+|{\vec {a}}_{t}|^{2}}}.}
+  
+
+
+=== Przyspieszenie dośrodkowe (normalne) ===
+Jest to składowa przyspieszenia prostopadła do toru ruchu. Reprezentuje tę część przyspieszenia, która wpływa na zmianę kierunku prędkości, a zatem na kształt toru, ale nie wpływa na zmianę wartości prędkości. Jeżeli prędkość chwilowa oznaczona jest jako 
+  
+    
+      
+        v
+        ,
+      
+    
+    {\displaystyle v,}
+   a chwilowy promień zakrzywienia toru (promień okręgu stycznego do toru, czyli promień krzywizny toru) ruchu wynosi 
+  
+    
+      
+        r
+        ,
+      
+    
+    {\displaystyle r,}
+   to wartość 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle a_{n}}
+   przyspieszenia dośrodkowego ciała jest równa:
+
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+        =
+        
+          
+            
+              v
+              
+                2
+              
+            
+            r
+          
+        
+        .
+      
+    
+    {\displaystyle a_{n}={\frac {v^{2}}{r}}.}
+  
+
+
+=== Przyspieszenie styczne ===
+Jest to składowa przyspieszenia styczna do toru ruchu, powodująca zmianę wartości prędkości, ale nie powodująca zmiany kierunku ruchu. Stosując oznaczenie 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   dla wartości prędkości chwilowej i oznaczenie 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   dla drogi pokonanej przez ciało, przyspieszenie styczne 
+  
+    
+      
+        
+          a
+          
+            t
+          
+        
+      
+    
+    {\displaystyle a_{t}}
+   określają wzory:
+
+  
+    
+      
+        
+          a
+          
+            t
+          
+        
+        =
+        
+          
+            
+              d
+              v
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              s
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle a_{t}={\frac {dv}{dt}}={\frac {d^{2}s}{dt^{2}}}.}
+  
+
+
+== Przyspieszenie kątowe ==
+Przyspieszenie kątowe ciała jest wielkością opisującą jego ruch obrotowy, utworzoną analogicznie do przyspieszenia liniowego, tylko wyrażoną w wielkościach kątowych. Jest pseudowektorem leżącym na osi obrotu i skierowanym zgodnie z regułą śruby prawoskrętnej. Jeśli współrzędną kątową ciała określa kąt 
+  
+    
+      
+        α
+        ,
+      
+    
+    {\displaystyle \alpha ,}
+   a 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   oznacza jego prędkość kątową, to wartość przyspieszenia kątowego 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+   określa wzór
+
+  
+    
+      
+        ε
+        =
+        
+          
+            
+              d
+              ω
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              α
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        
+        [
+        ε
+        ]
+        =
+        
+          
+            1
+            
+              
+                s
+              
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \varepsilon ={\frac {d\omega }{dt}}={\frac {d^{2}\alpha }{dt^{2}}}\quad [\varepsilon ]={\frac {1}{{\text{s}}^{2}}}.}
+  Jednostką przyspieszenia kątowego w układzie SI jest jeden radian przez sekundę do kwadratu.
+
+
+== Dowolne współrzędne krzywoliniowe ==
+Niech współrzędne krzywoliniowe 
+  
+    
+      
+        
+          q
+          
+            1
+          
+        
+        (
+        t
+        )
+        ,
+        
+        
+          q
+          
+            2
+          
+        
+        (
+        t
+        )
+        ,
+        
+        
+          q
+          
+            3
+          
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle q_{1}(t),\,q_{2}(t),\,q_{3}(t)}
+   tworzą układ współrzędnych w przestrzeni 
+  
+    
+      
+        
+          R
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle R^{3}.}
+   Oznaczmy przez 
+  
+    
+      
+        
+          
+            e
+          
+          
+            1
+          
+        
+        ,
+        
+        
+          
+            e
+          
+          
+            2
+          
+        
+        ,
+        
+        
+          
+            e
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \mathbf {e} _{1},\,\mathbf {e} _{2},\,\mathbf {e} _{3}}
+   wersory kierunków stycznych do osi tego układu.
+Jeżeli 
+  
+    
+      
+        
+          a
+        
+      
+    
+    {\displaystyle \mathbf {a} }
+   jest wektorem przyspieszenia, to jego rzuty na osie układu współrzędnych można zapisać wzorami
+
+Ponieważ
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              t
+            
+          
+        
+        (
+        
+          v
+        
+        
+          
+            e
+          
+          
+            i
+          
+        
+        )
+        =
+        
+          
+            
+              
+                v
+              
+              ˙
+            
+          
+        
+        
+          
+            e
+          
+          
+            i
+          
+        
+        +
+        
+          v
+        
+        
+          
+            d
+            
+              d
+              t
+            
+          
+        
+        
+          
+            e
+          
+          
+            i
+          
+        
+        
+        ⟶
+        
+        
+          
+            
+              
+                v
+              
+              ˙
+            
+          
+        
+        
+          
+            e
+          
+          
+            i
+          
+        
+        =
+        
+          
+            d
+            
+              d
+              t
+            
+          
+        
+        (
+        
+          v
+        
+        
+          
+            e
+          
+          
+            i
+          
+        
+        )
+        −
+        
+          v
+        
+        
+          
+            d
+            
+              d
+              t
+            
+          
+        
+        
+          
+            e
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle {\frac {d}{dt}}(\mathbf {v} \mathbf {e} _{i})={\dot {\mathbf {v} }}\mathbf {e} _{i}+\mathbf {v} {\frac {d}{dt}}\mathbf {e} _{i}\quad \longrightarrow \quad {\dot {\mathbf {v} }}\mathbf {e} _{i}={\frac {d}{dt}}(\mathbf {v} \mathbf {e} _{i})-\mathbf {v} {\frac {d}{dt}}\mathbf {e} _{i}}
+  zatem
+
+Na podstawie wzoru dla prędkości
+
+mamy
+
+i dzięki temu
+
+Mamy również
+
+oraz
+
+Z porównania prawych stron (5) i (6) wynika, że
+
+Mamy zatem
+
+Po podstawieniu (5) i (9) do (2) otrzymujemy następujące wzory dla rzutów 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+      
+    
+    {\displaystyle a_{i}}
+   wektora przyspieszenia 
+  
+    
+      
+        
+          a
+        
+      
+    
+    {\displaystyle \mathbf {a} }
+   na osie krzywoliniowego układu współrzędnych
+
+
+== Pomiar ==
+Do pomiaru służy przetwornik przyspieszenia nazywany przyspieszeniomierzem lub akceleromierzem czy akcelerometrem.
+
+
+== Zobacz też ==
+grawitacja
+prędkość
+przyspieszenie dośrodkowe
+przyspieszenie grawitacyjne
+przyspieszenie ziemskie
+zryw – zmiana przyspieszenia w czasie
+
+
+== Przypisy ==

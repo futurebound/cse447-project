@@ -1,0 +1,17 @@
+Valovuosi on matka, jonka valo kulkee yhdessä vuodessa, noin 9,46 biljoonaa kilometriä. Valovuotta käytetään pituusmittana tähtitieteessä, lyhenteenä vv tai ly (engl. sanoista light year). Esimerkiksi etäisyys Auringosta lähimpiin tähtiin on muutama valovuosi, Linnunradan läpimitta on n. 100 000 vv, ja kaukaisimmat havaitut kvasaarit ovat yli 10 miljardin valovuoden päässä maapallosta.
+
+
+== Valovuoden täsmällinen pituus ==
+Kansainvälinen tähtitieteellinen unioni IAU on määritellyt valovuoden täsmällisemmin etäisyytenä, jonka valo kulkee syvässä avaruudessa kaukana painovoima- tai magneettikentistä yhden juliaanisen vuoden eli 365,25 vuorokauden aikana, joista jokaiseen luetaan tarkalleen 86 400 SI-järjestelmän mukaista sekuntia. Määritelmässä käytetty juliaaninen vuosi (365,25 vuorokautta) vastaa juliaanisen kalenterin kalenterivuosien keskimääräistä pituutta. 
+Koska lisäksi metri on määritelty valonnopeuden avulla, joka määritelmän mukaan on tarkalleen 299 792 458 m/s, on myös valovuoden pituus metreinä tarkalleen määrätty: se on 365,25 · 86400 s · 299 792 458 m/s = 9 460 730 472 580 800 metriä. Usein sille käytetään likiarvoa 9,46 petametriä eli 9 460 biljoonaa metriä, tai tieteellistä merkintätapaa käyttäen 9,46 · 1015 metriä.
+
+
+== Valovuosi ja parsek ==
+Valovuotta käytetään pituuden yksikkönä lähinnä tieteen popularisoinnissa. Tähtitieteen tieteellisissä esityksissä käytetään etäisyyden yksikkönä parallaksisekuntia eli parsekia, joka on noin 3,26 valovuotta.
+
+
+== Muita samankaltaisia pituusyksiköitä ==
+Toisinaan käytetään pituuden yksiköitä valosekunti, valominuutti jne., joilla tarkoitetaan valon kulkemaa matkaa kyseisessä ajassa. Esimerkiksi Maan etäisyys Auringosta on noin 8 valominuuttia ja 20 valosekuntia, ts. valo kulkee Auringosta Maahan noin 8 minuutissa ja 20 sekunnissa.
+
+
+== Lähteet ==

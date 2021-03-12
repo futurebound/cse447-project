@@ -1,0 +1,61 @@
+Doppler-ilmiö on aaltoliikkeen taajuudessa, vaiheessa tai aallonpituudessa tapahtuva näennäinen muutos, joka johtuu aaltojen lähteen ja havaitsijan liikkeestä toisiinsa nähden. Lähestyvä kohde painaa lähettämiään impulsseja lyhyemmiksi, etääntyvä vetää ne pidemmiksi. Ilmiön selitti Christian Doppler vuonna 1842.
+Doppler-ilmiön tunnetuimmat muodot ovat akustiikassa havaittu äänen taajuuden muutos äänilähteen, esimerkiksi hälytysajoneuvon, liikkuessa kohti tai poispäin, tähtitieteestä tuttu punasiirtymä sekä poliisin ja säähavainnoitsijoiden käyttämä dopplertutka.
+Lähestyvä äänilähde kuulostaa kimeämmältä kuin etääntyvä, esimerkiksi etääntyvä suihkukone päästää matalaa jyrinää.
+Punasiirtymässä kohteen valo punertuu, kun se etääntyy, sillä etääntyvä kohde vetää valoaaltoja pidemmiksi. Punainen valoaalto on pidempi kuin sininen.
+Sinisiirtymässä kohteen säteilemä valo siirtyy siniseen kohteen lähestyessä.
+Ilmiö on ehkä helpoin ymmärtää analogian kautta. Ajattele, että joku heittää lumipalloja sinua kohti sekunnin välein. Jos pysyt paikallasi, ne myös osuvat sekunnin välein – osumataajuus on yksi hertsi, sanoisi fyysikko. Ilmassa on silloin yhtaikaa useita lumipalloja. Jos juokset kohti heittäjää, sinuun osuu palloja useammin kuin kerran sekunnissa, koska keräät vartaloosi palloja jotka olivat vasta matkalla kohti alkuperäistä asemapaikkaasi. Vastaavasti juostessasi poispäin palloja osuu harvemmin. 
+Tapauksessa, jossa kuulija liikkuu kohti äänilähdettä ja äänilähde liikkuu kohti kuulijaa, uusi taajuus saadaan laskemalla kaavasta
+
+  
+    
+      
+        f
+        =
+        
+          f
+          
+            0
+          
+        
+        
+          
+            
+              v
+              +
+              
+                v
+                
+                  k
+                
+              
+            
+            
+              v
+              −
+              
+                v
+                
+                  l
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle f=f_{0}{\frac {v+v_{\text{k}}}{v-v_{\text{l}}}},}
+  
+missä f0 on alkuperäinen taajuus, v äänen nopeus, vk kuulijan nopeus ja vl äänilähteen nopeus.
+
+
+== Katso myös ==
+
+Dopplertutka
+Punasiirtymä
+
+
+== Aiheesta muualla ==
+Tieteen termipankki: Dopplerin ilmiö
+Turun yliopisto: Dopplerin ilmiö
+Otavan Opisto, Mika Letonsaari: Doppler-ilmiö

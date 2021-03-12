@@ -1,0 +1,522 @@
+Gęstość (masa właściwa) – stosunek masy pewnej ilości substancji do zajmowanej przez nią objętości.
+W przypadku substancji jednorodnych porcja ta może być wybrana dowolnie; Jeśli masa równa jest 
+  
+    
+      
+        m
+        ,
+      
+    
+    {\displaystyle m,}
+   a jej objętość wynosi 
+  
+    
+      
+        V
+        ,
+      
+    
+    {\displaystyle V,}
+   to gęstość substancji wynosi:
+
+  
+    
+      
+        ρ
+        =
+        
+          
+            m
+            V
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {m}{V}}}
+  i nie zależy od wyboru próbki.
+W przypadku substancji niejednorodnych gęstość nie jest stała w przestrzeni i określana jest dla każdego punktu z osobna; definiuje się ją jak wyżej, przy założeniu, że wybrana porcja substancji, obejmująca dany punkt, jest jak najmniejsza. Wybierając próbkę w otoczeniu danego punktu otrzymujemy gęstość w tym punkcie jako granicę stosunku masy próbki 
+  
+    
+      
+        d
+        m
+      
+    
+    {\displaystyle dm}
+   do jej objętości 
+  
+    
+      
+        d
+        v
+      
+    
+    {\displaystyle dv}
+   przy rozmiarach próbki dążących do zera:
+
+  
+    
+      
+        ρ
+        =
+        
+          
+            
+              d
+              m
+            
+            
+              d
+              V
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \rho ={\frac {dm}{dV}}.}
+  Jednostką gęstości w układzie SI jest kilogram na metr sześcienny – kg/m³. Inne jednostki to m.in. kilogram na litr – kg/l oraz gram na centymetr sześcienny – g/cm³ (w układzie CGS).
+Gęstość większości substancji jest zależna od panujących warunków, w szczególności od temperatury i ciśnienia. W związku z tym w tablicach opisujących właściwości materiałów podaje się ich gęstość zmierzoną w określonych warunkach; przeważnie są to warunki standardowe lub normalne. Znajomość gęstości pozwala na obliczenie masy określonej objętości substancji. Dla substancji jednorodnej zachodzi
+
+  
+    
+      
+        m
+        =
+        ρ
+        V
+        ,
+      
+    
+    {\displaystyle m=\rho V,}
+  a dla ciał niejednorodnych
+
+  
+    
+      
+        m
+        =
+        
+          ∫
+          
+            V
+          
+        
+        ρ
+        
+        
+          d
+        
+        V
+        .
+      
+    
+    {\displaystyle m=\int _{V}\rho \,\mathrm {d} V.}
+  Gęstość ciał stałych i ciekłych można wyznaczyć przez ważenie próbek o znanej objętości. Przy wyznaczaniu gęstości cieczy stosuje się również areometry. Areometry wypełnione cieczą o znanej gęstości mogą służyć do wyznaczania gęstości innych cieczy. Przy wyznaczaniu gęstości gazów stosuje się między innymi ważenie naczyń z gazem o różnym ciśnieniu gazu.
+Gęstość większości substancji zmniejsza się wraz ze wzrostem temperatury (jednym z wyjątków jest woda w temperaturze poniżej 4 °C). Zjawisko to wynika z rozszerzalności cieplnej ciał. Podczas przemian fazowych gęstość zmienia się skokowo (w temperaturze przemiany), podczas krzepnięcia zazwyczaj wzrasta (najbardziej znanymi wyjątkami są woda, żeliwo, a z pierwiastków bizmut, gal i german).
+Spośród pierwiastków, w warunkach normalnych, największą gęstość mają osm (22 600 kg/m³) oraz iryd (22 400 kg/m³), dla porównania gęstość ołowiu jest dwukrotnie mniejsza.
+
+
+== Gęstość a ciężar właściwy ==
+W odróżnieniu od ciężaru właściwego gęstość nie zależy od siły ciążenia; w warunkach nieważkości gęstość pozostaje taka sama jak w warunkach ciążenia (podobnie jak masa), a ciężar właściwy wynosi wtedy zero (podobnie jak siła ciężkości).
+
+
+== Gęstość a lepkość ==
+Określenie gęstość jest potocznie używane do określania lepkości; w znaczeniu technicznym lepkość i gęstość opisują inne wielkości (przykładowo woda ma większą gęstość od mineralnego oleju smarnego, ale mniejszą lepkość).
+
+
+== Gęstość ciał stałych ==
+Gęstość ciał stałych w (kg/m³) w 20 °C
+
+
+== Gęstość cieczy ==
+Gęstość cieczy w (kg/m³) w 22 °C
+
+aceton – 790
+alkohol etylowy – 790
+alkohol metylowy – 790
+benzen – 880
+benzyna – 700
+eter etylowy – 716
+krew ludzka – 1050
+kwas azotowy – 1410
+kwas octowy – 1050
+kwas siarkowy – 1840
+kwas solny – 1190
+mleko – 1030
+nafta – 810
+oliwa – 920
+olej rycynowy – 950
+rtęć – 13546
+toluen – 870
+woda – 997,8
+
+
+== Gęstość gazów ==
+Gęstości gazów w (kg/m³) w 20 °C pod ciśnieniem normalnym
+acetylen – 1,16
+amoniak – 0,76
+argon – 1,780
+azot – 1,25
+butan – 2,703
+chlor – 3,21
+chlorowodór – 1,64
+deuter – 0,188
+dwutlenek azotu – 2,05
+dwutlenek siarki – 2,83
+dwutlenek węgla – 1,96
+etan – 1,32
+fluor – 1,69
+hel – 0,178
+jodowodór – 5,245
+ksenon – 5,396
+metan – 0,71
+powietrze – 1,20
+propan – 2,019
+siarkowodór – 1,529
+sześciofluorek siarki – 5,971
+tlen – 1,43 (0 °C)
+tlenek węgla – 1,16 (21,1 °C)
+wodór – 0,08989
+
+
+== Średnia gęstość Wszechświata ==
+Gęstość krytyczna
+  
+    
+      
+        
+          ρ
+          
+            c
+          
+        
+        =
+        
+          
+            
+              3
+              
+                H
+                
+                  0
+                
+                
+                  2
+                
+              
+            
+            
+              8
+              π
+              G
+            
+          
+        
+      
+    
+    {\displaystyle \rho _{c}={\frac {3H_{0}^{2}}{8\pi G}}}
+  gdzie 
+  
+    
+      
+        
+          H
+          
+            0
+          
+        
+      
+    
+    {\displaystyle H_{0}}
+   – stała Hubble’a, 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   – stała grawitacji.
+
+Obecna średnia gęstość materii (nierelatywistycznej)
+  
+    
+      
+        
+          ρ
+          
+            m
+          
+        
+        =
+        
+          Ω
+          
+            m
+          
+        
+        
+        
+          ρ
+          
+            c
+          
+        
+        ,
+      
+    
+    {\displaystyle \rho _{m}=\Omega _{m}\;\rho _{c},}
+  gdzie 
+  
+    
+      
+        
+          Ω
+          
+            m
+          
+        
+      
+    
+    {\displaystyle \Omega _{\text{m}}}
+   jest parametrem gęstości materii we Wszechświecie (gęstością wyrażoną w jednostkach gęstości krytycznej).
+
+Dane z 2007:
+  
+    
+      
+        
+          Ω
+          
+            m
+          
+        
+        ≈
+        0
+        
+          ,
+        
+        24
+      
+    
+    {\displaystyle \Omega _{m}\approx 0{,}24}
+   i 
+  
+    
+      
+        
+          H
+          
+            0
+          
+        
+        ≈
+        73
+        
+        
+          
+            
+              k
+              m
+            
+            
+              s
+              ⋅
+              M
+              p
+              c
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle H_{0}\approx 73\;\operatorname {\frac {km}{s\cdot Mpc}} ,}
+  stąd 
+  
+    
+      
+        
+          ρ
+          
+            m
+          
+        
+        ≈
+        2
+        
+          ,
+        
+        4
+        ×
+        
+          10
+          
+            −
+            27
+          
+        
+        
+        
+          
+            kg/m
+          
+          
+            3
+          
+        
+        =
+        2
+        
+          ,
+        
+        4
+        ×
+        
+          10
+          
+            −
+            30
+          
+        
+        
+        
+          
+            g/cm
+          
+          
+            3
+          
+        
+        ,
+      
+    
+    {\displaystyle \rho _{m}\approx 2{,}4\times 10^{-27}\,{\text{kg/m}}^{3}=2{,}4\times 10^{-30}\,{\text{g/cm}}^{3},}
+   tzn. mniej niż dwa protony (średnio) w jednym metrze sześciennym,
+z obserwacji wnioskuje się też o istnieniu we Wszechświecie ciemnej energii (stałej kosmologicznej) o parametrze gęstości
+  
+    
+      
+        
+          Ω
+          
+            Λ
+          
+        
+        ≈
+        0
+        
+          ,
+        
+        76
+        ,
+      
+    
+    {\displaystyle \Omega _{\Lambda }\approx 0{,}76,}
+  
+co odpowiada gęstości wynoszącej
+
+  
+    
+      
+        
+          ρ
+          
+            Λ
+          
+        
+        ≈
+        7
+        
+          ,
+        
+        6
+        ×
+        
+          10
+          
+            −
+            27
+          
+        
+        
+        
+          
+            kg/m
+          
+          
+            3
+          
+        
+        =
+        7
+        
+          ,
+        
+        6
+        ×
+        
+          10
+          
+            −
+            30
+          
+        
+        
+        
+          
+            g/cm
+          
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle \rho _{\Lambda }\approx 7{,}6\times 10^{-27}\,{\text{kg/m}}^{3}=7{,}6\times 10^{-30}\,{\text{g/cm}}^{3}.}
+  
+
+
+== Zobacz też ==
+gęstość bezwzględna
+gęstość bombardowania
+gęstość częstości
+gęstość elektronowa
+gęstość energii
+gęstość liczebności
+gęstość ładunku
+gęstość liniowa
+gęstość minerału
+gęstość nasypowa
+gęstość obezwładniania
+gęstość optyczna
+gęstość Plancka
+gęstość populacji
+gęstość potencjalna
+gęstość powietrza
+gęstość prawdopodobieństwa
+gęstość prądu elektrycznego
+gęstość rażenia obiektu
+gęstość sieci drogowej
+gęstość sieci kolejowej
+gęstość sieci rzecznej
+gęstość skażenia
+gęstość stanów
+gęstość strumienia ciepła
+gęstość (wojsko)
+gęstość względna
+gęstość zaludnienia
+gęstość zapisu
+gęstość zapór
+gęstość zmiennej losowej
+zadrzewienie
+zagęszczenie populacji
+
+
+== Przypisy ==
+
+
+== Bibliografia ==
+Tablice matematyczne, fizyczne, chemiczne i astronomiczne. Warszawa: Wydawnictwa Szkolne i Pedagogiczne, 1974, s. 156.

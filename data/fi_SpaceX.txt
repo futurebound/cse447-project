@@ -1,0 +1,132 @@
+SpaceX (eli Space Exploration Technologies Corporation) on yhdysvaltalainen yksityinen avaruusalan yritys. Se valmistaa ja operoi avaruusraketteja ja -aluksia ja kehittää satelliitti-internet järjestelmää. 
+Yrityksen kehittämiin tuotteisiin kuuluvat osittain uudelleenkäytettävät Falcon 9 ja Falcon Heavy-kantoraketit sekä Dragon-avaruusalus, jonka toinen versio on miehitetty. 
+SpaceX:n perusti PayPal-maksujärjestelmän osaperustaja ja Tesla Motorsin toimitusjohtaja Elon Musk vuonna 2002, tavoitteenaan kehittää täysin uudelleenkäytettävä kantoraketti ja luoda ihmiskunnalle pysyvä, Maan resursseista riippumaton yhteiskunta Marsin pinnalle. 
+Elon Muskin mukaan SpaceX pystyy asuttamaan Marsin ja rakentamaan Kuuhun tukikohdan. SpaceX:n aikeissa on tehdä miehitetty Mars-lento 2020-luvun aikana.
+Syyskuussa 2018 SpaceX ilmoitti löytäneensä ensimmäiselle kaupalliselle kuulennolle osallistuvan astronautin, japanilaisen miljardöörin Yusaku Maezawan, Kuulento on määrä lentää vuonna 2023. Lento olisi ensimmäisiä kehitteillä olevan BFR-aluksen lentoja. Yrityksellä oli noin 8 000 työntekijää toukokuussa 2020.
+
+
+== Historiaa ==
+
+SpaceX:n perusti Elon Musk toukokuussa 2002. Hän investoi yritykseen varojaan 100 miljoonaa dollaria maaliskuussa 2006. 4. elokuuta 2008 SpaceX hyväksyi 20 miljoonaa dollaria lisärahoitusta The Founders Fundilta.Tammikuussa 2005 SpaceX osti kymmenen prosentin osuuden Surrey Satellite Technologystä.Huhtikuussa 2011 NASA, Yhdysvaltain ilmavoimat ja NRO solmivat puite- tai aiesopimuksen SpaceX:n kanssa.
+
+
+== Tuotteet ==
+SpaceX:n kehitteillä olevat tuotteet ovat miehitetty Dragon V2 -avaruusalus sekä Interplanetary Transport System.
+Toukokuussa 2005 SpaceX ilmoitti saaneensa Yhdysvaltain ilmavoimien kanssa aikaan IDIQ-sopimuksen, jonka mukaan ilmavoimat voisi ostaa enimmillään 100 miljoonalla dollarilla laukaisuja yritykseltä. NASA ilmoitti 22. huhtikuuta 2008 solmineensa SpaceXn kanssa IDIQ-sopimuksen. Sopimus on arvoltaan 0,020 – 1 000 miljoonaa dollaria riippuen toteutetuista tehtävistä. Sopimuksen piiriin kuuluu 30. kesäkuuta 2010 mennessä tilatut lennot, jotka laukaistiin joulukuussa 2012.  Samalla Elon Musk ilmoitti, että SpaceX on myynyt kaikkiaan 14 sopimusta Falcon-raketeille.Kesäkuussa 2010 yhtiö voitti noin 500 miljoonan dollarin laukaisusopimuksen uusien Iridium-tietoliikennesatelliittien laukaisemiseksi. Yhden 800 kilogrammaa painavan satelliitin laukaisu 780 kilometriä korkealle radalle maksaa vajaat seitsemän miljoonaa dollaria, joka olisi liian halpa kantoraketin hinta,selvennä mutta yhteislaukaisuilla raketin hinta on samaa suuruusluokkaa kuin Venäjän, Kiinan tai Intian kantorakeissa. Jälkimmäiset kaksi maata olivat vuonna 2010 Yhdysvaltain käyttökieltolistalla yhdysvaltalaisen teollisuuden tukitoimena.Perusrakenteeltaan vastaavan muita Falcon-raketteja vastaavan, kooltaan Falcon 1:n ja Falcon 9:n väliltä olevan Falcon 5 -raketin kehitys keskeytettiin, jotta yhtiö voi keskittyä Falcon 9 -rakettiin.
+
+
+=== Falcon 1 ===
+Falcon 1 on pieni, osittain uudelleenkäytettävä raketti, jonka nostokapasiteetti on 420 kilogrammaa hyötykuormaa matalalle Maan kiertodalle (ratakorkeus 185 kilometriä). Rakettia hyödynnettiin myös suuremman Falcon 9 -raketin ja suunnittelupöydälle jääneen Falcon 5 -raketin kehittämisessä. Falcon 1 saavutti kiertoradan onnistuneesti vasta neljännellä koelaukaisulla 28. syyskuuta 2008. Falcon 1 oli ensimmäinen yksityisesti rahoitettu nesteajoainetta käyttävä raketti, joka pystyy nostamaan satelliitin pysyvälle, mutta hyvin matalalle kiertoradalle. Alle 200 kilometrin ratakorkeus merkitsee käytännössä sitä, että sille nostettu satelliitti ei pysy radallaan kuukausia pidempää vaan putoaa ilmakehään. Kevyemmän satelliitin raketti mahdollisesti pystyy nostamaan pysyvämmälle korkealle kiertoradalle. Raketin ensimmäisen vaiheen uudelleenkäytettävyyden mahdollistivat ensimmäisen ja toisen vaiheen välikappaleeseen (engl. interstage) asetetut laskuvarjot, jotka hidastivat kantoraketin nopeutta ennen sen laskeutumista mereen, josta se voitiin ottaa talteen. Yrityksistä huolimatta ensimmäisen vaiheen uudelleenkäyttö ei koskaan onnistunut, sillä vaiheen pudotessa takaisin maan ilmakehään aerodynaamiset kuormat ja ilman kitkan aiheuttama tuhosivat vaiheen ennen laskeutumista.
+Falcon 1 lensi vain kaksi kertaa onnistuneesti ja viimeisen kerran vuonna 2009, jonka jälkeen kantoraketti poistettiin käytöstä. Tuolloin SpaceX alkoi keskittyä raskaan Falcon 9 -raketin kehitykseen, joka lensikin ensimmäisen kerran jo vuonna 2010.
+
+
+=== Falcon 9 ===
+
+SpaceX ilmoitti 8. syyskuuta 2005 kehittävänsä Falcon 9 -rakettia, jossa olisi yhdeksän Merlin-rakettimoottoria ensimmäisessä vaiheessa. Suunnitelmien mukaan kantoraketti tulisi olemaan Yhdysvaltain ilmavoimien 1990-luvulla kehittämän EELV-luokan kantoraketin kokoinen, eli se on tarkoitettu kilpailemaan yhdysvaltalaisten Delta IV ja Atlas V -rakettien sekä etenkin venäläisen Protonin, Intian GSLV:n ja Kiinan Pitkä marssi -rakettien kanssa. Falcon 9 suunniteltiin olemaan uudelleenkäytettävä ensimmäisen vaiheensa osalta. Toisen vaiheen uudelleenkäyttöä on myös pohdittu, mutta yhtiö ei ole kehittänyt sitä konseptitasoa pidemmälle.
+SpaceX osti lakkautetun Beal Aerospacen rakettitestilaitoksen, Teksasin McGregorissa. Sen 15 meganewtonin staattisen työntövoiman testipenkki muunnettiin Falcon 9:n testaamiseen sopivaksi. Penkissä testattiin yhdeksänmoottorisen Falcon 9 -raketin ensimmäisiä rakettivaiheita ennen lentoja.
+SpaceX aloitti ensimmäiset kokeilut Falcon 9:n ensimmäisen vaiheen kontrolloidulle laskeutumiselle helmikuussa 2012 matalilla, pieninopeuksisilla testilennoilla Grasshopperiksi kutsutulla prototyypillä, joka oli modifioitu Falcon 9:n ensimmäinen vaihe koostuen yhdestä Merlin 1D -moottorista ja kiinteästä laskutelineestä. Grasshopperilla kokeiltiin leijumista matalalla korkeudella moottorin varassa ja hallittua liikettä sivu- ja pystysuunnissa. Grasshopper lensi kaiken kaikkiaan kahdeksan kertaa, joista jokainen oli onnistunut lento. Viimeisen lentonsa Grasshopper teki lokakuussa 2013, lentäen 744 metrin matkan.
+Grasshopperin ohella SpaceX aloitti syyskuussa 2013 sarjan testejä, joissa tavallisten Falcon 9:n lentojen ohessa ensimmäinen vaihe käynnistettettiin uudestaan toisen vaiheen irtauduttua. Näillä demonstroitiin ensimmäisen vaiheen kyky käynnistyä useasti uudestaan yläilmakehässä ja merenpinnan tasolla, muuttaa nopeutta sekä suuntaa ja tehdä hallittu laskeutuminen mereen. Ensimmäinen näistä suoritettiin 29. syyskuuta 2013, toisen vaiheen ja CASSIOPE-hyötykuorman irtauduttua ensimmäisestä vaiheesta.
+Falcon 9 laukaistiin Cape Canaveralista kiertoradalle ensimmäistä kertaa 4. kesäkuuta 2010, lentäen ISS:lle kolmannella lennollaan 25. toukokuuta 2012.Ensimmäinen kontrolloitu laskeutimisyritys meressä kelluvalle autonomiselle ASDS-lautalle suoritettiin Kansainvälisen avaruusaseman CRS-5-rahtilennolla tammikuussa 2015. Toisen vaiheen ja Dragonin irtauduttua ensimmäisestä vaiheesta se aloitti sarjan moottorien käynnistyksiä, jotka tiputtivat sen sivuttaissuuntaista nopeutta ja toivat sen lähemmäksi lauttaa. Laskeutuminen kuitenkin epäonnistui ensimmäisen vaiheen törmätessä lauttaan liian suurella nopeudella. Raketti räjähti törmäyksen seurauksena.
+
+Myöskin seuraavat laskeutumisyritykset johtivat ensimmäisen vaiheen tuhoutumiseen. 11. helmikuuta 2015 SpaceX jälleen yritti saada ensimmäisen vaiheen laskeutumaan DSCOVR-satelliitin laukaisun yhteydessä, mutta seitsenmetriset aallot estivät lautan pääsemisen tapahtumapaikalle, jolloin raketti joutui laskeutumaan mereen, kuitenkin onnistuneesti. Laskeutumista päästiin yrittämään jälleen uudelleen Kansainvälisen avaruusaseman CRS-6-rahtilennolla. Yritys epäonnistui rakettimoottorin ohjausjärjestelmän liian hitaan toiminnan takia, mitä lentotietokoneet eivät pystyneet kompensoimaan, johtaen raketin iskeytymiseen ASDS-lautan pintaan. CRS-7-lennolla ensimmäisen vaiheen laskeutumista ei päästy yrittämään kantoraketin tuhouduttua 139 sekuntia laukaisun jälkeen.
+SpaceX saavutti ensimmäisen onnistuneen laskeutumisen 22. joulukuuta 2015 Orbcomm OG2 M2 -lennolla, kun päivitetyn Falcon 9 FT:n ensimmäinen vaihe laskeutui SpaceX:n LZ-1 laskeutumisalustalle kello 1.29 UTC-aikaa. Ensimmäinen vaihe sammui noin kaksi minuuttia ja 20 sekuntia laukaisun jälkeen, irroten toisesta hetkeä myöhemmin. Toinen vaihe käynnistyi 11 sekuntia myöhemmin. Toinen vaihe teki noin seitsemän ja puolen minuutin polton, ensimmäisen vaiheen laskeutuessa Landing Zone 1 -alustalle Cape Canaveral Air Force Stationiin noin kymmenen minuuttia laukaisusta.OG2-lentoa seuranneen Jason-3-lennon laskeutuminen ASDS-lautalle oli jo lähellä onnistua. Ensimmäisen vaiheen moottorit sammuivat suunnitellusti kaksi minuuttia ja 34 sekuntia laukaisusta, irtaantuen toisesta vaiheesta kolme sekuntia myöhemmin. Ensimmäinen vaihe suoritti kolme polttoa toisen vaiheen lentäessä kiertoradalle - ensimmäinen, Boostback burn, joka siirtää vaiheen oikealle radalle kohti ASDS:ää, suoritettiin noin sata sekuntia vaiheistamisesta, eli noin neljä minuuttia ja 25 sekuntia laukaisusta. Seitsemän minuutin kohdalla laukaisusta ensimmäinen vaihe jälleen käynnisti moottorinsa hidastaakseen nopeutta palatessaan ilmakehään. Tämän jälkeen suoritettu laskeutumispoltto onnistui myös kaavan mukaan, ja Falcon 9:n ensimmäinen vaihe laskeutui ASDS-lautalle noin neljä ja puoli minuuttia laukaisusta. Vaihe kuitenkin alkoi pian laskeutumisen jälkeen kallistua, iskeytyen räjähtäen lautan pintaan. Laskeutumisvideolla näkyy, miten yksi vaiheen neljästä laskeutumistelineestä pettää ja raketti alkaa kallistua. Myöhemmässä tutkinnassa selvisi laskeutumistelineiden lukitusmekanismeihin kondensoituneen kosteuden jäätyneen lennon aikana ja estäneen yhden telineen lukkiutumisen.Laskeutumista ASDS:lle yritettiin jälleen SES-9-lennolla. Viidennellä yrityksellä Falcon 9 Full Thrust -raketti laukaisi SES-9:n onnistuneesti Cape Canaveral Air Force Stationin laukaisukompleksi 40:ltä 4. maaliskuuta kello 23.35 UTC-aikaa. Raketin ensimmäisen vaiheen yhdeksän Merlin 1D -moottoria paloivat kaksi minuuttia ja 36 sekuntia, jonka jälkeen ensimmäinen ja toinen vaihe irtautuivat toisistaan neljä sekuntia moottorien sammumisen jälkeen. Toinen vaihe jatkoi satelliitin viemistä halutulle radalle kuuden minuutin ja 14 sekunnin poltolla, jonka jälkeen sen Merlin 1D Vacuum -tyhjiömoottori sammutettiin ennen toista käynnistystä. Ensimmäisen vaihe aloitti irtautumisen jälkeen laskeutumisyrityksen 600 kilometriä Floridan niemimaasta itään merellä sijaitsevalle ASDS-lautalle. Rakettivaihe teki kaksi paluupolttoa, mutta tuhoutui silti kovassa laskeutumisessa. SES-9-lennon yhteydessä tehty laskeutumisyritys oli tosin muita vastaavia yrityksiä haastavampi korkeiden ratavaatimusten takia.
+
+Seuraavalla lennolla, rahtilento CRS-8:lla laskeutumista merelle yritettiin taas kerran. Laukaisu tapahtui 8. huhtikuuta 2016 kello 20.43 UTC-aikaa Cape Canaveral Air Force Stationin laukaisukompleksi 40:ltä. Ensimmäisen vaiheen moottorit paloivat kaksi ja puoli minuuttia, toisen vaiheen irtauduttua kolme sekuntia ensimmäisen vaiheen moottoreiden sammutuksesta. Toisen vaiheen Merlin 1D Vacuum -moottori käynnistettiin seitsemän sekuntia myöhemmin. Toinen vaihe jatkoi kapselin viemistä halutulle radalle, kun ensimmäinen vaihe teki kolme erillistä paluupolttoa ennen laskeutumistaan ASDS-lautalle. Poltot onnistuivat ja rakettivaihe teki pehmeän laskeutumisen yhden Merlin 1D -moottorin varassa noin 340 kilometriä laukaisupaikalta sijainneelle lautalle, noin kahdeksan minuuttia ja 35 sekuntia lennon alun jälkeen.CRS-8-lennon ollessa lento matalalle Maan kiertoradalle, tätä seurannut JCSAT-14 oli täysin toinen haaste lennon suuntautuessa geostationaariselle siirtoradalle. Verrattuna CRS-8-lentoon, ensimmäinen vaihe palaisi ilmakehään kaksi kertaa suuremmalla nopeudella ja neljä kertaa suuremmalla liike-energialla. Vaiheistamisessa raketin nopeus oli 8 350 kilometriä tunnissa, verrattuna CRS-8-lennon nopeuteen 6 650 kilometriä tunnissa. Lento oli saman kaltainen kuin aikaisemmin maaliskuussa lennetty SES-9, jolloin laskeutumisyritys epäonnistui. JCSAT-14 lennolla SpaceX päätti käyttää normaalin yhden Merlin 1D -moottorin sijasta kolmea vastaavaa laskeutumiseen painovoiman aiheuttaman kiihtyvyyden ja polttoaineen kulutuksen minimoimisiksi. Kaksi minuuttia ja 38 sekuntia JCSAT-14:a laukaisun jälkeen ensimmäisen vaiheen moottorit sammuivat ja kolme sekuntia myöhemmin raketti suoritti vaiheistamisen. Toisen vaiheen puskiessa satelliittia kiertoradalle ensimmäinen vaihe aloitti sarjan polttoja lähestyäkseen ASDS-lauttaa. Ensimmäinen vaihe laskeutui lautalle onnistuneesti kolmella Merlin 1D -moottorilla kahdeksan minuuttia ja 40 sekuntia lennon alkamisesta.
+
+Heinäkuuhun 2019 mennessä Falcon 9 oli lentänyt 74 lentoa, joista neljä on epäonnistunut täysin.
+Elinkaarensa aikana Falcon 9:stä on kehitetty kolme versiota: ensimmäinen versio, versio 1.0 lensi viisi lentoa. Tätä seurannut versio 1.1 teki 15 lentoa ennen Falcon Full Thrustin (F9 FT) kehitystä. 
+Lokakuussa 2016 Elon Musk kertoi Falcon 9 viimeisen version, Block 5:n olevan kehitteillä, ja että se tulisi lentämään ennen vuoden 2017 loppua. Block 5 tulee parantamaan Falcon 9:n toimintavarmuutta, laskeutumistelineitä, tehoa, helpottamaan ensimmäisen vaiheen uudelleenkäyttöä, sekä valmistelemaan Falcon 9 tulevia miehitettyjä lentoja varten.
+
+
+=== Dragon ===
+
+SpaceX:n alkuperäisenä tavoitteena oli miehitetty avaruuslento ennen vuoden 2010 loppua. NASA ilmoitti 18. elokuuta 2006 SpaceX:n oleva toinen kahdesta yrityksestä, jotka valittiin suorittamaan miehistö- ja lastilentoja ISS-avaruusasemalle osana Commercial Orbital Transportation Services -ohjelmaa.
+
+Kapselin yläosassa olevalla Common Berthing Mechanism -telakointimekanismilla kapseli voi telakoitua vain ISS:n yhdysvaltalaiseen osaan. NASA-sopimus velvoittaa SpaceX:n toteuttamaan demolennot vuosina 2008–2010. SpaceX voi saada rahoitusta enimmillään 278 miljoonaa dollaria, mikäli se saavuttaa kaikki tavoitteet.Ensimmäisellä lennollaan joulukuussa 2010 SpaceX:n Dragonista tuli maailman ensimmäinen kaupallinen avaruusalus, joka onnistuttiin saamaan turvallisesti ja hallitusti alas kiertoradalta takaisin Maahan.
+Ensimmäinen kaupallinen rahtilento, SpaceX CRS-1 (CRS eli Commercial Resupply Services) laukaistiin onnistuneesti 8. lokakuuta 2012 kello 00.35 GMT (3.35 Suomen aikaa) Kansainväliselle avaruusasemalle. Heinäkuuhun 2019 mennessä SpaceX oli suorittanut kuusitoista lentoa Kansainväliselle avaruusasemalle, joista yksi, CRS-7, on tuhoutunut lennon aikana. 
+
+
+=== Falcon Heavy ===
+Falcon Heavy (ennen Falcon 9 Heavy) on SpaceX:n superraskaan luokan kantoraketti, jonka ensimmäinen koelaukaisu onnistui 6. helmikuuta 2018. Ensimmäisen vaiheen sivuraketit palasivat laskeutumisen jälkeen maahan, mutta päävaiheen laskeutuminen Atlantin valtameressä sijaitsevalle lautalle epäonnistui. Raketin lastina ollut Tesla Roadster -urheiluauto kiersi hetken ajan Maata, jonka jälkeen se ohjattiin avaruuteen. Kesään 2019 mennessä Falcon Heavy oli laukaistu kolme kertaa.
+Falcon Heavy koostuu Falcon 9 -raketista, jonka ensimmäisen vaiheen sivuille on kytketty kaksi erillistä Falcon 9:n ensimmäistä vaihetta, joista jokaisessa on yhdeksän Merlin 1D -moottoria. Nämä 27 moottoria puskevat rakettia laukaisussa 22 819 kilonewtonin voimalla, tehden siitä kautta aikojen toiseksi tehokkaimman kantoraketin heti Saturn V:n jälkeen, sekä maailman tehokkaimman toiminnassa olevan raketin NASA:n Space Launch Systemin tai SpaceX:n ITS-lentojen alkamiseen asti.
+Falcon Heavyn hyötykuorma on huomattavasti suurempi kuin Falcon 9:n – Falcon Heavy kykenee viemään jopa 54,4 tonnia rahtia matalalle Maan matalalle kieroradalle. Falcon 9 FT -raketin vastaava kantokyky on 22,8 tonnia.
+
+
+=== Dragon V2 ===
+Dragon V2 on SpaceX:n kehittämä miehitetty avaruusalus. Miehittämätön ensilento Crew Dragon Demo-1 suuntautui Kansainväliselle avaruusasemalle maaliskuussa 2019. Sitä seuraava miehitetty lento Crew Dragon Demo-2 telakoitui Kansainväliselle avaruusasemalle toukokuussa 2020. Dragon on seuraava miehitetty avaruusalus, joka on laukaistu Yhdysvalloista Avaruussukkula-ohjelman lopettamisen jälkeen. Avaruussukkula-ohjelman lopettamisen jälkeen yhdysvaltalais-astronauttien ainoa tapa päästä avaruuteen on ollut venäläinen Sojuz-avaruusalus.
+Dragon eroaa muista kapselimallisista avaruusaluksista siten, ettei se tulevaisuudessa tule käyttämään laskeutumisiin laskuvarjoja, vaan laskeutuu SuperDraco-moottoreiden varassa hallitusti laskeutumisalustalle, kuten SpaceX:n kantoraketitkin tekevät. Elon Musk on sanonut Dragon V2:n kykenevän laskeutumaan mihin vain Aurinkokunnassa.
+
+
+=== Interplanetary Transport System (ITS) ===
+
+Interplanetary Transport System (lyhenne ITS) on SpaceX:n suunnittelema superraskaan luokan kantorakettiin perustuva järjestelmä. ITS-hankkeen päätavoite on Marsin kolonisaatio, sillä alus kykenee lähettämään jopa sata astronauttia Maan matalalta kiertoradalta suoraan Marsin pinnalle.
+
+ITS koostuu kolmesta osasta: ensimmäisestä vaiheesta, avaruusaluksesta sekä niin sanotusta polttoainealuksesta. Ensimmäinen vaihe (SpaceX Super Heavy) laukaisee avaruusaluksen matalalle Maan kiertoradalle odottamaan polttoainetäydennystä, minkä jälkeen ensimmäinen vaihe laskeutuu takaisin laukaisualustalle, missä se tankataan uudestaan metaanilla ja nestemäisellä hapella. Tankkauksen aikana ensimmäiseen vaiheeseen kiinnitetään polttoainealus, joka laukaistaan kohtaamaan matalalla kiertoradalla odottamassa oleva avaruusalus. Avaruusalus ja polttoainealus telakoituvat kiertoradalla, jonka jälkeen polttoainealus tankkaa avaruusaluksen. Arvioiden mukaan polttoainealuksien lentoja tarvittaisiin jopa viisi, jotta avaruusalus saataisiin valmiiksi matkaa varten. Tämän jälkeen avaruusalus on periaatteessa lentokykyinen ja pystyisi laskeutumaan mille tahansa Aurinkokunnassa olevalle kiinteälle kappaleelle.
+
+
+== Kantorakettien uudelleenkäytettävyys ==
+
+
+=== Falcon 1 ===
+Sekä Falcon 1 että Falcon 9 suunniteltiin alusta alkaen uudelleenkäytettäviksi, vaikka tämä jäikin pelkäksi haaveeksi Falcon 1:n osalta. Falcon 1 oli suhteellisen pieni kantoraketti, joten sen kontrolloitua putoamista ilmakehään pyrittiin hallitsemaan pelkillä laskuvarjoilla. Raketin ensimmäisen ja toisen vaiheen väliseen tilaan asennettiin laskuvarjot, joiden oli tarkoitus hidastaa raketin nopeus niin pieneksi, että se pystyisi laskeutumaan mereen hajoamatta. Rakettivaihe oli tarkoitus nostaa laskeutumisen jälkeen laivaan, jolla se kuljetettaisiin huollettavaksi. Huoltotoimenpiteiden jälkeen raketti oli tarkoitus laukaista uudelleen.
+Lentojen yhteydessä kävi ilmi, että ensimmäinen vaihe ei kestänyt Maan ilmakehän aiheuttamia aerodynaamisia kuormia ja kuumentumista, eikä Falcon 1:n uudelleenkäytettävyyttä täten koskaan onnistuttu kokeilemaan käytännössä.
+
+
+=== Falcon 9 ===
+
+Falcon 9 suunniteltiin alun perin uudelleenkäytettäväksi alusta alkaen niin ensimmäisen kuin toisenkin vaiheen osalta, vaikka jälkimmäisen uudelleenkäytettävyys jäikin vain konseptiksi. Toisin kuin Falcon 1, Falcon 9 ei laskeudu mereen, muun muassa meriveden suolan aiheuttaman korroosion vuoksi. Sen sijaan ensimmäinen vaihe, lentoprofiilista riippuen, palaa joko lähelle laukaisualustaa ja laskeutuu kiinteälle maalle, tai hidastaa sivuttaissuuntaista nopeuttaan ja laskeutuu meressä kelluvalle Autonomous Spaceport Droneship -lautalle (ASDS). Esimerkiksi lennoilla geostationaariselle siirtoradalle palaaminen takaisin kuivalle maalle olisi mahdotonta polttoainevarantojen kannalta, jolloin laskeutuminen on mahdollista vain meressä kelluvalle lautalle lentoradan alapuolella.
+
+
+=== Dragon V2 ===
+
+SpaceX:n kehitteillä oleva Dragon V2 -avaruusalus tulee yhtiön kantorakettien tavoin olemaan uudelleenkäytettävä. Toisin kuin esimerkiksi NASA:n avaruussukkula, Dragon V2 ei vaadi lentojen välillä suuria korjauksia, vaan alus on lennon jälkeen jälleen lentokykyinen polttoainesäiliön täytön jälkeen. SpaceX:n mukaan alus voi lentää useita kertoja, sillä esimerkiksi ilmakehään palattaessa sitä suojaava lämpökilpi kykenee lentämään useita kertoja, tehden uusiokäytöstä nopeampaa ja halvempaa.
+
+
+== Kantoraketit ==
+Falcon 9 -raketista on vuoteen 2016 mennessä ollut kolme kehitysvaihetta: Falcon 9 versio 1.0, Falcon 9 versio 1.1 ja Falcon 9 Full Thrust. Oheisessa taulukossa Falcon 9:n kohdalla on listattu tuoreimman version, Falcon 9 Full Thrustin tiedot.
+Hyötykuormissa huomioon tulee ottaa raketin ensimmäisen vaiheen uudelleenkäyttöön kuluva polttoaine. Falcon 9:n kohdalla on listattu maksimaalinen hyötykuorma, kun raketti lentää täysin ilman uudelleenkäyttöä hyötykuorman maksimoimiseksi. SpaceX lupaa 30 prosentin leikkausta Falcon 9:n hintaan, mikäli ensimmäisen vaiheen uudelleenkäyttö saadaan sujumaan.
+1 SpaceX:n AMOS-6 -lennon kantoraketti räjähti ennen laukaisua tapahtuneiden rutiinitarkistuksien yhteydessä, kantoraketin tankkauksen aikana.
+
+
+== Toimipisteet ==
+SpaceX:n pääkonttori ja tehdas on Hawthornessa, Kaliforniassa. Siellä on valmistettu Falcon-rakettiperheen raketit ja Dragon-avaruusalukset.
+SpaceX operations center Roberts Roadin varressa Merrit Islandilla Floridassa on rakenteilla oleva uusi toimipiste. Se sijaitsee aivan likellä Cape Canavaralin laukaisualuetta. Cocoa:ssa sijaitsevan SpaceX Starship construction facilityn toiminta on tarkoitus siirtää sinne. Alueella on rakennettu Starship Mk2:ta.
+
+
+=== Laukaisukeskukset ===
+SpaceX:n ensimmäiset rakettilaukaisut tehtiin laukaisua tehtiin Omelekin saarelta Kwajalein atollilta. Viiden laukaisun jälkeen Falcon 1:n korvasi Falcon 9 ja Omelek siirtyi pois käytöstä.
+
+
+==== Cape Canaveral ====
+SpaceX vuokrasi 2007 Cape Canaveral Air Force Station Space Launch Complex 40:n Falcon 9 lentoja varten. Ensimmäinen lento 4. kesäkuuta 2010 oli myös Falcon 9 v1.0:n ensilento.
+Vuonna 2014 SpaceX vuokrasi Kennedy Space Center 39A laukaisualustan Falcon 9 v1.1 ja Falcon Heavy -lentoja varten.
+Vuonna 2015 SpaceX vuokrasi Cape Canaveral Air Force Station Launch Complex 13:n uudelleenkäytettävien rakettien laskeutumisalustaksi.
+
+
+==== Vandenberg AFB Space Launch Complex 4 ====
+Kaliforniassa sijaitsevaan Vandenberg AFB Space Launch Complex 4:ään kuuluu kaksi laukaisualustaa, SLC-4W ja SLC-4E. Vuonna 2011 SpaceX vuokrasi SLC-4E:n laukaisukäyttöön. Ensimmäinen laukaisu ja samalla Falcon 9 v1.1:n ensilento oli 29. syyskuuta 2013.
+Vuonna 2015 SpaceX vuokrasi SLC-4W:n uudelleenkäytettävien rakettien laukaisualustaksi.
+
+
+==== Boca Chica, Texas ====
+SpaceX South Texas Launch Site sijaitsee Texasin eteläosassa Boca Chica Villagessa. Täysin uudessa vasta rakenteilla olevassa keskuksessa myös rakennetaan BFR-prototyyppejä.
+
+
+== Pitkän etäisyyden henkilöliikenne maapallolla ==
+SpaceX aikoo käynnistää kaupallisen rakettiliikenteen maailman suurkaupunkien välillä. Raketilla pystyy matkustamaan alle tunnissa mihin tahansa maapallolla, suurin osa matkoista on noin puoli tuntia. Matkat tehdään BFR-raketilla ja tarkoituksena on korvata pitkän matkan lentoliikennettä. Toimitusjohtaja Shotwellin mukaan Lontoon ja Shanghain välinen matka tulee kestämään puoli tuntia ja lipun hinta on noin lentokoneen bisnesluokan lipun verran. Raketin kannattavuus tulee siitä, että uudelleenkäytettävällä raketilla pystytään lentämään tusina lentoa vuorokaudessa, kun taas lentokoneella sen hitaammasta nopeudesta johtuen vain yksi. BFR-raketin ensimmäiseen versioon mahtuu noin 100 matkustajaa. Shotwellin arvion mukaan henkilöliikenteen raketti laukaistaan 10 kilometrin päässä kaupungin laidasta. Toisaalta 65 desibelin melun raja-arvoon sopiakseen raketti on laukaistava paikasta, jossa 21 kilometrin etäisyydellä ei ole mitään melusta häiriintyvää.
+
+
+== Starlink-tietoliikennesatelliittikonstellaatio ==
+Starlink on SpaceX:n satelliitti-internet, jonka on tarkoitus koostua 7 518 matalan kiertoradan satelliitista ja 4 425 muusta satelliitista. Tavoitteena on tarjota internet-yhteys kaikille maapallon asukkaille. Yhteyden viive on noin 25 millisekuntia. Starlinkin rakentamisen kustannusarvio on vähintään 10 miljardia Yhdysvaltain dollaria ja sen ensimmäinen vaihe valmistuu vuonna 2027. SpaceX aloittaa Starlinkin kaupallisen toiminnan kun kiertoradalla on 800 satelliittia. Elon Muskin mukaan tavoitteena on saada valtaosa maapallon pitkän välimatkan valokuituliikenteestä siirtymään Starlinkin varaan ja lisäksi noin 10 prosenttia paikallisesta liikenteestä. Musk on maininnut että avaruuden tyhjiössä valo liikkuu 40–50 prosenttia nopeammin kuin valokuidussa. Muskin mukaan satelliittien välinen kommunikaatio on huomattavasti yksinkertaisempi kuin valokuituliikenne, joka edustaa monimutkaista verkkoa.SpaceX:n arvion mukaan Starlinkin liikevaihto on yli 30 miljardia Yhdysvaltain dollaria vuonna 2025.
+
+
+== Katso myös ==
+Hyperloop
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+ Kuvia tai muita tiedostoja aiheesta SpaceX Wikimedia CommonsissaYrityksen viralliset verkkosivut
+SpaceX Twitterissä

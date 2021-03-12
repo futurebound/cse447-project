@@ -1,0 +1,25 @@
+În fizică, viteza reprezintă raportul dintre distanța parcursă și durata deplasării corpului. Denumire arhaică, velocitate, iuțeală, repeziciune.
+Viteza medie a punctului material este raportul dintre vectorul deplasare Δd și intervalul de
+timp Δt în care s-a efectuat deplasarea:
+
+Cea mai mare viteză posibilă la care energia sau informația pot călători, în conformitate cu teoria relativității, este viteza luminii în vid, c = 299792458  m/s. c este o constantă absolută - constanta universală în ecuația stabilită
+de Einstein:
+
+care stabilește că energia este proporțională cu masa.
+
+
+== Vezi și ==
+Viteza sunetului
+Viteză supersonică
+Viteza luminii
+Viteză superluminică
+
+
+== Bibliografie ==
+Robert Resnick and Jearl Walker, Fundamentals of Physics, Wiley; 7 Sub edition (16 iunie 2004). ISBN 0-471-23231-9.
+
+
+== Legături externe ==
+
+Physicsclassroom.com, Speed and Velocity
+Introduction to Mechanisms (Carnegie Mellon University)

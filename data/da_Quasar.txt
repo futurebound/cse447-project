@@ -1,0 +1,30 @@
+En kvasar (fra engelsk "quasar", en forkortelse af "QUASi-stellAR radio source" også kvasistellart objekt) er en aktiv galakse. En kvasar udsender meget betydelige energimængder og kan udsende mere energi i form af stråling end flere gennemsnitlige galakser tilsammen. Det er i dag bred enighed om, at kvasarer får deres meget store energi ved, at stof opsluges af et massivt sort hul i centrum af en galakse. 
+I optiske teleskoper ligner kvasarer lyssvage stjerner (dvs. de er punktkilder) og ikke sædvanlige galakser. Kvasarer har en meget høj rødforskydning. Den store rødforskydning er efter Hubbles lov tegn på, at kvasarerne er meget fjerne objekter på vej væk fra jorden med meget stor hastighed, og er nogle af de fjerneste objekter vi har observeret. Den højeste rødforskydning, der er observeret for en kvasar er 6,4. 
+Nogle kvasarer udviser en hurtig ændring i luminositet, hvilket tilsiger, at de har en lille udstrækning. 
+
+
+== Opdagelse ==
+
+De første kvasarer (3C 48 og 3C 273) blev opdaget i de tidlige 1960'ere af Allan Sandage og andre. Mange blev opdaget som radiokilder uden et tilsvarende synligt objekt. Ved brug af små teleskoper og Lovell teleskopet kunne det konstateres, at de havde en lille udstrækning. Hundreder af disse objekter blev opdaget i 1960'erne og offentliggjort i Third Cambridge Catalogue i takt med, at astronomer eftersøgte synlige tegn på kvasarernes tilstedeværelse. I 1960 blev radiokilden 3C 48 omsider knyttet til et synligt objekt, da astronomer opdagede hvad der så ud til at være en fjern blå stjerne på det sted, hvor radiokilden var. Objektet indeholdt et hidtil ukendt bredt emissionsspektrum. En teori fremsat af John Bolton om eksistensen af en betydelig rødforskydning blev generelt afvist. 
+In 1962 blev et gennembrud opnået. En anden radiokilde, 3C 273, blev forudset at gennemgå fem okkultationer af månen. Målinger foretaget af Cyril Hazard og John Bolton under en af disse okkultationer ved brug af Parkes Radio Telescope muliggjorde at Maarten Schmidt optisk kunne identificere objektet og måle dets optiske spektrum ved brug af det 200-tommer store Hale teleskop på Mount Palomar. Det målte spektrum viste de samme ukendte spektrallinier. Schmidt konkluderede, at der var tale om spektrallinier fra hydrogen med en rødforskydning på 15,8 procent. Opdagelsen viste, at objektet 3C 273 fjerner sig fra Jorden med en hastighed på 47.000 km/s. Opdagelsen revolutionerede observationerne af kvasarer og muliggjorde, at andre astronomer fandt rødforskydning fra emissionslinierne fra andre radiokilder. Som tidligere forudsagt af Bolton havde objektet 3C 48 en rødforskydning på 37% af lysets hastighed.
+Navnet kvasar (quasar) blev skabt af den kinesiskfødte amerikanske astronom Hong-Yee Chiu i maj 1964 i Physics Today til at beskrive de nye mærkværdige objekter
+
+Senere opdagede man, at ikke alle (faktisk alene omkring 10 %) kvasarer har kraftig radioemission, hvorfor begrebet QSO (quasi-stellar object) tillige benyttes for disse objekter, omfattende både dem med høj radiofrekvent emission og dem uden.
+
+
+== Kvasarers egenskaber ==
+
+Man kender i dag til mere end 200.000 kvasarer, der alle er observeret med en betydelig rødforskydning i spektret fra 0,06 til 6,4. Dette vil sige, at alle kvasarer er meget fjerne fra Jorden. Den nærmeste kvasar befinder sig 240 Mpc (780 millioner lysår) fra Jorden og den fjerneste 4 Gpc (13 milliarder lysår) fra os. De fleste kvasarer ligger i en afstand af 1,0 Gpc og derover. Grundet den store afstand, ser vi i dag kvasarerne som de så ud for millioner og milliarder af år siden. 
+Den hidtil mest lysstærke kendte kvasar er 3C 273 i stjernebilledet Jomfruen. Den har en gennemsnitlig tilsyneladende størrelsesklasse på 12,8 (set gennem et teleskop), men har en absolut størrelsesklasse på -26,7. Dvs. at ved en afstand på 10 parsec ville denne kvasar lyse lige så stærkt som Solen. Denne kvasars luminositet er dermed ca. 2 billioner (2 x 10^12) gange større end Solen, eller ca. 100 gange større end den totale luminositet til gennemsnitlige store galakser som Mælkevejen.
+Den super lysstærke kvasar APM 08279+5255 blev, da den blev opdaget i 1998, givet en absolut størrelsesklasse på -32,2, men højopløselige billeder taget med Hubble-teleskopet og det 10 meter store Keck observatoriet viste, at lysstyrken blev forstærket gennem gravitationslinseeffekten. Et studie af gravitationslinseeffekten i dette system anslår, at kvasarens lysstyrke er blevet forstærket med en faktor ~10. 
+Kvasarer varierer ofte i luminositet over forskellige tidsperioder. Nogen varierer i lysstyrke over nogen få måneder, uger, dage eller timer. Disse observationer har medført, at forskere har fremsat en teori om, at kvasarer udstråler energi i et meget lille område, idet hver del af kvasaren må være i kontakt med andre dele på en tidsskala, der gør det muligt at koordinere variationerne i luminositeten. Derfor kan en kvasar, der varierer i løbet af få uger ikke være større end få lysuger i diameter. 
+Kvasarers stråling er ikke-termisk og nogle har jetstråle i lighed med radiogalakser. Kvasarer kan observeres i mange dele af det elektromagnetiske spektrum, inklusive radio, infrarød, optisk, UV, røntgen og til og med gammastråling, men de fleste kvasarer stråler grundet rødforskydningen mest i det infrarøde område.
+
+
+== Noter ==
+
+
+== Eksterne links ==
+
+Kvasarer på Sloan Digital Sky Survey
+Billeder af kvassarer fra hubblesite.org

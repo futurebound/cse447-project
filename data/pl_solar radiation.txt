@@ -1,0 +1,300 @@
+Promieniowanie słoneczne – strumień fal elektromagnetycznych i cząstek elementarnych (promieniowanie korpuskularne) docierający ze Słońca do Ziemi.
+
+
+== Zmienność ==
+Natężenie promieniowania słonecznego docierającego do górnych granic atmosfery dla średniej odległości Ziemia-Słońce wynosi 1366,1 W/m² i nazywane jest stałą słoneczną. Natężenie promieniowania słonecznego zmienia się w cyklu rocznym ze względu na zmiany odległości pomiędzy Ziemią a Słońcem w zakresie ±3,4%. Chwilowa wartość natężenia promieniowania słonecznego docierającego do górnych granic atmosfery może być wyznaczona ze wzoru
+
+  
+    
+      
+        F
+        =
+        
+          F
+          
+            0
+          
+        
+        
+          [
+          
+            1
+            +
+            0,034
+            ⋅
+            cos
+            ⁡
+            
+              (
+              
+                2
+                π
+                
+                  
+                    
+                      
+                        d
+                        n
+                      
+                      −
+                      3
+                    
+                    365
+                  
+                
+              
+              )
+            
+          
+          ]
+        
+        ,
+      
+    
+    {\displaystyle F=F_{0}\left[1+0{,}034\cdot \cos \left(2\pi {\frac {{dn}-3}{365}}\right)\right],}
+  gdzie:
+
+  
+    
+      
+        
+          F
+          
+            0
+          
+        
+      
+    
+    {\displaystyle F_{0}}
+   – stała słoneczna,
+
+  
+    
+      
+        d
+        n
+      
+    
+    {\displaystyle dn}
+   – kolejny dzień roku (np. 
+  
+    
+      
+        d
+        n
+        =
+        1
+      
+    
+    {\displaystyle dn=1}
+   – pierwszy stycznia).Wpływ aktywności Słońca na natężenie promieniowania słonecznego docierającego do Ziemi jest znacząco mniejszy i średnio w cyklu 11 letnim sięga około 0,1%.
+
+
+== Rozkład spektralny ==
+
+Rozkład spektralny promieniowania słonecznego jest zbliżony do promieniowania ciała doskonale czarnego o temperaturze około 5800 K opisywany rozkładem Plancka. Maksimum energii zgodnie z prawem Wiena przypada na długości fali około 0,5 μm. Około połowy energii promieniowania słonecznego przypada na zakres widzialny, zaś pozostała na bliską podczerwień, w mniejszym stopniu na promieniowanie ultrafioletowe.
+W spektrum promieniowania słonecznego wyróżnia się następujące zakresy:
+
+ultrafiolet
+ultrafiolet C z zakresem fal od 100 do 280 nm,
+ultrafiolet B z zakresem fal od 280 do 315 nm,
+ultrafiolet A z zakresem fal od 315 do 400 nm,
+światło widzialne z zakresem fal od 400 do 700 nm,
+podczerwień
+bliska podczerwień z zakresem fal od 700 do 1400 nm,
+środkowa podczerwień z zakresem fal od 1400 do 4000 nm.Promieniowanie słoneczne, przechodząc przez atmosferę, ulega osłabieniu wskutek procesów absorpcji i rozpraszania. Wyznaczenie natężenia promieniowania słonecznego lub radiancji docierającej do powierzchni ziemi wymaga rozwiązania równania transferu promieniowania w atmosferze. Wyniki takich symulacji oraz obserwacji wskazują, że około 30% promieniowania słonecznego dochodzącego do naszej planety jest odbijane przez atmosferę, 20% jest przez nią pochłaniane, a tylko 50% energii dociera do powierzchni Ziemi. Wartości te odnoszą się do całego globu i lokalnie mogą znacząco się różnić.
+
+
+== Położenie Słońca na sferze niebieskiej ==
+Natężenie promieniowania słonecznego dochodzącego do powierzchni Ziemi zależy od położenia Słońca na sferze niebieskiej oraz własności optycznych atmosfery. Położenie Słońca opisywane przez współrzędne układu sferycznego: kąt azymutalny, oraz kąt zenitalny. Zamiast kąta zenitalnego (kąt padania) stosuje się również kąt elewacyjny liczony od płaszczyzny horyzontu. W przypadku powierzchni horyzontalnych natężenie promieniowania słonecznego zależy jedynie od kąta zenitalnego. Kąt ten w wybranym punkcie powierzchni Ziemi zależy od czasu słonecznego, szerokości geograficznej. Przy dokładnym określaniu kąta padania promieniowania słonecznego na powierzchnię Ziemi uwzględnić trzeba eliptyczność orbity oraz kształt geoidy, jak również refrakcję atmosferyczną (zakrzywienie promieniowania słonecznego w atmosferze). Położenie Słońca na sferze niebieskiej wyznacza się na ogół na podstawie modeli. W szczególnych przypadkach położenie Słońca może być określone analitycznie.
+W momencie górowania dziennego, w wybranych dniach roku kąt elewacyjny określają wzory:
+
+21 marca i 23 września gdy słońce jest w zenicie nad równikiem obliczamy ze wzoru 
+  
+    
+      
+        h
+        =
+        
+          90
+          
+            ∘
+          
+        
+        −
+        φ
+        
+          :
+        
+      
+    
+    {\displaystyle h=90^{\circ }-\varphi {:}}
+  półkula północna:
+
+22 czerwca, gdy słońce jest w zenicie nad zwrotnikiem Raka: 
+  
+    
+      
+        h
+        =
+        
+          90
+          
+            ∘
+          
+        
+        −
+        φ
+        +
+        
+          23
+          
+            ∘
+          
+        
+        
+          27
+          ′
+        
+        ,
+      
+    
+    {\displaystyle h=90^{\circ }-\varphi +23^{\circ }27',}
+  
+22 grudnia, czyli wtedy, kiedy słońce jest w zenicie nad zwrotnikiem Koziorożca: 
+  
+    
+      
+        h
+        =
+        
+          90
+          
+            ∘
+          
+        
+        −
+        (
+        φ
+        +
+        
+          23
+          
+            ∘
+          
+        
+        
+          27
+          ′
+        
+        )
+        ,
+      
+    
+    {\displaystyle h=90^{\circ }-(\varphi +23^{\circ }27'),}
+  półkula południowa:
+
+22 czerwca, gdy słońce jest w zenicie nad zwrotnikiem Raka: 
+  
+    
+      
+        h
+        =
+        
+          90
+          
+            ∘
+          
+        
+        −
+        (
+        φ
+        +
+        
+          23
+          
+            ∘
+          
+        
+        
+          27
+          ′
+        
+        )
+        ,
+      
+    
+    {\displaystyle h=90^{\circ }-(\varphi +23^{\circ }27'),}
+  
+22 grudnia, wtedy, kiedy słońce jest w zenicie nad zwrotnikiem Koziorożca: 
+  
+    
+      
+        h
+        =
+        
+          90
+          
+            ∘
+          
+        
+        −
+        φ
+        +
+        
+          23
+          
+            ∘
+          
+        
+        
+          27
+          ′
+        
+        ,
+      
+    
+    {\displaystyle h=90^{\circ }-\varphi +23^{\circ }27',}
+  gdzie:
+
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   – szerokość geograficzna,
+
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   – kąt elewacyjny promieni słonecznych na szerokości geograficznej 
+  
+    
+      
+        φ
+        .
+      
+    
+    {\displaystyle \varphi .}
+  
+
+
+== Zobacz też ==
+promieniowanie rozproszone
+światło widzialne
+
+
+== Przypisy ==
+
+
+== Linki zewnętrzne ==
+Kalkulator położenia Słońca
+Kalkulator kąta zenitalnego i azymutalnego Słońca
+Modele do wyznaczania położenia Słońca
+Funkcja w Matlabie do wyznaczania położenia Słońca

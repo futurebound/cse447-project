@@ -1,0 +1,148 @@
+Gravitation er en langtrækkende interaktion mellem legemer, der har masse eller mere generelt energi. Der findes adskillige modeller, der forsøger at beskrive gravitation kvantitativt, men de tre mest anvendte og anerkendte er Galileis faldlov, der gælder for korte afstande såsom tæt på jordoverfladen, den klassisk mekaniske tyngdekraft, hvor gravitation beskrives som en tiltrækningskraft mellem legemer med masse, og den generelle relativitetsteori, hvor gravitation er en krumning af rumtiden, der også har indflydelse på masseløse legemer.
+
+
+== Gravitation i klassisk mekanik ==
+
+I klassisk mekanik antages det at tyngdekraftens virkninger udbreder sig øjeblikkeligt i hele universet. Dette er ikke korrekt, men en god antagelse til mange praktiske formål.
+Tyngdekraften holder objekter på planeternes overflade, og kombineret med inertiens lov er den ansvarlig for at holde objekter i kredsløb om hinanden.
+
+
+=== Newtons universelle gravitationslov ===
+
+Den engelske fysiker Isaac Newton forklarer, "Ethvert objekt i universet tiltrækker ethvert andet objekt med en kraft med retning langs linjen gennem objekternes centre og som er proportional til produktet af deres masser og omvendt proportional til kvadratet af afstanden mellem objekterne.":
+
+  
+    
+      
+        F
+        =
+        
+          
+            
+              G
+              ⋅
+              
+                m
+                
+                  1
+                
+              
+              ⋅
+              
+                m
+                
+                  2
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle F={\frac {G\cdot m_{1}\cdot m_{2}}{r^{2}}}}
+  hvor:
+
+F er gravitationskraften mellem objekterne.
+m1 er det ene objekts masse.
+m2 er det andet objekts masse.
+r er afstanden mellem objekternes massecentre.
+G er Den universelle gravitationskonstant. Med 6 betydende cifre er den G = 6,67428·10-11 N·m2/kg2Til at starte med havde Newton fundet denne formel for uendeligt små, punktformede legemer – som udgangspunkt burde den altså "kun" kunne bruges på himmellegemer hvis disse var "forsvindende små" sammenlignet med afstanden imellem dem. Det hævdes, at Newton tav om sin formel, indtil han havde bevist at formlen også kan bruges direkte på massecentrene i to kugleformede legemer med homogen massetæthed.
+
+
+=== Potentiel energi i tyngdefeltet ===
+To legemer med masserne m1 og m2 i en vis afstand r fra hinanden besidder en vis mængde potentiel energi ("beliggenhedsenergi"), populært sagt fordi det ene legeme kan "falde ned på" det andet. Størrelsen af den potentielle energi alene er altid negativ, og er givet ved:
+
+  
+    
+      
+        
+          E
+          
+            p
+            o
+            t
+          
+        
+        =
+        −
+        
+          
+            
+              G
+              ⋅
+              
+                m
+                
+                  1
+                
+              
+              ⋅
+              
+                m
+                
+                  2
+                
+              
+            
+            r
+          
+        
+      
+    
+    {\displaystyle E_{pot}=-{\frac {G\cdot m_{1}\cdot m_{2}}{r}}}
+  De to legemer "skylder" tilsyneladende potentiel energi "væk": Hvis deres hastighed er mindre end den såkaldte undvigelseshastighed, besidder de ikke kinetisk energi ("bevægelsesenergi") nok til at opveje "gælden" i potentiel energi. I den situation vil de to legemer bevæge sig i elliptiske baner omkring hinanden, bundet sammen af tyngdekræfterne imellem dem.
+
+
+== Gravitation i den generelle relativitetsteori ==
+
+Einsteins relativitetsteori forudsiger, at gravitationens udbredelseshastighed skal være mindre end lysets hastighed i vakuum. 
+Gravitationel interaktion kan altså ikke være øjeblikkelig.
+
+I Einsteins generelle relativitetsteori er gravitationen ikke en kraft, men en egenskab ved rummet – eller mere eksakt rumtiden. Faktisk bliver enhver form for energi i bevægelse (f.eks. fotoner; lys) "bøjet" om enhver form for energi (f.eks. masser)! Det skyldes netop ikke "tyngdekraften", fordi fotoner ikke har masse. Men fordi rummet krummer om enhver form for energi, vil lyset følge rummets krumning.
+Det samme med vores solsystems planeters bane om solen. Planeterne bliver ikke tiltrukket af solen selv, men følger blot rumtidskrumningen som udbreder sig fra solen.
+
+Einsteins generelle relativitetsteori er en bedre univers model end den klassiske mekanik, da den er mere konsistent med mange fysiske fænomener – f.eks.:
+
+Merkurs bane om solen.
+Sorte huller.
+Et par neutronstjerners spirallering mod hinanden passer meget nøjagtig med Einsteins ligningers forudsigelser.Men der er stadig nogle fysiske observationer, som endnu ikke er forklaret tilfredsstillende med Einsteins generelle relativitetsteori:
+
+
+=== Gravitation, solsystemer, galakser og universet ===
+Man har lige fra 1930'erne haft problemer med at få den radiosynlige del af galaksernes masse til at passe med galaksernes rotation. Kombineret med Einsteins generelle relativitetsteori, passer det man ser ikke – galaksernes stjerner burde flyve ud af den, men det gør de ikke.
+Et andet problem man har er pioneer anomalien, rumsonderne Pioneer 10, Pioneer 11 og Ulysses flyver langsommere ud af vores solsystem end de burde, ifølge Einsteins generelle relativitetsteori. Det er ikke meget de flyver langsommere, men nok til at man ved at der er noget galt et eller andet sted.
+Der er pt. (2006) følgende formodede løsningsmodeller:
+
+Einsteins generelle relativitetsteori skal modificeres så den passer med det pt. observerede, hvilket betyder at gravitation/rumtidskrumningen aftager mere end den nu gør ifølge relativitetsteorien.
+Man påstår, at der udover den radiosynlige ca. 1/25 stof, findes yderligere ca. 24/25 i form af mørkt stof og/eller mørk energi. De ca. 24/25 mere masse "tilføjes", så galaksernes stjerner ikke flyver væk, ifølge dagens modeller.
+Der findes betydeligt mere stof end der indtil videre er fundet. F.eks. i form af massive-atomkugler på ca. 20 cm i diameter og vejende ca. 100 mia. tons.
+
+
+=== Einstein-ring ===
+
+Gravitationslinseeffekten  betegner afbøjningen af  elektromagnetisk stråling (f.eks. lys og radiobølger) i  et stærkt gravitationsfelter eller rettere i rumtidskrumningen og kan ses ved fjerne galakser, hvor lyset fra en endnu fjernere galakse kan ses i flere retninger, nogle gange som en såkaldt Einstern-ring, en ring om gravitationslinsen, dvs. den nærmeste galakse (se billederne). Astronomer har observeret i hundredvis af Einstein-ringe.
+
+
+== Kilder/referencer ==
+
+
+== Se også ==
+Præcession
+Graviton
+Gravitationslinseeffekt
+Første observation af gravitationsbølger
+Shoemaker-Levy 9
+Tidevand
+Tyngdeacceleration
+
+
+== Eksterne henvisninger ==
+Webarchive backup: NatNet: Hvordan virker naturkræfterne?
+dr.dk: Tyngdebølger, Tyngdebølger – Den store uløste gåde
+Tyngdelovs-anomalier (Pioneer). Nye kosmologiske principper

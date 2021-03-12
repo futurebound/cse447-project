@@ -1,0 +1,296 @@
+Nella fisica con il termine nucleo atomico generalmente si intende la parte centrale, densa, di un atomo, costituita da protoni che possiedono carica positiva e neutroni che non posseggono carica, detti collettivamente nucleoni. È oggetto di studio della fisica nucleare.
+
+
+== Descrizione ==
+
+Il nucleo è caratterizzato da diversi parametri di cui i più importanti sono il numero di massa A, che rappresenta il numero totale di nucleoni presenti, il numero atomico Z che è il numero di protoni ed il numero neutronico N che rappresenta il numero di neutroni. Vale la relazione: A = Z + N. Altri parametri importanti sono lo spin totale, la parità, lo spin isotopico e, nel caso di nuclei radioattivi, l'emivita.
+Malgrado la presenza di protoni a carica positiva che quindi tra loro si respingono, il nucleo è mantenuto insieme dall'interazione nucleare forte che attrae tutte le particelle composte da quark, come appunto i nucleoni. Tale forza agisce tra i nucleoni in un modo relativamente simile alla Forza di van der Waals tra le molecole: essa appare simile al residuo esterno della forza che attrae i quark all'interno di un nucleone. Tale forza tuttavia non sempre riesce a mantenere stabile il nucleo dando origine a fenomeni quali il decadimento alfa, beta, gamma ed, in alcuni casi, alla fissione nucleare o altre più esotiche forme di decadimento radioattivo.
+Storicamente la prima evidenza sperimentale dell'esistenza del nucleo contenente tutta la carica positiva degli atomi è stata osservata in seguito ad un esperimento compiuto a Manchester dal fisico neozelandese Ernest Rutherford. Egli commentando la sua formidabile scoperta scrisse:
+«È come se una palla di cannone sparata contro un foglio di carta velina tornasse indietro.»
+Le proprietà dei nuclei vengono studiate dalla fisica nucleare, la quale nel corso del XX secolo ha trovato decine di applicazioni nei più disparati campi scientifici: tecniche come la risonanza magnetica nucleare sfruttano lo spin totale dei nuclei per ottenere delle immagini estremamente dettagliate dei tessuti umani, la datazione al carbonio 14 o potassio permette di datare con grandissima precisione reperti storici attraverso l'emivita dei nuclei radioattivi contenuti nel campione da datare, la fissione nucleare ha permesso la costruzione delle centrali elettriche termonucleari e alcuni ottimisti prevedono che la sua sorella, la fusione nucleare, diverrà la primaria fonte energetica dell'umanità nel prossimo futuro. Altre applicazioni sono state trovate anche in altri campi come l'agricoltura e nella sterilizzazione/conservazione degli alimenti.
+
+
+=== Il raggio del nucleo ===
+Un metodo classico per calcolare il raggio R di un nucleo, fa uso della forza di Coulomb:
+
+  
+    
+      
+        
+          E
+          
+            C
+            o
+            u
+            l
+            o
+            m
+            b
+          
+        
+        ≈
+        
+          
+            3
+            5
+          
+        
+        
+          
+            
+              (
+              Z
+              e
+              
+                )
+                
+                  2
+                
+              
+            
+            R
+          
+        
+      
+    
+    {\displaystyle E_{Coulomb}\approx {\frac {3}{5}}{\frac {(Ze)^{2}}{R}}}
+  che è pari all'energia di superficie:
+
+  
+    
+      
+        
+          E
+          
+            s
+            u
+            p
+            e
+            r
+            f
+            i
+            c
+            i
+            e
+          
+        
+        ≈
+        4
+        π
+        
+          R
+          
+            2
+          
+        
+        γ
+      
+    
+    {\displaystyle E_{superficie}\approx 4\pi R^{2}\gamma }
+  dove γ è la tensione superficiale.
+Eguagliando le prime due equazioni, si ottiene per il raggio il valore di:
+
+  
+    
+      
+        R
+        ≈
+        
+          
+            (
+            
+              
+                
+                  3
+                  
+                    e
+                    
+                      2
+                    
+                  
+                
+                
+                  20
+                  π
+                  γ
+                
+              
+            
+            )
+          
+          
+            1
+            
+              /
+            
+            3
+          
+        
+        
+          Z
+          
+            2
+            
+              /
+            
+            3
+          
+        
+      
+    
+    {\displaystyle R\approx \left({\frac {3e^{2}}{20\pi \gamma }}\right)^{1/3}Z^{2/3}}
+  Empiricamente, per un nucleo di numero di massa A, si ha:
+
+  
+    
+      
+        R
+        ≈
+        
+          R
+          
+            0
+          
+        
+        
+          A
+          
+            1
+            
+              /
+            
+            3
+          
+        
+      
+    
+    {\displaystyle R\approx R_{0}A^{1/3}}
+  dove R0 è circa 1,2 fermi. Cioè il raggio è proporzionale alla radice cubica del numero di massa.
+Questa formula ricavata sperimentalmente mostra come la dimensione del nucleo dipenda esclusivamente dal numero di nucleoni: essi infatti si distribuiscono nello spazio in modo all'incirca uniforme, eccezion fatta per la zona più esterna dove i nucleoni tendono a rarefarsi leggermente.
+La misura delle dimensioni del nucleo atomico viene effettuata nei centri di ricerca di fisica nucleare e nelle università sfruttando molteplici tecniche; quella che ha permesso di studiare pressoché tutti i nuclei stabili con ottimi risultati negli anni scorsi è stata lo scattering elettronico: elettroni accelerati ad alte energie vengono fatti scontrare con il nucleo atomico. Una misura accurata del pattern con cui gli elettroni si dispongono dopo lo scontro permette di ottenere una valutazione molto precisa delle dimensioni dell'ostacolo che li ha diffratti, ovvero il nucleo.
+Lo svantaggio più grande di questa tecnica sta nel fatto che, avvalendosi delle reazioni elettromagnetiche tra gli elettroni ed il nucleo, essa permette di misurare solamente la distribuzione spaziale delle particelle cariche, ovvero dei soli protoni, mentre i neutroni vengono completamente ignorati. Altre tecniche comprendono lo scattering di particelle alfa, lo shift dei livelli energetici degli elettroni di valenza, shift dei livelli energetici dell'atomo muonico.
+
+
+=== La massa del nucleo ===
+La massa contenuta nel nucleo corrisponde alla quasi totalità della massa atomica. Basti pensare che un atomo stabile contiene all'incirca lo stesso numero di elettroni protoni e neutroni, ma ogni nucleone pesa 1836 volte di più di un elettrone.
+La massa di un nucleo è data dalla somma della massa di ogni nucleone meno l'energia di legame, ovvero l'energia necessaria a riportare i nucleoni che compongono il nucleo al loro stato libero. Per fare un esempio: immaginiamo una serie di protoni e neutroni a riposo liberi nello spazio, la loro massa totale sarà equivalente alla somma totale delle masse del sistema e l'energia totale del sistema sarà data soltanto dalla massa come previsto dalla relatività. Ora immaginiamo gli stessi nucleoni legati all'interno di un nucleo: per riportare il sistema alla situazione precedente sarà necessario vincere la forza forte che li trattiene uniti applicando una forza in grado di spaccare il nucleo, ovvero introdurre energia. Questo significa che lo stato legato del nucleo è meno energetico dello stato libero e, dato che il nucleo è a riposo e l'energia corrisponde alla massa come detto precedentemente, ne segue che la massa totale del primo stato è inferiore a quella del secondo. Analiticamente la massa nucleare viene calcolata attraverso la formula:
+
+  
+    
+      
+        
+          M
+          
+            n
+            u
+            c
+            l
+            e
+            o
+          
+        
+        =
+        
+          ∑
+          
+            n
+            e
+            u
+            t
+            r
+            o
+            n
+            i
+          
+        
+        
+          M
+          
+            n
+            e
+            u
+            t
+            r
+            o
+            n
+            e
+          
+        
+        +
+        
+          ∑
+          
+            p
+            r
+            o
+            t
+            o
+            n
+            i
+          
+        
+        
+          M
+          
+            p
+            r
+            o
+            t
+            o
+            n
+            e
+          
+        
+        −
+        B
+      
+    
+    {\displaystyle M_{nucleo}=\sum _{neutroni}M_{neutrone}+\sum _{protoni}M_{protone}-B}
+  dove B rappresenta l'energia di legame.
+L'energia di legame dunque gioca un ruolo fondamentale all'interno del nucleo: essa è generata dalla saturazione dei campi generati dalla forza forte che tende a unire i nucleoni e dalla forza elettromagnetica che respinge i protoni. Essa è la responsabile della stabilità dei nuclei e, dunque, anche della loro instabilità: un nucleo instabile (con ad esempio troppi neutroni o protoni) tenderà a decadere radioattivamente attraverso i decadimenti alfa o beta per raggiungere uno stato stabile. È grazie ad essa che siamo in grado di estrarre energia nucleare: i processi di fissione e fusione nucleare non sono altro che processi in cui l'energia di legame totale dopo la reazione risulta superiore a quella iniziale, ovvero i nuclei sono legati maggiormente e quindi la massa totale è inferiore.
+
+
+== Modelli nucleari ==
+A livello teorico la fisica nucleare presenta notevoli difficoltà e a tutt'oggi non esiste una buona teoria nucleare esaustiva. Esistono comunque diversi modelli che spiegano solo alcune caratteristiche dei nuclei.
+
+
+=== Modello a goccia di liquido ===
+Il modello nucleare a goccia fu ipotizzato nel 1939 da Niels Bohr e da John Archibald Wheeler per spiegare la perdita di massa durante una fissione nucleare (difetto di massa).
+Quando il nucleo viene colpito da un neutrone si produce un assorbimento di questa particella da parte del nucleo stesso e ciò causa un eccesso di energia che determina un moto oscillatorio (come una goccia di liquido che ha assorbito energia meccanica).
+Il moto oscillatorio causa quindi un allungamento del nucleo finché questo non si rompe (fissione nucleare).
+
+
+=== Modello a guscio ===
+
+Il modello a guscio (shell, o a strati, chiamato anche a particella indipendente) tratta i nucleoni come oggetti quantistici, che si muovono in stati quantici (o gusci energetici) ben definiti e separati l'uno dall'altro, similmente a quanto avviene per gli elettroni intorno al nucleo. Inoltre essi obbediscono al Principio di esclusione di Pauli, ovvero due nucleoni non possono occupare lo stesso stato quantico allo stesso tempo.
+Questo modello spiega bene il fatto che se il numero di neutroni o protoni presenti nel nucleo è uguale ai "numeri magici" (2, 8, 20, 28, 50, 82 e 126) i nuclei sono particolarmente stabili, sono fortemente legati e sono particolarmente abbondanti; viceversa i nuclei con uno o due protoni e/o neutroni in più risultano poco legati.
+
+
+=== Modello collettivo ===
+Anche il modello a guscio non è del tutto soddisfacente perché spiega solo una parte dei fenomeni nucleari. Il modello collettivo integra il modello a goccia con quello a guscio, supponendo che i nucleoni che eccedono il numero magico occupino stati quantizzati all'interno della buca di potenziale generata dal guscio interno. In questo modo essi interagiscono con essa deformandola e provocandone oscillazioni, simili a quelle previste dal modello a goccia.
+Questa unificazione concilia quindi i due modelli e riesce a spiegare ulteriori fenomeni, godendo attualmente di discreto successo
+Da questa integrazione nasce il modello collettivo, che però lascia ancora insoluti molti problemi sulla natura del nucleo.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Densità nucleare
+Elettrone
+Modelli nucleari
+Neutrone
+Neutrino
+Protone
+Isotopo
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su nucleo atomico
+
+
+== Collegamenti esterni ==
+
+(EN) Nucleo atomico, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) IUPAC Gold Book, "nucleus", su goldbook.iupac.org.

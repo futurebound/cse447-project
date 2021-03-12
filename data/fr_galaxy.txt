@@ -1,0 +1,447 @@
+Une galaxie est un assemblage d'étoiles, de gaz, de poussières, de vide et peut-être essentiellement de matière noire, contenant parfois un trou noir supermassif en son centre. 
+La Voie lactée, la galaxie dans laquelle se trouve le Système solaire, compte quelques centaines de milliards d'étoiles (1011), et a une extension de l'ordre de 80 000 années-lumière. Un rapport de la mission spatiale européenne Gaia a rendu publique, le 25 avril 2018, la position de 1 692 919 135 étoiles de notre galaxie, ce qui représente moins d'1 % de la totalité des étoiles présentes dans notre galaxie. La plupart des galaxies typiques comportent un nombre similaire d'astres, mais il existe aussi des galaxies naines comptant à peu près une dizaine de milliards d'étoiles (1010), et des galaxies géantes comptant plusieurs milliers de milliards d'étoiles (1012). Sur la base de ces chiffres et de la taille de l'univers observable, on estime que celui-ci compte quelques centaines de milliards de galaxies de masse significative. La population de galaxies naines est cependant très difficile à déterminer, du fait de leur masse et de leur luminosité très faibles. Il pourrait donc contenir jusqu'à 2 000 milliards de galaxies, mais cela ne pourra être confirmé qu'avec les observations des futurs télescopes (tel le Télescope géant européen ou le Télescope de Trente Mètres).
+Les galaxies en tant que systèmes stellaires de grande taille ont été mises en évidence dans le courant des années 1920, principalement par l'astronome américain Edwin Hubble, bien que des premières données indiquant ce fait remontent à 1914. Les galaxies sont de trois types morphologiques principaux : elliptiques, spirales, irrégulières. Une description plus étendue des types de galaxies a été donnée à la même époque par Hubble et est depuis nommée séquence de Hubble.
+Toutes les étoiles ne sont pas situées dans les galaxies. S'il semble établi que c'est au sein des galaxies que se forment les étoiles, celles-ci sont susceptibles d'en être expulsées, soit du fait d'interactions entre galaxies, soit du fait de rencontres rapprochées entre une étoile et un astre très massif, tel un trou noir supermassif situé au centre d'une galaxie. On observe ainsi certaines étoiles dotées d'une vitesse élevée par rapport à leur galaxie, signe qu'elles n'y sont plus liées gravitationnellement. De telles étoiles sont de ce fait appelées « étoiles en fuite ». Plusieurs représentantes de cette classe sont connues, telles SDSS J090745.0+024507 et GRO J1655-40, toutes deux en train de quitter la Voie lactée. La première est probablement issue d'une rencontre rapprochée avec le trou noir central de notre galaxie, Sgr A*, la seconde est sans doute issue d'une supernova asymétrique dont le résidu compact a été expulsé de la région où l'explosion a eu lieu.
+
+
+== Étymologie ==
+
+Le mot « galaxie » provient du terme grec désignant notre propre galaxie, ὁ γαλαξίας / ho galaxias (« laiteux », sous-entendu κύκλος / kyklos « cercle »), dérivé du nom τὸ γάλα / to gala « lait ». On trouve aussi en grec ancien ὁ τοῦ γάλακτος κύκλος / ho tou galaktos kyklos « le cercle de lait », ou encore ὁ κύκλος γαλακτικός / ho kyklos galaktikos, « cercle laiteux »[réf. nécessaire], à cause de son apparence dans le ciel. Dans la mythologie grecque, Zeus plaça son fils Héraclès, né de son union avec la mortelle Alcmène, sur le sein de son épouse Héra lorsqu'elle était endormie afin que le bébé devienne immortel en buvant son lait divin. Lorsque celle-ci se réveilla, elle se rendit compte qu'elle allaitait un bébé inconnu qu'elle repoussa, et un jet de lait aspergea le ciel, formant cette pâle bande lumineuse appelée « Voie lactée ».
+Dans la littérature astronomique, le mot « Galaxie » muni d'un G majuscule se réfère à notre propre galaxie (la Voie lactée), afin de la distinguer des autres galaxies.
+Avant la mise en évidence des galaxies, était employé le terme de « nébuleuse », qui décrivait tout objet diffus de la sphère céleste. Cette dénomination remonte à William Herschel, qui établissant son catalogue d'objets du ciel profond, utilisa le terme de « nébuleuse spirale » pour des objets tels que M31. Ceux-ci allaient plus tard être identifiés comme étant d'immenses agglomérations d'étoiles, et lorsque les distances entre elles commencèrent à être comprises, elles furent nommées « univers-îles ». Cependant, cette nomenclature tomba donc en désuétude au profit du terme « galaxie ».
+
+
+== Identification des galaxies ==
+Des dizaines de milliers de galaxies ont été recensées, parmi d'autres objets, à travers de nombreux catalogues astronomiques, tels que le catalogue Messier et le New General Catalogue, qui référencent également des nébuleuses, mais aussi plus spécifiquement les catalogues PGC, UGC, MCG, CGCG, IC, etc. Ainsi, la galaxie spirale barrée couramment appelée M109 est-elle également identifiée par les numéros NGC 3992, PGC 37617, UGC 6937, MCG+09-20-044, CGCG269-023, etc. Certaines galaxies remarquables ont reçu un nom d'usage (parfois plusieurs) couramment employé à la place des numéros d'identification, telles que par exemple la galaxie d'Andromède, les nuages de Magellan, les galaxies des Antennes, la galaxie du Tourbillon (également appelée galaxie des Chiens de Chasse), la galaxie du Sombrero, etc.
+
+
+== Quelques ordres de grandeur ==
+Une galaxie typique comme la Voie lactée comprend quelques centaines de milliards d'étoiles et a une taille de l'ordre de 100 000 années-lumière (une année-lumière équivaut à environ 9 500 milliards de kilomètres). De façon remarquable, ces chiffres peuvent s'exprimer uniquement en termes de diverses constantes fondamentales. Plus précisément, un raisonnement simple permet de relier la taille d'une galaxie au phénomène d'instabilité gravitationnelle qui voit un objet plus dense que le milieu ambiant se contracter sous certaines conditions du fait de son propre champ gravitationnel. Ceci se produit essentiellement quand un objet se refroidit brutalement, auquel cas sa pression baisse brutalement et ne peut plus contrer l'effet attractif de la gravité. Dans ce contexte, on prédit que la masse Mg et la taille Rg d'une galaxie sont vraisemblablement de l'ordre de :
+
+  
+    
+      
+        
+          M
+          
+            
+              g
+            
+          
+        
+        ∼
+        
+          
+            
+              α
+              
+                5
+              
+            
+            
+              α
+              
+                G
+              
+              
+                2
+              
+            
+          
+        
+        
+          
+            (
+            
+              
+                
+                  m
+                  
+                    
+                      p
+                    
+                  
+                
+                
+                  m
+                  
+                    
+                      e
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            
+              1
+              2
+            
+          
+        
+        
+          m
+          
+            
+              p
+            
+          
+        
+        ≃
+        1
+        ,
+        
+        5
+        ×
+        
+          10
+          
+            11
+          
+        
+        
+          M
+          
+            ⊙
+          
+        
+      
+    
+    {\displaystyle M_{\rm {g}}\sim {\frac {\alpha ^{5}}{\alpha _{G}^{2}}}\left({\frac {m_{\rm {p}}}{m_{\rm {e}}}}\right)^{\frac {1}{2}}m_{\rm {p}}\simeq 1,\!5\times 10^{11}M_{\odot }}
+  ,
+
+  
+    
+      
+        
+          R
+          
+            
+              g
+            
+          
+        
+        ∼
+        
+          
+            
+              α
+              
+                3
+              
+            
+            
+              α
+              
+                G
+              
+            
+          
+        
+        
+          
+            (
+            
+              
+                
+                  m
+                  
+                    
+                      p
+                    
+                  
+                
+                
+                  m
+                  
+                    
+                      e
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            
+              1
+              2
+            
+          
+        
+        
+          λ
+          
+            
+              e
+            
+          
+        
+        ≃
+        74
+        
+        
+          
+            k
+            p
+            c
+          
+        
+      
+    
+    {\displaystyle R_{\rm {g}}\sim {\frac {\alpha ^{3}}{\alpha _{G}}}\left({\frac {m_{\rm {p}}}{m_{\rm {e}}}}\right)^{\frac {1}{2}}\lambda _{\rm {e}}\simeq 74\;{\rm {kpc}}}
+  ,où 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   et 
+  
+    
+      
+        
+          α
+          
+            G
+          
+        
+      
+    
+    {\displaystyle \alpha _{G}}
+   représentent respectivement la constante de structure fine (électromagnétique) et la constante de structure fine gravitationnelle, et 
+  
+    
+      
+        
+          m
+          
+            
+              p
+            
+          
+        
+      
+    
+    {\displaystyle m_{\rm {p}}}
+   et 
+  
+    
+      
+        
+          m
+          
+            
+              e
+            
+          
+        
+      
+    
+    {\displaystyle m_{\rm {e}}}
+   la masse du proton et de l'électron, respectivement.
+Il faut plus de dix milliards d'années pour que la lumière des plus lointaines galaxies parvienne jusqu’à la Terre.
+
+
+== Historique des observations ==
+
+
+=== La Voie lactée ===
+
+Dès l'Antiquité, les philosophes tentèrent de saisir la nature de la bande lumineuse connue sous le nom de Voie lactée. Le philosophe grec Anaxagore (500—428 av. J.-C.) la concevait comme « l'effet de la lumière des astres qui ne sont pas offusqués par le Soleil ». De la même manière, Démocrite (450—370 av. J.-C.) suggéra qu'elle était due à un grand nombre de petites étoiles. 
+Aristote, cependant, pensait que ce qu'on observait était la combustion d'une partie de l'air, enflammé par le mouvement des astres, impliquant donc qu'elle se trouvât dans la sphère sublunaire.
+Geminos de Rhodes, probablement vers 55 av. J.-C., décrit la Voie lactée comme « un des grands cercles de la sphère des fixes. D'assez grande largeur, il est composé d'une poussière d'étoiles en forme de nébuleuse ; c'est le seul grand cercle dans l'univers qui soit visible. Il y a 7 grands cercles : l'équateur, le zodiaque, les colures, l'horizon en chaque lieu, le méridien, la Voie lactée. »
+
+L'astronome perse Al-Biruni (973 - 1048 apr. J.-C.) réfuta lui aussi la proposition d'Aristote, en tentant de calculer la parallaxe de la Voie lactée, et en notant que puisqu'elle est nulle, elle doit se trouver à grande distance de la Terre, et donc hors de l'atmosphère. Il proposa également que la Voie lactée était une collection d'innombrables étoiles nébuleuses. Les preuves de cela vinrent en 1610, quand Galilée utilisa sa lunette astronomique pour étudier la Voie lactée et découvrit qu'elle était effectivement composée d'un nombre incalculable d'étoiles de faible éclat. Thomas Wright dans son ouvrage An Original Theory or New Hypothesis of the Universe (1750), étudie la structure de la Galaxie et imagine qu’elle forme un nuage aplati. Dans un traité de 1755, Emmanuel Kant, spécule à juste titre que notre galaxie pouvait être un corps en rotation d'un nombre incroyable d'étoiles tenues ensemble par des forces gravitationnelles, au même titre que le Système solaire. Le disque d'étoiles résultant peut être vu, en perspective, comme une bande dans le ciel, pour un observateur se trouvant en son sein. Kant avança également que quelques-unes des nébuleuses visibles dans le ciel nocturne pourraient être des galaxies.
+La première tentative de description de la forme de la Voie lactée et de la disposition du Soleil en son sein fut faite par William Herschel en 1785. Il répertoria « avec soin la position et les distances d'un grand nombre d'étoiles ». Il fit un diagramme de la forme de la Voie lactée et plaça le Système solaire près du centre. En 1920, Jacobus Kapteyn arriva à une image d'une petite galaxie ellipsoïdale (d'environ 15 000 parsecs de diamètre), avec le Soleil également proche du centre,. Une méthode différente, proposée par Harlow Shapley, fondée sur la position des amas globulaires, mena à une image radicalement différente de tout ce qui avait été vu jusque-là : un disque plat d'un diamètre d'environ 70 000 parsecs (soit un peu plus de 200 000 années-lumière) avec le Soleil très éloigné du centre. Les deux analyses ne tinrent pas compte de l'absorption de la lumière par la poussière interstellaire (phénomène appelé extinction) présente dans le plan galactique, mais après que Robert Jules Trumpler eut quantifié cet effet en 1930, en étudiant les amas ouverts, l'image actuelle de notre galaxie émergea.
+
+
+=== Les autres objets nébuleux ===
+
+Vers la fin du XVIIIe siècle, Charles Messier établit un catalogue contenant 110 « nébuleuses », comme on appelait alors indistinctement les objets diffus observés dans le ciel. Ce catalogue fut suivi d'un plus grand, de 5 000 objets, établi par William Herschel. En 1845, Lord Rosse construisit un nouveau télescope qui fut capable de distinguer les nébuleuses elliptiques et spirales. Il essaya également de mettre en évidence des sources ponctuelles à l'intérieur de certaines nébuleuses, donnant ainsi crédit à la conjecture de Kant.
+
+En 1917, Herber Curtis observa des clichés de la supernova SN 1885A dans la « grande nébuleuse d'Andromède » (M31, dans le catalogue Messier). En cherchant dans la photographie, il trouva 11 novas de plus. Curtis remarqua que ces novas étaient en moyenne 10 magnitudes plus faibles que celle de notre galaxie. Grâce à ces résultats, il fut capable d'estimer la distance qui nous séparait d'elles à environ 150 000 parsecs. Il devint donc adepte de ce que l'on appelle la théorie des « univers-iles », avançant que les nébuleuses spirales sont en réalité des galaxies indépendantes, mais sa découverte resta peu diffusée.
+En 1920, le « Grand Débat », concernant la nature de la Voie lactée, des nébuleuses spirales, et la taille de l'Univers, prit place avec comme principaux protagonistes Harlow Shapley et Herber Curtis. Pour renforcer son idée que la grande nébuleuse d'Andromède était une galaxie externe, Curtis nota l'apparence des lignes sombres s'apparentant aux nuages de poussière présents dans la Voie lactée, ainsi qu'un décalage de la lumière dû à l'effet Doppler-Fizeau.
+Le fait fut définitivement établi par Edwin Hubble au début des années 1920 en utilisant un nouveau télescope. Il fut capable de résoudre les parties externes de quelques nébuleuses spirales comme étant des collections d'étoiles individuelles et identifia quelques variables appelées céphéides, dont la période de variation de lumière est fonction de la luminosité absolue. Ceci permit ainsi d'estimer la distance nous séparant de ces nébuleuses : elles étaient bien trop lointaines pour faire partie de la Voie lactée. En 1936, Hubble créa un système de classification des galaxies qui est encore utilisé de nos jours : la séquence de Hubble.
+
+
+== Composition ==
+
+
+=== Milieu interstellaire ===
+
+
+=== La matière sombre ===
+
+Dans les années 1970, on réalisa que la masse totale visible, dans les galaxies, des étoiles et du gaz, ne pouvait pas expliquer correctement la vitesse de rotation de celles-ci, qui est systématiquement anormalement élevée par rapport à ce qu'elle aurait dû être étant donné la masse visible dont les galaxies étaient composées. Ceci amena à postuler l'existence d'une nouvelle forme de matière, appelée matière sombre. Celle-ci n'émet aucun rayonnement, mais son existence est révélée par l'influence de son champ gravitationnel sur la dynamique des étoiles. Dès le début des années 1990, le télescope spatial Hubble apporta une grande amélioration dans les observations lointaines. Ces nouvelles observations permirent notamment d'établir que la matière sombre de notre Galaxie ne peut se composer uniquement d'étoiles faibles et petites. D'autres observations cosmologiques arrivent à la même conclusion, attestant l'idée que la matière sombre est une nouvelle forme de matière inconnue en laboratoire[réf. nécessaire]. Au sein des galaxies, la matière forme un halo sphérique plus étendu que la galaxie elle-même, et ayant un profil de densité dit en « sphère isotherme », c'est-à-dire décroissant comme l'inverse du carré de la distance au centre[réf. nécessaire].
+
+
+== Types et morphologie ==
+
+Il y a trois grands types de galaxies : les elliptiques, les spirales, et les irrégulières. Une description détaillée des différents types de galaxies basée sur leur apparence est établie par la séquence de Hubble. Puisque la séquence de Hubble est entièrement basée sur la caractéristique morphologique visuelle, il arrive qu'elle ne tienne pas compte de caractéristiques importantes telles que le taux de formation d'étoiles (dans les galaxies starburst) ou l'activité du noyau (dans les galaxies actives). À l'époque de la réalisation de sa classification, Hubble pensait que les différents types de morphologies galactiques correspondaient à un degré d'évolution variable de ces objets, partant d'un état sphérique sans structure (type E0), puis s'aplatissant progressivement (type E1 à E7), avant de produire les bras spiralés (types Sa, Sb, Sc, ou SBa, SBb, SBc). Cette hypothèse d'évolution a depuis été totalement invalidée, mais la dénomination en termes de « galaxie précoce » (early-type galaxy en anglais) pour les elliptiques et « galaxie tardive » (late-type galaxy) pour les spirales est par contre, toujours usitée.
+
+
+=== Galaxies elliptiques ===
+
+Le système de classification de Hubble compte les galaxies elliptiques sur base de leur excentricité (c'est-à-dire de l'aplatissement de leur image projetée sur le ciel), allant de E0 (pratiquement sphérique) à E7 (fortement allongée), le chiffre suivant le « E » correspondant à la quantité 
+  
+    
+      
+        
+          
+            10
+            ×
+            (
+            1
+            −
+            
+              
+                b
+                a
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \textstyle {10\times (1-{\frac {b}{a}})}}
+  , où a et b sont le demi grand axe et le demi petit axe de la galaxie telle qu'elle est observée. Ces galaxies ont un profil ellipsoïdal, leur donnant une apparence elliptique quel que soit l'angle de vue. Leur apparence montre peu de structures et elles ne possèdent pas beaucoup de matière interstellaire. Par conséquent, ces galaxies contiennent peu d'amas ouverts et ont un taux de formation d'étoiles peu élevé. Des étoiles plus anciennes et plus évoluées, tournant autour de leur centre de gravité commun de manière aléatoire, dominent donc ces galaxies. En ce sens, elles présentent une certaine similitude avec les amas globulaires, mais à plus grande échelle.
+Les galaxies les plus grandes sont des elliptiques géantes. On pense que de nombreuses galaxies elliptiques se sont formées grâce à une interaction de galaxies qui ont fini par fusionner. Elles peuvent atteindre des tailles énormes (comparée aux galaxies spirales, par exemple). D'autre part, ces galaxies elliptiques géantes sont souvent trouvées au cœur des grands amas de galaxies. Les galaxies starburst sont souvent le résultat d'une collision des galaxies. La galaxie elliptique géante la plus proche de notre Galaxie est M87, dans la constellation de la Vierge, à 60 millions d'années-lumière.
+
+
+=== Galaxies spirales ===
+
+Les galaxies spirales forment la classe la plus emblématique des galaxies. Elles sont faites d'un disque en rotation et composé d'étoiles et de milieu interstellaire, avec un bulbe central d'étoiles généralement plus anciennes. De ce bulbe émergent des bras relativement brillants. Dans le schéma de classification de Hubble, les galaxies spirales correspondent au type S, suivi d'une lettre (a, b, ou c), qui indique le degré d'enroulement des bras spiraux ainsi que la taille du bulbe central. Une galaxie Sa est dotée de bras relativement mal définis et possède une région centrale relativement importante. En revanche, une galaxie Sc possède des bras très ouverts et bien tracés ainsi qu'un bulbe de petite taille.
+Dans les galaxies spirales, les bras spiraux forment une spirale logarithmique approximative, un schéma qui peut être, en théorie, le résultat d'un dérangement dans la masse d'étoiles rotative uniforme. Les bras spiraux tournent autour du centre, au même titre que les étoiles, mais avec une vitesse angulaire constante. Cela veut dire que les étoiles entrent et sortent des bras spiraux ; les étoiles proches du centre galactique orbitent plus vite que les bras alors que les étoiles les plus externes se déplacent moins vite que les bras. On pense que les bras spiraux sont des zones où la densité de matière est plus haute, on peut donc les voir comme des « vagues de densité ». Lorsque les étoiles traversent un bras, la vitesse de chaque système stellaire est modifiée par les forces gravitationnelles supplémentaires exercées par une densité de matière plus élevée (cette vélocité retourne à la normale une fois que l'étoile ressort du bras). Cet effet est semblable à une « vague » de ralentissement sur une autoroute saturée en voitures.
+Les bras sont visibles à cause de leur teneur en étoiles jeunes et brillantes, dues à la forte densité de matière qui facilite la formation d'étoiles. Or les étoiles les plus lumineuses sont aussi les plus massives, et ont une durée de vie très brève (quelques millions d'années contre 10 milliards d'années pour le Soleil), aussi les zones les plus lumineuses sont-elles au voisinage des lieux de formation d'étoiles, les étoiles massives n'ayant pas le temps de s'en éloigner significativement lors de leur brève existence.
+
+
+==== Galaxies spirales barrées ====
+
+La majorité des galaxies spirales ont une bande d'étoiles linéaire en leur centre, à partir de laquelle émergent les bras spiraux. Dans la classification de Hubble, elles sont désignées d'un SB, suivi d'une lettre minuscule (a, b, ou c), indiquent encore une fois la forme et la disposition des bras spiraux (de la même manière que les galaxies spirales non-barrées). On pense que les barres sont des structures temporaires qui peuvent survenir à la suite d'un rayonnement de densité du cœur vers l'extérieur, ou à la suite d'une interaction avec une autre galaxie faisant intervenir la force de marée. De nombreuses galaxies spirales barrées sont actives, cela est peut-être du gaz canalisé le long des bras.
+Notre propre galaxie est une grande galaxie spirale barrée d'environ 30 000 parsecs de diamètre et de 1 000 parsecs d'épaisseur. Elle contient approximativement 2×1011 étoiles et a une masse totale d'environ 6×1011 masses solaires.
+
+
+=== Morphologies particulières ===
+
+Les galaxies particulières sont des formations galactiques développant des propriétés inhabituelles dues à des interactions gravitationnelles avec d'autres galaxies, les forces de marée, responsables de ces déformations. Les galaxies annulaires, possédant une structure formée d'étoiles et de gaz en forme d'anneau autour du centre galactique, sont de bons exemples de galaxies particulières. Une galaxie annulaire peut se former lorsqu'une galaxie plus petite passe à travers le centre d'une galaxie spirale. Un tel évènement a pu se produire sur la galaxie d'Andromède, qui présente plusieurs anneaux en infrarouge.
+Une galaxie lenticulaire est une forme de transition, ayant à la fois les propriétés d'une galaxie elliptique et spirale. Dans la séquence de Hubble, elles portent la mention S0. Elles possèdent des bras, certes mal définis, et un halo d'étoiles elliptique (les galaxies lenticulaires barrées sont de type SB0).
+En plus de morphologies mentionnées ci-dessus, il existe un certain nombre de galaxies qui n'entrent dans aucune de ces catégories. Il s'agit des galaxies irrégulières. Une galaxie Irr-I possède une certaine structure, mais n'est pas clairement apparentée à un type quelconque de la séquence de Hubble. Les galaxies Irr-II ne possèdent aucune structure comparable à quoi que ce soit dans le schéma de Hubble, et peuvent même avoir été déchirées. Des exemples proches de galaxies irrégulières (naines) sont les nuages de Magellan.
+
+
+=== Galaxies naines ===
+
+En dépit de la prééminence des grandes galaxies elliptiques et spirales, il semble que la plupart des galaxies de l'univers sont des galaxies naines. Ces galaxies minuscules ont une taille pouvant descendre à 1 % de celle de la Voie lactée, et contiennent seulement quelques milliards, voire quelques centaines de millions d'étoiles. Des galaxies naines ultra-compactes, qui ont été trouvées récemment, font seulement 100 parsecs de long.
+La majorité des galaxies naines orbitent autour d'une galaxie plus grande ; la Voie lactée a au moins une douzaine de satellites nains, chiffre probablement inférieur au nombre total de satellites de ce type. Les galaxies naines peuvent elles-mêmes aussi être classées comme étant elliptiques, spirales, ou irrégulières.
+
+
+== Rotation des galaxies ==
+
+Un graphique représentant la vitesse de rotation de la matière en fonction de la distance entre celle-ci et le centre galactique peut prendre deux formes, la courbe plate B étant la plus répandue. Analysons de plus près les formes des courbes de rotation. L'article cité en donne un grand nombre.
+Près du centre galactique, la vitesse est proportionnelle à la distance au centre galactique. La vitesse angulaire de rotation est donc constante comme dans un solide. La courbe devient ensuite parabolique, ce qui correspond à une densité de masse d'étoiles constante. Après le maximum, la courbe est généralement plate, la densité d'étoiles est décroissante. Enfin, très loin du centre galactique où la densité d'étoiles est très faible, on retrouve les lois de Kepler, qui ne peuvent être vérifiées qu'en présence d'étoiles suffisamment lumineuses faisant partie de la galaxie en question. (cf article Matière noire)
+
+
+== Activités exceptionnelles ==
+
+
+=== Interaction ===
+
+La distance moyenne séparant les galaxies dans un amas est relativement petite. Par conséquent, les interactions entre galaxies sont assez fréquentes, et jouent un rôle important dans leur évolution. Lorsque deux galaxies se manquent de peu, elles subissent néanmoins des déformations dues à la force de marée, et peuvent échanger une certaine quantité de gaz et de poussière,.
+Les collisions se produisent lorsque deux galaxies passent directement l'une à travers l'autre et ont un moment angulaire relatif suffisant pour ne pas fusionner. Les étoiles de ces galaxies en interactions subiront la traversée sans entrer en collision les unes avec les autres. Cependant, le gaz et la poussière présents dans les deux galaxies interagiront. Cela peut déclencher un sursaut de formation d'étoiles car le milieu interstellaire a été dérangé et compressé. Une collision peut sévèrement distordre les deux galaxies, formant des structures s'apparentant à des barres, des anneaux, ou des longues queues,.
+L'interaction la plus violente est la fusion galactique. Dans ce cas, le moment relatif des deux galaxies est insuffisant pour leur permettre de se libérer de l'emprise de l'autre et de poursuivre leurs routes. Au lieu de ça, elles fusionneront graduellement pour former une galaxie unique, plus grande. Les fusions apportent d'énormes changements à la morphologie des deux galaxies de départ. Cependant, dans le cas où l'une des deux galaxies est beaucoup plus massive que l'autre, on assiste à un phénomène de cannibalisme. Dans ce cas, la galaxie la plus grande restera relativement inchangée tandis que la plus petite sera déchirée à l'intérieur de l'autre. La Voie lactée est actuellement en train d'absorber de la sorte la Galaxie Elliptique Naine du Sagittaire et la Galaxie Naine du Grand Chien,.
+
+
+=== Starburst ===
+
+Les étoiles sont créées dans les galaxies à partir du gaz froid qui s'est formé dans les nuages moléculaires géants. Certaines galaxies, les galaxies starburst, ont un taux de formation d'étoiles vertigineux. Toutefois, si elles continuaient à fonctionner ainsi, ces galaxies épuiseraient leurs réserves de gaz en un laps de temps inférieur à leur durée de vie. Par conséquent, un tel évènement ne dure en général que 10 millions d'années, ce qui est relativement court par rapport à l'histoire de la galaxie. Les galaxies starburst étaient plus communes dans le passé, et contribuent actuellement d'environ 15 % au taux de formations d'étoiles total.
+Les galaxies starburst sont caractérisées par de fortes concentrations de gaz et de poussière ainsi qu'un nombre élevé de jeunes étoiles. Les plus massives d'entre elles ionisent les nuages environnants et créent des régions HII. Ces étoiles massives finissent en supernovas, produisant ainsi un rémanent qui interagit avec le gaz environnant. Cela enclenche une réaction en chaîne de formation d'étoiles qui se propage à travers toute la région gazeuse. Un tel sursaut d'étoiles ne prend fin que lorsque le gaz disponible est consumé ou dispersé.
+Les starburst sont souvent associés avec les galaxies en interaction ou en fusion. L'exemple-type de galaxie subissant un starburst est M82, qui a récemment interagit avec M81, de taille supérieure. les galaxies irrégulières présentent souvent des nœuds ou le taux de formation est particulièrement élevé.
+
+
+=== Noyau actif ===
+
+Certaines galaxies sont dites actives. Cela veut dire qu'une partie significative de l'énergie totale est émise par des sources autres que les étoiles, la poussière, ou le milieu interstellaire.
+Le modèle standard décrivant une galaxie est basé sur le disque d'accrétion présent autour du trou noir supermassif de la galaxie. Le rayonnement issu des galaxies actives provient de l'énergie potentielle gravitationnelle de la matière lorsqu'elle tombe du disque vers le trou noir. Environ 10 % de ces objets présentent une paire de jets de particules dont la vitesse est proche de celle de la lumière.
+Les galaxies actives émettant un rayonnement hautement énergétique sous forme de rayons X sont appelées galaxies de Seyfert ou quasars, selon leur luminosité. On pense que les blazars sont des galaxies actives émettant des jets pointés vers la terre. Une radiogalaxie émet un rayonnement situé dans les ondes radio depuis ses jets.
+Un modèle unificateur explique que les différences entre les divers types de galaxies actives ne sont dues qu'à l'angle de vue de l'observateur.
+
+
+== Formation et évolution ==
+
+L'étude de la formation et de l'évolution galactique permet d'esquisser des réponses aux questions concernant l'évolution des galaxies à travers l'histoire de l'univers. Dans ce domaine, quelques théories sont devenues largement acceptées, mais c'est encore un champ très actif de l'astrophysique. Des travaux récents laissent penser que les premières galaxies se seraient formées plus tôt que prévu (une galaxie lointaine contenant des étoiles âgées de 750 millions d'années se serait ainsi formée 200 millions d'années environ après le Big Bang).
+
+
+=== Formation ===
+Les modèles cosmologiques actuels décrivant la formation de l'univers sont basés sur la théorie du Big Bang, selon laquelle l'espace-temps, et avec lui toute la matière et l'énergie composant l'univers, a jailli dans une expansion sans commune mesure, alors qu'il était comprimé à une taille infinitésimale. Environ 300 000 ans après cet évènement initial, la température avait baissé suffisamment pour permettre la formation des atomes d'hydrogène et d'hélium, dans un phénomène appelé Recombinaison. Presque tout l'hydrogène était neutre (non-ionisé) et absorbait donc la lumière, les étoiles ne s'étaient pas encore formées ; pour cette raison, cette période porte le nom d'Âge sombre. C'est à partir des fluctuations de densité (ou irrégularités anisotropiques) que les plus grandes structures de la matière commencèrent à se former. Des agglomérations de matière baryonique se condensèrent à l'intérieur de halos de matière noire froide. Ces structures primordiales finiront par devenir les galaxies que nous observons aujourd'hui.
+Des preuves de l'apparence des galaxies primordiales ont été trouvées dès 2006 avec la découverte de la galaxie IOK-1 qui présente un décalage vers le rouge de 6,96, ce qui correspond à seulement 750 millions d'années après le Big Bang. En mars 2016, des chercheurs travaillant sur des données du télescope spatial Hubble dans le cadre du relevé GOODS découvrent la galaxie GN-z11, qui présente un décalage vers le rouge de 11,01 et observée alors que l'Univers n'avait que 400 millions d'années. GN-z11 est à ce jour l'objet le plus ancien et le plus lointain jamais observé,. L'existence de telles protogalaxies suggère qu'elles ont dû se développer durant l'Âge sombre.
+
+
+=== Évolution ===
+
+Un milliard d'années après la formation de la galaxie, des structures clés commencent à apparaître : des amas globulaires, le trou noir supermassif central et le bulbe galactique constitué d'étoiles de population II. La création d'un trou noir supermassif semble jouer un rôle majeur car il régule activement la croissance des galaxies en limitant la quantité totale de matière ajoutée. Durant cette époque, les galaxies subissent un sursaut majeur de formation d'étoiles.
+Durant les deux milliards d'années suivantes, la matière accumulée s'installe dans le disque galactique. Une galaxie continuera d'absorber les matériaux environnants (présents dans les nuages interstellaires rapides et dans les galaxies naines) durant toute sa vie. Ces matériaux se constituent principalement d'hydrogène et d'hélium. Le cycle de naissance et de mort des étoiles augmente lentement la quantité de matériaux lourds, ce qui peut éventuellement mener à la formation de planètes.
+L'évolution des galaxies peut être fortement affectée par une interaction ou une collision. Les fusions de galaxies étaient fréquentes dans le passé, et la majorité des galaxies avaient des morphologies particulières. Étant donnée la distance entre les étoiles, la grande majorité des systèmes stellaires ne seront pas dérangés par une collision. Cependant, le déchirement gravitationnel de gaz et de poussière interstellaire produit une longue trainée d'étoiles. De telles structures, causées par la force de marée, peuvent être vues sur les Galaxies des Souris ou des Antennes.
+La Voie lactée et la galaxie d'Andromède se rapprochent l'une de l'autre à la vitesse de 130 km/s, et pourraient bien entrer en collision dans 5 à 6 milliards d'années. Bien que la Voie lactée ne soit jamais entrée en collision avec une grande galaxie comme Andromède, le nombre de preuves de collision de la Voie lactée avec des galaxies naines augmente.
+De telles interactions à grande échelle sont rares. Dans le passé, les fusions de deux systèmes de taille égales devinrent moins fréquentes. La plupart des galaxies brillantes sont restées pratiquement inchangées durant les derniers milliards d'années, et le taux net de formation d'étoiles a probablement atteint son maximum il y a approximativement 10 milliards d'années.
+
+
+=== Tendances futures ===
+À présent, la plupart des étoiles se forment dans les petites galaxies, où le gaz froid n'est pas épuisé. Les galaxies spirales, comme la Voie lactée, produisent des étoiles de nouvelles générations tant qu'elles ont des nuages d'hydrogène moléculaire denses. Les galaxies elliptiques déjà en grande partie dépourvues de ce gaz ne forment donc pas d'étoiles. Les réserves de matière créant les étoiles sont limitées : une fois que les étoiles ont converti tout l'hydrogène disponible en éléments plus lourds, la formation de nouvelles étoiles prendra fin.
+L'époque actuelle d'étoiles naissantes devrait continuer durant encore cent milliards d'années. Mais l'« Ère Stellaire » s'arrêtera dans dix à cent mille milliards d'années (1013 à 1014, lorsque les étoiles les moins massives (et donc celles qui ont la plus grande durée de vie), les minuscules naines rouges, d'environ 0,08 masse solaire, finiront leur « combustion » et s'effondreront.
+À la fin de l'Ère Stellaire, les galaxies ne seront composées que d'objets compacts : des naines brunes, des naines blanches en train de se refroidir (qui, une fois froides, deviennent des naines noires), des étoiles à neutrons, et des trous noirs ; ainsi que des planètes et divers planétésimaux. Ensuite, toute la matière tombera dans les trous noirs centraux ou sera dispersée dans l'espace intergalactique,.
+
+
+== Structures à plus grande échelle ==
+
+La plupart des galaxies sont gravitationnellement reliées à un certain nombre d'autres. Les groupes de galaxies sont les types de groupes galactiques les plus courants dans l'univers, et ceux-ci contiennent la majorité des galaxies (et donc la majorité de la masse baryonique) présentes dans l'univers. Ils comportent quelques dizaines de membres. La Voie lactée fait ainsi partie d'un groupe de galaxies appelé Groupe local dont elle est le membre le plus massif avec la Galaxie d'Andromède (M31), ses autres membres étant de masse nettement plus faible.
+Lorsqu'une concentration de galaxies contient plus d'une centaine de galaxies situées dans une zone de quelques mégaparsecs, elle est alors appelée amas. Les amas de galaxies sont souvent dominés par une galaxie elliptique géante. Avec le temps, celle-ci détruit ses satellites, qui viennent ajouter leur masse à la sienne, par le biais des forces de marée. L'amas auquel appartient le Groupe local est appelé amas de la Vierge, du nom de la constellation dans laquelle se trouve son centre.
+Les superamas contiennent des dizaines de milliers de galaxies, elles-mêmes isolées ou regroupées en amas et en groupes. À l'échelle des superamas, les galaxies seraient disposées en feuilles et en filaments, laissant entre eux d'immenses vides. À une échelle supérieure, l'Univers semble être isotrope et homogène.
+Groupes, amas et superamas ne sont pas des structures figées. Les galaxies qui les composent interagissent entre elles, et sont susceptibles de fusionner. D'autres galaxies peuvent y naître à partir de la matière présente non encore condensée en galaxies.
+
+
+== Observations à longueurs d'onde multiple ==
+Initialement, la majorité des observations se faisaient en lumière visible. Comme les étoiles rayonnent le gros de leur lumière dans ce domaine du spectre électromagnétique, l'observation des étoiles formant les galaxies externes à la Voie lactée est un composant majeur de l'astronomie optique. En outre, elle est également utile à l'observation des régions HII ionisées et des bras poussiéreux.
+La poussière présente dans le milieu interstellaire est opaque à la lumière visible. Par contre, elle devient plus transparente dans l'infrarouge lointain ; celui-ci peut donc être utile à l'observation de l'intérieur des nuages moléculaires géants et des noyaux galactiques. L'infrarouge peut aussi être utilisé pour observer les galaxies distantes et décalées vers le rouge qui se sont formées tôt dans l'histoire de l'Univers. Comme la vapeur d'eau ainsi que le dioxyde de carbone absorbent des portions utiles du spectre infrarouge, les observatoires à infrarouges se situent en haute altitude ou dans l'espace.
+La première étude non-visuelle des galaxies, en particulier des galaxies actives, fut faite en ondes radio. L'atmosphère est en effet presque transparente aux ondes radio situées entre 5 Hz et 3 GHz (l'ionosphère terrestre bloque le signal en dessous de cette plage). De grands interféromètres radio ont été utilisés pour cartographier les jets émis par les galaxies actives. Les radiotélescopes peuvent aussi être utilisés pour observer l'hydrogène neutre (via la raie à 21 centimètres), incluant potentiellement, la matière non-ionisée des débuts de l'univers qui forma les galaxies en s'effondrant.
+Les télescopes à ultraviolet permettent de mieux mettre en évidence les étoiles chaudes, souvent massives et de durée de vie limitée, mettant ainsi en évidence le phénomène de formation d'étoiles dans les galaxies. Dans le domaine des rayons X, on observe la matière beaucoup plus chaude, notamment la distribution du gaz chaud au sein des amas de galaxies, ainsi que des phénomènes énergétiques au sein du cœur des galaxies où se trouve souvent un trou noir supermassif dont la présence est entre autres trahie par l'existence de volutes de gaz très chaud en train d'être englouties par le trou noir central.
+
+
+== Bibliographie ==
+Références générales
+Terence Dickinson, The Universe and Beyond, Firefly Books Ltd., 2004 (ISBN 1-55297-901-6)
+James Binney et Michael Merrifield, Galactic Astronomy, Princeton University Press, 1998, 796 p. (ISBN 0-691-00402-1)
+(en) David Merritt, Dynamics and Evolution of Galactic Nuclei, Princeton, N.J., Princeton University Press, 2013, 551 p. (ISBN 978-0-691-12101-7 et 0-691-12101-X)
+
+
+== Notes et références ==
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « Galaxy » (voir la liste des auteurs).
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Voie lactée, notre galaxie
+Groupe local, le groupe de galaxies dont fait partie la Voie lactée, et dont les autres principaux représentants sont :
+M31, la Galaxie d'Andromède ;
+M33, la Galaxie du Triangle ;
+Le Grand Nuage de Magellan et le Petit Nuage de Magellan ;
+NGC 6822, la première galaxie hors Voie lactée identifiée comme telle.
+Amas de la Vierge, la structure plus vaste dans laquelle s'insère le Groupe local
+UDFj-39546284, la galaxie la plus ancienne détectéeGalaxie spirale
+Galaxie elliptique
+Galaxie irrégulière
+Galaxie naine
+Listes de galaxies
+
+
+=== Liens externes ===
+(fr) Les galaxies et l'univers, sur le site de l'Université libre de Bruxelles
+(fr) Étoiles et galaxies, sur le site du Centre de recherche astronomique de Lyon
+ Portail de l’astronomie   Portail de la cosmologie

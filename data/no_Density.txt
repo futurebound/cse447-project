@@ -1,0 +1,33 @@
+Tetthet eller densitet er et mål for en gitt egenskap per volum. Det kan for eksempel være massetetthet, som er masse per volum, eller energitetthet, som er energi per volum. Ettersom areal kan sees på som et grensetilfelle av volum, brukes også begrepet i for eksempel befolkningstetthet, som er befolkning per areal, eller magnetisk flukstetthet, som er fluks per areal. Om et objekt har høyere tetthet enn et annet, har det altså større mengde eller antall av den gitte egenskapen per volum (eller areal) enn det andre objektet.
+
+
+== Massetetthet ==
+Når bare termen tetthet eller densitet brukes, siktes det som regel til massetetthet, altså masse per volum. Gjennomsnittstetthet for et objekt er den totale massen delt på det totale volumet, og uttrykkes ofte med den greske bokstaven ρ (rho); 
+
+  
+    
+      
+        ρ
+        =
+        
+          
+            m
+            V
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {m}{V}}}
+  der ρ er objektets midlere tetthet, m er objektets totale masse og V er objektets totale volum. Et objekt med stor tetthet (som et jernstykke) har mindre volum for en gitt masse enn noe som har mindre tetthet (som en isklump).
+Et homogent materiale, slik som rent jern eller is, har samme tetthet overalt i materialet. Andre ganger kan tettheten variere gjennom materialet. Et eksempel er atmosfæren hvor tettheten er større nær bakken enn høyt over bakken.
+
+
+=== Enheter ===
+SI-enheten for tetthet er kilogram per kubikkmeter (kg/m³). Noen bruker fremdeles den gamle enheten g/cm³ (gram per kubikkcentimeter) eller kg/l (kilogram per liter) til å måle tetthet.  1 kg/dm³ = 1 g/cm³ = 1 kg/l.
+I USA brukes også enheten pound/cubic foot (lb/cu. ft.).
+
+
+=== Massetettheten av noen kjente materialer ===
+
+
+== Referanser ==

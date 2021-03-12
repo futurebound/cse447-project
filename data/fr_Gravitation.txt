@@ -1,0 +1,578 @@
+La gravitation, l'une des quatre interactions fondamentales qui régissent l'Univers, est l'interaction physique responsable de l'attraction des corps massifs. Elle se manifeste notamment par l'attraction terrestre qui nous retient au sol, la gravité, qui est responsable de plusieurs manifestations naturelles ; les marées, l'orbite des planètes autour du Soleil, la sphéricité de la plupart des corps célestes en sont quelques exemples. D'une manière plus générale, la structure à grande échelle de l'Univers est déterminée par la gravitation.
+Plusieurs théories ont tenté de rendre compte de la gravitation. Actuellement encore, la théorie de la relativité générale d'Albert Einstein (1915) reste la plus satisfaisante. Elle considère la gravitation comme une manifestation de la courbure de l'espace-temps sous l'effet de l'énergie de la matière qui s'y trouve. La loi de la gravitation de Newton, élaborée à la fin du XVIIe siècle, demeure cependant une excellente approximation dans les cas non relativistes (vitesses faibles par rapport à celle de la lumière et masses de l'ordre de la masse solaire ou inférieures).
+À l’échelle microscopique, la gravitation est la plus faible des quatre interactions fondamentales de la physique ; elle devient dominante au fur et à mesure que l’échelle de grandeur augmente. Avec la force électromagnétique, elle est l'une des deux interactions à agir au-delà de la dimension du noyau atomique. De plus, comme elle est toujours attractive, elle domine sur les forces électromagnétiques qui l'emportent à plus courte portée, étant tantôt attractives, tantôt répulsives.
+La théorie de la gravitation est ainsi toujours l'objet de nombreuses recherches, et la communauté scientifique considère qu'élaborer une théorie plus complète de la gravitation, capable de prendre en compte les effets de nature microscopique (quantiques), et pour cette raison appelée gravitation quantique, est un des grands défis à relever pour la physique du XXIe siècle.
+
+
+== Compréhension intuitive ==
+Penser, comme Aristote, que sur Terre (et avec l'hypothèse du vide atmosphérique) plus un corps est lourd, plus il tombe vite c'est faire une confusion entre quantité et qualité :
+
+Quantité : prenons en main un corps attiré par la Terre, et décomposons-le, par un jeu de l'esprit, en une myriade de « micro-briques de matière ». Chaque « brique de matière », étant attirée par la Terre, exerce une force sur la main, nommée poids, et le grand nombre de briques exerçant ce poids donne le poids global. Le poids global d'un objet dépend de la quantité de matière : c'est une grandeur approximativement extensive.
+Qualité : lâchons ce corps, supposé fait d'une seule matière, il tombe. Chaque micro-brique tombe parce qu'elle est attirée par la Terre et acquiert une certaine vitesse, sans tenir compte de la présence éventuelle d'autres briques alentour. Donc, quel que soit le nombre de micro-briques, toutes tombent simultanément et à la même vitesse (car toutes faites de la même matière et identiques) : c'est la vitesse du corps entier, qui ne dépend pas du nombre de briques et donc ne dépend pas de sa masse. Cette vitesse est une qualité du corps totalement indépendante de la quantité de matière : c'est une grandeur intensive.Ainsi, bien qu'elles soient intimement associées dans nos expériences et nos sensations courantes, les deux grandeurs (poids et vitesse de chute) sont bien distinctes.
+La distinction ci-dessus entre qualité et quantité n'explique pas qu'en l'absence d'air, du bois et du métal tombent exactement à la même vitesse. Ce fait expérimental laisse penser que ces deux matières différentes (ainsi que toutes les autres) ont en commun la même qualité. Les expérimentations et les réflexions sur ce sujet ont donné le principe d'équivalence.
+En termes plus précis et plus scientifiques, la relativité générale étudie la gravitation et, comme « qualité commune » aux corps dans le problème posé ci-dessus, permet de proposer « l'énergie », bien qu'en toute rigueur cette théorie admet comme hypothèse l'existence de cette « qualité commune » (en admettant le principe d'équivalence) et qu'elle exclut toute idée d'attraction et de force gravitationnelle.
+En laissant tomber simultanément des objets de poids, formes ou volumes très différents, par exemple une balle de mousse et une bille de métal de même diamètre, depuis une hauteur d'homme, on peut penser qu'il y a égalité des vitesses de chute. Mais quand la hauteur de chute est plus grande, des différences perceptibles apparaissent, du fait des frottements de l'air. Galilée sera le premier à comprendre que les frottements sont la seule cause des différences de vitesses entre ces corps.
+
+
+== Histoire ==
+
+
+=== Antiquité ===
+Le philosophe grec Archimède a découvert le centre de gravité d'un triangle. Il a également postulé que si deux poids égaux n'avaient pas le même centre de gravité, le centre de gravité des deux poids combinés serait au milieu de la ligne qui joint leurs centres de gravité respectifs.
+L'architecte et ingénieur romain Vitruve postule dans l'ouvrage De Architectura que la gravité d'un objet ne dépend pas de son poids mais plutôt de sa nature.
+Dans l'Inde ancienne, Aryabhata a identifié la force pour expliquer pourquoi les objets ne sont pas projetés vers l'extérieur lorsque la Terre tourne. Brahmagupta a décrit la gravité comme une force d'attraction et a utilisé le terme « Gurutvaakarshan » pour décrire cette dernière,.
+
+
+=== Modélisation de Galilée ===
+
+Par une expérience, mythique, réalisée du haut de la tour de Pise, le savant italien Galilée (1564-1642) aurait constaté que des balles lourdes et de poids différents ont le même temps de chute, mais, quand il explique dans son Dialogue sur les deux grands systèmes du monde pourquoi il en est ainsi dans le vide, il justifie par des expériences de pensée : notamment en imaginant deux pierres de même poids et forme, chutant simultanément et reliées ou non par un lien, formant ainsi deux corps séparés de même poids ou bien un seul de poids double, mais ayant dans tous les cas la même vitesse de chute.
+Vers 1604, Galilée utilise un constat : un objet en chute libre possède une vitesse initiale nulle, mais quand il arrive au sol, sa vitesse… n'est pas nulle. Donc la vitesse varie durant la chute. Galilée propose une loi simple : la vitesse varierait continûment à partir de 0, et proportionnellement au temps écoulé depuis le début de la chute.
+Ainsi : vitesse = constante × temps écoulé.
+Il en conclut, après un calcul similaire à la démonstration établie plus de deux siècles auparavant par Nicolas Oresme[réf. nécessaire], que, pendant une chute, la distance parcourue est proportionnelle au carré du temps écoulé.
+Plus précisément : distance = ½ constante × temps écoulé2 (avec la même constante que ci-dessus).
+Son idée est confirmée dans une expérience, avec du matériel construit de sa main : une gouttière inclinée le long de laquelle des clochettes sont disposées pour indiquer le passage de la bille.
+La constante sera notée g (accélération de la pesanteur) et sa valeur déterminée expérimentalement (environ 9,81 m/s2). La pesanteur varie notamment selon le lieu sur Terre. Par convention, sa valeur normale est fixée à g0 = 9,806 65 m s−2.
+
+
+=== Modélisation d'Isaac Newton (1643-1727) ===
+
+Mathématicien autant que physicien et alchimiste, Isaac Newton mit au point, entre 1665 et 1685, sa théorie de la mécanique fondée sur l’étude de l’accélération, et non seulement de la vitesse comme le faisaient Galilée et René Descartes.
+Newton chercha à unifier les lois connues pour les objets sur Terre et les lois observées pour les astres, notamment la gravitation terrestre et les mouvements des planètes, en considérant et traitant la gravitation comme une force.
+En considérant deux corps ponctuels exerçant une force gravitationnelle l’un sur l’autre, une justification de la loi de Newton est la suivante :
+
+À partir des lois de Kepler, que celui-ci avait obtenues en observant les mouvements des planètes du Système solaire, et de la loi de Christiaan Huygens sur la force centrifuge, Newton conclut que la force agissante entre deux corps s’exerce en ligne droite entre les deux corps et est proportionnelle à 1/d2, où d est la distance entre les deux corps.
+Considérant que cette force est proportionnelle à la quantité de matière présente dans le corps exerçant cette force (un corps ayant deux fois plus de matière exerce une force égale à la somme des forces de deux corps, donc exerce une force deux fois plus grande), il suppose que la force est proportionnelle à mA, nombre appelé « masse gravifique », proportionnelle à la quantité de matière dans le corps A et reflétant sa capacité à exercer cette force (la « charge » gravitationnelle en fait), dépendant sans doute de sa nature (plomb, argile ou gaz…).
+En vertu du principe des actions réciproques, la force exercée par l’autre corps sur le premier doit être égale (et de sens opposé) et doit aussi être proportionnelle à mB, la masse gravifique du deuxième corps B.
+Aucun autre paramètre ne semblant entrer en compte, cette force du corps A sur le corps B s’exprime sous la forme : 
+  
+    
+      
+        
+          F
+          
+            A
+            
+              /
+            
+            B
+          
+        
+        =
+        G
+        ×
+        
+          
+            
+              
+                m
+                
+                  A
+                
+              
+              ⋅
+              
+                m
+                
+                  B
+                
+              
+            
+            
+              d
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle F_{A/B}=G\times {\frac {m_{A}\cdot m_{B}}{d^{2}}}}
+   où 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   est une constante, appelée constante gravitationnelle qui est environ égale à 6,67 × 10−11 N m2 kg−2.En écrivant le principe fondamental de la dynamique pour le corps A de masse inerte 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  , on obtient 
+  
+    
+      
+        m
+        ⋅
+        a
+        =
+        G
+        ⋅
+        
+          
+            
+              
+                m
+                
+                  A
+                
+              
+              ⋅
+              
+                m
+                
+                  B
+                
+              
+            
+            
+              d
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle m\cdot a=G\cdot {\frac {m_{A}\cdot m_{B}}{d^{2}}}}
+  . On constate que pour que l’accélération 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   (et donc la vitesse) d’un corps en chute libre sur terre soit indépendante de sa masse inertielle 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   (comme l’a expérimenté Galilée), il faut que 
+  
+    
+      
+        m
+        =
+        
+          m
+          
+            A
+          
+        
+      
+    
+    {\displaystyle m=m_{A}}
+   pour ce corps, c’est-à-dire que la « masse gravifique » soit égale à la masse inertielle, indépendamment de la nature du corps (en fait la proportionnalité entre ces masses suffit, avec le même coefficient pour tous les matériaux, ensuite on peut les rendre égales avec un choix des unités de mesure). Newton a testé cette égalité pour de nombreux matériaux, et depuis les expériences n’ont jamais cessé, avec de plus en plus de raffinements (balance d’Eötvös, etc.). Depuis, cette égalité a été appelée le principe d’équivalence faible.
+L’action à distance (sans contact, à travers le vide) et la propagation instantanée de la force de gravitation ont aussi suscité des doutes, y compris de Newton.
+
+Dans l’écriture vectorielle moderne, la force gravitationnelle s’écrit :
+
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            12
+          
+        
+        =
+        −
+        G
+        
+        
+          
+            
+              
+                m
+                
+                  1
+                
+              
+              
+                m
+                
+                  2
+                
+              
+            
+            
+              d
+              
+                2
+              
+            
+          
+        
+        
+        
+          
+            
+              
+                u
+                →
+              
+            
+          
+          
+            12
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{12}=-G\,{\frac {m_{1}m_{2}}{d^{2}}}\,{\vec {u}}_{12}}
+  
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            12
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{12}}
+   étant la force gravitationnelle exercée par le corps 1 sur le corps 2 (en newtons ou m kg s−2),
+
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  , la constante gravitationnelle, qui vaut 6,674 2 × 10−11 N m2 kg−2 (ou m3 kg−1 s−2),
+
+  
+    
+      
+        
+          m
+          
+            1
+          
+        
+      
+    
+    {\displaystyle m_{1}}
+   et 
+  
+    
+      
+        
+          m
+          
+            2
+          
+        
+      
+    
+    {\displaystyle m_{2}}
+  , les masses des deux corps en présence (en kilogrammes),
+
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  , la distance entre les deux corps (en mètres),
+
+  
+    
+      
+        
+          
+            
+              
+                u
+                →
+              
+            
+          
+          
+            12
+          
+        
+      
+    
+    {\displaystyle {\vec {u}}_{12}}
+   le vecteur unitaire dirigé du corps 1 vers le corps 2,
+le signe – indique que le corps 2 est attiré par le corps 1.La loi newtonienne de la gravitation permet d'expliquer l'origine de la loi de Galilée : en notant r le rayon terrestre et mT la masse de la Terre, on obtient 
+  
+    
+      
+        g
+        =
+        G
+        ⋅
+        
+          
+            
+              m
+              
+                
+                  T
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle g=G\cdot {\frac {m_{\mathrm {T} }}{r^{2}}}}
+   m s−2 soit approximativement 9,8 m/s2.
+La théorie newtonienne est bien vérifiée expérimentalement. D’un point de vue technique, elle suffit pour faire voler des objets plus lourds que l’air et pour envoyer des hommes sur la Lune. La force de pesanteur est la résultante de la force de gravité et de forces axifuges (la force centrifuge liée à la rotation de la terre sur elle-même, de la loi de l’inertie du mouvement, etc.).
+
+
+=== Reformulations de la théorie de Newton ===
+Joseph-Louis Lagrange a réécrit, à partir de 1762, la théorie de la gravitation et l'ensemble de la physique en y introduisant le principe de moindre action qui avait été formulé par Pierre Louis Maupertuis vers 1744.
+William Rowan Hamilton, vers 1830, a substitué au principe de moindre action la notion d'énergie, qui est une constante pour tout système isolé (c’est-à-dire : sans interaction avec l'extérieur) et qui sera de la plus grande importance pour la physique relativiste et en mécanique quantique, au XXe siècle.
+L'idée d'un champ de force, introduite par Michael Faraday, ne permit qu'une réécriture de la théorie de la gravitation newtonienne, mais cette notion se révélera féconde quand il s'agira de concevoir la gravitation relativiste. Le champ ou champ de force de la gravitation est une propriété de l'espace due à la masse d'un corps. Une autre masse entrant en contact avec ce champ est soumise à une influence, une force, due au champ. Ainsi, l'influence gravitationnelle n'est pas, dans ce cadre, créée et transportée instantanément d'un corps à l'autre, mais est déjà présente dans tout l'espace sous la forme du champ et à son contact un corps voit sa dynamique modifiée. Toutefois, le champ est lui-même instantanément modifié par le corps qui le crée.
+Si M est la masse du corps ponctuel émetteur du champ, et si r est la distance entre ce corps et le point de l'espace que l'on considère, le champ en ce point s'exprime par 
+  
+    
+      
+        V
+        (
+        r
+        )
+        =
+        −
+        
+          
+            
+              G
+              ⋅
+              M
+            
+            r
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle V(r)=-{\frac {G\cdot M}{r}}\,,}
+   le « potentiel gravitationnel » .
+Un corps ponctuel de masse m étant en contact avec ce champ, la force qu'il subit est 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+        (
+        r
+        )
+        =
+        −
+        m
+        
+          
+            
+              ∇
+              →
+            
+          
+        
+        V
+        (
+        r
+        )
+        =
+        −
+        
+          
+            
+              G
+              ⋅
+              M
+              ⋅
+              m
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+        ⋅
+        
+          
+            
+              
+                u
+                →
+              
+            
+          
+          
+            
+              
+                r
+                →
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}(r)=-m{\vec {\nabla }}V(r)=-{\frac {G\cdot M\cdot m}{r^{2}}}\cdot {\vec {u}}_{\vec {r}}}
+  , où 
+  
+    
+      
+        
+          
+            
+              
+                u
+                →
+              
+            
+          
+          
+            
+              
+                r
+                →
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {u}}_{\vec {r}}}
+   est le vecteur unitaire de même direction et de même sens que 
+  
+    
+      
+        
+          
+            
+              r
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {r}}}
+   qui va de M à m.
+
+
+=== Modélisation d'Albert Einstein (1879-1955) ===
+
+Après avoir énoncé la théorie de la relativité restreinte en 1905, Albert Einstein cherche à la rendre compatible avec la gravitation, dont l'effet est supposé se propager à une vitesse infinie dans la théorie de Newton, alors que la vitesse de la lumière est la vitesse maximale pour toute interaction selon la relativité restreinte.
+Vers 1915, on émet l'hypothèse que la gravitation n'est pas une force au sens classique, que l'on donne à ce mot en physique, mais une manifestation de la déformation de l'espace-temps sous l'effet de l'énergie de la matière qui s'y trouve. Cette hypothèse résulte de l'observation que tous les corps tombent de la même façon dans un champ de gravitation, quelles que soient leur masse ou leur composition chimique. Cette observation, a priori fortuite en théorie newtonienne, mais remarquablement vérifiée expérimentalement, est formalisée sous le nom de principe d'équivalence et amène naturellement à considérer que la gravitation est une manifestation de la géométrie à 4 dimensions de l'espace-temps. Au terme traditionnel de force se substitue alors celui plus générique d'interaction.
+La théorie ainsi construite, qui porte le nom de relativité générale, incorpore le principe de relativité, et la théorie newtonienne en est une approximation dans la limite des champs gravitationnels faibles et des vitesses petites devant celle de la lumière. En effet, les déformations de l'espace-temps prévues sous l'effet des corps massifs, quand ceux-ci ont une forte accélération, ne se propagent pas plus vite que la vitesse de la lumière, ce qui résout le paradoxe de l'instantanéité apparente de l'interaction newtonienne. Il en résulte des ondes gravitationnelles, détectées pour la première fois le 14 septembre 2015.
+
+
+== Domaines ==
+
+
+=== Gravitation et astronomie ===
+
+La gravitation newtonienne est suffisante pour décrire la majorité des phénomènes observés à l'échelle des étoiles. Elle suffit, par exemple, pour décrire l'évolution des planètes du Système solaire, à quelques détails près comme l'avance du périhélie de Mercure et l'effet Shapiro.
+Mais la relativité générale est nécessaire pour modéliser certains objets et phénomènes astronomiques particuliers : les étoiles à neutrons, les mirages gravitationnels, les objets très compacts tels que les trous noirs, etc.
+
+
+=== Gravitation et cosmologie ===
+
+La gravitation étant la force dominante à l'échelle des distances astronomiques, les théories newtonienne et einsteinienne ont été confrontées depuis leurs créations respectives aux observations de la structure à grande échelle de l'univers. Si aux échelles des étoiles et des galaxies, la gravitation newtonienne est suffisante, dans beaucoup de situations, la théorie newtonienne est en difficulté. Par exemple, elle est incapable d'offrir une description cohérente d'un univers homogène infini alors que la relativité générale est parfaitement en mesure de décrire une telle situation.
+La relativité générale seule ne suffit cependant pas pour décrire la structure à grande échelle de l'Univers. Il faut lui adjoindre des hypothèses sur la répartition spatiale de la matière. Les observations indiquent qu'à grande échelle, l'univers est remarquablement homogène (à plus petite échelle, la matière est bien sûr répartie de façon non uniforme : l'espace entre les étoiles d'une même galaxie est essentiellement vide, tout comme l'espace entre les galaxies). Ce fait observationnel avait au départ été supposé par Einstein, qui lui avait donné le nom de principe cosmologique. Sous cette hypothèse, la relativité générale permet, assez facilement du reste, une modélisation cohérente de l'Univers. Il existe cependant, outre la matière visible constituant les étoiles, et le gaz des galaxies, une matière noire aux propriétés et à la distribution encore très mal connues.
+La dynamique de l'Univers va, elle, dépendre des propriétés de la matière qui le compose, en particulier de son équation d'état. On peut montrer que, sauf cas particulier, l'Univers ne peut être statique : il est soit en contraction, soit en expansion globales. De toute manière, une structure globale uniforme de l'Univers serait instable : les parties les plus denses, même très faiblement, finiraient par s'effondrer sous leur propre poids, attirant la matière des parties les moins denses, et les laissant entièrement vides. (Cependant, à moyenne échelle, l'Univers a une « structure d'éponge » et il existe d'énormes bulles sans matière visible).
+Bien que la théorie de « l'Expansion » tienne peu compte des nombreuses interactions existant entre la matière et les rayonnements électromagnétiques (sinon, par exemple, seul le radar existerait ; on n'aurait pas de four à micro-ondes) ; les observations confirment globalement cette prédiction puisque l'on observe une récession apparente des galaxies, celles-ci s'éloignant de nous d'autant plus vite qu'elles sont éloignées. Le décalage spectral des lumières lointaines fut découvert par Edwin Hubble à la fin des années 1920. Plus tard, son élève, Allan Sandage introduisit le concept de l'Expansion, à la suite des travaux de Lemaître et Gamow. Elle indique que l'univers tel que nous le connaissons est issu d'une phase extraordinairement dense et chaude : le Big Bang. Plusieurs observations quantitatives confirment l'histoire du Big Bang, à partir de sa première minute. Le destin de l'univers n'est pas connu avec certitude, car le comportement à long terme de la matière est incertain. On a observé une accélération de l'expansion de l'univers, due à une force de répulsion à très longue distance, prévue comme une possibilité dans la Relativité Générale. Ceci semble être le signe probable que l'expansion durera indéfiniment, sans donner lieu à une phase de recontraction (Big Crunch) ou ; que cette expansion n'est qu'une apparence, très commode pour rendre compte de nombreuses observations.
+
+
+=== Gravitation et physique quantique ===
+
+La relativité générale a été conçue sur l'hypothèse de la continuité de l'espace-temps (et même sa différentiabilité) et sur l'hypothèse de la continuité de la matière (entre autres pour construire le tenseur de densité d'énergie-impulsion). Cette deuxième hypothèse est clairement une approximation au regard de la physique quantique.
+La physique quantique étant l'exploration de l'infiniment petit, l'expérimentation de la gravitation dans ce cadre se heurte à un problème majeur : les trois autres forces qui y règnent sont au moins 1025 fois plus fortes, alors qu'il est déjà difficile d'expérimenter sur elles ; du coup les effets de la gravitation se perdent dans les inévitables imprécisions des mesures.
+Cette difficulté expérimentale n'a pas empêché les tentatives théoriques de construire une gravitation quantique, sans résultat susceptible à ce jour de vérification expérimentale.
+On peut toutefois remarquer que :
+
+L'ajout du potentiel gravitationnel à l'équation de Schrödinger permet de retrouver un résultat connu : les particules tombent.
+L'utilisation des intégrales de chemin de Feynman a permis de prévoir un déphasage de la fonction d'onde dû à la gravitation (galiléenne) ; ces deux effets correspondent à une approximation semi-classique en mécanique quantique.
+L'équation des ondes gravitationnelles peut s'interpréter comme celle de la propagation d'une particule appelée graviton, jugée responsable de la gravitation, dont on peut déduire certaines propriétés (notamment sa masse, nulle, et son spin, égal à 2), sans que cela ait pu encore être vérifié expérimentalement malgré les tentatives de plus en plus sophistiquées.Exemples de théories quantiques de la gravitation : théorie M, supergravité, géométrie non commutative, gravitation quantique à boucles.
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Références ===
+
+
+== Liens externes ==
+"Gravitation : plus dure sera la chute ?", émission "La méthode scientifique", France Culture, le 31 janvier 2019
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+Les Cahiers de Science et Vie : Galilée (1991), Newton (1993), Kepler (1994), Descartes (2001).
+Gianni Pascoli, La Gravitation, Paris, PUF, coll. Que sais-je ?. Exposé court des problématiques qui ont amené à la relativité générale, et études de quelques conséquences de cette théorie.
+Françoise Balibar, Galilée, Newton lus par Einstein, Paris, PUF, 1984.
+Françoise Balibar, Einstein 1905. De l'éther aux quanta, Paris, PUF, 1992,  (ISBN 2-13-044298-6).
+Dominique Lecourt et Thomas Bourgeois, Dictionnaire d'histoire et philosophie des sciences, Presses universitaires de France, coll. « Quadrige Dicos Poche », 2006, 4e éd. (ISBN 978-2-13-054499-9). On y trouve, entre autres, l'article Champ rédigé par Françoise Balibar, ainsi que l'article Gravitation rédigé par John Stachel.
+Lev Landau et Evgueni Lifchits, Physique théorique [détail des éditions]
+Georges-Antoine Chaduteau, La Gravitation, attraction ou répulsion ?, Éditions Rencontres université, 2017, 9782873070670.
+
+
+=== Articles connexes ===
+Champ gravitationnel
+Onde gravitationnelle
+Figure de la Terre et gravitation universelle
+Graviton
+Histoire de la gravitation, Lois de Kepler
+Lagrangien, Mécanique hamiltonienne
+Masse de la Terre
+Mécanique newtonienne, Force (physique), Lois du mouvement de Newton
+Pesanteur, Poids
+ Portail de la physique   Portail de la géodésie et de la géophysique   Portail de l’astronomie   Portail de la cosmologie

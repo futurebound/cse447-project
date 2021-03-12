@@ -1,0 +1,9 @@
+Argonite er navnet på en brandhæmmende gas, som består af en blanding af 50% argon (Ar) og 50% nitrogen (N2), som begge er rene og naturligt forekommende produkter. Gassen er således et miljø- (GWP=0) og ozon-neutralt (ODP=0) slukningsmiddel, som bruges i brandhæmmende gasbaserede systemer.
+
+
+== Anvendelsesområde ==
+Argonite er et registreret varemærke ejet og udviklet af Ginge-Kerr Danmark A/S og anvendes i forbindelse med virksomhedens brandslukningsanlæg, under navnet Argonite automatisk rumslukningssystem (ARS), til automatisk beskyttelse eller minimering af følgeskaderne på eksempelvis elektronisk udstyr eller tekniske installationer i et serverrum i tilfælde af brand. Distributionssystemet til udløsning af gassen reguleres af et dedikeret computer system, hvori man specificerer størrelsen og kompleksiteten af området, som skal beskyttes, samt den pågældende brand risiko. Størrelsen og geometrien af distributionssystemet afhænger ligeledes af disse specifikationer og vil derfor normalt optage en større pladsmængde og er tungere end tilsvarende brandbeskyttelsessystemer, som bruger brandhæmmende væsker.
+
+
+== Gassens virkemåde ==
+Såfremt argonite (synlig) udløses i et afslukket rum, etableres der en inaktiv brandhæmmende atmosfære, som fungerer ved at nedkøle og ved at reducere oxygen (ilt) koncentrationen fra det normale niveau til en 10-12% volume. Ved denne koncentration vil de fleste brande i næsten alle brandbare materialer og væsker blive slukket gennem såkaldt ilt-kvælning, med undtagelse af nogle få aktive metaller og metalliske salte og substanser indeholdende oxygen såsom nitrater og chlorater. Det er muligt for personer at forblive i området for en kort periode efter gassens udløsning uden sundhedsrisiko. Argon-gassen er til stede i luften og vender, efter brandbekæmpelse, tilbage til sin plads i den naturlige atmosfæriske cyklus.

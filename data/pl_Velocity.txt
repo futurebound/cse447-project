@@ -1,0 +1,2810 @@
+Prędkość – wielkość fizyczna opisująca szybkość zmiany położenia ciała względem układu odniesienia. Prędkość jest podstawową koncepcją kinematyki, gałęzi mechaniki klasycznej opisującej ruch ciał.
+Prędkość może określać:
+
+wektorową wielkość fizyczną wyrażająca zmianę wektora położenia w jednostce czasu,
+skalarną wielkość oznaczającą przebytą drogę w jednostce czasu zwaną szybkością.Jednostką prędkości w układzie SI jest metr na sekundę (m/s).
+
+
+== Definicje prędkości ==
+
+
+=== Prędkość w ruchu prostoliniowym ===
+Dla ruchu wzdłuż prostej prędkość definiuje się jako pochodną przesunięcia po czasie, czyli granicę przyrostów przesunięcia do przyrostu czasu w jakim nastąpił ten przyrost, dla nieskończenie małego przyrostu czasu:
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              
+                d
+              
+              x
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          lim
+          
+            Δ
+            t
+            →
+            0
+          
+        
+        
+          
+            
+              Δ
+              x
+            
+            
+              Δ
+              t
+            
+          
+        
+        .
+      
+    
+    {\displaystyle v={\frac {\mathrm {d} x}{\mathrm {d} t}}=\lim _{\Delta t\to 0}{\frac {\Delta x}{\Delta t}}.}
+  Prędkość ta zwana jest prędkością chwilową, w przeciwieństwie do prędkości średniej wyznaczonej dla dłuższego odcinka.
+
+
+=== Prędkość wektorowa ===
+
+Prędkość wektorowa średnia określana jest jako iloraz zmiany wektora położenia do czasu, w jakim ta zmiana nastąpiła, co można określić wzorem:
+
+  
+    
+      
+        Δ
+        
+          
+            
+              r
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                r
+                →
+              
+            
+          
+          
+            B
+          
+        
+        −
+        
+          
+            
+              
+                r
+                →
+              
+            
+          
+          
+            A
+          
+        
+        ,
+      
+    
+    {\displaystyle \Delta {\vec {r}}={\vec {r}}_{B}-{\vec {r}}_{A},}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            s
+          
+        
+        =
+        
+          
+            
+              Δ
+              
+                
+                  
+                    r
+                    →
+                  
+                
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {v}}_{s}={\frac {\Delta {\vec {r}}}{\Delta t}}.}
+  Wynikającą z tego zmianę położenia określa wzór:
+
+  
+    
+      
+        Δ
+        
+          
+            
+              r
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            s
+          
+        
+        ⋅
+        Δ
+        t
+        .
+      
+    
+    {\displaystyle \Delta {\vec {r}}={\vec {v}}_{s}\cdot \Delta t.}
+  Gdy odstęp czasu, w którym wyznacza się prędkość średnią, zmniejsza się, iloraz wektora zmiany położenia do czasu, w którym ta zmiana nastąpiła, dąży do pewnego wektora granicznego zwanego prędkością ciała w danym punkcie lub prędkością chwilową. Definicję tę można wyrazić wzorem:
+
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          lim
+          
+            Δ
+            t
+            →
+            0
+          
+        
+        
+          
+            
+              Δ
+              
+                
+                  
+                    r
+                    →
+                  
+                
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                r
+              
+            
+            
+              d
+              t
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {v}}=\lim _{\Delta t\to 0}{\frac {\Delta {\vec {r}}}{\Delta t}}={\frac {d{\boldsymbol {r}}}{dt}}.}
+  Prędkość jest pochodną wektora położenia względem czasu i jest wielkością wektorową, może być rozłożona na składowe, mające kierunek osi współrzędnych, podobnie wektor elementarnej zmiany położenia może być rozłożony na współrzędne
+
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            x
+          
+        
+        +
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            y
+          
+        
+        +
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            z
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    x
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        +
+        
+          
+            
+              d
+              
+                
+                  
+                    y
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        +
+        
+          
+            
+              d
+              
+                
+                  
+                    z
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {v}}={\vec {v}}_{x}+{\vec {v}}_{y}+{\vec {v}}_{z}={\frac {d{\vec {x}}}{dt}}+{\frac {d{\vec {y}}}{dt}}+{\frac {d{\vec {z}}}{dt}}.}
+  Wektor prędkości chwilowej jest równoległy do wektora zmiany położenia, przez co wektor prędkości chwilowej jest styczny do toru ruchu ciała.
+
+
+=== Prędkość jako wielkość niewektorowa ===
+W wielu przypadkach prędkość rozumiana jest jako stosunek drogi do czasu jej przebycia. Tak jest rozumiana intuicyjnie, a także w wielu problemach fizycznych
+
+  
+    
+      
+        
+          v
+          
+            s
+          
+        
+        =
+        
+          
+            
+              Δ
+              s
+            
+            
+              Δ
+              t
+            
+          
+        
+        .
+      
+    
+    {\displaystyle v_{s}={\frac {\Delta s}{\Delta t}}.}
+  Przy czym droga 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   jest rozumiana jako długość odcinka krzywej (toru), po której porusza się ciało, od punktu początkowego do końcowego ruchu. Jeżeli prędkość zmienia się, to droga jest równa sumie małych odcinków drogi, na których uznaje się, że prędkość jest stała i jest określana jako prędkość chwilowa:
+
+  
+    
+      
+        v
+        =
+        
+          lim
+          
+            Δ
+            t
+            →
+            0
+          
+        
+        
+          
+            
+              Δ
+              s
+            
+            
+              Δ
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+              s
+            
+            
+              d
+              t
+            
+          
+        
+        .
+      
+    
+    {\displaystyle v=\lim _{\Delta t\to 0}{\frac {\Delta s}{\Delta t}}={\frac {ds}{dt}}.}
+  Droga przebyta w niewielkim odcinku czasu, w którym prędkość nie zmienia się, jest proporcjonalna do prędkości i czasu. Droga przebyta gdy zmienia się prędkość może być obliczona jako suma, a w granicy jako całka, dróg na odcinkach, na których prędkość nie zmienia się:
+
+  
+    
+      
+        S
+        =
+        
+          ∫
+          
+            
+              t
+              
+                0
+              
+            
+          
+          
+            
+              t
+              
+                1
+              
+            
+          
+        
+        
+        d
+        s
+        (
+        t
+        )
+        .
+      
+    
+    {\displaystyle S=\int \limits _{t_{0}}^{t_{1}}\;ds(t).}
+  Stąd też prędkość średnia:
+
+  
+    
+      
+        
+          v
+          
+            s
+          
+        
+        =
+        
+          
+            S
+            
+              
+                t
+                
+                  2
+                
+              
+              −
+              
+                t
+                
+                  1
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                ∫
+                
+                  
+                    t
+                    
+                      0
+                    
+                  
+                
+                
+                  
+                    t
+                    
+                      1
+                    
+                  
+                
+              
+              
+              d
+              s
+              (
+              t
+              )
+            
+            
+              
+                t
+                
+                  1
+                
+              
+              −
+              
+                t
+                
+                  0
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle v_{s}={\frac {S}{t_{2}-t_{1}}}={\frac {\int \limits _{t_{0}}^{t_{1}}\;ds(t)}{t_{1}-t_{0}}}.}
+  Prędkość chwilowa niewektorowa jest równa modułowi (wartości) prędkości chwilowej wektorowej
+
+  
+    
+      
+        v
+        =
+        
+          |
+        
+        
+          
+            
+              v
+              →
+            
+          
+        
+        
+          |
+        
+        .
+      
+    
+    {\displaystyle v=|{\vec {v}}|.}
+  Średnia prędkość niewektorowa jest większa lub równa modułowi średniej prędkości wektorowej. Równość zachodzi tylko wtedy gdy tor jest prostoliniowy
+
+  
+    
+      
+        
+          v
+          
+            s
+          
+        
+        =
+        
+          
+            s
+            t
+          
+        
+        ⩾
+        
+          |
+        
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            s
+          
+        
+        
+          |
+        
+        .
+      
+    
+    {\displaystyle v_{s}={\frac {s}{t}}\geqslant |{\vec {v}}_{s}|.}
+  
+
+
+== Prędkość w różnych układach współrzędnych ==
+
+
+=== Układ współrzędnych kartezjańskich ===
+W układzie współrzędnych kartezjańskich trzy składowe prędkości (w przestrzeni) albo dwie (na płaszczyźnie) wyrażone są takimi samymi wzorami jak prędkości w ruchu prostoliniowym, przy czym drogą jest w tym przypadku współrzędna danej osi:
+
+  
+    
+      
+        
+          v
+          
+            x
+          
+        
+        =
+        
+          
+            
+              d
+              x
+            
+            
+              d
+              t
+            
+          
+        
+        
+        
+          v
+          
+            y
+          
+        
+        =
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              t
+            
+          
+        
+        
+        
+          v
+          
+            z
+          
+        
+        =
+        
+          
+            
+              d
+              z
+            
+            
+              d
+              t
+            
+          
+        
+        .
+      
+    
+    {\displaystyle v_{x}={\frac {dx}{dt}}\qquad v_{y}={\frac {dy}{dt}}\qquad v_{z}={\frac {dz}{dt}}.}
+  Prędkość można zapisać jako współrzędne wektora
+
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        [
+        
+          v
+          
+            x
+          
+        
+        ,
+        
+          v
+          
+            y
+          
+        
+        ,
+        
+          v
+          
+            z
+          
+        
+        ]
+      
+    
+    {\displaystyle {\vec {v}}=[v_{x},v_{y},v_{z}]}
+  lub z użyciem wersorów osi
+
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          v
+          
+            x
+          
+        
+        ⋅
+        
+          
+            
+              
+                i
+                →
+              
+            
+          
+          
+            x
+          
+        
+        +
+        
+          v
+          
+            y
+          
+        
+        ⋅
+        
+          
+            
+              
+                i
+                →
+              
+            
+          
+          
+            y
+          
+        
+        +
+        
+          v
+          
+            z
+          
+        
+        ⋅
+        
+          
+            
+              
+                i
+                →
+              
+            
+          
+          
+            z
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {v}}=v_{x}\cdot {\vec {i}}_{x}+v_{y}\cdot {\vec {i}}_{y}+v_{z}\cdot {\vec {i}}_{z}.}
+  Wartość prędkości dana jest wzorem:
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              v
+              
+                x
+              
+              
+                2
+              
+            
+            +
+            
+              v
+              
+                y
+              
+              
+                2
+              
+            
+            +
+            
+              v
+              
+                z
+              
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle v={\sqrt {v_{x}^{2}+v_{y}^{2}+v_{z}^{2}}}.}
+  
+
+
+=== Układ współrzędnych biegunowych ===
+Układ współrzędnych biegunowych na płaszczyźnie są dwie współrzędne, promień wodzący 
+  
+    
+      
+        (
+        r
+        )
+      
+    
+    {\displaystyle (r)}
+   i amplituda punktu 
+  
+    
+      
+        (
+        φ
+        )
+        ,
+      
+    
+    {\displaystyle (\varphi ),}
+   będąca kątem między wybranym kierunkiem a danym.
+W układzie tym prędkość można określić poprzez transformację do kartezjańskiego układu współrzędnych o początku będącym początkiem układu biegunowego i zorientowanego względem zerowej amplitudy albo przez wyznaczenie kartezjańskiego układu współrzędnych o kierunku zgodnym z promieniem wodzącym. Transformacje określają wzory:
+
+prędkość radialna – prędkość zmiany długości promienia wodzącego
+  
+    
+      
+        
+          v
+          
+            r
+          
+        
+        =
+        
+          
+            
+              d
+              r
+            
+            
+              d
+              t
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle v_{r}={\frac {dr}{dt}},}
+  prędkość transwersalna – prędkość zmiany położenia w kierunku prostopadłym do promienia wodzącego
+  
+    
+      
+        
+          v
+          
+            φ
+          
+        
+        =
+        r
+        
+          
+            
+              d
+              φ
+            
+            
+              d
+              t
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle v_{\varphi }=r{\frac {d\varphi }{dt}},}
+  Co można wyrazić przez prędkość kątową
+
+  
+    
+      
+        ω
+        =
+        
+          
+            
+              d
+              φ
+            
+            
+              d
+              t
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \omega ={\frac {d\varphi }{dt}},}
+  
+
+  
+    
+      
+        
+          v
+          
+            φ
+          
+        
+        =
+        r
+        ω
+        ,
+      
+    
+    {\displaystyle v_{\varphi }=r\omega ,}
+  gdzie 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   jest kątem mierzonym od ustalonego kierunku.
+Prędkość całkowita:
+
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          v
+          
+            r
+          
+        
+        ⋅
+        
+          
+            
+              
+                i
+                →
+              
+            
+          
+          
+            r
+          
+        
+        +
+        
+          v
+          
+            φ
+          
+        
+        ⋅
+        
+          
+            
+              
+                i
+                →
+              
+            
+          
+          
+            φ
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {v}}=v_{r}\cdot {\vec {i}}_{r}+v_{\varphi }\cdot {\vec {i}}_{\varphi }.}
+  Wartość prędkości całkowitej:
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              v
+              
+                r
+              
+              
+                2
+              
+            
+            +
+            
+              v
+              
+                φ
+              
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            
+              v
+              
+                r
+              
+              
+                2
+              
+            
+            +
+            (
+            r
+            ω
+            
+              )
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle v={\sqrt {v_{r}^{2}+v_{\varphi }^{2}}}={\sqrt {v_{r}^{2}+(r\omega )^{2}}}.}
+  
+
+
+=== Układ współrzędnych walcowych ===
+Układ współrzędnych walcowych, jest uogólnieniem układu biegunowego na przestrzeń trójwymiarową poprzez dodanie do współrzędnych biegunowych współrzędnej w kierunku osi z. Współrzędna z jest liniowa, odpowiadająca jej składowa prędkości jest równa:
+
+  
+    
+      
+        
+          v
+          
+            z
+          
+        
+        =
+        
+          
+            
+              d
+              z
+            
+            
+              d
+              t
+            
+          
+        
+        .
+      
+    
+    {\displaystyle v_{z}={\frac {dz}{dt}}.}
+  Transformacja do kartezjańskich współrzędnych prędkości określa wzór:
+
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          v
+          
+            r
+          
+        
+        ⋅
+        
+          
+            
+              
+                i
+                →
+              
+            
+          
+          
+            r
+          
+        
+        +
+        
+          v
+          
+            φ
+          
+        
+        ⋅
+        
+          
+            
+              
+                i
+                →
+              
+            
+          
+          
+            φ
+          
+        
+        +
+        
+          v
+          
+            z
+          
+        
+        ⋅
+        
+          
+            
+              
+                i
+                →
+              
+            
+          
+          
+            z
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {v}}=v_{r}\cdot {\vec {i}}_{r}+v_{\varphi }\cdot {\vec {i}}_{\varphi }+v_{z}\cdot {\vec {i}}_{z}.}
+  Wartość prędkości:
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              v
+              
+                r
+              
+              
+                2
+              
+            
+            +
+            
+              v
+              
+                φ
+              
+              
+                2
+              
+            
+            +
+            
+              v
+              
+                z
+              
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle v={\sqrt {v_{r}^{2}+v_{\varphi }^{2}+v_{z}^{2}}}.}
+  
+
+
+=== Układ współrzędnych sferycznych ===
+W układzie współrzędnych sferycznych położenie w przestrzeni opisane jest przez współrzędne: promień wodzący, długość azymutalna i odległość zenitalna 
+  
+    
+      
+        (
+        r
+        ,
+        ϕ
+        ,
+        θ
+        )
+        .
+      
+    
+    {\displaystyle (r,\phi ,\theta ).}
+   Wprowadzając układ kartezjański o kierunkach osi zgodnych ze zmianami współrzędnych sferycznych, transformacja współrzędnych prędkości wyraża się wzorami:
+
+  
+    
+      
+        
+          v
+          
+            r
+          
+        
+        =
+        
+          
+            
+              d
+              r
+            
+            
+              d
+              t
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle v_{r}={\frac {dr}{dt}},}
+  
+
+  
+    
+      
+        
+          v
+          
+            φ
+          
+        
+        =
+        r
+        
+          
+            
+              d
+              φ
+            
+            
+              d
+              t
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle v_{\varphi }=r{\frac {d\varphi }{dt}},}
+  
+
+  
+    
+      
+        
+          v
+          
+            θ
+          
+        
+        =
+        r
+        sin
+        ⁡
+        φ
+        ⋅
+        
+          
+            
+              d
+              θ
+            
+            
+              d
+              t
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle v_{\theta }=r\sin \varphi \cdot {\frac {d\theta }{dt}},}
+  gdzie:
+
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   jest kątem mierzonym od ustalonego kierunku, np. od osi (OZ),
+
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   jest kątem, jaki tworzy rzut wektora wodzącego z ustalonym kierunkiem na płaszczyźnie prostopadłej do kierunku pierwszej osi (OZ). Tym kierunkiem może być oś OX.Współrzędne prędkości w wyżej opisanym kartezjańskim układzie współrzędnych:
+
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          v
+          
+            r
+          
+        
+        ⋅
+        
+          
+            
+              
+                i
+                →
+              
+            
+          
+          
+            r
+          
+        
+        +
+        
+          v
+          
+            φ
+          
+        
+        ⋅
+        
+          
+            
+              
+                i
+                →
+              
+            
+          
+          
+            φ
+          
+        
+        +
+        
+          v
+          
+            θ
+          
+        
+        ⋅
+        
+          
+            
+              
+                i
+                →
+              
+            
+          
+          
+            θ
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {v}}=v_{r}\cdot {\vec {i}}_{r}+v_{\varphi }\cdot {\vec {i}}_{\varphi }+v_{\theta }\cdot {\vec {i}}_{\theta }.}
+  Moduł (wartość) prędkości:
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              v
+              
+                r
+              
+              
+                2
+              
+            
+            +
+            
+              v
+              
+                φ
+              
+              
+                2
+              
+            
+            +
+            
+              v
+              
+                θ
+              
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle v={\sqrt {v_{r}^{2}+v_{\varphi }^{2}+v_{\theta }^{2}}}.}
+  
+
+
+=== Dowolne współrzędne krzywoliniowe ===
+Z definicji prędkość 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+   jest równa pochodnej promienia wodzącego 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {r} }
+   względem czasu: 
+  
+    
+      
+        
+          v
+        
+        =
+        
+          
+            
+              
+                r
+              
+              ˙
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {v} ={\dot {\mathbf {r} }}.}
+   Aby wyrazić prędkość we współrzędnych krzywoliniowych, obliczamy tę pochodną według reguły różniczkowania funkcji złożonej, mając na uwadze, że promień wodzący 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {r} }
+   poruszającego się punktu można uważać za funkcję współrzędnych krzywoliniowych 
+  
+    
+      
+        
+          q
+          
+            1
+          
+        
+        ,
+        
+          q
+          
+            2
+          
+        
+        ,
+        
+          q
+          
+            3
+          
+        
+      
+    
+    {\displaystyle q_{1},q_{2},q_{3}}
+   tego punktu, które z kolei są pewnymi funkcjami czasu t:
+
+Stąd
+
+oraz
+
+gdzie wskaźniki 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+   i 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   przebiegają niezależnie od siebie wszystkie wartości od 1 do 3. W przypadku układu ortogonalnego jest
+
+  
+    
+      
+        
+          
+            
+              ∂
+              
+                r
+              
+            
+            
+              ∂
+              
+                q
+                
+                  σ
+                
+              
+            
+          
+        
+        
+          
+            
+              ∂
+              
+                r
+              
+            
+            
+              ∂
+              
+                q
+                
+                  ρ
+                
+              
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\frac {\partial \mathbf {r} }{\partial q_{\sigma }}}{\frac {\partial \mathbf {r} }{\partial q_{\rho }}}=0}
+   dla 
+  
+    
+      
+        
+          q
+          
+            σ
+          
+        
+        ≠
+        
+          q
+          
+            ρ
+          
+        
+      
+    
+    {\displaystyle q_{\sigma }\neq q_{\rho }}
+  i dzięki temu
+
+Jeżeli promień wodzący 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {r} }
+   przedstawiony jest jako funkcja zmiennych 
+  
+    
+      
+        x
+        ,
+        
+        y
+        ,
+        
+        z
+        ,
+      
+    
+    {\displaystyle x,\,y,\,z,}
+   to wzory na prędkość 
+  
+    
+      
+        
+          v
+          
+            2
+          
+        
+      
+    
+    {\displaystyle v^{2}}
+   przybiorą postać
+Definicja wersorów: 
+  
+    
+      
+        
+          
+            e
+          
+          
+            1
+          
+        
+        ,
+        
+          
+            e
+          
+          
+            2
+          
+        
+        ,
+        
+          
+            e
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \mathbf {e} _{1},\mathbf {e} _{2},\mathbf {e} _{3}}
+   osi 
+  
+    
+      
+        
+          q
+          
+            1
+          
+        
+        ,
+        
+          q
+          
+            2
+          
+        
+        ,
+        
+          q
+          
+            3
+          
+        
+      
+    
+    {\displaystyle q_{1},q_{2},q_{3}}
+   wzorem
+
+Prędkość można teraz zapisać w postaci
+
+w której 
+  
+    
+      
+        
+          |
+        
+        ∂
+        
+          r
+        
+        
+          /
+        
+        ∂
+        
+          q
+          
+            σ
+          
+        
+        
+          |
+        
+        
+          
+            
+              
+                q
+                ˙
+              
+            
+          
+          
+            σ
+          
+        
+      
+    
+    {\displaystyle |\partial \mathbf {r} /\partial q_{\sigma }|{\dot {q}}_{\sigma }}
+   jest składową prędkości 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+   wzdłuż osi 
+  
+    
+      
+        
+          q
+          
+            σ
+          
+        
+        .
+      
+    
+    {\displaystyle q_{\sigma }.}
+  
+Prostopadły rzut prędkości 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+   na oś 
+  
+    
+      
+        
+          q
+          
+            σ
+          
+        
+      
+    
+    {\displaystyle q_{\sigma }}
+   jest równy
+
+Ze wzoru (3) wynika równość
+
+  
+    
+      
+        
+          
+            
+              ∂
+              
+                r
+              
+            
+            
+              ∂
+              
+                q
+                
+                  σ
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              ∂
+              
+                v
+              
+            
+            
+              ∂
+              
+                
+                  
+                    
+                      q
+                      ˙
+                    
+                  
+                
+                
+                  σ
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {\partial \mathbf {r} }{\partial q_{\sigma }}}={\frac {\partial \mathbf {v} }{\partial {\dot {q}}_{\sigma }}},}
+  skąd wynika, że
+
+  
+    
+      
+        
+          v
+        
+        
+          
+            
+              ∂
+              
+                r
+              
+            
+            
+              ∂
+              
+                q
+                
+                  σ
+                
+              
+            
+          
+        
+        =
+        
+          v
+        
+        
+          
+            
+              ∂
+              
+                v
+              
+            
+            
+              ∂
+              
+                
+                  
+                    
+                      q
+                      ˙
+                    
+                  
+                
+                
+                  σ
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              ∂
+              (
+              
+                v
+                
+                  2
+                
+              
+              
+                /
+              
+              2
+              )
+            
+            
+              ∂
+              
+                
+                  
+                    
+                      q
+                      ˙
+                    
+                  
+                
+                
+                  σ
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {v} {\frac {\partial \mathbf {r} }{\partial q_{\sigma }}}=\mathbf {v} {\frac {\partial \mathbf {v} }{\partial {\dot {q}}_{\sigma }}}={\frac {\partial (v^{2}/2)}{\partial {\dot {q}}_{\sigma }}}.}
+  Rzut prostopadły prędkości określa wzór
+
+
+== Związek z przyspieszeniem ==
+
+Szybkość zmiany prędkości to przyspieszenie:
+
+  
+    
+      
+        
+          a
+        
+        =
+        
+          
+            
+              d
+              
+                v
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {a}}={\frac {d{\boldsymbol {v}}}{dt}}}
+  Z zależności tej wynika wyrażenie na prędkość w zależności od przyspieszenia:
+
+  
+    
+      
+        
+          v
+        
+        =
+        
+          
+            v
+            
+              0
+            
+          
+        
+        +
+        ∫
+        
+          a
+        
+         
+        d
+        t
+      
+    
+    {\displaystyle {\boldsymbol {v}}={\boldsymbol {v_{0}}}+\int {\boldsymbol {a}}\ dt}
+  W ruchu prostoliniowym:
+
+  
+    
+      
+        v
+        =
+        
+          v
+          
+            0
+          
+        
+        +
+        
+          ∫
+          
+            
+              t
+              
+                0
+              
+            
+          
+          
+            
+              t
+              
+                1
+              
+            
+          
+        
+        a
+        (
+        t
+        )
+        d
+        t
+      
+    
+    {\displaystyle v=v_{0}+\int \limits _{t_{0}}^{t_{1}}a(t)dt}
+  Na wykresie zależności prędkości od czasu chwilowe przyspieszenie ciała w danym momencie jest równe nachyleniu linii stycznej do krzywej w tym punkcie.
+
+
+== Prędkość kątowa ==
+W ruchach krzywoliniowych definiowana jest prędkość kątowa
+
+  
+    
+      
+        ω
+        =
+        
+          
+            
+              d
+              φ
+            
+            
+              d
+              t
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \omega ={\frac {d\varphi }{dt}},}
+  gdzie 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   jest kątem obrotu wokół pewnej osi ustalonej osi. Traktując 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   jako kąt skierowany, można przypisać prędkości kątowej kierunek osi obrotu i zwrot zgodny z regułą śruby prawoskrętnej
+
+  
+    
+      
+        
+          
+            
+              ω
+              →
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    φ
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {\omega }}={\frac {d{\vec {\varphi }}}{dt}}.}
+  Tak zdefiniowana prędkość kątowa jest pseudowektorem. Pomiędzy prędkością kątową a prędkością transwersalną zachodzi następujący związek
+
+  
+    
+      
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            φ
+          
+        
+        =
+        
+          
+            
+              ω
+              →
+            
+          
+        
+        ×
+        
+          
+            
+              r
+              →
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {v}}_{\varphi }={\vec {\omega }}\times {\vec {r}}.}
+  
+
+
+== Przykłady prędkości w różnych rodzajach ruchów ==
+Zmiany prędkości są podstawą klasyfikacji ruchów w fizyce.
+
+
+=== Prędkość liniowa w ruchu jednostajnym prostoliniowym ===
+Prędkość w ruchu jednostajnym prostoliniowym jest stała (zarówno jej kierunek i wartość). Przyjmuje się odtąd, że do położenia ciała wystarczy jedna współrzędna 
+  
+    
+      
+        x
+        .
+      
+    
+    {\displaystyle x.}
+   Każdy ruch prostoliniowy można przez odpowiednie obroty układu współrzędnych, sprowadzić do przypadku jednowymiarowego. Prędkość w ruchu jednostajnym prostoliniowym określa więc następująca zależność:
+
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          
+            
+              Δ
+              
+                
+                  
+                    r
+                    →
+                  
+                
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+        =
+        
+          
+            
+              x
+              (
+              T
+              )
+              −
+              x
+              (
+              0
+              )
+            
+            T
+          
+        
+        
+          
+            
+              
+                i
+                →
+              
+            
+          
+          
+            x
+          
+        
+        ,
+      
+    
+    {\displaystyle {\vec {v}}={\frac {\Delta {\vec {r}}}{\Delta t}}={\frac {x(T)-x(0)}{T}}{\vec {i}}_{x},}
+  
+  
+    
+      
+        
+          |
+        
+        
+          
+            
+              v
+              →
+            
+          
+        
+        
+          |
+        
+        =
+        
+          
+            
+              x
+              (
+              T
+              )
+              −
+              x
+              (
+              0
+              )
+            
+            T
+          
+        
+        =
+        
+          
+            S
+            T
+          
+        
+        =
+        
+          
+            const
+          
+        
+        ,
+      
+    
+    {\displaystyle |{\vec {v}}|={\frac {x(T)-x(0)}{T}}={\frac {S}{T}}={\textrm {const}},}
+  gdzie:
+
+  
+    
+      
+        
+          
+            
+              r
+              →
+            
+          
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\vec {r}}(t)}
+   – wektor położenia jako funkcja czasu 
+  
+    
+      
+        t
+        ,
+      
+    
+    {\displaystyle t,}
+  
+
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   – przebyta droga,
+
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   – czas trwania ruchu,
+
+  
+    
+      
+        x
+        (
+        t
+        )
+      
+    
+    {\displaystyle x(t)}
+   – funkcja położenia (skalar) od czasu.
+
+
+=== Prędkość liniowa w ruchu jednostajnie przyspieszonym ===
+Przyspieszenie 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+   jest stałe i niezerowe, więc prędkość 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+   zmienia się. W ruchu tym także można ograniczyć się do rozpatrywania jednej współrzędnej.
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              Δ
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+        
+        →
+        
+        Δ
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          
+            
+              a
+              →
+            
+          
+        
+        Δ
+        t
+        ,
+      
+    
+    {\displaystyle {\vec {a}}={\frac {\Delta {\vec {v}}}{\Delta t}}\quad \to \quad \Delta {\vec {v}}={\vec {a}}\Delta t,}
+  
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        (
+        T
+        )
+        −
+        
+          
+            
+              v
+              →
+            
+          
+        
+        (
+        0
+        )
+        =
+        
+          
+            
+              a
+              →
+            
+          
+        
+        T
+        
+        →
+        
+        
+          
+            
+              v
+              →
+            
+          
+        
+        (
+        T
+        )
+        =
+        
+          
+            
+              v
+              →
+            
+          
+        
+        (
+        0
+        )
+        +
+        
+          
+            
+              a
+              →
+            
+          
+        
+        T
+        ,
+      
+    
+    {\displaystyle {\vec {v}}(T)-{\vec {v}}(0)={\vec {a}}T\quad \to \quad {\vec {v}}(T)={\vec {v}}(0)+{\vec {a}}T,}
+  gdzie:
+
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   – całkowity czas ruchu,
+
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\vec {v}}(t)}
+   – wektor prędkości jako funkcja czasu.Czasem (zazwyczaj z powodów dydaktycznych) wyróżnia się specjalny przypadek ruchu jednostajnie przyspieszonego prostoliniowego – ruch jednostajnie opóźniony prostoliniowy. W ruchu tym wektor przyspieszenia 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+   jest stały i skierowany przeciwnie do wektora prędkości 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        (
+        t
+        )
+        .
+      
+    
+    {\displaystyle {\vec {v}}(t).}
+  
+
+
+=== Ruch jednostajny po okręgu (prędkość kątowa) ===
+W tym ruchu wektor prędkości kątowej 
+  
+    
+      
+        
+          
+            
+              ω
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\omega }}}
+   jest stały i jego wartość wyraża się wzorem:
+
+  
+    
+      
+        ω
+        =
+        
+          
+            
+              Δ
+              ϕ
+            
+            t
+          
+        
+        .
+      
+    
+    {\displaystyle \omega ={\frac {\Delta \phi }{t}}.}
+  Prędkość w ruchu po okręgu też jest stała i wiąże się z prędkością kątową wzorem
+
+  
+    
+      
+        v
+        =
+        ω
+        r
+        .
+      
+    
+    {\displaystyle v=\omega r.}
+  Znajomość prędkości kątowej umożliwia zapisanie równań ruchu po okręgu we współrzędnych kartezjańskich
+
+  
+    
+      
+        x
+        (
+        t
+        )
+        =
+        r
+        cos
+        ⁡
+        ω
+        t
+        ,
+      
+    
+    {\displaystyle x(t)=r\cos \omega t,}
+  
+
+  
+    
+      
+        y
+        (
+        t
+        )
+        =
+        r
+        sin
+        ⁡
+        ω
+        t
+        .
+      
+    
+    {\displaystyle y(t)=r\sin \omega t.}
+  
+
+
+== Zobacz też ==
+prędkość
+prędkość dźwięku
+prędkość kosmiczna
+prędkość maksymalna
+prędkość światła
+prędkość ucieczki
+przyspieszenie
+
+
+== Przypisy ==
+
+
+== Bibliografia ==
+Andrzej Kajetan Wróblewski, Janusz A. Zakrzewski: Wstęp do fizyki. Warszawa: Państwowe Wydawnictwo Naukowe, 1984. ISBN 83-01-01359-1.

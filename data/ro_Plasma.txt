@@ -1,0 +1,27 @@
+KDE Plasma Workspaces este un software framework care face parte din KDE cu ajutorul căruia se pot crea interfețe grafice pentru periferice diferite.
+
+
+== Plasma 1 ==
+
+
+=== Galerie ===
+
+		
+
+
+=== Desktop ===
+Plasma Desktop este spațiul de lucru care a fost dezvoltat și a fost declarat matur cu lansarea SC KDE 4.2. Acesta vizeaza PC-uri desktop și laptop-uri. În configurația implicită se aseamănă cu forme incipiente ale KDE Software Compilation și Microsoft Windows, dar configurabilitatea extinsa permite abateri radicale de la layout-ul implicit.
+
+
+== Plasma 2 ==
+A doua generație va apare în anul 2014.
+
+
+== Note ==
+
+
+== Legături externe ==
+Site web oficial
+Plasma home page
+Plasma user wiki
+Plasma developer wiki

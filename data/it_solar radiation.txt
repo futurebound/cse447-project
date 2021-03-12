@@ -1,0 +1,92 @@
+La radiazione solare è l'energia radiante emessa dal Sole nello spazio interplanetario, generata a partire dalle reazioni termonucleari di fusione che avvengono nel nucleo solare e che producono radiazioni elettromagnetiche a varie frequenze o lunghezze d'onda, le quali si propagano poi nello spazio alle velocità tipiche di queste onde, trasportando con sé energia solare. La quantità totale di radiazione emessa dal Sole nell'unità di tempo, nell'unità di superficie e misurata alle soglie esterne della atmosfera terrestre, come valore pressoché costante nel tempo, è detta costante solare.
+Ogni forma di vita presente sulla Terra, viene mantenuta dal flusso energetico solare che penetra nella biosfera; l'energia utilizzata per la formazione ed il mantenimento della biomassa è l'1% della radiazione totale in arrivo. Lo scambio energetico della radiazione solare con le molecole terrestri, avrà una influenza diretta sulla temperatura dell'aria e del terreno e quindi sul processo di evapotraspirazione (consiste nella quantità d'acqua che dal terreno passa nell'aria allo stato di vapore per effetto congiunto della traspirazione, attraverso le piante, e dell'evaporazione, direttamente dal terreno), e indirettamente sul valore di umidità atmosferica e sul movimento delle masse d'aria e delle precipitazioni.
+
+
+== Descrizione ==
+
+La radiazione solare non è concentrata su una singola frequenza, ma è distribuita su un ampio spettro di frequenze, in modo non uniforme, ma con la tipica forma "a campana", similmente allo spettro del corpo nero, col quale la sorgente solare è confrontata. Il massimo della radiazione, misurata fuori dall'atmosfera terrestre (in base alla legge di Wien), è centrato nella banda della luce visibile, che ha il picco alla lunghezza d'onda di circa 500 nm, corrispondente al colore Ciano-Verde.
+La banda delle radiazioni fotosinteticamente attive (PAR) va dai 400 ai 700 nm, corrisponde alla radiazione visibile ed è pari al 41% della radiazione totale. All'interno del PAR esistono sottobande con radiazioni:
+
+blu-violette, (400-490 nm), assorbite dai pigmenti, con azione sulla fioritura, sintesi proteica, effetti fototropici, medio effetto sulla fotosintesi;
+verdi (490-560 nm), le meno attive fotosinteticamente;
+gialle (560-590 nm);
+rosso-arancio (590-700 nm), molto attive per la fotosintesi. La colorazione delle piante è tale proprio in virtù del fatto che il verde è colore complementare al rosso, e quindi è in grado di catturare queste bande dello spettro elettromagnetico.Oltre alla radiazione visibile una componente energeticamente minoritara, ma comunque degna di nota per i loro effetti è costituita dagli infrarossi e soprattutto dai raggi ultravioletti.
+Nell'attraversare l'atmosfera la radiazione solare subisce fenomeni di riflessione, rifrazione, assorbimento, diffusione ad opera dei vari gas atmosferici in misura variabile in funzione della frequenza, così che al suolo lo spettro solare risulta irregolare rispetto a quello rilevato alle soglie esterne dell'atmosfera (TOA) con presenza di tipiche bande di assorbimento o riflessione.
+
+
+=== Bilancio della radiazione ===
+La Terra riceve dal Sole mediamente 1366 W/m² (costante solare). Questa è riferita alle soglie dell'atmosfera e al piano perpendicolare ai raggi solari entranti: occorre quindi considerare che questa sulla Terra colpisce una calotta sferica per 1440 minuti ogni giorno, riducendosi del 75%. L'atmosfera a sua volta filtra in una certa misura i raggi solari come fa ogni corpo provocando:
+
+una riflessione ed una retrodiffusione dei raggi dovuta alla sua albedo, alle nubi e ai gas atmosferici stessi;
+un assorbimento che ne provoca un aumento di temperatura, a seguito del quale riemette radiazioni in ogni direzione in accordo con la legge di Wien. Tale assorbimento è comunque modesto nella banda della luce visibile risultando così trasparente alla radiazione solare diretta.Circa metà della radiazione attraversa invece l'atmosfera senza alterazioni prendendo il nome di radiazione netta. Metà della radiazione netta contribuisce infine all'evaporazione delle masse d'acqua, di conseguenza l'energia disponibile è circa un quarto di quella complessivamente emessa.
+La stratosfera assorbe i raggi ultravioletti compresi nella banda 200-300 nm grazie all'ozono, la troposfera assorbe e diffonde l'infrarosso grazie al vapore acqueo e alla CO2. L'azione di filtro delle bande alle lunghezze d'onda dell'ultravioletto, per la maggior parte letali, è essenziale per lo sviluppo della vita.
+
+
+==== Radiazione diffusa ====
+
+Detta anche indiretta, rappresenta quella quota di radiazione che ha colpito almeno una particella dei gas atmosferici cambiando angolo di incidenza e che arriva comunque al suolo perché verso esso indirizzata. Aumenta relativamente alla totale in cieli nuvolosi. In particolare lo scattering di Rayleigh della componente blu della radiazione solare è responsabile del colore blu del cielo. Una parte della radiazione diffusa è retrodiffusa verso lo spazio.
+
+
+==== Radiazione incidente ====
+È quella radiazione che ha incontrato un ostacolo qualsiasi al quale ha ceduto tutta o una parte della propria energia. L'energia che non arriva alla superficie della terra si dice estinta ed è formata dalla radiazione riemessa, riflessa e retrodiffusa verso lo spazio.
+Secondo la legge di Lambert la quantità di radiazioni che colpisce l'unità di superficie è proporzionale al coseno dell'angolo d'incidenza:
+
+  
+    
+      
+        
+          I
+          ′
+        
+        =
+        I
+        ×
+        
+          
+            cos
+          
+        
+        α
+      
+    
+    {\displaystyle I'=I\times {\mbox{cos}}\alpha }
+  Si ha la massima quantità con incidenza perpendicolare, all'aumentare dell'angolo aumenta sia la superficie colpita dalla stessa quantità di radiazioni che lo spessore dell'atmosfera attraversato da questi. Ciò crea le variazioni d'irraggiamento giornaliere, annuali e latitudinali.
+
+
+==== Radiazione riflessa ====
+La radiazione riflessa è quella quota parte della radiazione solare incidente riflessa dalla superficie terrestre per effetto dell'albedo. L'albedo è il coefficiente di riflessione c. I valori di c sono di solito compresi tra 0 e 1 oppure sono espressi in percentuale. È data dal rapporto tra l'energia radiante riflessa da una superficie rispetto all'energia incidente. La Terra ha un valore medio del 40% (c = 0,4) Alla quota di albedo terrestre si aggiungono le radiazioni riflesse dalle particelle atmosferiche verso lo spazio.
+
+
+==== Radiazione assorbita ====
+Detratte tutte le perdite per riflessione e retrodiffusione da parte di atmosfera e superficie terrestre, l'energia incidente che rimane è assorbita dalla superficie terrestre e contribuisce così al suo riscaldamento, in maniera variabile a seconda della latitudine e del tipo di superficie.
+
+
+== Applicazioni ==
+L'energia associata alla radiazione solare (energia solare) può essere sfruttata a livello tecnologico per produrre energia (termica o elettrica) attraverso varie tecnologie solari quali pannello solare termico, fotovoltaico e solare termodinamico ed utilizzata nelle applicazioni umane.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Costante solare
+Brillamento
+Langley (unità di misura)
+Perdite radiative della corona solare
+Radiazione solare globale in Italia
+Serra solare
+Solarimetro
+Spettro elettromagnetico
+Insolazione
+Eliofania
+Convezione
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su radiazione solare
+
+
+== Collegamenti esterni ==
+(EN) IUPAC Gold Book, "solar radiation", su goldbook.iupac.org.
+ Irradiazione solare, su tecnologica.altervista.org.

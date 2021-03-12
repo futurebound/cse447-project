@@ -1,0 +1,224 @@
+Painovoima eli gravitaatio on luonnonilmiö, joka saa kaikki massalliset kappaleet vetämään toisiaan puoleensa. Tämän vuorovaikutuksen suuruus eli voima riippuu kappaleiden massoista ja etäisyydestä. Tämä saa esimerkiksi esineet putoamaan Maata kohti sekä pitää satelliitit ja taivaankappaleet radoillaan, kuten Maan kiertoradallaan Auringon ympäri. Painovoima aiheuttaa myös vuorovesi-ilmiön.
+Painovoima on yksi fysiikan neljästä perusvuorovaikutuksesta yhdessä sähkömagneettisen, vahvan ja heikon vuorovaikutuksen kanssa. Painovoima on neljästä perusvuorovaikutuksesta heikoin, vaikka sillä onkin vallitseva vaikutus maailmankaikkeuden suuren mittakaavan rakenteeseen. Tämä johtuu siitä, että vahva ja heikko ydinvoima vaikuttavat vain erittäin pienessä (silmille näkymättömässä) mittakaavassa, kun taas kaikkeuden sähkömagneettiset varaukset kumoavat suurilta osin toisensa.
+Fysiikassa painovoimaa voidaan likimääräisesti kuvata Isaac Newtonin painovoimalailla. Vaikka lain tarkkuus on riittävä esimerkiksi avaruusaluksien ratoja laskettaessa, painovoimaa kuvataan parhaiten Albert Einsteinin yleisellä suhteellisuusteorialla, jossa sitä pidetään aika-avaruuden kaareutumisena. Painovoiman ja kvanttimekaniikan yhdistävää teoriaa, kvanttigravitaatiota, ei ole vielä kehitetty, ja aihe on yksi nykyfyysikkojen tärkeistä tutkimuskohteista. Myöskään hypoteettista painovoiman välittäjähiukkasta, gravitonia, ei ole havaittu.
+
+
+== Teorian historiaa ==
+
+
+=== Newtonin painovoimalaki ===
+
+Isaac Newton esitti painovoiman perus­lain vuonna 1687 julkaisemassaan teoksessa Philosophiae Naturalis Principia Mathematica (usein lyhyesti Principia). Sen mukaan maailmankaikkeuden jokainen massallinen hiukkanen aiheuttaa toiseen massalliseen hiukkaseen voiman, joka on suoraan verrannollinen niiden massojen tuloon ja kääntäen verrannollinen niiden etäisyyden neliöön. Tämä voima voidaan esittää yhtälöllä
+
+  
+    
+      
+        F
+        =
+        G
+        
+          
+            
+              
+                m
+                
+                  1
+                
+              
+              
+                m
+                
+                  2
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle F=G{\frac {m_{1}m_{2}}{r^{2}}}}
+  ,
+missä 
+  
+    
+      
+        
+          
+            m
+            
+              1
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle m_{1}}
+   ja 
+  
+    
+      
+        
+          
+            m
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle m_{2}}
+   ovat hiukkasten massat, 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle \scriptstyle r}
+   niiden välinen etäisyys ja 
+  
+    
+      
+        
+          G
+        
+      
+    
+    {\displaystyle \scriptstyle G}
+   gravitaatiovakio.
+G on yleinen gravitaatiovakio, sen suuruus on 
+  
+    
+      
+        G
+        =
+        (
+        6,673
+        84
+        ±
+        0,000
+        80
+        )
+        ⋅
+        
+          10
+          
+            −
+            11
+          
+        
+        
+          
+            
+              
+                
+                  Nm
+                
+              
+              
+                2
+              
+            
+            
+              
+                
+                  kg
+                
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle G=(6{,}67384\pm 0{,}00080)\cdot 10^{-11}{\frac {{\textrm {Nm}}^{2}}{{\textrm {kg}}^{2}}}}
+  .Tässä muodossa laki pätee, jos kappaleiden välinen etäisyys on niiden läpimittaan verrattuna niin suuri, että kappaleita voidaan pitää pistemäisinä. Ellei näin ole laita, kappaleet voidaan ajatella jaettavaksi pieniin osiin, jolloin kummankin kappaleen jokainen osa vaikuttaa toisen kappaleen jokaiseen osaan tämän lain mukaisesti. Tämän vuoksi kappaleiden välinen painovoima on yleensä tarkasti laskettavissa vain integraalilaskennan avulla. Jos kappaleet ovat pallosymmetrisiä, niiden välinen painovoima on yhtä suuri kuin jos kummankin massa olisi kokonaan keskittynyt kappaleen keskipisteeseen.
+Vakion G määrittämistä hankaloittaa se, että kappaleet, jotka aiheuttavat merkittävää painovoimaa, ovat tavallisesti planeetan kokoisia ja niiden massat eivät ole tarkasti tiedossa. Lordi Henry Cavendish onnistui ensimmäisenä mittaamaan tämän vakion arvon erittäin herkän torsiovaa'an avulla.
+
+
+=== Ekvivalenssiperiaate ===
+Yllä oleva Newtonin lain kaava yhdessä mekaniikan peruskaavan
+
+  
+    
+      
+        F
+        =
+        m
+        a
+      
+    
+    {\displaystyle F=ma}
+   kanssa todistaa helposti, että kappaleen liike painovoimakentässä ei riipu kappaleen massasta. Tämän ns. ekvivalenssiperiaatteen formuloi ja todisti ensimmäisenä Galileo Galilei. Se sopii loogisesti yhteen yleisen suhteellisuusteorian kanssa — tai itse asiassa jokaisen ”geometrisluonteisen” painovoimateorian, kuten myös suomalaisen Gunnar Nordströmin teorian kanssa.
+Myöhemmin unkarilainen Loránd Eötvös ja amerikkalainen Robert H. Dicke todistivat ekvivalenssiperiaatteen paikkansapitävyyttä erittäin suurella tarkkuudella.
+
+
+=== Yleinen suhteellisuusteoria ===
+Albert Einsteinin yleinen suhteellisuusteoria selittää painovoiman aika-avaruuden kaareutumisella massiivisten kappaleiden lähellä: kentän potentiaalia kuvaa teorian mukaan aika-avaruuden metrinen tensori (kun sähkömagnetismilla on vektoripotentiaali). Einsteinin teoriassa metrisen tensorin toisten paikkaderivaattojen yhdistelmä, ns. Riccin kaarevuustensori, on yksinkertaisessa yhteydessä aineen energia-impulssitensorin kanssa.
+Tätä ennen oli pitkään fysiikan suuria mysteerejä, miksi massan hitaus on yhteydessä painovoimaan vieläpä aivan suorassa suhteessa.
+Yleisen suhteellisuusteorian pohjalta painovoima ei ole kappaleiden välillä, vaan energia vuorovaikuttaa avaruusajan kanssa. Vuorovaikutuksen tuloksena avaruuden tilallinen muoto muuttuu ja kappaleet seuraavat sen muodon mukaisia vapaan putoamisen ratoja. Painovoimaa ei olekaan kyetty selvittämään kvanteilla eikä se kuulu standardimalliin. Kvanttimekaanisen vuorovaikutuksen välittäjähiukkaselle on varattu nimi gravitoni, niin sanottu tensorihiukkanen. Gravitoneja ei toistaiseksi ole havaittu.
+
+
+== Painovoima taivaankappaleen pinnalla ==
+Putoamiskiihtyvyys ilmoittaa massiivista keskuskappaletta kohden putoavan kappaleen kiihtyvyyden. Puhutaan ”painovoiman kiihtyvyydestä g”. Eri taivaankappaleille on erilaisia g:n arvoja, koska kappaleiden massat ja säteet poikkeavat suuresti toisistaan. 
+Putoamiskiihtyvyys pallomaisen pyörimättömän taivaankappaleen, esimerkiksi planeetan, pinnalla on
+
+  
+    
+      
+        g
+        =
+        
+          
+            
+              G
+              m
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle g={\frac {Gm}{r^{2}}}}
+  G = gravitaatiovakio
+m = kappaleen, esimerkiksi Maan, massa
+r = kappaleen sädeTätä sanotaan myös taivaankappaleen pintagravitaatioksi. Maa vetää meitä puoleensa voimalla, jonka aiheuttama kiihtyvyys tavallisessa päivittäisessä ympäristössämme (lähellä maan pintaa) on noin g = 9,81 m/s². Laskelmissa käytetään usein ns. normaaliputoamiskiihtyvyyttä gn = 9,80665 m/s², joka vastaa suunnilleen keskimääräistä putoamiskiihtyvyyttä 45. leveysasteella.. Tämän standardiarvon käytöstä sovittiin vuonna 1901.
+Painovoimaan jossain paikassa vaikuttavat Maan muodon ja tiheyden epäsäännölliset vaihtelut, Maan litistyneisyys ja Maan pyöriminen. Päiväntasaajalla g on 9,7804 m/s² ja navoilla 9,8322 m/s².
+Ihminen kestää tyypillisesti ilman erikoisvarusteita 5 g:n voimia, mutta jo 2–3 g:tä tuntuu hyvin epämukavalta. 10 g:tä kestää lentäjä gee-puvuissa, 100 g:tä tappaa lähes varmasti.
+
+Kuun pinnalla vallitsee painovoima, joka on noin kuudesosa Maan vastaavasta. Painovoimasta aiheutuva putoamiskiihtyvyys on Kuun pinnalla 1,622 m/s2 (eli 0,165 g)
+Marsin pinnalla putoamiskiihtyvyys on 3,74 m/s2 (eli 0,381 g)
+Jupiterin pinnalla putoamiskiihtyvyys on 25,90 m/s2 (eli 2,641 g)
+Auringon pinnalla putoamiskiihtyvyys on 274,4 m/s2 (eli 28,0 g)Tähtien pinnalla vallitsee valtavia painovoimia, joita on mitattu spektroskoopilla spektriviivojen levenemisestä.
+
+
+== Katso myös ==
+Antigravitaatio
+Painottomuus
+Fysikaalinen geodesia
+Geoidi
+Pakonopeus
+Kolmen kappaleen probleema
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+ Kuvia tai muita tiedostoja aiheesta Painovoima Wikimedia Commonsissa

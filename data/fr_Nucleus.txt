@@ -1,0 +1,134 @@
+Le noyau atomique désigne la région située au centre d'un atome constituée de protons et de neutrons (les nucléons). La taille du noyau (de l'ordre du femtomètre soit 10-15 mètre) est environ 100 000 fois plus petite que celle de l'atome (10-10 mètre) et concentre quasiment toute sa masse. Les forces nucléaires qui s'exercent entre les nucléons sont à peu près un million de fois plus grandes que les forces entre les atomes ou les molécules. Un noyau instable est dit radioactif, il est sujet à une transmutation, soit spontanée soit provoquée par l'arrivée de particules supplémentaires ou de rayonnement électromagnétique.
+
+
+== Caractéristiques physiques ==
+L'atome a une structure lacunaire, c’est-à-dire qu'entre les électrons et le noyau il n'y a que du vide, du vide quantique donc pas vraiment vide puisque d'énergie non nulle.
+
+
+=== Composition et structure ===
+
+Le noyau d'un atome est composé de particules appelées nucléons (des protons chargés positivement, et des neutrons électriquement neutres) fortement liées entre elles (à l'exception de l'hydrogène 1H dont le noyau est simplement constitué d'un unique proton). Sa cohésion est assurée par l'interaction forte, force principale dans le noyau, qui maintient les nucléons ensemble et les empêche de s'éloigner les uns des autres.
+Pour modéliser cette attraction entre les nucléons, on peut définir une énergie de liaison nucléaire pouvant être calculée à partir de la formule de Bethe-Weizsäcker.
+Deux modèles nucléaires peuvent être utilisés pour étudier les propriétés du noyau atomique :
+
+le modèle en couches ;
+le modèle de la goutte liquide.
+
+
+=== Isotopes ===
+
+Les isotopes sont des atomes ayant le même nombre de protons (même numéro atomique Z) mais un nombre différent de neutrons.
+Un élément chimique est caractérisé par le nombre de protons qui composent son noyau, précisément appelé numéro atomique et noté Z. Un atome possédant autant d'électrons que de protons, ce qui explique sa neutralité électrique, Z est également le nombre d'électrons d'un tel élément.
+Pour un même élément, on trouve dans la nature différents nucléides possédant des nombres de neutrons différents. Ces noyaux sont appelés isotopes de l'élément ayant ce numéro atomique. Le nombre de masse A d'un atome est le nombre total de nucléons (protons et neutrons) qui composent un noyau. Le nombre de neutrons N est égal à A - Z.
+Un nucléide X est donc un noyau caractérisé par son nombre de masse A et son numéro atomique Z ; il est noté AZX (lire X A, le numéro atomique étant implicite).
+Par exemple, l'hydrogène 11H, le deutérium D ou 21H et le tritium T ou 31H sont trois isotopes de l'hydrogène.
+En pratique, le numéro atomique Z est généralement omis car redondant avec le symbole chimique, pour ne conserver que la notation AX. Ainsi, si on reprend l’exemple cité ci-dessus, l’hydrogène ordinaire, le deutérium, et le tritium sont le plus souvent notés : 1H, 2H, et 3H.
+Différents isotopes d'un même élément possèdent des propriétés chimiques similaires, car elles dépendent essentiellement de son nombre d'électrons. Cependant, leur masse atomique distincte permet de les séparer à l'aide d'une centrifugeuse ou d'un spectromètre de masse.
+Les isotopes se différencient également par leur stabilité et leur demi-vie (ou période radioactive) : les isotopes déficitaires ou excédentaires en neutrons sont souvent plus instables, et donc radioactifs. Par exemple, le carbone 12 (le plus courant) et le carbone 13 sont parfaitement stables, alors que sont radioactifs les isotopes de carbone « plus lourds » que le 13C (comme le carbone 14, avec une demi-vie de 5730 années) ou « plus légers » que le 12C (comme le carbone 11, avec une demi-vie de 20 minutes). À noter qu’il existe également des éléments pour lesquels tous les isotopes sont instables, comme le technétium ou le prométhium.
+
+
+=== Isomères ===
+
+Les isomères nucléaires sont des atomes ayant des nombres identiques de protons et de neutrons (et qui donc appartiennent à un même isotope) mais qui présentent des états énergétiques différents. Ceci est en général le résultat d’une organisation différente des nucléons au sein du noyau. L’état qui présente la plus faible énergie est nommé « état fondamental », et tout état de plus haute énergie est nommé « état excité ».
+Lorsque la distinction est nécessaire, les isomères autres que l’état fondamental sont identifiés par la lettre « m » rajoutée après le nombre de masse et éventuellement suivie d’un chiffre s’il existe plusieurs états excités pour l’isotope en question. Ainsi, l’aluminium 26 possède deux isomères notés 26Al pour l’état fondamental et 26mAl pour l’état excité. Autre exemple, le tantale 179 possède pas moins de sept isomères, qui sont notés (en allant de l’état fondamental à l’état excité de plus haute énergie) : 179Ta, 179m1Ta, 179m2Ta, 179m3Ta, 179m4Ta, 179m5Ta, et enfin 179m6Ta.
+En général les états excités sont très instables, et subissent rapidement une transition isomérique qui les amène vers l’état fondamental (ou un état excité moins énergétique) et pendant laquelle le surplus d’énergie est évacué sous forme de photon. Il existe cependant des exceptions, et certains états excités de certains isotopes peuvent avoir une demi-vie plus importante que l’état fondamental correspondant (comme le tantale 180m ou l’américium 242m).
+
+
+=== Masse atomique ===
+La masse atomique isotopique d'un élément est la masse correspondant à NA nucléides de ce même isotope, NA étant le nombre d'Avogadro (environ 6,022 04×1023).
+Définition : la masse de NA atomes de carbone 12 est exactement 12 g.
+La masse atomique d'un élément chimique est la moyenne pondérée des masses atomiques de ses isotopes naturels ; certains éléments chimiques possèdent des isotopes radioactifs à très longue période, et par conséquent leur composition isotopique naturelle, ainsi que leur masse atomique évolue sur de longues périodes de temps, telles que les ères géologiques. C'est notamment le cas pour l'uranium.
+
+
+=== Stabilité ===
+
+
+==== Énergie de liaison ====
+Certains noyaux sont stables, c'est-à-dire que leur énergie de liaison est suffisante, rendant alors leur durée de vie illimitée. D'autres sont instables et tendent à se transformer spontanément en un noyau plus stable par émission d'un rayonnement. Cette instabilité est due au grand nombre de nucléons qui fait diminuer l'énergie unitaire de chaque liaison dans le noyau, le rendant moins cohérent. La transformation (spontanée) par radioactivité se traduit toujours par une augmentation de l'énergie de liaison moyenne des nucléons concernés.
+On distingue 3 types de radioactivités, selon le type de particule émise :
+
+Radioactivité α s'il émet un ou plusieurs nucléons (proton, neutron ou particule α)
+Radioactivité β s'il émet un électron ou un positron avec un neutrino.Ces deux types de radioactivité sont la plupart du temps accompagnés d'un rayonnement gamma (émission de photons).
+Exemple :
+
+les uraniums 235 et 238 ont des demi-vies supérieures à ceux de leur « famille » respective avant de mener aux isotopes stables du plomb.
+l'azote 16 (16 nucléons, 7 protons, 9 neutrons) se transforme en oxygène 16 (16 nucléons, 8 protons, 8 neutrons) quelques secondes après sa création par radioactivité bêta : l'interaction faible transforme l'un des neutrons du noyau en un proton et un électron, modifiant ainsi le numéro atomique de l'atome.
+
+
+==== Nombre de nucléons ====
+La stabilité d'un noyau atomique dépend de la nature et du nombre de nucléons qui le composent.
+Il a été constaté une plus grande fréquence de noyaux stables (152) s'ils sont composés d'un nombre de protons (Z) et de neutrons (N) pairs. Ce nombre passe à 55 pour Z pair et N impair et à 52 pour Z impair et N pair. Il n'existe que quelques noyaux stables dont le nombre de protons et le nombre de neutrons sont impairs.
+Il existe également des nombres magiques (nombre de protons et/ou nombre de neutrons) pour lesquels l'abondance naturelle d'isotopes stables est plus grande : 2, 8, 20, 28, 50, 82, 126. C'est le cas par exemple du noyau d'hélium, doublement magique, correspondant à la particule alpha émise par certains noyaux.
+
+
+==== Demi-vie ====
+La demi-vie d'un isotope est la période au bout de laquelle, statistiquement, la moitié des atomes d'un échantillon initial se seront désintégrés. Les noyaux peuvent posséder des demi-vies très différentes couvrant en fait toute la plage des durées.
+Un noyau est considéré comme étant un élément (par opposition à une résonance) lorsque son temps de vie est assez long pour qu'un cortège électronique ait le temps de se former (soit ~10-15 s)
+
+
+==== Noyau stable ====
+En fait, les noyaux dits stables ne le sont que dans la mesure où leur durée de vie avoisine celle du proton, seul baryon (méta?)stable.
+Le proton aurait, selon la théorie, une demi-vie d'environ 1033 ans, mais les expériences menées pour mesurer cette désintégration du proton, véritable pierre angulaire de la matière, n'ont pas vérifié cette prédiction : le proton serait plus stable que prévu.
+
+
+=== Taille et forme ===
+Le rayon d'un nucléon est de l'ordre de 10−15 m, soit 1 fm (femtomètre), le terme de rayon s'entendant ici au sens d'avoir une probabilité significative de détecter le nucléon dans le volume d'espace considéré. En première approximation, on considère généralement que le rayon r d'un noyau de nombre de masse A vaut (modèle de la goutte liquide) 
+  
+    
+      
+        
+          
+            
+              
+                
+                  r
+                   
+                  =
+                   
+                  
+                    r
+                    
+                      ∘
+                    
+                  
+                  
+                    
+                      A
+                      
+                        3
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{smallmatrix}r\ =\ r_{\circ }{\sqrt[{3}]{A}}\end{smallmatrix}}}
+  , avec ro = 1,4 fm. À noter lorsque A est petit, notamment inférieur à 16, ro peut valoir 1,2 fm.
+Cela représente moins de 0,01 % du rayon total de l'atome. La masse volumique du noyau est donc considérablement plus grande que celle de l'atome lui-même. Elle est à peu près constante pour tous les noyaux dans leur état fondamental (non excité) : environ 200 millions de tonnes au cm3 (2×1014 g·cm-3), masse volumique du fluide nucléaire. (Cette valeur semble trop faible : voir la discussion).
+La taille et la forme réelles d'un noyau spécifique dépendent fortement du nombre de nucléons qui le composent, ainsi que de leur état énergétique. Les noyaux les plus stables ont en général une forme sphérique au repos et peuvent prendre, par exemple, la forme d'un ellipsoïde s'ils sont excités. Des formes assez étranges peuvent être observées selon les états d'excitation, en poire, en soucoupe, voire en cacahuète.
+Dans le cas des noyaux à halo, quelques nucléons peuvent avoir des fonctions d'onde nettement distendues, entourant donc d'un halo le noyau plus compact formé par les autres nucléons. Le lithium 11 semble par exemple composé d'un noyau de lithium 9 (l'isotope le plus stable) entouré d'un halo de deux neutrons ; sa taille est alors proche de celle du plomb 208, qui possède 20 fois plus de nucléons.
+Le noyau stable le plus lourd est constitué de 82 protons et 126 neutrons : il s'agit du plomb 208. Les éléments plus lourds sont tous instables. Jusqu'à l'uranium inclus, ils sont tous présents naturellement sur Terre, les éléments de numéro atomique plus grand que l'uranium ou présents à l'état de trace peuvent être synthétisés en laboratoire. L'élément le plus lourd connu à ce jour compte 118 protons : il s'agit de l'oganesson.
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Références ===
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+
+
+=== Bibliographie ===
+Luc Valentin, Le monde subatomique [détail des éditions]
+ Portail de la physique   Portail de la chimie   Portail du nucléaire

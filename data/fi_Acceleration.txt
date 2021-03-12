@@ -1,0 +1,2092 @@
+Kiihtyvyys (tunnus 
+  
+    
+      
+        
+          a
+        
+      
+    
+    {\displaystyle \mathbf {a} }
+  ) on fysikaalinen vektorisuure, joka kuvaa kappaleen nopeuden muutosta tietyssä ajassa. Kiihtyvyydellä on suunta ja suuruus, mutta lineaarista liikettä voidaan tarkastella skalaarisen kiihtyvyyden avulla. Sen yksikkö on SI-järjestelmässä m/s². Putoamiskiihtyvyydelle maan pinnan läheisyydessä käytetään tunnusta 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  .Kappaleen kiihtyvyys määritellään fysiikassa nopeuden ensimmäisenä ja toisaalta siirtymän (paikan muutos) toisena derivaattana ajan suhteen:
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+         
+        =
+        
+          
+            
+              
+                d
+                ″
+              
+              
+                
+                  
+                    s
+                    →
+                  
+                
+              
+            
+            
+              
+                d
+                ″
+              
+              t
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {\vec {a}} ={\frac {d\mathbf {\vec {v}} }{dt}}\ ={\frac {d''\mathbf {\vec {s}} }{d''t}},}
+   missä
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {\vec {a}} }
+   = kappaleen kiihtyvyysvektori
+
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {\vec {v}} }
+   = kappaleen nopeusvektori
+
+  
+    
+      
+        
+          
+            
+              s
+              →
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {\vec {s}} }
+   = kappaleen siirtymävektori (voidaan ilmaista myös paikan muutosvektorina 
+  
+    
+      
+        
+          
+            
+              
+                △
+                p
+              
+              →
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {\vec {\vartriangle p}} }
+  )
+t = aika.Kappaleen keskikiihtyvyys on sen nopeuden muutos jaettuna aikavälin pituudella:
+
+  
+    
+      
+        
+          
+            a
+            
+              k
+            
+          
+        
+        =
+        
+          
+            
+              Δ
+              
+                v
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  v
+                  
+                    2
+                  
+                
+              
+              −
+              
+                
+                  v
+                  
+                    1
+                  
+                
+              
+            
+            
+              
+                t
+                
+                  2
+                
+              
+              −
+              
+                t
+                
+                  1
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {a_{k}} ={\frac {\Delta \mathbf {v} }{\Delta t}}={\frac {\mathbf {v_{2}} -\mathbf {v_{1}} }{t_{2}-t_{1}}}}
+  Tästä huomataan, että mitä pienemmällä aikavälillä keskikiihtyvyyttä tarkastellaan, sitä tarkemmin se kuvaa todellista hetkellistä kiihtyvyyttä.
+
+  
+    
+      
+        
+          a
+        
+        =
+        
+          lim
+          
+            
+              t
+              
+                1
+              
+            
+            →
+             
+            
+              t
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                
+                  v
+                  
+                    2
+                  
+                
+              
+              −
+              
+                
+                  v
+                  
+                    1
+                  
+                
+              
+            
+            
+              
+                t
+                
+                  2
+                
+              
+              −
+              
+                t
+                
+                  1
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                v
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {a} =\lim _{t_{1}\to \ t_{2}}{\frac {\mathbf {v_{2}} -\mathbf {v_{1}} }{t_{2}-t_{1}}}={\frac {d\mathbf {v} }{dt}}}
+  
+
+
+== Tasainen ja tasaisesti kiihtyvä liike ==
+Tasaisessa ja tasaisesti kiihtyvässä liikkeessä kiihtyvyys on vakio, jolloin se voidaan laskea tarkasti myös keskikiihtyvyyden yhtälöllä. Tämä johtuu siitä, että nopeuden muutos on tasaista, jolloin kaikki tarkasteluvälit antavat saman tuloksen. Tasaisessa liikkeessä kiihtyvyys on nolla.
+Kun kappale on tasaisesti kiihtyvässä liikkeessä (kiihtyvyys 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   on vakio) voidaan sen nopeus 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   laskea eri ajan hetkinä kaavasta:
+  
+    
+      
+        v
+        =
+        
+          v
+          
+            0
+          
+        
+        +
+        a
+        (
+        
+          t
+          
+            2
+          
+        
+        −
+        
+          t
+          
+            0
+          
+        
+        )
+        =
+        
+          v
+          
+            0
+          
+        
+        +
+        a
+        t
+      
+    
+    {\displaystyle v=v_{0}+a(t_{2}-t_{0})=v_{0}+at}
+  
+missä
+
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   on nopeus lopussa (ajanhetkellä 
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle t_{2}}
+  )
+
+  
+    
+      
+        
+          v
+          
+            0
+          
+        
+      
+    
+    {\displaystyle v_{0}}
+   on nopeus alussa (ajanhetkellä 
+  
+    
+      
+        
+          t
+          
+            0
+          
+        
+      
+    
+    {\displaystyle t_{0}}
+  )
+
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   on kiihtyvyys (vakio)
+
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   on kulunut aika lähtötilanteestaTässä tarkastellussa ajassa kappale on kulkenut yleisesti matkan 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  :
+
+  
+    
+      
+        s
+        =
+        
+          v
+          
+            0
+          
+        
+        (
+        
+          t
+          
+            2
+          
+        
+        −
+        
+          t
+          
+            1
+          
+        
+        )
+        +
+        
+          
+            
+              a
+              (
+              
+                t
+                
+                  2
+                
+                
+                  2
+                
+              
+              −
+              
+                t
+                
+                  1
+                
+                
+                  2
+                
+              
+              )
+            
+            2
+          
+        
+      
+    
+    {\displaystyle s=v_{0}(t_{2}-t_{1})+{\frac {a(t_{2}^{2}-t_{1}^{2})}{2}}}
+  
+
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+      
+    
+    {\displaystyle t_{1}}
+   on valittu ajanhetki josta tarkastelu alkaa
+
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle t_{2}}
+   on valittu ajanhetki jossa tarkastelu loppuuJos kiihtyvyys ei ole tarkkailun alussa vielä vaikuttanut nopeuteen voidaan lauseke kirjoittaa sievempään muotoon. Valitaan 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+        =
+        
+          t
+          
+            0
+          
+        
+      
+    
+    {\displaystyle t_{1}=t_{0}}
+   , 
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+        =
+        t
+      
+    
+    {\displaystyle t_{2}=t}
+  :
+
+  
+    
+      
+        s
+        =
+        
+          v
+          
+            0
+          
+        
+        t
+        +
+        
+          
+            1
+            2
+          
+        
+        a
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle s=v_{0}t+{\frac {1}{2}}at^{2}}
+  
+
+
+=== Johtaminen yhtälöille ===
+Edellä mainitut nopeuden, siirtymän ja paikan tulokset voidaan johtaa määritelmästä integroinnin avulla
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+         
+        ∥
+        
+          ∫
+          
+            
+              t
+              
+                1
+              
+            
+          
+          
+            
+              t
+              
+                2
+              
+            
+          
+        
+        d
+        t
+      
+    
+    {\displaystyle \mathbf {\vec {a}} ={\frac {d\mathbf {\vec {v}} }{dt}}\ \parallel \int _{t_{1}}^{t_{2}}dt}
+  
+
+  
+    
+      
+        ⇔
+        
+          ∫
+          
+            
+              t
+              
+                1
+              
+            
+          
+          
+            
+              t
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              a
+              →
+            
+          
+        
+        d
+        t
+        =
+        
+          ∫
+          
+            
+              t
+              
+                1
+              
+            
+          
+          
+            
+              t
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              d
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        d
+        t
+      
+    
+    {\displaystyle \Leftrightarrow \int _{t_{1}}^{t_{2}}{\vec {a}}dt=\int _{t_{1}}^{t_{2}}{\frac {d\mathbf {\vec {v}} }{dt}}dt}
+         
+  
+    
+      
+        ,
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle ,{\vec {a}}}
+   on vakio joten voidaan ottaa ulos integraalista
+
+  
+    
+      
+        ⇔
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ⋅
+        
+          
+            
+              /
+            
+          
+          
+            
+            
+            
+              
+                t
+                
+                  1
+                
+              
+            
+          
+          
+            
+            
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        (
+        1
+        )
+        d
+        t
+        =
+        
+          
+            
+              /
+            
+          
+          
+            
+            
+            
+              
+                t
+                
+                  1
+                
+              
+            
+          
+          
+            
+            
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        
+          
+            
+              v
+              →
+            
+          
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle \Leftrightarrow {\vec {a}}\cdot {\Big /}_{\!\!{t_{1}}}^{\;{t_{2}}}(1)dt={\Big /}_{\!\!{t_{1}}}^{\;{t_{2}}}{\vec {v}}(t)}
+   , 
+  
+    
+      
+        ,
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle ,{\vec {v}}}
+   on ajan funktio
+
+  
+    
+      
+        ⇔
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ⋅
+        (
+        
+          t
+          
+            2
+          
+        
+        −
+        
+          t
+          
+            1
+          
+        
+        )
+        =
+        
+          
+            
+              v
+              →
+            
+          
+        
+        (
+        
+          t
+          
+            2
+          
+        
+        )
+        −
+        
+          
+            
+              v
+              →
+            
+          
+        
+        (
+        
+          t
+          
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle \Leftrightarrow {\vec {a}}\cdot (t_{2}-t_{1})={\vec {v}}(t_{2})-{\vec {v}}(t_{1})}
+  
+
+  
+    
+      
+        
+          
+            ⇔
+            
+              
+                
+                  v
+                  →
+                
+              
+            
+            (
+            
+              t
+              
+                2
+              
+            
+            )
+            =
+            
+              
+                
+                  v
+                  →
+                
+              
+            
+            (
+            
+              t
+              
+                1
+              
+            
+            )
+          
+        
+        +
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ⋅
+        (
+        
+          t
+          
+            2
+          
+        
+        −
+        
+          t
+          
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle {\displaystyle \Leftrightarrow {\vec {v}}(t_{2})={\vec {v}}(t_{1})}+{\vec {a}}\cdot (t_{2}-t_{1})}
+   merkitään 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle t_{1}=0}
+   , 
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+        =
+        t
+      
+    
+    {\displaystyle t_{2}=t}
+  
+
+  
+    
+      
+        
+          
+            ⇔
+            
+              
+                
+                  v
+                  →
+                
+              
+            
+            (
+            
+              t
+              
+
+              
+            
+            )
+            =
+            
+              
+                
+                  v
+                  →
+                
+              
+            
+            (
+            0
+            )
+          
+        
+        +
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ⋅
+        t
+      
+    
+    {\displaystyle {\displaystyle \Leftrightarrow {\vec {v}}(t_{})={\vec {v}}(0)}+{\vec {a}}\cdot t}
+  , merkitään  
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        (
+        0
+        )
+        =
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}(0)={\vec {v}}_{0}}
+    ,  
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}(t)={\vec {v}}}
+  
+
+  
+    
+      
+        ⇔
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            0
+          
+        
+        +
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ⋅
+        t
+      
+    
+    {\displaystyle \Leftrightarrow {\vec {v}}={\vec {v}}_{0}+{\vec {a}}\cdot t}
+  
+Tästä voidaan edelleen jatkaa integroimalla nopeutta ajan suhteen. (nopeuden määritelmä 
+  
+    
+      
+        ,
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    p
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle ,{\vec {v}}={\frac {d\mathbf {\vec {p}} }{dt}}}
+  )
+
+  
+    
+      
+        
+          ∫
+          
+            
+              t
+              
+                1
+              
+            
+          
+          
+            
+              t
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              v
+              →
+            
+          
+        
+        (
+        t
+        )
+        
+          d
+          t
+        
+        =
+        
+          ∫
+          
+            
+              t
+              
+                1
+              
+            
+          
+          
+            
+              t
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              d
+              
+                
+                  
+                    p
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        d
+        t
+      
+    
+    {\displaystyle \int _{t_{1}}^{t_{2}}{\vec {v}}(t){dt}=\int _{t_{1}}^{t_{2}}{\frac {d\mathbf {\vec {p}} }{dt}}dt}
+  , sijoitetaan 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+   äskeisestä yhtälöstä
+
+  
+    
+      
+        
+          
+            ∫
+            
+              
+                t
+                
+                  1
+                
+              
+            
+            
+              
+                t
+                
+                  2
+                
+              
+            
+          
+          (
+          
+            
+              
+                
+                  v
+                  →
+                
+              
+            
+            
+              0
+            
+          
+          +
+          
+            
+              
+                a
+                →
+              
+            
+          
+          t
+          )
+          
+            d
+            t
+          
+        
+      
+      =
+      
+        
+          
+            /
+          
+        
+        
+          
+          
+          
+            
+              t
+              
+                1
+              
+            
+          
+        
+        
+          
+          
+            
+              t
+              
+                2
+              
+            
+          
+        
+      
+      
+        
+          
+            
+              
+                p
+                →
+              
+            
+          
+          (
+          t
+          )
+        
+      
+    
+    {\displaystyle \int _{t_{1}}^{t_{2}}({\vec {v}}_{0}+{\vec {a}}t){dt}}={\Big /}_{\!\!{t_{1}}}^{\;{t_{2}}}{\mathbf {{\vec {p}}(t)} }
+   , 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        (
+        0
+        )
+      
+    
+    {\displaystyle {\vec {v}}(0)}
+   ja 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+   vakioita
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  v
+                  →
+                
+              
+            
+            
+              0
+            
+          
+          
+            ∫
+            
+              
+                t
+                
+                  1
+                
+              
+            
+            
+              
+                t
+                
+                  2
+                
+              
+            
+          
+          (
+          1
+          )
+          +
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            ∫
+            
+              
+                t
+                
+                  1
+                
+              
+            
+            
+              
+                t
+                
+                  2
+                
+              
+            
+          
+          (
+          t
+          )
+          
+            d
+            t
+          
+        
+      
+      =
+      
+        
+          
+            /
+          
+        
+        
+          
+          
+          
+            
+              t
+              
+                1
+              
+            
+          
+        
+        
+          
+          
+            
+              t
+              
+                2
+              
+            
+          
+        
+      
+      
+        
+          
+            
+              
+                p
+                →
+              
+            
+          
+          (
+          t
+          )
+        
+      
+    
+    {\displaystyle {\vec {v}}_{0}\int _{t_{1}}^{t_{2}}(1)+{\vec {a}}\int _{t_{1}}^{t_{2}}(t){dt}}={\Big /}_{\!\!{t_{1}}}^{\;{t_{2}}}{\mathbf {{\vec {p}}(t)} }
+  
+
+  
+    
+      
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            0
+          
+        
+        (
+        
+          t
+          
+            2
+          
+        
+        −
+        
+          t
+          
+            1
+          
+        
+        )
+        +
+        
+          
+            
+              1
+            
+            2
+          
+        
+        
+          
+            
+              a
+              →
+            
+          
+        
+        (
+        
+          t
+          
+            2
+          
+          
+            2
+          
+        
+        −
+        
+          t
+          
+            1
+          
+          
+            2
+          
+        
+        )
+        =
+        
+          
+            
+              p
+              →
+            
+          
+        
+        (
+        
+          t
+          
+            2
+          
+        
+        )
+        −
+        
+          
+            
+              p
+              →
+            
+          
+        
+        (
+        
+          t
+          
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle {\vec {v}}_{0}(t_{2}-t_{1})+{\frac {\mathbf {1} }{2}}{\vec {a}}(t_{2}^{2}-t_{1}^{2})={\vec {p}}(t_{2})-{\vec {p}}(t_{1})}
+  , merkitään paikan muutosta siirtymällä  
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+        (
+        
+          t
+          
+            2
+          
+        
+        )
+        −
+        
+          
+            
+              p
+              →
+            
+          
+        
+        (
+        
+          t
+          
+            1
+          
+        
+        )
+        =
+        
+          
+            
+              s
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}(t_{2})-{\vec {p}}(t_{1})={\vec {s}}}
+   ja  
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle t_{1}=0}
+   , 
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+        =
+        t
+      
+    
+    {\displaystyle t_{2}=t}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            0
+          
+        
+        t
+        +
+        
+          
+            
+              1
+            
+            2
+          
+        
+        
+          
+            
+              a
+              →
+            
+          
+        
+        
+          t
+          
+            2
+          
+        
+        =
+        
+          
+            
+              s
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}_{0}t+{\frac {\mathbf {1} }{2}}{\vec {a}}t^{2}={\vec {s}}}
+  
+
+
+=== Graafinen tulkinta ===
+Yksiulotteisessa liikkeessä suunta voidaan unohtaa ja kiihtyvyys on suoraan nopeuden kuvaajan 
+  
+    
+      
+        (
+        t
+        
+          ,
+        
+        v
+        )
+      
+    
+    {\displaystyle (t{,}v)}
+   tangentti. Tasaisesti kiihtyvässä liikkeessä nopeus ajan funktiona antaa piirrettynä suoran, jonka kulmakertoimesta kiihtyvyys voidaan laskea.
+
+
+== Kiihtyvyys ympyräliikkeessä ==
+Kiihtyvyys ympyrä­liikkeessä voidaan jakaa kahteen komponenttiin, kappaleen tangentin suuntaiseen tangenttikiihtyvyyteen, sekä sitä vastaan kohti­suoraan (säteen suuntaiseen) normaali­kiihtyvyyteen. Molempia suureita tarkasteltaessa tärkeiksi työkaluiksi tulee kulma 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  , kulmanopeus (
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+  ) ja kulmakiihtyvyys (
+  
+    
+      
+        
+          α
+        
+      
+    
+    {\displaystyle \mathbf {\alpha } }
+  ). Kulmakiihtyvyys voidaan määrittää vastaavasti kuin kiihtyvyys kulmanopeuden ensimmäisenä ja toisaalta kulman muutoksen toisena derivaattana ajan suhteen
+
+  
+    
+      
+        
+          
+            
+              α
+              →
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    ω
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+         
+        =
+        
+          
+            
+              
+                d
+                ″
+              
+              
+                
+                  
+                    θ
+                    →
+                  
+                
+              
+            
+            
+              
+                d
+                ″
+              
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {\vec {\alpha }} ={\frac {d\mathbf {\vec {\omega }} }{dt}}\ ={\frac {d''\mathbf {\vec {\theta }} }{d''t}}}
+  
+Tangenttikiihtyvyys 
+  
+    
+      
+        
+          
+            a
+            
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {a_{t}} }
+   ja normaalikiihtyvyys 
+  
+    
+      
+        
+          
+            a
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {a_{n}} }
+   voidaan ilmoittaa kulmanopeuden 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+  , kulmakiihtyvyyden 
+  
+    
+      
+        
+          α
+        
+      
+    
+    {\displaystyle \mathbf {\alpha } }
+   ja ympyrän säteen 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   avulla:
+
+  
+    
+      
+        
+          
+            a
+            
+              t
+            
+          
+        
+        =
+        
+          α
+        
+        ⋅
+        r
+      
+    
+    {\displaystyle \mathbf {a_{t}} =\mathbf {\alpha } \cdot r}
+   ja 
+  
+    
+      
+        
+          
+            a
+            
+              n
+            
+          
+        
+        =
+        
+          
+            ω
+            
+              2
+            
+          
+        
+        ⋅
+        r
+      
+    
+    {\displaystyle \mathbf {a_{n}} =\mathbf {\omega ^{2}} \cdot r}
+  Kiihtyvyys voi vaikuttaa sekä kappaleen vauhdin suuruuteen, että suunnan muutokseen. Jos tangentiaalikiihtyvyys on ympyräradalla kulkevan kappaleen nopeuden suuntainen, kappaleen vauhti kasvaa; jos se taas on vastakkais­suuntainen, liike hidastuu. Normaalikiihtyvyys taas vaikuttaa ympyräradan jyrkkyyteen eli siihen kuinka nopeasti kappaleen suunta muuttuu. Mitä suurempi normaalikiihtyvyys on, sitä pienemmällä ympyräradalla kappale liikkuu. Jos normaalikiihtyvyys putoaa nollaan, kappale poistuu ympyräradalta ja jatkaa tasaista suoraviivaista liikettä, ellei siihen vaikuta muita kiihtyvyyksiä.
+
+
+== Kiihtyvyys törmäyksissä ==
+Törmäyksessä tapahtuvaa äkkinäistä nopeuden muutosta mitataan G-yksiköissä. 1 G on putoamiskiihtyvyys eli maan vetovoiman aiheuttama kiihtyvyys maan pinnalla, joka on noin 9,81 m/s2. Esimerkiksi kirpun kokema hidastuvuus voi olla jopa 50 G:n suuruinen sen osuessa puunrunkoon siihen hypättyään. Tämä kiihtyvyys on SI-järjestelmän yksiköinä noin 50 · 9,81 m/s2 = 490 m/s2.
+
+
+== Kiihtyvyys ja dynamiikan peruslaki ==
+Dynamiikan II. peruslain mukaan kappaleeseen kohdistuva kokonaisvoima aiheuttaa sille kiihtyvyyden.
+
+  
+    
+      
+        ∑
+        
+          
+            
+              F
+              →
+            
+          
+        
+        =
+        m
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle \sum {\vec {F}}=m{\vec {a}}}
+   , kun m on vakio
+
+
+== Katso myös ==
+G-voima
+Nopeus
+Nykäys
+Kulmakiihtyvyys
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+ Kuvia tai muita tiedostoja aiheesta Kiihtyvyys Wikimedia Commonsissa

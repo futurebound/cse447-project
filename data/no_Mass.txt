@@ -1,0 +1,20 @@
+Masse er en av fysikkens grunnenheter. Masse betyr materie- eller stoffmengde og er en grunnleggende egenskap ved et legeme eller en gjenstand. Stoffmengden er gitt av antall protoner, nøytroner og elektroner som det inneholder (med et lite relativistisk avvik). SI-enheten for masse er kilogram. Et kilogram er 1000 gram og forkortes kg.
+Bak begrepet masse ligger to helt forskjellige fysikalske prinsipper:
+
+et legemes motstand mot å forandre hastighet – dets treghet
+et legemes tyngde-akselerasjon – gravitasjon som i nærheten av et annet legeme oppviser en gjensidig tiltrekningskraftSelv nøyaktige målinger har ikke kunnet påvise noen forskjell. Dette ekvivalensprinsippet var et grunnlag for Einsteins generelle relativitetsteori.
+Et legemes masse kan måles ved veiing eller ved å utsette det for en kraft F og måle akselerasjonen a. Massen m kan da bestemmes etter treghetsloven F = m a. I et nøytralt gravitasjonsfelt (vektløs tilstand) er dette den eneste måten å bestemme massen på.
+
+
+== Er massen konstant? ==
+I dagligdagse omgivelser er det riktig å betrakte massen til et legeme som helt konstant. Formelt sett kan det likevel oppstå et avvik som følge av Einsteins relativitetsteori, hvor masse og energi er to sider av samme sak. Ifølge relativitetsteorien er 
+
+E = m c²der E er energi, m er masse og c er lysets hastighet i tomt rom, en konstant. Avviket blir kun substansielt når legemet får tilført så mye energi at det akselereres helt til hastigheten kommer i nærheten av lysets hastighet. Dette er alt annet enn dagligdags.
+
+
+== Et legemes masse kontra et legemes vekt ==
+Med veiing menes i det følgende en kraftmåling som ved en fjærvekt, og uttrykkelig ikke en sammenligningsmåling som ved en skålvekt eller bismer.
+Med et legemes vekt mener vi den gjensidige kraften som massen av legemet utøver mot massen av et annet legeme. Det andre legemet er typisk jorda når vi snakker om vekt. Når det brukes kilogram for å uttrykke vekt, er dette formelt feil, men det er en tradisjon fra eldre tider.
+Det formelt riktige er å si at en masse (målt i kilogram) utøver en kraft mot jorda (målt i newton) som er lik m*a (massen ganger akselerasjonen), i vårt tilfelle m*g, hvor g er jordas tyngde-akselerasjon på 9.78 (ved ekvator) til 9.832 m/s² (ved polene). Jordas tyngde-akselerasjon blir også kalt tyngdekraften til jorda. At tyngde-akselerasjonen varierer litt fører til at vekten av (den konstante) massen varierer litt, alt etter hvor på jorda det veies.
+Andre planeter og måner har andre masser og derfor andre tyngde-akselerasjoner (disse er ikke proporsjonale). Et legemes masse (som er konstant uansett sted i universet) vil derfor oppvise en kraft (alså en vekt) som er proporsjonal til planetens tyngde-akselerasjon. Eksempelvis har månen en tyngde-akselerasjon på 1.62 m/s² mens jorden sin er 9.81 m/s² i Norge. Forholdet mellom dem er 6.05, derfor veier et legeme bare sjettedelen på månen enn det gjør på jorda.
+Når det (formelt feilaktig) uttrykkes at et kilogramlodd bare veier 0.165 kilo eller kilogram på månen, menes at kraften av loddet mot månen (på månen) er 0.165 ganger kraften mot jorda (på jorda).

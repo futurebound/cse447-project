@@ -1,0 +1,295 @@
+De lichtsnelheid is de snelheid waarmee het licht en andere elektromagnetische straling zich voortplanten. In vacuüm heeft de lichtsnelheid (in SI-eenheden) voor alle frequenties de waarde c = 299 792 458 m/s.
+
+
+== Kenmerken ==
+De lichtsnelheid in vacuüm wordt beschouwd als een natuurconstante. De bovenstaande waarde is geen meetwaarde maar definieert de meter: deze is de afstand die het licht in 1/299 792 458 seconde aflegt. Dit betekent dat nadat volgens een eerdere definitie van de meter de lichtsnelheid in vacuüm constant bleek, deze nu per definitie constant is (en in termen van het huidige stelsel van eenheden overal en altijd hetzelfde is geweest en zal zijn). De lichtsnelheid wordt vaak afgerond naar 300 000 000 meter per seconde, dus 300 000 kilometer per seconde ofwel 1,08 miljard kilometer per uur.
+De lichtsnelheid in een medium is lager dan deze waarde (in lucht 0,03% lager). De verhouding van c en de fasesnelheid in een medium is de brekingsindex van dat medium. De lichtsnelheid in een medium hangt in het algemeen niet alleen van de stof af, maar ook van de golflengte van het licht dat men beschouwt. In vacuüm is de lichtsnelheid voor alle golflengten gelijk.
+In natuurkundige formules wordt de lichtsnelheid in vacuüm meestal weergegeven met de letter c, zoals in de formule van de massa-energierelatie 
+  
+    
+      
+        E
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E=mc^{2}}
+  . De c staat voor celeritas, Latijn voor snelheid. Deze natuurkundige constante speelt in de natuurkunde een centrale rol, met verreikende consequenties voor het begrip van ruimte en tijd die nu deel uitmaken van een enkele ruimtetijd.
+De lichtsnelheid is tevens de maximale snelheid waarmee overdracht van informatie kan plaatsvinden. De minimale responstijd is tweemaal de overdrachtstijd (round-trip delay). In de telecommunicatie speelt dat vooral een rol bij communicatie met of via satellieten; de communicatiepartners horen elkaar daarbij met een zekere vertraging, ruwweg tussen 0,5 en 1 seconde. Bij andere media, zoals het internet, wordt een groot deel van de vertragingen door de elektronica en de gebruikte protocollen veroorzaakt. Bij het vanaf de aarde besturen van een voertuig op een andere planeet, zoals het Mars Science Laboratory, is de responstijd nog veel langer: in het geval van Mars, afhankelijk van de posities van beide planeten, zo'n 20 minuten. Bij de Voyager 1 was de responstijd in 2017 ruim 39 uur.
+Bij snelle elektronica moet ook rekening met de lichtsnelheid gehouden worden. De afstanden binnen een processor, tussen processor en componenten of tussen samenwerkende processoren onderling moeten over het algemeen korter zijn dan de afstand die met de lichtsnelheid in één klokpuls afgelegd kan worden. Bij een kloksnelheid van 5 GHz is dat ongeveer 6 centimeter. Een verdubbeling van de kloksnelheid halveert deze maximale afstand.
+Als een lichtpuls uitgezonden van de ene ruimtetijdpositie op de andere aankomt, zegt men dat de ruimtetijdposities lichtachtig gescheiden zijn. De ruimtetijdpositie van aankomst is ondubbelzinnig in de tijd na de ruimtetijdpositie van vertrek, maar voor twee gegeven lichtachtig gescheiden ruimtetijdposities kan door de keuze van het inertiaalstelsel het tijdsverschil (en dienovereenkomstig de ruimtelijke afstand) elke willekeurige positieve waarde aannemen.
+
+
+== Geschiedenis ==
+
+De eerste persoon die een theorie over de lichtsnelheid voorstelde was de Griekse natuurfilosoof Empedocles (rond 490–430 BC). Hij stelde dat het licht een eindige snelheid had. Daarom zou het tijd nodig hebben om te reizen. Het onderzoek naar wat het licht is bleef onderwerp van studie bij de oude Grieken en daarna in de vroege Arabische wereld. Zo werd hetzelfde idee daarna ook geopperd door de Arabische geleerde Ibn al-Haytham in het jaar 1021. 
+Tijdens de wetenschappelijke revolutie in Europa gingen geleerden op zoek naar een manier om de lichtsnelheid te bepalen. Hoewel Kepler en Descartes dachten dat de lichtsnelheid oneindig groot moest zijn, stelde Isaac Beeckman in zijn dagboek experimenten voor om de lichtsnelheid te meten, direct of in verhouding met de geluidssnelheid. Ook Galileo Galilei deed pogingen om de lichtsnelheid te meten, maar slaagde daar niet in. Zijn methode - door met lantaarns tussen bergtoppen te seinen - was te traag om de lichtsnelheid te kunnen meten. In 1676 stelde Ole Rømer de lichtsnelheid vast op 225 000 km/s. Hij vond deze snelheid door de tijden te vergelijken, waarop de maan Io van Jupiter achter Jupiter (eclips) tevoorschijn komt. In 1849 bepaalde Fizeau met een draaiend tandrad de lichtsnelheid tot op ongeveer 5% nauwkeurig (en met een iets andere methode halveerde hij het jaar daarop zijn meetfout). Foucault verbeterde dit met een draaiende spiegel. Albert Michelson kwam in 1903 tot 299 940 km/s.
+De huidige definitie van de meter, en daarmee de exacte waarde van de lichtsnelheid, dateert uit 1983. Toen werd door de 17e CGPM de meter geherdefineerd als "de lengte van het pad dat het licht aflegt in vacuüm gedurende een tijdsinterval van 1/299 792 458 deel van een seconde." Als gevolg van deze definitie is de lichtsnelheid in vacuüm exact 299 792 458 m/s en is het een gedefinieerde constante binnen het Internationale Stelsel van Eenheden. Betere experimentele technieken hebben daarom geen invloed op de waarde van de snelheid van het licht, maar zorgen in plaats daarvan voor een nauwkeurigere definitie van de meter.
+
+
+== Maximale snelheid ==
+De lichtsnelheid in een vacuüm is de maximale snelheid voor materie en informatie. Een deeltje dat geen rustmassa bezit, zoals het foton (lichtdeeltje), reist altijd met de lichtsnelheid. Voor een deeltje met rustmassa is oneindig veel energie en impuls nodig om dit tot de lichtsnelheid te versnellen, wat betekent dat dit onmogelijk is. De theorie van Einstein laat echter ook de mogelijkheid van tachyonen toe: deeltjes die altijd sneller gaan dan het licht en oneindig veel energie nodig hebben om tot de lichtsnelheid af te remmen. Of ze daadwerkelijk bestaan, is onbekend en kan in beginsel ook niet worden aangetoond.
+Men zou kunnen veronderstellen dat de lichtsnelheid wordt overschreden als twee snelheden worden opgeteld.
+Dit is echter niet het geval.
+De relativiteitstheorie stelt dat snelheden niet zonder meer worden opgeteld. Er moet een speciale formule (snelheidstransformatie) worden toegepast.
+Bewegen twee lichamen in elkaars richting, het ene met snelheid u en het ander met snelheid v (beide minder dan c), dan is hun snelheid ten opzichte van elkaar
+
+  
+    
+      
+        w
+        =
+        
+          
+            
+              u
+              +
+              v
+            
+            
+              1
+              +
+              
+                
+                  
+                    u
+                    v
+                  
+                  
+                    c
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle w={\frac {u+v}{1+{\frac {uv}{c^{2}}}}}}
+  Dit is nimmer meer dan c.
+Bij lage snelheden, u en v klein ten opzichte van c, is w vrijwel gelijk aan u + v, daar u v/c2  in dat geval vrijwel 0 is.
+
+
+== Relatie met magnetische en elektrische veldconstante en wetten van Maxwell ==
+Er geldt in een vacuüm dat 
+
+  
+    
+      
+        
+          c
+          
+            2
+          
+        
+        =
+        
+          
+            1
+            
+              
+                ϵ
+                
+                  0
+                
+              
+              
+                μ
+                
+                  0
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle c^{2}={\frac {1}{\epsilon _{0}\mu _{0}}}}
+  oftewel
+
+  
+    
+      
+        c
+        =
+        
+          
+            
+              1
+              
+                
+                  ϵ
+                  
+                    0
+                  
+                
+                
+                  μ
+                  
+                    0
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle c={\sqrt {\frac {1}{\epsilon _{0}\mu _{0}}}}}
+  met
+
+  
+    
+      
+        
+          μ
+          
+            0
+          
+        
+        =
+        4
+        π
+        ×
+        
+          10
+          
+            −
+            7
+          
+        
+         
+        
+          
+            N
+            
+              /
+            
+            A
+          
+          
+            2
+          
+        
+        ≈
+        1,256
+        6370614
+        ×
+        
+          10
+          
+            −
+            6
+          
+        
+         
+        
+          
+            N
+            
+              /
+            
+            A
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mu _{0}=4\pi \times 10^{-7}\ \mathrm {N/A} ^{2}\approx 1{,}2566370614\times 10^{-6}\ \mathrm {N/A} ^{2}}
+  , de magnetische veldconstante
+
+  
+    
+      
+        
+          ϵ
+          
+            0
+          
+        
+        =
+        
+          
+            1
+            
+              
+                μ
+                
+                  0
+                
+              
+              
+                c
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        8
+        ,
+        
+        854187817
+        ⋅
+        
+          10
+          
+            −
+            12
+          
+        
+      
+    
+    {\displaystyle \epsilon _{0}={\frac {1}{\mu _{0}c^{2}}}=8,\!854187817\cdot 10^{-12}}
+   F/m, de elektrische veldconstanteDit is een gevolg van het feit dat de lichtsnelheid kan worden afgeleid uit de verhouding tussen de elektrische en magnetische veldsterkte van een elektromagnetische golf. Het toont tevens aan dat de lichtsnelheid vervat zit in de wetten van Maxwell. Zo laten deze wetten in vacuüm zien dat de verandering van het elektrisch veld in de tijd gekoppeld is aan de verandering van de magnetische fluxdichtheid naar de plaats, en omgekeerd, waarbij de verhoudingsgetallen de voortplantingssnelheid van de golf bepalen.
+
+
+== In een medium ==
+De lichtsnelheid in een medium, zoals glas of lucht, is lager dan in vacuüm. Zie bijvoorbeeld het effect in de Wet van Snellius. Het is deze vertraging die lichtbreking in een prisma veroorzaakt; het bijbehorende getal staat bekend als de brekingsindex, met n als symbool. 
+Hoewel deeltjes met massa nooit met de snelheid van het licht in een vacuüm, de absolute lichtsnelheid, of sneller kunnen bewegen, kunnen deeltjes wel door een medium reizen met een snelheid groter dan die van het licht in dat medium. De bij dit Tsjerenkov-effect vrijkomende straling wordt door het menselijk oog waargenomen als een blauw licht.
+
+
+== Meten van de lichtsnelheid ==
+
+
+=== Constante snelheid ===
+Later in de 19e eeuw ontdekte men dat de snelheid van het licht in vacuüm constant was (in termen van de meter en de seconde volgens de toenmalige definities), onafhankelijk van de beweging van de lichtbron, maar zelfs ook onafhankelijk van de beweging van de waarnemer. Dat was de paradoxale conclusie van de experimenten van Michelson en Morley. Ook als iemand zelf in beweging is met een lamp in zijn hand, gaan voor die persoon de lichtstralen in alle richtingen nog steeds met dezelfde snelheid. Dit geldt ook voor het licht dat vanuit een andere lichtbron naar de persoon toe reist. De lichtsnelheid is in alle richtingen en onafhankelijk van de snelheid van de reiziger (vaak waarnemer genoemd) gelijk. 
+Dit strookt niet met de klassieke Newtoniaanse natuurkunde en ook niet met de intuïtie. Het was aanvankelijk dan ook moeilijk te accepteren, maar tegenwoordig is men er algemeen van overtuigd dat de lichtsnelheid inderdaad constant is. Het is het belangrijkste uitgangspunt van de speciale relativiteitstheorie van Albert Einstein.
+In de algemene relativiteitstheorie kunnen (relatieve) snelheden echter alleen lokaal eenduidig gedefinieerd worden. De lichtsnelheid in de zin van de eigenafstand gedeeld door eigentijd is constant, niet in de zin van de coördinaten van een waarnemer op afstand.
+
+
+=== Moderne experimenten ===
+De Deense natuurkundige Lene Hau slaagde er in 1998 aan Harvard in om de gemiddelde snelheid van het licht (in een medium) te verlagen tot 17 m/s, zo'n 61,2 km/h.
+Zij deed dit door atomen af te koelen tot een miljoenste graad boven het absolute nulpunt. Atomen gaan zich dan gedragen als behorend tot een enkel superatoom. Deze toestand noemt men een bose-einsteincondensaat. In 1999 slaagde de onderzoeksgroep erin om het licht zelfs volledig stil te laten staan, gedurende een milliseconde.Recente proeven hebben ook aangetoond dat het mogelijk is om de groepssnelheid van licht boven c te brengen. Een experiment zorgde ervoor dat een laserstraal door een cesiumwolk vloog over een zeer korte afstand met een snelheid van 300 × c maar deze techniek is niet bruikbaar om informatie te verzenden sneller dan het licht.
+
+
+== Sneller dan het licht ==
+Op 22 september 2011 werden de resultaten gepubliceerd van een experiment waarbij vanuit de LHC van CERN een neutrinobundel werd afgevuurd op een doel 730 kilometer verderop in Gran Sasso (Italië). De metingen leken erop te duiden dat de deeltjes een fractie sneller waren dan het licht. Omdat de onderzoekers geen fout in het eigen onderzoek konden vinden, verzocht men collega-onderzoekers uit de Verenigde Staten en Japan het experiment te herhalen.
+Op 18 november 2011 werd het experiment herhaald en deze keer met een veel kleinere foutmarge dankzij een inkorting, met meer dan een factor duizend, van de pulsen waarmee de neutrino's uitgezonden werden. Wederom berekende men dat de neutrino's zich met een hogere snelheid dan het licht verplaatst hadden van CERN naar het laboratorium in het Italiaanse Gran Sasso.Op 23 februari 2012 maakte CERN bekend dat bij deze experimenten een niet goed functionerende glasvezelverbinding tot een lagere uitkomst van de vluchttijd van de neutrino's geleid kan hebben. Nieuwe metingen in mei 2012 moesten hierover uitsluitsel geven. In juli 2012 werd bekendgemaakt dat na correctie van de meetresultaten de deeltjes de lichtsnelheid toch niet overschreden bleken te hebben.In de astronomie wordt vaak schijnbaar superluminale beweging waargenomen in jets in de kernen van actieve sterrenstelsels.
+Als men een laserstraal richt op een ver object en men draait deze vervolgens opzij, dan kan het lichtpunt op het object sneller dan het licht opzij bewegen. Dit is echter geen verplaatsing van massa of informatie met die snelheid.
+
+
+== Variable lichtsnelheid en de constantheid in het waarneembare universum ==
+Hoewel de constantheid van de lichtsnelheid experimenteel bewezen werd, is er tot nu toe geen voldoend overtuigende verklaring voor zijn constantheid en zijn speciale waarde. De loop-kwantumzwaartekracht bijvoorbeeld dicteert dat de snelheid van een foton niet als constante kan worden gedefinieerd, maar dat zijn waarde van de fotonfrequentie afhangt. Inderdaad zijn er theorieën dat de lichtsnelheid zich met de leeftijd van het universum heeft veranderd en dat hij niet constant was in het vroege universum. Albrecht en Magueijo tonen aan dat de kosmologische evolutievergelijkingen samen met een variabele lichtsnelheid de problemen van de horizont, de platheid en van de kosmologische constante kunnen oplossen. De assumptie (aanname) van een ruimtetijd met drie ruimte- en twee tijddimensies geeft een natuurlijke verklaring voor de constantheid van de lichtsnelheid in het waarneembare universum en ook ervoor dat de lichtsnelheid in het vroege universum varieërde.
+
+
+== Zie ook ==
+Lichtjaar
+De numerieke waarde van de lichtsnelheid op 1 stellen
+
+
+== Externe link ==
+Experimental Determination of the Velocity of Light

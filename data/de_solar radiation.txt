@@ -1,0 +1,95 @@
+Sonnenstrahlung oder Solarstrahlung ist die von der Sonne ausgesandte Strahlung, die auf verschiedene physikalische Effekte zurückgeht. Der Teil des elektromagnetischen Spektrums der Sonne, der durch die Wärmeabstrahlung der heißen Sonnenoberfläche produziert wird, hat die größte Intensität im Bereich des sichtbaren Lichts (Sonnenlicht). Abhängig von der Wellenlänge wird die Sonnenstrahlung von der Atmosphäre mehr oder weniger stark absorbiert. Die an der Erdoberfläche eintreffende Intensität hängt zudem stark vom Wetter und vom Sonnenstand ab.
+Neben der elektromagnetischen Strahlung wird von der Sonne auch massebehaftete Teilchenstrahlung emittiert, die aber meist nicht zur Sonnenstrahlung gerechnet wird. Sie besteht aus den geladenen Teilchen des Sonnenwinds und den Neutrinos, die bei der Kernfusion und Folgereaktionen im Innern der Sonne entstehen.
+
+
+== Sonnenspektrum ==
+
+Das Spektrum der elektromagnetischen Strahlung der Sonne hat ihr Maximum bei etwa 500 nm Wellenlänge (blau-grünes Licht), reicht aber von harter Röntgenstrahlung mit weniger als 0,1 nm bis zu langen Radiowellen. Das kontinuierliche Spektrum ist von etwa 140 nm (UVC) bis etwa 10 cm (Mikrowelle) näherungsweise das eines Schwarzen Strahlers mit einer Temperatur von knapp 6000 K, was der Temperatur der Photosphäre entspricht. Dieses Lichtspektrum unterteilt sich mit den Grenzen unserer Augenwahrnehmung in Ultraviolettes Licht (UV: 100–380 nm), sichtbares Licht (VIS(engl.: visible): 380–780 nm) und Infrarotes Licht (IR: 780 nm-1 mm).
+Im Bereich von naher Infrarotstrahlung (NIR) bis ins UV enthält das Spektrum eine Vielzahl von Absorptionslinien, die sogenannten Fraunhoferlinien. Sie entstehen durch Strahlungsabsorption in der Photosphäre der Sonne.
+Sonneneruptionen, deren Häufigkeit von der Sonnenaktivität abhängt, erhöhen die Strahlung im Röntgenbereich kurzfristig um mehrere Größenordnungen, tragen aber nur wenig zur Gesamtstrahlung bei. Oft werden sie von langwelliger Radiostrahlung begleitet (englisch Radio bursts), die abhängig vom Intensitätsverlauf als Typ I bis Typ V kategorisiert wird.
+
+
+=== Radiostrahlung ===
+Die ruhige Sonne strahlt nicht nur im Lichtbereich, sondern im gesamten Radiofenster. Dort ist ihr Spektrum nicht mehr das eines schwarzen Körpers, vielmehr steigt die effektive Temperatur von ca. 6000 K bei 1 cm Wellenlänge auf 1.000.000 K bei 10 m an. Ebenfalls mit der Wellenlänge wächst der scheinbare Durchmesser der Sonne, die Strahlung wird zunehmend von der äußeren Atmosphäre dominiert. Bei der ruhigen Sonne handelt es sich um thermische Bremsstrahlung freier Elektronen. Die wichtigsten Strahlungsanteile einer gestörten Sonne sind:
+
+Langsame Strahlungsänderung proportional zur Sonnenfleckenanzahl, dazu auch Solarer Radioflussindex.
+Rauschstürme oberhalb 100 MHz, Dauer mehrere Tage.
+Strahlungsausbrüche oft in Verbindung mit Flares und CME, Dauer Sekunden bis Tage. Sie werden unterteilt in Kategorien I bis V in Meter- und Dezimeterwellen und Mikrowellenbursts in Zentimeterwellen, Synchrotronstrahlung, supra-thermischer Elektronen, die um Magnetfeldlinien spiralen.
+
+
+== Sonneneinstrahlung auf die Erde ==
+
+
+=== Solarkonstante ===
+
+Die bei der Kernfusion im Innern der Sonne entstehenden Neutrinos tragen 2 % der Fusionsleistung fort. Die gesamte elektromagnetische Strahlungsleistung der Sonne wird durch die thermische Strahlung der Photosphäre dominiert, die um weniger als 0,1 % schwankt.
+Die auf die Erde fallende Leistung schwankt wegen der Exzentrizität der Erdbahn im Jahreslauf um knapp 7 %. Die mittlere Leistung pro Fläche wird Solarkonstante genannt. Sie wird außerhalb der Erdatmosphäre betrachtet und beträgt
+
+  
+    
+      
+        
+          E
+          
+            0
+          
+        
+        =
+        1367
+         
+        
+          W
+          
+            /
+          
+          
+            m
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle E_{0}=1367\ \mathrm {W/m^{2}} }
+  .
+
+
+=== Dämpfung durch die Atmosphäre ===
+
+Die Intensität der Sonnenstrahlung ist am Boden geringer als außerhalb der Atmosphäre, deren Absorption und Streuung stark wellenlängenabhängig ist: Der vom menschlichen Auge wahrnehmbare Anteil, welcher knapp die Hälfte der solaren Strahlung ausmacht, erreicht bei klarem Wetter und hohem Sonnenstand zum größten Teil die Erdoberfläche. Die nicht sichtbare Strahlung ist ganz überwiegend nahe Infrarotstrahlung (NIR), die ca. 46 % der Strahlungsleistung ausmacht und zu etwa einem Viertel in der Atmosphäre absorbiert wird, hauptsächlich durch Wassermoleküle. Von der Ultraviolettstrahlung, welche weniger als 10 % der Strahlung ausmacht, dringt UVA weitgehend durch, hauptsächlich geschwächt durch Rayleigh-Streuung, die auch dafür verantwortlich ist, dass der Himmel blau ist und man im Halbschatten braun wird. UVB wird von der Ozonschicht stark absorbiert, UVC von Luftsauerstoff.
+Die genaue Berechnung des Strahlungsflusses in Abhängigkeit von Sonnenstand und Höhe über dem Meeresspiegel ist schwierig. Näherungsweise berücksichtigt man lediglich die zu durchdringende Schichtdicke der Atmosphäre in Air Mass-Einheiten (Luftmasse) und die Sonnenscheindauer. Wolken vermindern die Direktstrahlung, Dunst erhöht die Diffusstrahlung. Diffusstrahlung und Direktstrahlung an einem Ort ergeben zusammen die Globalstrahlung.
+
+
+=== Bestrahlungsstärke ===
+
+Fällt die Sonnenstrahlung schräg ein, verteilt sie sich über eine größere Erdoberfläche, die Bestrahlungsstärke sinkt. Dieser Effekt verläuft mit dem Sinus des Höhenwinkels. Der Einfluss der Jahreszeiten in den Tropen ist kaum merklich. Da der Sonnenstand dort am Mittag immer steil ist, herrscht ein Tageszeitenklima. Außerhalb der Wendekreise besteht ein polwärts zunehmender Unterschied zwischen Sommer und Winter und zwar sowohl durch den Einstrahlungswinkel als auch durch die polwärts immer größeren Unterschiede bei den Tageslängen.
+In Mitteleuropa steht die sommerliche Mittagssonne 60° bis 65° hoch und strahlt bei idealen wolkenfreien Wetterbedingungen mit einer Direktstrahlungsstärke in der Regel von etwa 700–900 W/m². Im Winter sind es nur 13° bis 18° und bei kalter trockener Luft können zu Mittag durchaus auch Werte über 800 W/m² erreicht werden. Die Sonnenscheindauer wird für Einstrahlzeiten gezählt, in denen die Direktstrahlung Werte von über 150 W/m² erreicht und der Schattenwurf anfängt Kontrast zu zeigen.
+Die Erwärmung der Erdoberfläche hängt von der Dauer des hellen Tages ab. Ende Juni beträgt die Dauer in Mitteleuropa etwa 16 Stunden, im Dezember 8 Stunden. Das Verhältnis der gesamten eingestrahlten Sonnenenergie beträgt zwischen diesen Monaten etwa 5:1 bis 10:1, wird aber durch Wärmespeicherung vor allem durch die Meere gemildert (Seeklima).
+Beim Mikroklima hängt die Bestrahlungsstärke sowohl vom Einstrahlungswinkel ab als auch von der Sonnenexposition.
+
+
+=== Strahlungsbilanz ===
+
+Die Temperatur der Erdoberfläche wird global von der Strahlungsbilanz, dem Strahlungshaushalt bestimmt. Damit wird das Zusammenwirken von Absorption und Reflexion sowie Reemission und Streuung erfasst.
+
+
+== Messung ==
+
+Die Messung der Sonnenstrahlung erfolgt über Pyranometer (parallel zum Boden platziert), Pyrheliometer (der Sonne nachgeführt) oder Sonnenscheinautographen. Letztere sind in der modernen Messtechnik inzwischen veraltet und wurden vor allem zur Bestimmung der Sonnenscheindauer benutzt. Die Solarkonstante wird hingegen außerhalb der Atmosphäre über Radiometer gemessen.
+
+
+== Siehe auch ==
+Strahlenbüschel
+
+
+== Literatur ==
+Muhammad Iqbal: An Introduction To Solar Radiation. Elsevier, 1983, ISBN 978-0-323-15181-8. 
+
+
+== Weblinks ==
+
+Detailliertes Sonnenspektrum bei Astronomy Picture of the Day vom 27. Juni 2010.
+
+
+== Einzelnachweise ==

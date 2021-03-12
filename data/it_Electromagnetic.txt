@@ -1,0 +1,2525 @@
+L'interazione elettromagnetica è  l'interazione tra oggetti che possiedono carica elettrica, una delle quattro interazioni fondamentali. È responsabile del campo elettromagnetico, che rappresenta l'interazione in ogni punto dello spazio e si propaga sotto forma di onda elettromagnetica alla velocità della luce. 
+L'elettromagnetismo è la branca della fisica classica che studia l'interazione elettromagnetica e costituisce una teoria fondamentale che ha permesso di spiegare fenomeni naturali come l'elettricità, il magnetismo e la luce; è il primo esempio di unificazione di due diverse forze, quella elettrica e quella magnetica. La forza elettromagnetica ammette come caso particolare i fenomeni elettrostatici (ad es. l'elettricità) e i fenomeni magnetostatici (ad es. il magnetismo) e ad essa si possono ricondurre molti altri fenomeni fisici macroscopici quali ad esempio l'attrito, lo spostamento di un corpo a mezzo di una forza di contatto, ecc. L'elettrodinamica classica è la teoria dei campi elettromagnetici generati dalle correnti elettriche, includendo i principi della relatività ristretta. L'elettrodinamica quantistica è la teoria quantistica del campo elettromagnetico, descritta nell'ambito del Modello standard.
+Dalla teoria elettromagnetica si originano importanti branche teorico-applicative riguardanti le correnti elettriche, attraverso la teoria dei circuiti, l'elettrotecnica e l'elettronica.
+
+
+== Cenni storici ==
+La teoria dell'elettromagnetismo è stata sviluppata a partire dal XIX secolo e nasce dall'osservazione di una correlazione tra i fenomeni dell'elettricità e del magnetismo, che prima di allora erano stati scoperti e trattati separatamente.
+
+L'elettricità è stata scoperta in seguito all'evidenza sperimentale dell'attrazione o la repulsione tra corpi dotati di carica elettrica, corrispondente a due stati di elettrizzazione della materia, detti positivo e negativo: corpi elettrizzati entrambi positivamente o entrambi negativamente si respingono, mentre corpi elettrizzati in modo opposto si attraggono.
+A partire da questo fatto, nella seconda metà del diciottesimo secolo Charles Augustin de Coulomb formulò la legge di Coulomb, che quantifica la forza elettrica attrattiva o repulsiva che due corpi puntiformi carichi elettricamente si scambiano a distanza. A partire da tale legge è possibile affermare che un corpo carico elettricamente produce nello spazio circostante un campo elettrico tale per cui, se si introduce una carica elettrica, questa risente l'effetto di una forza, detta forza di Coulomb, direttamente proporzionale al prodotto delle due cariche e inversamente proporzionale al quadrato della loro distanza.
+Parallelamente, l'esistenza del magnetismo naturale nella materia era noto già agli antichi greci nel V - VI secolo a.C., anche se probabilmente era già stato scoperto nell'antica Cina dove si dice fosse già in uso un rudimentale prototipo di bussola magnetica. Gli antichi avevano scoperto la capacità di alcuni minerali, come la magnetite, di attrarre la limatura di ferro o piccoli oggetti ferrosi. Tra i più importanti studi medievali sull'argomento vi è l'epistola De Magnete di Pietro Peregrino di Maricourt, del 1296, che introduce il concetto e la terminologia dei due poli, Nord e Sud, della calamita, e propone l'esperimento della calamita spezzata. Nel 1600 apparve il De magnete di William Gilbert, che rimase a lungo il testo di riferimento sul tema del magnetismo, anche se i primi studi quantitativi sui fenomeni magnetostatici si possono far risalire alla fine del Settecento - inizio dell'Ottocento ad opera dei francesi Biot e Savart e, successivamente, di Ampère, sempre in Francia.
+Una prima correlazione tra elettricità e magnetismo fu ipotizzata dal fisico danese Hans Christian Ørsted, che eseguendo un esperimento già effettuato diciotto anni prima da Gian Domenico Romagnosi, noto come esperimento di Ørsted, osservò che un filo percorso da corrente elettrica generava attorno a sé un campo magnetico. In seguito, il chimico britannico Michael Faraday condusse una simile esperienza, ribattezzata esperimento di Faraday, per mezzo della quale dimostrò che un conduttore percorso da corrente immerso in un campo magnetico è soggetto ad una forza. La formulazione matematica della forza esercitata da un campo magnetico sulla corrente elettrica è infine dovuta a André-Marie Ampère, che tramite l'esperimento di Ampère concluse che tra due fili di lunghezza 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+   e distanza 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  , percorsi rispettivamente da una corrente di intensità 
+  
+    
+      
+        
+          i
+          
+            1
+          
+        
+      
+    
+    {\displaystyle i_{1}}
+   e 
+  
+    
+      
+        
+          i
+          
+            2
+          
+        
+      
+    
+    {\displaystyle i_{2}}
+  , si esercita una forza il cui modulo è in unità CGS:
+
+  
+    
+      
+        F
+        =
+        
+        
+          
+            
+              
+                i
+                
+                  1
+                
+              
+              ⋅
+              
+                i
+                
+                  2
+                
+              
+              ⋅
+              l
+            
+            d
+          
+        
+      
+    
+    {\displaystyle F=\;{\frac {i_{1}\cdot i_{2}\cdot l}{d}}}
+  La forza fra i due fili è attrattiva se le correnti scorrono nello stesso verso, repulsiva se scorrono in versi opposti. Fu chiaro allora che l'unica sorgente del campo magnetostatico sono cariche in moto, ovvero una corrente elettrica.
+Infine James Clerk Maxwell, unificando in modo organico i due fenomeni, formulò le omonime equazioni, che descrivono i fenomeni magnetostatici, elettrostatici, magnetodinamici ed elettrodinamici classici.
+
+
+== Elettromagnetismo classico ==
+Il campo elettromagnetico è un campo tensoriale dato dalla combinazione del campo elettrico e del campo magnetico ed è responsabile dell'interazione elettromagnetica; classicamente è descritto dalle equazioni di Maxwell e dalla forza di Lorentz. È generato nello spazio dalla presenza di cariche elettriche e può manifestarsi anche in assenza di esse, trattandosi di un'entità fisica che può essere definita indipendentemente dalle sorgenti che l'hanno generata.
+
+
+=== Il campo elettrico ===
+Il campo elettrostatico è un campo di forze conservativo generato nello spazio dalla presenza di cariche elettriche stazionarie. Il vettore campo elettrico 
+  
+    
+      
+        
+          E
+        
+      
+    
+    {\displaystyle \mathbf {E} }
+   in un punto è definito come il rapporto tra la forza elettrica generata dal campo su un oggetto carico e la carica dell'oggetto stesso:
+
+  
+    
+      
+        
+          E
+        
+        =
+        
+          lim
+          
+            
+              q
+              
+                0
+              
+            
+            →
+            0
+          
+        
+        
+          
+            
+              F
+            
+            
+              q
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {E} =\lim _{q_{0}\to 0}{\frac {\mathbf {F} }{q_{0}}}}
+  La legge di Coulomb afferma che una carica puntiforme 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+   posta in 
+  
+    
+      
+        
+          
+            r
+          
+          ′
+        
+      
+    
+    {\displaystyle \mathbf {r} '}
+  , genera un campo elettrico, in un punto 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {r} }
+  , definito dalla seguente espressione:
+
+  
+    
+      
+        
+          E
+        
+        (
+        
+          r
+        
+        )
+        =
+        
+          
+            Q
+            
+              4
+              π
+              ε
+            
+          
+        
+        
+          
+            
+              
+                r
+              
+              −
+              
+                
+                  r
+                
+                ′
+              
+            
+            
+              
+                ‖
+                
+                  
+                    r
+                  
+                  −
+                  
+                    
+                      r
+                    
+                    ′
+                  
+                
+                ‖
+              
+              
+                3
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {E} (\mathbf {r} )={\frac {Q}{4\pi \varepsilon }}{\frac {\mathbf {r} -\mathbf {r} '}{\left\|\mathbf {r} -\mathbf {r} '\right\|^{3}}}}
+  dove 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+   è la costante dielettrica caratteristica del materiale in cui si propaga il campo.
+Il campo elettrico è descritto anche dal potenziale elettrico (V), definito come il valore dell'energia potenziale (U) di una carica elettrica posta in un punto dello spazio divisa per la carica stessa. L'energia potenziale della carica è quindi l'energia che la carica possiede a causa della sua posizione all'interno del campo elettrico. Il potenziale elettrico è definito dalla seguente formula:
+
+  
+    
+      
+        V
+        =
+        
+          
+            U
+            q
+          
+        
+      
+    
+    {\displaystyle \operatorname {V} ={\frac {U}{q}}}
+  Il potenziale è dunque una quantità scalare, e l'unità di misura del potenziale elettrico è il volt. Tra due punti A e B di una regione di spazio sede di un campo elettrico c'è una differenza di potenziale di 1 V se la forza elettrica compie il lavoro di 1 J per portare una carica di 1 C dal punto A al punto B.
+Essendo il campo elettrico conservativo, è sempre possibile definire una funzione scalare 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   , Il potenziale elettrico, il cui gradiente, cambiato di segno, coincide con il campo:
+
+  
+    
+      
+        
+          
+            E
+          
+          
+            0
+          
+        
+        =
+        −
+        g
+        r
+        a
+        d
+        
+          V
+          
+            0
+          
+        
+        =
+        −
+        ∇
+        
+          V
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mathbf {E} _{0}=-gradV_{0}=-\nabla V_{0}}
+  
+
+
+=== Il campo magnetico ===
+Il campo magnetico è un campo vettoriale non conservativo generato da cariche in moto. Il campo magnetico agisce su oggetti carichi in moto attraverso una forza, detta forza di Lorentz, data da:
+
+  
+    
+      
+        
+          F
+        
+        =
+        q
+        
+          v
+        
+        ×
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {F} =q\mathbf {v} \times \mathbf {B} }
+  dove 
+  
+    
+      
+        ×
+      
+    
+    {\displaystyle \times }
+   indica il prodotto vettoriale, 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   è la carica elettrica dell'oggetto e 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+   è la velocità della carica.
+Il campo magnetico non compie lavoro, come conseguenza dell'espressione della forza di Lorentz, che è sempre perpendicolare alla direzione della velocità della carica. Inoltre, è descritto da un potenziale vettoriale 
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbf {A} }
+   definito formalmente dalla relazione:
+
+  
+    
+      
+        
+          B
+        
+        =
+        
+          ∇
+        
+        ×
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbf {B} =\mathbf {\nabla } \times \mathbf {A} }
+  ovvero 
+  
+    
+      
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {B} }
+   è il rotore di 
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbf {A} }
+  .
+Poiché la divergenza di un rotore è nulla, 
+  
+    
+      
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {B} }
+   deve avere divergenza nulla:
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          B
+        
+        =
+        0
+      
+    
+    {\displaystyle \nabla \cdot \mathbf {B} =0}
+  Il potenziale vettore di un campo è definito a meno di un gradiente di una funzione poiché il rotore del gradiente è sempre nullo.
+
+
+=== Equazioni di Maxwell ===
+Le equazioni di Maxwell sono un sistema di quattro equazioni differenziali alle derivate parziali lineari, che governano l'evoluzione spaziale e temporale del campo elettromagnetico. Si tratta di equazioni che, sintetizzando la legge di Gauss, la legge di Faraday e la legge di Ampère, unificano il concetto di campo elettrico e di campo magnetico all'interno del più ampio concetto di campo elettromagnetico.
+Nel caso più generale, in cui i campi dipendono dalle coordinate spaziali e dal tempo, la forma differenziale delle equazioni di Maxwell è:
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          D
+        
+        =
+        ρ
+        
+        ∇
+        ⋅
+        
+          B
+        
+        =
+        0
+      
+    
+    {\displaystyle \nabla \cdot \mathbf {D} =\rho \qquad \nabla \cdot \mathbf {B} =0}
+  
+  
+    
+      
+        ∇
+        ×
+        
+          E
+        
+        =
+        −
+        
+          
+            
+              ∂
+              
+                B
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        
+        ∇
+        ×
+        
+          H
+        
+        =
+        
+          J
+        
+        +
+        
+          
+            
+              ∂
+              
+                D
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+         
+      
+    
+    {\displaystyle \nabla \times \mathbf {E} =-{\frac {\partial \mathbf {B} }{\partial t}}\qquad \nabla \times \mathbf {H} =\mathbf {J} +{\frac {\partial \mathbf {D} }{\partial t}}\ }
+  dove 
+  
+    
+      
+        
+          D
+        
+      
+    
+    {\displaystyle \mathbf {D} }
+   ed 
+  
+    
+      
+        
+          H
+        
+      
+    
+    {\displaystyle \mathbf {H} }
+   sono rispettivamente il campo elettrico ed il campo magnetico in un materiale, 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   è la densità di carica elettrica e 
+  
+    
+      
+        
+          J
+        
+      
+    
+    {\displaystyle \mathbf {J} }
+   la densità di corrente elettrica.
+Le equazioni di Maxwell, insieme alla forza di Lorentz, descrivono completamente l'interazione elettromagnetica classica, ovvero come una carica in movimento interagisce con un'altra carica in movimento.
+
+
+== Il campo elettromagnetico ==
+L'elettrodinamica classica studia il campo elettromagnetico tenendo conto dei principi della teoria della relatività, che nella teoria classica dell'elettromagnetismo vengono trascurati. Il campo, nel caso più generale, è generato da una distribuzione di carica elettrica e corrente elettrica variabili nel tempo.
+Gli effetti generati dal comportamento dinamico di cariche e correnti furono studiati da Pierre Simon Laplace, Michael Faraday, Heinrich Lenz e molti altri già dagli inizi dell'ottocento, tuttavia uno studio coerente e logicamente completo dei fenomeni elettromagnetici può essere effettuato solamente a partire dalla teoria della relatività. L'elettrodinamica classica utilizza il formalismo dei tensori e dei quadrivettori per scrivere le equazioni di Maxwell in forma covariante per le trasformazioni di Lorentz, introducendo un quadripotenziale che estende i potenziali scalare e vettore del caso stazionario: in questo modo cariche e correnti elettriche vengono descritte dal quadrivettore densità di corrente elettrica 
+  
+    
+      
+        
+          j
+          
+            μ
+          
+        
+      
+    
+    {\displaystyle j^{\mu }}
+   dove la parte temporale del quadrivettore è data dalla densità di carica, moltiplicata per la velocità della luce c, e la parte spaziale dalla densità di corrente elettrica.
+Il quadripotenziale 
+  
+    
+      
+        
+          A
+          
+            μ
+          
+        
+      
+    
+    {\displaystyle A^{\mu }}
+   che descrive il campo elettromagnetico è costituito da una parte spaziale data dal potenziale vettore 
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbf {A} }
+  , relativo al campo magnetico, e una parte temporale data dal potenziale scalare 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   del campo elettrico:
+
+  
+    
+      
+        
+          A
+          
+            ν
+          
+        
+        =
+        
+          (
+          
+            
+              
+                ϕ
+                c
+              
+            
+            ,
+            
+              A
+            
+          
+          )
+        
+        =
+        
+          (
+          
+            
+              
+                ϕ
+                c
+              
+            
+            ,
+            
+              A
+              
+                x
+              
+            
+            ,
+            
+              A
+              
+                y
+              
+            
+            ,
+            
+              A
+              
+                z
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle A^{\nu }=\left({\frac {\phi }{c}},\mathbf {A} \right)=\left({\frac {\phi }{c}},A_{x},A_{y},A_{z}\right)}
+  A partire dal quadripotenziale si possono definire i campi nel seguente modo:
+
+  
+    
+      
+        
+          E
+        
+        =
+        −
+        
+          ∇
+        
+        ϕ
+        −
+        
+          
+            
+              ∂
+              
+                A
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        
+        
+          B
+        
+        =
+        
+          ∇
+        
+        ×
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbf {E} =-\mathbf {\nabla } \phi -{\frac {\partial \mathbf {A} }{\partial t}}\qquad \mathbf {B} =\mathbf {\nabla } \times \mathbf {A} }
+  Inserendo tali espressioni nelle equazioni di Maxwell, la legge di Faraday e la legge di Gauss magnetica si riducono ad identità, mentre le restanti due equazioni assumono la forma:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        ϕ
+        +
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        
+          (
+          
+            
+              ∇
+            
+            ⋅
+            
+              A
+            
+          
+          )
+        
+        =
+        −
+        
+          
+            ρ
+            
+              ε
+              
+                0
+              
+            
+          
+        
+        
+        
+          (
+          
+            
+              ∇
+              
+                2
+              
+            
+            
+              A
+            
+            −
+            
+              
+                1
+                
+                  c
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    ∂
+                    
+                      2
+                    
+                  
+                  
+                    A
+                  
+                
+                
+                  ∂
+                  
+                    t
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        −
+        
+          ∇
+        
+        
+          (
+          
+            
+              ∇
+            
+            ⋅
+            
+              A
+            
+            +
+            
+              
+                1
+                
+                  c
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+                
+                  ∂
+                  ϕ
+                
+                
+                  ∂
+                  t
+                
+              
+            
+          
+          )
+        
+        =
+        −
+        
+          μ
+          
+            0
+          
+        
+        
+          J
+        
+      
+    
+    {\displaystyle \nabla ^{2}\phi +{\frac {\partial }{\partial t}}\left(\mathbf {\nabla } \cdot \mathbf {A} \right)=-{\frac {\rho }{\varepsilon _{0}}}\qquad \left(\nabla ^{2}\mathbf {A} -{\frac {1}{c^{2}}}{\frac {\partial ^{2}\mathbf {A} }{\partial t^{2}}}\right)-\mathbf {\nabla } \left(\mathbf {\nabla } \cdot \mathbf {A} +{\frac {1}{c^{2}}}{\frac {\partial \phi }{\partial t}}\right)=-\mu _{0}\mathbf {J} }
+  Tali espressioni sono equivalenti alle equazioni di Maxwell.
+
+
+=== Onde elettromagnetiche ===
+La radiazione elettromagnetica è un fenomeno ondulatorio che descrive la propagazione nello spazio del campo elettromagnetico. Si tratta della propagazione contemporanea del campo elettrico e del campo magnetico, oscillanti in piani tra loro ortogonali. La radiazione elettromagnetica si propaga alla velocità della luce in direzione ortogonale ai due campi, ed è descritta dall'equazione delle onde:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        f
+        =
+        
+          
+            1
+            
+              
+                
+                  c
+                  
+                    0
+                  
+                
+              
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              f
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \nabla ^{2}f={\frac {1}{{c_{0}}^{2}}}{\frac {\partial ^{2}f}{\partial t^{2}}}}
+  che per i due campi risulta essere:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        
+          E
+        
+        =
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              
+                E
+              
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        
+        
+          ∇
+          
+            2
+          
+        
+        
+          B
+        
+        =
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              
+                B
+              
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \nabla ^{2}\mathbf {E} ={\frac {\partial ^{2}\mathbf {E} }{\partial t^{2}}}\qquad \nabla ^{2}\mathbf {B} ={\frac {\partial ^{2}\mathbf {B} }{\partial t^{2}}}}
+  dove 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+   è la velocità della luce. Una riscrittura più compatta è data da:
+
+  
+    
+      
+        ◻
+        f
+        =
+        0
+      
+    
+    {\displaystyle \Box f=0}
+  dove 
+  
+    
+      
+        ◻
+      
+    
+    {\displaystyle \Box }
+   è l'operatore iperbolico di d'Alembert:
+
+  
+    
+      
+        ◻
+        =
+        
+          ∇
+          
+            2
+          
+        
+        −
+        
+          
+            1
+            
+              
+                
+                  c
+                  
+                    0
+                  
+                
+              
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              ∂
+              
+                2
+              
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              ∂
+              
+                2
+              
+            
+            
+              ∂
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              ∂
+              
+                2
+              
+            
+            
+              ∂
+              
+                y
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              ∂
+              
+                2
+              
+            
+            
+              ∂
+              
+                z
+                
+                  2
+                
+              
+            
+          
+        
+        −
+        
+          
+            1
+            
+              
+                
+                  c
+                  
+                    0
+                  
+                
+              
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              ∂
+              
+                2
+              
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+         
+      
+    
+    {\displaystyle \Box =\nabla ^{2}-{\frac {1}{{c_{0}}^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}={\frac {\partial ^{2}}{\partial x^{2}}}+{\frac {\partial ^{2}}{\partial y^{2}}}+{\frac {\partial ^{2}}{\partial z^{2}}}-{\frac {1}{{c_{0}}^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}\ }
+  Tale equazione, che descrive la propagazione nello spazio del campo elettromagnetico, può essere ricavata dalle equazioni di Maxwell.
+
+
+=== Teoria di gauge ===
+All'interno delle equazioni di Maxwell, ogni grado di libertà in una data configurazione del campo elettromagnetico ha un proprio effetto misurabile sul moto di eventuali cariche di prova poste nelle vicinanze. Tuttavia, esse sono caratterizzate dal fatto che l'espressione dei campi rimane invariata se i potenziali subiscono la seguente trasformazione:
+
+  
+    
+      
+        
+          
+            A
+          
+          ′
+        
+        =
+        
+          A
+        
+        +
+        
+          ∇
+        
+        λ
+        
+        
+          ϕ
+          ′
+        
+        =
+        ϕ
+        −
+        
+          
+            
+              ∂
+              λ
+            
+            
+              ∂
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {A} '=\mathbf {A} +\mathbf {\nabla } \lambda \qquad \phi '=\phi -{\frac {\partial \lambda }{\partial t}}}
+  La descrizione del campo per mezzo dei potenziali è pertanto caratterizzata dal fatto che le espressioni dei potenziali si possono modificare in modo da lasciare inalterata l'espressione dei campi che ne risulta. Una particolare scelta del potenziale scalare o del potenziale vettore è un potenziale di gauge, ed una funzione scalare utilizzata per cambiare il gauge è detta funzione di gauge.
+In elettrodinamica solitamente si ricorre all'utilizzo del gauge di Lorenz, una scelta dei potenziali tale da soddisfare una determinata condizione, detta condizione di Lorenz:
+
+  
+    
+      
+        
+          ∇
+        
+        ⋅
+        
+          
+            A
+          
+          ′
+        
+        =
+        −
+        
+          μ
+          
+            0
+          
+        
+        
+          ε
+          
+            0
+          
+        
+        
+          
+            
+              ∂
+              
+                ϕ
+                ′
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {\nabla } \cdot \mathbf {A} '=-\mu _{0}\varepsilon _{0}{\frac {\partial \phi '}{\partial t}}}
+  Tale condizione ha la proprietà di essere Lorentz invariante e di rispettare i gradi di libertà forniti dalle trasformazioni di gauge: se i potenziali soddisfano la condizione di Lorenz si dice che essi appartengono al gauge di Lorenz La condizione di Lorenz è una proprietà imposta al potenziale elettromagnetico utilizzata nel calcolo di campi elettromagnetici variabili nel tempo attraverso i potenziali ritardati.La condizione di Lorenz impone che 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   debba soddisfare l'equazione:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        λ
+        −
+        
+          μ
+          
+            0
+          
+        
+        
+          ε
+          
+            0
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              λ
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        −
+        
+          ∇
+        
+        ⋅
+        
+          A
+        
+        −
+        
+          μ
+          
+            0
+          
+        
+        
+          ε
+          
+            0
+          
+        
+        
+          
+            
+              ∂
+              ϕ
+            
+            
+              ∂
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \nabla ^{2}\lambda -\mu _{0}\varepsilon _{0}{\frac {\partial ^{2}\lambda }{\partial t^{2}}}=-\mathbf {\nabla } \cdot \mathbf {A} -\mu _{0}\varepsilon _{0}{\frac {\partial \phi }{\partial t}}}
+  .Le equazioni Maxwell nel gauge di Lorenz sono scritte come:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        
+          
+            A
+          
+          ′
+        
+        −
+        
+          μ
+          
+            0
+          
+        
+        
+          ε
+          
+            0
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              
+                
+                  A
+                
+                ′
+              
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          ◻
+          
+            2
+          
+        
+        
+          
+            A
+          
+          ′
+        
+        =
+        −
+        
+          μ
+          
+            0
+          
+        
+        
+          J
+        
+      
+    
+    {\displaystyle \nabla ^{2}\mathbf {A} '-\mu _{0}\varepsilon _{0}{\frac {\partial ^{2}\mathbf {A} '}{\partial t^{2}}}=\Box ^{2}\mathbf {A} '=-\mu _{0}\mathbf {J} }
+  
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        
+          ϕ
+          ′
+        
+        −
+        
+          μ
+          
+            0
+          
+        
+        
+          ε
+          
+            0
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              
+                φ
+                ′
+              
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          ◻
+          
+            2
+          
+        
+        
+          ϕ
+          ′
+        
+        =
+        −
+        
+          
+            ρ
+            
+              ε
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle \nabla ^{2}\phi '-\mu _{0}\varepsilon _{0}{\frac {\partial ^{2}\varphi '}{\partial t^{2}}}=\Box ^{2}\phi '=-{\frac {\rho }{\varepsilon _{0}}}}
+  dove 
+  
+    
+      
+        
+          ◻
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \Box ^{2}}
+   è l'operatore di d'Alembert.
+
+
+=== Il tensore elettromagnetico ===
+La descrizione covariante del campo elettromagnetico nel vuoto viene svolta nell'ambito del gauge di Lorenz poiché la condizione di Lorenz ha la proprietà di essere Lorentz invariante e di rispettare i gradi di libertà forniti dalle trasformazioni di gauge. A partire dal quadripotenziale è possibile scrivere un tensore doppio di campo elettromagnetico 
+  
+    
+      
+        
+          F
+          
+            μ
+            ν
+          
+        
+      
+    
+    {\displaystyle F^{\mu \nu }}
+  :
+
+  
+    
+      
+        
+          F
+          
+            μ
+            ν
+          
+        
+        =
+        
+          ∂
+          
+            μ
+          
+        
+        
+          A
+          
+            ν
+          
+        
+        −
+        
+          ∂
+          
+            ν
+          
+        
+        
+          A
+          
+            μ
+          
+        
+      
+    
+    {\displaystyle F^{\mu \nu }=\partial ^{\mu }A^{\nu }-\partial ^{\nu }A^{\mu }}
+  Il tensore elettromagnetico è un tensore antisimmetrico del second'ordine, covariante e la sua traccia è nulla:
+
+  
+    
+      
+        
+          F
+          
+            μ
+            ν
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  0
+                
+                
+                  −
+                  
+                    E
+                    
+                      x
+                    
+                  
+                  
+                    /
+                  
+                  c
+                
+                
+                  −
+                  
+                    E
+                    
+                      y
+                    
+                  
+                  
+                    /
+                  
+                  c
+                
+                
+                  −
+                  
+                    E
+                    
+                      z
+                    
+                  
+                  
+                    /
+                  
+                  c
+                
+              
+              
+                
+                  
+                    E
+                    
+                      x
+                    
+                  
+                  
+                    /
+                  
+                  c
+                
+                
+                  0
+                
+                
+                  −
+                  
+                    B
+                    
+                      z
+                    
+                  
+                
+                
+                  
+                    B
+                    
+                      y
+                    
+                  
+                
+              
+              
+                
+                  
+                    E
+                    
+                      y
+                    
+                  
+                  
+                    /
+                  
+                  c
+                
+                
+                  
+                    B
+                    
+                      z
+                    
+                  
+                
+                
+                  0
+                
+                
+                  −
+                  
+                    B
+                    
+                      x
+                    
+                  
+                
+              
+              
+                
+                  
+                    E
+                    
+                      z
+                    
+                  
+                  
+                    /
+                  
+                  c
+                
+                
+                  −
+                  
+                    B
+                    
+                      y
+                    
+                  
+                
+                
+                  
+                    B
+                    
+                      x
+                    
+                  
+                
+                
+                  0
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle F^{\mu \nu }={\begin{pmatrix}0&-E_{x}/c&-E_{y}/c&-E_{z}/c\\E_{x}/c&0&-B_{z}&B_{y}\\E_{y}/c&B_{z}&0&-B_{x}\\E_{z}/c&-B_{y}&B_{x}&0\end{pmatrix}}}
+  Attraverso questa notazione si possono sintetizzare a coppie le equazioni di Maxwell. Le due equazioni vettoriali non omogenee si riducono a:
+
+  
+    
+      
+        
+          ∂
+          
+            μ
+          
+        
+        
+          F
+          
+            μ
+            ν
+          
+        
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+        
+          j
+          
+            ν
+          
+        
+      
+    
+    {\displaystyle \partial _{\mu }F^{\mu \nu }=\mu _{0}\,j^{\nu }}
+  mentre le equazioni omogenee sono:
+
+  
+    
+      
+        
+          ∂
+          
+            μ
+          
+        
+        
+          G
+          
+            μ
+            ν
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \partial _{\mu }G^{\mu \nu }=0}
+  
+
+
+=== Sorgenti variabili nel tempo ===
+I potenziali ritardati descrivono i potenziali nel caso in cui distribuzione di carica e corrente presente, sorgente del campo, sia variabile nel tempo. Si tratta delle espressioni dei potenziali utilizzata quando non è possibile utilizzare l'approssimazione secondo cui la propagazione dell'interazione elettromagnetica sia istantanea. Ponendo di trovarsi nel vuoto, nel gauge di Lorenz i potenziali ritardati assumono la forma:
+
+  
+    
+      
+        ϕ
+        (
+        
+          x
+        
+        ,
+        t
+        )
+        =
+        
+          
+            1
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+        ∫
+        
+          
+            
+              ρ
+              (
+              
+                
+                  x
+                
+                
+                  0
+                
+              
+              ,
+              
+                t
+                
+                  r
+                
+              
+              )
+            
+            
+              
+                |
+              
+              
+                x
+              
+              −
+              
+                
+                  x
+                
+                
+                  0
+                
+              
+              
+                |
+              
+            
+          
+        
+        
+          d
+          
+            3
+          
+        
+        
+          x
+          
+            0
+          
+        
+        
+        
+          A
+        
+        (
+        
+          x
+        
+        ,
+        t
+        )
+        =
+        
+          
+            1
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+              
+                c
+                
+                  2
+                
+              
+            
+          
+        
+        ∫
+        
+          
+            
+              
+                J
+              
+              (
+              
+                
+                  x
+                
+                
+                  0
+                
+              
+              ,
+              
+                t
+                
+                  r
+                
+              
+              )
+            
+            
+              
+                |
+              
+              
+                x
+              
+              −
+              
+                
+                  x
+                
+                
+                  0
+                
+              
+              
+                |
+              
+            
+          
+        
+        
+          d
+          
+            3
+          
+        
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \phi (\mathbf {x} ,t)={\frac {1}{4\pi \varepsilon _{0}}}\int {\frac {\rho (\mathbf {x} _{0},t_{r})}{|\mathbf {x} -\mathbf {x} _{0}|}}d^{3}x_{0}\qquad \mathbf {A} (\mathbf {x} ,t)={\frac {1}{4\pi \varepsilon _{0}c^{2}}}\int {\frac {\mathbf {J} (\mathbf {x} _{0},t_{r})}{|\mathbf {x} -\mathbf {x} _{0}|}}d^{3}x_{0}}
+  dove 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   è la densità di carica, 
+  
+    
+      
+        
+          J
+        
+      
+    
+    {\displaystyle \mathbf {J} }
+   è la densità di corrente, 
+  
+    
+      
+        
+          |
+        
+        
+          x
+        
+        −
+        
+          
+            x
+          
+          
+            0
+          
+        
+        
+          |
+        
+      
+    
+    {\displaystyle |\mathbf {x} -\mathbf {x} _{0}|}
+   la distanza del punto di osservazione del campo dall'elemento di volume 
+  
+    
+      
+        d
+        V
+      
+    
+    {\displaystyle dV}
+   su cui si effettua l'integrazione e:
+
+  
+    
+      
+        
+          t
+          
+            r
+          
+        
+        =
+        t
+        −
+        
+          
+            
+              
+                |
+              
+              
+                x
+              
+              −
+              
+                
+                  x
+                
+                
+                  0
+                
+              
+              
+                |
+              
+            
+            c
+          
+        
+      
+    
+    {\displaystyle t_{r}=t-{\frac {|\mathbf {x} -\mathbf {x} _{0}|}{c}}}
+  è il tempo ritardato.
+I potenziali ritardati sono la soluzione dell'equazione delle onde per i potenziali 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   e 
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbf {A} }
+  , e questo consente di scrivere l'equazione delle onde per i campi nel vuoto. La relativa soluzione al tempo ritardato fornisce l'espressione preliminare per i campi, la cui scrittura esplicita è fornita dalle equazioni di Jefimenko.
+
+
+=== Elettrodinamica quantistica ===
+L'elettrodinamica quantistica è una teoria quantistica del campo elettromagnetico che descrive i fenomeni che coinvolgono particelle elettricamente cariche interagenti per mezzo della forza elettromagnetica, ed è stata definita il gioiello della fisica per le sue predizioni estremamente accurate di quantità come il momento magnetico anomalo del muone, e lo spostamento di Lamb-Retherford dei livelli energetici dell'idrogeno.
+Matematicamente l'elettrodinamica quantistica ha la struttura di una teoria di gauge abeliana con un gruppo di gauge U(1): fisicamente questo significa che le particelle cariche interagiscono fra loro attraverso lo scambio di particelle a massa nulla dette fotoni. Considerando i potenziali come operatori di campo si ottiene la quantizzazione del campo elettromagnetico, e sostituendo 
+  
+    
+      
+        
+          
+            1
+            
+              c
+              
+                2
+              
+            
+          
+        
+        =
+        
+          ε
+          
+            0
+          
+        
+        
+          μ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{c^{2}}}=\varepsilon _{0}\mu _{0}}
+   nelle equazioni del gauge di Lorenz si ottiene:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        
+          A
+        
+        −
+        
+          
+            1
+            
+              c
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              
+                A
+              
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        −
+        
+          μ
+          
+            0
+          
+        
+        
+          J
+        
+        
+        
+          ∇
+          
+            2
+          
+        
+        ϕ
+        −
+        
+          
+            1
+            
+              c
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              ϕ
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        −
+        
+          
+            ρ
+            
+              ε
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle \nabla ^{2}\mathbf {A} -{\frac {1}{c^{2}}}{\frac {\partial ^{2}\mathbf {A} }{\partial t^{2}}}=-\mu _{0}\mathbf {J} \qquad \nabla ^{2}\phi -{\frac {1}{c^{2}}}{\frac {\partial ^{2}\phi }{\partial t^{2}}}=-{\frac {\rho }{\varepsilon _{0}}}}
+  Se si vuole descrivere l'interazione tra campi elettromagnetici con l'equazione di Dirac, le densità di carica e di corrente sono:
+
+  
+    
+      
+        
+          J
+        
+        =
+        −
+        e
+        c
+        
+          ψ
+          
+            †
+          
+        
+        
+          α
+        
+        ψ
+        
+        
+        ρ
+        =
+        −
+        e
+        
+          ψ
+          
+            †
+          
+        
+        ψ
+      
+    
+    {\displaystyle \mathbf {J} =-ec\psi ^{\dagger }{\boldsymbol {\alpha }}\psi \,\quad \rho =-e\psi ^{\dagger }\psi }
+  dove 
+  
+    
+      
+        
+          α
+        
+      
+    
+    {\displaystyle {\boldsymbol {\alpha }}}
+   sono le prime tre matrici di Dirac. Si possono così scrivere le equazioni di Maxwell come:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        
+          A
+        
+        −
+        
+          
+            1
+            
+              c
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              
+                A
+              
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          μ
+          
+            0
+          
+        
+        e
+        c
+        
+          ψ
+          
+            †
+          
+        
+        
+          α
+        
+        ψ
+        
+        
+          ∇
+          
+            2
+          
+        
+        ϕ
+        −
+        
+          
+            1
+            
+              c
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              ψ
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            1
+            
+              ε
+              
+                0
+              
+            
+          
+        
+        e
+        
+          ψ
+          
+            †
+          
+        
+        ψ
+      
+    
+    {\displaystyle \nabla ^{2}\mathbf {A} -{\frac {1}{c^{2}}}{\frac {\partial ^{2}\mathbf {A} }{\partial t^{2}}}=\mu _{0}ec\psi ^{\dagger }{\boldsymbol {\alpha }}\psi \qquad \nabla ^{2}\phi -{\frac {1}{c^{2}}}{\frac {\partial ^{2}\psi }{\partial t^{2}}}={\frac {1}{\varepsilon _{0}}}e\psi ^{\dagger }\psi }
+  Tale formulazione è alla base dell'elettrodinamica quantistica.
+
+
+== Spettro elettromagnetico ==
+L'insieme delle frequenze elettromagnetiche è detto spettro elettromagnetico che comprende al suo interno la luce visibile.
+
+
+== Unità elettriche nel sistema internazionale ==
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Corrado Mencuccini, Vittorio Silvestrini, Fisica II, Napoli, Liguori Editore, 2010, ISBN 978-88-207-1633-2.
+ Lev Davidovič Landau, Evgenij Lifšic, Fisica teorica 2 - Teoria dei campi, Roma, Editori Riuniti Edizioni Mir, 1976, ISBN 88-359-5358-8.
+(EN) John D Jackson, Classical Electrodynamics, 3rd Edition, Wiley, 1999, ISBN 0-471-30932-X.
+(EN)  Evgenij Lifšic, Lev Davidovič Landau, Lev Petrovich Pitaevskii (1993): Electrodynamics of Continuous Media. Course of Theoretical Physics volume 8, 2nd ed., Elsevier, ISBN 0-7506-2634-8
+(EN)  Joseph Edminister (1994): Schaum's Outline of Electromagnetics, 2nd ed., McGraw-Hill, ISBN 0-07-021234-1, pp. 256
+(EN)  David J. Griffiths (1998): Introduction to Electrodynamics, 3rd ed., Prentice Hall, ISBN 0-13-805326-X, pp. 576
+(EN)  D. A. Bromley (1998): Classical Electrodynamics, Springer, ISBN 0-387-94799-X, pp. 555
+
+
+== Voci correlate ==
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «elettromagnetismo»
+ Wikimedia Commons contiene immagini o altri file su elettromagnetismo
+
+
+== Collegamenti esterni ==
+
+ Direttiva 89/336/CEE sui disturbi di radiofrequenza (PDF), su italtec.it.
+(EN)  James Clerk Maxwell, A treatise on electricity and magnetism (t.1) (Clarendon Press, Oxford, 1881)
+(EN)  James Clerk Maxwell, A treatise on electricity and magnetism (t.2) (Clarendon Press, Oxford, 1881)
+(EN)  O. Heaviside, Electromagnetic Theory (t. 1) (The Electrician printing company, London, 1894-1912)
+(EN)  O. Heaviside, Electromagnetic Theory (t. 2) (The Electrician printing company, London, 1894-1912)
+(EN)  O. Heaviside, Electromagnetic Theory (t. 3) (The Electrician printing company, London, 1894-1912)
+(EN)  Harry Bateman The mathematical analysis of electrical and optical wave-motion on the basis of Maxwell's equations (Cambridge University Press, 1915)
+(EN)  Leigh Page An introduction to electrodynamics from the staindpoint of the electron theory (Ginn & co., Boston, 1922)
+(EN)  Max Mason e Warren Weaver The Electromagnetic Field (University of Chicago Press, 1929)
+(EN)  J. A. Stratton Electromagnetic Theory (McGrawHill, New York, 1941)
+(EN, IT)  Radionistics.com Fisica delle onde radio ed ingegneria radioelettronica.
+(EN, IT)  La Legge di Lenz all'opera.

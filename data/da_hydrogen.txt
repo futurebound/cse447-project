@@ -1,0 +1,6 @@
+Metallisk hydrogen er en degenereret fase, hvor hydrogen er elektrisk ledende og har andre metalliske egenskaber som høj refleksionsevne. Fasen antages at eksistere ved tryk over 400–500 gigapascal (GPa) i store gasplaneter som Jupiter og Saturn.
+Tilstanden blev først teoretisk forudsagt af Eugene Wigner og Hillard Bell Huntington i 1935, som beregnede at hydrogen ville blive metallisk ved et tryk på omkring 25 GPa. Senere beregninger er kommet frem til at faseovergangen ikke indtræffer før ved 400–500 GPa, som er højere end trykket i Jordens kerne (360 GPa).
+Siden 1996 er der blevet gjort flere forsøg på at påvise metallisk hydrogen eksperimentelt. I 2011 meldte forskere ved Max Planck-instituttet for kemi, at de havde observert noget som virkede som en faseovergang til metallisk hydrogen ved et tryk på 260–300 GPa, men der kom flere indvendinger mod eksperimentet og en gruppe ved Carnegie Institution for Science fandt ingen faseovergang selv ved et tryk på 360 GPa. I oktober 2016 hævdede to forskere ved Harvard University, at de havde fundet ud af at påvise fasen ved et tryk på 495 GPa og resultatene blev publiceret i Science i januar 2017. Mulige alternative forklaringer på resultaterne er blevet fremsat og pr. januar 2017 ventes der fortsat for at se, om andre kan bekræfte resultaterne.
+
+
+== Referencer ==

@@ -1,0 +1,134 @@
+En física moderna, el peso  es una medida de la fuerza gravitatoria que actúa sobre un objeto.[1]​ El peso equivale a la fuerza que ejerce un cuerpo sobre un punto de apoyo, originada por la acción del campo gravitatorio local sobre la masa del cuerpo. Por ser una fuerza, el peso se representa como un vector, definido por su módulo, dirección y sentido, aplicado en el centro de gravedad del cuerpo y dirigido aproximadamente hacia el centro de la Tierra. Por extensión de esta definición, también podemos referirnos al peso de un cuerpo en cualquier otro astro (Luna, Marte, entre otros) en cuyas proximidades se encuentre.
+La magnitud del peso de un objeto, desde la definición operacional de peso, depende tan solo de la intensidad del campo gravitatorio local y de la masa del cuerpo, en un sentido estricto. Sin embargo, desde un punto de vista legal y práctico, se establece que el peso, cuando el sistema de referencia es la Tierra, comprende no solo la fuerza gravitatoria local, sino también la fuerza centrífuga local debido a la rotación de la Tierra; por el contrario, el empuje atmosférico no se incluye, ni ninguna otra fuerza externa.[2]​
+
+
+== Diferencia de peso y masa ==
+
+Peso y masa son dos conceptos y magnitudes físicas muy diferentes, aunque aún en estos momentos, en el habla cotidiana, el término “peso” se utiliza a menudo erróneamente como sinónimo de masa, la cual es una magnitud gravitacional. La propia Academia reconoce esta confusión en la definición de «pesar»: “Determinar el peso, o más propiamente, la masa de algo por medio de la balanza o de otro instrumento equivalente”.[3]​
+La masa de un cuerpo es una propiedad intrínseca del mismo, la cantidad de materia, independiente de la intensidad del campo gravitatorio y de cualquier otro efecto. Representa la inercia o resistencia del cuerpo a los cambios de estado de movimiento (aceleración, masa inercial), además de hacerla sensible a los efectos de los campos gravitatorios (masa gravitacional).
+El peso de un cuerpo, en cambio, no es una propiedad intrínseca del mismo, ya que depende de la intensidad del campo gravitatorio en el lugar del espacio ocupado por el cuerpo. La distinción científica entre “masa” y “peso” no es importante para muchos efectos prácticos porque la fuerza gravitatoria no experimenta grandes cambios en las proximidades de la superficie terrestre. En un campo gravitatorio constante la fuerza que ejerce la gravedad sobre un cuerpo (su peso) es directamente proporcional a su masa. Pero en realidad el campo gravitatorio terrestre no es constante; puede llegar a variar hasta en un 0,5 % entre los distintos lugares de la Tierra, lo que significa que se altera la relación “masa-peso” con la variación de la fuerza de la gravedad.
+Por el contrario, el peso de un mismo cuerpo experimenta cambios muy significativos al cambiar el objeto masivo que crea el campo gravitatorio. Así, por ejemplo, una persona de 60 kg (6,118 UTM) de masa, pesa 588,60 N (60 kgf) en la superficie de la Tierra. La misma persona, en la superficie de la Luna pesaría tan solo unos 98,05 N (10 kgf); sin embargo, su masa seguirá siendo de 60 kg (6,118 UTM). Nota: En cursiva, Sistema Internacional; (entre paréntesis), Sistema Técnico de Unidades.
+Bajo la denominación de peso aparente se incluyen otros efectos, además de la fuerza gravitatoria y el efecto centrífugo, como la flotación, el carácter no inercial del sistema de referencia (v.g., un ascensor acelerado), etc. El peso que mide el dinamómetro, es en realidad el peso aparente; el peso real sería el que mediría en el vacío en un referencial inercial.
+
+
+== Unidades de peso ==
+Como el peso es una fuerza, se mide en unidades de fuerza. Sin embargo, las unidades de peso y masa tienen una larga historia compartida, en parte porque su diferencia no fue bien entendida cuando dichas unidades comenzaron a utilizarse.
+
+Sistema Internacional de UnidadesEste sistema es el prioritario o único legal en la mayor parte de las naciones (excluidas Birmania y los Estados Unidos), por lo que en las publicaciones científicas, en los proyectos técnicos, en las especificaciones de máquinas, etc., las magnitudes físicas se expresan en unidades del Sistema Internacional de Unidades (SI). Así, el peso se expresa en unidades de fuerza del SI, esto es, en newtons (N):
+
+1 N = 1 kg · 1 m/s²Sistema Técnico de UnidadesEn el Sistema Técnico de Unidades, el peso se mide en kilogramo-fuerza (kgf) o kilopondio (kp), definido como la fuerza ejercida sobre un kilogramo de masa por la aceleración en caída libre (g = 9,80665 m/s²)[4]​
+
+1 kgf = 9,80665 N = 9,80665 kg·m/s²Otros sistemasTambién se suele indicar el peso en unidades de fuerza de otros sistemas, como la dina, la libra-fuerza, la onza-fuerza, etcétera.
+La dina es la unidad CGS de fuerza y no forma parte del SI. Algunas unidades inglesas, como la libra, pueden ser de fuerza o de masa. Las unidades relacionadas, como el slug, forman parte de sub-sistemas de unidades.
+
+
+== Cálculo del peso ==
+
+El cálculo del peso de un cuerpo a partir de su masa se puede expresar mediante la segunda ley de la dinámica:
+donde el valor de 
+  
+    
+      
+        g
+      
+    
+    {\textstyle g}
+   es la aceleración de la gravedad en el lugar en el que se encuentra el cuerpo. En primera aproximación, si consideramos a la Tierra como una esfera homogénea, se puede expresar con la siguiente fórmula:
+
+  
+    
+      
+        g
+        =
+        
+          
+            F
+            m
+          
+        
+        =
+        
+          
+            
+              G
+              
+                M
+                
+                  T
+                
+              
+            
+            
+              
+                
+                  R
+                  
+                    T
+                  
+                
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle g={\frac {F}{m}}={\frac {GM_{T}}{{R_{T}}^{2}}}}
+  
+
+de acuerdo a la ley de gravitación universal.
+En realidad, el valor de la aceleración de la gravedad en la Tierra, a nivel del mar, varía entre 9,789 m/s² en el ecuador y 9,832 m/s² en los polos. Se fijó convencionalmente en 9,80665 m/s2 en la tercera Conferencia General de Pesas y Medidas convocada en 1901 por la Oficina Internacional de Pesas y Medidas (Bureau International des Poids et Mesures).[5]​ Como consecuencia, el peso varía en la misma proporción.
+
+
+== Comparación del peso en el sistema solar ==
+
+La siguiente lista describe el peso de un cuerpo de «masa unidad» en la superficie de algunos cuerpos del Sistema Solar, comparándolo con su peso en la Tierra:
+
+
+== El peso de un ser humano ==
+
+Por término medio, un recién nacido tiene una masa de 3 a 4 kilogramos (coloquialmente se dice que pesa de 3 a 4 kilos), y a los doce meses tiene una masa de 9 a 12 kilogramos.
+Ya en la edad adulta, los hombres generalmente pesan más que una mujer, debido a la diferencia de estaturas que suele ser mayor en el hombre. Un hombre adulto promedio pesa entre 70 y 90 kg. (de una estatura de 1,75 m.); Mientras que la mujer adulta promedio pesa entre 50 y 70 kg. (de una estatura de 1,60 m.).
+El índice de masa corporal establece la relación entre la masa y la talla de la persona. La ecuación para calcular el IMC es: masa corporal (“peso”, expresada en kilogramos) dividida entre el cuadrado de la estatura (expresada en metros).
+
+IMC de 18,5-24,9 se considera un peso saludable.
+IMC de 25,0-29,9 se considera sobrepeso.
+IMC de 30,0-39,9 se considera obesidad.
+IMC de 40,0 o más se considera obesidad severa u obesidad mórbida).Se han dado casos extremos en los que la diferencia entre el peso de una persona y el peso promedio llegaba a exceder cientos de kilogramos. Hasta la fecha, Jon Brower Minnoch es la persona que más ha pesado de la que se tienen datos.
+
+
+== Sensación de peso ==
+La sensación de peso se debe a la fuerza ejercida por los fluidos del sistema vestibular, un juego de tres dimensiones de las cavidades del oído interno. En realidad, la sensación de “Fuerza G”, independientemente de ser estacionaria la presencia de la gravedad, o, si el cuerpo está en movimiento, el resultado de otras fuerzas que actúan sobre el mismo, como en el caso de la aceleración o desaceleración de un ascensor, o la fuerza que sentimos al montar en una montaña rusa.
+
+
+== El peso y su enseñanza ==
+Los conceptos newtonianos de la gravedad fueron cuestionados por la Teoría de la relatividad en el siglo XX. El principio de equivalencia de Einstein sitúa a todos los observadores en el mismo plano. Esto condujo a una ambigüedad en cuanto a qué es exactamente lo que se entiende por “fuerza de la gravedad” y, en consecuencia, el “peso”. Las ambigüedades introducidas por la relatividad condujeron, a partir de la década de 1960, a un amplio debate en la comunidad educativa sobre cómo definir el peso a sus alumnos. La elección fue una definición newtoniana de peso como la fuerza de un objeto en reposo en el suelo debido a la gravedad, o una definición operacional definida por el acto de pesaje.[cita requerida] En la definición operacional, el peso se convierte en cero, en condiciones de ingravidez como en la órbita de la Tierra o la caída libre en el vacío. En tales situaciones, la visión newtoniana es que sigue existiendo una fuerza debido a la gravedad que no se mide (causando así un peso aparente de cero), mientras que la vista einsteiniana es que nunca existe una fuerza medible debido a la gravedad (incluso en el suelo), sino que, en caída libre, ninguna fuerza puede medirse debido a que el suelo no ejerce la fuerza mecánica que ordinariamente se observó como “peso”.
+
+
+== Véase también ==
+Intensidad del campo gravitatorio
+Newton (unidad)
+Gal (unidad)
+Masa molar
+Peso atómico
+Gravedad
+Masa
+Volumen
+Densidad
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Martínez Fernández, Santiago (1989-2006). Lecciones de física (4 volúmenes). Monytex. ISBN 84-404-4290-4, ISBN 84-398-9218-7, ISBN 84-398-9219-5, ISBN 84-604-4445-7. 
+Resnick,Robert & Krane, Kenneth S. (2001). Physics (en inglés). New York: John Wiley & Sons. ISBN 0-471-32057-9. 
+Tipler, Paul A. (2000). Física para la ciencia y la tecnología (2 volúmenes). Barcelona: Ed. Reverté. ISBN 84-291-4382-3. 
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Peso.
+ Wikcionario  tiene definiciones y otra información sobre Peso.
+ Wikiquote alberga frases célebres de o sobre Peso.El Diccionario de la Real Academia Española tiene una definición para peso.

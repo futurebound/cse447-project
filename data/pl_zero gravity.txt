@@ -1,0 +1,933 @@
+Grawitacja (ciążenie powszechne) –  zjawisko naturalne polegające na tym, że wszystkie obiekty posiadające masę lub energię wzajemnie przyciągają się.
+We współczesnej fizyce grawitację opisuje ogólna teoria względności, w której grawitacja nie jest oddziaływaniem a konsekwencją zakrzywienia czasoprzestrzeni przez materię. Poza ogólną teorią względności grawitacja jest jednym z czterech oddziaływań podstawowych, jest opisana prawem powszechnego ciążenia sformułowanym przez Isaaca Newtona.
+
+
+== Grawitacja w mechanice klasycznej ==
+
+
+=== Poglądy starożytnych ===
+Już w czasach prehistorycznych ludzie zaobserwowali, że przedmioty puszczone spadają. Codzienne potoczne obserwacje wskazują, że obiekty cięższe znajdą się na ziemi wcześniej niż lżejsze. Jeżeli zrzucimy z pewnej wysokości kulkę kamienną lub metalową oraz piórko, to piórko spadnie później. Co więcej istnieją obiekty takie jak np. mgła, dym czy balony, które pozornie bez udziału siły zewnętrznej unoszą się do góry. Podobne codzienne obserwacje, pomijające opór i siłę wyporu powietrza, przekonały greckiego filozofa Arystotelesa, że proces spadania jest zależny od „natury” przedmiotu. Pogląd ten zawarł w swoich dziełach dotyczących fizyki wydanych w latach 355–322 p.n.e. Starożytni w żaden sposób nie kojarzyli opadania ciał na Ziemi z ruchami planet w niebiosach. Zachowanie ciał niebieskich opisywał model geocentryczny, który nie pozwalał na dostrzeżenie jakichkolwiek analogii pomiędzy ruchem spadającego ciała a ich torami. Istniało powszechne przekonanie, że ziemia i niebo rządzą się całkowicie odmiennymi prawami.
+
+
+=== Renesans ===
+W roku 1515 Kopernik zaproponował, opublikowany dopiero w roku 1543, heliocentryczny model Układu Słonecznego. Słońce znajdowało się w środku, a planety poruszały się po kołowych orbitach. W roku 1584 Giordano Bruno zaproponował zasadę, według której zarówno Ziemią, jak i niebem rządzą te same powszechne prawa.
+W roku 1604 Galileusz podważył wywodzące się ze starożytności idee dotyczące spadania ciał. Jego zdaniem pozorne różnice między ciążeniem działającym na różne obiekty są skutkiem zjawisk takich jak opór, albo wypieranie. W podręcznikach podaje się, że Galileusz wykonał szereg eksperymentów z kulami o różnych masach zrzucanymi z wieży lub staczającymi się po równi pochyłej. Wielu współczesnych historyków nauki sądzi, że ten wielki uczony dowiódł niezależności przyspieszenia ziemskiego od natury ciała w sposób czysto spekulatywny. Galileusz działał zgodnie z powszechnie uznawaną w jego czasach scholastyczną metodą analizy zjawisk.
+Badacz ten wyobraził sobie dwie spadające cegły. Gdyby ich przyspieszenie zależało od masy, wówczas każda z cegieł oddzielnie spadałaby inaczej, niż gdyby połączyć je luźnym sznurkiem. Galileusz doszedł do wniosku, że założenie zależności przyspieszenia od masy ciała prowadzi do logicznej sprzeczności. Połączenie ciał sznurkiem nie zmienia ich fizycznych własności.
+W latach 1609–1618 niemiecki astronom Jan Kepler sformułował prawa dotyczące ruchu orbitalnego. Zgodnie z nimi planety kreślą w przestrzeni wielkie elipsy. Sformułował też prawo wiążące średni promień orbity z okresem obiegu:
+
+Kwadrat stosunków czasów potrzebnych dwóm planetom na przejście całej swojej orbity jest równy sześcianowi stosunków ich średnich odległości od Słońca.
+
+
+=== Prawo powszechnego ciążenia ===
+5 lipca 1687 Izaak Newton wydał dzieło, w którym przedstawił spójną teorię grawitacji opisującą zarówno spadanie obiektów na ziemi, jak i ruch ciał niebieskich. Angielski fizyk oparł się na zaproponowanych przez siebie zasadach dynamiki oraz prawach Keplera dotyczących odległości planety od Słońca.
+Prawo powszechnego ciążenia głosi, że:
+
+Między dowolną parą ciał posiadających masy pojawia się siła przyciągająca, która działa na linii łączącej ich środki mas, a jej wartość rośnie z iloczynem ich mas i maleje z kwadratem odległości.
+Matematycznie związek ten wyraża się wzorem:
+
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+        =
+        G
+        
+          
+            
+              
+                m
+                
+                  1
+                
+              
+              
+                m
+                
+                  2
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              e
+              →
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\vec {F}}=G{\frac {m_{1}m_{2}}{r^{2}}}{\vec {e}},}
+  gdzie:
+
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   – stała grawitacji,
+
+  
+    
+      
+        
+          m
+          
+            1
+          
+        
+      
+    
+    {\displaystyle m_{1}}
+   i 
+  
+    
+      
+        
+          m
+          
+            2
+          
+        
+      
+    
+    {\displaystyle m_{2}}
+   – masy ciał,
+
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   – odległość między środkami mas,
+
+  
+    
+      
+        
+          
+            
+              e
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {e}}}
+   – wersor o kierunku prostej łączącej środki obu ciał i zwrocie ku drugiemu ciału, jeśli 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}}
+   opisuje siłę działającą na pierwsze ciało.Wartość tej siły jest równa
+
+  
+    
+      
+        F
+        =
+        G
+        
+          
+            
+              
+                m
+                
+                  1
+                
+              
+              
+                m
+                
+                  2
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle F=G{\frac {m_{1}m_{2}}{r^{2}}}.}
+  
+
+
+== Grawitacja na powierzchni Ziemi ==
+
+W pobliżu powierzchni naszej planety (z dokładnością do kilometrów) i niezbyt dużym obszarze można przyjąć, że pole grawitacyjne jest jednorodne. Warunek ten spełniony jest, gdy wysokość nad powierzchnią i przemieszczenie w poziomie są dużo mniejsze od promienia Ziemi.
+Korzystając z zależności na siłę grawitacyjną, można obliczyć, że na przedmiot o masie 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   na powierzchni naszej planety działa siła grawitacji 
+  
+    
+      
+        
+          F
+          
+            g
+          
+        
+        
+          :
+        
+      
+    
+    {\displaystyle F_{g}{:}}
+  
+
+  
+    
+      
+        
+          F
+          
+            g
+          
+        
+        =
+        
+          
+            
+              G
+              
+                M
+                
+                  z
+                
+              
+              m
+            
+            
+              r
+              
+                z
+              
+              
+                2
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle F_{g}={\frac {GM_{z}m}{r_{z}^{2}}},}
+  gdzie 
+  
+    
+      
+        
+          M
+          
+            z
+          
+        
+      
+    
+    {\displaystyle M_{z}}
+   ≈ 5,9736·1024 kg – masa Ziemi, 
+  
+    
+      
+        
+          r
+          
+            z
+          
+        
+      
+    
+    {\displaystyle r_{z}}
+   ≈ 6373,14 km.
+Zatem natężenie pola grawitacyjnego jest równe:
+
+  
+    
+      
+        E
+        =
+        
+          
+            
+              F
+              
+                g
+              
+            
+            m
+          
+        
+        .
+      
+    
+    {\displaystyle E={\frac {F_{g}}{m}}.}
+  Podstawiając zależność na siłę można obliczyć 
+  
+    
+      
+        E
+        
+          :
+        
+      
+    
+    {\displaystyle E{:}}
+  
+
+  
+    
+      
+        E
+        =
+        
+          
+            
+              G
+              
+                M
+                
+                  z
+                
+              
+            
+            
+              r
+              
+                z
+              
+              
+                2
+              
+            
+          
+        
+        ≈
+        
+          
+            
+              6,673
+              2
+              ⋅
+              
+                10
+                
+                  −
+                  11
+                
+              
+              ⋅
+              
+                
+                  m
+                
+                
+                  3
+                
+              
+              ⋅
+              
+                
+                  k
+                  g
+                
+                
+                  −
+                  1
+                
+              
+              ⋅
+              
+                
+                  s
+                
+                
+                  −
+                  2
+                
+              
+              ⋅
+              5,973
+              6
+              ⋅
+              
+                10
+                
+                  24
+                
+              
+               
+              
+                k
+                g
+              
+            
+            
+              (
+              6373
+              
+                ,
+              
+              14
+               
+              
+                k
+                m
+              
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        ≈
+        9
+        
+          ,
+        
+        81
+         
+        
+          
+            m
+            
+              s
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle E={\frac {GM_{z}}{r_{z}^{2}}}\approx {\frac {6{,}6732\cdot 10^{-11}\cdot \mathrm {m} ^{3}\cdot \mathrm {kg} ^{-1}\cdot \mathrm {s} ^{-2}\cdot 5{,}9736\cdot 10^{24}\ \mathrm {kg} }{(6373{,}14\ \mathrm {km} )^{2}}}\approx 9{,}81\ \mathrm {\frac {m}{s^{2}}} .}
+  Wynik ten został wyznaczony przy założeniu, że Ziemia jest jednorodną kulą. Gdyby kula ta dodatkowo nie obracała się, wówczas natężenie to byłoby równe przyspieszeniu grawitacyjnemu, z jakim ciała spadają na Ziemię (przyspieszeniu ziemskiemu), zgodnie z II zasadą dynamiki
+
+  
+    
+      
+        a
+        =
+        
+          
+            
+              F
+              
+                g
+              
+            
+            m
+          
+        
+        =
+        g
+        .
+      
+    
+    {\displaystyle a={\frac {F_{g}}{m}}=g.}
+  Rzeczywista wartość przyspieszenia ziemskiego zależy od wielu czynników (m.in. od szerokości geograficznej, co związane jest z kształtem Ziemi i wpływem siły odśrodkowej, niejednorodnościami gęstości skorupy ziemskiej). Umowna wartość 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   (dodaje się indeks „n” w celu zaznaczenia, że jest to przyspieszenie „normalne”) to:
+
+  
+    
+      
+        
+          g
+          
+            n
+          
+        
+        =
+        9,806
+        65
+         
+        
+          
+            m
+            
+              s
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle g_{n}=9{,}80665\ \mathrm {\frac {m}{s^{2}}} .}
+  Swobodnie spadające ciało porusza się z przyspieszeniem ziemskim tylko przez chwilę. Potem opór powietrza staje się na tyle znaczący, że równoważy siłę grawitacji i ciało osiąga stałą prędkość zwaną prędkością graniczną. Wartość tej prędkości zależy od kształtu i gęstości ciała. Spadochron zwiększa siłę oporu powietrza i prędkość opadania stabilizuje się na dużo mniejszej wartości.
+Na Księżycu brak atmosfery powoduje, że wszystkie ciała spadają z takim samym przyspieszeniem. Podczas lotów programu Apollo astronauci przeprowadzili pokazy ze zrzucaniem różnych przedmiotów, które transmitowała telewizja. Brak atmosfery hamującej ruch pojazdu powoduje, że lądowanie na Srebrnym Globie wymaga dużych ilości paliwa rakietowego, bowiem z powodu braku powietrza, spadochrony w próżni są bezużyteczne.
+
+
+== Grawitacja w ogólnej teorii względności ==
+
+W ogólnej teorii względności opisanej przez Alberta Einsteina opis matematyczny grawitacji polega na określeniu związku pomiędzy tensorem metrycznym, opisującym lokalne stosunki długości i interwałów czasowych w czasoprzestrzeni, a energią zawartą w określonym obszarze czasoprzestrzeni. Punktem wyjścia dla teorii jest uogólnienie zasady względności Galileusza, o równoważności opisu zjawisk fizycznych w dowolnych układach inercjalnych, na dowolne, także nieinercjalne, układy odniesienia. Próba takiego zapisania praw mechaniki, aby ich postać matematyczna była identyczna w dowolnym układzie odniesienia, prowadzi do utożsamienia grawitacji i sił bezwładności, masy grawitacyjnej i bezwładnej i w końcu do równań pola grawitacyjnego łączących krzywiznę czasoprzestrzeni (wyrażaną za pomocą tensora metrycznego) z tensorem energii-pędu. W ogólnej teorii względności grawitacja jest więc przejawem zakrzywienia czasoprzestrzeni.
+Tensor metryczny 
+  
+    
+      
+        
+          g
+          
+            μ
+            ν
+          
+        
+      
+    
+    {\displaystyle g_{\mu \nu }}
+   określa w czasoprzestrzeni infinitezymalną odległość 
+  
+    
+      
+        d
+        s
+      
+    
+    {\displaystyle ds}
+   między dwoma bliskimi punktami o współrzędnych 
+  
+    
+      
+        
+          x
+          
+            μ
+          
+        
+      
+    
+    {\displaystyle x^{\mu }}
+   i 
+  
+    
+      
+        
+          x
+          
+            μ
+          
+        
+        +
+        d
+        
+          x
+          
+            μ
+          
+        
+      
+    
+    {\displaystyle x^{\mu }+dx^{\mu }}
+   następująco:
+
+  
+    
+      
+        d
+        
+          s
+          
+            2
+          
+        
+        =
+        
+          g
+          
+            μ
+            ν
+          
+        
+        d
+        
+          x
+          
+            μ
+          
+        
+        d
+        
+          x
+          
+            ν
+          
+        
+        .
+      
+    
+    {\displaystyle ds^{2}=g_{\mu \nu }dx^{\mu }dx^{\nu }.}
+  W sferycznie symetrycznej czasoprzestrzeni kwadrat elementu długości 
+  
+    
+      
+        d
+        s
+      
+    
+    {\displaystyle ds}
+   ma postać:
+
+  
+    
+      
+        d
+        
+          s
+          
+            2
+          
+        
+        =
+        
+          g
+          
+            00
+          
+        
+        
+        (
+        r
+        )
+        
+        (
+        d
+        
+          x
+          
+            0
+          
+        
+        
+          )
+          
+            2
+          
+        
+        −
+        
+          g
+          
+            11
+          
+        
+        
+        (
+        r
+        )
+        
+        d
+        
+          r
+          
+            2
+          
+        
+        −
+        
+          r
+          
+            2
+          
+        
+        d
+        
+          θ
+          
+            2
+          
+        
+        −
+        
+          r
+          
+            2
+          
+        
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        θ
+        
+        d
+        
+          ϕ
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle ds^{2}=g_{00}\!(r)\,(dx^{0})^{2}-g_{11}\!(r)\,dr^{2}-r^{2}d\theta ^{2}-r^{2}\sin ^{2}\theta \,d\phi ^{2}.}
+  Przy czym elementy tensora metrycznego 
+  
+    
+      
+        
+          g
+          
+            00
+          
+        
+      
+    
+    {\displaystyle g_{00}}
+   i 
+  
+    
+      
+        
+          g
+          
+            11
+          
+        
+      
+    
+    {\displaystyle g_{11}}
+   są funkcjami odległości 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   od centrum pola – otrzymuje się je z rozwiązań równań Einsteina; np. 
+  
+    
+      
+        
+          g
+          
+            00
+          
+        
+      
+    
+    {\displaystyle g_{00}}
+   wiąże się z potencjałem grawitacyjnym 
+  
+    
+      
+        φ
+        (
+        r
+        )
+      
+    
+    {\displaystyle \varphi (r)}
+   teorii grawitacji Newtona zależnością
+
+  
+    
+      
+        
+          g
+          
+            00
+          
+        
+        
+        (
+        r
+        )
+        =
+        1
+        +
+        
+          
+            
+              2
+              φ
+              (
+              r
+              )
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle g_{00}\!(r)=1+{\frac {2\varphi (r)}{c^{2}}},}
+  gdzie:
+
+  
+    
+      
+        φ
+        (
+        r
+        )
+        =
+        −
+        
+          
+            
+              G
+              M
+            
+            r
+          
+        
+        ,
+      
+    
+    {\displaystyle \varphi (r)=-{\frac {GM}{r}},}
+   przy czym 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   – masa źródła pola, 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   – stała grawitacji.W równaniu Einsteina geometria przestrzeni zależy od rozkładu energii-materii w przestrzeni, zaś gęstości energii-materii zmienia się zależnie od aktualnej geometrii przestrzeni. Oznacza to, że równania Einsteina nie pozwalają więc obliczyć zmian w czasie żadnej z tych wielkości niezależnie od drugiej. To sprawia, że uzyskiwanie rozwiązań tych równań nie jest trywialne. Zwykle jest to możliwe jedynie dla wyjątkowo symetrycznych konfiguracji, jak np. rozwiązania Schwarzschilda dla przestrzeni pozbawionej materii oraz dla pojedynczego ciała z symetrią kulistą (którą może być np. czarna dziura). Dla punktów w próżni, tj. poza czarną dziurą, otrzymuje się:
+
+  
+    
+      
+        
+          g
+          
+            00
+          
+        
+        
+        (
+        r
+        )
+        =
+        1
+        −
+        
+          
+            
+              r
+              
+                g
+              
+            
+            r
+          
+        
+        ,
+      
+    
+    {\displaystyle g_{00}\!(r)=1-{\frac {r_{g}}{r}},}
+  gdzie 
+  
+    
+      
+        
+          r
+          
+            g
+          
+        
+      
+    
+    {\displaystyle r_{g}}
+   jest promieniem grawitacyjnym definiującym rozmiar horyzontu zdarzeń czarnej dziury.
+
+W ujęciu ogólnej teorii względności postuluje się, że źródłem grawitacji jest tensor energii-pędu. Nawet cząstki pozbawione masy spoczynkowej (foton) doznają wpływu wynikającego z zakrzywienia przestrzeni, a więc oddziałują grawitacyjnie. Generalnie, źródłem grawitacji są wszelkie postacie energii dające wkład do wyżej wymienionego tensora energii pędu: masy, gęstość energii promieniowania i ciśnienia. W szczególności, wkład ciśnienia jest identyczny z wkładem masy, czyli wzrost ciśnienia powoduje wzrost sił przyciągających, a nie, jak podpowiada nam intuicja, spadek.
+
+
+== Grawitacja w mechanice kwantowej ==
+Współczesna fizyka nie jest w stanie połączyć (zunifikować) ogólnej teorii względności z mechaniką kwantową. Oznacza to, że żadna ze współczesnych teorii nie opisuje poprawnie ruchu cząstki poruszającej się z prędkością porównywalną z prędkością światła w próżni w silnym polu grawitacyjnym, np. w pobliżu lub we wnętrzu czarnej dziury. Ogólna teoria względności załamuje się również w momencie Wielkiego Wybuchu, jak i zaraz po nim. Brak jest prawidłowego opisu zjawisk zachodzących w bardzo małych objętościach porównywalnych z długością Plancka. Jakkolwiek zjawiska te z punktu widzenia przeciętnego człowieka wydają się być dosyć odległe od zjawisk, jakie obserwujemy na co dzień, to jednak poprzez ich związek z kosmologią, wyniki uzyskane na tych polach mają bezpośredni wpływ na obraz zjawisk jak najbardziej powszechnych.
+Nie oznacza to, że nie podejmuje się ciągle prób opisania grawitacji w zgodzie z zasadami mechaniki kwantowej. Postęp w tej dziedzinie jest znaczący i obejmuje sformułowanie wielu teorii: od takich, które analizują kwantowanie w przestrzeniach zakrzywionych, poprzez teorie pola posługujące się algebrą grassmanowską aż do teorii superstrun, niebędącej teorią pola. Wszystkie te teorie dają jakiś wgląd w możliwą naturę kwantowej grawitacji. Jednak brak jest spójnej teorii pozwalającej w dodatku na przewidywanie wyników doświadczeń, która unifikowałaby ogólną teorię względności i mechanikę kwantową.
+
+
+== Zobacz też ==
+antygrawitacja
+fale grawitacyjne
+grawiton
+oddziaływania podstawowe
+oddziaływanie elektromagnetyczne
+oddziaływanie silne
+oddziaływanie słabe
+potencjał
+strefa Roche’a
+teoria inteligentnego spadania
+
+
+== Przypisy ==
+
+
+== Bibliografia ==
+P. Astier i in. 2006, A&A, 447, 31, The Supernova Legacy Survey: measurement of ΩM, ΩΛ and we from the first year data set (ang.)
+S. Perlmutter i in. 1998, ApJ, 517, 565, Measurements of Omega and Lambda from 42 High-Redshift Supernovae (ang.)
+L.D. Landau, J.M. Lifszyc, Teoria pola, PWN, Warszawa 2009.

@@ -1,0 +1,99 @@
+La televisione satellitare o televisione via satellite, o anche TV satellitare o TV via satellite, è la televisione che giunge agli utenti in broadcast o multicast per mezzo di onde radio emesse da trasmettitori posti su satelliti per telecomunicazioni geostazionari.
+La televisione è diffusa agli utenti attraverso reti per telecomunicazioni che possono utilizzare metodi di trasmissione diversi in diversi tratti della rete. In base al metodo di trasmissione utilizzato nel tratto di rete che giunge all'utente la televisione si distingue infatti in televisione terrestre se il metodo di trasmissione utilizza onde radio emesse da trasmettitori posti sulla superficie terrestre, in televisione satellitare se il metodo di trasmissione utilizza onde radio emesse da trasmettitori posti su satelliti per telecomunicazioni geostazionari, in televisione via cavo se il metodo di trasmissione utilizza un cavo per telecomunicazioni.
+
+
+== Caratteristiche ==
+La TV satellitare, similmente alla TV terrestre e diversamente dalla TV via cavo, offre una copertura continua delle aree geografiche servite. Ciò significa che è ricevibile in un qualsiasi punto delle aree geografiche servite quindi anche in movimento all'interno di tali aree. Necessita forzatamente però, diversamente dalla televisione terrestre, di un'antenna di ingenti dimensioni, tali per cui non è possibile ricevere la televisione satellitare con televisori palmari.
+Mentre la televisione terrestre e la televisione via cavo servono quasi sempre aree geografiche non eccedenti le nazioni, la televisione satellitare normalmente serve invece aree geografiche continentali. Con la televisione satellitare è possibile quindi ricevere televisioni di altre nazioni.
+La televisione satellitare permette una ricezione perfetta anche in zone montuose, zone in cui la televisione terrestre ha difficoltà a fornire una ricezione ottimale. A differenza della televisione terrestre però, tra l'antenna e il trasmettitore, non ci deve essere alcun tipo di ostacolo.
+
+
+== Televisione analogica satellitare e televisione digitale satellitare ==
+Quando la televisione inizia timidamente a diffondersi a partire dal 1928 negli Stati Uniti e a partire dal 1929 nel Regno Unito e in Germania, dopo un lungo periodo di gestazione durato decenni e frutto di molte scoperte in vari campi della scienza, è una televisione analogica cioè l'informazione elettronica rappresentante la televisione è di tipo analogico.
+Con la costruzione nel 1941 del primo computer elettronico, l'Atanasoff-Berry Computer, nasce l'elettronica digitale, cioè si inizia ad utilizzare la rappresentazione digitale per l'informazione elettronica. Tale rappresentazione è diventata negli anni la scelta migliore in quanto l'informazione elettronica digitale ha il vantaggio di essere più facilmente trattabile (elaborabile e trasportabile) potendo assumere solo un numero limitatissimo di valori (due) diversamente da quello che succede nell'elettronica analogica in cui l'informazione elettronica assume un numero molto alto di valori. All'inizio lo svantaggio predominante era quello della grande quantità di informazione elettronica digitale necessaria in quanto la semplicità di usare solo due valori per l'informazione elettronica comporta grandi quantità di informazione elettronica. Questo svantaggio però è stato progressivamente superato dal continuo aumento della miniaturizzazione e integrazione dei circuiti elettronici digitali e dal parallelo abbattimento dei costi, tendenze che hanno reso possibile la disponibilità su vasta scala di elettroniche digitali in grado di trattare tali grandi quantità di informazione elettronica digitale. Per questo il futuro è certamente nella rappresentazione digitale dell'informazione, anche se occorreranno ancora vari anni per assistere al completo abbandono della rappresentazione analogica dell'informazione.
+La televisione è stata una delle ultime informazioni ad essere rappresentata in forma digitale proprio perché le immagini in movimento presenti nella televisione sono un'informazione che necessita di grandi quantità di informazione elettronica digitale. Per la televisione il problema non era solo quello delle elettroniche necessarie a trattare le grandi quantità di informazione elettronica digitale, ma anche quello dell'ampio canale di trasmissione necessario per trasmettere una tale quantità di informazione, enormemente più grande di quello necessario nella televisione analogica. Per superare questo problema si è dovuto attendere l'invenzione di metodi di compressione della quantità d'informazione elettronica digitale attinente alle immagini in movimento. Il primo standard per le immagini in movimento ad utilizzare tali metodi di compressione e ad essere utilizzato per la televisione è stato l'MPEG-2.
+Va precisato che si parla di televisione digitale solo quando ogni componente informativa della televisione è rappresentata in forma digitale, in particolare l'informazione visiva (le immagini in movimento) che è quella che richiede la maggiore quantità di informazione elettronica digitale per essere rappresentata. La televisione analogica può avere alcune componenti informative di secondaria importanza rappresentate in forma digitale, ad esempio il suono. L'informazione visiva (le immagini in movimento) nella televisione analogica è sempre rappresentata in forma analogica. In Italia attualmente l'unica componente informativa della televisione analogica rappresentata in forma digitale è il teletext.
+Per quanto riguarda la televisione satellitare, il passaggio da televisione analogica satellitare a televisione digitale satellitare è quasi completato. Attualmente non ci sono televisioni analogiche satellitari italiane. Sono invece ancora varie le televisioni analogiche satellitari nel mondo, ma rappresentano comunque una minoranza rispetto alle televisioni digitali satellitari.
+Quando il passaggio da televisione analogica satellitare a televisione digitale satellitare sarà completato si tornerà a parlare di nuovo semplicemente di televisione satellitare come quando esisteva solo la televisione analogica e la televisione digitale non era ancora diffusa.Comunque si ha delle limitazioni riguardante i diritti televisivi, sono un difetto riquardante la tv satellitare dei canali televisivi nel mondo
+
+
+== Standard televisivi ==
+
+
+=== Standard televisivi per la televisione analogica satellitare ===
+PAL
+SÉCAM
+NTSC
+D2-MAC
+MUSE
+HD-MAC
+
+
+=== Standard televisivi per la televisione digitale satellitare ===
+Gli standard di televisione digitale satellitare sono:
+
+DVB-S
+DVB-S2
+ISDB-S
+DSS
+DCIILo standard DVB-S è lo standard utilizzato dalle televisioni digitali satellitari diffuso nel maggior numero di nazioni del mondo. Col tempo tale standard è destinato ad essere sostituito dal più efficiente DVB-S2. Lo standard ISDB-S è lo standard utilizzato in Giappone. Lo standard DSS è utilizzato in America, mentre quello DCII è utilizzato solo in Nord America.
+
+
+== Dotazioni necessarie per ricevere la televisione satellitare ==
+
+
+=== Compatibilità con gli standard televisivi ===
+Per ricevere la televisione satellitare è necessario disporre di un televisore compatibile con gli standard televisivi delle televisioni satellitari che si vuole ricevere. Per quanto riguarda l'Italia non sono molti i modelli di televisori compatibili con la televisione satellitare in quanto normalmente sono compatibili con la sola televisione terrestre.
+In alternativa sono disponibili set-top box contenenti l'elettronica per la compatibilità con tali standard. Tali set-top box sono necessari anche per dispositivi di visualizzazione come monitor e videoproietteri i quali non contengono mai l'elettronica necessaria per ricevere la televisione.
+Per quanto riguarda le pay TV satellitari spesso il set-top box è una scelta obbligata in quanto i provider televisivi satellitari utilizzano standard proprietari per i servizi interattivi e/o non supportano gli standard aperti per la decriptazione delle televisioni a pagamento (per approfondire vedi la voce piattaforma televisiva).
+
+
+=== Antenna ===
+L'antenna necessaria per ricevere la televisione satellitare è chiamata antenna parabolica. La grandezza dell'antenna parabolica dipende dalla potenza del satellite puntato e dalla posizione geografica di ricezione.
+
+
+== Posizioni orbitali ==
+Di seguito sono elencate le posizioni orbitali e i satelliti da cui sono irradiate le emittenti televisive di tutto il mondo:
+
+
+== Televisione satellitare in Italia ==
+Il 29 gennaio 1990 sono avviate le trasmissioni sperimentali a diffusione diretta dal satellite Olympus 1 (RaiSat) mediante il canale gestito direttamente dalla RAI. Sotto il profilo tecnico la sperimentazione riguarda fra l'altro la televisione con diversi standard (compresa l'alta definizione), la radiofonia di alta qualità, la diffusione di uno stesso programma tv con diverse colonne audio e quindi in più lingue (multiaudio), servizi di televideo (anche per sottotitoli utilizzati nel multilinguismo) e altri servizi telematici. La programmazione parte dal «segmento» televisivo, con una progressione che, dopo la fase di rodaggio, nel corso del primo anno arriverà a raggiungere le 15 ore al giorno. Il palinsesto comprende il genere «educational» (con programmi internazionali di formazione a distanza), sport, musica e tv «generalista».
+La televisione satellitare digitale inizia a diffondersi in Italia grazie all'avvento di grandi fornitori di televisione a pagamento, come Telepiù e Stream negli anni novanta e Sky Italia dal 2003.
+Oltre alle tv a pagamento (pay TV) si sono diffuse rapidamente un gran numero di emittenti gratuite (Free to Air), soprattutto tv locali e di televendita, ma anche tutte le principali emittenti nazionali ed internazionali.
+
+
+== Integrazioni tra TV satellitare e TV via cavo ==
+La diffusione della tecnologia satellitare in Italia è dovuta principalmente all'assenza di alternative così ampiamente diffondibili nel territorio italiano, alternative quali la TV via cavo, già avviato verso l'obsolescenza nella sua incarnazione analogica, ma promettente con gli operatori su fibra ottica o ADSL, o il digitale terrestre, ancora non molto diffuso e tecnologicamente in ritardo rispetto alle trasmissioni satellitari.
+Fanno eccezione alcune zone d'Italia, cablate con fibra ottica in modo capillare.
+I servizi su fibra ottica sono gestiti dalla società Fastweb, che in un primo momento aveva annunciato un ambizioso programma per estendere l'esperimento a molte città italiane, per poi ripiegare su una copertura su tutto il territorio tramite TV via ADSL. Per contro l'unico operatore di Tv satellitare in Italia (SKY) ha deciso una alleanza proprio con Fastweb per permettere ai rispettivi abbonati di ricevere automaticamente i servizi forniti dal gestore dell'altra piattaforma.
+
+
+== Voci correlate ==
+Antenna parabolica
+Bit Error Rate (BER)
+Set-top box#Tipologie
+Digitale terrestre
+Direct-broadcast satellite (DBS)
+USALS = Universal Satellites Automatic Location System
+DiSEqC = Digital Satellite Equipment Control
+Digital Video Broadcasting
+DVB-S
+DVB-T
+Free to Air
+Pay-per-view
+Hot Bird TV Awards
+Satellite artificiale
+Televisione
+Televisione digitale
+TV on demand
+Astra (satelliti)
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su televisione satellitare
+
+
+== Collegamenti esterni ==
+ Glossario TV satellitare, su info-sat.it. URL consultato il 2 gennaio 2014 (archiviato dall'url originale il 12 marzo 2014).
+http://www.dishpointer.com/ Ricerca di satelliti in funzione dell'indirizzo fisico dell'utenza e del tipo di tecnologia in uso.

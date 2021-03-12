@@ -1,0 +1,154 @@
+Avaruussukkula on uudelleen käytettävä miehitetty avaruusalus. Avaruussukkuloilla voidaan kuljettaa satelliitteja ja muuta rahtia sekä Maan matalalle kiertoradalle että takaisin Maahan. Toistaiseksi vain Nasa on ottanut avaruussukkulan käyttöön. Vuoden 1998 lopusta Nasa on käyttänyt avaruussukkuloitaan ennen kaikkea kansainvälisen avaruusaseman (ISS) rakennustöissä ja miehistön kuljetuksessa. Viimeinen Nasan avaruussukkulalento STS-135 laukaistiin Atlantis-avaruussukkulalla ISS-avaruusasemalle 8. heinäkuuta 2011. 30 vuotta kestänyt Nasan avaruussukkulaohjelma päättyi Atlantiksen laskeuduttua Kennedyn avaruuskeskukseen Floridaan 21. heinäkuuta 2011 kello 12.57 Suomen aikaa.
+Ainoat käytössä olleet avaruussukkulat olivat Yhdysvaltain ilmailu- ja avaruushallinto Nasan omistuksessa. Nasa rakensi viisi avaruuslentoihin soveltuvaa sukkulaa (kuudes sukkula, testisukkulana käytetty Enterprise ei soveltunut avaruuslentoihin), joista kaksi tuhoutui onnettomuuksissa. Sukkulaohjelma maksoi Nasalle vuosina 1971–2010 192 miljardia dollaria eli 1,5 miljardia dollaria per lento.Nasan lisäksi Neuvostoliitto lähetti täysimittaisen mutta miehittämättömän Buran-sukkulan avaruuteen koelennolle vuonna 1988; lento kuitenkin jäi neuvostoliittolaisen sukkulan ainoaksi. Lisäksi sukkulatyyppisiä avaruusaluksia on suunnitellut ESA sekä muutamat Länsi-Euroopan maat yhteistyössä keskenään.
+Avaruussukkulat ovat monimutkaisimpia ihmisen rakentamia kulkuneuvoja. Nasan 135 avaruuslennosta kaksi päättyi onnettomuuteen (noin 1,5 % lennoista). Alun perin sukkuloista suunniteltiin helppokäyttöisiä ja turvallisia, mutta sukkulat eivät täysin vastanneet näitä suunnitelmia. Alkujaan suunniteltiin myös, että juuri lennolta laskeutunut sukkula voisi lähteä uudelleen matkaan jo viikon sisällä, mutta todellisuudessa aikaa saattaa kulua vähintään muutamia kuukausia.
+Nasan avaruussukkula on viralliselta nimeltään Space Transportation System (STS), mutta käyttöön on vakiintunut termi Shuttle eli sukkula.
+
+
+== Nasan avaruussukkula ==
+
+
+=== Historiaa ===
+Ensimmäisenä sukkula-ajatusta kehitteli itävaltalainen Eugen Sänger 1930-luvulla.
+Nasan avaruussukkuloiden kehittely alkoi tammikuussa 1972, jolloin Yhdysvaltain silloinen presidentti Richard Nixon ilmoitti halvan ja uudelleenkäytettävän avaruusaluksen kehitystyön aloittamisesta. Kehittelyn alussa yhden lennon keskihinnaksi arvioitiin 10-20 miljoonaa Yhdysvaltain dollaria. Laskelmat osoittautuivat kuitenkin vääriksi, sillä vuoden 2005 arvion mukaan sukkulaohjelma on tullut maksamaan Nasalle kaikkiaan 145 miljardia dollaria. Kaavailtujen 10–20 miljoonan dollarin laukaisukulujen todelliseksi hinnaksi tuli keskimäärin noin 500 miljoonaa dollaria.
+Nasan ensimmäinen avaruussukkula, eli Enterprise (OV-101) valmistui 17. syyskuuta 1976, muttei koskaan lentänyt avaruuteen asti. Enterprise oli alkujaan suunniteltu lentämään avaruuteen, mutta myöhemmin Challengerin muuttaminen avaruuslentoihin soveltuvaksi tuli halvemmaksi, ja Enterprise jäi maan pinnalle. Enterprisella tehtiin kuitenkin muutamia lentoja ilmakehässä vuonna 1977. Vähäisistä lennoista huolimatta Enterprisesta tehtiin kaikkien muiden Nasan avaruussukkuloiden perusmalli. Myös nyt jo tuhoutunut Challenger-sukkula oli alkujaan tarkoitettu vain testikäyttöön, mutta Nasan insinöörit muuttivat sen avaruuskelpoiseksi 1980-luvun alussa.
+
+Ensimmäinen avaruuteen lentänyt sukkula oli vuonna 2003 tuhoutunut Columbia-sukkula. Sukkulan suunnittelusta ja rakentamisesta vastasi nykyään Boeing-yhtiöön kuuluva Rockwell. Valmis sukkula toimitettiin Kennedyn avaruuskeskukseen maaliskuussa 1979 ja se lähti neitsytlennolleen STS-1 12. huhtikuuta 1981 mukanaan kaksi astronauttia.
+Vuonna 1983 Yhdysvaltain presidentti Ronald Reagan ehdotti Space Station Freedom -nimisen avaruusaseman rakentamista. Avaruussukkulat olivat projektissa hyvin tärkeässä osassa, sillä niiden lisäksi vain jo käytöstä poistetuilla Saturn V -raketeilla pystyttiin viemään avaruusaseman suurimmat osat paikoilleen. Myöhemmin projekti nimettiin Space Station Alphaksi ja hankkeeseen tuli kansainvälisiä kumppaneita. Nykyään asema tunnetaan nimellä Kansainvälinen avaruusasema (ISS). Avaruussukkulat olivat projektissa tärkeässä osassa. Ensimmäinen avaruussukkulalento ISS-avaruusasemalle oli STS-88 joulukuussa 1998.
+Vuonna 1986 tapahtuneen Challenger-sukkulan onnettomuuden jälkeen suuri yleisö alkoi menettää kiinnostustaan avaruusmatkailuun ja NASA joutui rahoitusvaikeuksiin. Kestikin kaksi vuotta, ennen kuin seuraava sukkula laukaistiin matkaan, koska sukkulaan tehtyjen turvallisuusparannusten toteuttaminen vei aikaa. NASA on tehnyt 91 avaruuslentoa Challengerin onnettomuuden jälkeen.
+1980- ja 1990-luvuilla avaruussukkuloiden tärkeimpiin tehtäviin kuului viedä satelliitteja ja avaruusluotaimia avaruuteen. Päätehtäviin kuuluivat myös avaruusasemien, kuten ISS:n ja Mirin ruoka- ja happivarastojen täydentäminen. Vilkkainta sukkulaliikenne oli tilastollisesti katsottuna 1990-luvulla, jolloin Nasa laukaisi avaruuteen 64 lentoa. 1980-luvun vastaava määrä taas oli 32 ja 2000-luvulla 19.
+Sukkulalennot keskeytettiin toistamiseen Columbian tuhoutumisen jälkeen 2003. Tämän onnettomuuden jälkeen sukkulalennot jäädytettiin tilapäisesti aina heinäkuuhun 2005 saakka, kunnes Nasa päätti laukaista Discovery-sukkulan avaruuteen. Columbian onnettomuuden jälkeen astronautit ovat tarkastaneet jokaisen avaruussukkulan lennon aikana ulkopuolelta ennen laskeutumista. Normaalisti tarkastus suoritetaan robottikäsivarren jatkeella heti laukaisun jälkeen ja vielä toisen kerran ennen maahan paluuta. Myös kansainväliseltä avaruusasemalta kuvataan sukkulan lämpökilpi ennen telakoitumista. 11. toukokuuta 2009 laukaistulla Hubble-teleskoopin huoltolennolla STS-125 astronautit käyttivät pelkästään aluksen Canadarm-robottikäsivarteen kiinnitettyä kameraa tarkastaakseen aluksen alapuolella sijaitsevat lämpötiilet. Avaruussukkula Endeavour STS-400 oli myös lähtövalmiina laukaisualustalla pelastaakseen Atlantiksen miehistön mikäli alus olisi vaurioitunut laukaisun aikana eikä turvallinen paluu ilmakehään olisi mahdollista. Sukkula ei pysty saavuttamaan sekä Hubblea että ISS:ää samalla lennolla.
+
+
+==== Tulevaisuus ====
+STS-125 oli suunnitelmien mukaan Atlantiksen viimeinen lento, Nasa uskoi pystyvänsä suorittamaan loput suunnitellut avaruusaseman kokoonpanolennot Discoveryllä ja Endeavourilla. Suunnitelmat kuitenkin muuttuivat, ja kevään 2010 tilanne on se, että kaikki jäljellä olevat sukkulat lentävät vuorotellen jäljellä olevat lennot loppuun asti.
+Sukkuloiden seuraajia on Orion-avaruusalus, jonka ensilento tapahtuu kuitenkin vasta 2015. Seuraaja on kuitenkin osa Obaman hallinnon keskeytettäväksi kaavailemaa ohjelmaa ja on epäselvää, jatkuuko Orionin kehitystyö. Republikaanipoliitikot sellaisista osavaltioista, joissa on paljon Nasan keskusten työntekijöitä työllistettyinä mm. Sukkula-ohjelmassa, esittivät maaliskuussa 2010 Sukkulan käytön jatkamista ainakin vuoden 2012 lopulle, mikä ei sitten toteutunut. 
+Nasan pääjohtaja Charles Bolden lupaili marraskuun lopulla 2010 ylimääräistä sukkulalentoa vuonna 2011, koska yhdysvaltalaiset kaupalliset miehitettyjen laukaisujen tekijät eivät ole valmiina paikkaamaan poistuvaa sukkulaa. Todellisuudessa sukkulan korvaavaa yhdysvaltalaista miehitettyä avaruusalusta joudutaan odottamaan vuosia vuoden 2011 loputtuakin.
+Kunkin lentokelpoisen avaruussukkulan viimeinen lento sijoittui vuoteen 2011. Nämä sukkulaohjelman kolme viimeistä lentoa olivat aikajärjestyksessä: STS-133 Discovery, STS-134 Endeavour ja STS-135 Atlantis, mikä oli Boldenin lupaama ylimääräinen, sukkulaohjelman viimeinen lento.
+Sukkulaohjelman loppuminen lopettaa työt myös sukkulaohjelmaan osallistuneilta. Korvaavaa selkeää miehitettyjen avaruuslentojen ohjelmaa ei ole tiedossa, mikä on aiheuttanut tyytymättömyyttä avaruusohjelman kannattajissa Yhdysvalloissa. Kokeneiden työntekijöiden tietotaidon menetyksen on nähty heikentävän Yhdysvaltain asemaa avaruustoiminnassa. Nasa pyrkii siirtämään avaruustoimintoja kaupallisille yrityksille.
+
+
+=== Rakenne ===
+Nasan avaruussukkula koostuu neljästä osasta: kahdesta kiinteän ajoaineen moottorista, ajoainetankista ja itse avaruuteen matkaavasta sukkulasta. Se laukaistaan avaruuteen pystysuorassa kolmen perärungossa sijaitsevan päämoottorin ja kahden kiinteää ajoainetta polttavan apurakettimoottorin avulla. Sukkulan ainoa kertakäyttöinen osa on sen päämoottorin ajoainetankki (engl. Space Shuttle External Tank, lyhenne ET). Päämoottorit käyttävät nestemäisiä polttoaineita, vetyä ja happea. Tankki painaa tyhjänä noin 30 tonnia, ja sisältää 554 m³ nestemäistä happea ja 1 500 m³ nestemäistä vetyä. Täysi tankki painaa 750 tonnia ja siihen mahtuu noin kaksi miljoonaa litraa polttoainetta.
+
+Sukkulan apurakettimoottorit (SRB, solid rocket booster) tuottavat lentoonlähdössä 71,4 % työntövoimasta (14,7 MN). Ajoaineena on ammoniumperkloraatti NH4ClO4, jota on 69,6 % massasta ja jota käytetään hapettimena, sekä alumiini,  jota on 16 % ja jota apurakettimoottorit käyttävät itse polttoaineenaan. Polymeerimatriisissa on myös rautaa, joka toimii palamisreaktion katalysaattorina. Kukin kolmesta sukkulan päärakettimoottorista tuottaa 1,8 MN työntövoiman ja polttoaineena käytettävä nestehappi ja -vety tuottavat palaessaan noin 3300 celsiusasteen lämpötilan. Päämoottorien lisäksi sukkulassa on kaksi pienempää, hydratsiinilla (N2H4) toimivaa moottoria, joiden työntövoima on 27 kN ja joita käytetään laukaisuvaiheessa apurakettien irrotuksen jälkeen suorituskykyä parantamaan sekä polttoainesäiliön irrotuksen jälkeen ratamuutoksien tekemiseen. Kiertoradalle nousussa moottorien yhteisteho on 34,8 MN. Kaikkiaan sukkulassa on yli 30 rakettimoottoria, joista pääosaa käytetään sukkulan asennonsäätämiseen avaruudessa.
+Vaikka avaruussukkula on monimutkaisin ihmisen rakentama laite, se voidaan laukaista täysin automaattisesti. Miehistöä tarvitaan kiertoradalla, avaruuskävelyllä, laskeutumisessa ja mahdollisissa hätätilanteissa. Avaruussukkulaa voidaan kiertoradalla ohjata pienten ulkoisten moottorien avulla (RCS, Reaction Control System) ja rataa voidaan muuttaa em. hydratsiinimoottoreilla. Laskeutumiseen käytetään sukkulan siipien ohjainpintoja lentokoneen tavoin.
+
+
+=== Avaruuslento ===
+
+
+==== Laukaisu ====
+Avaruussukkulan laukaisu suoritetaan automaattisesti. Irrotettavat kiinteäajoainemoottorit (engl. Space Shuttle Solid Rocket Booster, lyhennettynä SRB) palavat muutaman minuutin ajan. Ne irrotetaan sukkulan ollessa 45,7 km:n korkeudessa. Polttoainetankki irrotetaan 8,5 minuutin kuluttua laukaisusta, jolloin sukkula on suunnilleen 109 km:n korkeudessa. Tässä vaiheessa hapen lämpötila on −253 °C, jolloin tankin ulkopintaan muodostuu jäätä ilman kosteuden härmistyessä kylmään pintaan. Sukkula pystyy nostamaan kiertoradalle 28,8 tonnia lastia. Miehistönä voi olla 10 astronauttia mutta  suurin miehistön määrä oli kahdeksan henkeä.milloin? Pisin lento, STS-80 marraskuussa 1996, kesti 17 ja puoli vuorokautta.
+
+
+==== Laskeutuminen ====
+
+Avaruussukkula aloittaa laskeutumisensa ollessaan noin 120 kilometrin korkeudessa. Laskeutumisessa sukkula liikkuu nokka noin 40 astetta ylöspäin nopeudella Mach 25 mikä on suunnilleen 8,2 kilometriä sekunnissa. Myöhemmässä vaiheessa sukkula on pudottanut vauhtinsa nopeuteen Mach 3. Laskeutumisen viimeisten vaiheiden alkaessa sukkulan nopeus on laskenut jo alle äänennopeuden, mutta laskeutuminen tapahtuu yli kahdensadan kilometrin tuntinopeudessa.
+Sukkula (OV) laskeutuu liitolennossa. Ilmakehään paluu aiheuttaa hyvin suuria lämpökuormia sukkulan nokkaan ja sen siipien etureunaan sekä aluksen alapintaan. Alumiinista valmistettu sukkulan runkorakenne on eristetty kuumasta rajakerroksesta rakenteen pinnalle liimattujen lämpöeristetiilien avulla. Sukkulan lämpösuojausta on parannettu useita kertoja painon säästämiseksi ja työmäärän vähentämiseksi. Lämpötiilien sääsuojaus tuhoutuu sukkulan palatessa ilmakehään, joten se joudutaan uusimaan ennen jokaista laukaisua. Sukkula voi laskeutua vain hyvällä säällä, sillä vesipisaroita sisältävien pilvien läpi lentäminen kastelisi tiilet läpimäräksi ja pisaroiden osumat kuluttaisivat niitä. Samoin irrotettavan polttoainetankin massaa on vähennetty viisi tonnia ohjelman aikana alkuaikojen valkoisen pintamaalin pois jättämisellä.
+Lämpöeristetiilet on tehty eri materiaaleista riippuen niiden sijainnista. Tiiliä on seitsemää mallia: RCC, HRSI, FRCI, FIB, LRSI, TUFI ja FRSI. RCC on käytössä korkeimpien lämpötilojen alueella ja FRSI alhaisimpien lämpötilojen alueella.
+
+
+==== Lennon keskeytykset ====
+Tilanteesta riippuen avaruussukkulalento voidaan hätätilanteessa keskeyttää viidellä eri tavalla. Lennonjohto valitsee tarvittaessa kaikkien nopeimman (jos esimerkiksi ohjaushytti vuotaa) tai kaikkein turvallisimman tavan (jos esimerkiksi yksi moottoreista lakkaa toimimasta).
+
+
+===== ATO =====
+ATO (engl. Abort to Orbit) on hidas, mutta turvallinen vaihtoehto, jos sukkula ei jostain syystä pysty saavuttamaan tavoitekiertorataansa. Tällöin sukkula ohjataan matalalle tilapäiskiertoradalle, josta maahan paluu tehdään samalla tavalla kuin normaalin lennon loppuvaiheessa.
+
+
+===== AOA =====
+AOA (engl. Abort once around) on toinen hidas, mutta turvallinen keskeytyskeino. Siinä sukkula ikään kuin pysyttelee yläilmakehässä ja laskeutuu lähtöpaikalleen yhden kierroksen jälkeen. AOA:ta käytetään, jos sukkula ei voi saavuttaa ATO:n vaatimaa matalaa kiertorataa.
+
+
+===== TAL =====
+TAL (engl. Transoceanic Abort Landing) on laskeutuminen jollekin Euroopan tai Pohjois-Afrikan hätälaskeutumispaikoista. Se aloitetaan pian apurakettien irrotuksen jälkeen ja sukkulan päämoottorien voima käytetään kurssimuutokseen. Kun ulkoisen polttoainetankin polttoaine loppuu, se irrotetaan. Tällöin se putoaa vähän aikaa sukkulan vieressä kunnes putoaa Atlantin valtamereen. Sukkula pystyy siipiensä avulla liitämään jollekin laskeutumispaikoista, joita on muun muassa Espanjassa ja Afrikan länsirannikolla. Lennonjohto valitsee laskeutumispaikaksi kentän, jonka säätila ei ole vaaraksi. Sen lisäksi tarvitaan USA:n hallituksen hyväksyntä mahdollisten poliittisten syiden vuoksi.
+
+
+===== RTLS =====
+RTLS (engl. Return to launch site) on sananmukaisesti nopea paluu laukaisupaikalle. RTLS pitää aloittaa heti apurakettien irrottua. Autopilotti laskee, milloin jäljellä oleva suorituskyky riittää kääntämään sukkulan suunnan takaisin laukaisupaikalle niin että laskeutuminen on turvallista, ja kääntää sukkulan sitten perä menosuuntaan päin. Polttoainetankki irrotetaan vasta, kun päämoottoreiden poltto on loppunut ja sukkula on tulossa takaisin laukaisupaikalle.  Tarvittaessa RCS-moottorit aloittavat polttoaineen tyhjentämisen, jotta sukkulan liito-ominaisuudet paranisivat massan vähetessä. Laskeutuminen tapahtuu samalla tavalla kuin normaalin lennon loppuvaiheessa. Kriittistä RTLS-tapauksessa on se, että irrottautuminen polttoainetankista on vaikeaa silloin kun sukkula on jo tulossa takaisin laukaisupaikalle. Irrottautuminen vaatii juuri oikean lentokulman alaspäin ja tämän jälkeen sukkulan on vielä kyettävä erottautumaan tankista turvallisesti.
+
+
+===== Sukkulan hylkääminen =====
+Pahimmassa tapauksessa sukkula joudutaan hylkäämään miehistön pelastamiseksi. Sukkula ohjataan syöksymään kohti vesistöä (jos mahdollista) ja eräänlainen tanko syöksyy ulos samalla kun ohjaamon ovi avataan. Miehistö kiinnittäytyy metallirenkaalla tankoon ja liukuu tangon päähän ja pudottautuu laskuvarjoilla. Tangon tehtävä on estää hyppäävien ihmisten törmääminen aluksen vasempaan siipeen.
+
+
+=== Teknisiä tietoja ===
+
+Orbiterin (kiertoradalle saakka nouseva osa) pituus 37,3 m
+Kärkiväli 23,8 m
+Lentoonlähtöpaino 2 040 000 kg
+Ulkoisen polttoainesäiliön massa tankattuna 751 000 kg
+Yhden kiihdytysraketin massa 590 000 kg (2 kpl)
+Orbiterin (kiertoradalle nousevan osan) massa 109 000 kg
+Suurin työntövoima 34,8 MN
+Yksi SSME-päämoottori (3 kpl) 1,8 MN
+SRB-kiinteäajoaineraketti 14,7 MN
+Suurin laskeutumismassa 104 000 kg
+Suurin hyötykuorma 28 800 kg
+Lakikorkeus 185–1 000 km
+Ratanopeus 7,7 km/s
+Miehistö 2-8 henkilöä, yleensä 5-7
+
+
+=== Nasan avaruussukkulat ===
+
+Enterprise (OV-101) oli vain koekäyttöön rakennettu sukkula, joka valmistui 17. syyskuuta 1976. Sillä tehtiin muun muassa liitolentokokeita 1970-luvun lopulla. Enterprisea ei alkuperäisestä suunnitelmasta huolimatta koskaan muutettu varsinaisiin avaruuslentoihin soveltuvaksi. Challengerin muuttaminen oli halvempaa.Columbia (OV-102) toimitettiin Kennedyn avaruuskeskukseen maaliskuussa 1979 ja laukaistiin ensimmäisen kerran 12. huhtikuuta 1981 mukanaan 2 hengen miehistö. Laukaisun aikana vaurioitunut siiven etureunan lämpöeristetiili johti Columbian tuhoutumiseen sen palatessa Maan ilmakehään 1. helmikuuta 2003.Challenger (OV-099) toimitettiin heinäkuussa 1982, lensi ensimmäisen kerran huhtikuussa 1983. Alus tuhoutui onnettomuudessa 28. tammikuuta 1986 laukaisun aikana.Discovery (OV-103) toimitettiin marraskuussa 1983. Ensilento elokuussa 1984.Atlantis (OV-104) toimitettiin huhtikuussa 1985. Ensilento lokakuussa 1985.Endeavour (OV-105) rakennettiin varaosista korvaamaan tuhoutunut Challenger. Toimitettiin toukokuussa 1991, ensilento 1992.
+
+
+=== Nasan sukkulatehtävät ===
+
+
+== Avaruussukkulat museoissa ==
+12. huhtikuuta 2011 Nasan pääjohtaja Charles Bolden ilmoitti Sukkuloiden sijoitukset eri yhdysvaltalaisiin museoihin 
+National Air and Space Museumiin kuuluva Udvar-Hazy Center Washington DC:ssä saa Discoveryn ja luovuttaa nyt kokoelmissaan olevan Enterprisen "Intrepid Sea, Air & Space Museum"-museoon Manhattanille.
+Endeavour sijoitetaan California Science Centeriin Los Angelesiin, joka on lähellä sukkuloiden kokoamispaikkaa, joka oli Palmdalessa.
+Atlantis jää Kennedy Space Centerin Visitor Complex-keskukseen.
+
+
+== Muiden valtioiden avaruussukkulaohjelmat ==
+Yhdysvaltojen lisäksi moni muukin valtio on ollut kiinnostunut omasta avaruussukkulastaan.
+
+
+=== Neuvostoliiton avaruussukkula ===
+Neuvostoliitto kehitti omaa Buran-sukkulaansa 1970-luvulta alkaen. Vuonna 1988 miehittämätön Buran laukaistiin yhden kerran Energija-kantoraketilla Maan kiertoradalle.
+
+
+=== ESA, Ranska, Saksa ja Englanti ===
+Läntinen Eurooppa yritti kehittää omia avaruussukkuloitaan 1980-luvun lopulla. ESA otti kehitysohjelmaansa Ranskan Hermès-sukkulan. Se käytti Ariane 5-kantorakettia voimalaitteenaan. Saksa kehitti Sänger-sukkulaa ja Englanti HOTOL-sukkulaa, jotka olivat lentokoneen kaltaisesti lentoon lähteviä. Sängerissä oli kaksi lentolaitetta, kantoalus ja siitä laukaistava sukkula. HOTOLissa kantoalusta ei ollut. Myös nämä päättyivät rahoitusvajeisiin paljon ennen prototyypin rakentamista.
+Euroopan avaruusjärjestöllä (ESA) on edelleen (2005) oma sukkulaohjelma (Phoenix). Tavoitteena on saada sukkula käyttöön noin 2015–2020. ESA teki toukokuussa 2004 Kiirunassa sukkulan pienoismallilla koelennon, jolla testattiin onnistuneesti automaattista laskeutumista.
+
+
+=== Venäjä ===
+Venäjän avaruusjärjestö ja ESA kehittävät yhdessä Kliper-sukkulaa (englannin kielessä käytetään, joskus ulkoasua Clipper), joka on nostava runko-tyyppinen avaruusalus. Se olisi Burania ja Yhdysvaltain avaruussukkulaa halvempi ja kevyempi. Kliperin on suunniteltu tekevän muun muassa ratamuutoksia satelliitteihin hinaamalla niitä.
+15. maaliskuuta 2005 Ranskan CNES ja Venäjän avaruusjärjestö allekirjoittivat 5-vuotissopimuksen koskien Orel-projektia. Sopimuksen koko on 200 miljoonaa euroa. Sillä pyritään kehittämään sukkulan kaltainen raketti. Raketin ajoaine on nestehappi- ja -vety sekä metaani. Se perustuu muun muassa venäläiseen Orel 6-koealukseen.
+
+
+=== Muut valtiot ===
+Monilla valtioilla on suunnitelmat avaruussukkuloista paperilla, mutta itse sukkulan rakentaminen on aivan eri asia. Teknisten ongelmien lisäksi projektit ovat hyvin kalliita. Suurin osa projekteista kaatuu rahoitusvaikeuksiin ja osa teknisiin. Vain harvalla valtiolla on sekä taloudellista että teknistä osaamista sukkulan rakentamiseen.
+Venäjän ja muutamien Euroopan valtioiden lisäksi myös Japani on ilmaissut halunsa saada oma avaruussukkula. Japanin avaruusjärjestö JAXA kehitti 1980-luvulta vuoteen 2003 asti HOPE-sukkulaa, mutta projekti peruttiin. Vuoden 2005 alussa Japani ilmoitti olevansa jälleen kiinnostunut oman avaruussukkulansa rakentamisesta.
+
+
+== Katso myös ==
+Kansainvälinen avaruusasema
+Luettelo Nasan avaruussukkulalennoista
+Luettelo avaruussukkulaohjelmista
+
+
+== Lähteet ==
+Avaruuslennot, suomenkielinen sivusto miehitetyistä avaruuslennoista.
+Taulukko Nasan sukkuloiden lennoista vuoteen 2005 asti (pääosin englanniksi).
+Sukkulan "käyttöohjeet" (HTML-muodossa) (englanniksi)
+Nasan avaruussukkulan virallinen kotisivu (englanniksi)
+
+
+=== Viitteet ===
+
+
+== Aiheesta muualla ==
+ Kuvia tai muita tiedostoja aiheesta Avaruussukkula Wikimedia CommonsissaIso, kallis ja vaarallinen - kuvaraportti sukkulalennoista ja avaruusasemista (Tekniikka & Talous 2009)
+Kuvaraportti sukkuloiden 30-vuotisesta historiasta (Tekniikka & Talous 2011)
+Nasan avaruussukkulalentoja esittelevä sivu (englanniksi)
+Nasan avaruussukkulan tekniikkaa esittelevä sivu (englanniksi)
+NASA: Space Shuttle Era (englanniksi)
+Launching Our Dreams: A Shuttle Retrospective Nasan tuottama 30-minuuttinen video sukkulaohjelman 30-vuotisesta historiasta
+Shuttle Reference Manual (tekniikkaa ja operaatioita esittelevä sivusto, päivitetty 1988) (englanniksi)

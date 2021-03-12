@@ -1,0 +1,26 @@
+Kelvin er den grunnleggende SI-enheten for måling av temperatur, og er en av de syv grunnenhetene i SI-systemet. Symbolet for kelvin er K. 
+Kelvin er nå definert ved å feste den numeriske verdien av Boltzmann konstanten 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   til 1.380 649 × 10−23 J⋅K−1. Denne enheten er lik kg⋅m2⋅s−2⋅K−1, hvor kilo, meter og sekund er definert i form av Planck-konstanten, lysets hastighet og varigheten av cesium-133 grunntilstand-hyperfine overgang henholdsvis. Dermed avhenger denne definisjonen bare av universelle konstanter, og ikke av noen fysiske gjenstander som praktisert tidligere, for eksempel den internasjonale prototypen på kiloet, hvis masse avvek over tid fra den opprinnelige verdien.
+En kelvin er lik en endring i den termodynamiske temperaturen T som resulterer i en endring av termisk energi kT med 1.380 649 × 10−23 J.Kelvin-skalaen oppfyller Thomsons krav som en absolutt termodynamisk temperaturskala. Den bruker det absolutte nullpunkt som nullpunkt (dvs. lav entropi).
+I motsetning til grader Fahrenheit og grader Celsius, blir ikke kelvin referert til eller skrevet som en grad. Kelvin er den primære enheten for temperaturmåling i naturvitenskapen, men brukes ofte i forbindelse med grader Celsius, som har samme størrelse.
+Skalaen er oppkalt etter den britiske fysikeren og ingeniøren William Thomson Kelvin (1824-1907).
+Temperatur i kelvin kalles også «absolutt temperatur». I det engelske målesystemet benyttes Rankine (°R) som måleenhet for absolutt temperatur.
+
+
+== Unicode symbol ==
+Symbolet er kodet i Unicode ved kodepunkt  U+212A (K). Dette er imidlertid et kompatibilitetskarakter som er gitt for kompatibilitet med eldre kodinger. Unicode-standarden anbefaler å bruke U+004B (K) i stedet; det vil si en normal stor bokstav K. "Tre bokstavlignende symboler har fått kanonisk ekvivalens med vanlige bokstaver: U+2126 (Ω),U+212A (K) and U+212B (Å). I alle tre tilfeller er det den vanlige bokstaven som skal brukes."
+
+
+== Referanser ==
+
+
+== Eksterne lenker ==
+Temperaturkalkulator
+En annen temperaturkalkulator

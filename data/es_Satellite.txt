@@ -1,0 +1,52 @@
+Un satélite natural es un cuerpo celeste que orbita alrededor de un planeta. Generalmente el satélite es más pequeño y acompaña al planeta en su órbita alrededor de su estrella madre. A diferencia de los fragmentos que orbitan formando un anillo, es el único cuerpo en su órbita. El término satélite natural se contrapone al de satélite artificial, siendo este último   un objeto que gira en torno a la Tierra, la Luna o algunos planetas y que ha sido fabricado por el ser humano.
+En el caso de la Luna, que tiene una masa aproximada a 1/81 de la masa de la Tierra, podría considerarse como un sistema de dos planetas que orbitan juntos (sistema binario de planetas). Tal es el caso de Plutón y su satélite Caronte. Si dos objetos poseen masas similares, se suele hablar de sistema binario en lugar de un objeto primario y un satélite. El criterio habitual para considerar un objeto como satélite es que el centro de masas del sistema formado por los dos objetos esté dentro del objeto primario. El punto más elevado de la órbita del satélite se conoce como apoápside.
+Por extensión se llama lunas a los satélites de otros planetas. Se dice «los cuatro satélites de Júpiter», pero también, «las cuatro lunas de Júpiter». También por extensión se llama satélite natural o luna a cualquier cuerpo natural que gira alrededor de un cuerpo celeste, aunque no sea un planeta, como es el caso del satélite asteroidal Dáctilo que gira alrededor del asteroide (243) Ida, etc.
+
+
+== Clasificación de los satélites en el sistema solar ==
+
+En el sistema solar se puede clasificar los satélites como:
+
+Satélites pastores: Cuando mantienen algún anillo de Júpiter, Saturno, Urano o Neptuno en su lugar.
+Satélites troyanos: Cuando un planeta y un satélite importante tienen en los puntos de Lagrange L4 y L5 otros satélites.
+Satélites coorbitales: Cuando giran en la misma órbita. Los satélites troyanos son coorbitales, pero también lo son los satélites de Saturno Jano y Epimeteo que distan en sus órbitas menos de su tamaño y en vez de chocar intercambian sus órbitas.
+Satélites asteroidales: Algunos asteroides tienen satélites a su alrededor como (243) Ida y su satélite Dactyl. El 10 de agosto de 2005 se anunció el descubrimiento de un asteroide (87) Silvia que tiene dos satélites girando a su alrededor, Rómulo y Remo.[1]​ Rómulo, el primer satélite, se descubrió el 18 de febrero de 2001 en el telescopio W. M. Keck II de 10 metros en Mauna Kea. Tiene 18 km de diámetro y su órbita, a una distancia de 1370 km de Silvia, tarda en completarse 87,6 horas. Remo, el segundo satélite, tiene 7 km de diámetro y gira a una distancia de 710 km, y tarda 33 horas en completar una órbita alrededor de Silvia.Puesto que todos los satélites naturales siguen su órbita debido a la fuerza de gravedad, el movimiento del objeto primario también se ve afectado por el satélite. Este fenómeno permitió en algunos casos el descubrimiento de planetas extrasolares
+
+
+== Satélites de satélites ==
+
+No se conocen lunas de lunas (satélites naturales que orbitan alrededor de un satélite natural de otro cuerpo). En la mayoría de los casos, los efectos de marea del primario harían tal sistema inestable.
+Sin embargo, cálculos realizados después de la detección reciente[2]​ de un posible sistema de anillos de Rea (satélite natural de Saturno) indican que los satélites que orbitan Rea tendrían órbitas estables. Además, los anillos sospechosos se cree que serían estrechos,[3]​ un fenómeno que normalmente se asocia con lunas pastor. Sin embargo, las imágenes específicas tomadas por la nave espacial Cassini no detectaron ningún anillo asociado a Rea.[4]​
+También se ha propuesto que Japeto, satélite de Saturno, poseía un subsatélite en el pasado; esta es una de varias hipótesis que se han propuesto para dar cuenta de su cresta ecuatorial.[5]​
+
+
+== Satélites naturales en el sistema solar ==
+
+En los planetas y planetas enanos del sistema solar se conocen 181 satélites, distribuidos:
+
+Los planetas Mercurio y Venus no tienen ningún satélite natural, como tampoco tiene el planeta enano Ceres. Sucesivas misiones no tripuladas han aumentado cada cierto tiempo estas cifras al descubrir nuevos satélites, y aún pueden hacerlo en el futuro.
+
+
+== Tamaño de los satélites naturales en el sistema solar ==
+Los siete satélites naturales más grandes del sistema solar (con más de 2500 km de diámetro) son las cuatro lunas galileanas jovianas—Ganímedes, Calisto, Io y Europa—, la luna de Saturno Titán, la propia Luna de la Tierra, y el satélite natural capturado de Neptuno Tritón. Tritón, el más pequeño de ese grupo, tiene más masa que todos los satélites naturales restantes más pequeños juntos. Del mismo modo, en el siguiente grupo de tamaño de nueve satélites naturales, entre 1000 y 1600 km de diámetro —Titania, Oberón, Rea, Jápeto, Caronte, Ariel, Umbriel, Dione y Tetis—, el más pequeño, Tetis, tiene más masa que todos los satélites menores restantes juntos. Además de los satélites naturales de los planetas, hay también más de 80 satélites naturales conocidos de planetas enanos, asteroides y otros cuerpos menores del sistema solar. Algunos estudios estiman que hasta un 15 % de todos los objetos transneptunianos podrían tener satélites.
+A continuación sigue un cuadro comparativo que clasifica los satélites naturales en el sistema solar por su diámetro. En la columna de la derecha se recogen a efectos comparativos algunos planetas notables, planetas enanos, asteroides y otros objetos transneptunianos. Los satélites naturales de los planetas tienen nombres de figuras mitológicas. Estos son predominantemente griegos, a excepción de los satélites naturales de Urano, que llevan el nombre de personajes de Shakespeare. Los diecinueve cuerpos lo bastante masivos como para haber alcanzado un equilibrio hidrostático están en negrita en la tabla siguiente. Los planetas y satélites menores sospechosos, pero no probados de haber logrado un equilibrio hidrostático, están en cursiva en el siguiente cuadro.
+
+
+== Sumario visual ==
+
+
+== Véase también ==
+Satélite asteroidal
+Satélite irregular
+satélite regular
+Galaxia satélite
+satélite interior
+Comparación de satélites naturales por tamaño
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Satélite natural.
+[1] (enlace roto disponible en Internet Archive; véase el historial, la primera versión y la última)., descubre Hubble luna de Makemake

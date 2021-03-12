@@ -1,0 +1,62 @@
+El traje espacial es una escafandra presurizada que puede incluir dispositivos de control térmico, suministro de oxígeno y otros soportes vitales, para realizar diferentes tareas en el espacio. Los trajes espaciales se pueden clasificar en trajes de actividad intravehicular, extravehicular o una combinación de ambas.
+El primer prototipo de traje espacial data de 1935 obra del ingeniero español Emilio Herrera. Posteriormente soviéticos y estadounidenses desarrollaron modelos para misiones en órbita. El Programa Gemini amplió más la experiencia con este tipo de indumentaria, dichas experiencias se ampliaron más aún con el Programa Apolo y posteriormente con las distintas misiones del transbordador espacial y la Estación Espacial Internacional hasta llegar a los diseños para el Programa Artemisa. 
+El traje extravehicular, o EVA, por sus siglas en inglés, protege a los seres humanos del calor, el frío, la radiación y la nula presión atmosférica del espacio fuera de la nave o estación espacial. El traje intravehicular se utiliza dentro de la nave, como medida de seguridad, durante la reentrada a la Tierra, pero también existen trajes para ambos entornos, conocidos como IEVA (intra/extravehicular activity).
+En un principio los trajes eran confeccionados a medida, posteriormente se modificaron para crear un modelo estándar que pudieran adaptarse al operador y finalmente se llegó a un modelo intermedio donde algunos elementos son estándar y otros hechos a medida.
+Debajo de estos deben usar ropas finas , no muy pesadas ya que el traje hace todo el trabajo de protegerlos.
+
+
+== Historia ==
+El primer prototipo de un traje espacial fue la escafandra estratonáutica, diseñada en 1935 por el ingeniero militar español Emilio Herrera. Este prototipo sentó un precedente que inspiraría futuros diseños, utilizados por los Estados Unidos en la carrera espacial.[1]​ El primer traje espacial utilizado por un ser humano en el espacio fue el traje intravehicular Sokol SK-1, fabricado por la Unión Soviética para el vuelo de Yuri Gagarin, el 12 de abril de 1961.[2]​
+
+
+== Funciones del traje espacial ==
+Un traje espacial debe desempeñar diversas funciones para que su ocupante permanezca cómodo y seguro. Debe proveer:
+
+Una presión interna estable. Esta puede ser menor que la presión atmosférica de la tierra, y por eso normalmente no es necesario llevar nitrógeno en el traje. Una menor presión permite una mayor movilidad para su ocupante, pero conlleva con la posibilidad de que ocurra un mal de descompresión.
+Movilidad. La movilidad esta normalmente opuesta a la presión del traje. La movilidad también está dada por las uniones del traje.
+Oxígeno respirable. La circulación de oxígeno respirable está controlada por el Sistema Primario de Soporte Vital.
+Regulación de la temperatura. Distinto a la tierra, donde el calor puede ser transferido por convección en la atmósfera, en el espacio el calor puede perderse solo por radiación o por conducción con los objetos en contacto directo con el traje. Como la temperatura en el espacio puede variar considerablemente, la temperatura del traje está regulada por ropa de Enfriamiento Líquido, mientras que la temperatura interior del traje está regulada por Sistema Primario de Soporte Vital.
+Escudo contra la radiación ultravioleta.[3]​
+Escudo limitado contra otro tipo de radiaciones.
+Protección contra micrometeoritos, algunos viajando a velocidades de hasta 27 000 kilómetros por hora, proporcionados por una capa resistente al punzado, que es la parte más externa del traje. La experiencia ha demostrado que la mayor probabilidad de exposición se produce cerca del campo gravitatorio de un satélite natural o planeta, por lo que la propuesta se emplea por primera vez en los trajes de la misión lunar Apolo.[4]​ [5]​
+Medios para maniobrar, arnés y líneas de anclaje/liberación a la nave espacial.
+Sistemas de telecomunicación.
+Formas para el cómodo almacenamiento de comida, agua y bebidas isotónicas.
+Sistema de gestión de desechos (denominado Body Waste Management System en la jerga de la NASA) consistente en un recolector de orina (Urine Collection Device, UCD) y otro de heces (Maximum Absorbency Garment, MAG).
+
+
+== Partes del traje espacial ==
+El traje espacial lo componen varias piezas que se ajustan unas a otras y algunas son intercambiables con otros trajes:[6]​
+
+Perneras: El traje se compone de unos pantalones y un anillo ventral ajustable en altura y anchura para ser usado por distintas personas.Tronco: Al anillo ventral se acopla una camisa con anillos en las muñecas y el cuello.Guantes: Son una parte especialmente cuidada porque debe permitir cierta sensibilidad para manejar herramientas y al mismo tiempo protegerle del espacio exterior. Suelen ser hechos a medida.Casco: Es otra pieza de especial delicadeza pues debe permitir una amplia visibilidad, ser robusto, tener varias pantallas para proteger los ojos de la radiación sin impedir ver, ofrecer uno o dos micrófonos para la radio, auriculares y una pantalla donde aparezcan mensajes escritos.Mochila: En ella van las botellas de aire para poder respirar, el regulador para compensar la diferencia de presión, las baterías y la radio.Tubos de evacuación: Una serie de conductos para permitir al astronauta orinar y defecar si fuese necesario sin que suponga un peligro ni una molestia. Hay que tener en cuenta que algunos paseos espaciales pueden prolongarse durante horas (para la reparación del Telescopio espacial Hubble fue necesario una EVA de 26 horas).En su conjunto un traje de este tipo puede superar los 130 kilos de peso. A esta configuración se le puede añadir el módulo extravehicular (Manned Maneuvering Unit en inglés) que utilizan los estadounidenses para maniobrar fuera del transbordador espacial. Así tendríamos la configuración más completa y eficaz.
+Un traje algo distinto es el llamado traje de vuelo utilizado tanto en el despegue como en el aterrizaje y sirve como medida de precaución por si ocurre una despresurización del vehículo espacial. Al contrario que el anterior no lleva mochila. En el caso de los transbordadores americanos es de color naranja fuerte para ser visto con más facilidad y su denominación es ACES. En la Soyuz este traje es de color blanco y se denomina Sokol. Además va equipado con radiobaliza, bengalas, agua, raciones de comida, paracaídas, flotadores y demás equipo de supervivencia; por si se produjera un accidente y debieran abandonar la astronave en vuelo o al caer sobre agua.
+
+
+== Tejidos del traje ==
+Todo traje espacial está confeccionado con varios tejidos, especialmente si la prenda está prevista para salir al espacio, pero suelen integrarlo siempre:[6]​
+
+Capa exterior: Es blanca o de material reflectante para disipar la mayor cantidad de luz y calor posible.Capa de kevlar: Suele estar colocado en el interior y su misión es proteger los tejidos interiores de desgarros y de pequeña basura espacial que pudiera producir cortes o perforaciones con la consiguiente pérdida de presión.Algodón: Es la parte interior para proporcionar un tacto agradable, evitar pérdidas de calor y absorber posibles sudoraciones del propietario.Estas capas no tienen porqué ser únicas sino dobles o triples y pueden resistir el impacto de un objeto con el tamaño de un guijarro de río. Para partículas más grandes no se garantiza la resistencia; pero si se produjera un agujero del tamaño de una moneda las mochilas podrían proporcionar aire durante unos 30 minutos.[6]​
+
+
+== Problemas de los trajes espaciales ==
+Alto costo: Pese a lograr reducciones en este campo gracias a la experiencia, el precio de cada uno es algo que ha demostrado ser muy difícil de solucionar. Se podría conseguir fabricándolos en serie; pero muchos componentes debe ser confeccionados a medida.Tiempo para entrar y salir: La cantidad y la precisión de ajustes que necesita el traje, lo voluminoso y delicado de sus componentes y todos las comprobaciones necesarias hacen que la operación de vestirse pueda superar la media hora o incluso más.Incomodidad: Pese a los esfuerzos el traje espacial no deja de ser un globo hinchable, lo que lo vuelve grande y aparatoso. Se han estudiado trajes de formas duras y elásticas; pero por el momento no son alternativa. También resulta muy difícil de resolver la sensibilidad, sobre todo en las manos.Peso: El traje debido a sus múltiples partes supera con facilidad los cien kilogramos, por lo que los astronautas deben estar en buena forma física durante los entrenamientos.
+
+
+== Posibles sucesores ==
+La profesora Dava Newman desarrolló unos trajes espaciales denominados «biotraje», similares a uno de neopreno. Estos trajes cuentan con la misma Resistencia y flexibilidad que los trajes convencionales. La diferencia con el traje convencional es que no se infla de aire, por lo que reduce en gran medida el volumen y aumenta la movilidad. El biotraje se ajusta directamente sobre la piel para producir presión.
+Se han realizado y se han puesto en práctica estos trajes con resultados fueron satisfactorios, incluso permiten actividades cómo la escalada, totalmente imposible con el convencional peso de aproximadamente 126 kg.
+
+
+== Véase también ==
+Estación Espacial Internacional
+Cosmonauta
+Taikonauta
+Escafandra
+Escafandra estratonáutica
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Traje espacial.

@@ -1,0 +1,141 @@
+Het gewicht van een voorwerp is de kracht die dat voorwerp, als gevolg van de zwaartekracht en versnellingen, op zijn ondersteuning of ophanging uitoefent. 
+
+
+== Details ==
+Het gewicht 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   van een voorwerp t.o.v. een coördinatenstelsel is de kracht die dat voorwerp op zijn ondersteuning of ophanging uitoefent, als deze ondersteuning of ophanging geen versnelling heeft in het coördinatenstelsel. Het gewicht per massa-eenheid is gelijk aan de versnelling bij een vrije val in het coördinatenstelsel, en is het tegengestelde van de g-kracht die moet worden uitgeoefend op het voorwerp stationair te houden in het coördinatenstelsel, en dus ook wat een veer-weegschaal daarbij meet.Er geldt dus 
+  
+    
+      
+        G
+        =
+        m
+        (
+        g
+        −
+        a
+        )
+      
+    
+    {\displaystyle G=m(g-a)}
+   met 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   de massa, 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   de valversnelling en 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   de versnelling van het coördinatenstelsel (beide vectoren).
+Het rustgewicht is het gewicht t.o.v. een inertiaalstelsel, een stelsel dat 'in rust' is, of met een constante snelheid en in een rechte lijn beweegt (men zegt dat het voorwerp een E.R.B., een eenparig, rechtlijnige beweging, een beweging op een rechte lijn met een constante snelheid, uitvoert).
+In een inertiaalstelsel geldt dus 
+  
+    
+      
+        G
+        =
+        m
+        g
+      
+    
+    {\displaystyle G=mg}
+  .
+Ondervindt het coördinatenstelsel een versnelling 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  , dan ondervindt het voorwerp een schijnkracht ter grootte van het extra gewicht 
+  
+    
+      
+        −
+        m
+        a
+      
+    
+    {\displaystyle -ma}
+  .
+Als een voorwerp (of persoon) zich in een voertuig bevindt, is vooral het gewicht ten opzichte van het voertuig van belang, dus het gewicht ten opzichte van het coördinatenstelsel waarin het voertuig stationair is. Zolang men stationair is ten opzichte van het voertuig, of er met constante snelheid doorheen loopt (dus niet als men een sprongetje maakt of door een felle manoeuvre even zweeft in het voertuig), geldt dat de grootte van dit gewicht per massa-eenheid gelijk is aan de grootte van de g-kracht, en dat de richting tegengesteld is. Het gewicht ten opzichte van het voertuig kan groter of kleiner zijn dan normaal, maar ook een andere richting hebben.
+
+
+== Verticale versnelling ==
+Stel bijvoorbeeld dat een voorwerp (of persoon) aan een versnelling omhoog wordt blootgesteld, zoals kortstondig in een lift die omhoog begint te bewegen, tot de snelheid constant wordt, maar ook in een lift die naar beneden gaand afremt. Dan voelt men zich zwaarder en bereiken vallende objecten sneller de vloer van de lift, net als in stationaire toestand op Jupiter. In het ene geval veroorzaakt de grotere normaalkracht een versnelling, in het andere geval compenseert die een grotere zwaartekracht.
+Omgekeerd, stel dat een voorwerp (of persoon) aan een versnelling omlaag wordt blootgesteld, zoals kortstondig in een lift die omlaag begint te bewegen, tot de snelheid constant wordt, maar ook in een lift die naar boven gaand afremt. Dan voelt men zich lichter en bereiken vallende objecten langzamer de vloer van de lift, net als in stationaire toestand op de Maan. In het ene geval is de kleinere normaalkracht niet genoeg om de zwaartekracht te compenseren, in het andere geval compenseert die een kleinere zwaartekracht.
+
+
+=== Rekenvoorbeeld ===
+Hiervoor wordt gebruikgemaakt van de gelijkheid m/s² = N/kg.
+Iemand met een massa van 100 kg heeft in rust een gewicht van 100 kg × 9,81 N/kg = 981 N. Staat hij in een lift die met 2 m/s² omhoog versneld wordt, dan is het gewicht 100 × (9,81 + 2) = 1181 N. Is de lift 2 m/s² naar beneden versneld, dan heeft hij een gewicht van 781 N.
+NB: De massa van de persoon blijft dezelfde, namelijk 100 kg, als men het geringe verschil door relativiteit negeert.
+
+
+== Horizontale versnelling ==
+Het gewicht ten opzichte van een voertuig dat optrekt, is schuin naar achteren gericht, schuin naar voren als het remt, en in bochten hellend naar de buitenkant van de bocht. Het gewicht is net zo gericht ten opzichte van een stilstaand voertuig op respectievelijk een helling naar boven, op een helling naar beneden, en dwars op een helling (naar beneden aan de kant van de buitenbocht).
+
+
+== Vrije val ==
+Het gewicht van een voorwerp t.o.v. een coördinatenstelsel is nul als vrije val in het coördinatenstelsel stationair is, zoals wanneer het coördinatenstelsel is gekoppeld aan een ruimtecapsule die zelf ook in vrije val is. De g-kracht die moet worden uitgeoefend op het voorwerp om het stationair te houden in het coördinatenstelsel is dan nul.
+Bij een vrije val spreekt men van gewichtloosheid vanwege het gebrek aan ondersteuning of ophanging. Dit betekent niet zozeer dat het gewicht nul is (dat hangt van het coördinatenstelsel af), maar dat de g-kracht nul is, en dus de daarmee samenhangende mechanische spanning in het voorwerp of de persoon. Bij vrije val in een ruimtecapsule die zelf ook in vrije val is, zweven personen en voorwerpen t.o.v. de vloer en de wanden.
+
+
+== Massa ==
+In het dagelijks taalgebruik worden de begrippen gewicht en massa soms door elkaar gebruikt, maar dat is vanuit het standpunt van de wetenschap incorrect. Deze misvatting is goed te begrijpen als we weten hoe de massa bepaald wordt met behulp van een weegschaal. De weegschaal meet de kracht die erop uitgeoefend wordt, die gelijk is aan de zwaartekracht die inwerkt op het voorwerp. Daar deze (wanneer het voorwerp zich in rust bevindt of een eenparig, rechtlijnige beweging uitvoert) even groot is als het gewicht van het voorwerp, kan op deze manier de massa zeer snel bepaald worden door gebruik te maken van de formule 
+  
+    
+      
+        G
+        =
+        m
+        g
+      
+    
+    {\displaystyle G=mg}
+  . De weegschaal deelt de grootte van de kracht die ze meet (en die dezelfde is als de grootte van het gewicht) door de grootte van 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  , die in Nederland en België ongeveer gelijk is aan 9,81 N/kg, en dit geeft de massa van het voorwerp dat op de weegschaal staat.
+
+
+== Schijnbaar gewicht ==
+Het gewicht t.o.v. een niet-inertiaalstelsel wordt ook wel schijnbaar gewicht genoemd. Als er externe niet-gravitatiekrachten zijn, of opwaartse kracht van een vloeistof of gas, dan kunnen deze een gewichtsmeting beïnvloeden. Definities van gewicht en schijnbaar gewicht variëren voor zulke gevallen.
+
+
+== Voorwerp ==
+Een gewicht is een voorwerp met een zeer bepaalde massa (bijvoorbeeld een massastuk, een gewicht bij gewichtheffen of een contragewicht), en dat daaraan z'n functie ontleent, of een voorwerp met een voldoend grote massa, zoals een gewicht voor het opslaan van potentiële energie (bijvoorbeeld bij een klok), of voor een "bevestiging" door zwaartekracht (bijvoorbeeld een presse-papier), of een hangend gewicht om via een katrol een kabel te spannen (bijvoorbeeld bij bovenleiding). Zie ook Ballast (verzwaring).
+
+
+== Zie ook ==
+Massastuk
+Equivalentieprincipe

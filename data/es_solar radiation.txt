@@ -1,0 +1,391 @@
+La radiación solar es el conjunto de radiaciones electromagnéticas emitidas por el Sol. El Sol es una estrella que se encuentra a una temperatura media de 5778 K (5505°Celsius) en cuyo interior tienen lugar una serie de reacciones de fusión nuclear que producen una pérdida de masa que se transforma en energía. Esta energía liberada del Sol se transmite al exterior mediante la radiación solar. El Sol se comporta prácticamente como  un cuerpo negro, el cual emite energía siguiendo la ley de Planck a la temperatura ya citada. La radiación solar se distribuye desde el infrarrojo hasta el ultravioleta. No toda la radiación alcanza la superficie de la Tierra, porque las ondas ultravioletas más cortas son absorbidas por los gases de la atmósfera. La magnitud que mide la radiación solar que llega a la Tierra es la irradiancia, que mide la potencia que por unidad de superficie alcanza a la Tierra. Su unidad es el W/m².
+
+
+== Distribución espectral de la radiación solar ==
+La aplicación de la Ley de Planck al Sol con una temperatura superficial de unos 6000 K nos lleva a que el 99 % de la radiación emitida está entre las longitudes de onda 0,15 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+   (micrómetros) y 4 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+  . El Sol emite en un intervalo espectral de 150 nm hasta 4 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+  . La luz visible se extiende desde 380 nm a 830 nm.
+La atmósfera de la Tierra constituye un importante filtro que hace inobservable radiaciones de longitud de onda inferiores a las 0,29 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+   por la fuerte absorción del ozono y el oxígeno. Eso nos libra de la ultravioleta más peligrosa para la salud. La atmósfera es opaca a toda radiación infrarroja de longitud de onda superior a 24 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+  . Eso no afecta a la radiación solar pero sí a la energía emitida por la Tierra que llega hasta las 40 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+   y que es absorbida. Este efecto se conoce como efecto invernadero.
+El máximo (Ley de Wien) ocurre a 0,475 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+  . Considerando la ley de Wien, ello corresponde a una temperatura de:
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              2897
+              ,
+              6
+               
+              
+                μ
+                m
+                ⋅
+                
+                  
+
+                  
+                  
+                     
+                  
+                
+                K
+              
+            
+            
+              0
+              ,
+              475
+               
+              μ
+              
+                m
+              
+            
+          
+        
+        =
+        6099
+         
+        
+          
+            
+
+            
+            
+               
+            
+          
+          K
+        
+      
+    
+    {\displaystyle T={\frac {2897,6\ \mathrm {\mu m\cdot {}^{\ }K} }{0,475\ \mu \mathrm {m} }}=6099\ \mathrm {{}^{\ }K} }
+  
+
+Pero la emisión solar difiere de la de un cuerpo negro, sobre todo en el ultravioleta. En el infrarrojo se corresponde mejor con la temperatura de un cuerpo negro de 5779 K, y en el visible con 6090 K. Ello nos habla de que la radiación solar no se produce en las mismas capas y estamos observando la temperatura de cada una de ellas donde se produce la energía.
+
+
+== Efectos de la radiación solar sobre los gases atmosféricos ==
+La atmósfera es diatérmana, es decir, que no es calentada directamente por la radiación solar, sino de manera indirecta a través de la reflexión de dicha radiación en el suelo y en la superficie de mares y océanos.
+
+Los fotones según su energía o longitud de onda son capaces de:
+Fotoionizar la capa externa de electrones de un átomo (requiere una longitud de onda de 0,1 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+  ).
+Excitar electrones de un átomo a una capa superior (requiere longitudes de onda de entre 0,1 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+   y 1 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+  ).
+Disociar una molécula (requiere longitudes de onda de entre 0,1 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+   y 1 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+  ).
+Hacer vibrar una molécula (requiere longitudes de onda de entre 1 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+   y 50 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+  ).
+Hacer rotar una molécula (requiere longitudes de onda mayores que 50 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+  ).La energía solar tiene longitudes de onda de entre 0,15 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+   y 4 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+  , por lo que puede ionizar un átomo, excitar electrones, disociar una molécula o hacerla vibrar.
+La energía térmica de la Tierra (radiación infrarroja) 3 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+   a 80 
+  
+    
+      
+        μ
+        m
+      
+    
+    {\displaystyle \mu m}
+  , por lo que solo puede hacer vibrar o rotar moléculas, es decir, calentar la atmósfera.
+
+
+== La energía solar como motor de la atmósfera ==
+La energía recibida del sol, después de atravesar la atmósfera de la Tierra casi sin calentarla por el efecto de la diatermancia de la atmósfera, es reflejada por la superficie terrestre y calienta el aire de la capa inferior de la atmósfera perdiendo esa capacidad de calentamiento con rapidez con la altura, lo cual se debe a que la irradiación del calor (rayos infrarrojos) a partir de la superficie terrestre hacia arriba tiene un alcance relativamente limitado, por la mayor longitud de onda, provocando alteraciones en la densidad de los gases y, por consiguiente, desequilibrios que causan la circulación atmosférica. Esta energía produce la temperatura en la superficie terrestre, y el efecto de la atmósfera es mitigar la diferencia de temperaturas entre el día y la noche y entre las distintas zonas geoastronómicas de nuestro planeta.
+Casi la totalidad de la energía utilizada por los seres vivos procede del Sol. Las plantas la absorben directamente y realizan la fotosíntesis, los herbívoros absorben indirectamente una pequeña cantidad de esta energía comiendo las plantas, y los carnívoros absorben indirectamente una cantidad más pequeña comiendo a otros animales.
+Así pues, la mayoría de las fuentes de energía usadas por el hombre derivan indirectamente del Sol. Los combustibles fósiles preservan energía solar capturada hace millones de años mediante la fotosíntesis. La energía hidroeléctrica usa la energía potencial del agua que, a través del ciclo hidrológico, pasa por los tres estados físicos de la materia (evaporación del agua oceánica, condensación, precipitación y escurrimiento o escorrentía), con lo que se puede aprovechar dicha fuente de energía mediante represas y saltos de agua. La energía eólica es otra forma de aprovechamiento de la radiación solar, ya que ésta, al calentar con diferente intensidad distintas zonas de la superficie terrestre, da origen a los vientos, que pueden ser utilizados para generar electricidad, mover embarcaciones, bombear las aguas subterráneas y otros muchos usos.
+
+
+== Efectos sobre la salud ==
+
+La exposición exagerada a la radiación solar puede ser perjudicial para la salud. Esto está agravado por el aumento de la expectativa de vida humana, que está llevando a toda la población mundial a permanecer más tiempo expuesto a las radiaciones solares, lo que aumenta el riesgo de desarrollar cáncer de piel.
+La radiación ultravioleta es emitida por el Sol en longitudes de onda que van aproximadamente desde los 150 nm (1500 Å), hasta los 400 nm (4000 Å), en las formas UV-A, UV-B y UV-C, pero a causa de la absorción por parte de la atmósfera terrestre, el 99 % de los rayos ultravioletas que llegan a la superficie de la Tierra son del tipo UV-A. Ello nos libra de la radiación ultravioleta más peligrosa para la salud. La atmósfera ejerce una fuerte absorción que impide que la atraviese toda radiación con longitud de onda inferior a 290 nm (2900 Å). La radiación UV-C no llega a la tierra porque es absorbida por el oxígeno y el ozono de la atmósfera, por lo tanto no produce daño. La radiación UV-B es parcialmente absorbida por el ozono y llega a la superficie de la tierra, produciendo daño en la piel. Ello se ve agravado por el agujero de ozono que se produce en los polos del planeta.
+
+
+== Dirección de incidencia de la irradiación solar ==
+El estudio de la dirección con la cual incide la irradiación solar sobre los cuerpos situados en la superficie terrestre es de especial importancia cuando se desea conocer su comportamiento al ser reflejada. La dirección en que el rayo salga reflejado dependerá de la incidente.
+Con tal fin se establece un modelo que distingue entre dos componentes de la irradiación incidente sobre un punto: la irradiación solar directa y la irradiación solar difusa.
+
+Irradiación solar directa. es aquella que llega al cuerpo desde la dirección del Sol.
+Irradiación solar difusa. es aquella cuya dirección ha sido modificada por diversas circunstancias (densidad atmosférica, partículas u objetos con los que choca, reemisiones de cuerpos, etc.). Por sus características, esta luz se considera venida de todas direcciones. En un día nublado, por ejemplo, solo tenemos radiación difusa.La suma de ambas es la irradiación total (o global) incidente. La superficie del planeta está expuesta a la radiación proveniente del Sol. La tasa de irradiación depende en cada instante del ángulo que forman la normal a la superficie en el punto considerado y la dirección de incidencia de los rayos solares. Por supuesto, dada la lejanía del Sol respecto de nuestro planeta podemos suponer, con muy buena aproximación, que los rayos del Sol inciden esencialmente paralelos sobre el planeta. No obstante, en cada punto del mismo, localmente considerado, la inclinación de la superficie respecto a dichos rayos depende de la latitud y de la hora del día para una cierta localización en longitud. Dicha inclinación puede definirse a través del ángulo que forman el vector normal a la superficie en dicho punto y el vector paralelo a la dirección de incidencia de la radiación solar.
+Debemos evitar la exposición prolongada al sol, puesto que esta representa una agresión contra la piel que puede producir el envejecimiento de la misma, la aparición de manchas o arrugas y es la responsable de la aparición de melanomas o cánceres de piel. Una exposición moderada al sol, especialmente los primeros días una protección del sol con la ropa adecuada, o el uso de cremas solares son la mejor prevención contra quemaduras producidas por el sol.
+
+
+== Radiación solar en el planeta Tierra ==
+La mayor parte de la energía que llega a nuestro planeta procede del Sol. El Sol emite energía en forma de radiación electromagnética. Estas radiaciones se distinguen por sus diferentes longitudes de onda. Algunas, como las ondas de radio, llegan a tener longitudes de onda de kilómetros, mientras que las más energéticas, como los rayos X o las radiaciones gamma, tienen longitudes de onda de milésimas de nanómetro.
+La radiación en el Sol es de 63 450 720 W/m². La energía que llega al exterior de la atmósfera terrestre sobre una superficie perpendicular a los rayos solares lo hace en una cantidad fija, llamada constante solar (1353 W/m² según la NASA) variable durante el año un ± 3 % a causa de la elipticidad de la órbita terrestre.[1]​ Esta energía es una mezcla de radiaciones de longitudes de onda entre 200 nm y 4000 nm, que se distingue entre radiación ultravioleta, luz visible y radiación infrarroja.
+
+
+=== Radiación ultravioleta ===
+Es la radiación que tiene menor longitud de onda (360 nm), la cual lleva mucha energía e interfiere con los enlaces moleculares. Especialmente las de menos de 300 nm, que pueden alterar las moléculas de ADN, muy importantes para la vida. Estas ondas son absorbidas por la parte alta de la atmósfera, especialmente por la capa de ozono.
+Es importante protegerse de este tipo de radiación, ya que por su acción sobre el ADN está asociada con el cáncer de piel. Solo las nubes tipo cúmulos de gran desarrollo vertical atenúan estas radiaciones prácticamente a cero. El resto de las formaciones, tales como cirrus, estratos y cúmulos de poco desarrollo vertical, no las atenúan, por lo que es importante la protección aún en días nublados. Es importante tener especial cuidado cuando se desarrollan nubes cúmulos, ya que éstas pueden llegar a actuar como espejos y difusores e incrementar las intensidades de los rayos ultravioleta y, por consiguiente, el riesgo solar. Algunas nubes tenues pueden tener el efecto de lupa.
+
+
+=== Radiación infrarroja ===
+La radiación infrarroja de más de 760 nm es la que corresponde a longitudes de onda más largas, y lleva poca energía asociada. Su efecto aumenta la agitación de las moléculas, provocando el aumento de la temperatura. El CO2, el vapor de agua y las pequeñas gotas de agua que forman las nubes absorben con mucha intensidad las radiaciones infrarrojas.
+La atmósfera se desempeña como un filtro, ya que mediante sus diferentes capas distribuye la energía solar para que a la superficie terrestre solo llegue una pequeña parte de esa energía. La parte externa de la atmósfera absorbe parte de las radiaciones, reflejando el resto directamente al espacio exterior, mientras que otras pasarán a la Tierra y luego serán irradiadas. Esto produce el denominado balance térmico, cuyo resultado es el ciclo del equilibrio radiante.
+Según el tipo de radiación se conoce que de los 324 W/m² que llegan a la Tierra, en la parte alta de la atmósfera (1400 W/m² es la constante solar); 236 W/m² son reemitidos al espacio en forma de radiación infrarroja, 86 W/m² son reflejados por las nubes y 2 W/m² son reflejados por el suelo en forma de radiaciones de onda corta. Pero el reenvío de energía no se hace directamente, sino que parte de la energía reemitida es absorbida por la atmósfera originándose el efecto invernadero.
+
+
+== Comportamiento de la atmósfera y el suelo frente a la radiación ==
+La atmósfera terrestre está compuesta por numerosas partículas de materia, presenta unos 10 000 km de altura y se divide en diferentes capas concéntricas:
+
+
+=== Troposfera ===
+Es la zona inferior de la atmósfera que se extiende desde el nivel del mar hasta unos 16 km. Es una capa muy densa, en ella se encuentra más del 75 % del aire de la atmósfera, además contiene mucho vapor de agua condensado en forma de nubes, y gran cantidad de polvo. A ella llegan la luz visible y los rayos UV que logran atravesar el resto de las capas de la atmósfera. Es la primera capa que queda en contacto con la corteza terrestre.
+
+
+=== Estratosfera ===
+Tiene un espesor aproximado de 60 km y se encuentra por encima de la troposfera. Es una capa tenue donde los vapores de agua y polvo disminuyen bastante con relación a los encontrados en la troposfera. En esta zona es abundante la concentración de anhídrido carbónico (CO2) que tiene la propiedad de evitar el paso de las irradiaciones a la Tierra. Hacia el medio de la estratosfera se encuentra una capa de unos 15 km de espesor con abundante ozono, que algunos autores denominan ozonosfera, es la capa que absorbe casi toda la radiación ultravioleta proveniente del Sol. El ozono, O3, absorbe con gran eficacia las radiaciones comprendidas entre 200 y 330 nm, por lo que la radiación ultravioleta de menos de 300 nm que llega a la superficie de la Tierra es insignificante.
+
+
+=== Mesosfera ===
+Presenta alrededor de unos 20 km de espesor. Sus capas superiores presentan abundantes concentraciones de sodio. La temperatura en esta capa se encuentra entre -70 y 90 °C. En ella se encuentra la capa D, que tiene la propiedad de reflejar las ondas largas de radio durante el día y desaparece durante la noche. Esta es la causa por la cual las ondas medias son interrumpidas durante el día y puedan reanudarse una vez que se pone el Sol. Al desaparecer la capa D, permite seguir el paso de las otras ondas hacia las capas superiores.
+
+
+=== Ionosfera ===
+Es una zona parcialmente ionizada de radiaciones solares, de gran conductividad eléctrica. En esta capa se reflejan hacia la tierra las ondas de radio, por lo que es de gran utilidad en las telecomunicaciones.
+
+
+== Tipo de energía absorbida ==
+
+
+=== Energía absorbida por la atmósfera ===
+En unas condiciones óptimas con un día perfectamente claro y con los rayos del Sol cayendo casi perpendiculares, las tres cuartas partes de la energía que llega del exterior alcanza la superficie. Casi toda la radiación ultravioleta y gran parte de la infrarroja son absorbidas por la atmósfera. La energía que llega al nivel del mar suele ser radiación infrarroja un 49 %, luz visible un 42 % y radiación ultravioleta un 9 %. En un día nublado se absorbe un porcentaje mucho más alto de energía, especialmente en la zona del infrarrojo.
+
+
+=== Energía absorbida por la vegetación ===
+La vegetación absorbe en todo el espectro, pero especialmente en la zona del visible, aprovechando parte de esa energía para la fotosíntesis.
+
+
+=== Balance total de energía y efecto invernadero ===
+
+La temperatura media en la Tierra se mantiene prácticamente constante en unos 15 °C, pero la que se calcula que tendría, si no existiera la atmósfera, sería de unos -18 °C. Esta diferencia de 33 °C tan beneficiosa para la vida en el planeta se debe al efecto invernadero. El motivo por el que la temperatura se mantiene constante es porque la Tierra devuelve al espacio la misma cantidad de energía que recibe. Si la energía devuelta fuera algo menor que la recibida se iría calentando paulatinamente y si devolviera más se iría enfriando.
+Por tanto la explicación del efecto invernadero no está en que parte de la energía recibida por la Tierra se quede definitivamente en el planeta. La explicación está en que se retrasa su devolución porque, aunque la cantidad de energía retornada es igual a la recibida, el tipo de energía que se retorna es distinto. Mientras que la energía recibida es una mezcla de radiación ultravioleta, visible e infrarroja, la energía que devuelve la Tierra es fundamentalmente infrarroja y algo de visible.
+Las radiaciones que llegan del Sol vienen de un cuerpo que está a 6000 °C, pero las radiaciones que la superficie devuelve tienen la composición de longitudes de onda correspondientes a un cuerpo negro que esté a 15 °C. Por este motivo las radiaciones reflejadas tienen longitudes de onda de menor frecuencia que las recibidas. Están en la zona del infrarrojo y casi todas son absorbidas por el CO2, el vapor de agua, el metano y otros gases, por lo que se forma el efecto invernadero. Así se retrasa la salida de la energía desde la Tierra al espacio y se origina el llamado efecto invernadero que mantiene la temperatura media en unos 15 °C y no en los -18 °C que tendría si no existiera la atmósfera.
+
+
+=== Aumento de la temperatura global ===
+Durante el siglo XX se ha constatado un aumento de la temperatura global y se estima que continúe así en los próximos decenios, esto preocupa al mundo científico y genera inquietudes en los más diversos ámbitos, ya que el calentamiento influye sobre el clima y por ende sobre la producción de alimentos, la salubridad mundial y en la economía en general. Pero no solo la temperatura ha aumentado, también han aumentado en la atmósfera el CO2 en un 25 %; el CH4 un 100 %; el N2O un 10 %. Más recientemente han aparecido los clorofluorocarbonados o CFC, freón 11 y 12 principalmente.
+La causa del aumento de estos gases en la atmósfera es claramente consecuencia de la actividad humana: calefacción, industria, agricultura y transporte. Causa y a la vez efecto del aumento de la población desde la década de los años 1920. La acumulación de estos gases contribuye a aumentar el calentamiento.
+
+
+=== Energía interna de la Tierra ===
+La temperatura va aumentando con el aumento de la profundidad en el interior de la Tierra —también la presión aumenta con la profundidad hasta alcanzar valores enormes— y llega a ser de alrededor de 5000 °C en el núcleo interno. La fuente de energía que mantiene estas temperaturas es, principalmente, la descomposición radiactiva de elementos químicos del manto. Esta energía interna es responsable de las corrientes de convección que mueven las placas litosféricas, por lo que tiene importantes repercusiones en muchos procesos superficiales: volcanes, terremotos, movimiento de los continentes y formación de montañas, entre otros.
+
+
+== Radiación cósmica ==
+A la parte alta de la atmósfera llega una radiación de longitudes de onda muy cortas que proceden de diferentes puntos del Universo. La llamada radiación cósmica primaria está formada por electrones de alta energía. Cuando incide sobre las moléculas que se encuentran en la alta atmósfera se convierte en radiación secundaria que son rayos ultravioleta. Las moléculas de oxígeno (O2) absorben las radiaciones primaria y secundaria de menos de 200 nm convirtiéndose en ozono (O3). A su vez el ozono absorbe las radiaciones de hasta 300 nm y, de esta manera, gracias al oxígeno y al ozono, la Tierra se encuentra protegida contra las radiaciones cósmicas más peligrosas.
+
+
+== Las sustancias radiactivas ==
+La llamada radiactividad está formada por un conjunto de radiaciones de onda muy corta y, por tanto, de mucha energía y gran capacidad de penetración. Su origen puede ser natural, pero las mediciones indican que han aumentado en los últimos años por algunas actividades humanas, sobre todo por las explosiones nucleares. Estas radiaciones, bien usadas, son muy útiles en medicina, la industria e investigación científica. Tienen muchas aplicaciones y se usan para curar cánceres hasta para revisar soldaduras o esterilizar alimentos. Sin embargo, la contaminación con sustancias radiactivas es especialmente peligrosa, porque cantidades minúsculas pueden emitir radiaciones mortales o muy dañinas.
+
+
+== Aplicaciones de la energía solar ==
+Entre las múltiples aplicaciones de la energía solar se encuentran su aprovechamiento como luz directa, como fuente de calor o de energía y en la generación de electricidad principalmente, a continuación se amplia cada uno de estos usos:
+
+
+=== Directa ===
+Una de las aplicaciones de la energía solar es directamente como luz solar, por ejemplo, para la iluminación. Otra aplicación directa, muy común, es el secado de ropa y algunos productos en procesos de producción con tecnología simple.
+
+
+=== Bombas de calor ===
+Las bombas de calor bombean la energía del aire calentado por el sol y la transfieren para cubrir diferentes usos. Calefacción, A.C.S, etc.[2]​
+
+
+=== Térmica ===
+La energía solar puede utilizarse para el calentamiento de algún sistema que posteriormente permitirá la climatización de viviendas, calefacción, refrigeración, secado, entre otros, son aplicaciones térmicas. Actualmente existen diversas Centrales Solares Térmicas generando energía en el mundo, cuya base de funcionamiento es el uso indirecto de la energía solar. Ver central térmica solar.
+
+
+=== Fotovoltaica ===
+
+La energía solar fotovoltaica es una fuente de energía que produce electricidad de origen renovable, obtenida directamente a partir de la radiación solar mediante un dispositivo semiconductor denominado célula fotovoltaica,​ o bien mediante una deposición de metales sobre un sustrato denominada célula solar de película fina.
+Este tipo de energía se usa principalmente para producir electricidad a gran escala a través de redes de distribución, aunque también permite alimentar innumerables aplicaciones y aparatos autónomos, así como abastecer refugios de montaña o viviendas aisladas de la red eléctrica. Debido a la creciente demanda de energías renovables, la fabricación de células solares e instalaciones fotovoltaicas ha avanzado considerablemente en los últimos años. Comenzaron a producirse en masa a partir del año 2000, cuando medioambientalistas alemanes y la organización Eurosolar obtuvo financiación para la creación de diez millones de tejados solares.
+La electricidad que se obtiene de esta manera puede usarse de forma directa (por ejemplo para sacar agua de un pozo o para regar, mediante un motor eléctrico), o bien ser almacenada en acumuladores para usarse en las horas nocturnas. Incluso es posible inyectar la electricidad sobrante a la red general, obteniendo un importante beneficio. Las células solares están hechas con obleas (láminas) finas de silicio, arseniuro de galio u otro.
+
+
+=== Hornos solares ===
+Los hornos solares son una de las muchas aplicaciones importantes de los concentradores de alta temperatura. El mayor está situado en Odeillo, en la parte francesa de los Pirineos, tiene 9600 reflectores con una superficie total de unos 1900 m² para producir temperaturas de hasta 4000 °C. Estos hornos son ideales para investigaciones, por ejemplo, en la investigación de materiales, que requieren temperaturas altas en entornos libres de contaminantes.
+
+
+=== Enfriamiento solar ===
+Se puede producir frío con el uso de energía solar como fuente de calor en un ciclo de enfriamiento por absorción. Uno de los componentes de los sistemas estándar de enfriamiento por absorción, llamado generador, necesita una fuente de calor. En general, se requieren temperaturas superiores a 150 °C para que los dispositivos de absorción trabajen con eficacia, los colectores de concentración son más apropiados que los de placa plana.
+
+
+== Notas y referencias ==
+
+
+== Enlaces externos ==
+https://web.archive.org/web/20071110204422/http://www.prodiversitas.bioetica.org/des44.htm
+Radiación solar en Ciudad de México
+
+
+== Véase también ==
+Sol
+Energía solar
+Energía solar espacial
+Luz solar
+Atmósfera
+Viento solar
+Intensidad de radiación solar ultravioleta

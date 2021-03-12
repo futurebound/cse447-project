@@ -1,0 +1,497 @@
+Die Methanisierung ist eine chemische Reaktion, bei der Kohlenstoffmonoxid oder Kohlenstoffdioxid in Methan umgewandelt wird. Die Reaktion von Kohlenstoffdioxid zu Methan und Wasser wird auch als Sabatier-Prozess oder die Sabatier-Reaktion bezeichnet. Sie wurde 1902 von Paul Sabatier und Jean Baptiste Senderens entdeckt. Sabatier wurde für seine Arbeiten zur Hydrierung mittels Metallen 1912 zusammen mit Victor Grignard mit dem Nobelpreis für Chemie geehrt.
+
+
+== Geschichte ==
+Die Bildung von Methan aus Kohlendioxid-Kohlenmonoxid-Wasser-Gemischen mittels elektrischer Entladung entdeckte 1872 Brodie. Die katalytische Umwandlung fanden 1902 Sabatier und Senderens, die auch viele andere katalytische Hydrierungen entwickelten (Sabatier erhielt dafür den Nobelpreis). Erste Patente erhielten H. S. Ellworthy und H. W. Williamson 1904/05 (in England und Deutschland) und die ersten Versuche der technischen Umsetzung unternahm man in England 1909 bis 1911 bei der Stadtgas-Reinigung (Cedford-Prozess, der damals aber nicht zu industrieller Reife gelangte).
+
+
+== Reaktion ==
+
+Bei dieser Reaktion reagiert Kohlenstoffmonoxid oder Kohlenstoffdioxid bei Temperaturen von 300 bis 700 °C mit Wasserstoff zu Methan und Wasser. Diese Reaktion ist exotherm, muss jedoch durch einen Katalysator beschleunigt werden. Hierzu dienen meist Nickelkatalysatoren, die mit verschiedenen Promotoren und Stabilisatoren wie Aluminiumoxid und Zirconiumdioxid verbessert sind, es wurde aber auch die katalytische Wirkung von Ruthenium untersucht. Die Reaktion wird durch folgende Reaktionsgleichungen beschrieben:
+Reaktion mit Kohlenstoffmonoxid
+
+  
+    
+      
+        
+          C
+          O
+          +
+          3
+          
+          
+            H
+            
+              2
+            
+          
+          →
+          C
+          
+            H
+            
+              4
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+        
+        Δ
+        
+          H
+          
+            0
+          
+        
+        =
+        −
+        206
+        
+          ,
+        
+        2
+        
+        
+          k
+          J
+          
+            /
+          
+          m
+          o
+          l
+        
+      
+    
+    {\displaystyle \mathrm {CO+3\;H_{2}\rightarrow CH_{4}+H_{2}O} \qquad \Delta H^{0}=-206{,}2\,\mathrm {kJ/mol} }
+  .Reaktion mit Kohlenstoffdioxid
+
+  
+    
+      
+        
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          4
+          
+          
+            H
+            
+              2
+            
+          
+          →
+          C
+          
+            H
+            
+              4
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+          
+          O
+        
+        
+        Δ
+        
+          H
+          
+            0
+          
+        
+        =
+        −
+        165
+        
+          ,
+        
+        0
+        
+        
+          k
+          J
+          
+            /
+          
+          m
+          o
+          l
+        
+      
+    
+    {\displaystyle \mathrm {CO_{2}+4\;H_{2}\rightarrow CH_{4}+2\;H_{2}O} \qquad \Delta H^{0}=-165{,}0\,\mathrm {kJ/mol} }
+  Die Reaktion verläuft stark exotherm: Pro Volumen-% CO2 beträgt die Temperaturerhöhung 60 K (erster Fall).
+Bei erhöhter Temperatur und erhöhtem Druck läuft die Reaktion unter Verwendung eines Nickel-Katalysators ab, effektiver ist die Verwendung von Ruthenium auf einem Aluminiumoxid-Substrat. Oft ist auch eine Methanisierung in Verbindung mit einer Wasserelektrolyse technisch relevant, da sich so Methan und Sauerstoff erzeugen lassen (siehe Power-to-Gas).
+Die Reaktionsgleichung lautet dann
+
+  
+    
+      
+        
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          4
+          
+          
+            H
+            
+              2
+            
+          
+          →
+          C
+          
+            H
+            
+              4
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+          
+          O
+          →
+          C
+          
+            H
+            
+              4
+            
+          
+          +
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {CO_{2}+4\;H_{2}\rightarrow CH_{4}+2\;H_{2}O\rightarrow CH_{4}+O_{2}+2\;H_{2}} }
+  .In der Natur ist die Reduktion von Kohlenstoffdioxid zu Methan eine weit verbreitete Form des mikrobiologischen Metabolismus. Die Methanogenese bei Mikroben aus der Domäne Archaea ist eine Form der anaeroben Atmung, bei der Kohlenstoffdioxid mit Wasserstoff Methan bildet. Der Elektronenakzeptor ist bei dieser Form der Atmung nicht Sauerstoff, sondern Kohlenstoff.
+
+
+== Anwendung ==
+Die Methanisierung wird nicht zur großtechnischen Gewinnung von Methan genutzt, da dieses billig aus Erdgas zur Verfügung steht. Sie spielt eine Rolle beim Entfernen von Kohlenstoffmonoxid-Spuren, die in manchen Prozessen als Katalysatorgift wirken. Dies ist beispielsweise bei der Ammoniak-Synthese im Haber-Bosch-Verfahren der Fall, bei dem der verwendete Wasserstoff möglichst arm an Kohlenstoffmonoxid sein muss. Aus Gasen mit hohem CO-Anteil kann durch Methanisierung Synthetic Natural Gas gewonnen werden.
+
+
+=== Umwandlung und Speicherung von Strom ===
+
+Ein neuer Ansatz ist die Umwandlung von Strom zu synthetischem Erdgas. Dabei wird mit überschüssigem Strom zunächst Wasserstoff durch Elektrolyse mit einem Wirkungsgrad von 57 bis 73 Prozent erzeugt. Mit der Methanisierung wird anschließend Wasserstoff und Kohlenstoffdioxid zu Methan umgewandelt, wobei das Methan (CH4) vor Ort gespeichert oder in Erdgasleitungen eingespeist und in großen Erdgasspeichern zwischengelagert werden kann. Beim Verbrennen in der z. Z. (2011) modernsten Gasturbine SGT5-8000H, ist der Wirkungsgrad 60,3 % und somit der Verlust in diesem Prozessabschnitt 39,7 %.Eine vom Zentrum für Sonnenenergie- und Wasserstoff-Forschung Baden-Württemberg (ZSW) in Stuttgart und dem Fraunhofer-Institut für Windenergie und Energiesystemtechnik (IWES) in Kassel entwickelte und unter Beteiligung der SolarFuel GmbH errichtete Demonstrationsanlage mit einer elektrischen Anschlussleistung von 25 Kilowatt war seit 2009 am ZSW in Betrieb. CO2-Quelle war hierbei die Umgebungsluft. Die in einem Container transportabel aufgebaute Anlage wurde Anfang 2011 für längere Zeit auch am CO2-Abluftstrom der Biogasaufbereitung einer Biogasanlage der EWE AG in Werlte sowie am Rohbiogasstrom einer Biogasanlage der Energielandschaft Morbach betrieben. Der Nachweis der Erzeugung eines DVGW-konformen Erdgassubstitutes wurde in allen Fällen erbracht.
+Im Rahmen des anschließenden, vom 1. April 2011 bis 31. März 2014 laufenden, vom Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit geförderten Verbundprojektes Power-to-Gas wurde im Oktober 2012 in Stuttgart vom ZSW unter Beteiligung von IWES und SolarFuel eine 250-kW-Forschungsanlage in Betrieb genommen. In ihr soll insbesondere die Anlagentechnik zur schnellen dynamischen Regelung erprobt werden, die für den sinnvollen Einsatz einer solchen Anlage zur Kompensation der Stromerzeugungsschwankungen der Photovoltaik und Windenergie erforderlich ist. Mit dieser Anlage ist gleichzeitig die Vorstufe zur industriellen Nutzung erreicht. Bei Anlagengrößen zwischen ein und 20 Megawatt wird ein wirtschaftlicher Betrieb erwartet. Ziel des Projekts ist, die Grundlagen für die Inbetriebnahme einer ersten von Audi zur Erzeugung von Gas für Kraftfahrzeuge genutzten 6-Megawatt-Pilotanlage am Standort der Biogasanlage Werlte des Projektpartners EWE zu schaffen, deren Errichtung durch SolarFuel bereits begonnen hat. Das Gas wird über das öffentliche Erdgasnetz zu den Gastankstellen geführt werden, für den Strom aus erneuerbarer Energie investiert Audi zusätzlich in vier Windkraftanlagen im Offshore-Windpark Riffgat.Eine technische Anwendung der Methanisierung mit voraussichtlich zunehmender Bedeutung ist die Erzeugung von Wind- bzw. Solargas, wo nach vorhergehender Wasserelektrolyse unter Verwendung regenerativer Energien Methan als Synthetic Natural Gas gewonnen wird. Energiewirtschaftlich sinnvoll ist eine Methanisierung von Wasserstoff jedoch erst, wenn die derzeit noch in großem Maßstab genutzte Wasserstoffproduktion aus fossilem Erdgas vollständig auf Elektrolysewasserstoff aus erneuerbaren Energien umgestellt wurde, da sonst gleichzeitig Wasserstoff aus fossilem Methan/Erdgas und künstliches Methan aus Wasserstoff erzeugt würde. Im Jahr 2010 verbrauchte die deutsche Industrie mehr als 60 TWh Wasserstoff.
+
+
+=== Lebenserhaltende Systeme von Raumfahrzeugen und Raumstationen ===
+
+Zurzeit wird auf der Internationalen Raumstation Sauerstoff aus der Elektrolyse von Wasser gewonnen. Hierbei wird der überschüssige Wasserstoff ins All entlassen. Bei dem Verbrauch des Sauerstoffes durch die Astronauten wird Kohlenstoffdioxid frei, welches chemisch gebunden, und so dem Prozess entnommen wird. Diese Lösung setzt voraus, dass regelmäßig relativ große Mengen an Wasser zur ISS transportiert werden, welche dann zur Sauerstoffgewinnung, aber auch für den Verzehr, Hygiene und Weiteres verwendet werden. Bei der Planung zukünftiger, längerer Missionen und zur Verringerung des Wasserbedarfs werden Alternativen zu dem bisherigen Konzept untersucht.
+Beispielsweise erforscht die NASA zurzeit die Anwendung der Methanisierung, um das Wasser in dem ausgeatmeten „Wasserdampf“ zurückzugewinnen. Ferner soll das CO2 mit 2 H2 (H2 aus der Elektrolyse, die von Solarstrom gespeist wird) zu Wasser reagieren, wobei, ungewollt, Methan (CH4) entsteht. Dieses zusätzliche Produkt würde vermutlich ins All entlassen. Da die Hälfte des benötigten Wasserstoffes in Form von Methan verlorengehen würde, müsste Wasserstoff in regelmäßigen Abständen nachgeliefert werden. Dennoch würde so der Kreislauf deutlich besser geschlossen und entsprechend wenig Wasserstoff im Vergleich zum bisherigen Prozess, der das deutlich schwerere Wasser verwendet, benötigt.
+Die Reaktionsgleichungen des Prozesses stellen sich wie folgt dar:
+
+  
+    
+      
+        
+          2
+          
+          
+            H
+            
+              2
+            
+          
+          O
+          →
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+          
+          →
+          (
+          A
+          t
+          m
+          u
+          n
+          g
+          )
+          →
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+          
+          (
+          h
+          i
+          n
+          z
+          u
+          g
+          e
+          f
+          
+            
+              
+                u
+                ¨
+              
+            
+          
+          g
+          t
+          )
+          →
+          2
+          
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          C
+          
+            H
+            
+              4
+            
+          
+          (
+          e
+          n
+          t
+          n
+          o
+          m
+          m
+          e
+          n
+          )
+        
+      
+    
+    {\displaystyle \mathrm {2\;H_{2}O\rightarrow O_{2}+2\;H_{2}\rightarrow (Atmung)\rightarrow CO_{2}+2\;H_{2}+2\;H_{2}(hinzugef{\ddot {u}}gt)\rightarrow 2\;H_{2}O+CH_{4}(entnommen)} }
+  Die Bosch-Reaktion, welche über den direkten Weg
+
+  
+    
+      
+        
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+          
+          →
+          C
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+          
+          O
+        
+        ,
+        
+        Δ
+        
+          H
+          
+            0
+          
+        
+        =
+        −
+        178
+        
+          ,
+        
+        3
+        
+        
+          k
+          J
+          
+            /
+          
+          m
+          o
+          l
+        
+      
+    
+    {\displaystyle \mathrm {CO_{2}+2\;H_{2}\rightarrow C+2\;H_{2}O} ,\qquad \Delta H^{0}=-178{,}3\,\mathrm {kJ/mol} }
+  Wasser erzeugt, wird auch für die beschriebene Anwendung untersucht. Die Abscheidung von festem Kohlenstoff auf dem Katalysator bereitet zurzeit jedoch noch Probleme, da durch diese die effektive Fläche des Katalysators herabgesetzt wird.
+
+
+=== Herstellung von Raketentreibstoff auf dem Mars ===
+Die Methanisierung mit nachgeschalteter Elektrolyse des Wassers bietet theoretisch die Möglichkeit, Treibstoff in Form von Methan und Sauerstoff aus auf dem Mars vorhandenen Ressourcen zu gewinnen. Verbraucht würde aus den Eiskappen an den Polen gewonnener Wasserstoff sowie Kohlenstoffdioxid, welches den Hauptbestandteil der Marsatmosphäre bildet. Die stöchiometrische Mischung der Treibstoffkomponenten liegt bei 3,5 : 1 (Massenanteile) Sauerstoff zu Methan, wobei durch die einfache Methanisierung lediglich ein Wert von 2 : 1 erreicht wird. Um die Sauerstoffausbeute zu erhöhen, bietet es sich an, zusätzlich die Wassergas-Shift-Reaktion in umgekehrter Reihenfolge ablaufen zu lassen, wobei sich folgende Reaktionsgleichung ergibt
+
+  
+    
+      
+        
+          3
+          
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          6
+          
+          
+            H
+            
+              2
+            
+          
+          →
+          C
+          
+            H
+            
+              4
+            
+          
+          +
+          2
+          
+          C
+          O
+          +
+          4
+          
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {3\;CO_{2}+6\;H_{2}\rightarrow CH_{4}+2\;CO+4\;H_{2}O} }
+  .Die Reaktion ist leicht exotherm, und durch Elektrolyse des Wassers ließe sich ein Mischungsverhältnis von 4 : 1 (leichter Sauerstoffüberschuss) erreichen.
+Alternativ ließe sich das bei der Methanisierung erzeugte Methan teilweise pyrolysieren (siehe vorheriger Abschnitt). Der entstehende Wasserstoff könnte erneut in der Methanisierung verwendet werden, um das gewünschte Produktmengen-Verhältnis zu erreichen.
+
+
+=== Analytik ===
+Im Bereich der Gaschromatographie wird die Methanisierung eingesetzt, um einzelne Analyten mit Detektoren nachweisen zu können, die in der speziellen Anwendung Vorteile haben, beispielsweise weil sie kostengünstiger sind oder höhere Nachweisempfindlichkeiten ermöglichen als vergleichbare Detektionsverfahren, die ohne eine chemische Umwandlung der Analyten auskämen.
+In der Praxis wird dazu das Analysengemisch auf der chromatographischen Trennsäule zunächst in Einzelkomponenten aufgetrennt und diese dann in einem Methanisierungsprozess zu Methan reduziert. Die Reduktion findet in einer beheizten, mit Katalysator gefüllten Kapillarsäule statt, deren Ausgang direkt mit dem Detektor verknüpft ist. So können beispielsweise Kohlenstoffdioxid, Kohlenstoffmonoxid oder Formaldehyd als Methan mit einem Flammenionisationsdetektor bestimmt werden, der etwa 500-fach empfindlicher ist, als ein Wärmeleitfähigkeitsdetektor, mit dem die Substanzen auch ohne Reduktion nachweisbar wären.
+
+
+== Siehe auch ==
+Biologische Methanisierung
+
+
+== Literatur ==
+Eintrag zu Methanisierung. In: Römpp Online. Georg Thieme Verlag, abgerufen am 16. Juni 2014.
+Heinz Hiller et al.: Gas Production. In: Ullmann's Encyclopedia of Industrial Chemistry. Wiley-VCH, Weinheim 2001, doi:10.1002/14356007.a12_169.pub2.
+Jens Sehested, Søren Dahl, Joachim Jacobsen, Jens R. Rostrup-Nielsen: Methanation of CO over Nickel: Mechanism and Kinetics at High H2/CO Ratios. In: J. Phys. Chem. B. 2005, 109, 6, S. 2432–2438, doi:10.1021/jp040239s.
+
+
+== Weblinks ==
+NASA Seite zum Thema
+NASA Seite zur Sauerstoffproduktion (Memento vom 19. Oktober 2011 im Internet Archive)
+Entwicklung eines verbesserten Sabatier-Reaktors
+Verbesserung der Sabatier-Reaktion für In Situ Anwendungen auf Mars-Missionen (Memento vom 17. Juli 2012 im Internet Archive) (PDF-Datei; 1,1 MB)
+Energielandschaft Morbach
+
+
+== Einzelnachweise ==

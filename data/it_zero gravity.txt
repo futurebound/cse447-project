@@ -1,0 +1,64 @@
+L'assenza di peso è la condizione che sperimenta un corpo in caduta libera. Nella teoria newtoniana della gravitazione, un osservatore solidale con l'oggetto in caduta libera non è inerziale, le forze apparenti dovute alla non inerzialità del sistema di riferimento bilanciano la forza di gravità e la risultante delle forze è nulla. Viceversa, le moderne teorie della gravitazione (nello specifico, la Relatività generale) incorporano il principio di equivalenza; questo asserisce che non sia possibile distinguere tra forze gravitazionali e forze apparenti. In altri termini, nella descrizione relativistica, la forza peso è essa stessa una forza apparente, e l'osservatore inerziale è quello in caduta libera.
+
+Per esempio, un proiettile sparato da un cannone (se si può trascurare l'attrito dell'aria) è in caduta libera, così come una stazione spaziale in orbita (con i suoi occupanti). Le linee di universo di questi oggetti, le cui proiezioni sullo spazio tridimensionale sono una parabola e un'orbita ellittica, sono geodetiche per la metrica spazio-temporale che rappresenta il campo gravitazionale attorno alla Terra.
+Si può sperimentare l'assenza di peso in aereo se questo percorre una traiettoria parabolica che imiti quella di un oggetto in caduta libera. A tale scopo vengono usati velivoli allestiti in modo specifico per questi voli, come, ad esempio, i Boeing 727-700 e i C-9 della NASA.
+
+
+== Voli parabolici ==
+I voli parabolici permettono di simulare l'assenza di peso utilizzando il metodo della caduta libera anche in presenza di atmosfera.
+Il volo si divide idealmente in tre fasi.
+
+L'aereo sale a 45°, per circa 30 s, con una forte accelerazione: i passeggeri sono schiacciati contro i loro sedili e il loro peso aumenta rispetto a quello misurato a terra in quanto alla forza di attrazione gravitazionale si aggiunge quella dovuta all'accelerazione dell'aereo in salita.
+Il pilota smette di alimentare i motori del velivolo. Da questo momento sia l'aereo sia i passeggeri sono soggetti alla sola forza di gravità. L'aereo continua a salire per qualche secondo, descrivendo una parabola: già in questa fase i passeggeri risentono dell'assenza di peso, perché sia essi sia l'aereo sono attratti dalla stessa forza gravitazionale. Una volta raggiunto il punto di massima altezza, l'aereo continua a descrivere la sua parabola, iniziando la fase di discesa in caduta libera verso terra per 20-30 s: durante questa fase, i passeggeri fluttuano nell'aereo.
+Il pilota torna ad alimentare i motori, riprendendo il controllo dell'aereo e, dopo un certo intervallo, è pronto a ripetere il ciclo.Nella realtà, poiché ci si muove all'interno dell'atmosfera terrestre, c'è da mettere in conto l'attrito che si manifesta sempre come una forza opposta alla direzione del moto, producendo quindi un peso, sia nel momento della salita che in quello della discesa.
+Al fine di permettere una traiettoria simile a quella in caduta libera, il pilota dell'aereo è costretto a bilanciare la forza di attrito con i motori, permettendo quindi all'equipaggio del velivolo di subire un'attrazione gravitazionale quasi costante durante la fase di discesa e quindi una quasi totale assenza di peso.
+
+
+=== Velivolo C-9 della NASA ===
+Il C-9 della NASA, noto anche con il nome di Cometa del Vomito (denominazione data in realtà non solo al C-9 ma ad ogni tipo di velivolo in grado di rendere disponibile un ambiente con assenza di peso), ha base al Lyndon B. Johnson Space Center. Effettua voli parabolici producendo assenza di peso per periodi di circa 25 s e con voli tipicamente di due ore, durante i quali vengono descritte 40 parabole.
+
+
+=== Zero Gravity Corporation ===
+
+La Zero Gravity è una azienda con sede a Vienna (Virginia). Utilizza una versione modificata del Boeing 727-200, ribattezzato G-Force One, che effettua voli parabolici simili a quelli della NASA.
+
+
+=== Airbus A300 dell'Agenzia Spaziale Europea ===
+L'ESA, l'Agenzia Spaziale Europea, effettua voli parabolici su una versione modificata degli Airbus A300, della compagnia francese Novespace, con base all'aeroporto di Bordeaux-Merignac.
+
+
+== Microgravità in senso stretto ==
+Il termine Microgravità fa riferimento al fatto che anche là dove ci aspetteremmo idealmente una perfetta assenza di peso, ciò, di fatto, non avviene. In altre parole, anche in sistemi dove ci si attende che il peso sia nullo, si verificano in realtà piccoli scostamenti dalla condizione ideale che portano i corpi ad avere piccoli valori di peso.
+Nel caso di una navicella spaziale in orbita intorno alla Terra, la microgravità può essere dovuta ai seguenti fattori.
+
+Essendo la Forza Gravitazionale radiale, accade che oggetti in orbita a differenti distanze dal centro della Terra abbiano differenti velocità radiali. Questo implica che se una persona in orbita (la quale ha una sola velocità radiale) si mettesse con i piedi verso la Terra, i suoi piedi sarebbero attirati con più forza della sua testa, cfr. forze mareali.Tutti gli oggetti all'interno, avendo una massa, si attraggono a vicenda, se la massa è localizzata (non siamo nelle condizioni del Teorema di Gauss), questa può generare una risultante non nulla e quindi può essere misurabile.I corpi all'interno della navicella spaziale si trovano ad avere un loro piano orbitale. Per piano orbitale si intende ovviamente il piano che contiene la traiettoria descritta dal corpo. Il piano orbitale della navicella spaziale è quello che passa per il centro della Terra e che contiene la sua traiettoria orbitale. I corpi che stanno "sopra" vengono ad avere un loro piano orbitale parallelo e sovrastante il piano orbitale della navicella spaziale, mentre, per contro, quelli che stanno "sotto" vengono ad avere un loro piano orbitale parallelo e sottostante il piano orbitale della navicella spaziale. I corpi non vincolati alla struttura e quindi liberi di fluttuare, che si trovano fuori dal piano ideale dato da quello della navicella spaziale, si dirigono verso tale piano, ossia si dirigono verso il piano di mezzeria dell'astronave. Anche in questo caso sui corpi "fuori piano" viene a materializzarsi un tiraggio, percepito come peso.All'interno delle stazioni spaziali orbitali, è presente la microgravità con effetti simili alla gravità zero ma l'assenza di gravità apparente è dovuta solo alla componente g verticale verso il basso che è identica alla forza di gravità g della Terra a quella quota; tale componente è generata dalla traiettoria orbitale in lenta caduta durante le orbite attorno alla Terra, così come negli aerei che vengono usati per gli esperimenti in microgravità a quote notevolmente più basse.Il simbolo µg, con il quale si indica la microgravità, è stato usato nello stemma della sciagurata missione STS-107 dello Space Shuttle Columbia: la missione aveva per obiettivo l'effettuazione di ricerche sulla microgravità.
+
+
+== Effetti sull'organismo ==
+Accentuata ancora di più dalla messa in opera di stazioni orbitanti che possono essere abitate per lunghi periodi di tempo dagli esseri umani, l'esposizione all'assenza di peso ha rivelato alcuni effetti nocivi sulla salute. L'uomo si è ben adattato alle condizioni di vita sulla Terra: in assenza di peso, però, certi sistemi fisiologici cominciano ad alterarsi e ciò può causare problemi per la salute di carattere temporaneo o anche di lungo termine.
+I primi fenomeni a cui va incontro l'uomo, trascorso il primo paio di ore in assenza di peso, vanno sotto il nome di sindrome da adattamento allo spazio (o SAS), più comunemente denominata mal di spazio. I sintomi comprendono nausea, mal di testa, letargia, vomito e malessere diffuso. Il primo caso fu riportato dal cosmonauta Gherman Titov nel 1961. Da allora circa il 45% delle persone che si è trovata in assenza di gravità ha sofferto questa condizione iniziale. La durata del mal di spazio varia, ma in nessun caso supera le 72 ore: dopo questa fase, gli astronauti si abituano al nuovo ambiente. La NASA misura la SAS utilizzando la scala Garn, dal nome del senatore statunitense Jake Garn, la cui SAS fu così pronunciata durante la missione STS-51-D dello Space Shuttle Discovery da raggiungere il livello 13 di tale scala.
+Gli effetti più significativi di una protratta assenza di peso sono l'atrofia muscolare e il deterioramento dello scheletro, noto anche come osteopenia da spazio: questi effetti possono essere minimizzati con l'esercizio fisico. Altri effetti significativi comprendono la ridistribuzione dei fluidi, il rallentamento del sistema cardiovascolare, una ridotta produzione di globuli rossi, disfunzioni dell'equilibrio e un indebolimento del sistema immunitario. Sintomi minori comprendono perdita di massa corporea, congestione nasale, disturbi del sonno, eccessiva flatulenza e rigonfiamento facciale. Questi effetti sono reversibili una volta tornati sulla Terra.
+Molte delle condizioni causate dall'esposizione all'assenza di peso sono simili a quelle risultanti dall'invecchiamento. Gli scienziati ritengono che gli studi sugli effetti nocivi causati dall'assenza di peso possano rivelarsi utili in ambito medico, portando a un possibile trattamento dell'osteoporosi e a un miglioramento nelle cure per i malati costretti a letto e per gli anziani.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Caduta libera
+Principio di equivalenza
+Moto parabolico
+Orbita
+Forza di gravità
+Forza peso
+Medicina spaziale
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su assenza di peso
+
+
+== Collegamenti esterni ==
+
+(EN) Assenza di peso, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

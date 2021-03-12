@@ -1,0 +1,149 @@
+NASA (od ang. National Aeronautics and Space Administration), Narodowa Agencja Aeronautyki i Przestrzeni Kosmicznej – agencja rządu Stanów Zjednoczonych odpowiedzialna za narodowy program lotów kosmicznych, ustanowiona 29 lipca 1958 roku na mocy National Aeronautics and Space Act, zastępując poprzednika – National Advisory Committee for Aeronautics. NASA nie wchodzi w skład struktury żadnego ministerstwa (departamentu). Ma status niezależnej agencji podległej bezpośrednio prezydentowi Stanów Zjednoczonych.
+Oprócz programu lotów kosmicznych agencja jest również odpowiedzialna za długofalowy (zarówno cywilny, jak i wojskowy) program badań przestrzeni kosmicznej. W lutym 2006 roku NASA sama określiła swoje cele, uznając, że jej misją jest „utorowanie drogi przyszłej eksploracji kosmosu, odkryciom naukowym i badaniom z dziedziny aeronautyki”.
+
+
+== Historia ==
+
+
+=== Wyścig kosmiczny ===
+
+W wyniku radzieckiego programu kosmicznego uwieńczonego wystrzeleniem pierwszego w historii świata sztucznego satelity (Sputnik 1) 4 października 1957 uwaga Stanów Zjednoczonych skierowała się ku własnym działaniom w tym zakresie. Kongres zaniepokojony realnym zagrożeniem ze strony ZSRR i możliwością utraty pozycji lidera w dziedzinie nowych technologii zaapelował do prezydenta Dwighta D. Eisenhowera oraz jego doradców o podjęcie bardziej stanowczych kroków mających na celu wsparcie i rozszerzenie programu badań kosmicznych. Kilka miesięcy ożywionej debaty doprowadziło do stworzenia wspólnego stanowiska określającego, że nowa agencja federalna powinna służyć prowadzeniu wszelkiej niewojskowej działalności w przestrzeni kosmicznej. W tym samym okresie została powołana do życia DARPA, a także wiele innych podobnych do niej programów kosmicznych, które wkrótce zostały włączone w zakres działalności NASA.
+Wystrzelony 1 lutego 1958 Explorer 1 (oficjalnie Satellite 1958 Alpha) był pierwszym amerykańskim sztucznym satelitą. 29 lipca 1958 r. prezydent Dwight D. Eisenhower podpisał National Aeronautics and Space Act, ustanawiając Narodową Agencję Aeronautyki i Przestrzeni Kosmicznej (NASA). Gdy zaczynała ona działalność 1 października 1958 r., składała się z 4 laboratoriów i zatrudniała około 80 pracowników rządowej agencji badawczej NACA. Ogromne znaczenie dla włączenia się NASA do wyścigu kosmicznego miała technologia przejęta od niemieckiego programu budowy rakiet prowadzonego przez Wernhera von Brauna, który po II wojnie światowej został obywatelem Stanów Zjednoczonych. Pełnił on też kluczową rolę w amerykańskim programie księżycowym i dziś wymieniany jest wśród najważniejszych konstruktorów rakiet kosmicznych i pionierów podboju kosmosu. Do NASA zostały włączone elementy ABMA (której zespół von Brauna był częścią) oraz Naval Research Laboratory.
+Pierwsze programy NASA dotyczyły przede wszystkim załogowych lotów kosmicznych i były prowadzone w atmosferze rywalizacji między USA a ZSRR (wyścig kosmiczny) w okresie zimnej wojny. Program Mercury zapoczątkowany w 1958 r. miał na celu zbadanie czy człowiek jest w stanie przeżyć w przestrzeni kosmicznej. Poproszono więc przedstawicieli armii amerykańskiej o wzięcie udziału w projekcie NASA mającym na celu przeprowadzenie eksperymentalnego lotu statku powietrznego, który był rozwijany przez US Army już w latach pięćdziesiątych. Dzięki współpracy z istniejącymi wojskowymi ośrodkami badawczymi oraz pomocy technicznej udzielonej przez wojsko, 5 maja 1961 r. Alan Shepard, pilotując statek Freedom 7 podczas 15 minutowego lotu suborbitalnego został pierwszym Amerykaninem w kosmosie. John Glenn natomiast został pierwszym amerykańskim astronautą, który przebywał na orbicie Ziemi, gdy 20 lutego 1962 r. odbył ponad 5 godzinny lot w statku Friendship 7.
+Gdy projekt Mercury wykazał, że załogowe loty kosmiczne są możliwe, postanowiono uruchomić program Gemini, aby przeprowadzić eksperymenty i prace związane z wysłaniem misji na Księżyc. Pierwszy lot programu Gemini z astronautami na pokładzie (Gemini 3), którego dowódcą został Gus Grissom odbył się 23 marca 1965 r. Dziewięć kolejnych misji udowodniło, że człowiek jest w stanie żyć w statku kosmicznym dłuższy czas, a także że możliwe jest połączenie (dokowanie) z innym statkiem w przestrzeni kosmicznej. Loty programu Gemini dostarczyły również wielu danych medycznych dotyczących wpływu stanu nieważkości na ludzki organizm.
+
+
+=== Program Apollo ===
+
+Program Apollo powstał w celu wysłania pierwszego człowieka na Księżyc i bezpiecznego sprowadzenia go na Ziemię. Misja Apollo 1 skończyła się tragiczną śmiercią astronautów, gdy podczas symulacji lotu wewnątrz modułu sterowania wybuchł pożar. Z powodu tego incydentu przeprowadzono później kilka prób bez udziału załogi, zanim ponownie wprowadzono ludzi na pokład statku kosmicznego. Apollo 8 i Apollo 10 zbadały orbitę Księżyca oraz przywiozły jego liczne fotografie. 20 lipca 1969 r. Apollo 11 z Neilem Armstrongiem, Michaelem Collinsem i Buzzem Aldrinem na pokładzie po raz pierwszy w historii wylądował na powierzchni Księżyca. Apollo 13, po awarii statku i walce o życie astronautów, przywiózł na Ziemię jedynie jego zdjęcia. Sześć misji, które wylądowały na srebrzystym globie, dostarczyło niezliczoną ilość danych naukowych i prawie 400 kilogramów próbek. Eksperymenty przeprowadzone przez astronautów obejmowały m.in. mechanikę gruntów, meteoroidy, sejsmologię, wymianę cieplną, Lunar Laser Ranging Experiment, pole magnetyczne oraz wiatr słoneczny.
+
+
+=== Skylab ===
+Skylab był pierwszą stacją kosmiczną umieszczoną na orbicie przez Stany Zjednoczone. Ta ważąca 75 ton stacja, wyniesiona przez rakietę Saturn 5 przebywała nad Ziemią w latach 1973–1979. W tym czasie odwiedziły ją trzy załogi astronautów (w latach 1973–1974). Badania prowadzone przez załogi Skylaba początkowo miały się skupić na anomaliach związanych z grawitacją w innych systemach gwiezdnych, ale z braku funduszy i zainteresowania ze strony rządu ograniczono zakres badań. Stacja miała laboratorium do badania wpływu mikrograwitacji oraz Apollo Telescope Mount. W wyniku tarcia o wysokie warstwy atmosfery stacja Skylab zaczęła zacieśniać orbitę okołoziemską. W celu przesunięcia jej na wyższą orbitę zaprojektowany został wahadłowiec, jednak zanim zdołano go wystrzelić, stacja weszła w atmosferę (1979), gdzie uległa zniszczeniu.
+
+
+=== Program wahadłowców ===
+Budowa wahadłowców, które mogłyby regularnie latać w kosmos, stała się głównym celem NASA w latach 70. i 80. Do 1985 r. stworzono cztery takie jednostki. Pierwszym, który wystartował z Ziemi 12 kwietnia 1981 r., był prom Columbia.
+Najważniejszą korzyścią wynikającą z realizacji programu wahadłowców miało być znaczące obniżenie kosztów wynoszenia ładunków w przestrzeń kosmiczną (w stosunku do używanych do tego celu rakiet jednorazowych). W rzeczywistości jednak osiągnięcie tego celu okazało się nierealne. Podobnie jak w przypadku programu Apollo, program STS obciążony był dużymi wydatkami stałymi (takimi jak konieczność ciągłego utrzymywania rozbudowanego personelu naziemnego), które na starcie obniżały jego konkurencyjność. Katastrofa promu Challenger w 1986 r. wykazała, iż Space Shuttle nie jest systemem wystarczająco dojrzałym do wykonywania pełnego zakresu planowanych dla niego misji, zaś utrzymywanie dotychczasowej częstotliwości startów nie gwarantuje niezbędnego minimum bezpieczeństwa. Wprowadzone po katastrofie ograniczenia zmusiły NASA do zaprzestania eksploatacji promów do celów komercyjnych oraz spowodowały skasowanie planowanych na potrzeby USAF startów z bazy Vandenberg. Pierwotna koncepcja NASA, która zakładała wykorzystanie systemu STS jako uniwersalnego środka transportu, została więc ostatecznie zarzucona.
+Niemniej jednak wahadłowce zostały wykorzystane w wielu ogromnych i złożonych logistycznie przedsięwzięciach, jak np. wysłanie na orbitę Kosmicznego Teleskopu Hubble’a (HST). HST został zbudowany stosunkowo małym nakładem środków (wynoszącym niespełna 2 miliardy dolarów), jednak już od momentu rozpoczęcia pracy w 1990 r. zachwycił swoimi zdjęciami zarówno naukowców, jak i opinię publiczną. Niektóre fotografie zrobione przez teleskop, jak chociażby Głębokiego Pola Hubble’a, stały się niemal legendarne. Teleskop Hubble’a jest wspólnym projektem NASA i Europejskiej Agencji Kosmicznej (ESA), a jego sukces utorował drogę ściślejszej współpracy obu agencji.
+W 1995 r. wznowiono współpracę rosyjsko-amerykańską w zakresie podboju kosmosu, doprowadzając do powstania programu Shuttle-Mir, który obejmował loty wahadłowców na stację orbitalną Mir. Współpraca ta trwa do dziś, Rosja i Stany Zjednoczone są głównymi partnerami w budowie największej w historii stacji kosmicznej – ISS (budowa ta stała się głównym powodem dalszego utrzymywania floty wahadłowców). Znaczenie tej współpracy najbardziej uwidoczniło się w chwili, gdy NASA zmuszona była polegać na rosyjskich rakietach nośnych do zaopatrywania Międzynarodowej Stacji Kosmicznej po katastrofie promu Columbia.
+Katastrofa promu Columbia z 2003 r., w której zginęła cała siedmioosobowa załoga (sześciu Amerykanów i jeden Izraelczyk), spowodowała 29-miesięczną przerwę w lotach wahadłowców i dogłębną analizę dotychczasowych priorytetów NASA. Administracja rządowa, środowisko naukowców i opinia publiczna poddały publicznej dyskusji przyszłość programu lotów kosmicznych.
+14 stycznia 2004 prezydent George W. Bush w swoim przemówieniu ogłosił nową wizję eksploracji przestrzeni kosmicznej. Zgodnie z jej założeniami wahadłowce miały wznowić swoje loty w najkrótszym możliwym terminie, nie później jednak niż do końca roku 2010 musiałyby zostać wycofane z eksploatacji. Zastąpić je miały nowo zaprojektowane pojazdy załogowe, oblatane do roku 2014.
+Pierwszy po przerwie lot wahadłowców miał miejsce w roku 2005 (misja STS-114). Zakończył się on pełnym sukcesem i regularne misje programu zostały wznowione.
+Pierwotny termin wyłączenia z eksploatacji systemu STS okazał się jednak nierealny. W roku 2008 amerykańska Izba Reprezentantów zatwierdziła budżet na dodatkową misję programu (STS-134), potrzebną do instalacji na ISS spektrometru AMS. Oznaczało to przedłużenie lotów promów do roku 2011. W roku 2010 – ze względu na opóźnienia komercyjnego programu COTS – niezbędne okazało się wykonanie jeszcze jednego lotu do Międzynarodowej Stacji Kosmicznej. Od strony finansowej został on ostatecznie zatwierdzony w kwietniu 2011 – jako misja STS-135, realizowana w lipcu 2011. Dalszego przedłużenia programu STS nie przewiduje się.
+
+
+=== Międzynarodowa Stacja Kosmiczna ===
+Koszty przedsięwzięcia, jakim jest budowa Międzynarodowej Stacji Kosmicznej (wynoszące ponad sto miliardów dolarów), sprowadzają na NASA ostrą krytykę, co do zasadności budowy stacji i przyszłych korzyści płynących z jej istnienia.
+
+
+== Przyszłość NASA ==
+
+NASA prowadzi obecnie misje związane z badaniami Księżyca, Merkurego, Marsa i Saturna, jak również obserwację Słońca. W sferze zainteresowań agencji leży też eksploracja dalszych obszarów Wszechświata, a także badania Ziemi.
+W 2011 r. rozpoczęła się misja Juno, której zadaniem jest obserwacja Jowisza oraz Mars Science Laboratory (MSL), będąca kolejną misją łazika przeznaczonego do badań Marsa. Na rok 2013 planowana jest misja orbitera Mars Atmosphere and Volatile Evolution (MAVEN), której celem będzie zbadanie górnych warstw marsjańskiej atmosfery.
+W ramach misji New Horizons NASA wystrzeliła w 2006 r. sondę kosmiczną, która planowo ma w 2015 r. dotrzeć do Plutona. Sonda uzyskała tzw. asystę grawitacyjną od Jowisza w lutym 2007 r. i rozpoczęła przeszukiwanie niektórych z księżyców planety oraz sprawdzanie niektórych urządzeń wewnętrznych podczas trwania lotu.
+
+
+=== Wizja Eksploracji Kosmosu ===
+
+14 stycznia 2004 r., dziesięć dni po wylądowaniu łazika Spirit, prezydent Stanów Zjednoczonych George W. Bush ogłosił nowy plan dotyczący przyszłości NASA: Wizja Eksploracji Kosmosu (ang. Vision for Space Exploration). Zgodnie z nim ludzkość ponownie wyląduje na Księżycu do 2018 r. i stworzy tam stałą bazę, która stanie się zalążkiem przyszłych misji (m.in. na Marsa). Wahadłowce zostaną wycofane z użycia w 2010 r. i zastąpione przez statek kosmiczny Orion do 2014 r. (zdolny zarówno do dokowania do ISS, jak i opuszczenia orbity ziemskiej). Mniej pewna jest natomiast przyszłość Międzynarodowej Stacji Kosmicznej – konstrukcja ma zostać ukończona, ale to jedyna pewna odnośnie do niej rzecz. Chociaż plan początkowo został sceptycznie przyjęty przez Kongres, to jednak pod koniec 2004 r. zgodził się on zabezpieczyć fundusze na pierwsze lata funkcjonowania nowej wizji podboju kosmosu.
+Mając nadzieję na przyśpieszenie rozwoju prywatnego sektora badań kosmicznych, NASA ustanowiła w 2004 r. serię tzw. Centennial Challenges (pol. Wyzwania Stulecia), specjalnych nagród dla pozarządowych drużyn za osiągnięcia w dziedzinie technologii kosmicznych. Wyzwania stawiały przed współzawodniczącymi drużynami zadania, których osiągnięcie ułatwi wypełnienie celów Wizji Eksploracji Kosmosu, takich jak stworzenie lepszych kombinezonów dla astronautów.
+
+
+=== Nowa polityka kosmiczna ===
+
+Z nadejściem prezydentury Baracka Obamy zmieniły się również rządowe plany wobec NASA. Cele wyznaczone w Wizji Eksploracji Kosmosu z perspektywą załogowych misji księżycowych straciły swoje priorytetowe znaczenie. W efekcie program Constellation został usunięty z zaproponowanego w lutym 2010 budżetu agencji. Część funduszy została natomiast przekierowana do sektora prywatnego, który – zgodnie z nową doktryną – zapewnić ma Stanom Zjednoczonym załogowy transport orbitalny po zakończeniu programu STS. Wsparcie finansowe na łączną kwotę 50 mln. USD otrzymały firmy: Blue Origin, The Boeing Company, Paragon Space Development Corporation, Sierra Nevada Corporation i United Launch Alliance.
+15 kwietnia 2010 prezydent Barack Obama wygłosił przemówienie w Centrum Kosmicznym Johna F. Kennedy’ego, w którym nakreślił główne punkty nowej polityki podboju przestrzeni kosmicznej. Zakłada ona m.in. projekt ciężkiej rakiety nośnej i statku kosmicznego, które miałyby służyć załogowym lotom poza orbitę Księżyca (po roku 2025 lot do planetoidy, po 2030 – misja na orbitę Marsa).
+
+
+=== Baza na Księżycu ===
+4 grudnia 2006 r. NASA ogłosiła, że planuje zbudowanie stałej bazy na Księżycu. Scott J. Horowitz powiedział, że celem agencji jest uruchomienie do 2024 r. w pełni funkcjonalnej bazy, która pozwoliłaby na rotacyjne loty załogowe (podobnie jak w przypadku Międzynarodowej Stacji Kosmicznej). NASA planowała współpracę z innymi agencjami narodowymi przy wypełnianiu tej misji. Jednakże po zmianach w strukturach administracyjnych agencji w roku 2009 zaczęły pojawiać się sygnały, że plany te mogą nie zostać zrealizowane ze względu na prawdopodobną zmianę głównych celów przyszłych misji załogowych.
+Ostatecznie w roku 2010 prezydent Barack Obama wycofał fundusze przeznaczone na program załogowej eksploracji Księżyca argumentując, że projekt przekroczył założenia budżetowe i terminowe, a sam pomysł nie nosi znamion innowacyjności. W zamian NASA skoncentrować się ma na tworzeniu nowych technologii, które miałyby przyśpieszyć przyszły podbój Kosmosu. Agencja ma też zająć się wsparciem prywatnych firm konstruujących systemy transportu załogowego do Międzynarodowej Stacji Kosmicznej.
+
+
+=== Człowiek na Marsie ===
+28 września 2007 r. administrator NASA Michael D. Griffin stwierdził, że NASA zamierza wysłać człowieka na Marsa do 2037 r., a w 2057 r.: „Powinniśmy obchodzić dwudziestolecie lądowania człowieka na Marsie”.
+Kolejnym nawiązaniem do ewentualnej załogowej wyprawy na Marsa było przemówienie prezydenta Baracka Obamy wygłoszone 15 kwietnia 2010 w Centrum Kosmicznym imienia Johna F. Kennedy’ego. Obama przedstawiając najważniejsze punkty nowej polityki podboju kosmosu wymienił Marsa jako możliwy cel przyszłych wypraw załogowych. Według niego do roku 2025 Stany Zjednoczone dysponować będą statkiem umożliwiającym lot poza orbitę Księżyca. Po roku 2030 możliwe będzie wysłanie człowieka na orbitę Marsa, a w dalszej przyszłości lądowanie na jego powierzchni.
+
+
+== Struktura NASA ==
+
+
+=== Rada Doradcza ===
+Wraz z powołaniem do życia NASA w 1958 r., została zlikwidowana NACA, a jej ośrodki badawcze – Centrum Badawcze imienia Josepha Amesa, Lewis Research Center, Langley Research Center – zostały włączone w struktury nowej agencji, podobnie jak niektóre elementy US Army i US Navy. W 1967 r. Kongres USA polecił NASA stworzenie specjalnego zespołu ds. bezpieczeństwa przestrzeni powietrznej (ang. Aerospace Safety Advisory Panel, ASAP), aby doradzał administratorowi agencji w sprawach bezpieczeństwa i zagrożenia programów kosmicznych NASA. Dodatkowo powstała Space Program Advisory Council oraz Research and Technology Advisory Council.
+W 1977 r. wszystkie je połączono i stworzono NASA Advisory Council (pol. Rada Doradcza NASA), która jest następcą NACA.
+
+
+=== Administracja ===
+Administrator NASA jest najwyższym w hierarchii pracownikiem tej agencji, a także pełni rolę doradcy prezydenta Stanów Zjednoczonych ds. badań kosmicznych. Zadaniem administratora jest kierowanie pracami NASA w taki sposób, aby wywiązywać się z zadań stawianych jej przez Wizję Eksploracji Kosmosu. Obecnym administratorem agencji jest Charles F. Bolden Jr., który pełni tę funkcję od 2009 r.Zastępca administratora NASA jest drugą osobą w agencji, kieruje jej pracami, jak również odpowiada za politykę agencji. Zastępca administratora reprezentuje NASA przed Biurem Wykonawczym Prezydenta, Kongresem, szefami agencji federalnych, organizacjami międzynarodowymi, a także zewnętrznymi organizacjami i społecznościami. Zastępca administratora dogląda także codziennej pracy biur NASA, takich jak: Biuro Głównego Urzędnika ds. Finansów czy Biuro Planowania Ogólnego i Komunikacji Strategicznej. Obecnym zastępcą administratora agencji od 2009 r. jest Lori Garver.
+
+
+=== Ośrodki badawcze ===
+
+Główna siedziba NASA mieści się w Waszyngtonie. Kompleks NASA Shared Services znajduje się na terenie John C. Stennis Space Center koło Bay St. Louis w stanie Missisipi. Ośrodek został przebudowany po zniszczeniach spowodowanych przez Huragan Katrina w 2005 r.
+NASA ma wiele ośrodków badawczych i testowych, których zastosowanie wielokrotnie zmieniało się w przeciągu lat:
+
+Centrum Kosmiczne Johna F. Kennedy’ego, Floryda
+Centrum Lotów Kosmicznych imienia George’a C. Marshalla, Huntsville, Alabama
+Centrum Lotów Kosmicznych imienia Lyndona B. Johnsona, Houston, Teksas
+Centrum Lotów Kosmicznych imienia Roberta H. Goddarda, Greenbelt, Maryland
+Centrum Badawcze imienia Josepha Amesa, Moffett Field, Kalifornia
+Centrum Badania Lotu imienia Neila A. Armstronga, Edwards, Kalifornia
+Jet Propulsion Laboratory, Pasadena, Kalifornia
+Langley Research Center, Hampton, Wirginia
+Centrum Badawcze imienia Johna H. Glenna, Cleveland, Ohio
+Michoud Assembly Facility, Nowy Orlean, Luizjana
+John C. Stennis Space Center, Bay St. Louis, Missisipi
+Wallops Flight Facility, Wallops Island, Wirginia
+
+
+== Misje NASA ==
+
+NASA ma na swoim koncie znaczącą liczbę udanych misji kosmicznych, wliczając w to ponad 150 lotów załogowych. Wiele z nich związanych jest z programem Apollo, który objął szereg lotów na Księżyc, w tym sławny pierwszy w historii spacer po srebrnym globie podczas misji Apollo 11. W ramach programu lotów wahadłowców, pomimo straty promów Challenger i Columbia, również odnotowano wiele sukcesów. Do najbardziej znanych zaliczyć można wyniesienie na orbitę Teleskopu Hubble’a i późniejsze jego naprawy, dokowanie do stacji kosmicznej Mir, a także budowę Międzynarodowej Stacji Kosmicznej – wspólnego projektu wielu narodowych agencji kosmicznych. Przyszłe plany NASA co do załogowej eksploracji kosmosu powiązane były początkowo z księżycowym programem Constellation. Po jego skasowaniu dalekosiężnym celem agencji stało się opracowanie technologii umożliwiającej podróże poza orbitę Księżyca (lądowanie na planetoidach, a docelowo na Marsie). W opracowaniu nowych pojazdów na potrzeby transportu orbitalnego pomóc ma natomiast zaangażowanie sektora prywatnego.
+NASA przeprowadziła także wiele misji bezzałogowych, których zadaniem było zbadanie planet Układu Słonecznego, czy też przestrzeni kosmicznej poza jego granicami (Pioneer 10, Pioneer 11, Voyager 1 i Voyager 2). NASA pozostaje na razie jedyną agencją, która wysłała misje poza granice naszego układu planetarnego.
+Sonda Cassini, która została wystrzelona w 1997 r. od połowy 2004 r. zajmowała się badaniem układu Saturna (planety, jej pierścieni, księżyców i magnetosfery). Ponad dwadzieścia lat działalności misji Cassini-Huygens jest przykładem współpracy międzynarodowej między JPL-NASA i Europejską Agencją Kosmiczną.
+Kolejną misją przeznaczoną do badań dalszych obszarów Układu Słonecznego jest misja New Horizons. Głównym zadaniem wystrzelonej w 2006 r. sondy było zbadanie Plutona oraz jego księżyców. Sonda osiągnęła swój cel w 2015 r. Po zakończeniu pierwszego etapu misji została ona skierowana do innych obiektów Pasa Kuipera.
+Spore osiągnięcia NASA zanotowała też na polu badań Marsa. W początkowej fazie były to przeloty sond programu Mariner (Mariner 4, Mariner 6 i 7). Następna z nich, wystrzelony w 1971 roku Mariner 9, stała się pierwszym w historii sztucznym satelitą Czerwonej Planety. Kolejne orbitery z lat 70. – Viking 1 i Viking 2 (będące częścią programu Viking) i późniejsze – Mars Global Surveyor, 2001 Mars Odyssey i Mars Reconnaissance Orbiter znacząco powiększyły (i stale powiększają) wiedzę związaną z geologią, atmosferą i klimatem Marsa.
+
+Oprócz orbiterów NASA wysyła na Marsa również sondy, których zadaniem jest bezpośrednie badanie jego powierzchni. Liczne dane naukowe wraz ze zdjęciami zostały dostarczone przez lądowniki programu Viking (które przeprowadziły również serię biologicznych badań gruntu), a także przez wysłaną w 2007 r. sondę Phoenix. NASA jest również pionierem w dziedzinie eksploracji Marsa za pomocą pojazdów kołowych. Pierwszą misją tego typu był rozpoczęty w 1996 r. program Mars Pathfinder, w którego skład wchodził lądownik wraz z małym łazikiem Sojourner. Kolejnym krokiem w tym kierunku było wysłanie na Marsa misji Mars Exploration Rover (MER) złożonej z dwóch pojazdów o dużo większej mobilności. Łaziki Spirit i Opportunity w 2004 r. rozpoczęły badania powierzchni planety w obszarach Krateru Gusiewa i Meridiani Planum (poszukując m.in. śladów wskazujących na istnienie tam w przeszłości wody w stanie ciekłym). Nominalny czas trwania programu i pokonana przez łaziki odległość zostały wielokrotnie przekroczone. Misja Spirita została oficjalnie zakończona dopiero w 2011 r., zaś misja Opportunity w lutym 2019 r. W roku 2011 wystartowała misja Mars Science Laboratory, której celem było umieszczenie na powierzchni Marsa kolejnego pojazdu o jeszcze większych gabarytach. Przeprowadzić ma on serię badań marsjańskiego gruntu, m.in. pod kątem warunków sprzyjających powstaniu w nim życia.
+
+
+== Odznaczenia ==
+
+Obecnie NASA nadaje kilka rodzajów odznaczeń i medali swoim astronautom, jak również pracownikom personelu naziemnego. Niektóre z nich zostały zatwierdzone do noszenia ich na mundurach wojskowych w czasie ceremonii. Najwyższym odznaczeniem jest Congressional Space Medal of Honor, którym zostało uhonorowanych 28 osób (17 pośmiertnie). Przyznawany jest „każdemu astronaucie, który podczas wykonywania swoich obowiązków wyróżnił się merytoryczną i wnoszącą wkład w bogactwo narodu i ludzkości pracą”.
+Drugim w kolejności odznaczeniem, które może być nadane osobie zatrudnionej w NASA jest Distinguished Service Medal. Może on zostać przyznany każdemu członkowi agencji federalnej, zarówno astronaucie wojskowemu, jak i pracownikowi cywilnemu. Jest to nagroda coroczna nadawana przez National Aeronautics Space Foundation. Analogicznym medalem przyznawanym dla osób niezwiązanych z agencjami rządowymi jest Distinguished Public Service Medal.
+
+
+== Krytyka ==
+
+
+=== Opóźnienia w budowie ISS ===
+Obecnie budowa Międzynarodowej Stacji Kosmicznej (ISS – ang. International Space Station) opiera się na flocie wahadłowców kosmicznych, które transportują wszystkie elementy konstrukcyjne stacji. NASA straciła dwa statki po katastrofach: Challengera w 1986 r. i Columbii w 2003. Zniszczenie Challengera agencja zrekompensowała sobie budową promu Endeavour, który powstał z części zamiennych pozostałych wahadłowców. NASA nigdy nie wybudowała promu, który mógłby zastąpić Columbię (zamiast tego powstać miał CEV Orion).
+Docelowo na Międzynarodowej Stacji Kosmicznej miał pracować siedmioosobowy zespół, ale po wypadku wahadłowca Columbia stała załoga stacji została zredukowana z trzech do dwóch (obejmuje ona jednego Rosjanina i dwóch Amerykanów na okres sześciu miesięcy). Skutkiem tej decyzji europejscy i japońscy astronauci nie mogli przeprowadzać dłuższych misji na stacji. Począwszy od 2006 r. przywrócono trzyosobową załogę ISS, a potem zwiększono do sześciu w 2009 r. (w czasie Ekspedycji 19).
+Inne państwa, które uczestniczą w budowie stacji kosmicznej, takie jak członkowie Europejskiej Agencji Kosmicznej czy japońskiej JAXA wyraziły zainteresowanie dokończeniem budowy ISS. Jednakże terminarz NASA nie uwzględnia możliwości żadnych zmian, a administrator ds. operacji kosmicznych William H. Gerstenmaier wyjaśnił, że wahadłowce w 2007 r. wykonały trzy misje w przeciągu sześciu miesięcy, pokazując tym samym, że NASA nadal jest w stanie dotrzymać ostatecznych terminów budowy i obsługi stacji.
+
+
+=== Podejrzenia spożywania alkoholu ===
+W związku z aresztowaniem Lisy Nowak w lutym 2007 r. administrator NASA Michael D. Griffin zlecił niezależnej komisji ekspertów (NASA Astronaut Health Care System Review Committee) zbadanie, czy NASA dostatecznie dobrze zajmuje się stanem psychicznym swoich astronautów. Wstępny raport komisji podniósł kwestię tego, czy astronauci pili alkohol bezpośrednio przed startem. Nie przedstawiono jednakże żadnych dowodów, które mogłyby potwierdzić te przypuszczenia.
+Dowódca jednego z wahadłowców, Scott J. Kelly, otwarcie krytykował raport podczas jednego z wywiadów udzielonych przed rozpoczęciem misji STS-118, odrzucając przypuszczenia ekspertów. Po opublikowaniu sprawozdania z prac komisji NASA zarządziła wewnętrzną kontrolę.
+29 sierpnia 2007 r. dyrektor ds. bezpieczeństwa misji Bryan O’Connor ogłosił, że po kilkumiesięcznej kontroli w NASA nie znaleziono żadnych dowodów, które potwierdzałyby oskarżenia zawarte w raporcie niezależnej komisji ekspertów, jakoby astronauci wykonywali misje pod wpływem alkoholu. W dodatku we wszystkich odnotowanych wypadkach, które miały miejsce między rokiem 1984 a 2008, nie stwierdzono, aby ich przyczyną mogły być alkohol lub narkotyki.
+
+
+== Zobacz też ==
+lista misji NASA
+NASA TV
+lista agencji kosmicznych
+
+
+== Przypisy ==
+
+
+== Bibliografia ==
+Steven J. Dick: 50 Years of NASA History (ang.). NASA. [dostęp 2011-06-23].
+
+
+== Linki zewnętrzne ==
+Oficjalna strona NASA (ang.)
+NASA watch (ang.)
+Jet Propulsion Laboratory (ang.)
+Internetowe archiwum artykułów naukowych NASA (ang.)

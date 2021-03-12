@@ -1,0 +1,339 @@
+La densità di una sostanza è il rapporto tra la massa e il volume di tale sostanza.
+
+  
+    
+      
+        ρ
+        =
+        
+          
+            
+              m
+              V
+            
+          
+        
+      
+    
+    {\displaystyle \rho ={\dfrac {m}{V}}}
+  In meccanica del continuo la densità, chiamata più correttamente massa volumetrica o massa specifica e spesso indicata coi simboli 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  , 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   o anche 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+  , è definita nello spazio delle fasi come integrale nello spazio del momento lineare coniugato della densità di fase:
+
+  
+    
+      
+        ρ
+        (
+        
+          r
+        
+        ,
+        t
+        )
+        =
+        ∫
+        n
+        (
+        
+          r
+        
+        ,
+        
+          p
+        
+        ,
+        t
+        )
+        
+        
+          d
+        
+        p
+      
+    
+    {\displaystyle \rho (\mathbf {r} ,t)=\int n(\mathbf {r} ,\mathbf {p} ,t)\,\mathrm {d} p}
+  ,La massa di un continuo è in generale definita come l'integrale della densità nella regione di riferimento dello spazio delle configurazioni; questa regione nella meccanica classica corrisponde al volume. Il concetto di densità è essenziale nelle equazioni di bilancio.
+
+  
+    
+      
+        m
+        =
+        
+          ∫
+          
+            V
+          
+        
+        ρ
+        
+        
+          d
+        
+        r
+      
+    
+    {\displaystyle m=\int _{V}\rho \,\mathrm {d} r}
+  Nel Sistema Internazionale la densità si misura in kg/m³; nel sistema CGS in g/cm³. 
+Nell'uso comune si utilizza talvolta il kg/L o equivalentemente in g/mL, che corrispondono esattamente al g/cm³.
+Nei fluidi i corpi con densità minore galleggiano su quelli a densità maggiore, se sottoposti a un campo gravitazionale. Questa proprietà è alla base del principio di Archimede.
+Bisogna fare attenzione a non confondere il concetto di densità, che è la misura di una massa diviso un volume, con quello di densità relativa, che è invece una grandezza adimensionale.
+
+
+== Descrizione ==
+
+
+=== Densità relativa ===
+In generale per densità relativa si intende il rapporto tra la densità del corpo in esame e quella di un corpo preso come riferimento, per data temperatura e pressione.La densità relativa viene spesso definita come il rapporto tra la densità del corpo in esame e quella dell'acqua pura a temperatura di 4 °C e pressione di 1 bar o in maniera equivalente come il rapporto tra la massa del corpo in esame e quella di un eguale volume di acqua pura (distillata o deionizzata) a temperatura di 4 °C e pressione di 1 bar.La densità relativa può essere determinata in vari modi. I corpi solidi che hanno densità maggiore di quella dell'acqua vengono pesati dapprima in aria e quindi in acqua in condizioni di completa immersione. La densità relativa si ottiene dividendo il peso in aria per la diminuzione di peso del corpo immerso (vedi principio di Archimede). Per determinare la densità relativa dei fluidi si utilizzano invece strumenti appositi detti densimetri. Nel caso siano necessarie misure molto accurate, si procede determinando la massa di un volume noto di liquido o di gas in condizioni controllate di temperatura.
+La densità propriamente detta talvolta viene chiamata densità assoluta in contrapposizione alla densità relativa.La densità nella tavola periodica degli elementi tende a crescere nei gruppi dall'alto verso il basso (fanno eccezione berillio e magnesio), mentre nei periodi cresce da sinistra a destra fino a boro-alluminio-rame-rutenio-iridio, per poi decrescere.
+
+
+=== Densità reale e densità apparente ===
+La definizione di densità sopra data è riferita ad una quantità di materia solida massiccia, vale a dire senza vuoti interni. È anche detta densità reale in quanto prende in considerazione solo il volume della frazione solida.
+La densità apparente di un corpo viene calcolata in maniera formalmente analoga alla densità assoluta, ma prende in considerazione il volume totale occupato dal solido ovvero il suo ingombro esterno, compresi quindi gli spazi vuoti (solidi con cavità chiuse, con cavità aperte o a struttura spugnosa). La definizione di densità apparente ha validità anche per la materia granulare contenuta nei recipienti come per esempio la sabbia e le granaglie o il terreno.
+
+
+=== Densità di una miscela ===
+Per calcolare la densità di una miscela costituita da più sostanze ("componenti") si può utilizzare la seguente relazione:
+
+  
+    
+      
+        ρ
+        =
+        
+          
+            1
+            V
+          
+        
+        
+          ∑
+          
+            i
+          
+        
+        
+          m
+          
+            i
+          
+        
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          ρ
+          
+            i
+          
+        
+        
+      
+    
+    {\displaystyle \rho ={\frac {1}{V}}\sum _{i}m_{i}=\sum _{i}\rho _{i}\,}
+  dove:
+
+  
+    
+      
+        
+          m
+          
+            i
+          
+        
+      
+    
+    {\displaystyle m_{i}}
+   è la massa di componente i nella miscela;
+V è il volume della miscela;
+ρi è la concentrazione massica di componente i nella miscela.In alternativa può essere utilizzata quest'altra espressione :
+
+  
+    
+      
+        ρ
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          ρ
+          
+            i
+          
+          
+            0
+          
+        
+        
+          
+            
+              V
+              
+                i
+              
+            
+            V
+          
+        
+      
+    
+    {\displaystyle \rho =\sum _{i}\rho _{i}^{0}{\frac {V_{i}}{V}}}
+  .
+
+
+=== Generalizzazione ===
+Il termine "densità" può essere applicato anche ad altre grandezze che hanno una distribuzione spaziale. Per esempio il rapporto tra il numero di elettroni in un dato volume e il volume stesso è detto densità di elettroni. Più in generale, considerando un insieme qualunque di oggetti, si parla di densità di numero. Il rapporto tra la carica totale distribuita in un volume e il volume medesimo viene comunemente indicato come densità di carica; l'energia luminosa per unità di volume è definita come densità di energia luminosa. Quindi in generale la massa volumica di una grandezza è espressa mediante il rapporto tra la quantità della grandezza contenuta in un volume assegnato e il valore di quest'ultimo.
+In senso ancora più ampio il concetto è stato esteso anche ad altri ambiti quali la geografia: la "densità di popolazione" misura la popolazione di un territorio per unità di superficie.
+
+
+=== Densità superficiale ===
+Nel caso in cui una grandezza sia distribuita su una superficie si può parlare di densità superficiale di tale grandezza riferendosi al rapporto tra la grandezza stessa e l'area della superficie su cui è distribuita. Per esempio nel caso della carica elettrica si parla di densità superficiale di carica. Nel caso di una corrente elettrica attraverso un conduttore di sezione S si chiama densità di corrente il rapporto tra la corrente e la sezione S attraversata.
+
+
+== Casi particolari ==
+
+
+=== Densità dell'acqua (H2O) ===
+Nella tabella seguente è indicata la densità dell'acqua in grammi per centimetro cubo a varie temperature (in °C)I valori sotto 0 °C si riferiscono allo stato di acqua sottoraffreddata.
+
+
+=== Densità dell'aria ===
+Ottenuta tramite la legge dei gas 
+  
+    
+      
+        
+          ρ
+        
+        =
+        
+          
+            p
+            
+              
+                
+                  
+                    R
+                    ¯
+                  
+                
+              
+              ⋅
+              T
+            
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {\rho }}={\frac {p}{{\bar {R}}\cdot T}}}
+   dove nel calcolo V è unitario, p è in pascal, T è in Kelvin e R è la costante specifica per l'aria secca 
+  
+    
+      
+        
+          
+            
+              R
+              ¯
+            
+          
+        
+        =
+        287.05
+        
+        
+          J
+        
+        
+        
+          
+            k
+            g
+          
+          
+            −
+            1
+          
+        
+        
+        
+          
+            K
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle {\bar {R}}=287.05\,\mathrm {J} \,\mathrm {kg} ^{-1}\,\mathrm {K} ^{-1}}
+  
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Paolo Corazzon, Stefano Bertocchi, Fisica, Alpha Test, 1999, ISBN 88-483-0041-3.
+ Piero Baglioni, Chimica, Firenze, Giunti Editore, 1998, ISBN 88-09-21420-X.
+ David R. Lide, CRC handbook of chemistry and physics, 74ª ed., CRC Press, 1993, ISBN 0-8493-0595-0.
+ Antonio Araneo, Chimica. Per le Scuole superiori, PICCIN, 1987, ISBN 88-299-0568-2.
+ Bernardo Marchese, Tecnologia dei materiali e chimica applicata, 2ª ed., Liguori Editore, 1975, ISBN 88-207-0390-4.
+
+
+== Voci correlate ==
+Massa molare
+Volume molare
+Peso specifico
+Densità di carica
+Densità lineare
+Densità di colonna
+Bilancia di Mohr-Westphal
+Concentrazione massica
+Densimetro
+Dord
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su densità
+
+
+== Collegamenti esterni ==
+
+ Densità, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+(EN) Densità, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

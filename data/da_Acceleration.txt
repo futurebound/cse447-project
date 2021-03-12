@@ -1,0 +1,49 @@
+Acceleration er ændring af hastigheden pr. tidsenhed eller den matematiske tidsafledede af hastigheden.
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}={d{\vec {v}} \over dt}}
+  
+Den afledte SI-enhed for acceleration er m/s²
+Tyngdeaccelerationen er ca. 9,815 m/s² i Danmark.
+
+
+== Se også ==
+Egenacceleration
+Accelerometer
+Deceleration
+
+
+== Kilder/henvisninger ==
+Lexopen

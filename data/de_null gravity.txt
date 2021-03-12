@@ -1,0 +1,2322 @@
+Die Zentrifugalkraft (von lateinisch centrum, Mitte und fugere, fliehen), auch Fliehkraft, ist eine Trägheitskraft, die bei Dreh- und Kreisbewegungen auftritt und radial von der Rotationsachse nach außen gerichtet ist. Sie wird durch die Trägheit des Körpers verursacht. Die Auswirkungen der Zentrifugalkraft sind im Alltag vielfach erlebbar, beispielsweise wenn beim Kettenkarussell die Sitze nach außen gedrängt werden, in der Salatschleuder das Wasser nach außen geschleudert wird oder sich ein Zweiradfahrer „in die Kurve legen“ muss.
+In der klassischen Mechanik bezeichnet die Zentrifugalkraft:
+
+den Trägheitswiderstand, den der Körper nach dem Trägheitsprinzip der Änderung der Richtung seiner Bewegung entgegensetzt, wenn er einer gekrümmten Bahn folgt. Die Zentrifugalkraft ist stets entgegengesetzt gleich zur Zentripetalkraft, die diese Änderung der Bewegungsrichtung verursacht. Die Zentrifugalkraft steht mit der Zentripetalkraft im dynamischen Gleichgewicht.
+eine Kraft, die immer dann berücksichtigt werden muss, wenn man die Bewegung eines Körpers bezüglich eines rotierenden Bezugssystems beschreibt. Sie ergibt sich aus der Zentrifugalbeschleunigung durch Multiplikation mit der Masse. Diese Trägheitskraft ist abhängig vom Ort und der Winkelgeschwindigkeit des Bezugssystems. Sie tritt auch bei Abwesenheit einer Zentripetalkraft auf, jedoch nie in einem Inertialsystem.Die Zentrifugalkraft ist eine Scheinkraft und genügt daher nicht dem Prinzip von Actio und Reactio.
+
+
+== Geschichte ==
+Eine qualitative Beschreibung der Zentrifugalkraft findet sich bereits in den 1644 erschienenen Prinzipien der Philosophie von René Descartes. Quantitativ wurde sie erstmals 1669 in einem Brief von Christian Huygens an den Sekretär der Royal Society Henry Oldenbourg abgeleitet, auch in Huygens' Horologium Oscillatorium von 1673 ohne Ableitung erwähnt und ausführlich in seiner nachgelassenen Schrift aus dem Jahr 1659 De Vis Centrifuga (erschienen 1703). Huygens gewann die Formel aus der Betrachtung, wie sich ein von der Schleuder gelöster Stein in anfänglich quadratischer Weise von der Fortsetzung der Kreisbewegung entfernt. Der Begriff der Zentrifugalkraft ist damit noch älter als der der allgemeinen Massenanziehung, die 1686 durch Isaac Newton bekannt gemacht wurde. Auch Newton beschrieb die Zentrifugalkraft, aber erst nach Huygens und unabhängig von diesem.
+Aus der Beobachtung, dass die Zentrifugalkraft in einem rotierenden Eimer die Wasseroberfläche verformt, schloss Newton, dass eine Drehbewegung sich absolut feststellen lässt, mithin ein Absoluter Raum existieren muss.
+Nach langer Unklarheit über den Ursprung der Zentrifugalkraft wurde 1746 von Daniel Bernoulli erkannt, dass sie keine ursprüngliche, der Natur innewohnende Gegebenheit ist, sondern von der Wahl des zur Beschreibung genutzten Bezugssystems abhängt. Kurz zuvor hatte Jean-Baptiste le Rond d’Alembert das allgemeine Konzept der Trägheitskraft als das Negative des Produkts aus Masse und Beschleunigung des Körpers formuliert. Kurz danach erkannte Leonhard Euler das allgemeine Konzept von Trägheitskräften in einem beschleunigten Bezugssystem.
+
+
+== Trägheitswiderstand ==
+
+
+=== D'Alembertsche Trägheitskraft ===
+Beschreibt der Schwerpunkt eines Körpers mit der Masse 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   in einem Inertialsystem eine gekrümmte Bahn, so ist dafür eine Kraft erforderlich, die eine zur Bahnkurve senkrechte Komponente besitzt. Diese Komponente wird Zentripetalkraft 
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            Zp
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{\text{Zp}}}
+   genannt. Gemäß dem zweiten newtonschen Gesetz bewirkt sie eine zu ihr proportionale Zentripetalbeschleunigung 
+  
+    
+      
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            Zp
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}_{\text{Zp}}}
+  , die zum (momentanen) Krümmungsmittelpunkt der Bahn gerichtet ist:
+
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            Zp
+          
+        
+        =
+        m
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            Zp
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{\text{Zp}}=m{\vec {a}}_{\text{Zp}}}
+  Nach d'Alembert schreibt man diese Grundgleichung der Mechanik in der Form
+
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            Zp
+          
+        
+        −
+        m
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            Zp
+          
+        
+        =
+        
+          
+            
+              0
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{\text{Zp}}-m{\vec {a}}_{\text{Zp}}={\vec {0}}}
+  und fasst den zweiten Term formal als Kraft auf. Diese Kraft wird als Zentrifugalkraft 
+  
+    
+      
+        
+          F
+          
+            Zf
+          
+        
+      
+    
+    {\displaystyle F_{\text{Zf}}}
+   bezeichnet. Sie ist eine Trägheitskraft, genauer eine d'Alembertsche Trägheitskraft. Es gilt
+
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            Zp
+          
+        
+        +
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            Zf
+          
+        
+        =
+        
+          
+            
+              0
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{\text{Zp}}+{\vec {F}}_{\text{Zf}}={\vec {0}}}
+  und daher
+
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            Zf
+          
+        
+        =
+        −
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            Zp
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{\text{Zf}}=-{\vec {F}}_{\text{Zp}}}
+  .Die Zentrifugalkraft ist stets entgegengesetzt gleich groß wie die Zentripetalkraft.Der Trägheitswiderstand quantifiziert eine Eigenschaft der Trägheit, die sich dadurch äußert, wie sich ein Körper durch eine Trägheitskraft („vis inertiae“) der Änderung einer bestehenden Bewegung widersetzt.
+Die Zentrifugalkraft im d’Alembertschen Sinn setzt immer das Wirken einer Zentripetalkraft voraus. Sie bildet zusammen mit der Zentripetalkraft ein dynamisches Gleichgewicht. Das ist aber kein Kräftepaar im Sinne von „Actio und Reactio“, denn beide Kräfte greifen am selben Körper an.
+Die als d'Alembertsche Trägheitskraft zur Zentripetalbeschleunigung definierte Zentrifugalkraft stimmt in Richtung und Stärke mit der Zentrifugalkraft überein, wie sie als Scheinkraft in einem Bezugssystem mit dem Ursprung im Krümmungsmittelpunkt berechnet wird, und in dem der Körper ruht (siehe unten).
+
+Ein Beispiel für das dynamische Gleichgewicht von Zentripetalkraft und Zentrifugalkraft ist das Experiment, bei dem z. B. ein Ball der an einem Seil befestigt ist, im Kreis bewegt wird. Das Seil, das den Ball auf einer Kreisbahn hält, wird durch die Zentripetalkraft (Kraft (2) im nebenstehenden Bild) gespannt. Dies kann z. B. auch mit einer Federwaage unabhängig vom Bezugssystem gemessen werden.
+In dieser Sichtweise, die einer gängigen Vorstellung entspricht, übt die Feder eine Zentripetalkraft auf den Ball aus, sodass dieser auf eine Kreisbahn gezwungen wird, und umgekehrt zieht auch der Ball an der Feder. Da aber von außen betrachtet außer der Federkraft keine weitere äußere Kraft vorhanden ist, entspricht dieses Bild der d'Alembertschen Sicht des dynamischen Gleichgewichts zwischen äußerer Kraft und Trägheitskraft. Zur Erklärung des Vorgangs ist die Zentrifugalkraft nicht erforderlich.
+
+
+=== Formeln ===
+Für eine Kreisbahn ist die Zentrifugalkraft 
+  
+    
+      
+        
+          F
+          
+            Zf
+          
+        
+      
+    
+    {\displaystyle F_{\text{Zf}}}
+   radial vom Mittelpunkt nach außen gerichtet. Ihre Stärke kann mithilfe der Masse 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  , des Radius 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   des Kreises und der Bahngeschwindigkeit 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   nach derselben Formel berechnet werden wie die Zentripetalkraft. Es gilt (zur Herleitung siehe Zentripetalkraft#Mathematische Herleitung):
+
+  
+    
+      
+        
+          F
+          
+            Zf
+          
+        
+        =
+        m
+        
+        
+          
+            
+              v
+              
+                2
+              
+            
+            r
+          
+        
+      
+    
+    {\displaystyle F_{\text{Zf}}=m\,{\frac {v^{2}}{r}}}
+  Diese Gleichung gilt ganz allgemein, auch wenn ein Körper eine beliebig gekrümmte Bahn durchläuft. Dabei ist der Krümmungsradius 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   der Radius des Kreises, der sich am jeweiligen Ort des Körpers an seine Bahn anschmiegt.
+Die Kreisbewegung kann auch als Rotation um den Krümmungsmittelpunkt mit der Winkelgeschwindigkeit 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   aufgefasst werden. Die Bahngeschwindigkeit 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   hängt mit der Winkelgeschwindigkeit und dem Radius des Kreises zusammen durch
+
+  
+    
+      
+        v
+        =
+        ω
+        
+        r
+      
+    
+    {\displaystyle v=\omega \,r}
+  .Daher kann die Zentrifugalkraft auch in Abhängigkeit von der Winkelgeschwindigkeit angegeben werden:
+
+  
+    
+      
+        
+          F
+          
+            Zf
+          
+        
+        =
+        m
+        
+        
+          ω
+          
+            2
+          
+        
+        
+        r
+      
+    
+    {\displaystyle F_{\text{Zf}}=m\,\omega ^{2}\,r}
+  
+
+
+=== Alltagserfahrungen ===
+
+Die praktische Erfahrung lehrt, dass man sich auf einem Karussell festhalten muss, um nicht herunter geschleudert zu werden. Dies wird meist mit der Zentrifugalkraft erklärt. Eine andere gleichwertige Erklärung würde argumentieren, dass für die Kreisbewegung eine Zentripetalkraft erforderlich ist, die überwiegend von der Hand aufgebracht werden muss.Die Schrägstellung der Kette beim Kettenkarussell wird nach gängiger Vorstellung der Zentrifugalkraft zugeschrieben. Die Resultierende aus Gewichtskraft und Zentrifugalkraft zeigt in Richtung der Kette. Eine nicht so verbreitete Erklärung des Vorgangs argumentiert, dass für die Kreisbewegung eine Zentripetalkraft erforderlich ist. Diese wird durch die Schrägstellung der Kette bewirkt und sorgt für die notwendige Kraft in Richtung der Drehachse. Beide Erklärungen sind gleichwertig, da Zentripetalkraft und Zentrifugalkraft entgegengesetzt gleich groß sind.Die weit verbreite Vorstellung, man würde deshalb aus der Kurve „getragen“, weil die Zentrifugalkraft größer sei als die Zentripetalkraft, trifft nicht zu. Allerdings ist diejenige Zentrifugalkraft, die beim Durchfahren der beabsichtigten Kurve auftreten würde, größer als die maximale Zentripetalkraft, die von der Fahrbahn auf das Fahrzeug übertragen werden kann. Die tatsächlich wirkende Zentripetalkraft reicht dann nicht aus, bei der gegebenen Geschwindigkeit die Änderung der Bewegungsrichtung längs einer Kreisbahn herbeizuführen. Beispiel: Die Haftreibung der Autoreifen reicht nicht aus.Ein Autofahrer mit der Masse von 70 kg (
+  
+    
+      
+        m
+        g
+        ≈
+      
+    
+    {\displaystyle mg\approx }
+   700 N) fährt mit 15 m/s (54 km/h) durch eine Rechtskurve mit einem Radius von 75 m. Die Zentripetalkraft ist dann
+  
+    
+      
+        
+          F
+          
+            Zp
+          
+        
+        =
+        70
+        
+        
+          k
+          g
+        
+        
+          
+            
+              (
+              
+                
+                  15
+                  
+                  
+                    m
+                    
+                      /
+                    
+                    s
+                  
+                  )
+                
+                
+                  2
+                
+              
+            
+            
+              75
+              
+              
+                m
+              
+            
+          
+        
+        =
+        70
+        
+        
+          k
+          g
+        
+        ⋅
+        3
+        
+        
+          m
+          
+            /
+          
+          
+            s
+            
+              2
+            
+          
+        
+        =
+        210
+        
+        
+          N
+        
+        .
+      
+    
+    {\displaystyle F_{\text{Zp}}=70\;\mathrm {kg} {\frac {({15\;\mathrm {m/s} )}^{2}}{75\;\mathrm {m} }}=70\;\mathrm {kg} \cdot 3\;\mathrm {m/s^{2}} =210\,\mathrm {N} .}
+  Die Zentripetalkraft wirkt von links auf den Fahrer ein und zwingt ihn aus seiner zunächst geradlinigen Trägheitsbewegung in die Kurvenbahn, gerade so, dass er im Auto seine Position beibehält. Die Kraft hat in diesem Beispiel eine Stärke von ca. 30 % der Gewichtskraft (
+  
+    
+      
+        m
+        g
+        ≈
+      
+    
+    {\displaystyle mg\approx }
+   700 N).  Sie wird vom Fahrersitz auf den Fahrer ausgeübt und er spürt sie dadurch, dass er sich von einer Kraft in den Sitz gedrückt fühlt. Diese Zentrifugalkraft hat dieselbe Größe, aber die umgekehrte Richtung wie die Zentripetalkraft.Da die Zentrifugalkraft aber eine Volumenkraft als Folge einer Beschleunigung ist, sind die Angriffspunkte von Zentripetalkraft und Zentrifugalkraft unterschiedlich. Die Zentrifugalkraft ist wie die Gewichtskraft stets im Schwerpunkt eines Körpers anzusetzen. Die Zentripetalkraft setzt sich dagegen in der Regel aus mehreren Einzelkräften an unterschiedlichen Orten zusammen, z. B. aus den Seitenkräften beim Auto.
+Wegen des unterschiedlichen Charakters von Zentripetal- und Zentrifugalkraft werden diese auch unterschiedlich wahrgenommen. Im allgemeinen Sprachgebrauch wird daher der Begriff Zentrifugalkraft dann benutzt, wenn die Wirkung auf den gesamten Körper beschrieben werden soll. Bei Kampfpiloten gehört der Aufenthalt in Humanzentrifugen zur Ausbildung. Die Zentrifugalkraft wirkt sich hier wie eine stark erhöhte Gravitation aus, da nach dem Äquivalenzprinzip Schwerkraft und Beschleunigung nicht unterschieden werden können. Der Charakter als Volumenkraft ist hier besonders stark spürbar, das sie sich auf die inneren Organe und den Blutkreislauf auswirkt. Wie zuvor gezeigt wurde, ist die Zentrifugalkraft bei allen Beispielen als d'Alembertsche Trägheitskraft aufzufassen.
+
+
+== Bezugssystemabhängige Scheinkräfte ==
+
+
+=== Allgemein beschleunigtes Bezugssystem ===
+
+Scheinkräfte müssen immer dann berücksichtigt werden, wenn man eine Bewegungsgleichung in einem Bezugssystem aufstellt, das selbst gegenüber dem Inertialsystem beschleunigt wird. Betrachtet man z. B. die Funken, die sich von einer Schleifscheibe lösen, in einem Inertialsystem, so bewegen sich diese geradlinig, da sie kräftefrei sind. Im rotierenden Bezugssystem der Schleifscheibe wird die Relativbeschleunigung der Teilchen dagegen mit einer Scheinkraft erklärt.
+
+
+==== Bewegungsgleichung ====
+Um zwischen den Größen eines Objektes (Ort, Geschwindigkeit, Beschleunigung) in zwei Bezugssystemen zu unterscheiden, wird die normale Notation im Inertialsystem verwendet und das nichtinertiale Bezugssystem erhält den gleichen Buchstaben mit einem Apostroph (engl. prime). Letzteres wird dann auch als „gestrichenes Bezugssystem“ bezeichnet.
+Das zweite newtonsche Gesetz gilt in seiner ursprünglichen Form nur im Inertialsystem. Die Impulsänderung ist in diesem Bezugssystem proportional zur äußeren Kraft 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}}
+  :
+
+  
+    
+      
+        m
+        
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle m\,{\vec {a}}={\vec {F}}}
+  Möchte man eine analoge Bewegungsgleichung in einem Bezugssystem aufstellen, das kein Inertialsystem ist, müssen Scheinkräfte berücksichtigt werden. Mit Hilfe kinematischer Beziehungen wird die Beschleunigung im Inertialsystem durch Größen ausgedrückt, die in einem beschleunigten Bezugssystem gegeben sind:
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            B
+          
+        
+        +
+        
+          
+            
+              ω
+              →
+            
+          
+        
+        ×
+        (
+        
+          
+            
+              ω
+              →
+            
+          
+        
+        ×
+        
+          
+            
+              r
+              →
+            
+          
+        
+        
+          
+            
+            ′
+          
+        
+        )
+        +
+        
+          
+            
+              
+                
+                  ω
+                  →
+                
+              
+              ˙
+            
+          
+        
+        ×
+        
+          
+            
+              r
+              →
+            
+          
+        
+        
+          
+            
+            ′
+          
+        
+        +
+        2
+        
+        
+          
+            
+              ω
+              →
+            
+          
+        
+        ×
+        
+          
+            
+              v
+              →
+            
+          
+        
+        
+          
+            
+            ′
+          
+        
+        +
+        
+          
+            
+              a
+              →
+            
+          
+        
+        
+          
+            
+            ′
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}={\frac {d{\vec {v}}}{dt}}={\vec {a}}_{B}+{\vec {\omega }}\times ({\vec {\omega }}\times {\vec {r}}{\;'})+{\dot {\vec {\omega }}}\times {\vec {r}}{\;'}+2\,{\vec {\omega }}\times {\vec {v}}{\;'}+{\vec {a}}{\;'}}
+  Einsetzen in die Newtonsche Bewegungsgleichung und Umstellung nach dem Term mit der Relativbeschleunigung ergibt:
+
+  
+    
+      
+        m
+        
+        
+          
+            
+              a
+              →
+            
+          
+        
+        
+          
+            
+            ′
+          
+        
+        =
+        
+          
+            
+              F
+              →
+            
+          
+        
+        −
+        m
+        
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            B
+          
+        
+        
+          
+            
+              
+                −
+                m
+                
+                
+                  
+                    
+                      ω
+                      →
+                    
+                  
+                
+                ×
+                (
+                
+                  
+                    
+                      ω
+                      →
+                    
+                  
+                
+                ×
+                
+                  
+                    
+                      r
+                      →
+                    
+                  
+                
+                
+                  
+                    
+                    ′
+                  
+                
+                )
+              
+              ⏟
+            
+          
+          
+            
+              
+                
+                  
+                    F
+                    →
+                  
+                
+              
+              
+                zentrifugal
+              
+            
+          
+        
+        
+          
+            
+              
+                −
+                m
+                
+                
+                  
+                    
+                      
+                        
+                          ω
+                          →
+                        
+                      
+                      ˙
+                    
+                  
+                
+                ×
+                
+                  
+                    
+                      r
+                      →
+                    
+                  
+                
+                
+                  
+                    
+                    ′
+                  
+                
+              
+              ⏟
+            
+          
+          
+            
+              
+                
+                  
+                    F
+                    →
+                  
+                
+              
+              
+                Euler
+              
+            
+          
+        
+        
+          
+            
+              
+                −
+                2
+                m
+                
+                
+                  
+                    
+                      ω
+                      →
+                    
+                  
+                
+                ×
+                
+                  
+                    
+                      v
+                      →
+                    
+                  
+                
+                
+                  
+                    
+                    ′
+                  
+                
+              
+              ⏟
+            
+          
+          
+            
+              
+                
+                  
+                    F
+                    →
+                  
+                
+              
+              
+                Coriolis
+              
+            
+          
+        
+      
+    
+    {\displaystyle m\,{\vec {a}}{\;'}={\vec {F}}-m\,{\vec {a}}_{B}\underbrace {-m\,{\vec {\omega }}\times ({\vec {\omega }}\times {\vec {r}}{\;'})} _{{\vec {F}}_{\text{zentrifugal}}}\underbrace {-m\,{\dot {\vec {\omega }}}\times {\vec {r}}{\;'}} _{{\vec {F}}_{\text{Euler}}}\underbrace {-2m\,{\vec {\omega }}\times {\vec {v}}{\;'}} _{{\vec {F}}_{\text{Coriolis}}}}
+  Das Produkt aus Masse 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   und Relativbeschleunigung 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        
+          
+            
+            ′
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}{\;'}}
+   entspricht der Summe der in diesem Bezugssystem wirkenden Kräfte. Diese setzen sich aus den äußeren Kräften und den Scheinkräften zusammen.
+Der Term 
+  
+    
+      
+        −
+        m
+        
+        
+          
+            
+              ω
+              →
+            
+          
+        
+        ×
+        (
+        
+          
+            
+              ω
+              →
+            
+          
+        
+        ×
+        
+          
+            
+              r
+              →
+            
+          
+        
+        
+          
+            
+            ′
+          
+        
+        )
+      
+    
+    {\displaystyle -m\,{\vec {\omega }}\times ({\vec {\omega }}\times {\vec {r}}{\;'})}
+   ist die Zentrifugalkraft, die berücksichtigt werden muss, wenn der Impulssatz im beschleunigten Bezugssystem angewandt wird. Diese Kraft ist unabhängig davon, ob eine Zentripetalkraft vorhanden ist oder nicht. Die Zentrifugalkraft ist senkrecht zur Winkelgeschwindigkeit 
+  
+    
+      
+        
+          
+            
+              ω
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\omega }}}
+   im Bezugssystem radial nach außen gerichtet. Die Zentrifugalkraft ist auf einer Achse, die durch den Ursprung des Bezugssystems geht und in Richtung der Winkelgeschwindigkeit zeigt null, selbst wenn der Ursprung des Bezugssystems eine Kreisbewegung ausführt. Die weiteren Scheinkräfte sind 
+  
+    
+      
+        −
+        m
+        
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            B
+          
+        
+      
+    
+    {\displaystyle -m\,{\vec {a}}_{B}}
+   (zuweilen Einsteinkraft genannt), die Eulerkraft und die Corioliskraft.
+Stehen Radiusvektor und Winkelgeschwindigkeit senkrecht aufeinander, so ergibt sich mit 
+  
+    
+      
+        r
+        =
+        
+          |
+          
+            
+              
+                
+                  r
+                  →
+                
+              
+            
+            
+              
+                
+                ′
+              
+            
+          
+          |
+        
+      
+    
+    {\displaystyle r=\left|{\vec {r}}{\;'}\right|}
+   für den Betrag der Zentrifugalkraft:
+
+  
+    
+      
+        
+          F
+          
+            Zf
+          
+        
+        =
+        m
+        
+          ω
+          
+            2
+          
+        
+        r
+      
+    
+    {\displaystyle F_{\text{Zf}}=m\omega ^{2}r}
+  
+
+
+=== Rotierendes Bezugssystem ===
+Rotationen werden häufig in einem Bezugssystem beschrieben, bei dem der Ursprung im ortsfesten oder momentanen Krümmungsmittelpunkt liegt und das sich mit einer Winkelgeschwindigkeit 
+  
+    
+      
+        
+          
+            
+              ω
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\omega }}}
+   um diesen Krümmungsmittelpunkt dreht. Der Ursprung des Bezugsystems ist nicht beschleunigt. Nimmt man an, dass als äußere Kraft nur die Zentripetalkraft wirkt, lautet die Bewegungsgleichung im rotierenden Bezugssystem allgemein:
+
+  
+    
+      
+        m
+        
+        
+          
+            
+              a
+              →
+            
+          
+        
+        
+          
+            
+            ′
+          
+        
+        =
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            Zp
+          
+        
+        
+          
+            
+              
+                −
+                m
+                
+                
+                  
+                    
+                      ω
+                      →
+                    
+                  
+                
+                ×
+                (
+                
+                  
+                    
+                      ω
+                      →
+                    
+                  
+                
+                ×
+                
+                  
+                    
+                      r
+                      →
+                    
+                  
+                
+                
+                  
+                    
+                    ′
+                  
+                
+                )
+              
+              ⏟
+            
+          
+          
+            
+              
+                
+                  
+                    F
+                    →
+                  
+                
+              
+              
+                zentrifugal
+              
+            
+          
+        
+        
+          
+            
+              
+                −
+                m
+                
+                
+                  
+                    
+                      
+                        
+                          ω
+                          →
+                        
+                      
+                      ˙
+                    
+                  
+                
+                ×
+                
+                  
+                    
+                      r
+                      →
+                    
+                  
+                
+                
+                  
+                    
+                    ′
+                  
+                
+              
+              ⏟
+            
+          
+          
+            
+              
+                
+                  
+                    F
+                    →
+                  
+                
+              
+              
+                Euler
+              
+            
+          
+        
+        
+          
+            
+              
+                −
+                2
+                m
+                
+                
+                  
+                    
+                      ω
+                      →
+                    
+                  
+                
+                ×
+                
+                  
+                    
+                      v
+                      →
+                    
+                  
+                
+                
+                  
+                    
+                    ′
+                  
+                
+              
+              ⏟
+            
+          
+          
+            
+              
+                
+                  
+                    F
+                    →
+                  
+                
+              
+              
+                Coriolis
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            Zp
+          
+        
+        +
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            Zf
+          
+        
+        +
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            E
+          
+        
+        +
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            C
+          
+        
+      
+    
+    {\displaystyle m\,{\vec {a}}{\;'}={\vec {F}}_{\text{Zp}}\underbrace {-m\,{\vec {\omega }}\times ({\vec {\omega }}\times {\vec {r}}{\;'})} _{{\vec {F}}_{\text{zentrifugal}}}\underbrace {-m\,{\dot {\vec {\omega }}}\times {\vec {r}}{\;'}} _{{\vec {F}}_{\text{Euler}}}\underbrace {-2m\,{\vec {\omega }}\times {\vec {v}}{\;'}} _{{\vec {F}}_{\text{Coriolis}}}={\vec {F}}_{\text{Zp}}+{\vec {F}}_{\text{Zf}}+{\vec {F}}_{\text{E}}+{\vec {F}}_{\text{C}}}
+  
+
+
+==== Spezialfälle ====
+Zunächst wird der Spezialfall betrachtet, dass der Körper im rotierenden Bezugssystem ruht und 
+  
+    
+      
+        
+          
+            
+              ω
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\omega }}}
+   konstant bleibt. Dann sind die Relativbeschleunigung, die Corioliskraft und die Eulerkraft null. Es bleibt:
+
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            Zp
+          
+        
+        +
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            Zf
+          
+        
+        =
+        
+          
+            
+              0
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{\text{Zp}}+{\vec {F}}_{\text{Zf}}={\vec {0}}}
+  Es ergibt sich dieselbe Beziehung wie beim dynamischen Gleichgewicht. Dennoch ist das Ergebnis an unterschiedliche Voraussetzungen geknüpft. Während sich die d’Alembertsche Trägheitskraft als negatives Produkt aus Masse und Absolutbeschleunigung im Inertialsystem ergibt, wird hier ein spezielles Bezugssystem vorausgesetzt.
+In diesem Bezugssystem kompensieren sich die nach außen gerichtete Fliehkraft 
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            Zf
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{\text{Zf}}}
+   und die nach innen gerichtete Zentripetalkraft 
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            Zp
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{\text{Zp}}}
+  . Anschaulich formuliert: Wenn ein Objekt auf einer rotierenden Scheibe „stehen bleiben“ soll, muss etwas das Objekt festhalten. Die Fliehkraft und die Zentripetalkraft addieren sich zu null, sodass der Körper „in Ruhe“, also an derselben Stelle des rotierenden Bezugssystems bleibt.
+Beispiele:
+
+Wird ein Insasse zum Beispiel durch einen Sicherheitsgurt, durch Haftreibung auf dem Sitz, durch Kontaktkräfte etc. in einem Auto festgehalten, so übt das im rotierenden Bezugssystem eine der Zentrifugalkraft entgegengesetzte, gleich große Kraft auf ihn aus. Diese Kraft dient gerade als Zentripetalkraft, um den Insassen auf derselben gekrümmten Bahn zu halten, die das Auto durchläuft. In diesem Sinne sind Zentrifugalkraft und Zentripetalkraft einander entgegengesetzte, gleich große Kräfte.
+Bei einem Astronauten, der in einem Satelliten die Erde umkreist, ist die Gravitationsbeschleunigung für die Raumkapsel und ihn gleich groß und sorgt als Zentripetalbeschleunigung dafür, dass beide die gleiche Kreisbahn um die Erde durchlaufen. In einem Bezugssystem mit Ursprung im Erdmittelpunkt, in dem der Satellit ruht, wirken zwei Kräfte auf den Astronauten: die Gravitationskraft und die Zentrifugalkraft. Diese sind entgegengesetzt gleich groß.Beim nächsten wichtigen Spezialfall fehlt die äußere Kraft (z. B. bei den Funken, die sich ablösen):
+
+  
+    
+      
+        m
+        
+        
+          
+            
+              a
+              →
+            
+          
+        
+        
+          
+            
+            ′
+          
+        
+        =
+        
+          
+            
+              
+                −
+                m
+                
+                
+                  
+                    
+                      ω
+                      →
+                    
+                  
+                
+                ×
+                (
+                
+                  
+                    
+                      ω
+                      →
+                    
+                  
+                
+                ×
+                
+                  
+                    
+                      r
+                      →
+                    
+                  
+                
+                
+                  
+                    
+                    ′
+                  
+                
+                )
+              
+              ⏟
+            
+          
+          
+            
+              
+                
+                  
+                    F
+                    →
+                  
+                
+              
+              
+                zentrifugal
+              
+            
+          
+        
+        
+          
+            
+              
+                −
+                m
+                
+                
+                  
+                    
+                      
+                        
+                          ω
+                          →
+                        
+                      
+                      ˙
+                    
+                  
+                
+                ×
+                
+                  
+                    
+                      r
+                      →
+                    
+                  
+                
+                
+                  
+                    
+                    ′
+                  
+                
+              
+              ⏟
+            
+          
+          
+            
+              
+                
+                  
+                    F
+                    →
+                  
+                
+              
+              
+                Euler
+              
+            
+          
+        
+        
+          
+            
+              
+                −
+                2
+                m
+                
+                
+                  
+                    
+                      ω
+                      →
+                    
+                  
+                
+                ×
+                
+                  
+                    
+                      v
+                      →
+                    
+                  
+                
+                
+                  
+                    
+                    ′
+                  
+                
+              
+              ⏟
+            
+          
+          
+            
+              
+                
+                  
+                    F
+                    →
+                  
+                
+              
+              
+                Coriolis
+              
+            
+          
+        
+      
+    
+    {\displaystyle m\,{\vec {a}}{\;'}=\underbrace {-m\,{\vec {\omega }}\times ({\vec {\omega }}\times {\vec {r}}{\;'})} _{{\vec {F}}_{\text{zentrifugal}}}\underbrace {-m\,{\dot {\vec {\omega }}}\times {\vec {r}}{\;'}} _{{\vec {F}}_{\text{Euler}}}\underbrace {-2m\,{\vec {\omega }}\times {\vec {v}}{\;'}} _{{\vec {F}}_{\text{Coriolis}}}}
+  Die Zentrifugalkraft hängt bei dieser Definition von der Wahl des Bezugssystems ab, aber unabhängig davon ob eine äußere Kraft vorhanden ist oder nicht. Die Relativbewegung kann in diesem Fall aber nur durch eine Kombination mehrerer Scheinkräfte interpretiert werden, von denen z. B. auch die Corioliskraft eine radiale Richtung haben kann. Beispiel hierfür wäre die Bewegung eines im Inertialsystem ruhenden Körpers, die in einem rotierenden Bezugssystem beschrieben wird.
+Beispiele:
+
+Liegt auf dem Beifahrersitz ein Apfel, so sieht der Fahrer in jeder Kurve, wie der Apfel im Auto zur Seite beschleunigt wird. Hier wird die Beschleunigung des Apfels mit einer Scheinkraft erklärt, der keine gleich große Zentripetalkraft entgegensteht.Wenn bei einem Körper auf einer Kreisbahn schlagartig die Zentripetalkraft wegfällt, so beschreibt er im mitrotierenden Bezugssystem eine Kreisevolvente als Flugbahn, während er im nicht rotierenden Bezugssystem geradlinig in Richtung der Tangente weiterfliegt. Die Kreisevolvente zeigt nur in ihrem ersten Teilstück genau von der Rotationsachse weg.
+
+
+==== Zentrifugalpotential ====
+Die Zentrifugalkraft im rotierenden Bezugssystem ergibt sich aus einer reinen Umrechnung von Koordinaten zwischen einem rotierenden und einem inertialen Bezugssystem. Von ihr kann also auch gesprochen werden, ohne dass ein bestimmter Körper in einem Inertialsystem eine gekrümmte Bahn beschreibt oder dass überhaupt ein bestimmter Körper betrachtet wird. Damit ist die Zentrifugalkraft in einem rotierenden Bezugssystem so präsent wie ein zusätzliches Kraftfeld. Dies Kraftfeld ist konservativ, so dass es auch durch ein Potential ausgedrückt werden kann:
+
+  
+    
+      
+        
+          V
+          
+            
+              Z
+              f
+            
+          
+        
+        (
+        
+          
+            
+              r
+              →
+            
+          
+        
+        )
+        =
+        −
+        
+          
+            
+              (
+              
+                
+                  
+                    ω
+                    →
+                  
+                
+              
+              ×
+              
+                
+                  
+                    r
+                    →
+                  
+                
+              
+              
+                )
+                
+                  2
+                
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle V_{\mathrm {Zf} }({\vec {r}})=-{\frac {({\vec {\omega }}\times {\vec {r}})^{2}}{2}}}
+  Es trägt den Namen Zentrifugalpotential, sein Gradient, negativ genommen, ist die Zentrifugalbeschleunigung. Die direkte physikalische Bedeutung (nach Multiplikation mit der Masse) ist die (negativ gezählte) kinetische Energie des im rotierenden Bezugssystem ruhenden Körpers, die dieser aufgrund seiner Umlaufgeschwindigkeit 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          
+            
+              ω
+              →
+            
+          
+        
+        ×
+        
+          
+            
+              r
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}={\vec {\omega }}\times {\vec {r}}}
+   hat:
+
+  
+    
+      
+        m
+        
+        
+          V
+          
+            
+              Z
+              f
+            
+          
+        
+        (
+        
+          
+            
+              r
+              →
+            
+          
+        
+        )
+        =
+        −
+        m
+        
+        
+          
+            
+              (
+              
+                
+                  
+                    ω
+                    →
+                  
+                
+              
+              ×
+              
+                
+                  
+                    r
+                    →
+                  
+                
+              
+              
+                )
+                
+                  2
+                
+              
+            
+            2
+          
+        
+        =
+        −
+        m
+        
+        
+          
+            
+              v
+              
+                2
+              
+            
+            2
+          
+        
+        =
+        −
+        
+          E
+          
+            
+              k
+              i
+              n
+            
+          
+        
+      
+    
+    {\displaystyle m\;V_{\mathrm {Zf} }({\vec {r}})=-m\;{\frac {({\vec {\omega }}\times {\vec {r}})^{2}}{2}}=-m\;{\frac {v^{2}}{2}}=-E_{\mathrm {kin} }}
+  Mit diesem Zentrifugalpotential kann man im rotierenden Bezugssystem genau so rechnen wie mit den üblichen potentiellen Energien im Inertialsystem, die zu den durch Wechselwirkungen verursachten Kraftfeldern (z. B. Gravitation, Coulomb-Kraft) gehören. Im Unterschied zu diesen ist das Feld der Zentrifugalkraft nicht auf einen anderen Körper bezogen, der die Quelle dieses Feldes wäre. Die Zentrifugalkraft ist stattdessen auf die Rotationsachse des Bezugssystems bezogen, und sie wird mit steigendem Abstand nicht schwächer, sondern stärker. Mit einem anderen Zentralpotential kann das Zentrifugalpotential zum effektiven Potential zusammengefasst werden.
+
+AnwendungsbeispielZum Beispiel leistet man Arbeit gegen die Zentrifugalkraft, wenn man einen Körper ausschließlich mit inneren Kräften näher an die Rotationsachse heranführt (z. B. das Halteseil anzieht). Diese Arbeit findet sich quantitativ in der Erhöhung der potentiellen Energie im Zentrifugalpotential wieder. Zur Berechnung muss man berücksichtigen, dass die Winkelgeschwindigkeit sich bei der Annäherung erhöht, denn der Drehimpuls 
+  
+    
+      
+        L
+        =
+        ω
+        m
+        
+          r
+          
+            2
+          
+        
+      
+    
+    {\displaystyle L=\omega mr^{2}}
+   bleibt konstant (Formel vereinfacht für Koordinatenursprung in der Bewegungsebene). Damit variieren längs des Weges die Winkelgeschwindigkeit und die potentielle Zentrifugalenergie gemäß
+
+  
+    
+      
+        ω
+        =
+        
+          
+            L
+            
+              m
+              
+                r
+                
+                  2
+                
+              
+            
+          
+        
+        
+        ,
+        
+        m
+        
+        
+          V
+          
+            
+              Z
+              f
+            
+          
+        
+        (
+        r
+        )
+        =
+        −
+        
+          
+            
+              L
+              
+                2
+              
+            
+            
+              2
+              m
+              
+                r
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \omega ={\frac {L}{mr^{2}}}\quad ,\quad m\;V_{\mathrm {Zf} }(r)=-{\frac {L^{2}}{2mr^{2}}}}
+  Dieselbe Änderung der potentiellen Energie ergibt sich, wenn man die Zentrifugalkraft entsprechend ausdrückt
+
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+        (
+        r
+        )
+        =
+        m
+        
+          ω
+          
+            2
+          
+        
+        r
+        =
+        
+          
+            
+              L
+              
+                2
+              
+            
+            
+              2
+              m
+              
+                r
+                
+                  3
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}(r)=m\omega ^{2}r={\frac {L^{2}}{2mr^{3}}}}
+  und durch Integration über den Radius die Arbeit ermittelt. Bei anschließender Lockerung des Seils gibt die Zentrifugalkraft diese Arbeit vollständig zurück.
+
+
+== Praktische Beispiele ==
+
+
+=== Rotierende Flüssigkeit ===
+Bei einem mit Wasser gefüllten zylinderförmigen Gefäß, das um seine senkrechte Achse rotiert, nimmt die Wasseroberfläche eine gekrümmte Form an, wobei der Wasserstand außen höher ist als in der Mitte. Die Wasserteilchen werden durch eine Zentripetalkraft auf eine Kreisbahn gezwungen. Im stationären Zustand muss die Vektorsumme von Zentrifugalkraft und Gewichtskraft an jedem Punkt der Oberfläche auf dieser senkrecht stehen. Bezeichnet 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   die Erdbeschleunigung, 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   den Abstand von der Rotationsachse (
+  
+    
+      
+        0
+        ≤
+        r
+        ≤
+        R
+      
+    
+    {\displaystyle 0\leq r\leq R}
+  ) und 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   den Winkel der Wasseroberfläche gegenüber der Waagrechten, so gilt:
+
+  
+    
+      
+        tan
+        ⁡
+        
+          α
+        
+        =
+        
+          
+            
+              
+                
+                  ω
+                
+                
+                  2
+                
+              
+              
+              r
+            
+            g
+          
+        
+      
+    
+    {\displaystyle \tan {\alpha }={\frac {{\omega }^{2}\;r}{g}}}
+  Der Tangens des Winkels ist die Steigung der Wasseroberfläche:
+
+  
+    
+      
+        
+          
+            
+              d
+              z
+            
+            
+              d
+              r
+            
+          
+        
+        =
+        tan
+        ⁡
+        
+          α
+        
+      
+    
+    {\displaystyle {\frac {dz}{dr}}=\tan {\alpha }}
+  Da die Zentrifugalkraft proportional zum Abstand von der Achse ist, hat die Oberfläche die Form eines Rotationsparaboloides und deren Querschnitt durch Integration die Gleichung:
+
+  
+    
+      
+        z
+        =
+        
+          
+            
+              
+                ω
+              
+              
+                2
+              
+            
+            
+              2
+              
+              g
+            
+          
+        
+        
+        
+          r
+          
+            2
+          
+        
+        +
+        
+          z
+          
+            0
+          
+        
+      
+    
+    {\displaystyle z={\frac {{\omega }^{2}}{2\;g}}\;r^{2}+z_{0}}
+  Aus der Volumenkonstanz ergibt sich für den Anstieg des Wasserstands am Rand des Glases:
+
+  
+    
+      
+        H
+        =
+        
+          
+            
+              
+                ω
+              
+              
+                2
+              
+            
+            
+              4
+              
+              g
+            
+          
+        
+        
+        
+          R
+          
+            2
+          
+        
+      
+    
+    {\displaystyle H={\frac {{\omega }^{2}}{4\;g}}\;R^{2}}
+  Da aber ein physikalisches Phänomen nicht durch eine Scheinkraft, die vom gewählten Bezugssystem abhängt erklärt werden kann, findet sich eine gleichwertige Herleitung auf der Basis der Newtonschen Kräfte. Jedes Teilchen des Wasserkörpers wird auf eine Kreisbahn gezwungen. Dazu ist ein Druckgradient in radialer Richtung erforderlich. Dieser wird durch den Gradienten des hydrostatischen Drucks ebenfalls in radialer Richtung erzeugt. Die Steigung der Wasseroberfläche ist das Verhältnis der beiden Druckgradienten und führt wie oben auf die Beziehung:
+
+  
+    
+      
+        tan
+        ⁡
+        
+          α
+        
+        =
+        
+          
+            
+              
+                
+                  ω
+                
+                
+                  2
+                
+              
+              
+              r
+            
+            g
+          
+        
+      
+    
+    {\displaystyle \tan {\alpha }={\frac {{\omega }^{2}\;r}{g}}}
+  Die parabolische Form einer Licht reflektierenden Flüssigkeitsoberfläche findet Anwendung bei den flüssigen Spiegeln astronomischer Spiegelteleskope, die im einfachsten Fall aus Quecksilber bestehen. Deren Brennweite beträgt:
+
+  
+    
+      
+        f
+        =
+        
+          
+            g
+            
+              2
+              
+              
+                ω
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle f={\frac {g}{2\,\omega ^{2}}}}
+  
+
+
+=== Schleudern von Wäsche ===
+Eine Waschmaschine mit einem Trommeldurchmesser von 50 cm hat im Schleudergang eine Drehzahl von 1200 Umdrehungen pro Minute. Die Zentrifugalbeschleunigung für ein mitrotierendes Wäschestück ergibt sich zu
+
+  
+    
+      
+        ω
+        =
+        130
+        
+        
+          
+            
+              r
+              a
+              d
+            
+            
+              s
+            
+          
+        
+        ,
+        
+        r
+        =
+        0
+        
+          ,
+        
+        25
+        
+        
+          m
+        
+        ,
+        
+        
+          a
+          
+            
+              Z
+              f
+            
+          
+        
+        =
+        4000
+        
+        
+          
+            
+              m
+            
+            
+              
+                s
+              
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \omega =130\,{\frac {\mathrm {rad} }{\mathrm {s} }},\qquad r=0{,}25\,\mathrm {m} ,\qquad a_{\mathrm {Zf} }=4000\,{\frac {\mathrm {m} }{\mathrm {s} ^{2}}}.}
+  Hierbei ist 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   die Winkelgeschwindigkeit.
+Das Ergebnis entspricht etwa dem 400-Fachen der Erdbeschleunigung. Auf ein Kleidungsstück an der Trommelwand wirkt somit eine Zentrifugalkraft, die 400-mal so groß ist wie seine Gewichtskraft.
+
+
+=== Achterbahn ===
+Die Zentrifugalkraft ist für die Konstruktion von Achterbahnen von Bedeutung, bei denen für den menschlichen Körper unangenehme Kräfte möglichst vermieden werden sollen, aber solche, die der Schwerkraft entgegenwirken und somit ein Gefühl der Schwerelosigkeit erzeugen, erwünscht sind. Beispielsweise ergibt sich bei kreisförmigen Loopings, bei denen im höchsten Punkt gerade Schwerelosigkeit erzeugt wird, am Einstiegspunkt ein abrupter Anstieg der Beschleunigung um 
+  
+    
+      
+        5
+        g
+      
+    
+    {\displaystyle 5g}
+  , sodass für den mitbewegten Körper plötzlich die fünffache Gewichtskraft als Trägheitskraft auftritt. Deshalb wurde vom Achterbahnkonstrukteur Werner Stengel für Loopings eine Klothoidenform (Cornu-Spirale) der Bahnkurve entwickelt, bei der der Krümmungsradius umgekehrt proportional zur Bogenlänge ist, was zu einem sanften Anstieg der im Fahrzeug auftretenden Trägheitskräfte führt. Die Klothoide war zuvor schon im Straßenbau benutzt worden.
+
+
+=== Technische Anwendungen ===
+Technische Anwendungen der Zentrifugalkraft sind die Zentrifuge, der Fliehkraftabscheider, der Schneckentrieur, das Fliehkraftpendel und der Fliehkraftregler. Bei übermäßiger Beanspruchung kann es auch zum Fliehkraftzerknall kommen.
+
+
+=== Zentrifugalkraft als Ersatz für die Schwerkraft ===
+
+		
+		
+Für künftige Raumstationen unterschiedlicher Größe hat man geplant, die Zentrifugalkraft als Ersatz für die Schwerkraft zu verwenden, weil längere Schwerelosigkeit der Gesundheit des Menschen schaden kann. Der erste Versuch, in einem bemannten Raumfahrzeug Zentrifugalkraft zu nutzen, fand 1966 statt. Dabei hat man die Gemini-11-Kapsel mit der Agena-Raketenstufe durch ein 30 Meter langes Sicherheitsband verbunden und beide Objekte mit etwa einer Umdrehung alle sechs Minuten um den gemeinsamen Schwerpunkt rotieren lassen.
+Als Folge der Zentrifugalkraft zeigt in einer rotierenden Raumstation ein Lot an jedem Ort von der Rotationsachse weg nach außen. Frei „fallende“ Gegenstände entfernen sich von dieser Lotrichtung, und zwar entgegen der Rotationsrichtung der Raumstation. Diese Abweichung kann als eine Folge der Corioliskraft aufgefasst werden. Die Bahnkurve eines frei fallenden Gegenstands hat im rotierenden Bezugssystem der Raumstation die Form einer Kreisevolvente und ist von der Rotationsgeschwindigkeit der Raumstation unabhängig. Jedoch hängt der Größenmaßstab der Kreisevolvente vom Radius der anfänglichen Kreisbahn ab, d. h. von der anfänglichen Entfernung des Gegenstandes von der Rotationsachse. Von einem nicht rotierenden Bezugssystem aus gesehen bewegen sich frei „fallende“ Gegenstände mit konstanter Geschwindigkeit auf einer geraden Linie, die tangential zu ihrer vorherigen Kreisbahn liegt.
+Während viele Satelliten Rotation zur Stabilisierung nutzen, wurde bei der deutschen Mission EuCROPIS (2018/19) dieser Effekt ganz bewusst zur Schwerkraftsimulation eingesetzt. Mit Blick auf zukünftige Mondmissionen sollte das Pflanzenwachstum unter verringerter Schwerkraft untersucht werden. Durch einen technischen Fehler konnte das Gewächshaus jedoch nicht wie geplant betrieben werden.
+
+
+== Weblinks ==
+
+Zentrifugalkraft auf Schülerniveau bei LEIFI
+Video: Coriolis- und Zentrifugalkraft im rotierenden Bezugssystem. Institut für den Wissenschaftlichen Film (IWF) 2007, zur Verfügung gestellt von der Technischen Informationsbibliothek (TIB), doi:10.3203/IWF/C-13095.
+
+
+== Einzelnachweise ==

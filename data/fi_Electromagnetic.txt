@@ -1,0 +1,882 @@
+Sähkömagneettinen säteily on energian aaltoina etenevää virtausta tietyn suuruisina pulsseina, joita kutsutaan  säteilykvanteiksi eli fotoneiksi. Sähkömagneettiset aallot muodostuvat nopeasti värähtelevistä sähkö- ja magneettikentistä. Pulssien värähtely tapahtuu säteilyn etenemissuuntaa vastaan kohtisuorasti kaikkiin suuntiin.
+Sähkömagneettinen säteily saa alkunsa siitä, että atomi vastaanottaa ulkopuolista energiaa. Tällöin atomi absorboi fotoneja, mikä johtaa atomin virittymiseen eli joku elektroneista hyppää ylemmälle energiakehälle. Tämän jälkeen elektroni hyppää alimmalle vapaalle kehälle luovuttaen säteilyä eli fotoneja. Säteilyn suuruus on sama kuin kehien välinen energiaero. Kvanttiteorian mukaan säteily on kvantittunut eli energian vaihtaminen on mahdollista ainoastaan diskreetteinä pulsseina eli fotoneina. 
+Sähkömagneettisten aaltojen aaltoyhtälö voidaan johtaa yleistä sähkömagneettista kenttää kuvaavista Maxwellin yhtälöistä. Sähkömagneettiset aallot kulkevat tyhjiössä taajuudestaan riippumatta vakionopeudella, valonnopeudella, joka on 299 792 458 metriä sekunnissa. 
+Sähkömagneettinen säteily jaotellaan aallonpituuden mukaan seuraaviin osa-alueisiin: radioaallot, mikroaallot, infrapunasäteily, valo, ultraviolettisäteily, röntgensäteily ja gammasäteily. Nämä eri säteilylajit muodostavat sähkömagneettisen spektrin.
+
+
+== Sähkömagneettisen säteilyn lähteet ==
+
+Sähkömagneettinen säteily syntyy erilaisten sähköisten ilmiöiden aiheuttamana. Matalilla taajuuksilla tyypillisiä radioaaltojen lähteitä ovat erilaiset sähköiset oskillaattorit, jotka sopivaan rakenteeseen eli antenniin kytkettyinä säteilevät. Myös tähdet ja muut syvän taivaan kohteet lähettävät säteilyä jo muutamien tuhansien hertsien taajuuksilta alkaen. Oskillaattoreiden ja antennien rakentaminen vaikeutuu, kun siirrytään useiden satojen gigahertsien taajuusalueelle. 
+Molekyylien pyörimistiloihin liittyvät viritykset säteilevät puolestaan gigahertsin luokkaa olevilla taajuuksilla. Tämän jälkeen luonnollisista rakenteista säteileviksi muodostuvat molekyylien värähtelytilat, jotka säteilevät mikrometriluokan aallonpituuksilla. Tavanomainen huoneenlämpötilassa olevien kappaleiden lämpösäteily sijoittuukin näille spektrin osille. Atomien ja molekyylien elektronien viritystilat ovat puolestaan energioilla, jotka vastaavat satojen nanometrien aallonpituuksia eli valoa, lähi-infrapunaa ja ultraviolettisäteilyä. Myös kuumat kappaleet säteilevät tällä aallonpituusalueella.
+Ultravioletti- ja röntgensäteily liittyvät lähellä atomin ydintä olevien elektronien suuriin energioihin. Röntgensäteilyksi kutsutaan myös väliaineessa tehokkaasti jarruuntuvien elektronien lähettämää jarrutussäteilyä. Osittain päällekkäin tämän energia-alueen kanssa menee gammasäteily, joka on radioaktiivisista atomiytimistä lähtevää sähkömagneettista säteilyä.
+Synkrotroneissa voidaan tuottaa erittäin korkeaenergistä säteilyä kääntämällä suureen energiaan kiihdytettyjen elektronien liikerataa magneettikentällä.
+
+
+== Säteily lämmön siirtymismekanismina ==
+Taivaankappaleiden energiataloudessa säteily on merkittävin energian siirtymismekanismi, sillä taivaankappaleita ympäröivässä avaruuden tyhjiössä lämmön siirto johtumalla tai konvektiolla on mahdotonta. Maapallon energiataloudessa säteilyn vuorovaikutus maanpinnan ja ilmakehän kanssa määrittelee planeetan lämpötilan. Yläilmakehään tulee jatkuvasti Auringon säteilyä. Osa säteilystä heijastuu takaisin ilmakehästä ja pilvistä, osa absorboituu pilviin ja osa etenee pilvien läpi maanpinnalle. Maanpinta absorboi osan säteilystä osan säteilystä heijastuessa takaisin ilmakehään. Maanpinta puolestaan lähettää korkeampiaallonpituuksista infrapunasäteilyä avaruuteen, mikä jäähdyttää planeettaa. Se, miten tehokkaasti ilmakehän eri kerrokset absorboivat säteilyä ennen sen poistumista avaruuteen määrää kasvihuoneilmiön tehokkuuden ja maapallon lämpötilan muiden ilmastoon vaikuttavien ilmiöiden ohella.
+
+
+== Maxwellin yhtälöt ja sähkömagneettiset aallot ==
+James Clerk Maxwell kehitti sähkömagnetismia koskevan teorian, joka voitiin esittää neljällä yhtälöllä, Maxwellin yhtälöillä. Näiden avulla hän saattoi päätellä, että sähkömagneettinen kenttä voi muodostaa aaltoja ja että niiden nopeuskin oli laskettavissa. 
+Maxwellin yhtälöiden mukaan sähkövarausta ympäröi aina säteittäinen sähkökenttä, ja sähkövirtaa ympäröi pyörteinen magneettikenttä. Lisäksi ajallisesti muuttuva magneettikenttä saa pyörteisen sähkökentän ja muuttuva sähkökenttä pyörteisen magneettikentän.  
+Tyhjiössä ei ole varausta eikä virtaa, mutta sähkö- ja magneettikenttiä voi kyllä olla tyhjiössäkin. Tällöin Maxwellin yhtälöissä esiintyvät varaustiheys ja virrantiheys ovat nollia, jolloin kolmas ja neljäs yhtälö lyhenevät muotoon:
+
+  
+    
+      
+        ∇
+        ×
+        
+          E
+        
+        =
+        −
+        
+          
+            
+              ∂
+              
+                B
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        
+        
+         
+        (
+        1
+        )
+      
+    
+    {\displaystyle \nabla \times \mathbf {E} =-{\frac {\partial \mathbf {B} }{\partial t}}\qquad \qquad \ (1)}
+  
+
+  
+    
+      
+        ∇
+        ×
+        
+          B
+        
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          ϵ
+          
+            0
+          
+        
+        
+          
+            
+              ∂
+              
+                E
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        ,
+        
+        
+         
+        (
+        2
+        )
+      
+    
+    {\displaystyle \nabla \times \mathbf {B} =\mu _{0}\epsilon _{0}{\frac {\partial \mathbf {E} }{\partial t}},\qquad \quad \ (2)}
+  missä 
+  
+    
+      
+        
+          ∇
+        
+      
+    
+    {\displaystyle \scriptstyle \nabla }
+   on vektoreihin liittyvä differentiaalioperaattori nabla. Tämän operaattorin ja vektorikentän ristitulo merkitsee samaa kuin vektorikentän roottori.
+Vektorianalyysin avulla voidaan osoittaa, että mille tahansa vektorikentälle pätee:
+
+  
+    
+      
+        ∇
+        ×
+        
+          (
+          
+            ∇
+            ×
+            
+              A
+            
+          
+          )
+        
+        =
+        ∇
+        
+          (
+          
+            ∇
+            ⋅
+            
+              A
+            
+          
+          )
+        
+        −
+        
+          ∇
+          
+            2
+          
+        
+        
+          A
+        
+        .
+        
+        (
+        3
+        )
+      
+    
+    {\displaystyle \nabla \times \left(\nabla \times \mathbf {A} \right)=\nabla \left(\nabla \cdot \mathbf {A} \right)-\nabla ^{2}\mathbf {A} .\qquad (3)}
+  Sähkökenttää koskevan yhtälön (1) molemmista puolista voidaan ottaa edelleen roottori seuraavasti:
+
+  
+    
+      
+        ∇
+        ×
+        
+          (
+          
+            ∇
+            ×
+            
+              E
+            
+          
+          )
+        
+        =
+        ∇
+        ×
+        
+          (
+          
+            −
+            
+              
+                
+                  ∂
+                  
+                    B
+                  
+                
+                
+                  ∂
+                  t
+                
+              
+            
+          
+          )
+        
+        .
+        
+         
+         
+         
+        (
+        4
+        )
+        
+      
+    
+    {\displaystyle \nabla \times \left(\nabla \times \mathbf {E} \right)=\nabla \times \left(-{\frac {\partial \mathbf {B} }{\partial t}}\right).\qquad \ \ \ (4)\,}
+  Soveltamalla tähän yhtälöä (3) saadaan saadaan:
+
+  
+    
+      
+        ∇
+        ×
+        
+          (
+          
+            ∇
+            ×
+            
+              E
+            
+          
+          )
+        
+        =
+        ∇
+        
+          (
+          
+            ∇
+            ⋅
+            
+              E
+            
+          
+          )
+        
+        −
+        
+          ∇
+          
+            2
+          
+        
+        
+          E
+        
+      
+    
+    {\displaystyle \nabla \times \left(\nabla \times \mathbf {E} \right)=\nabla \left(\nabla \cdot \mathbf {E} \right)-\nabla ^{2}\mathbf {E} }
+  ,mutta koska tyhjiössä sähkökentän divergenssi 
+  
+    
+      
+        
+          ∇
+          ⋅
+          
+            E
+          
+        
+      
+    
+    {\displaystyle \scriptstyle \nabla \cdot \mathbf {E} }
+   ja näin ollen myös tämän gradientti ovat nollia, yhtälö lyhenee muotoon
+
+  
+    
+      
+        ∇
+        ×
+        
+          (
+          
+            ∇
+            ×
+            
+              E
+            
+          
+          )
+        
+        =
+        −
+        
+          ∇
+          
+            2
+          
+        
+        
+          E
+        
+        .
+      
+    
+    {\displaystyle \nabla \times \left(\nabla \times \mathbf {E} \right)=-\nabla ^{2}\mathbf {E} .}
+  Yhtälön oikeaa puolta voidaan myös muokata seuraavasti:
+
+  
+    
+      
+        ∇
+        ×
+        
+          (
+          
+            −
+            
+              
+                
+                  ∂
+                  
+                    B
+                  
+                
+                
+                  ∂
+                  t
+                
+              
+            
+          
+          )
+        
+        =
+        −
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        
+          (
+          
+            ∇
+            ×
+            
+              B
+            
+          
+          )
+        
+        =
+        −
+        
+          μ
+          
+            0
+          
+        
+        
+          ϵ
+          
+            0
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              
+                E
+              
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        .
+        
+         
+         
+         
+         
+        (
+        5
+        )
+      
+    
+    {\displaystyle \nabla \times \left(-{\frac {\partial \mathbf {B} }{\partial t}}\right)=-{\frac {\partial }{\partial t}}\left(\nabla \times \mathbf {B} \right)=-\mu _{0}\epsilon _{0}{\frac {\partial ^{2}\mathbf {E} }{\partial t^{2}}}.\quad \ \ \ \ (5)}
+  Yhtälöt (4) ja (5) ovat yhtäpitäviä, joten tästä saadaan sähkökentälle vektoriarvoinen differentiaaliyhtälö
+
+Samaan tapaan saadaan magneettikentälle yhtälö
+
+Nämä yhtälöt ovat muodoltaan samankaltaisia kuin mille tahansa aaltoliikkeelle muodostettava aaltoyhtälö:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        f
+        =
+        
+          
+            1
+            
+              
+                
+                  c
+                  
+                    0
+                  
+                
+              
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              f
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        ,
+        
+      
+    
+    {\displaystyle \nabla ^{2}f={\frac {1}{{c_{0}}^{2}}}{\frac {\partial ^{2}f}{\partial t^{2}}},\,}
+  
+missä
+c0 on kyseisen aaltoliikkeen nopeus ja
+f suure, jonka vaihteluista aaltoliike muodostuu.Mekaanisissa aalloissa f voi olla esimerkiksi paine tai poikkeama tasapainosta. Sähkömagneettisissa aalloissa se vastaa sähkö- tai magneettikentän voimakkuutta. Täten yhtälöstä (6) ja (7) saadaan myös sähkömagneettisten aaltojen nopeudeksi
+
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+        =
+        
+          
+            1
+            
+              
+                μ
+                
+                  0
+                
+              
+              
+                ϵ
+                
+                  0
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle c_{0}={\frac {1}{\sqrt {\mu _{0}\epsilon _{0}}}}.}
+  Osoittautuu, että tämä nopeus on sama kuin valonnopeus. Koska valo oli jo aikaisemmin osoittautunut erääksi aaltoliikkeen muodoksi, Maxwell päätteli tästä, että valoaallotkin ovat nimenomaan sähkömagneettisia aaltoja.
+
+
+=== Sähkö- ja magneettikentän voimakkuudet ja suunnat ===
+Maxwellin yhtälöistä seuraa myös, että tasopolaroituneessa aalloissa värähtelevät sähkö- ja magneettikenttä ovat samassa vaiheessa ja kohtisuorassa toisiaan ja myös aaltoliikkeen etenemissuuntaa vastaan. Sen sijaan ympyräpolaroituneessa aallossa kenttävektorit pyörivät tasaisella kulmanopeudella, mutta niiden suuruudet pysyvät vakioina.Sähkömagneettiseen altoon liittyvän sähkö- ja magneettikentän voimakkuuksien välillä vallitsee yhteys
+
+  
+    
+      
+        
+          B
+        
+        =
+        
+          
+            1
+            
+              c
+              
+                0
+              
+            
+          
+        
+        
+          
+            
+              
+                k
+              
+              ^
+            
+          
+        
+        ×
+        
+          E
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {B} ={\frac {1}{c_{0}}}{\hat {\mathbf {k} }}\times \mathbf {E} ,}
+  missä 
+  
+    
+      
+        
+          
+            
+              
+                
+                  k
+                
+                ^
+              
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {\hat {\mathbf {k} }}}
+   on aallon etenemissuuntainen yksikkövektori.
+
+
+== Energiatiheys ja intensiteetti ==
+Sähkökentän energiantiheydelle 
+  
+    
+      
+        
+          
+            w
+            
+              
+                E
+              
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle w_{\mathbf {E} }}
+   on voimassa yleinen lauseke:
+
+  
+    
+      
+        
+          w
+          
+            
+              E
+            
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          ϵ
+          
+            0
+          
+        
+        
+          
+            E
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle w_{\mathbf {E} }={\frac {1}{2}}\epsilon _{0}\mathbf {E} ^{2}}
+  .missä 
+  
+    
+      
+        
+          
+            E
+          
+        
+      
+    
+    {\displaystyle \scriptstyle \mathbf {E} }
+   on sähkökentän voimakkuus ja 
+  
+    
+      
+        
+          
+            ϵ
+            
+              0
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle \epsilon _{0}}
+   yleinen sähkövakio. Vastaavasti magneettikentän energiantiheydelle on voimassa lauseke
+
+  
+    
+      
+        
+          w
+          
+            B
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          
+            
+              B
+              
+                2
+              
+            
+            
+              μ
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle w_{B}={\frac {1}{2}}={\frac {1}{2}}{\frac {B^{2}}{\mu _{0}}}}
+  ,missä B on kentän magneettivuon tiheys ja 
+  
+    
+      
+        
+          
+            μ
+            
+              0
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle \mu _{0}}
+   magneettivakio.Edellä mainitusta sähkö- ja magneettikenttien voimakkuuksien välisestä yhteydestä seuraa, että sähkömagneettisessa aallossa on sähkö- ja magneettikenttien energiatiheys yhtä suuri, joten niiden yhteenlaskettu energiantiheys on 
+
+  
+    
+      
+        
+          w
+          
+            
+              E
+            
+          
+        
+        =
+        
+          ϵ
+          
+            0
+          
+        
+        
+          
+            E
+          
+          
+            2
+          
+        
+        =
+        c
+        
+          ϵ
+          
+            0
+          
+        
+        
+          E
+        
+        B
+      
+    
+    {\displaystyle w_{\mathbf {E} }=\epsilon _{0}\mathbf {E} ^{2}=c\epsilon _{0}\mathbf {E} B}
+  .Aallon energia etenee aallon mukana valon nopeudella. Säteilyn energiavirta S, joka tunnetaan myös Poyntingin vektorina , määritellään siten, että pinta-alkion dA läpisevä säteilyteho on 
+  
+    
+      
+        
+          d
+          P
+          =
+          S
+          ⋅
+          d
+          A
+        
+      
+    
+    {\displaystyle \scriptstyle dP=S\cdot dA}
+  . Tämän itseisarvo on sama kuin säteilyn intensiteetti.Lineaarisesti polaroituneessa aallossa sekä sähkö- että magneettikentän voimakkuudet vaihtelevat jaksollisesti, sinimuotoisesti ja pienenevät välillä nollaan. Tästä seuraa, että säteilyn keskimääräinen intensiteetti I vain puolet siitä, mikä se olisi, jos kentillä koko ajan olisi maksimiarvonsa, eli 
+
+  
+    
+      
+        I
+        =
+        
+          
+            1
+            2
+          
+        
+        c
+        
+          ϵ
+          
+            0
+          
+        
+        
+          
+            E
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle I={\frac {1}{2}}c\epsilon _{0}\mathbf {E} ^{2}}
+  .Sen sijaan ympyräpolaroituneessa aallossa kentillä on koko ajan maksimiarvonsa, jolloin säteilun intensiteetti on 
+
+  
+    
+      
+        I
+        =
+        c
+        
+          ϵ
+          
+            0
+          
+        
+        
+          
+            E
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle I=c\epsilon _{0}\mathbf {E} ^{2}}
+  .
+
+
+== Sähkömagneettisen säteilyn terveysriskit ==
+Ympäristön sähkömagneettinen säteily aiheuttaa kehon varautumisen sähkökentillä, mikä aiheuttaa kehonsisäisia sähkövirtoja. Osa sähkömagneettisesta säteilystä läpäisee ihon tunkeutuen syvemmälle elimistöön..
+Sähkömagneettinen säteily voi vaurioittaa geenien DNA:ta. DNA-vaikutus on voimakkain ionisoivan säteilyn alueella. Esimerkiksi röntgen- ja gammasäteiden energia on riittävän voimakasta kyetäkseen rikkomaan yksittäisten molekyylien kemiallisia sidoksia. Tämän on todettu aiheuttavan syöpää ja erilaisia välittömiä säteilyvaurioita, jotka voivat esiintyä lievimmissä tapauksissa pelkkänä ihon punoituksena..
+Myös auringonvalon ja loiste- sekä halogeenivalaisinten ultraviolettisäteily aiheuttaa DNA-vaurioita, jotka johtavat ihon rypistymiseen vuosikymmenten saatossa ja toisinaan myös ihosyöpään. Sen sijaan näkyvästä valosta irtoavien fotonien energia riittää vain poikkeustapauksissa rikkomaan kemiallisia sidoksia, minkä vuoksi se aiheuttaa ongelmia lähinnä vain erittäin harvinaisesta näkyvän valon allergiasta kärsiville. 
+Säteily voi heikentää ihmisen immuunipuolustusta, kuten UVB-säteily tekee ja esimerkiksi liiallinen lämpö- eli infrapunasäteily voi aiheuttaa palovamman.
+Monien eläinpopulaatioiden huomattava supistuminen nimenomaan 2000-luvulla on lisännyt tutkimusta myös ympäristön sähkömagneettisen säteilysaasteen vaikutuksista maapallon eliöihin. Lancet Planetary Health -tiedelehdessä vuonna 2018 julkaistun artikkelin mukaan mobiililaajakaistayhteyksissä laajasti käytetyllä 1 GHz:n alueella mikroaaltosäteilyn määrä on 2010-luvulla noussut peräti 1018 -kertaiseksi luonnon taustasäteilyyn verrattuna, ja se on ilmeisesti kaikkein nopeimmin kasvava ihmisen aiheuttama ympäristövaikutus. Tutkijoiden mukaan on jo uskottavaa näyttöä siitä, että hyönteisten määrän jyrkkä väheneminen on yhteydessä ihmisen aiheuttamaan sähkömagneettisen säteilyn lisääntymiseen ja sen aiheuttamiin vaikutuksiin, joita ovat muun muassa DNA-vauriot.Sähkömagneettisten kenttien tunnetut haittavaikutukset, kuten hermostimulaatio tai kudosten lämpeneminen, esiintyvät vasta, kun sähkökentän voimakkuus tai tehotiheys ylittää tietyn kynnystason, eivätkä ne määräydy suoraviivaisesti ajan kuluessa kumuloituvasta annoksesta. Koska altistumisen seuraukset riippuvat myös siitä kuinka kauan altistuminen kestää, myös aika on tekijä, joka on otettava huomioon arvioitaessa altistumista pitkällä aikavälillä. Yleisesti altistuminen on kuvattava niin, että esitetään altistumisen voimakkuutta, vaihtelua ja kestoa kuvaavia tunnuslukuja.
+
+
+=== Mikroaallot ===
+Ihmiset altistuvat sekä luontaisista että keinotekoisista lähteistä tuleville mikroaalloille. Luontainen taustasäteily mikroaaltoalueella on kuitenkin niin heikkoa, ettei sillä ole merkitystä kokonaisuuden kannalta. Keinotekoista mikroaaltosäteilyä tulee esimerkiksi langattomasta viestintäteknologiasta kuten älypuhelimista, matkaviestinverkon tukiasemista ja langattomista lähiverkoista sekä mikroaaltouuneista ja tutkia hyödyntävästä teknologiasta.
+Tieteellisesti korkeatasoiset tutkimukset ovat osoittaneet, että yli kymmenen vuotta kestävä matkapuhelimen keskimääräinen käyttö lisää kolmanneksella riskiä saada aivokasvain. Lukuisat riippumattomat tutkimukset ovat osoittaneet GSM-säteilyn aiheuttavan myös solutason muutoksia, unihäiriöitä, verenpaineen nousua ja EEG-muutoksia. Eläinkokeissa on havaittu lisäksi veriaivoesteen läpäisyvyyden lisääntymistä, joka liitetään esimerkiksi neurologisten sairauksien syntyyn. Espanjalaisessa tutkimuksessa havaittiin, että lyhytaikainenkin säteily vaikuttaa lasten aivoihin vielä pitkään altistuksen jälkeen. Lasten kallo on huomattavasti ohuempi kuin aikuisella, ja mikroaaltosäteily tunkeutuu reippaasti yli puolen pään puhelimen ollessa lapsen korvalla. Ranskassa, Englannissa ja monessa maassa on annettu lasten kännykänkäyttöä koskevia varoituksia ja  Taiwanissa on esitetty säädettäväksi lakia, joka kieltäisi lapsilta kännykänkäytön terveysriskien vuoksi..
+Säteilyturvakeskuksen helmikuussa 2008 valmistunut ihmisillä toteutettu tutkimus vahvisti saman kuin aiemmat solukokeet: elävä kudos reagoi matkapuhelimen säteilyyn eli matkapuhelinsäteilyllä on lämpöön liittymättömiä biologisia vaikutuksia.. Jos ihminen altistuu äärimmäisen suurille määrille mikroaaltosäteilyä, hän voi saada myös lämpövaikutuksesta johtuvia akuutteja palo- tai kudosvammoja. 
+Kännykän käyttäjän suojaohjeet  
+Säteilyturvakeskus toteaa, että suurin sähkömagneettisen säteilyn altistus on kännykän käyttäjillä. Siksi kännykänkäyttäjien on hyvä tietää seuraavat asiat jos haluaa vähentää omaa tai läheistensä altistumista:
+
+Matkapuhelin voi säteillä heikossa kentässä sata kertaa voimakkaammin kuin hyvässä kentässä.
+Päähän kohdistuva säteily vähenee pieneen osaan käyttämällä handsfree-laitetta.
+Vanhempia suositellaan varmuuden vuoksi rajoittamaan lastensa matkapuhelimen puhekäyttöä. Tekstiviestiä lähetettäessä altistuminen on minimaalista.
+Kännykän valmistajat ilmoittavat kunkin mallinsa suurimpaa säteilytasoa ilmaisevan SAR-arvon puhelimien teknisten tietojen mukana. SAR-arvoja voi vertailla Säteilyturvakeskuksen sivuilla.
+Pienikin väli puhelimen ja kehon välillä, esimerkiksi vyökotelo, vähentää altistumista.
+Tatuoitu tai meikattu iho kännykkää vasten saattaa aiheuttaa yliherkkyysreaktion.
+Niin sanotuista kännykkäsuojista ei ole suurta hyötyä, sillä matkapuhelin nostaa tehoa, kun yhteys tukiasemaan heikkenee suojan takia.
+
+
+=== VoimajohdotVoimajohdoissa korkea jännite aiheuttaa sähkökentän ja sähkövirta magneettikentän johdon ympärille. Sähkökentän tunkeutumista tehokkaasti vaimentavia tekijöitä ovat puut, muu kasvillisuus ja rakennukset. Virran aiheuttama magneettikenttä ei juuri vaimennu ympärillä olevista rakennuksista tai kasvillisuudesta. Eräissä väestötutkimuksissa on havaittu, että voimajohtojen lähellä asuvilla lapsilla on hieman kohonnut riski sairastua leukemiaan, kun magneettivuon tiheys on yli 0,4µT. Viitteet ovat heikkoja, ilmiötä selittävää mekanismia ei tunneta, eikä laboratoriokokeissa ole löydetty yhteyttä syövän ja magneettikenttien välillä. Siksi asiaa ei ole otettu huomioon Suomen lainsäädännön altistumisrajoja laadittaessa. Voimajohdoissa olevat jännitteet pysyvät vakioina kuormituksesta huolimatta, jolloin sähkökentän voimakkuus on lähes vakio tilanteesta riippumatta. Virran aiheuttaman magneettikentän voimakkuus vaihtelee kuormituksen mukana. Magneettivuo on 400kV johdon alla noin 22µT ja 100m päässä johdosta alle 0,4µT. Edelliset vuontiheydet ovat johtojen maksimivirtojen mukaisesti laskettuja, joten todellisuudessa vuontiheys on lähes aina pienempi. ===
+
+
+=== Altistus työpaikoilla ===
+Toisin kuin ionisoivalle säteilylle altistuvat työntekijät, ionisoimattomalle sähkömagneettiselle säteilylle altistuvat työntekijät eivät aina huomaa altistusta työssään. Sähkö- ja magneettikentät voivat myös häiritä sydäntahdistimen ja muiden lääkinnällisten implanttien toimintaa. Vain harvoissa työpaikoissa asiaan kiinnitetään huomiota, sillä sähkömagneettisia säteilylähteitä on muutenkin kaikkialla ympäristössämme. Radiotaajuisten sähkömagneettisten kenttien tietyille taajuusalueille on lainsäädännössä annettu enimmäisarvot, joita pitää noudattaa valvotuissa olosuhteissa, esimerkiksi työpaikoilla.[1]  Säteilylähteitä ovat muun muassa matkapuhelimet, langattomat verkot, mikroaaltouunit ja -kuivurit, sähköjärjestelmä, sähköjunat, työpaikoilla teollisuuden induktiokuumentimet, sähköhitsaus, suurtaajuuskuumentimet, tuotesuojaportit, metallinpaljastimet, magneettikuvauslaitteet, tutkat, radio-, tv- ja matkapuhelinlähettimet ja linkkiasemat [4]..
+
+
+=== Sähköyliherkkyys ===
+Jotkut ihmiset väittävät olevansa herkkiä sähkömagneettiselle säteilylle. Kyseistä ilmiötä kutsutaan sähköyliherkkyydeksi, englanniksi "electromagnetic hypersensitivity" (EHS). Ilmiö voi ilmetä ihoreaktiona, kuten punoituksena, kihelmöintinä tai polttavana tunteena, tai systeemisinä oireina, kuten väsymyksenä, keskittymisvaikeutena, muistihäiriöinä, huimauksena, ruoansulatusvaikeuksina tai sydämentykytyksenä. Tällainen oireiden yhdistelmä ei ole osa mitään tunnettua oireyhtymää. Sähköyliherkkyyttä muistuttava ilmiö on "kemikaaliyliherkkyys" (multiple chemical sensitivities, MCS), joka sekin on etiologialtaan huonosti tunnettu. Sähköyliherkkyydestä on tehty kymmeniä tutkimuksia, mutta sen olemassaoloa ei ole voitu todistaa. Maailman terveysjärjestön WHO:n mukaan (2005) oireita todella esiintyy, mutta niiden yhteyttä sähkömagneettiseen säteilyyn ei ole voitu osoittaa. Sähköyliherkkyyttä ei lääketieteessä määritellä sairaudeksi, mutta sitä pidetään esimerkiksi Ruotsissa työkykya rajoittavana vammana. Sähköyliherkät eivät pysty sanomaan ovatko he sähkömagneettisessa kentässä kun kentän lähde piilotetaan.
+
+
+== Katso myös ==
+Sähkömagneettinen spektri
+Aalto-hiukkasdualismi
+Stefanin-Boltzmannin laki
+
+
+== Lähteet ==
+
+
+== Kirjallisuutta ==
+Sihvola, Ari; Lindell, Ismo: Sähkömagneettinen kenttäteoria 2. Dynaamiset kentät.   Helsinki: Otatieto, 2013. ISBN 978-951-672-371-5.    
+
+
+== Aiheesta muualla ==
+
+"Introduction to light and electromagnetic radiation" – Khan Academy (englanniksi)

@@ -1,0 +1,69 @@
+Saturn V (udtales "Saturn fem") var en amerikansk raket, designet til bemandet rumfart, og brugt af NASA til Apollo- og Skylab-programmerne fra 1967 til 1973. Raketten er en flertrins-raket, forsynet af flydende drivmidler. NASA opsendte i alt 13 Saturn V-raketter fra Kennedy Space Center i Florida, uden tab af besætning eller nyttelast.
+Saturn V er den største producerede model af Saturn-serien. Saturn-serien blev designet under ledelse af Wernher von Braun og Arthur Rudoplh på Marshall Space Flight Center i Huntsville, Alabama, med Boeing Company, North American Aviation, Douglas Aircraft Company og IBM som hovedentreprenører. Von Brauns design er delvist baseret på hans arbejde med raketserien Aggregat, særligt A-10, A-11 og A-12, i Tyskland under Anden Verdenskrig. 
+Til dato er Saturn V den eneste raket, der har transporteret mennesker uden for lavt jordkredsløb eller LEO ((engelsk): Low Earth Orbit). I alt blev der sendt 24 astronauter til Månen, hvoraf tre af dem tog turen to gange, i perioden fra december 1968 til december 1972.
+
+
+== Historie ==
+Oprindelsen til Saturn V-raketten begynder med at den amerikanske regering vælger Wernher von Braun, ud af ca. 700 tyske videnskabsfolk i Operation Paperclip, et program der blev startet af den daværende amerikanske præsident Harry S. Truman, med det formål at bringe disse videnskabsfolk og deres ekspertise til USA, og derved give USA en fordel i den kolde krig. 
+Von Braun blev placeret i den amerikanske hærs raketudviklings-division, grundet hans direkte involvering i udviklingen af V2-raketten.  Mellem 1945 og 1958, var hans arbejde begrænset til at fremføre idéerne og metoderne bag V2-raketten til de amerikanske ingeniører. På trods af von Brauns mange artikler om fremtiden for rumfart og raketvidenskab, fortsatte den amerikanske regering med at finansiere luftvåbnet og flådens raketprogrammer, for at teste deres Vanguardmissiler, på trods af adskillige og dyre fiaskoer. 
+Det var ikke før 1957, hvor Sovjetunionen opsendte Sputnik 1 ved hjælp af et R-7 interkontinentalt ballistisk missil (ICBM (engelsk): Intercontinental Ballistic Missile), der var i stand til at sende et kernevåben til USA, , at den amerikanske hær begyndte at tage alvorlige skridt i retningen af at få en amerikaner i rummet.  Til sidst henvendte de sig til von Braun og hans team, som i disse år havde skabt og eksperimenteret med Redstoneraketserien. Det var Juno I-raketten, der sendte den første amerikanske satellit, Explorer 1, op i rummet i januar 1958. Juno I-raketten fra Redstone-serien, var en del af NACAs (forløberen til NASA) endelige plan om at få foden inden for i rumkapløbet.
+Redstone-serien var et skridt mere i von Brauns rejse til Saturn V, som han senere har kaldt "en Saturn-baby".
+
+
+=== Udvikling af Saturn ===
+Designet af Saturn V, stammer fra Redstone-serien. Efterhånden som Redstone-seriens succes blev tydelig, opstod Saturn-serien, herunder dens brug til bemandet flyvning i Mercury-programmet, bl.a. USAs første bemandede flyvning, Mercury-Redstone 3 fløjet af Alan B. Shepard. 
+
+
+==== C-1 to C-4 ====
+Mellem 1960 og 1962 designede Marshall Space Flight Center (MSFC) en række koncepter for Saturn-raketter, der kunne bruges til LEO- og TLI-missioner. 
+C-1 blev udviklet til Saturn I, og C-2-raketten, blev droppet I den tidlige designprocess til fordel for C-3, en raket der skulle have haft benyttet to stk. F-1-motorer i sit første trin, fire J-2-motorer i sit andet trin, og seks RL-10 motorer på sit tredje trin, S-IV. 
+NASA planlagde at bruge C-3 som en del af konceptet om at samle rumfartøjet i jordkredsløb ((engelsk): Earth Orbit Rendevouz (EOR)), hvor det ville være nødvendigt at benytte 4 eller 5 opsendelser, for at samle komponenterne til en enkelt månemission. Men før dette blev en realitet, fortsatte planlægningen af EOR-konceptet, til i stedet at benytte C-4, som ville benytte fire stk. F-1-motorer på sit første trin, et forstørret C-3 mellemtrin, og S-IVB-trinnet, med en enkelt J-2-motor, som sit tredje trin. C-4 ville kun kræve to opsendelserne, for en EOR-baseret månemission.
+
+
+==== C-5 ====
+Den 10. januar 1962 offentliggjorde NASA planerne om at bygge C-5. Denne tre-trins-raket ville bestå af fem F-1-motorer i sit første trin, fem J-2-motorer i sit andet trin, og en enkelt J-2-motor i sit tredje trin. C-5-raketten var bygget med mulighed for en væsentlig større nyttelast, ca. 43.500 kg, en nyttelast der ville gøre det muligt at komme til Månen med én enkelt opsendelse. 
+Komponenterne til C-5 blev afprøvet før den første model af C-5 overhovedet blev konstrueret. Rakettens tredje trin, der skulle benyttes som andet trin for C-IB, skulle både demonstrere konceptet og gennemførligheden ved C-5, men også give data om flyvning, som var kritiske for udviklingen af C-5. I stedet for at teste hvert enkelt komponent individuelt, skulle hele C-5-raketten test på én gang, ved første flyvning, for derved at spare en stor mængde testflyvninger. 
+Tidligt i 1963, offentliggjorde NASA at man havde valgt C-5, og den blev den omdøbt til Saturn V. C-1 blev til Saturn I, og C-1B blev til Saturn IB. Von Braun ledede et team, der havde til opgave, at bygge en raket, der var i stand til at sende et bemandet rumfartøj i en bane til Månen. Før de kom under NASAs ledelse, havde von Brauns team allerede påbegyndt arbejdet med at forbedre løftekraften, bygge et simplere styresystem, og designe bedre mekaniske systemer. Det var under denne udvikling, at man droppede enkelt-motor-systemet fra V2-rakettens design, og arbejdede videre på et flermotorsdesign. Saturn I og Saturn IB afspejlede disse ændringer, men havde stadig ikke potentialet til at sende et bemandet rumfartøj til Månen. Disse designs gav dog NASA en basis for, at vælge den bedste metode til at lande en mand på Månen. 
+Saturn V-rakettens endelige design havde en række nøglefunktioner. Teknikere fastlagde at de bedste motorer (F-1) kombineret med det nye LH2-drevne raketsystem, var den bedste løsning til Saturn V. I løbet af 1962, valgte man at fortsætte med von Brauns designs, og Apollo-rumprogrammet tog fart.
+Da konfigurationen af raketten var endelig, vendte NASA sin opmærksomhed mod missionsprofiler. På trods af kritik valgtes Lunar Orbit Rendevouz (LOR), hvor kommandofartøjet og månelandingsfartøjet sendes op med én raket, kommandofartøjet sendes i kredsløb om Månen, imens månelandingsfartøjet lander på Månen, for derefter igen at mødes med kommandofartøjet i månekredsløb. 
+Saturn V blev derved valgt, bestående af de tre trin, S-IC, S-II og S-IVB.  
+
+
+== Trin ==
+En tretrinsraket som Saturn V, frakobler sektion efter sektion på vejen opad. Den første del består af nogen kraftige raketmotorer der løfter den væk fra jordoverfladen. Efterhånden som disse raketmotorer ikke behøves længere, skiller man sig af med de tomme tanke og motorer, som så bliver erstattet af næste trin som så indeholder mindre motorer og fyldte tanke der er mere passende for belastningen. 
+
+
+=== S-IC ===
+S-IC (S-1C) trinnet blev fremstillet i Michoud Assembly Facility, New Orleans, samme sted hvor rumfærgens eksterne tank blev fremstillet. De fem F-1-motorer blev sat i et krydsmønster, hvor den centerplacerede motor sad fast, og de fire yderste sad monteret på en ring som kunne roteres hydraulisk for at styre raketten.
+Øverst havde trinnet en tank med 1.311,1 m3 flydende ilt, og nederst havde det en tank med 810,7 m3 RP-1 (kerosen). Derudover havde de første udgaver otte retroraketter til at sikre en gnidningsløs separation af første- og andettrinnet.
+Førstetrinnet landede i Atlanterhavet tæt ved Afrika.
+
+
+=== S-II ===
+S-II (S-2) trinnet blev fremstillet i Seal Beach, Californien. De fem J-2-motorer var monteret på en måde lig S-IC. I stedet for at have to helt opdelte tanke som på S-IC-trinnet, sad de to tanke helt tæt monteret delt op med en særlig membran, der isolerede mod de 70 graders temperaturforskel der var på de to tanke. Dette system sparede næsten 3.600 kg i vægt.
+Ilttanken var anbragt nederst indeholdende 331 m3, brinttanken indeholdende 1000 m3. S-II havde otte ullageraketter til at få de flydende drivmidler til at søge ned mod raketmotorerne før antændelsen, samt fire retroraketter til at sikre en gnidningsløs separation af andet- og tredjetrinnet.
+Andettrinnet brændte mere eller mindre op og resterne landede i det Indiske Ocean. 
+
+
+=== S-IVB ===
+S-IVB (S-4B) trinnet blev fremstillet i Huntington Beach, Californien. Trinnet var næsten identisk med det andet trin på Saturn IB-raketten, og dets opgave var at sende Apollofartøjet i parkeringskredsløb om Jorden og derefter sende det til Månen. 
+Øverst havde trinnet en tank med 253,2 m3 flydende brint, og nederst havde det en tank med 92,35 m3 flydende ilt. Da tredjetrinnet skulle tænde to gange, havde det to sæt ullageraketter. Derudover havde det seks små raketmotorer til at ændre flyvestillingen med (Auxiliary Propulsion System). De havde 114 liter monometylhydrazin og 95 liter kvælstoftetroxid (der er hypergolske drivmidler) til rådighed . Efter separationen af tredjetrinnet og Apollo-fartøjet blev S-IVB sendt i en bane, der førte til at det blev knust mod Månen. Eksplosionen blev brugt af de efterladte seismiske stationer på Månen til at få oplysninger om Månens indre.
+
+
+=== Instrumentmodul ===
+
+Producent: IBM
+Længde: 0,914 m
+Diameter: 6,6 m
+Vægt: 1.600 kgInstrumentmodulet var en del af tredjetrinnet, og indeholdt alle de forskellige styresystemer der sørgede for Saturn V-raketten under opsendelsen, som f.eks. computer, radar, elektrisk styring.
+
+
+== Saturn V opsendelser ==
+Johnson Space Center, Houston, Texas – SA-514 1. trin, SA-515 2. trin og SA-513 3. trin.
+Kennedy Space Center, Florida – S-IC-T (test) 1. trin, SA-514 2. og 3. trin.
+National Air and Space Museum, Washington D.C. – SA-515 3. trin var Skylabs backup.
+Michoud Assembly Facility, New Orleans, Louisiana – SA-515 1. trin.
+U.S. Space & Rocket Center, Huntsville, Alabama – S-IC-D 1. trin, S-II-F/D 2. trin og S-IVB-D 3. trin (ingen af dem var flyvedygtige).
+
+
+== Fodnoter ==

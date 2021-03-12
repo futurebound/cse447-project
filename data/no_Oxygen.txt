@@ -1,0 +1,320 @@
+For medisinsk oksygen; se oksygenbehandlingOksygen (fra gresk ὀξύς, oxys, «syre», bokstavelig «skarp», fra smaken av syrer, og -γενής, -genēs, «produsent», bokstavelig «opphav»), eldre betegnelse surstoff,  er et grunnstoff med kjemisk symbol O og atomnummer 8. Målt i masse, er oksygen det grunnstoffet som man finner tredje mest av i universet, etter hydrogen og helium. Ved standard trykk og temperatur er oksygen en toatomig gass uten farge og smak, med kjemisk formel 
+  
+    
+      
+        
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {O2}}}
+  .
+Oksygen inngår i flere viktige kjemiske forbindelsene som inngår i organisk kjemi, som proteiner, nukleinsyrer, karbohydrat og fett. Oksygen inngår også i uorganiske forbindelser som inngår i skjell, tenner og bein. Oksygen er det grunnstoffet man finner mest av i levende organismer, da oksygen inngår i vann, som er hovedbestanddelen i alle livsformer (eksempelvis består menneskekroppen av to tredeler vann. cyanobakterier, alger og planter danner oksygen, og inngår i cellulær respirasjon i hos alle høytstående livsformer. Oksygen er giftig for anaerobe organismer, som var den vanligste formen for liv på jorden inntil mengden fritt oksygen i atmosfæren økte. Fritt oksygen begynte å akkumuleres i atmosfæren for om lag 2,5 milliarder år siden, omtrent en milliard år etter at organismene oppsto. Toatomig oksygengass utgjør 20,95 prosent av volumet i luft. Oksygen er grunnstoffet som man finner mest av i jordskorpen. Oksygenforbindelser, som silisiumdioksid, utgjør samlet nesten halvparten av jordskorpens masse.
+
+
+== Historie ==
+Oksygen ble først oppdaget sent i det sekstende århundre, av Michał Sędziwój, en polsk alkymist og filosof. Sędziwój beskrev gassen som ble utskilt fra oppvarmet kaliumnitrat (salpeter), og kalte den «livseliksiren». 
+Oksygen ble mer kvantitativt oppdaget av den svenske farmasøyten Carl Wilhelm Scheele noen tid før 1773, men oppdagelsen ble ikke offentliggjort før etter den uavhengige oppdagelsen av Joseph Priestley den 1. august 1774. Priestley utgav sine oppdagelser i 1775 og Scheele i 1777; følgelig har Priestley fått anerkjennelsen som stoffets oppdager. Både Scheele og Priestley produserte oksygen ved å varme opp kvikksølvoksid.
+Scheele kalte gassen «brannluft», på grunn av at det var den eneste kjente gassen som kunne opprettholde forbrenning. Senere ble gassen kalt «vitalluft», ettersom den var og er livsviktig for eksistens.
+Gassen er navngitt av Antoine Laurent Lavoisier, etter Priestleys utgivelse i 1775, fra greske ὀξύς (oxys «skarp»), og betyr «syredanner». Navnet gjenspeiler datidens vanlige overbevisning om at alle syrer inneholder oksygen. Dette er også opprinnelsen av det tidligere norske navnet på oksygen, surstoff. I Danmark laget Hans Christian Ørsted et eget navn ilt, avledet av ordet ild.
+
+
+== Egenskaper ==
+Oksygen ligger i gruppe 16 i det periodiske system. Rent oksygen (O2) opptrer som gass i naturen, og er en forutsetning for levende organismer her på Jorden. Oksygen kan også opptre i forbindelser sammen med de fleste andre grunnstoffer. På grunn av sin høye elektronegativitet danner det lett forbindelser med metaller.
+
+
+== Isotoper ==
+Naturlig forekommende oksygen består av 3 stabile isotoper: 
+  
+    
+      
+        
+          
+            O
+            
+            
+            
+            
+            16
+          
+        
+      
+    
+    {\displaystyle {\ce {^1^6O}}}
+   (99,757 %), 
+  
+    
+      
+        
+          
+            O
+            
+            
+            
+            
+            17
+          
+        
+      
+    
+    {\displaystyle {\ce {^1^7O}}}
+   (0,038 %), 
+  
+    
+      
+        
+          
+            O
+            
+            
+            
+            
+            18
+          
+        
+      
+    
+    {\displaystyle {\ce {^1^8O}}}
+   (0,205 %). I tillegg er 14 kunstig fremstilte ustabile (og dermed radioaktive) isotoper kjent. De mest stabile av disse er 
+  
+    
+      
+        
+          
+            O
+            
+            
+            
+            
+            15
+          
+        
+      
+    
+    {\displaystyle {\ce {^1^5O}}}
+   med halveringstid 122,24 sekunder, 
+  
+    
+      
+        
+          
+            O
+            
+            
+            
+            
+            14
+          
+        
+      
+    
+    {\displaystyle {\ce {^1^4O}}}
+   med halveringstid 	70,606 sekunder, 
+  
+    
+      
+        
+          
+            O
+            
+            
+            
+            
+            19
+          
+        
+      
+    
+    {\displaystyle {\ce {^1^9O}}}
+   med halveringstid	26,91 sekunder, og  
+  
+    
+      
+        
+          
+            O
+            
+            
+            
+            
+            20
+          
+        
+      
+    
+    {\displaystyle {\ce {^2^0O}}}
+   med halveringstid 13,51 sekunder. Alle de resterende isotopene har halveringstider kortere enn 4 sekunder. Atommassen varierer fra 12,034404895 u for 12O, til 28,05781 u for 28O.
+
+
+== Fakta om oksygen ==
+I det periodiske system har oksygen nummer 8, dvs. at det i et oksygenatom er 8 protoner.
+Den absolutt vanligste isotopen av oksygen (99,7 %) har 8 nøytroner.
+Oksygen produseres ved å kjøle ned luft til den blir flytende. Luften destilleres og man skiller ut nitrogen og argon i tillegg til oksygen som ved atmosfæretrykk har et kokepunkt på minus 183 grader. Oksygen lagres under 200 bars trykk som gass på flasker eller dypkjølt som flytende oksygen på vakuumisolerte tanker hos større brukere som industri og sykehus.
+Flytende oksygen er paramagnetisk.
+Oksygenatomer er normalt satt sammen parvis som O2, i dagligtale også kalt surstoff.
+3 atomer satt sammen er Ozon; O3.CAS-nummer: 7782-44-7
+
+
+== Forekomst ==
+Oksygen er det vanligste grunnstoffet i jordens biosfære (luft, hav og landjord) målt i masse. Etter hydrogen og helium er oksygen det tredje vanligste grunnstoffet i det kjente universet. Om lag 0,9 prosent av solens masse består av oksygen, det utgjør 49,2 prosent av jordskorpens masse, og er det grunnstoffet som utgjør størst andel av verdenshavenes masse, med 88,8 prosent. Oksygen er det grunnstoffet man finner nest mest av i jordens atmosfære, hvor grunnstoffet utgjør 20,8 prosent av volumet, og 23,1 prosent av massen, tilsvarende 1015 tonn.
+I luften finnes det rent i de to allotrope formene oksygengass (
+  
+    
+      
+        
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {O2}}}
+  ) og ozon (
+  
+    
+      
+        
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {O3}}}
+  ). Oksygen har vanligvis oksidasjonstall -II i kjemiske forbindelser. Oksid kan bli sure, basiske eller amfotære.
+
+
+== Viktige forbindelser ==
+Oksid (karbondioksid (
+  
+    
+      
+        
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {CO2}}}
+  ))
+Hydrogenperoksid (
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {H2O2}}}
+  )
+Vann (
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {H2O}}}
+  ')Mange grupper av organiske forbindelser, som alkoholer, karboksylsyrer og aldehyd, inneholder oksygen. 
+
+
+== Anvendelse ==
+Isotopen 
+  
+    
+      
+        
+          
+            O
+            
+            
+            
+            
+            15
+          
+        
+      
+    
+    {\displaystyle {\ce {^1^5O}}}
+   blir brukt i positronemisjonstomografi. Oksygen brukes i medisinsk behandling, til gassveising og -skjæring av stål, i prosessindustrien, i metallurgisk industri, i smelteverk, av fiskeoppdrettere etc.
+
+
+== Faremomenter ==
+Så godt som alt liv er avhengig av oksygen, og gassen opprettholder enhver forbrenning. Ved oksygenoverskudd fra for eksempel en oksygenlekkasje som øker luftens 21 % oksygeninnhold til 25 %, vil alt brenne raskere, tenne lettere, og være mye vanskeligere å slukke. 
+Oksygenunderskudd kan oppstå i forskjellige arbeidssituasjoner. Arbeid i dårlig ventilerte rom, arbeid i siloer eller gjødselkjellere er typiske steder, og ikke minst der hvor det brukes gasser som fortrenger oksygen. En enkel test på om oksygeninnholdet i luften er nede på et kritisk nivå, er å tenne et stearinlys. Hvis det brenner, er sjansene for å overleve gode. Hvis det slukner, er oksygeninnholdet i luften under 10-12 %, og det er stor fare for at hjernefunksjonene svekkes og at bevisstløshet vil inntreffe.
+
+
+== Se også ==
+Oksygenbehandling (medisinsk oksygen)
+Flytende oksygen
+Kalkogen
+Oksygenforbindelser
+Ozonlaget
+
+
+== Referanser ==
+
+
+== Litteratur ==
+Cook, Gerhard A.; Lauer, Carol M.: The Encyclopedia of the Chemical Elements. New York (1968): Reinhold Book Corporation (en)
+Emsley, John: Nature's Building Blocks: An A-Z Guide to the Elements. Oxford, England (2001): Oxford University Press. ISBN 0-19-850340-7 (en)
+
+
+== Eksterne lenker ==
+Webelements – informasjon om oksygen på engelsk

@@ -1,0 +1,11 @@
+In de astronomie is een satelliet een object dat in een baan om een ander object beweegt. Dit is vrijwel altijd onder invloed van de zwaartekracht, met, in het geval van een kunstmaan, alleen aandrijving voor koerscorrecties.
+De definitie van "satelliet" is niet exact bepaald, strikt genomen draaien in systemen met twee of meer objecten alle objecten om een gemeenschappelijk zwaartepunt of barycentrum. Als twee objecten even zwaar zijn zal dit zwaartepunt midden tussen beide in liggen. Alleen als de massa van één object duidelijk groter is zodat het gemeenschappelijk zwaartepunt binnen dit object valt, kunnen de andere, lichtere objecten als satelliet beschouwd worden. Systemen met drie of meer lichamen zijn op langere termijn meestal niet stabiel, alleen als het derde object in verhouding zo weinig massa heeft tot de andere twee, zullen de banen op langere termijn in stand kunnen blijven.
+Een satelliet in een baan om een hemellichaam zoals een planeet wordt ook wel maan genoemd. 
+
+Natuurlijke manen zijn meestal objecten met de structuur van een kleine planeet of planetoïde die zijn ingevangen door de zwaartekracht van de planeet.
+Kunstmanen zijn onbemande toestellen die door de mens in een baan zijn gebracht.Objecten die om een ster als onze Zon draaien worden meestal geen satelliet maar planeet, dwergplaneet, planetoïde of komeet genoemd, alleen in geval van dubbelsterren worden de sterren in banen rond de hoofdster wel satelliet genoemd.
+Op grotere schaal worden kleine sterrenstelsels (zoals Messier 32 en Messier 110) en bolvormige sterrenhopen die ronddraaien om grote sterrenstelsels  ook satellieten of satellietstelsels genoemd.
+
+
+== Zie ook ==
+Lagrangepunt

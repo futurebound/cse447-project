@@ -1,0 +1,41 @@
+Suivant le type de propulsion (turbines, moteurs à pistons), les aéronefs brûlent différents types de carburants, dits « carburants aviation ».
+
+
+== Carburants basés sur le kérosène ==
+Les moteurs d'aviation à turbine (turboréacteurs, turbopropulseurs) utilisent des carburants à base de kérosène. En aviation civile, le carburant de ce type le plus répandu est le Jet A-1, défini par la norme internationale AFQRJOS (Aviation Fuel Quality Requirements for Jointly Operated Systems), qui gèle au minimum à −47 °C (car c'est la limite inférieure définie par l'AFQRJOS). Aux États-Unis, il existe également un carburant Jet A, dont la fabrication est un peu moins coûteuse mais qui gèle à une température inférieure à −40 °C. La norme américaine de carburant militaire JP-8 est proche du Jet A-1, à quelques additifs près.
+Pour un usage en environnement froid, notamment dans le nord canadien, il existe aussi une spécification Jet B ; ce carburant inclut, en sus du kérosène, une fraction d'essence (coupe naphta), ce qui lui permet de rester liquide à de plus basses températures. Cependant, l'usage de ce carburant est en train de tomber en désuétude. Outre le prix plus élevé d'un tel carburant à coupe large de distillation, on peut aussi citer un risque plus élevé d'inflammation en raison de la volatilité plus importante de l'essence. Les Russes possèdent eux aussi une norme spécifique pour l'utilisation dans les zones froides, le TS 1.
+En raison de contraintes particulières d'utilisation, il a existé une certaine variété de normes de carburants d'aviation militaire. Citons un carburant exceptionnel, le JP-7, développé pour les avions de reconnaissance américain SR-71 ; ce mélange spécial très coûteux, presque sans impuretés, avait notamment une température d'inflammation très élevée et une bonne stabilité en température. Les nouvelles générations de moteurs demandant quant à eux un carburant résistant mieux aux hautes températures, on a vu apparaître ces dernières années un carburant JP 8 +100 mais dont l'utilité reste controversée. L'utilisation spécifique des aéronefs embarqués nécessite quant à elle un carburant possédant un point d'éclair supérieur, appelé « JP-5 ». Une des grandes spécificités des carburéacteurs à usage militaire est l'emploi quasi systématique de carburants contenant un additif anti-glace (appellations diverses : FSII, AL-41 ou S-1745). En effet, les aéronefs militaires n'étant pas toujours équipés de réchauffeurs au niveau des filtres, il existe un risque de colmatage lié à l'apparition d'eau libre à la suite de l'abaissement de température en haute altitude. Le rôle de cet additif est d'empêcher l'agglomération des micro-glaçons ainsi formés, les maintenant en deçà des performances des filtres de bord et évitant donc tout risque d'extinction du moteur.
+
+
+== Essence aviation et Diesel ==
+Les moteurs à pistons d'avions fonctionnent traditionnellement avec de l'essence aviation (Avgas 100LL et 110LL, anciennement aussi 115), un carburant similaire à l'essence automobile mais à plus fort indice d'octane, contenant du plomb tétraéthyle, d'une formulation très peu agressive (pas d'alcools ni de solvants) et parfaitement asséché (pour éviter le givrage). En raison du coût élevé de l'essence aviation, certains moteurs peu puissants de petits appareils peuvent, avec des restrictions d'utilisation, fonctionner avec de l'essence automobile (mogas). Les compagnies pétrolières proposant de l'essence aviation sont traditionnellement les mêmes que pour l'automobile : Air Total et BP Air ainsi que Shell par exemple, ou plus récemment Petroplus.
+Par ailleurs, des fabricants développent actuellement des moteurs Diesel acceptant le kérosène Jet-A, proche du gazole mais moins gras et dépourvu de paraffines, particulièrement économiques et endurants, mais très coûteux à l'achat, un peu plus bruyants surtout pour les Diesel 2-temps (ex. Wilksch) et plus lourds à puissance égale pour les 4-temps (SMA Morane-Renault ou encore Thielert). Les moteurs Diesel en aviation ne sont pas une nouveauté : Clerget construisait des moteurs en étoile dans les années 1930 ainsi que Junkers-Jumo qui équipait des moteurs à pistons opposés notamment les bombardiers allemands et des dirigeables.
+
+
+== Biocarburant dans l'aviation ==
+Les premiers biocarburants, dits de première génération, étaient issues de plantes comestibles comme le maïs. Mais le bilan carbone, ainsi que les fortes fluctuations des prix ont mis un terme à leur étude.
+Sont venus ensuite les biocarburants dits de deuxième génération destinés à se substituer, au moins partiellement, au kérosène. Un premier vol d'essai a eu lieu le 30 décembre 2008 sur un Boeing 747-400 d'Air New Zealand dont un des réacteurs RB 211 a été alimenté avec 50 % de Jet-A1 et 50 % de carburant à base de Jatropha curcas. Il a été suivi d'un autre le 7 janvier 2009 sur un Boeing 737-800 de Continental Airlines dont un des moteurs CFM56-7B a été alimenté par un mélange de moitié de kérosène traditionnel et pour moitié de jatropha et d'algues. À chaque fois, les mélanges se sont comportés sans altérer le fonctionnement des moteurs, sinon une légère baisse de consommation de 1 à 2 %. Un troisième essai est réalisé le 30 janvier 2009 avec un Boeing 747-300 de Japan Airlines équipé de moteurs Pratt & Whitney JT9D dont un alimenté avec un mélange de 50 % de kérosène et 50 % de cameline (« lin bâtard »), de jatropha et d'algues. Le 28 octobre 2011, Air China effectue un vol d'essai à base de ce mélange sur un Boeing 747 dans une coopération sino-américaine. L'objectif est d'obtenir la certification de ces mélanges en 2010 et de biocarburants purs en 2013. Le carburant à base de jatropha présente un point d'éclair à 46 °C contre 38 °C pour le Jet-A1 avec une énergie de 44,3 MJ/kg (contre 42,8 MJ/kg pour le Jet-A1), son principal avantage étant d'émettre 75 % de gaz carbonique en moins que le kérosène sur l'ensemble de son cycle de vie (incluant le CO2 absorbé par les plantes dans leur croissance), pour un prix de revient de 80 dollars le baril.
+En parallèle, Air France a testé, sur un vol commercial, le 13 octobre 2011, un mélange utilisant pour moitié des huiles usagées comme carburant.
+Les expérimentations pour disposer d'un biocarburant qui se substitue totalement au kérosène, dits de troisième génération (même si la désignation semble floue), portent finalement leur fruit le 29 octobre 2012 avec le vol d'un prototype de Dassault Falcon 20 pour le compte du Conseil national de recherches Canada (CNRC). Le biokérozène utilisé est du ReadiJet issu de la brassica carinata. Plusieurs autres plantes, algues, huiles usagées et déchets agricoles sont à l'étude.
+L'Union européenne vise qu'en 2020, 3 % de la consommation de son aviation soit des biocarburants.
+
+
+== Notes et références ==
+
+
+== Bibliographie ==
+Paul Kuentzmann (ONERA), « Les carburants alternatifs aéronautiques : Une solution pour le développement durable ? », dans La Lettre AAAF Côte d'Azur, no 172, janvier 2009, [lire en ligne] [PDF].
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Kérosène
+JP-4
+JP-5
+Avgas (Aviation gasoline)
+
+
+=== Liens externes ===
+(en) Aviation Fuels Technical Review [PDF], Chevron Corporation, 2006. Portail de l’aéronautique   Portail de l’énergie

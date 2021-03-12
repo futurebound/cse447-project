@@ -1,0 +1,4 @@
+Self-propulsion is the autonomous displacement of nano-, micro- and macroscopic natural and artificial objects, containing their own means of motion. Self-propulsion is driven mainly by interfacial phenomena. Various mechanisms of self-propelling have been introduced and investigated, which exploited phoretic effects, gradient surfaces, breaking the wetting symmetry of a droplet on a surface, the Leidenfrost effect, the self-generated hydrodynamic and chemical fields originating from the geometrical confinements, and soluto- and thermo-capillary Marangoni flows. Self-propelled system demonstrate a potential as micro-fluidics devices and micro-mixers. Self-propelled liquid marbles have been demonstrated.
+
+
+== References ==

@@ -1,0 +1,1705 @@
+Versnelling of acceleratie is in de mechanica de verandering van de snelheid van een object.
+In de mechanica betekent "versnelling" ofwel dat een object sneller gaat, ofwel langzamer (een vertraging is in de mechanica een negatieve versnelling), of dat de bewegingsrichting verandert.
+
+
+== Tweede wet van Newton ==
+Een object kan alleen een versnelling krijgen als er een resulterende kracht op het object werkt.
+In dat geval geldt de tweede wet van Newton:
+
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            res
+          
+        
+        =
+        m
+         
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{\text{res}}=m\ {\vec {a}}}
+  In deze formule zijn zowel de resulterende kracht 
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            res
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{\text{res}}}
+   als de versnelling 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+   vectorgrootheden, dat wil zeggen dat ze beide een grootte én een richting hebben. De massa 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   van het object heeft alleen een grootte.
+De versnelling van een object heeft dezelfde richting als de resulterende kracht die de versnelde beweging van het object veroorzaakt. 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   wordt uitgedrukt in newton, 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   in kilogram en 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   in m/s2 (meter per seconde kwadraat).
+Bij gelijkblijvende kracht is de versnelling van een object omgekeerd evenredig met de massa. Een lichte auto kan daarom bijvoorbeeld makkelijker aangeduwd worden dan een zware vrachtauto. Wanneer de resulterende kracht 0 is, zal het object ook niet versnellen. Op een auto die met een constante snelheid rijdt werkt geen resulterende kracht. De kracht die de auto aandrijft is even groot als de wrijvingskracht van wind en wegdek die de auto remt, waardoor de auto geen versnelling ondervindt. Ook zal een auto niet door het asfalt zakken (versnelling naar beneden), doordat de zwaartekracht die de auto naar beneden drukt gelijk is aan de normaalkracht die de auto omhoog duwt. 
+Versnelling houdt in dat de snelheid verandert. De verandering van de snelheid 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+   in de tijd is juist de versnelling. Als de positie, de snelheid en de versnelling van een voorwerp worden uitgedrukt als functies van de tijd, wordt de verandering in de tijd weergegeven door de afgeleide. De versnelling is dus de afgeleide van de snelheid:
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                d
+              
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}={\frac {\mathrm {d} {\vec {v}}}{\mathrm {d} t}}}
+  Aangezien de snelheid zelf al de afgeleide is van de plaatsvector 
+  
+    
+      
+        
+          
+            
+              x
+              →
+            
+          
+        
+        (
+        t
+        )
+        :
+      
+    
+    {\displaystyle {\vec {x}}(t):}
+  
+
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                d
+              
+              
+                
+                  
+                    x
+                    →
+                  
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}={\frac {\mathrm {d} {\vec {x}}}{\mathrm {d} t}}}
+  volgt dat de versnelling ook de tweede afgeleide is van de plaatsvector:
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  d
+                
+                
+                  2
+                
+              
+              
+                
+                  
+                    x
+                    →
+                  
+                
+              
+            
+            
+              
+                d
+              
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}={\frac {\mathrm {d} ^{2}{\vec {x}}}{\mathrm {d} t^{2}}}}
+  
+Als de kracht 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}}
+   uit de tweede wet van Newton, zoals bij veel mechanische systemen in de praktijk, een functie is van de drie veranderlijken positie 
+  
+    
+      
+        
+          
+            
+              x
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {x}}}
+  , snelheid 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+   en de tijd 
+  
+    
+      
+        t
+        ,
+      
+    
+    {\displaystyle t,}
+   dan geeft dit aanleiding tot een gewone vectoriële differentiaalvergelijking van de tweede orde, in het algemeen niet lineair:
+
+  
+    
+      
+        m
+        
+          
+            
+              
+                
+                  d
+                
+                
+                  2
+                
+              
+              
+                
+                  
+                    x
+                    →
+                  
+                
+              
+            
+            
+              
+                d
+              
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              F
+              →
+            
+          
+        
+        
+          (
+          
+            
+              
+                
+                  
+                    d
+                  
+                  
+                    
+                      
+                        x
+                        →
+                      
+                    
+                  
+                
+                
+                  
+                    d
+                  
+                  t
+                
+              
+            
+            ,
+            
+              
+                
+                  x
+                  →
+                
+              
+            
+            ,
+            t
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle m{\frac {\mathrm {d} ^{2}{\vec {x}}}{\mathrm {d} t^{2}}}={\vec {F}}\left({\frac {\mathrm {d} {\vec {x}}}{\mathrm {d} t}},{\vec {x}},t\right).}
+  
+
+
+== Bijzondere gevallen ==
+
+
+=== Eenparig versnelde beweging ===
+Bij een eenparig versnelde beweging is de versnelling 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+   constant, d.w.z. onafhankelijk van de tijd. De oplossing van de bewegingsvergelijking geeft als baanvergelijking voor de plaatsvector 
+  
+    
+      
+        
+          
+            
+              x
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {x}}}
+   een kwadratische functie van de tijd 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  :
+
+  
+    
+      
+        
+          
+            
+              x
+              →
+            
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                x
+                →
+              
+            
+          
+          
+            0
+          
+        
+        +
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            0
+          
+        
+        t
+        +
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          
+            
+              a
+              →
+            
+          
+        
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\vec {x}}(t)={\vec {x}}_{0}+{\vec {v}}_{0}t+{\tfrac {1}{2}}{\vec {a}}t^{2}}
+  
+
+
+=== Eenparig cirkelvormige beweging ===
+Een eenparig cirkelvormige beweging wordt gedefinieerd aan de hand van de baanvergelijking: de positie van het systeem ligt op de omtrek van een vaste cirkel en de snelheid heeft constante grootte. Deze beweging wordt het eenvoudigst beschreven door een coördinatenstelsel te kiezen waarin de cirkel, met straal 
+  
+    
+      
+        R
+        ,
+      
+    
+    {\displaystyle R,}
+   voldoet aan de vergelijking
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        =
+        
+          R
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x^{2}+y^{2}=R^{2}}
+  Het eenparig karakter van de beweging komt tot uiting in de constante grootte van de snelheidsvector, wat overeenkomt met tangentiële versnelling 0. De radiële versnelling is steeds gericht naar het middelpunt van de cirkel en haar grootte bedraagt 
+  
+    
+      
+        
+          v
+          
+            2
+          
+        
+        
+          /
+        
+        R
+        .
+      
+    
+    {\displaystyle v^{2}/R.}
+   Vaak wordt de beweging ook beschreven in termen van de hoeksnelheid 
+  
+    
+      
+        ω
+        =
+        v
+        
+          /
+        
+        R
+        ,
+      
+    
+    {\displaystyle \omega =v/R,}
+   uitgedrukt in radialen per seconde, en dan is
+
+  
+    
+      
+        
+          a
+          
+            rad
+          
+        
+        =
+        
+          ω
+          
+            2
+          
+        
+        R
+        =
+        ω
+        v
+        =
+        
+          
+            
+              v
+              
+                2
+              
+            
+            R
+          
+        
+      
+    
+    {\displaystyle a_{\text{rad}}=\omega ^{2}R=\omega v={\frac {v^{2}}{R}}}
+  In de context van de tweede wet van Newton komt de eenparig cirkelvormige beweging overeen met een middelpuntzoekende kracht met constante grootte.
+
+
+== Toepassing ==
+Een deeltje valt en ondergaat dus de valversnelling 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  . De valversnelling aan het aardoppervlak ten gevolge van de zwaartekracht bedraagt ongeveer 9,81 m/s2, en wordt vrijwel altijd aangeduid als 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   (van gravitatie). Wat is nu op het tijdstip 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   de snelheid 
+  
+    
+      
+        v
+        (
+        t
+        )
+      
+    
+    {\displaystyle v(t)}
+   en de positie 
+  
+    
+      
+        x
+        (
+        t
+        )
+      
+    
+    {\displaystyle x(t)}
+   van een vallend deeltje, als de beginpositie 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x_{0}}
+   is, de startsnelheid 
+  
+    
+      
+        v
+        (
+        0
+        )
+        =
+        
+          v
+          
+            0
+          
+        
+      
+    
+    {\displaystyle v(0)=v_{0}}
+   en de valversnelling constant beschouwd kan worden?
+Het deeltje ondergaat dan een eenparig versnelde beweging, zodat voor de snelheid geldt:
+
+  
+    
+      
+        v
+        (
+        t
+        )
+        =
+        
+          v
+          
+            0
+          
+        
+        +
+        g
+        t
+      
+    
+    {\displaystyle v(t)=v_{0}+gt}
+  .en voor de positie:
+
+  
+    
+      
+        x
+        (
+        t
+        )
+        =
+        
+          x
+          
+            0
+          
+        
+        +
+        
+          v
+          
+            0
+          
+        
+        t
+        +
+        
+          
+            
+              1
+              2
+            
+          
+        
+        g
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x(t)=x_{0}+v_{0}t+{\tfrac {1}{2}}gt^{2}}
+  Als het deeltje een in de tijd veranderlijke versnelling 
+  
+    
+      
+        a
+        (
+        t
+        )
+      
+    
+    {\displaystyle a(t)}
+   ondergaat wordt de vergelijking:
+
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              v
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        a
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\frac {\mathrm {d} v}{\mathrm {d} t}}=a(t)}
+  ,waaruit door integratie volgt:
+
+  
+    
+      
+        v
+        (
+        t
+        )
+        −
+        v
+        (
+        0
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            t
+          
+        
+        a
+        (
+        t
+        )
+        
+        
+          
+            d
+          
+        
+        t
+      
+    
+    {\displaystyle v(t)-v(0)=\int _{0}^{t}a(t)\,{\rm {d}}t}
+  Merk op dat ten gevolge van de luchtweerstand bij een vrije val in werkelijkheid de bovengenoemde formules maar bij benadering juist zijn.
+
+
+== Tangentiële en radiale versnelling ==
+In een systeem met meer dan een vrijheidsgraad zijn de snelheid en de versnelling vectoriële grootheden; dat wil zeggen dat ze niet alleen gekarakteriseerd worden door een grootte, maar ook door een richting en een zin.
+De oplossing van de bewegingsvergelijking van de tweede wet van Newton
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              F
+              →
+            
+          
+        
+        (
+        x
+        ,
+        
+          
+            
+              v
+              →
+            
+          
+        
+        ,
+        t
+        )
+      
+    
+    {\displaystyle {\vec {a}}={\vec {F}}(x,{\vec {v}},t)}
+  met beginvoorwaarden 
+  
+    
+      
+        x
+        (
+        0
+        )
+        =
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x(0)=x_{0}}
+   en 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        (
+        0
+        )
+        =
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}(0)={\vec {v}}_{0}}
+  
+is in het algemeen een differentieerbare kromme in de toestandsruimte van het systeem: de baanvergelijking.
+De versnellingsvector in een punt op de baan kan worden ontbonden in een component evenwijdig met de raaklijn aan de baan, de tangentiële versnelling, en een component loodrecht daarop, de centripetale of radiële versnelling.
+De verandering van de grootte van de snelheid is alleen afhankelijk van de tangentiële versnelling:
+
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              ‖
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+              
+                ‖
+                
+                  2
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        2
+        
+          
+            
+              v
+              →
+            
+          
+        
+        ⋅
+        
+          
+            
+              
+                d
+              
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        2
+        
+          
+            
+              v
+              →
+            
+          
+        
+        ⋅
+        (
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            tan
+          
+        
+        +
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            rad
+          
+        
+        )
+        =
+        2
+        
+          
+            
+              v
+              →
+            
+          
+        
+        ⋅
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            tan
+          
+        
+      
+    
+    {\displaystyle {\frac {\mathrm {d} \|{\vec {v}}\|^{2}}{\mathrm {d} t}}=2{\vec {v}}\cdot {\frac {\mathrm {d} {\vec {v}}}{\mathrm {d} t}}=2{\vec {v}}\cdot ({\vec {a}}_{\text{tan}}+{\vec {a}}_{\text{rad}})=2{\vec {v}}\cdot {\vec {a}}_{\text{tan}}}
+  omdat 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+   en 
+  
+    
+      
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            rad
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}_{\text{rad}}}
+   per definitie loodrecht op elkaar staan. De tangentiële versnelling kan als een getal worden uitgedrukt met de conventie dat ze positief is in de zin van de beweging, en dan volgt
+
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              ‖
+              v
+              ‖
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          a
+          
+            tan
+          
+        
+      
+    
+    {\displaystyle {\frac {\mathrm {d} \|v\|}{\mathrm {d} t}}=a_{\text{tan}}}
+  De verandering van de richting van de snelheidsvector is alleen afhankelijk van de radiële versnelling:
+
+  
+    
+      
+        
+          
+            
+              d
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+          (
+          
+            
+              
+                
+                  v
+                  →
+                
+              
+              
+                ‖
+                
+                  
+                    
+                      v
+                      →
+                    
+                  
+                
+                ‖
+              
+            
+          
+          )
+        
+        =
+        
+          
+            
+              
+                
+                  
+                    a
+                    →
+                  
+                
+              
+              
+                rad
+              
+            
+            
+              ‖
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+              ‖
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\mathrm {d} }{\mathrm {d} t}}\left({\frac {\vec {v}}{\|{\vec {v}}\|}}\right)={\frac {{\vec {a}}_{\text{rad}}}{\|{\vec {v}}\|}}}
+  Op haar beurt wordt de radiële versnelling bepaald door de middelpuntzoekende kracht.
+
+
+== Ogenblikkelijke en gemiddelde versnelling ==
+De hierboven aangehaalde definitie van versnelling als de tweede afgeleide van de plaatsvector wordt ook soms aangeduid als ogenblikkelijke versnelling, dat wil zeggen de versnelling op een gegeven tijdstip, om het onderscheid te maken met de gemiddelde versnelling over een tijdsinterval met een bepaald lengte.
+De gemiddelde versnelling tussen tijdstippen 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+      
+    
+    {\displaystyle t_{1}}
+   en 
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle t_{2}}
+  , waarbij 
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+        >
+        
+          t
+          
+            1
+          
+        
+      
+    
+    {\displaystyle t_{2}>t_{1}}
+   verondersteld wordt, is het verschil in de snelheden op die twee tijdstippen, gedeeld door de lengte van het interval:
+
+  
+    
+      
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            gem
+          
+        
+        =
+        
+          
+            
+              Δ
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  
+                    
+                      v
+                      →
+                    
+                  
+                
+                
+                  2
+                
+              
+              −
+              
+                
+                  
+                    
+                      v
+                      →
+                    
+                  
+                
+                
+                  1
+                
+              
+            
+            
+              
+                t
+                
+                  2
+                
+              
+              −
+              
+                t
+                
+                  1
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}_{\text{gem}}={\frac {\Delta {\vec {v}}}{\Delta t}}={\frac {{\vec {v}}_{2}-{\vec {v}}_{1}}{t_{2}-t_{1}}}}
+  Dit komt overeen met de gewone definitie van de gemiddelde waarde van de ogenblikkelijke versnelling 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\vec {a}}(t)}
+   over het interval 
+  
+    
+      
+        [
+        
+          t
+          
+            1
+          
+        
+        ,
+        
+          t
+          
+            2
+          
+        
+        ]
+        :
+      
+    
+    {\displaystyle [t_{1},t_{2}]:}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            gem
+          
+        
+        =
+        
+          
+            1
+            
+              
+                t
+                
+                  2
+                
+              
+              −
+              
+                t
+                
+                  1
+                
+              
+            
+          
+        
+        
+          ∫
+          
+            t
+            =
+            
+              t
+              
+                1
+              
+            
+          
+          
+            
+              t
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              a
+              →
+            
+          
+        
+        (
+        t
+        )
+        
+        
+          d
+        
+        t
+      
+    
+    {\displaystyle {\vec {a}}_{\text{gem}}={\frac {1}{t_{2}-t_{1}}}\int _{t=t_{1}}^{t_{2}}{\vec {a}}(t)\,\mathrm {d} t}
+  
+
+
+== Acceleratie bij voertuigen ==
+De gebruikelijke eenheid om acceleratie aan te duiden is m/s2.
+Bij voertuigen zoals auto's en speedboten wordt vaak de acceleratietijd van 0 tot 100 km/h opgegeven.
+Uit de formule 
+  
+    
+      
+        F
+        
+          /
+        
+        m
+        =
+        a
+      
+    
+    {\displaystyle F/m=a}
+   valt af te leiden dat de acceleratie toeneemt als de massa afneemt (lichter voertuig) en/of als de aandrijfkracht (die bepaald wordt door het motorvermogen) toeneemt.
+De relatie tussen het motorvermogen en de aandrijvende kracht 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   is als volgt uit te drukken:
+
+  
+    
+      
+        F
+        =
+        T
+        ⋅
+        
+          
+            1
+            i
+          
+        
+        ⋅
+        
+          
+            η
+            r
+          
+        
+      
+    
+    {\displaystyle F=T\cdot {\frac {1}{i}}\cdot {\frac {\eta }{r}}}
+  Hierin is:
+
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   de omtrekskracht aan het aangedreven wiel, uitgedrukt in N
+
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   het motorkoppel aan de krukas, uitgedrukt in Nm
+
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   de overbrenging versnellingsbak maal eindoverbrenging (differentieel)
+
+  
+    
+      
+        η
+      
+    
+    {\displaystyle \eta }
+   het rendement van de overbrenging
+
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   de straal van het aangedreven wiel, uitgedrukt in mOmgekeerd is hieruit het motortoerental bij een gegeven snelheid te bepalen:
+
+  
+    
+      
+        n
+        =
+        
+          
+            
+              v
+              ⋅
+              60
+            
+            
+              2
+              π
+              ⋅
+              r
+              ⋅
+              i
+            
+          
+        
+      
+    
+    {\displaystyle n={\frac {v\cdot 60}{2\pi \cdot r\cdot i}}}
+  ,met:
+
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   het motortoerental, uitgedrukt in omwentelingen per minuut
+
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   de snelheid, uitgedrukt in m/sHieruit valt op te maken dat 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   groot wordt bij een zo hoog mogelijke overbrenging 
+  
+    
+      
+        1
+        
+          /
+        
+        i
+      
+    
+    {\displaystyle 1/i}
+  , mogelijk gemaakt door een hoog maximaal motortoerental. Anders gezegd is het gunstig als het motortoerental constant hoog blijft terwijl de overbrengverhouding zich continu aanpast aan de toenemende snelheid. Anderzijds is duidelijk dat een hoog koppel evenzeer helpt. Beide samen (
+  
+    
+      
+        T
+        ⋅
+        (
+        n
+        ⋅
+        2
+        π
+        
+          /
+        
+        60
+        )
+      
+    
+    {\displaystyle T\cdot (n\cdot 2\pi /60)}
+  ) geven het vermogen. Een hoger vermogen leidt dus tot een snellere acceleratie.
+Het rendement van de overbrenging kan ook een nadrukkelijke rol spelen. Bijvoorbeeld de koppelomvormer van een automaat veroorzaakt een lager rendement. Ook de duwband van VDT heeft een lager rendement dan een handgeschakelde versnellingsbak, waardoor deze het theoretische voordeel van een continu variabele overbrenging (geen schakeltijd, waarin geen vermogen kan worden geleverd) meestal niet kan omzetten in een kortere acceleratietijd.
+
+
+== Relativiteitstheorie ==
+De beschrijvingen en berekeningen die in de toepassing hierboven gegeven worden volgen de principes van de klassieke mechanica. De algemene relativiteitstheorie van Einstein kent geen zwaartekracht. Volgens Einstein kan een door een voorwerp ondervonden constante versnelling niet worden onderscheiden van de versnelling vanwege een zwaartekracht.
+
+
+== Zie ook ==
+Eindsnelheid
+Equivalentieprincipe
+Middelpuntzoekende versnelling

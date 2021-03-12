@@ -1,0 +1,51 @@
+Se define como ingravidez al estado en el que un cuerpo que tiene un cierto peso, se contrarresta con otra fuerza o se mantiene en caída libre sin sentir los efectos de la fuerza gravitatoria.
+La ingravidez es la experiencia (de personas y objetos) durante la caída libre. Ésta se experimenta comúnmente en las naves espaciales. La ingravidez representa la sensación de experimentar una fuerza g cero, o peso aparente cero. La aceleración se debe sólo a la gravedad, en oposición a los casos donde actúan otras fuerzas, como:
+
+cuando uno está de pie sobre el suelo o sentado en una silla sobre el suelo, etc. (La gravedad es contrarrestada por la fuerza reactiva del piso.)
+volando en un avión (la gravedad es cancelada por la sustentación que proveen las alas).
+la reentrada en la atmósfera, aterrizando con un paracaídas: la gravedad es cancelada por la densidad de la atmósfera.
+durante una maniobra orbital en una nave espacial: el cohete provee el empuje.La diferencia es que la gravedad actúa directamente sobre una persona y otras masas, mientras que las fuerzas como el empuje de un cohete o el frenado atmosférico actúan primero sobre el vehículo, y a través del vehículo sobre la persona. En el primer caso la persona y el piso del vehículo se aprietan uno contra otro; en los otros casos no.
+Lo que experimentamos como peso no es realmente la fuerza de la gravedad (aunque esa es la definición técnica de peso) sino la reacción normal del piso (o cualquier superficie con la que estemos en contacto) que contrarresta la fuerza de la gravedad.
+Cuando estamos en un avión, las alas de este generan una sustentación. Entonces el piso del avión impide que caigamos hacia la masa del planeta (que genera la fuerza gravitatoria).
+Pero si estando dentro del avión cayéramos en caída libre, dejaríamos de experimentar esa conocida sensación de peso (el piso oprimiendo nuestros zapatos hacia arriba). La fuerza de gravedad sigue empujando nuestro cuerpo hacia abajo, pero el avión no la estaría contrarrestando, sino que caería junto con nosotros.
+Este es el principio que se utiliza en los aviones de experimentación gravitatoria, que se utiliza para que los astronautas se acostumbren a la ausencia de gravedad.
+Cuando estamos de pie sobre el piso, cada sección horizontal de nuestro cuerpo no soporta el mismo peso. No solo experimenta la fuerza debida a la gravedad sobre él, sino también el peso de todas las porciones que quedan por encima. Parte de la sensación de peso, entonces, es realmente la experiencia de una presión gradual dentro de nuestro cuerpo.
+Cuando estamos de pie sobre nuestro planeta, este ejerce una fuerza igual y opuesta a la fuerza de gravedad que nos empuja hacia el centro del planeta.
+Lo que percibimos como peso es justamente la fuerza con el planeta sobre nuestros pies.
+En cambio cuando un astronauta está en una nave espacial orbitando alrededor de la Tierra, la única fuerza que actúa sobre él es la de la gravedad (y además muy disminuida).
+La microgravedad es el estado en el cual la única fuerza que actúa sobre un cuerpo es la gravedad.
+Ese estado se logra durante una caída libre (en un precipicio, por ejemplo) o en una órbita alrededor de un planeta (como la órbita de las estaciones espaciales), que es una especie de caída perpetua. 
+
+
+== Ingravidez en el espacio ==
+
+El peso, fuerza con que un astro atrae a un vehículo espacial, es inversamente proporcional al cuadrado de la distancia y, consiguientemente, disminuye con rapidez cuando el aparato se aleja de aquel: al doblar la distancia a su centro, la atracción es cuatro veces menor (22 veces); al triplicar la misma, la atracción es 9 veces menor (32 veces), etc. Sin embargo, esa no es la razón de que los astronautas y los objetos se encuentren en estado de ingravidez. Los astronautas sienten el efecto de la ingravidez porque ellos van en una constante caída libre alrededor del planeta, fueron lanzados al espacio con una inclinación y una velocidad predeterminada para poder conseguir quedar en órbita. Le das más velocidad al sistema y los astronautas se alejarán en el espacio; los lanzas con menos fuerza y los mismos terminarán por caer a tierra. Lo mismo ocurre con el ocupante de un ascensor si se rompiera el cable y si no existiera ningún roce de la cabina con el aire ni con las guías. Sensación de ingravidez.
+
+
+== Efectos en el organismo ==
+
+Las funciones fisiológicas apenas son perturbadas por el estado de ingravidez. El sentido de la orientación puede ser afectado, ya que en el suelo lo rige el peso de los otolitos (minúsculos depósitos cálcicos que se hallan inmersos en el humor que llena los canales semicirculares del oído interno). Al no pasar los otolitos, se producen vértigos, náuseas y otros trastornos que no son sino los de un mareo común. De todos modos, los astronautas se hallan sometidos a un entrenamiento apropiado que les preserva de tales molestias. Una consecuencia, no aparente, de la ingravidez es una leve atrofia muscular y la desmineralización o pérdida de materia ósea por el esqueleto al cabo de una estancia prolongada en el espacio.
+En el programa de todos los vuelos del ser humano en el espacio exterior figuran experimentos biológicos que se efectúan mediante observaciones personales o con animales de laboratorio. También existen satélites biológicos especialmente lanzados para estudiar todos los problemas relativos al comportamiento de los organismos en estado de ingravidez y sometidos a las radiaciones cósmicas.
+Los principales efectos del cuerpo humano a la ingravidez o a la microgravedad son:
+
+) Síndrome de adaptación al espacio o enfermedad del espacio. Malestar que ocurre en diferente medida según cada organismo humano y sólo se manifiesta dentro del primer día en ingravidez. Rara vez sucede por dos días y los casos de tres o más son nulos. Se manifiesta por mareos y vómito así como debilitamiento general. Se usó la escopolamina con poco éxito, mas ahora se usa la prometazina con muchos mejores resultados.
+) Desplazamiento de líquidos hacia la parte superior del cuerpo. Los líquidos se desplazan hacia el tórax y la cabeza originando hinchazón y con sensación de pulsaciones en el cuello, obstrucción nasal y adelgazamiento de las extremidades inferiores y de la cintura. Este efecto provoca intolerancia ortostática al regresar a la Tierra, es decir, dificultad para estar de pie. El problema se alivia bebiendo un litro de solución salina antes de regresar a condiciones de gravedad normal.
+) Descondicionamiento cardiovascular y pérdida de glóbulos rojos. El corazón reduce su trabajo debido a la reducción de líquidos en el cuerpo que es de aproximadamente 10%. Así mismo disminuyen los glóbulos rojos por causas aún no comprendidas. Este efecto no afecta en la práctica a los astronautas y desaparece luego de varias semanas en la Tierra.
+) Descondicionamiento muscular. Debido a la falta de gravedad los músculos tienden a perder masa, ya que ni las piernas tienen que cargar el peso del cuerpo como comúnmente lo hacen, y la mayoría de los demás músculos requieren solo una ínfima parte de su energía para mover el cuerpo humano, pues el peso de las extremidades y cabeza desaparece quedando solo la inercia. Este efecto se remedia con la realización de ejercicio durante todo el tiempo de ingravidez. Los rusos han acoplado en sus trajes espaciales para misiones prolongadas unos tirantes que comprimen el cuerpo de los hombros a los pies originando a los músculos del cuerpo una fuerza contra la que deben oponerse.
+) Deterioro óseo. En estancias largas los huesos se descalcifican. Este efecto no es reversible y es uno de los más serios. El ejercicio no ha reflejado mejoría en este problema.
+
+
+== Véase también ==
+Astronáutica
+Fuerza G
+Gravitación
+Peso
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Ingravidez.
+Exploration.grc.Nasa.gov (estudio de la NASA acerca de la ingravidez).
+olivierpascaud.com (ingravidez en los viajes a bordo del Airbus A300 Zero-G).
+microgravityuniversity.jsc.nasa.gov (NASA Microgravity University).
+Vuelos de ingravidez (enlace roto disponible en Internet Archive; véase el historial, la primera versión y la última).
+ManiacWorld.com vídeos de simulación de condiciones aeroespaciales en aviones de la NASA).

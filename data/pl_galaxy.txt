@@ -1,0 +1,219 @@
+Galaktyka (z gr. γάλα – mleko) – duży, grawitacyjnie związany układ gwiazd, pyłu i gazu międzygwiazdowego oraz niewidocznej ciemnej materii. Typowa galaktyka zawiera od 107 do 1012 gwiazd orbitujących wokół wspólnego środka masy.
+Oprócz pojedynczych gwiazd, galaktyki zawierają dużą liczbę układów gwiazd oraz różnego rodzaju mgławice. Większość galaktyk ma rozmiary od kilku tysięcy do kilkuset tysięcy lat świetlnych. Odległości między galaktykami sięgają milionów lat świetlnych. Szacuje się, że w widzialnym Wszechświecie istnieje 350 miliardów dużych galaktyk oraz 3,5 biliona galaktyk karłowatych. Wszystkie te galaktyki tworzą 25 miliardów grup galaktyk zawartych w 10 milionach supergromad galaktyk.
+Galaktyka, wewnątrz której znajduje się Układ Słoneczny, to Droga Mleczna. Najdalsza znana obecnie galaktyka (o potwierdzonej odległości) to GN-z11.
+Największą znaną galaktyką jest IC 1101.
+Aby wytłumaczyć obserwowane efekty (np. grawitacyjną spójność rozległych galaktyk o małej widocznej masie), przypuszcza się, że zasadniczą część masy galaktyk stanowi hipotetyczna ciemna materia, czyli cząstki lub obiekty emitujące zbyt mało promieniowania, by mogły być wykryte. Zgodnie z tym modelem, z obliczeń wynika, że ciemna materia stanowi ponad 90% masy galaktyk. Mimo to jej natura nie jest znana. Istnieją dowody na to, iż w centrum wielu lub nawet wszystkich galaktyk mogą istnieć supermasywne czarne dziury.
+
+
+== Masa i jasność galaktyki ==
+Bezpośrednie wyznaczenie masy galaktyki jest możliwe w układach podwójnych galaktyk oraz z obserwacji ruchu gwiazd lub gromad kulistych, obiegających w dużych odległościach centrum galaktyki, o ile znana jest odległość do niej. Uproszczona analiza polega na założeniu, że cała masa galaktyki skoncentrowana jest w jej centrum. Wtedy przyspieszenie grawitacyjne w punkcie odległym od niego o 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   wynosi 
+  
+    
+      
+        g
+        =
+        
+          v
+          
+            2
+          
+        
+        
+          /
+        
+        R
+        =
+        G
+        
+        
+          M
+          
+            
+              g
+              a
+              l
+            
+          
+        
+        
+          /
+        
+        
+          R
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle g=v^{2}/R=G\;M_{\mathrm {gal} }/R^{2},}
+   gdzie 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   jest prędkością, z jaką obiekty na odległości 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   obiegają środek galaktyki, a 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   jest newtonowską stałą grawitacji. Po przekształceniach otrzymujemy, iż masa galaktyki wynosi w przybliżeniu 
+  
+    
+      
+        
+          M
+          
+            
+              g
+              a
+              l
+            
+          
+        
+        ≃
+        R
+        
+          v
+          
+            2
+          
+        
+        
+          /
+        
+        G
+        .
+      
+    
+    {\displaystyle M_{\mathrm {gal} }\simeq Rv^{2}/G.}
+  
+Masy największych galaktyk eliptycznych wynoszą około 1014 mas Słońca, najmniejszych natomiast nie przekraczają 106 
+  
+    
+      
+        
+          M
+          
+            ⊙
+          
+        
+        .
+      
+    
+    {\displaystyle M_{\odot }.}
+   Masy galaktyk spiralnych zawierają się w przedziale od 108 do 1012 mas słonecznych. W przypadku galaktyk nieregularnych ich masy wynoszą od 108 do 1010 
+  
+    
+      
+        
+          M
+          
+            ⊙
+          
+        
+        .
+      
+    
+    {\displaystyle M_{\odot }.}
+  
+Inną ważną cechą galaktyk jest ich jasność. Największe galaktyki eliptyczne świecą jak 1011 Słońc, podczas gdy jasność galaktyk karłowatych wynosi około 105 
+  
+    
+      
+        
+          L
+          
+            ⊙
+          
+        
+        .
+      
+    
+    {\displaystyle L_{\odot }.}
+  
+
+
+== Przestrzeń międzygalaktyczna ==
+Przestrzeń międzygalaktyczna jest prawie absolutną próżnią o gęstości mniejszej niż jeden atom na metr sześcienny. Wypełnia ją ośrodek międzygalaktyczny, a być może także ciemna materia i ciemna energia.
+
+
+== Typy galaktyk ==
+
+Galaktyki można podzielić na cztery główne typy:
+
+spiralna
+bez poprzeczki – typ S (od: spiral)
+z poprzeczką – typ SB (od spiral barred)
+soczewkowata – typ S0
+eliptyczna – typ E (od: elliptical)
+galaktyki wrzecionowate (istniały we wczesnym stadium ewolucji wszechświata)
+nieregularna – typ Irr (od: Irregular)Słowo „Galaktyka” – czyli pisane jako nazwa własna przez wielkie „G” – oznacza naszą galaktykę, czyli Drogę Mleczną. Nasza galaktyka jest dużą spiralną galaktyką o średnicy około 30 kpc (~100 000 lat świetlnych) i grubości 3000 lat świetlnych; z poprzeczką o średnicy około 29 000 lat świetlnych. Zawiera od 200 miliardów (2×1011) do 300 miliardów (3×1011) gwiazd, a jej masa jest rzędu 6×1011 mas Słońca.
+
+W galaktykach spiralnych jej ramiona mają kształt spirali logarytmicznej, kształt ten wynika z zaburzenia jednorodnie rotującej masy gwiazd. Podobnie jak gwiazdy, ramiona spiralne również rotują, ale obracają się ze stałą prędkością kątową. Oznacza to, że gwiazdy wchodzą i wychodzą z ramion spiralnych. Ramiona spiralne można rozumieć jako obszary o zwiększonej gęstości – fale gęstości. Gwiazdy wchodząc w ramiona spiralne zwalniają, tworząc obszar o zwiększonej gęstości. Jest to podobne do „fali” zwalniających samochodów wzdłuż autostrady. Ramiona są widoczne, ponieważ większa gęstość ułatwia proces formowania się gwiazd i powstawania młodych jasnych gwiazd.
+
+
+== Większe struktury galaktyk ==
+Tylko niewielki procent galaktyk istnieje jako obiekty niezwiązane, nazywane są one „galaktykami pola”. W większości galaktyki są związane grawitacyjnie z innymi galaktykami. Wokół dużych galaktyk często orbitują mniejsze galaktyki satelitarne. Struktury zawierające do 50 galaktyk nazywa się grupami galaktyk, a większe struktury zawierające wiele tysięcy galaktyk wewnątrz rozmiarów kilku megaparseków (106 pc) są nazywane gromadami galaktyk. Supergromady galaktyk są ogromnymi zbiorowiskami galaktyk zawierającymi dziesiątki tysięcy galaktyk. Powyżej tej skali odległości uważa się, że Wszechświat jest jednorodny.
+Nasza galaktyka jest członkiem Grupy Lokalnej, w której dominuje razem z Galaktyką Andromedy. Grupa Lokalna zawiera ponad 50 galaktyk na obszarze około jednego megaparseka (106 pc). Grupa Lokalna jest jedynie niewielką częścią Supergromady Lokalnej znanej też jako Supergromada w Pannie. W centrum tej Supergromady znajduje się galaktyka M87.
+
+
+== Zderzenie się galaktyk ==
+
+Zderzenie galaktyk to zjawisko astronomiczne, które zachodzi, gdy dwie lub więcej galaktyk nachodzi na siebie, zaburzając nawzajem swoje pola grawitacyjne. Proces taki trwa zwykle setki milionów lat i często prowadzi do połączenia się galaktyk w jedną. Zderzenie takie nie stanowi jednak totalnej katastrofy. Podczas kolizji galaktyk rzadko dochodzi do zderzeń gwiazd, ze względu na ogromne odległości, które je dzielą. Ponadto gdy galaktyki zachodzą na siebie, w wyniku łączenia się zawartych w nich obłoków gazu i pyłu powstają nowe gwiazdy.
+Prawdopodobnie duże galaktyki eliptyczne znajdujące się w centrach niektórych gromad powstały na skutek zderzeń kilku mniejszych galaktyk, zwykle spiralnych.
+Przykładem zderzenia galaktyk jest para galaktyk odkryta w 1785 roku przez Williama Herschela. Są to NGC 4038 i NGC 4039 w gwiazdozbiorze Kruka, tak zwane „Czułki” (ang. Antennae). Nazwa pochodzi od charakterystycznego kształtu tej pary galaktyk: ich jądra znajdują się bardzo blisko, a zdeformowane ramiona spiralne tworzą długie, zakrzywione pasma gwiazd odchodzące od nich w dwie strony, przypominające czułki owada. Podobną spektakularną parą zderzających się galaktyk są tzw. „Myszy” (NGC 4676).
+
+
+== Historia badań ==
+W 1610 Galileusz użył teleskopu do obserwacji Drogi Mlecznej i odkrył, że składa się ona z ogromnej liczby słabych gwiazd. Immanuel Kant w traktacie z 1755 roku, opierając się na wcześniejszej pracy astronoma Thomasa Wrighta, właściwie przypuszczał, że galaktyka może być obracającym się ciałem zbudowanym z ogromnej ilości gwiazd związanych grawitacyjne. Powstały dysk gwiazd mógłby być widoczny na niebie jako pasmo gwiazd. Kant przypuszczał również, że obserwowalne mgławice mogą być oddzielnymi galaktykami.
+Pod koniec XVIII wieku Charles Messier zgromadził katalog zawierający 109 najjaśniejszych mgławic, później William Herschel wydał katalog gromadzący 5000 mgławic. W roku 1845 William Parsons dzięki konstrukcji nowego teleskopu był zdolny rozróżnić mgławice eliptyczne od spiralnych.
+Aż do lat 20. XX wieku, do prac Edwina Hubble’a, mgławice te nie były powszechnie uważane za odległe galaktyki. Hubble zidentyfikował pojedyncze gwiazdy zmienne (cefeidy), co pozwoliło mu na pomiar odległości do najbliższych galaktyk. W roku 1926 Hubble zaproponował klasyfikację galaktyk używaną do tej pory.
+Pierwszej próby oceny kształtu Drogi Mlecznej i położenia Słońca w naszej galaktyce dokonał William Herschel w roku 1785 poprzez dokładne zliczenie liczby gwiazd w różnych obszarach nieba.
+Używając ulepszonej metody Kapteyn w 1920 otrzymał obraz naszej galaktyki jako małej elipsoidalnej galaktyki (średnicy ~15 kiloparseków) ze Słońcem w centrum galaktyki.
+Inna metoda stosowana przez Shapleya doprowadziła do radykalnie innego obrazu: płaskiego dysku o średnicy ~70 kiloparseków ze Słońcem daleko od centrum. Obie analizy danych nie uwzględniały absorpcji światła przez pył międzygwiezdny. Obecny obraz naszej galaktyki ukształtował się w latach 30. XX wieku.
+W roku 1944 van de Hulst przewidział istnienie promieniowania mikrofalowego o długości 21 cm pochodzącego od międzygwiezdnego gazu wodorowego. Promieniowanie to zaobserwowano w 1951 roku.
+To promieniowanie poprawiło obraz naszej galaktyki, ponieważ nie było absorbowane przez pył, a obserwacja przesunięcia długości fali w oparciu o zjawisko Dopplera pozwoliła ustalić prędkości gazu w Galaktyce. Te obserwacje potwierdziły rotację naszej galaktyki wokół jej centrum. Z chwilą udoskonalenia teleskopów radiowych obserwacje gazu wodorowego mogły być dokonane również dla innych galaktyk. W latach 70. XX wieku zdano sobie sprawę, że całkowita widoczna masa nie zgadza się z danymi z rotacji galaktyk, co doprowadziło do idei ciemnej materii.
+
+
+== Zobacz też ==
+gromady galaktyk
+grupy galaktyk
+halo galaktyczne
+lista najbardziej odległych galaktyk
+supergromady galaktyk
+
+
+== Przypisy ==
+
+
+== Linki zewnętrzne ==
+Artykuł prof. Sołtana o galaktykach na „Wirtualnym Wszechświecie”
+Atlas Wszechświata
+Astronet.pl – Zdjęcia obiektów pozagalaktycznych
+Galaxies, SEDS Messier (ang.)
+Galaxies and the Universe (ang.)
+Projekt Galaxy Zoo (ang.)

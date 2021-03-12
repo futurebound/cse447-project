@@ -1,0 +1,134 @@
+Space Exploration Technologies Corporation (SpaceX) – amerykańskie przedsiębiorstwo przemysłu kosmicznego, założone w roku 2002 przez Elona Muska. Jego celem jest budowa silników rakietowych i rakiet nośnych oraz statków kosmicznych, w tym także załogowych. Kluczem do osiągnięcia sukcesu ma być znaczne zmniejszenie kosztów wynoszenia ładunku na orbitę. Przede wszystkim, SpaceX projektuje i buduje serię rakiet orbitalnych Falcon i statków kosmicznych Dragon.
+Siedziba, montownia rakiet i biuro projektowe znajdują się w Hawthorne (hrabstwo Los Angeles) w Kalifornii. Silniki i inne duże elementy testowane są w McGregor w stanie Teksas. Ponadto firma posiada kilka biur regionalnych na terenie USA, a w styczniu 2015 r. ogłoszono plan utworzenia w Redmond w stanie Waszyngton biura projektowego na potrzeby planowanej produkcji satelitów telekomunikacyjnych.
+
+
+== Początki ==
+SpaceX została założona w 2002 r. przez Elona Muska, współtwórcę firm Zip2 oraz PayPal i prezesa Tesla Motors. Fundusze uzyskane z poprzednich projektów Musk zainwestował w technikę kosmiczną. Zdecydował się na budowę rakiet, które znacząco zmniejszą koszty wynoszenia ładunków w przestrzeń kosmiczną. Cel ma zostać osiągnięty przez wielokrotne użycie stopni rakiety po ich odzyskaniu (zautomatyzowane lądowanie na lądzie lub statku) oraz przez użycie sprawdzonych i tanich technologii oraz seryjnej produkcji. W listopadzie 2005 r. SpaceX zatrudniało 160 osób. W 2010 r. było to już 1180 pracowników, w maju 2012 r. 1800, a na początku 2013 roku prawie 3000 osób. W 2015 roku liczba zatrudnionych osiągnęła 5000.
+
+
+== Osiągnięcia ==
+Dotychczasowe osiągnięcia:
+
+Pierwsza prywatna rakieta napędzana paliwem ciekłym, która osiągnęła orbitę (lot 4, Falcon 1, 28 września 2008)
+Pierwsza prywatna rakieta napędzana paliwem ciekłym, która umieściła satelitę na orbicie (RazakSAT, Falcon 1, lot 5,14 lipca 2009)
+Pierwsza firma prywatna, która pomyślnie wysłała na orbitę i odzyskała statek kosmiczny (kapsuła Dragon, COTS lot demo 1, 9 grudnia 2010)
+Pierwsza firma prywatna, która wysłała statek kosmiczny do Międzynarodowej Stacji Kosmicznej (Dragon C2+, 25 maja, 2012)
+Pierwsza firma prywatna, która wysłała satelitę na orbitę geosynchroniczną (SES-8, Falcon 9, lot 7, 3 grudnia 2013)
+Pierwsze lądowanie I stopnia rakiety orbitalnej na lądzie (Falcon 9, lot 20, 22 grudnia 2015)
+Pierwsze lądowanie I stopnia rakiety orbitalnej na platformie morskiej (Falcon 9, lot 23, 8 kwietnia 2016)
+Pierwszy ponowne użycie (start i lądowanie) I stopnia rakiety orbitalnej (B1021, Falcon 9, lot 32, 30 marca 2017)
+Pierwszy kontrolowane sprowadzenie na ziemię i odzyskanie osłon aerodynamicznych rakiety orbitalnej (Falcon 9, lot 32, 30 marca 2017)
+Pierwszy ponowny lot komercyjnego ładunkowego statku kosmicznego (Dragon C106, misja CRS-11, 3 czerwca 2017)
+Pierwsza firma prywatna, która wysłała załogowy statek kosmiczny do Międzynarodowej Stacji Kosmicznej (Dragon V2, 2 marca 2019)
+Pierwsza firma prywatna, która wysłała ludzi na orbitę i na ISS (misja SpaceX DM-2, 30–31 maja, 2020)
+
+
+== Rakiety nośne Falcon ==
+SpaceX zaprojektował serię rakiet, z których nie wszystkie zostały ostatecznie zbudowane. Pracuje także nad przyszłymi, większymi rakietami z rodziny Falcon. Wszystkie te rakiety oparte są na silnikach rodziny Merlin 1 (jedynie Falcon 1 używała w drugim członie mniejszego silnika Kestrel), których kolejne wersje znajdują wykorzystanie w nowszych modelach rakiet.
+
+
+=== Parametry techniczne ===
+
+
+=== Falcon 1 ===
+
+24 marca 2006 po raz pierwszy została wystrzelona rakieta Falcon 1. Start odbył się z kosmodromu na wyspie Omelek atolu Kwajalein. Dziewiczy lot był nieudany: w 29 sekundzie lotu zawiódł główny silnik Falcona. Utracono rakietę oraz 19,5 kg satelitę FalconSAT 2. Dwie kolejne próby startu także zakończyły się niepowodzeniem. Dopiero 28 września 2008 r., w swoim czwartym locie (Flight 4), Falcon 1 niosący makietę satelity osiągnął prędkość orbitalną, stając się pierwszą, całkowicie prywatnie wyprodukowaną rakietą kosmiczną, która dokonała satelizacji ładunku. Po swoim piątym locie rakieta została wycofana z użytku i miała zostać zastąpiona dysponującą lepszymi osiągami wersją Falcon 1e.
+
+
+=== Falcon 1e ===
+Ulepszona wersja rakiety Falcon 1, której pierwszy start planowano w 2011 r., jednak nie weszła ona nigdy do użytku. Uznano, że małe satelity mogą być umieszczane na orbicie jako ładunek dodatkowy rakiety Falcon 9.
+
+
+=== Falcon 5 ===
+Wersja rakiety, która nie jest rozwijana. Miała być wersją pośrednią między Falcon 1 i Falcon 9.
+
+
+=== Falcon 9 ===
+
+Jest to dwustopniowa rakieta nośna, przewidziana m.in. do wynoszenia na orbitę budowanych przez SpaceX transportowych i załogowych statków kosmicznych Dragon. Pojazdy te służą m.in. do zaopatrzenia (w przyszłości także do wymiany załóg) Międzynarodowej Stacji Kosmicznej. Falcon 9 może wynosić na niską orbitę wokółziemską (ok. 200 km) ładunki o masie do 9,9 t, natomiast na orbitę geostacjonarną do 2,4 t. Starty odbywają się z kosmodromu na przylądku Canaveral w USA. Pierwszy, próbny start odbył się 4 czerwca 2010 r. Rakieta w wersji 1.0 była używana do 2013 r. w programie COTS, od września 2013 zastąpiona wersją 1.1.
+
+
+=== Falcon 9 v.1.1 ===
+Wersja rakiety Falcon 9, różniąca się od niej zastosowaniem silniejszych silników Merlin 1D w miejsce wersji 1C oraz wydłużeniem zbiorników paliwa. Pierwszy start odbył się 29 września 2013.
+Podczas drugiej (3 grudnia 2013 r. UTC) oraz trzeciej (6 stycznia 2014 r. UTC) misji Falcon 9 w wersji 1.1 rakieta wyniosła ładunek na orbitę przejściową do geostacjonarnej. Czwartą misją był lot do Międzynarodowej Stacji Kosmicznej.
+Do 27 kwietnia 2015 roku wykonano 13 misji tej wersji rakiety, wszystkie zakończone sukcesem.
+28 czerwca 2015 roku kolejny lot zaopatrzeniowy na Międzynarodową Stację Kosmiczną zakończył się niepowodzeniem – nastąpiła eksplozja rakiety nośnej spowodowana awarią jej drugiego stopnia w 139 s lotu. Statek Dragon przetrwał wybuch i został odrzucony od reszty rakiety. Kontynuował wysyłanie telemetrii aż do momentu zniknięcia za horyzontem. Został zniszczony podczas uderzenia w powierzchnię Oceanu Atlantyckiego. Utracie statku Dragon można było zapobiec – nieuszkodzona kapsuła mogła otworzyć swoje spadochrony jak podczas standardowego lądowania. Program sterujący nie był jednak przygotowany na taki scenariusz, a wprowadzenie komendy otwarcia spadochronów nie było możliwe w tak krótkim czasie. Oprogramowanie Dragona zostało później zaktualizowane na wypadek wystąpienia podobnej sytuacji. Jeśli statek zostanie z jakiegokolwiek powodu odłączony od rakiety nośnej jeszcze w atmosferze, spróbuje otworzyć swoje spadochrony w celu ocalenia kapsuły i ładunku.
+Ostatni lot wersji 1.1 odbył się 17 stycznia 2016 o godzinie 18:42 UTC. Lot zakończył się sukcesem – wyniesieniem na orbitę satelity Jason-3 służącego do obserwacji oceanów. Pierwszy stopień rakiety wylądował na statku na Oceanie Spokojnym, ale jedna z nóg podtrzymujących nie została poprawnie zablokowana i złożyła się kilka sekund po lądowaniu, powodując przewrócenie się rakiety i eksplozję.
+
+
+=== Falcon 9 v.1.2 ===
+Pierwszy start tej wersji odbył się 21 grudnia 2015 o godzinie 1:29 UTC. Wersja 1.2, zwana również „Full Thrust” różni się od poprzedniej zwiększonym o 15% ciągiem silników Merlin pierwszego i drugiego stopnia, długością drugiego stopnia zwiększoną o około 0,5 m oraz użyciem bardziej schłodzonego paliwa (nafty) oraz ciekłego tlenu. Temperatura nafty została zmniejszona z 21 °C do −7 °C, a ciekłego tlenu z −180 °C do −207 °C. Niższa temperatura powoduje zwiększenie gęstości paliwa i utleniacza, przekładając się na 30 ton więcej materiału pędnego w zbiornikach o tej samej objętości. Oprócz tych zmian, wersja 1.2 wprowadza również szereg drobnych poprawek, m.in. wzmocnione nogi
+używane do lądowania, poprawione działanie powierzchni sterowych (grid fins) oraz zmniejszona masa struktury kadłuba. Wszystkie te zmiany przełożyły się na zwiększenie osiągów rakiety (masa dostarczana na orbitę) o około 35%.
+W nocy z 21 na 22 grudnia 2015 roku miało miejsce pierwsze udane lądowanie pierwszego członu rakiety Falcon 9 v.1.2. Start i lądowanie rakiety odbyło się na przylądku Canaveral na Florydzie. Głównym celem misji było umieszczenie na orbicie 11 satelitów dla firmy komunikacyjnej Orbcomm. Rakieta osiągnęła wysokość około 200 km i prędkość 1,6 km/s, po czym bezpiecznie wylądowała z powrotem, tuż obok miejsca startu. To udane lądowanie było pierwszą w całej historii SpaceX próbą postawienia rakiety na twardym podłożu, gdyż dotychczasowe próby odbywały się na specjalnej barce-statku pływającym po Oceanie Atlantyckim. Jak dotąd 3 z 4 rakiet Falcon 9 v1.2 udanie wylądowały po starcie – misja OG-2 na lądzie, CRS-8 oraz JCSAT-14 na statku. Lądowanie podczas misji SES-9 nie powiodło się z powodu bardzo małej ilości paliwa i dużej prędkości rakiety.
+
+
+=== Falcon Heavy ===
+Ciężka wersja rakiety nośnej Falcon 9, z dwoma dodatkowymi pierwszymi członami tej rakiety umieszczonymi po bokach (łącznie 27 silników). Planowany jest duży wzrost osiągów: rakieta ma wynosić na niską orbitę do 54,4 t ładunku, z możliwym powiększeniem tej wartości do ponad 60 ton przy użyciu technologii cross-feed. Wielokrotnie przekładany start tej rakiety (początkowe zapowiedzi: 2013) odbył się 6 lutego 2018 roku.
+
+
+== Dragon ==
+
+Statek kosmiczny, którego głównym zadaniem jest dostarczanie zaopatrzenia na Międzynarodową Stacją Kosmiczną (ISS). Pierwszy zakontraktowany lot do Międzynarodowej Stacji Kosmicznej w ramach programu COTS odbył się w październiku 2012 r. Dragon składa się z hermetycznej kapsuły oraz członu bagażowego.
+2 marca 2019 roku odbył się pierwszy testowy lot na ISS (DM-1) załogowej wersji kapsuły, nazwanej Crew Dragon. W trakcie tego testu zamiast astronautów na pokładzie znajdował się manekin o imieniu Ripley.
+27 maja 2020 roku miał odbyć się start rakiety Falcon 9 z kapsułą załogową SpaceX DM-2, która miała dostarczyć astronautów na Międzynarodową Stację Kosmiczną. Ze względu na złe warunki pogodowe na Florydzie, kilkanaście minut przed odpaleniem silników start został przesunięty z 27 maja godziny 20:33 UTC (22:33 czasu polskiego) na kolejne okno pogodowe. 30 maja 2020 roku o godzinie 19:22 UTC (21:22 czasu polskiego), astronauci Douglas Hurley (dowódca) i Robert Behnken wystartowali, a po kilkunastogodzinnym locie, 31 maja o godzinie 14:16 UTC (16:16 czasu polskiego), zadokowali do ISS. Na orbicie mają oni spędzić od dwóch tygodni do kilku miesięcy. Z kolei rakieta Falcon 9, która wyniosła kapsułę Dragon wylądowała na statku-lądowisku (drone ship) „Of course I still love you”. Wydarzenie to ma być krokiem w kierunku rakiet wielokrotnego użytku, co ma być jednym z czynników obniżających koszty lotów kosmicznych.
+
+
+== Starship ==
+
+Rozwijany projekt superciężkiego statku kosmicznego. System ma być w pełni wielokrotnego użytku i ma pozwolić ludziom na dotarcie na Marsa, a także pomóc w szybszym przemieszczaniu się pomiędzy odległymi miastami na Ziemi.
+Starship to dwustopniowy pojazd kosmiczny o łącznej wysokości 118 m i średnicy 9 m. Do budowy obu stopni pojazdu zamiast włókna węglowego użyta zostanie stal nierdzewna. Jego udźwig na niską orbitę okołoziemską ma wynieść co najmniej 100 t. Oba stopnie statku będą zasilane silnikami Raptor.
+W 2019 roku na terenie prywatnego kosmodromu firmy SpaceX w miejscowości Boca Chica w Teksasie, dokonano pierwszych testowych lotów prototypu statku, nazwanego Starhopper (ang. hopper – skoczek), najwyższy lot osiągnął wysokość 150 m. Budowane były 2 pełnowymiarowe prototypy Mk1 i Mk2, odpowiednio w Boca Chica i Cocoa na Florydzie. Jednak jesienią 2019 roku prac nad Mk2 zaniechano, a 20 listopada doszło do rozszczelnienia Mk1 podczas testów ciśnieniowych. Jeszcze w 2019 roku rozpoczęła się budowa Mk3, przemianowanego na SN1, który ma polecieć w 1. połowie 2020 roku.
+
+
+== Silniki rakietowe ==
+
+
+=== Merlin 1 ===
+
+Silnik jednokomorowy, napędzany mieszaniną ciekłego tlenu i kerozyny (RP-1). Przystosowany jest do wielokrotnego użytku. Jest stosowany w rakietach Falcon 1, Falcon 9 i Falcon Heavy.
+
+
+=== Raptor ===
+
+W 2012 r., Elon Musk oświadczył, że SpaceX będzie rozwijało silnik Raptor, wykorzystujący ciekły metan jako paliwo. Jedną z zalet metanu, dla realizacji lotów na Marsa, ma być możliwość wytworzenia go z surowców dostępnych na Marsie (z wodoru zawartego w wodzie i dwutlenku węgla) używając reakcji Sabatiera. Silniki wykorzystujące metan mogą uzyskiwać większy ciąg niż silniki używające RP-1 (nafty) z tej samej ilości paliwa, co wyraża się poprzez wyższy impuls właściwy. W styczniu 2016, SpaceX uzyskało dotację 33,6 mln USD na zbudowanie prototypu silnika Raptor do 2018 r.
+Pierwsze statyczne testy silnika zostały przeprowadzone we wrześniu 2016 roku. W 2019 roku odbyły się pierwsze próbne loty z użyciem silnika Raptor.
+
+
+== Inne projekty ==
+
+
+=== Grasshopper – w pełni odzyskiwalne stopnie rakiet nośnych ===
+
+Grasshopper (ang. ‘konik polny’), prace nad którym SpaceX ogłosiło w 2011 r., będzie demonstratorem technologicznym w pełni odzyskiwalnych stopni rakietowych, które będą powracały na miejsce startu dzięki własnym silnikom. Dotychczasowe, rzadko stosowane techniki odzyskiwania zużytych stopni rakietowych polegają na wyłowieniu z morza stopni opadających na spadochronach. Celem projektu jest obniżenie kosztów.
+Rakieta została zbudowana z dostępnych już elementów: silnika Merlin 1D oraz zbiornika pierwszego stopnia rakiety Falcon 9, zaopatrzonego w cztery stalowe podpory oraz stalową konstrukcję. Całość miała wysokość 32 m, masę ok. 220 t, paliwem była nafta (RP-1), zaś utleniaczem ciekły tlen. Od września 2012 do kwietnia 2013 r. przeprowadzono pięć lotów testowych, podczas których pojazd osiągnął maksymalną wysokość 744 m. Podczas lotu na wysokość 250 metrów Grasshopper przeleciał również 100 metrów na bok celem sprawdzenia jego sterowności. Każda z ośmiu prób zakończyła się sukcesem, a rakieta o wysokości 32 metrów wracała na miejsce startu.
+We wrześniu 2013 wykonano test, w którym zużyty pierwszy człon rakiety w sposób kontrolowany wszedł w atmosferę. W kolejnym testowym locie, w kwietniu 2014, pierwszy człon osiadł miękko w oceanie, wcześniej redukując do zera obrót oraz prędkość.
+Testy miały odbywać się w trzech etapach:
+
+wstępne loty do wysokości 70 m trwające ok. 45 s (Grasshopper),
+dalsze testy do wysokości 200 m (Grasshopper),
+testy z maksymalną wysokością od 200 m do 3,5 km, przy czasie lotów do 160 s (Grasshopper 2).Podczas każdego testu starty będą przeprowadzane wielokrotnie. SpaceX przewidywało, że prace nad Grasshopperem zajmą trzy lata. Planowany był pojazd Grasshopper 2, oparty na elementach rakiety Falcon 9 v. 1.1, który miał zostać zbudowany w 2013 r. W ramach programu zaszły jednak zmiany. Podczas ostatniego lotu 7 października 2013 r. Grasshopper wzniósł się na 744 metry i był to ostatni lot tego pojazdu.
+Dalsze próby odbywały się już w 2014 roku przy użyciu drugiego pojazdu testowego, nazwanego już F9R Dev1. 22 sierpnia 2014 roku, podczas piątego lotu testowego F9R Dev1, doszło do autodestrukcji.
+
+
+=== Rakieta nośna startująca z powietrza ===
+W ramach współpracy w konsorcjum Stratolaunch Systems, które w 2011 r. rozpoczęło prace nad nowym systemem transportu kosmicznego, SpaceX miało opracować wielostopniową rakietę nośną wynoszoną uprzednio do stratosfery przez gigantyczny samolot. Miał to być wariant rakiety Falcon 9. Rakieta miała startować z wysokości około 10 kilometrów, zabierając na niską orbitę okołoziemską ładunek o masie ponad 6 ton. Początkowo planowane było dostarczanie na orbitę wyłącznie ładunków bezzałogowych, lecz z czasem Stratolaunch Systems zamierza wynosić również załogowe statki kosmiczne. Pierwsze loty testowe miały odbyć się w 2016 r. Jednak w listopadzie 2012 r. SpaceX wycofało się z tego projektu.
+
+
+== Cel dalekosiężny – załogowa misja na Marsa ==
+
+W lipcu 2010 r. SpaceX ogłosiło, że jego dalekosiężnym celem jest załogowa misja na Marsa. Misja taka będzie możliwa ok. 2025 r., pod warunkiem przystąpienia do prac od razu. W celu realizacji tego zamierzenia SpaceX ogłosiło plan działań w najbliższych latach:
+
+nowy, znacznie większy silnik Merlin 2 o ciągu 1,7 MN na poziomie morza (Merlin 1D: 620 kN).
+wersje rakiet Falcon 9 i Heavy z silnikami Merlin 2 – jeden Merlin 2 w miejsce baterii dziewięciu Merlinów 1D,
+rakieta Falcon X o udźwigu 38 t na LEO,
+rakieta Falcon X Heavy o udźwigu 125 t na LEO,
+rakieta Falcon XX o udźwigu 140 t na LEO,
+rakieta MCT o udźwigu ponad 200 t na LEO oraz 100 t na powierzchnię Marsa.Plany te zostały w pewnym stopniu zmienione, rakiety Falcon X, X Heavy i XX oraz silnik Merlin 2 nie będą produkowane. Szczegółowy plan kolonizacji Marsa został ujawniony przez Elona Muska na konferencji IAC 2016, odbywającej się 26–30 września 2016 w Guadalajarze w Meksyku.
+We wrześniu 2019 roku na konferencji prasowej wygłoszonej w Boca Chica w Teksasie na terenie jednej z placówek firmy, Elon Musk przedstawił postępy i zmiany które zaszły w projekcie misji na Marsa. Obecnie planowane jest wykorzystanie statku kosmicznego Starship, będącego na etapie opracowywania, a z pomocą którego ma być możliwe zabranie 100-osobowej załogi bądź 100 ton sprzętu na powierzchnię Marsa. Statek wykonany będzie ze stali nierdzewnej, a zasilać go będą silniki Raptor, wykorzystujące ciekły metan i ciekły tlen.
+
+
+== Przypisy ==
+
+
+== Linki zewnętrzne ==
+Oficjalna strona SpaceX (ang.)

@@ -1,0 +1,187 @@
+Plasma (von altgriechisch πλάσμα plásma, deutsch ‚das Gebildete, Geformte‘) ist in der Physik ein Teilchengemisch aus Ionen, freien Elektronen und meist auch neutralen Atomen oder Molekülen. Ein Plasma enthält also freie Ladungsträger. Der Ionisationsgrad eines Plasmas kann weniger als 1 % betragen, aber auch 100 % (vollständige Ionisation). Eine wesentliche Eigenschaft von Plasmen ist ihre elektrische Leitfähigkeit.
+Die Bezeichnung Plasma geht auf Irving Langmuir (1928) zurück. Da der Plasmazustand durch weitere Energiezufuhr aus dem gasförmigen Aggregatzustand erzeugt werden kann, wird er oft als vierter Aggregatzustand bezeichnet. Die im Internet kursierende Zuschreibung, Fritz Winkler habe das Plasma 1921 entdeckt, trifft nicht zu; er hat 1922 die Wirbelschicht patentiert, die  als neuer, mitunter auch als "vierter Aggregatszustand" bezeichnet wird.
+
+
+== Eigenschaften ==
+Die Eigenschaften eines Plasmas hängen ab von den vorhandenen Spezies (Elektronen, positive und negative Ionen, neutrale Atome, neutrale und geladene Moleküle), deren Dichten und Temperaturen (die nicht gleich sein müssen) und seiner räumlichen Struktur, insbesondere Ladung und Strömen, elektrischen und magnetischen Feldern. In speziellen Fällen liegen nur geladene Teilchen, Elektronen und Ionen und/oder geladene Moleküle vor (vollständig ionisiertes Plasma).
+Je nach den Teilchendichten, Temperaturen und von der relativen Stärke wirkender Felder (z. B. elektrische, magnetische oder auch gravitative Felder und Kombinationen davon) können sich Plasmen wie Gase, aber auch völlig anders verhalten. In bestimmten Fällen kann ein Plasma einfach mit Hilfe der Magnetohydrodynamik als elektrisch leitendes Gas beschrieben werden. Im Allgemeinen müssen aber auch Transportprozesse (Strahlungstransport, Transport thermischer Energie, Teilchentransport, Impulstransport) berücksichtigt werden, ebenso weitere, die Plasmazusammensetzung bestimmende Prozesse (also unter anderem Ionisation, Rekombination, Dissoziation, Molekül- und/oder Exzitonbildung und chemische Reaktionen der vorhandenen Spezies, Anregungs- und Absorptionsprozesse), so dass eine vollständige Beschreibung weit komplexer werden kann.
+Plasmen können unter anderem durch folgende drei Eigenschaften gekennzeichnet werden:
+
+Die Debye-Länge ist klein gegenüber den Abmessungen.
+Der Plasmaparameter (Anzahl von Teilchen in einer Kugel mit Radius gleich der Debye-Länge) ist groß.
+Die Zeit zwischen Stößen ist lang gegenüber der Periode der Plasmaoszillationen.Plasmen sind normalerweise quasineutral, d. h., die Ladungen der Ionen und Elektronen sind ungefähr im Gleichgewicht. Die Netto-Ladungsdichte ist sehr klein im Vergleich zur Elektronendichte. Ausnahmen beschränken sich auf Regionen von der Größe der Debye-Länge, z. B. in der Randschicht.
+Das Verhältnis zwischen Ionenmasse und Elektronenmasse ist groß, mindestens 1836 (bei einem Wasserstoffplasma). Viele Eigenschaften von Plasmen lassen sich daraus ableiten.
+Charakteristisch für Plasmen ist ihr typisches Leuchten, das durch Strahlungsemission angeregter Gasatome, Ionen oder Moleküle verursacht wird. Ausnahmen sind Plasmen, die sehr kalt sind (wie oft im Weltraum) oder die so heiß sind, dass die Atome vollständig ionisiert sind (wie im Zentrum von Sternen).
+
+
+== Benennungen ==
+Sofern eine neutrale Teilchenkomponente existiert, deren kinetische Energie klein ist gegenüber der kinetischen Energie der freien Ladungsträger, wird diese oft als Hintergrundgas oder auch Neutralgas bezeichnet.
+Entsprechend vorliegender bzw. vorherrschender Eigenschaften erhalten Plasmen häufig spezifischere Bezeichnungen. So spricht man z. B. von Hochdruck- oder Niederdruckplasmen, kalten oder heißen Plasmen, nichtidealen Plasmen oder dichten Plasmen. Ebenso können die Bestandteile eines Plasmas zur Bezeichnung herangezogen werden, wie z. B. Quecksilber-Hochdruckplasma. Daneben spielt auch der Erzeugungsmechanismus in der Charakterisierung von Plasmen eine Rolle: So meint man beispielsweise mit Edelgas-Niederdruckentladung ein auf elektrischem Weg erzeugtes Edelgas-Plasma mit niedrigem Plasmadruck.
+In der Teilchenphysik wird der quasi-freie Zustand von Quarks und Gluonen in Analogie als Quark-Gluon-Plasma bezeichnet.
+
+
+== Vorkommen ==
+Die dünne Materie im Weltraum zwischen den Himmelskörpern, etwa der Sonnenwind oder die interstellare Materie, befindet sich zum Teil im Plasmazustand; außerdem die Sonne und andere Sterne. Mehr als 99 % der gesamten sichtbaren Materie im Universum befindet sich im Plasmazustand.Auf der Erde findet man in der Ionosphäre und in Blitzen natürliche Plasmen. Flammen haben trotz nur schwacher Ionisierung (abhängig von der Temperatur) auch teilweise Eigenschaften eines Plasmas.
+In der Biosphäre gibt es keine praktisch nutzbaren natürlichen Plasmen. Daher muss ein Plasma erzeugt werden, um es technisch anwenden zu können. Dies geschieht meist mit Hilfe einer Gasentladung.
+
+
+== Anwendungen ==
+
+Verschiedene im Plasma ablaufende chemische oder physikalische Prozesse können ausgenutzt werden.
+Die Anwendung von Plasmen lässt sich folgendermaßen gliedern:
+
+Gasentladungslampen: unter anderem Energiesparlampen, Leuchtstofflampen und Bogenlampen enthalten Materie im Plasmazustand
+Oberflächentechnik: Plasmen werden in der Halbleitertechnologie zum Plasmaätzen und zur plasmainduzierten Materialabscheidung (PECVD) verwendet. In der Beschichtungstechnik werden Funktionsschichten wie z. B. Verspiegelungen oder Anti-Haft-Schichten aufgebracht. In der Werkstofftechnik werden Plasmen zur Oberflächenmodifizierung (Aufrauen), zur plasmainduzierten Materialabscheidung (PECVD und Plasmapolymerisation), zur Oberflächenhärtung, Reinigung, Aktivierung oder Plasmaoxidation eingesetzt.
+Analysentechnik: zum Aufschließen von Probenmaterialien (Plasmaveraschung) und in Messgeräten zum Spurennachweis von Metallen (Inductively Coupled Plasma (ICP), ICP-MS; englisch inductively coupled plasma mass spectrometry, LIBS; englisch laser induced breakdown spectroscopy, siehe Atomspektroskopie)
+Werkstoffverarbeitung: Plasmaschweißen, Funkenerodieren und Plasmaschneiden
+Plasmabildschirm
+Kernfusionsreaktor: Plasmazustand ist notwendig für jede thermonukleare Reaktion
+Plasmamedizin:
+Plasma-Desinfektion: Desinfektion von Gegenständen, Körperteilen, Wunden etc.
+Coblation: Die energiereichen Ionen im Plasma können menschliches Gewebe bei relativ geringen Temperaturen unter 70 °C trennen. Dies wird für chirurgische Maßnahmen an Bandscheiben, Gaumenmandeln oder Nasenmuscheln genutzt.
+
+
+=== Beleuchtungstechnik ===
+Das für Plasmen typische Leuchten wird ausgenutzt. Im Plasma führen Stoßprozesse schneller Elektronen mit Gasatomen oder Molekülen dazu, dass Elektronen aus der Hülle der getroffenen Partikel Energie zugeführt wird. Diese Energie wird dann zu einem späteren Zeitpunkt als abgestrahltes Licht freigesetzt. Das entstehende Spektrum hängt stark von den vorhandenen Gasen, dem Druck und der mittleren Energie der Elektronen ab.
+In einigen Fällen kann das emittierte Licht direkt genutzt werden, so z. B. in einigen Metalldampf-Hochdrucklampen (beispielsweise Natriumdampflampen – an dem stark gelben Licht zu erkennen), die in der Straßenbeleuchtung verbreitet zum Einsatz kamen und kommen oder bei bestimmten Edelgas-Hochdruckentladungen (z. B. Xenon). In anderen Fällen, wenn die Emission eher im UV-Bereich erfolgt (im Wesentlichen Quecksilberdampflampen), muss die elektromagnetische Strahlung in für Menschen sichtbares Licht umgewandelt werden. Dies erreicht man mit Leuchtstoffen, die auf der Wand der Entladungsgefäße aufgebracht sind. Dabei wird die ultraviolette Strahlung im Leuchtstoff absorbiert und als Strahlung im Sichtbaren wieder abgegeben. Beispiele hierfür sind die bei der Innenraumbeleuchtung eingesetzten Leuchtstoff- und Energiesparlampen und die in Projektoren und im Außenbereich verwendeten Quecksilberhochdrucklampen.
+
+
+=== Plasmachemische Anwendungen ===
+Der Einsatz von Plasmen für chemische Reaktionen beruht auf der durch sie gelieferten hohen Konzentrationen chemisch reaktiver Molekülbruchstücke. In der Vergangenheit gab es Versuche, plasmachemische Verfahren industriell zur Synthese einzusetzen. Die komplexe Plasmazusammensetzung macht derartige Umsetzungen jedoch sehr aufwändig und wenig effizient. Plasmachemische Verfahren werden deshalb heute in der chemischen Synthese praktisch nicht mehr eingesetzt, sondern nur noch bei der Entsorgung giftiger Gase.
+Ein Beispiel für die erfolgreiche Anwendung ist die Synthese von Diamanten. Dabei wird ein Diamant aus dem Plasma auf eine Oberfläche abgeschieden. Diese Diamantschicht ist polykristallin und hat nicht die Qualität von Schmuckdiamanten. Die Wachstumsraten dieser Schicht sind sehr klein (ca. 1 µm/h). Daher sind dickere Schichten sehr teuer.
+In großem Umfang wird Plasmachemie weiterhin in der Halbleiterindustrie betrieben. Hier werden Plasmen zum (Trocken-)Ätzen (Plasmaätzen) und zur Schichtabscheidung PECVD verwendet. Bei Ätzprozessen wird im Gegensatz zur Beleuchtungstechnik der direkte Kontakt des Plasmas mit der Oberfläche ausgenutzt, um gezielten Materialabtrag zu erreichen. Eine Schlüsselrolle spielen hierbei die in Wandnähe herrschenden elektrischen Felder, welche charakteristisch für Randschichten sind.
+Ein weiterer großer Anteil zum Ätzabtrag bilden die im Plasma enthaltenen Ionen. Diese können mit Hilfe von Magnetfeldern beschleunigt werden und so zusätzlichen, gerichteten Ätzabtrag erreichen. Das Plasmaätzen muss nicht mit chemisch-reaktiven Vorgängen verbunden sein und ist insofern eine physikalische Anwendung.
+
+
+=== Physikalische Anwendungen ===
+Plasmen werden zum Plasmaschneiden, Plasmaschweißen und Löten mit Plasmabrennern eingesetzt. Das Plasma wird meistens mittels eines Lichtbogens erzeugt. Neue Verfahren verwenden Plasmen, die bei 2,45 GHz erzeugt werden, mit verschleißfreien Kupferelektroden arbeiten und auch für feinste Schnitte bis hin zum Skalpell eingesetzt werden können.
+Weiterhin werden Plasmen zur Vorbehandlung (Reinigung und Aktivierung) von Klebeverbindungen eingesetzt, mittlerweile das Standardverfahren in der deutschen Automobilindustrie. Zwei Arten von Plasma können hier eingesetzt werden: Einmal das Niederdruckplasma, das bei Raumtemperatur die Oberflächen reinigt und aktiviert. Bei dieser Art Plasma ist es aber auch möglich, Bauteile hydrophob oder hydrophil zu beschichten oder zu ätzen. Die Anregung erfolgt hier meist über Generatoren mit Frequenzen von 40 – 100 Kilohertz, 13,56  Megahertz oder 2,45 Gigahertz (Mikrowellenanregung). Zum Anderen können für die Reinigung und Aktivierung auch Plasmajets verwendet werden, die auf Bogen- oder Funkenentladung basieren.
+Die Magnetoplasmadynamik beschreibt das Verhalten strömender Plasmen im Magnetfeld. Es kann Elektroenergie gewonnen werden (MHD-Generator) oder es dient dem Antrieb von Raumfahrzeugen (Magnetoplasmadynamischer Antrieb).
+Hochdichte heiße Plasmen – erzeugt durch Laserimpuls-Bestrahlung oder durch elektrische Entladungen – dienen als EUV-Strahlungsquelle. Potentieller Anwender ist die EUV-Lithografie.
+
+
+== Klassifizierung ==
+Eine Klassifizierung der höchst unterschiedlichen Formen von Plasma kann aufgrund mehrerer Kriterien vorgenommen werden. Eines davon ist die Plasmadichte. In der Natur vorkommende Plasmen variieren in ihrer Dichte um mehr als zehn Größenordnungen. Extrem hohe Dichte besitzt das Plasma im Sonneninneren, extrem niedrige Dichte herrscht in interstellaren Gasnebeln. Entsprechend extrem sind die Unterschiede in den physikalischen Eigenschaften von Plasmen.
+Weitere Parameter zur Unterscheidung von Plasmen sind Plasmadruck und Plasmatemperatur.
+
+
+=== Plasmadruck ===
+Es kann unterschieden werden zwischen
+
+Niederdruckplasmen
+Normaldruckplasmen bzw. Atmosphärendruckplasmen
+HochdruckplasmenNiederdruckplasmen werden in verdünnten Gasen erzeugt, deren Druck signifikant niedriger liegt als der Atmosphärendruck. Beispiele sind Glimmlampen, das Polarlicht oder Leuchtstofflampen.
+Bei Hochdruckplasmen ist der Plasmadruck signifikant höher als der Atmosphärendruck. Ein typisches Beispiel sind Hoch- und Höchstdruck-Gasentladungslampen. Auch in Gewitterblitzen und Funken herrscht kurzzeitig sehr hoher Druck.
+Normaldruckplasmen werden ungefähr bei atmosphärischem Druck erzeugt. Eine typische Anwendung sind die dielektrischen Barriereentladungen, die beispielsweise bei der Bearbeitung von Kunststoffmaterialien eingesetzt werden. Ein weiteres Beispiel sind Lichtbögen, wie sie beim elektrischen Schweißen entstehen.
+
+
+=== Thermisches Gleichgewicht ===
+Ein wichtiges Merkmal eines Plasmas ist, inwieweit es sich im thermischen Gleichgewicht (TG) befindet:
+
+Im vollständigen thermischen Gleichgewicht haben die schweren Spezies (Moleküle, Atome, Ionen) die gleiche Temperatur wie die Elektronen und das Plasma befindet sich auch im Strahlungsgleichgewicht mit der Umgebung, das heißt, es emittiert Hohlraumstrahlung.Im lokalen thermischen Gleichgewicht (LTG oder auch engl. LTE) haben die Teilchen aller Arten näherungsweise die gleiche lokale Temperatur, die sich von Ort zu Ort ändern kann. Allerdings besteht kein Gleichgewicht mit dem Strahlungsfeld. Es werden daher auch charakteristische Spektrallinien und von der Hohlraumstrahlung abweichende Kontinua emittiert. Der Zustand des LTG kann immer dann angenommen werden, wenn Stoßprozesse gegenüber den Strahlungsprozessen deutlich dominieren.Dieser Fall liegt z. B. in vielen technisch genutzten Plasmen mit Temperaturgradienten vor, etwa in der Lichttechnik mit Mittel- und Hochdruckentladungen.Bei Plasmen müssen für LTG nicht notwendig hoher Plasmadruck bzw. hohe Plasmadichte vorausgesetzt werden. Die Dominanz von Stoßprozessen kann auch durch große Turbulenzen, hinreichend starke kollektive Effekte – also durch starke Wechselwirkung der Teilchen untereinander – oder innere magnetische Felder erreicht werden.Bei nicht-thermischen Plasmen dagegen haben die Elektronen eine viel höhere Temperatur als die schwerere Spezies. Dazu gehören typischerweise die Niederdruckplasmen. Ein solches Plasma wird in der Regel durch Energiezufuhr – meist elektrischer Energie – aus neutralen Atomen eines Festkörpers oder Gases erzeugt und aufrechterhalten. Dabei können die Elektronen Temperaturen von mehreren 10.000 Kelvin annehmen; die Temperatur der Ionen und des Neutralgases kann gleichzeitig wesentlich niedriger, beispielsweise bei Raumtemperatur, liegen. Mit derartigen Plasmen können Werkstücke bearbeitet werden (Beschichtung, Plasmaätzen), ohne sie übermäßig zu erhitzen. Damit eignen sich Niedertemperaturplasmen besonders z. B. für die Oberflächenmodifizierung von temperaturempfindlichen Polymeren.
+
+
+=== Ionisationsgrad ===
+
+Der Grad der Ionisierung des Plasmas ist eine weitere charakteristische Eigenschaft. Der Ionisierungsgrad gibt den Anteil der Spezies an, die durch Ionisation Elektronen abgegeben haben. Wenn TG oder wenigstens LTG vorliegt, beschreibt die Saha-Gleichung den Grad der Ionisierung dieses Plasmas als Funktion der Temperatur, der Dichte und der Ionisierungsenergien der Atome.
+
+Thermische Plasmen mit hoher Temperatur (beispielsweise Sonnenkorona oder Fusionsplasmen) sind fast vollständig ionisiert.
+Bei technisch hergestellten Niederdruckplasmen dagegen liegt der Grad der Ionisierung maximal bei wenigen Promille, und außerhalb des thermischen Gleichgewichts können sie nicht mehr durch die Saha-Gleichung beschrieben werden.
+Ist die Ionendichte eines Plasmas bekannt oder kann mittels geeigneter Methoden bestimmt werden, so ist der Ionisationsgrad des Plasmas einfach das Verhältnis aus Ionendichte und der Summe von Neutralteilchen- und Ionendichte.
+Bei niedrigem Ionisationsgrad sind viele Effekte in Plasmen durch Stöße der Ionen und Elektronen an den dominant vorhandenen Neutralgasatomen bestimmt.Die durch den Ionisierungsgrad und den Gasdruck bestimmte Ladungsträgerdichte eines Plasmas bestimmt die Ausbreitungsfähigkeit elektromagnetischer Wellen im Plasma, siehe auch Ionosphäre.
+
+
+== Erzeugung ==
+Ein Plasma kann sowohl durch innere (Beispiel Sonne) oder durch äußere (Beispiel technische Gasentladungen) Energiezufuhr erhalten werden. Bleibt die Energieeinkopplung aus bzw. übersteigen die Energieverluste – beispielsweise durch Wärmeleitung und/oder durch Strahlungsemission – den Energieeintrag, so geht der Plasmazustand verloren. Positive und negative Ladungsträger können dann zu neutralen Atomen, Molekülen oder Radikalen rekombinieren.
+Die Ladungsträger können durch ambipolare Diffusion z. B. an Wänden von Entladungsgefäßen oder ins Vakuum des Weltalls verloren gehen. Ambipolare Diffusion kann auch dann stattfinden, wenn der Plasmazustand stabil ist.
+Um den Verlust geladener Teilchen zu kompensieren, müssen solche erzeugt werden, was z. B. durch Stoßionisation geschieht. Elektronen mit hinreichend großer kinetischer Energie sind unter bestimmten Umständen (bei Vorliegen entsprechender Querschnitte für die konkreten Prozesse) in der Lage, beim Stoß mit Atomen, Ionen oder Molekülen, Elektronen aus deren Verbund herauszuschlagen. Dieser Vorgang kann unter geeigneten Bedingungen als Lawineneffekt ablaufen, sofern nach dem Stoß aus einem vorhandenen Elektron zwei (plus ein positives Ion) werden.
+Bei technischen Plasmen kann die räumliche Begrenzung des Plasmas problematisch sein, denn die energiereichen Teilchen des Plasmas vermögen unter Umständen Wände, Werkstücke oder Elektroden durch intensive Strahlung oder energiereiche Teilchen zu schädigen. In der Beleuchtungstechnik ist beispielsweise ein Abtrag von Elektrodenmaterial wegen der resultierenden Reduzierung der Lebensdauer der Leuchtmittel unerwünscht. Bei dem technischen Vorgang des Sputterns wird der Abtrag von Material dagegen gezielt genutzt.
+
+
+== Methoden der Energiezufuhr ==
+
+
+=== Thermische Anregungen ===
+Bei thermischer Anregung werden die Ladungsträger durch Stoßionisation aufgrund der Wärmebewegung erzeugt. Es sind bei Normaldruck ca. 15.000 K erforderlich, um eine nahezu vollständige Ionisation zu erzielen. Mit steigendem Druck steigt die erforderliche Temperatur. Eine Möglichkeit hierfür ist die Bestrahlung mit fokussierter Laserstrahlung. Trifft der gebündelte Laserstrahl auf einen Festkörper, entstehen Temperaturen von einigen tausend Kelvin, so dass eine thermische Ionisation stattfindet, die sich auch in den Gasraum über der Oberfläche ausbreitet. Das entstehende Plasma absorbiert seinerseits weitere Laserstrahlung und verstärkt den Vorgang. Bei besonders kurzen Laserpulsen kann es zum Phänomen der Selbstfokussierung oder Abschirmung des Strahls durch das Plasma kommen.
+
+
+=== Chemische und nukleare Reaktionen ===
+Führt eine exotherme Reaktion zu einer starken Erwärmung des Gases, so bewirken die durch die schnelle Molekülbewegung verursachten Stoßionisationsprozesse den Übergang in den Plasmazustand. Als Reaktion kommen chemische Verbrennung, Kernspaltung und Kernfusion in Frage.
+
+
+=== Strahlungsanregungen ===
+Bei Plasmaanregung durch Strahlung werden die Ladungsträger durch ionisierende Strahlung erzeugt. Hierfür muss die Quantenenergie bzw. Teilchenenergie die Ionisierungsenergie der bestrahlten Materie übersteigen. Das ist in Gasen bereits mit Ultraviolett möglich. Röntgen- und weiche Gammastrahlung wird in Gasen dagegen wenig absorbiert. Ab einer bestimmten Energie findet jedoch Paarbildung statt und die Ionisation ist effektiv. Ein hohes Ionisationspotenzial haben Beta- und Alpha-Strahlen.
+
+
+=== Anregungen durch elektrostatische Felder ===
+Elektrostatische Felder führen zu Entladungen oder zu Vorentladungen. Weitere Ionen werden durch Elektronen-Stoßionisation erzeugt. Beispiele sind der Gewitterblitz und elektrostatische Entladungen.
+
+
+==== Anregung durch Gleichspannung ====
+Zwischen zwei Elektroden wird eine ausreichend hohe elektrische Gleichspannung angelegt. Bei geeigneter Kombination von Spannung, Elektrodenabstand und Gasdruck kommt es zu einem Überschlag und dem Zünden einer Entladung zwischen den Elektroden. Dabei wird zwischen Gasentladungen, Funkenentladung und Vakuumfunken unterschieden.
+In allen Fällen bildet sich ein Plasma aus, welches auch den Stromfluss der Entladung ermöglicht. Ist der Stromfluss ausreichend hoch, erhitzen sich die Elektroden und der Elektronenaustritt wird erleichtert, es entsteht ein Lichtbogen. Lichtbögen werden beim Elektroschweißen und bei Bogenlampen (Lichtbogenlampen) ausgenutzt. Sie können auch mit Wechselspannung betrieben werden.
+Die Höhe der bis zum Zünden eines Plasmas nötigen Spannung hängt vom Elektrodenabstand, deren Form und dem Gasdruck ab (Paschen-Gesetz).
+
+
+==== Drahtexplosion ====
+Durch einen hohen Stromfluss (z. B. aus einer Kondensatorbatterie) durch einen dünnen Metalldraht verdampft dieser explosionsartig in einigen Mikro- bis Millisekunden. Dadurch entsteht eine teilweise ionisierte Metalldampfwolke und es kann eine Bogenentladung zünden, die zur weiteren Ionisierung des Metalldampfes führt. Zunächst findet also thermische Anregung, danach auch Anregung durch Stoßionisation statt. Ein Anwendungsgebiet der Drahtexplosion findet sich in der Z-Maschine.
+Um die rasche Ausdehnung des Plasmas zu verhindern, kann dies in einem nicht leitenden Röhrchen stattfinden (Kapillarentladung).
+
+
+=== Anregungen durch elektromagnetische Felder ===
+Bei den Anregungen durch elektromagnetische Felder werden die Ladungsträger durch eine Elektronenstoßionisation erzeugt. Sehr hohe Intensität im Fokus eines Laserstrahles kann auch in Luft zur Ausbildung eines Plasmas führen (Luftdurchbruch). Verantwortlich ist die sehr hohe elektrische Feldstärke der Wellen. Der Energieeintrag kann durch Zyklotronresonanz verbessert werden.
+
+
+==== Kapazitive elektrische Anregung ====
+Ein ausreichend starkes elektrisches Wechselfeld wird an zwei Platten angelegt. Zwischen den Platten bildet sich ein Plasma, in welchem geladene Teilchen mit der Frequenz des Wechselfeldes hin und her oszillieren (Hochfrequenzanregung). Aus den Platten treten dabei nicht zwingend Ladungsträger aus. Welche Teilchen oszillieren, hängt von deren Masse und Ionisationsgrad ab. Die Frequenz, bis zu der hin eine Teilchensorte mitschwingen kann, wird Plasmafrequenz genannt.
+Die Platten können auch außerhalb des Entladungsgefäßes angebracht sein, sodass deren Feld nur aufgrund der Kapazität der Wandung in das Plasma gelangt. Man spricht dann von elektrodenloser Anregung. Auf diese Weise werden Verunreinigungen durch das Elektrodenmaterial und der Verschleiß der Elektroden vermieden. Nach diesem Prinzip arbeiten einige Kohlendioxidlaser und Entladungs-Lampen mit dielektrischer Barriere. Siehe hierzu auch Stille elektrische Entladung.
+
+
+==== Induktive (magnetische) Anregung ====
+
+Ein hochfrequenter Wechselstrom durch eine ein Vakuumgefäß umgebende Anregungsspule induziert ringförmige Ströme in einem Plasma. Angewendet wird das Verfahren in Induktionslampen und bei der Gasphasenabscheidung (PECVD) in Rohren.
+In Tokamaks für Kernfusionsexperimente wird das Plasma in einem ringförmigen Vakuumbehälter durch einen parallel geführten, ansteigenden Strom geheizt und gleichzeitig durch das starke ringförmige Magnetfeld einer zweiten, toroidal gewickelten Spule berührungslos eingeschlossen.
+
+
+==== Anregung durch Mikrowellen ====
+Hierbei werden Mikrowellen eines Magnetrons in den Reaktionsraum geleitet. Die Feldstärke der elektromagnetischen Welle muss zunächst hoch genug sein, um einen elektrischen Durchbruch und Stoßionisation hervorzurufen. Ist das Plasma gezündet, verändern sich die Feldstärke- und Impedanzverhältnisse stark – die Anpassungsbedingungen des sendenden Magnetrons ändern sich.
+Alternativ werden atmosphärische Plasmen durch Jets (oder Strahler) über gut in der Leistung regelbare Transistorschaltungen (Bereiche 2–200 W) erzeugt. Solche kalten Plasmen werden bei Frequenzen oberhalb der Plasmaresonanz generiert (2,45 GHz), damit nur die Elektronen in dem Plasma beschleunigt werden. Diese Mikrowellenplasmen werden oft auch als Mikroplasma bezeichnet.
+Praktische Anwendungen sind Plasmageneratoren, Plasmajets und -beschichtungsanlagen, chemische Reaktoren, die Schwefellampe sowie die quecksilberfreie Energiesparlampe und die Diamantsynthese.
+
+
+==== Pinch-Effekt ====
+Der Strom, der durch das Plasma fließt, erzeugt ein Magnetfeld, welches wiederum das Plasma zusammenschnürt. Dies wird als Pinch-Effekt bezeichnet. Dabei wird das Plasma dichter und heißer. Wenn die Stromquelle hohe Ströme im Bereich einiger zehn Kiloampere liefert, können sehr dichte, heiße und sehr stark ionisierte Plasmen erzeugt werden, die Röntgenstrahlung emittieren oder in denen sogar Kernfusionen stattfinden (Tokamak). Der Pinch-Effekt ist auch die Ursache dafür, dass sich in einem Blitz ein enger Kanal für den Strom bildet.
+
+
+== Literatur ==
+Michael A. Lieberman, Allan J. Lichtenberg: Principles of Plasma Discharges and Materials Processing. Wiley, New Jersey 2005, ISBN 0-471-72001-1.
+R. J. Goldston, P. H. Rutherford: Plasmaphysik. Eine Einführung. Vieweg, Braunschweig 1998, ISBN 3-528-06884-1.
+K.-H. Spatschek: Theoretische Plasmaphysik. Eine Einführung. Teubner, Stuttgart 1990, ISBN 3-519-03041-1.
+F. F. Chen: Introduction to Plasma Physics and Controlled Fusion. Plenum Press, New York 1983.
+Subrahmanyan Chandrasekhar: Plasma Physics. University of Chicago Press 1960.
+Eugene N. Parker: Cosmical Magnetic Fields: Their Origin and Their Activity. Clarendon Press, Oxford 1979.
+F. Cap: Einführung in die Plasmaphysik. I. Theoretische Grundlagen. Vieweg, Wiesbaden 1984.
+Rainer Hippler, Sigismund Pfau, Martin Schmidt, Karl H. Schoenbach: Low Temperature Plasma Physics – fundamental aspects and applications. Wiley-VCH, Berlin 2001, ISBN 3-527-28887-2.
+Vadim N. Tsytovich: Lectures on Non-linear Plasma Kinetics. Springer, Berlin 1995, ISBN 0-387-57844-7.
+Hubertus M. Thomas, Gregor E. Morfill: Plasmakristalle an Bord der ISS: Komplexe Plasmen in Schwerelosigkeit. In: Physik in unserer Zeit. 36, Nr. 2, 2005, ISSN 0031-9252, S. 76–83.
+Hannelore Dittmar-Ilgen: Perspektivenreiche Hochleistungslaser. In: Naturwissenschaftliche Rundschau. 10, 2006, S. 549.
+H. Heuermann, St. Holtrup, A. Sadeghfam, M. Schmidt, R. Perkuhn, T. Finger: Various Applications and Background of 10-200W 2.45GHz Microplasmas. 60th International Microwave Symposium, Montreal, Juni 2012.
+
+
+== Weblinks ==
+
+Leibniz-Institut für Plasmaforschung und Technologie e. V. (INP Greifswald)
+Madgyvers Plasma Generator – Amateurversuche
+Making Plasma
+Plasmaportal des VDI Technologiezentrum
+Plasmatechnologie. In: TechPortal. Archiviert vom Original am 18. September 2013; abgerufen am 1. Januar 1970. 
+Kompetenznetz Industrielle Plasma-Oberflächentechnik INPLAS
+Linksammlung des Weizmann Instituts
+Record Set for Hottest Temperature on Earth: 3.6 Billion Degrees (Fahrenheit) in Lab
+Aus der Fernsehsendung Alltag über Experimente mit Plasma auf der ISS
+Details zur quecksilberfreien Energiesparlampe
+Kernfusion Max-Planck-Institut für Plasmaphysik 2002 (PDF)
+scinexx.de: Plasma – der vierte Zustand der Materie  1. Februar 2019
+
+
+== Einzelnachweise ==

@@ -1,0 +1,646 @@
+Gravitasjon er et generelt fenomen hvor alle objekter med masse eller ren energi, fra de minste elementærpartikler til de største galaksehoper, trekkes eller graviterer mot hverandre. I vanlig dagligtale sier man at de er påvirket av en gravitasjonskraft. Sammen med den elektromagnetiske, svake og sterke kjernekraften utgjør den en av de fire fundamentale vekselvirkninger i Universet. Men den er mye svakere enn de tre andre og blir derfor med stor nøyaktighet vanligvis neglisjert i atom og kjernefysikk.
+Derimot i den makroskopiske verden er gravitasjon avgjørende for livet på Jorden med dannelse av hav og fjell, vær og klima. Den er den dominerende kraft i dannelse av stjerner og planeter. Og det er Einsteins gravitasjonsteori som er grunnlaget for moderne kosmologi som beskriver egenskapene og utviklingen til hele Universet.
+
+
+== Historisk bakgrunn ==
+ 
+Egenskapene til gravitasjon ble først matematisk formulert i 1687 av Isaac Newton som en attraktiv kraft mellom to masser. Newtons gravitasjonslov  ga en forklaring av Keplers lover for planetenes bevegelse rundt Solen. Denne loven forklarer også like godt hvordan et eple faller ned mot Jorden som Månens bevegelse rundt denne og hvordan flo og fjære dermed oppstår.Mer nøyaktige observasjoner av planetenes bevegelser viste at deres baner hadde små avvik fra eksakte Kepler-ellipser som gravitasjonskraften fra Solen alene ville gi opphav til.  Matematiske arbeid, som nådde sitt høydepunkt med Pierre-Simon Laplace i hans store verket  Mécanique Céleste på begynnelsen av 1800-tallet, viste at disse perturbasjonene kunne forklares ved  samme lov for de tilsvarende, men svakere gravitasjonskreftene mellom de enkelte planetene. Riktigheten av disse beregningene ble bekreftet i 1846 med oppdagelsen av planeten Neptun. I de følgende årene var det kun presesjonen av Kepler-ellipsen til planeten Merkur som ikke lot seg forklare ved den newtonske gravitasjonsteorien.
+Etter at Albert Einstein i 1905 hadde formulert den spesielle relativitetsteorien, gikk han i gang med å inkludere gravitasjon i denne teorien hvor tid og rom er forent i et firedimensjonalt tidrom. Dette lyktes først i 1915 med etableringen av den generelle relativitetsteorien hvor han viste at tidrommet i allminnelighet har en ikke-euklidsk, riemannsk geometri. Tilstedeværelse av masse eller energi vil gi det en krumning som kan beregnes fra Einsteins feltligning. Alle partikler beveger seg fritt i dette rommet og følger geodetiske linjer. Det som i dagligtale omtales som en gravitasjonskraft,  er dermed et resultat av tidrommets krumning. Teorien fikk sin første bekreftelse ved at den forklarte Merkurs perihelbevegelse.
+Einsteins gravitasjonsteori forenkles til den newtonske teorien når de gravitasjonelle vekselvirkningene er små og alle bevegelser er mye mindre enn lyshastigheten.  Men den forutsier også nye fenomen som gravitasjonell rødforskyvning, sorte hull og et ekspanderende Univers. Til dags dato er alle observasjoner og målinger i overensstemmelse med denne teorien.
+
+
+== Newtonsk gravitasjon ==
+
+I dagliglivet på Jordens overflate merker man virkningen av gravitasjon ved at alle legemer faller nedover med en akselerasjon g som er omtrent 9.82 m/s2 på våre breddegrader ved havnivå.  En masse  masse m er dermed påvirket av en gravitasjonskraft F = mg. Er m = 1 kg, er kraften dermed F = 9.81 N.Denne kraften forklares ved Newtons gravitasjonslov som sier at to punktformige legemer med masser m og M som har en gjensidig avstand r ,  tiltrekkes med en kraft som er lik
+
+  
+    
+      
+        F
+        =
+        G
+        
+          
+            
+              m
+              M
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle F=G{mM \over r^{2}}}
+  hvor G er gravitasjonskonstanten. At kraften er omvendt proporsjonal med kvadratet av avstanden, var det Newton viste var nødvendig for å forklare Keplers lover.Til beregning av gravitasjonskraften fra Jorden kan man ikke uten videre benytte Newtons lov da dens masse M ikke i det hele tatt kan sies å befinne seg i et punkt. Men Newton viste at når massen er fordelt symmetrisk over et endelig volum som er kuleformet, er det riktig å anta at hele massen er plassert i kulens sentrum. Dette er innholdet av Newtons skallteorem. En masse m med en utstrekning som er mye mindre enn Jordens radius R, kan også betraktes som punktformig. Gravitasjonskraften fra Jorden kan derfor uttrykkes ved tyngdeakselerasjonen
+
+  
+    
+      
+        g
+        =
+        G
+        
+          
+            M
+            
+              R
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle g=G{M \over R^{2}}}
+  Setter man her inn verdiene for G, jordmassen M = 5.97×1024 kg og dens radius R = 6.37×103 km,
+kommer den målte verdien for g frem.
+Denne gravitasjonskraften gir tyngde til alle legemer på Jordens overflate. En mer nøyaktig beregning av den fulle tyngdekraften må også ta hensyn til Jordens rotasjon. Den gir opphav til en sentrifugalkraft som vil gi et lite bidrag samtidig som den medfører at Jorden ikke er helt kuleformet, men er litt sammentrykt ved polene. Verdien av tyngdeakselerasjonen varierer dermed fra g = 9.79  m/s2 ved ekvator til 9.83  m/s2 ved polene hvor sentrifugalkraften ikke bidrar.
+
+
+=== Gravitasjonspotensialet ===
+Newtons gravitasjonslov sier at kraften mellom to kuleformete masser er tiltrekkende og rettet langs forbindelseslinjen mellom deres tyngdepunkt. Da dens størrelse avtar omvendt proporsjonalt med kvadratet av avstanden mellom disse, er kraften  konservativ og varierer likedan som Coulomb-kraften mellom to elektrisk ladete partikler. Begge disse kreftene kan derfor skrives som gradienten av et potensial som varierer omvendt proporsjonalt med avstanden. 
+Da gravitasjonskraften mellom to masser alltid er attraktiv, mens den elektriske kraften mellom to ladninger med samme fortegn er frastøtende, vil gravitasjonspotensialet  Φ ha motsatt fortegn. Utenfor en kuleformet masse som er plassert i origo, vil det derfor være
+
+  
+    
+      
+        Φ
+        (
+        r
+        )
+        =
+        −
+        
+          
+            
+              G
+              M
+            
+            r
+          
+        
+      
+    
+    {\displaystyle \Phi (r)=-{GM \over r}}
+  i en avstand r. Den tilsvarende tyngdeakselerasjonen kan finnes fra dette potensialet ved den fundamentale sammenhengen g = - ∇ Φ og spiller samme rolle her som det elektriske feltet gjør i elektrostatikken. I dette enkle tilfellet blir den
+
+  
+    
+      
+        
+          g
+        
+        =
+        −
+        
+          
+            
+              G
+              M
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+        
+          
+            e
+          
+          
+            r
+          
+        
+      
+    
+    {\displaystyle \mathbf {g} =-{GM \over r^{2}}\mathbf {e} _{r}}
+  hvor er = r/r er en enhetsvektor som peker bort fra massen M. Da en liten masse m vil bli påvirket av gravitasjonskraften F = m g, kan det være naturlig i analogi med det elektriske tilfellet å kalle g for gravitasjonsfeltet.Uansett formen eller opphavet til potensialet, vil det påvirke en partikkel og gi den en bevegelse som er gitt av Newtons andre lov,
+
+  
+    
+      
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                x
+              
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        
+          ∇
+        
+        Φ
+        =
+        0.
+      
+    
+    {\displaystyle {d^{2}\mathbf {x}  \over dt^{2}}+{\boldsymbol {\nabla }}\Phi =0.}
+  Ligningen er uavhengig av massen til partikkelen fordi den inertielle massen er lik den gravitasjonelle massen. Det er den sentrale delen av ekvivalensprinsippet.
+I en høyde z over jordoverflaten er gravitasjonspotensialet -GM/(R + z). Ved å anta at z << R, kan dette forenkles til
+
+  
+    
+      
+        Φ
+        (
+        R
+        +
+        z
+        )
+        =
+        −
+        
+          
+            
+              G
+              M
+            
+            R
+          
+        
+        +
+        g
+        z
+      
+    
+    {\displaystyle \Phi (R+z)=-{GM \over R}+gz}
+  
+Da det første leddet på høyre side er en konstant,  er potensialet i praksis likt med gz. Det tilsvarer at tyngdeakselerasjonen g i slike lave høyder effektivt kan ansees å være konstant. En liten masse m som befinner seg i dette potensialet har en potensiell energi mgz. Slippes den slik at den faller ned til z = 0, får den en hastighet v som er bestemt ved at denne energien går over i ren kinetisk energi (1/2)mv2. Det gir at v = √ (2gz) uavhengig av størrelsen til massen m som allerede vist av Galileo Galilei. For eksempel, hvis z = 5 m, får massen en hastighet på nesten 10 m/s når den treffer bakken.
+I det motsatte tilfelle hvor massen m blir gitt så stor hastighet at den kan bevege seg fritt bort fra Jorden, må den gis en kinetisk energi som er større enn den potensielle energiforskjellen mGM/R. Hastigheten må derfor være større enn unnslipningshastigheten
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              
+                2
+                G
+                M
+              
+              R
+            
+          
+        
+      
+    
+    {\displaystyle v={\sqrt {\frac {2GM}{R}}}}
+  som blir 11.2 km/s. Den er større for fra tyngre planeter, mens den er 2.3 km/s fra Månen. Når hastigheten er over denne grensen og ingen andre krefter virker på massen, vil den ikke bevege seg i en lukket ellipsebane, men i en åpen hyperbelbane.
+
+
+=== Kontinuerlig massefordeling ===
+Gravitasjonspotensialet fra flere massepunkt Mi  som befinner seg i posisjoner ri, kan finnes ved å summere opp bidragene fra hver av dem. Det totale potensialet i et punkt r er derfor
+
+  
+    
+      
+        Φ
+        (
+        
+          r
+        
+        )
+        =
+        −
+        
+          ∑
+          
+            i
+          
+        
+        
+          
+            
+              G
+              
+                M
+                
+                  i
+                
+              
+            
+            
+              
+                |
+              
+              
+                r
+              
+              −
+              
+                
+                  r
+                
+                
+                  i
+                
+              
+              
+                |
+              
+            
+          
+        
+      
+    
+    {\displaystyle \Phi (\mathbf {r} )=-\sum _{i}{GM_{i} \over |\mathbf {r} -\mathbf {r} _{i}|}}
+  Dette kan brukes til å finne potensialet som skapes av en massefordeling med endelig utstrekning. Har den en massetetthet ρ, vil hvert lite volumelement dV = dx dy dz inneholde en tilsvarende liten masse dM = ρdV. Det totale potensialet kan så finnes ved å integrere over hele rommet,
+
+  
+    
+      
+        Φ
+        (
+        
+          r
+        
+        )
+        =
+        −
+        ∫
+        
+          
+            
+              G
+              ρ
+              (
+              
+                
+                  r
+                
+                ′
+              
+              )
+            
+            
+              
+                |
+              
+              
+                r
+              
+              −
+              
+                
+                  r
+                
+                ′
+              
+              
+                |
+              
+            
+          
+        
+        
+          d
+          
+            3
+          
+        
+        
+          x
+          ′
+        
+      
+    
+    {\displaystyle \Phi (\mathbf {r} )=-\int {G\rho (\mathbf {r} ') \over |\mathbf {r} -\mathbf {r} '|}d^{3}x'}
+  Vanligvis ligger feltpunktet r utenfor massefordelingen. Men potensialet innefor kan også finnes fra det samme integralet selv om det da må beregnes med mer forsiktighet. Dette ble først undersøkt av Siméon Denis Poisson for omtrent to hundre år siden. Han fant at integralet er  ekvivalent med en partiell differensialligning. Ved bruk av Laplace-operatoren kan den skrives som
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        Φ
+        (
+        
+          r
+        
+        )
+        =
+        4
+        π
+        G
+        ρ
+        (
+        
+          r
+        
+        )
+      
+    
+    {\displaystyle \nabla ^{2}\Phi (\mathbf {r} )=4\pi G\rho (\mathbf {r} )}
+  og er siden blitt kalt for Poissons ligning. Den er en lokal utgave av Newtons gravitasjonslov og spiller i den sammenheng samme, viktige rolle som Gauss' lov har for det elektriske potensialet i elektrostatikken.
+
+
+== Einsteins gravitasjonsteori ==
+I sin spesielle relativitetsteori viste Einstein i 1905 hvordan Maxwells teori for elektromagnetiske krefter var forenlig med hans postulat om lyshastighetens konstante verdi i alle inertialsystem. Slike krefter kan beskrives ved elektromagnetiske felt som følger fra et firevektor potensial Aμ(x) som forener de elektriske og magnetiske kreftene i klassisk elektrodynamikk. Disse feltene eksisterer i et firedimensjonalt tidrom som har en flat geometri.
+Noen få år etter dette gjennombruddet tok Einstein opp spørsmålet om hvordan Newtons gravitasjonsteori kunne gjøres kompatibel med hans nye relativitetsprinsipp. Han ville nå gjøre fysikkens lover gyldig i alle referansesystem, ikke bare i inertialsystem forbundet ved Lorentz-transformasjoner, men helt generelt relatert til hverandre med  vilkårlige koordinattransformasjoner. I praksis vil det si å kunne beskrive fysikk også i akselererte koordinatsystem. Det lykkes han ved å introdusere ekvivalensprinsippet som sier at det er ikke noen forskjell mellom gravitasjonskrefter og de krefter man er utsatt for når man akselereres.
+
+
+=== Ikke-euklidsk geometri ===
+En av de første erkjennelser som førte Einstein til å oppgi euklidsk geometri i akselererte system, kom fra betraktninger rundt relativitetsprinsippet anvendt i et roterende referansesystem. For en observatør som står utenfor skiven, vil lengden til et linjestykke i skiven som går gjennom rotasjonsaksen, ikke bli utsatt for noen lengdekontraksjon da hver del beveger seg vinkelrett til hastigheten det beveger seg med. Derimot vil et linjestykke langs omkretsen til en sirkel i skiven med sentrum i rotasjonsaksen, bli observert som kortere enn den sanne lengden som en observatør på skiven vil måle. For en slik observatør vil derfor forholdet mellom omkrets og radius til sirkelen være større enn 2π . Derfor er geometrien på skiven ikke-euklidsk. Men observatøren på skiven opplever også en sentrifugalkraft  som prøver å slynge hen utover. Begge observasjonene i det roterende referansesystemet kan beskrives ved Riemanns differensialgeometri. Dette gjelder i allminnelighet for alle akselererte referansesystem og derfor også for hvordan gravitasjon arter seg.
+Alle egenskaper ved riemannske geometrier kan utledes fra en  symmetrisk, metrisk tensor gμν(x) som gir avstanden mellom nærliggende punkt. I et inertialsystem er den gitt ved Minkowski-metrikken ημν. I et kartesisk koordinatsystem er dens komponenter diagonale med verdiene (+1,-1,-1,-1) og en fri partikkel vil følge en rett linje i tidrommet. Beskrives denne relativistiske partikkelen derimot ved bruk av krumlinjete koordinater, vil denne rette linjen se ganske annerledes ut og kalles en geodetisk kurve. Den kan beregnes fra ligningen
+
+  
+    
+      
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                x
+                
+                  μ
+                
+              
+            
+            
+              d
+              
+                τ
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        
+          Γ
+          
+            
+            α
+            β
+          
+          
+            μ
+          
+        
+        
+          
+            
+              d
+              
+                x
+                
+                  α
+                
+              
+            
+            
+              d
+              τ
+            
+          
+        
+        
+          
+            
+              d
+              
+                x
+                
+                  β
+                
+              
+            
+            
+              d
+              τ
+            
+          
+        
+        =
+        0.
+      
+    
+    {\displaystyle {d^{2}x^{\mu } \over d\tau ^{2}}+\Gamma _{\;\alpha \beta }^{\mu }{dx^{\alpha } \over d\tau }{dx^{\beta } \over d\tau }=0.}
+  hvor τ er partikkelens egentid og størrelsene Γμαβ  er Christoffel-symbol. De er gitt ved førstederiverte av den metriske tensoren. Her og i det følgende brukes Einsteins summekonvensjon hvor man summerer over all like indekser. Denne geodetiske ligningen tilsvarer bevegelsesligningen for en ikke-relativistisk partikkel i Newtons gravitasjonsteori.Ekvivalensprinsippet identifiserer krefter som skyldes akselerasjon, med gravitasjon. Derfor vil en fri partikkel i et vilkårlig gravitasjonsfelt få en bevegelse som er gitt ved samme ligning. Men da behøves Christoffel-symbolene som igjen krever kjennskap til den metriske tensoren. Denne kan beregnes fra Einsteins feltligning.
+
+
+=== Relativistisk gravitasjonslov ===
+
+Newtons gravitasjonslov sier at den andrederiverte av potensialet Φ er i hvert punkt proporsjonal med massetettheten ρ i samme punkt. I Einsteins teori er Φ erstattet med det metriske feltet gμν. Da masse og energi i enhver relativistisk teori er ekvivalente, vil ρ måtte erstattes med energi-impulstensoren Tμν. Strukturen til en relativistisk gravitasjonslov må da bli at den andrederiverte av den metriske tensoren er proporsjonal med denne tensoren. 
+Den eksakte sammenhengen fant Einstein kunne uttrykkes ved Riemanns krumningstensor for tidrommet. Mest kompakt skrives den som
+
+  
+    
+      
+        
+          E
+          
+            μ
+            ν
+          
+        
+        =
+        
+          
+            
+              8
+              π
+              G
+            
+            
+              c
+              
+                4
+              
+            
+          
+        
+        
+          T
+          
+            μ
+            ν
+          
+        
+      
+    
+    {\displaystyle E_{\mu \nu }={8\pi G \over c^{4}}T_{\mu \nu }}
+  hvor lyshastigheten c er et signal om at dette er en relativistisk teori. På venstre side opptrer Einsteins krumningstensor, mens på høyre side får energi-impulstensoren bidrag fra alt som kan gi opphav til gravitasjon. Det inkluderer også mørk energi og en kosmologisk konstant. Denne fundamentale ligningen er nå litt over hundre år gammel og gir en forklaring av alle fenomen som er styrt av gravitasjon.
+Det matematiske innholdet av ligningen sies vanligvis å være at massen eller energien som energi-impulstensoren beskriver, bidrar til å gi det omliggende tidrommet en krumning. Dette kommer til uttrykk ved at det får en metrikk som skiller seg fra Minkowski-metrikken. All bevegelse i tidrommet er fri på den måten at hver partikkel følger en geodetisk kurve. At to masser tiltrekkes mot hverandre, skyldes bare at deres felles tidrom får en slik form at de føres automatisk mot hverandre selv om ingen krefter virker mellom dem.
+Begrepet kraft har bare en klar mening i newtonsk fysikk der partikler beveger seg langsomt og effekten av gravitasjon er liten. I Einsteins teori tilsvarer det at den eneste metriske komponenten som skiller seg fra Minkowski-metrikken, er
+
+  
+    
+      
+        
+          g
+          
+            00
+          
+        
+        =
+        1
+        +
+        2
+        Φ
+        
+          /
+        
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle g_{00}=1+2\Phi /c^{2}}
+  Dermed vil den geodetiske ligningen forenkles og går over til å bli Newtons bevegelsesligning i gravitasjonspotensialet Φ. Newtons gravitasjonsteori er ikke feil, men bare gyldig under det man kaller dagligdagse forhold. Einsteins teori har et mye større gyldighetsområde og forklarer ikke bare gravitasjon, men gir oss et helt nytt verdensbilde.
+
+
+=== Gravitasjonsstråling ===
+
+Einsteins feltligning er ikke-lineær på den måten at en gitt energi-impulstensor gir opphav til en metrisk tensor. Men denne påvirker også energi-impulstensoren som igjen vil modifisere metrikken. Og slik fortsetter det på samme måte slik at ligningen vanligvis er uhyre vanskelig å løse.Et viktig unntak opptrer når den metriske forandringen av tidrommet er meget liten. Da vil metrikken ha formen
+
+  
+    
+      
+        
+          g
+          
+            μ
+            ν
+          
+        
+        (
+        x
+        )
+        =
+        
+          η
+          
+            μ
+            ν
+          
+        
+        +
+        
+          h
+          
+            μ
+            ν
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle g_{\mu \nu }(x)=\eta _{\mu \nu }+h_{\mu \nu }(x)}
+  hvor ημν er Minkowski-metrikken og gravitasjonelle perturbasjonen hμν << 1. Med denne antagelsen samt friheten man har til å velge koordinater, kan feltligningen forenkles og skrives på den linære formen
+
+  
+    
+      
+        
+          
+            (
+          
+        
+        
+          
+            
+              ∂
+              
+                2
+              
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        −
+        
+          c
+          
+            2
+          
+        
+        
+          ∇
+          
+            2
+          
+        
+        
+          
+            )
+          
+        
+        
+          h
+          
+            μ
+            ν
+          
+        
+        (
+        x
+        )
+        =
+        0
+      
+    
+    {\displaystyle {\Big (}{\partial ^{2} \over \partial t^{2}}-c^{2}\nabla ^{2}{\Big )}h_{\mu \nu }(x)=0}
+  utenfor kilden som gir opphav til energi-impulstensoren. Dette resultatet er den vanlige bølgeligningen som viser at perturbasjonen brer seg i tidrommet som en gravitasjonsbølge. I motsetning til en  harmonisk, elektromagnetisk bølge som har en dipolkarakter, har denne en «kvadrupolkarakter» med svingninger i to vinkelrette plan som skjærer hverandre i bølgens utbredelsesretning.Bølgeligningen for gravitasjonsstråling viser at den brer seg ut i Universet med samme hastighet som lys. Dette er som forventet i en relativistisk teori. Men ut fra observasjonen av et gravitasjonsbølgeflash  den 17. august, 2017 som skyldes sammensmeltning av to nøytronstjerner, kunne dette også for første gang bli bekreftet med meget stor nøyaktighet.
+
+
+== Referanser ==
+
+
+== Litteratur ==
+G. Holton and S.G. Brush, Physics, the Human Adventure: From Copernicus to Einstein and Beyond, Rutgers University Press, New Brunswick (2006). ISBN 0-8135-2907-7.

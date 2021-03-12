@@ -1,0 +1,335 @@
+Hastighed er inden for fysik en vektor-størrelse, som beskriver, hvor langt og i hvilken retning, et legeme flytter sig pr. tid. Størrelsen (længden) af denne vektor er en skalar, som kaldes for fart.
+Bemærk at når der ikke er tale om fysikfagsprog, bruges ordet hastighed almindeligvis om begrebet fart i fysikkens sprog. Denne artikel dækker fysikkens brug af ordet hastighed.
+
+
+== Bevægelse langs en ret linje ==
+Hvis legemet bevæger sig langs en ret linje findes gennemsnitshastigheden som 
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              Δ
+              s
+            
+            
+              Δ
+              t
+            
+          
+        
+        =
+        
+          
+            
+              s
+              −
+              
+                s
+                
+                  0
+                
+              
+            
+            
+              t
+              −
+              
+                t
+                
+                  0
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle v={\Delta s \over \Delta t}={s-s_{0} \over t-t_{0}}}
+  
+Her er 
+  
+    
+      
+        Δ
+        s
+      
+    
+    {\displaystyle \Delta s}
+   ændringen i sted og 
+  
+    
+      
+        Δ
+        t
+      
+    
+    {\displaystyle \Delta t}
+   ændring i tid, begge dele regnet med fortegn. Dimensionen for hastighedsvektorens størrelse er længde divideret med tid, så SI-enheden for hastighedens størrelse er m/s (meter pr. sekund).
+Generelt gælder det, at hastigheden er den tidsafledte af stedvektoren. 
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              d
+              s
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle v={ds \over dt}}
+  
+Her er 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   hastigheden, 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   stedet (eller positionen) og 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   er tiden. Hvis man tegner positionen som funktion af tiden er øjeblikshastigheden hældningen på tangenten til kurven. 
+Hastigheden kan også bestemmes ud fra accelerationen idet 
+
+  
+    
+      
+        v
+        =
+        ∫
+        a
+        d
+        t
+      
+    
+    {\displaystyle v=\int adt}
+  
+
+
+== Konstant accelereret bevægelse ==
+For en konstant accelereret bevægelse fås hastigheden ved at integrere den konstante acceleration 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  . Med hastigheden 
+  
+    
+      
+        
+          v
+          
+            0
+          
+        
+      
+    
+    {\displaystyle v_{0}}
+   til tiden 
+  
+    
+      
+        t
+        =
+        0
+      
+    
+    {\displaystyle t=0}
+   får man at 
+
+  
+    
+      
+        v
+        =
+        a
+        t
+        +
+        
+          v
+          
+            0
+          
+        
+      
+    
+    {\displaystyle v=at+v_{0}}
+  
+
+
+== Generelt ==
+Hastigheden er en vektor, så helt generelt gælder det at 
+
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    r
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}={d{\vec {r}} \over dt}}
+  
+Her er 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+   hastighedsvektoren og 
+  
+    
+      
+        
+          
+            
+              r
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {r}}}
+   stedvektoren for vores legeme i bevægelse. 
+
+
+== Enheder ==
+Hastighed og fart måles med brug af de grundlæggende SI-enheder med enheden m/s (meter pr. sekund).
+For fart benyttes i vejtrafik angivelsen km/t (kilometer i timen) eller, især i USA og Storbritannien, mph (miles per hour), og i søfart knob.
+
+
+== Hastighedsaddition for relativistiske hastigheder ==
+Hvis to hastigheder skal lægges sammen, gøres det ikke bare ved at finde summen af de to hastigheder. Dette gøres med en bestemt formel, der siger følgende: 
+  
+    
+      
+        v
+        =
+        
+          
+            
+              
+                v
+                
+                  1
+                
+              
+              +
+              
+                v
+                
+                  2
+                
+              
+            
+            
+              1
+              +
+              
+                
+                  
+                    
+                      v
+                      
+                        1
+                      
+                    
+                    ∗
+                    
+                      v
+                      
+                        2
+                      
+                    
+                  
+                  
+                    c
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle v={v_{1}+v_{2} \over 1+{v_{1}*v_{2} \over c^{2}}}}
+  
+v1 og v2 er de to hastigheder og c er lysets hastighed, 299792458 m/s eller 1079252848,8 km/t.
+Denne eksakte formel betyder ikke så meget, når hastighederne er små, men hvis to objekter flyver mod hinanden med lysets hastighed, vil de også kun nærme hinanden med lysets hastighed. Dette sker da nævneren vil være 2 og tælleren dobbelt lysets hastighed.
+Formlen gælder også, hvis man står på en bil og kaster en bold fremad. Både bilens fart og den fart, bolden kastes med, skal igennem denne formel, summen er ikke nok.
+
+
+== Se også ==
+
+
+== Referencer ==

@@ -1,0 +1,198 @@
+Un accelerator de particule este o instalație complexă folosită în domeniul fizicii de înaltă energie pentru a accelera particule elementare. Se accelerează în general doar particulele ce poartă sarcină electrică. Accelerarea are loc sub acțiunea unor câmpuri electrice și magnetice. Este utilizat la studiul particulelor elementare. Există o mare varietate de acceleratoare de particule, ele putând fi clasificate după în funcție de forma traiectoriei fascicului de particule accelerate, caracterul câmpurilor acceleratoare, domeniul de energii imprimate particulelor și în funcție de natura particulelor accelerate. În acceleratoare este nevoie de asigurarea stabilității traiectoriei, adică menținerea permanentă a particulelor aflate în procesul accelerării pe traiectorii care să nu permită abateri mari de la traiectoria de echilibru(sau de referință).
+
+
+== Clasificare ==
+Acceleratoarele se pot clasifica după:
+
+forma traiectoriei descrise de particule: rectilinie (acceleratoare liniare) sau curbilinie (ciclotronul);
+după caracterul câmpului electric accelerator: directe, de inducție, rezonante și cu undă progresivă;
+după domeniul de energii imprimate particulelor: relativiste, nerelativiste;
+după natura particulelor accelerate: electroni, protoni.
+
+
+== Scopul accelerării particulelor ==
+Sinteză (formare) de noi elemente cu ajutorul ionilor grei accelerați.
+Găsirea celei mai mici particule subatomice, particula care stă la baza Universului.
+Ciocnirea cu alte particule staționare; ciocnire care rezultă în descompunerea în alte particule, ele putând fi urmărite și analizate cu diverse aparate (exemplu: camera cu ceață). Prin această ciocnire s-au descoperit cele mai multe particule subatomice.
+Se accelerează particula la viteze tot mai mari pentru a se analiza comportamentul ei. Spre exemplu electronul accelerat își mărește masa.
+Obținerea unui flux extrem de ridicat de radiații X  într-o instalație acceleratoare denumită sincrotron.
+Acceleratorul de particule este inventat pentru a vedea ce s-a întâmplat după primele secunde de la marea explozie cosmică Big-Bang.
+
+
+== Stabilitatea funcționării ==
+
+
+=== Stabilitatea traiectoriei ===
+În acceleratoare trebuie asigurată stabilitatea traiectoriei, adică menținerea particulelor pe traiectorii care să nu prezinte abateri mari (limitate de construcția instalației) de la o traiectorie de echilibru (sau de referință).
+Aceasta se realizează fie automat, devierea de la această traiectorie având tendința de a se micșora, fie prin dispozitive speciale de focalizare, plasate de-a lungul traiectoriei particulelor (în cazul acceleratoarelor liniare rezonante sau cu undă progresivă); la acceleratoarele directe, stabilitatea traiectoriei se face prin focalizare electrostatică, iar la cele ciclice - prin focalizare electromagnetică (slabă sau intensă).
+
+
+=== Stabilitatea de fază ===
+
+Pentru menținerea procesului de accelerare este necesară și stabilitatea de fază, adică satisfacerea unei condiții de sincronism.
+La acceleratoarele rezonante, aceasta este îndeplinită prin realizarea unei egalități între perioada tensiunii acceleratoare și intervalul de timp dintre două treceri succesive ale particulelor prin spațiul de accelerare, iar la acceleratoarele cu undă progresivă - prin realizarea unei egalități între viteza particulei (sincrone) și viteza de fază a undei.
+Conform principiului autofazării, particulele trebuie să satisfacă, în medie, condiția de sincronism; sub o anumită limită, abaterile de fază nu le elimină din procesul de accelerare.
+Astfel, la acceleratoarele cu focalizare slabă, creșterea energiei conduce la creșterea perioadei de rotație a particulei.
+Notând cu φs faza de sincronism în care o particulă de energie Ws întâlnește intervalul de accelerare, iar cu Vm amplitudinea tensiunii V de accelerare aplicată intervalului, energia pe care o acumulează particula este:
+
+  
+    
+      
+        
+          W
+          
+            s
+          
+        
+        =
+        q
+        
+          V
+          
+            m
+          
+        
+        sin
+        ⁡
+        
+          ϕ
+          
+            s
+          
+        
+        .
+      
+    
+    {\displaystyle W_{s}=qV_{m}\sin \phi _{s}.}
+  În acest caz, trecerile repetate prin intervalul de accelerare se succed la un interval de timp egal cu perioada Trf a generatorului.
+Dacă particula de energie Ws ar ajunge în intervalul de accelerare cu faza φ1< φs, energia acumulată este:
+
+  
+    
+      
+        Δ
+        W
+        =
+        q
+        
+          V
+          
+            m
+          
+        
+        sin
+        ⁡
+        
+          ϕ
+          
+            1
+          
+        
+        >
+        Δ
+        
+          W
+          
+            s
+          
+        
+        ,
+      
+    
+    {\displaystyle \Delta W=qV_{m}\sin \phi _{1}>\Delta W_{s},}
+  particula ieșind astfel din sincronism.
+Mărindu-se timpul de revenire a particulei în spațiul de accelerare (T > Trf), faza φ1 se apropie de cea de sincronism φs, devenind φ2.
+În următoarele perioade, particula acumulează energie din ce în ce mai mare, ceea ce face ca frecvența sa de rotație să crească.
+Dacă variația frecvenței generatorului are loc suficient de lent, atunci energia W nu va fi egală cu Ws până când faza particulei nu devine φ' > φs; aceasta poate avea loc în cazul φ' < π sau φ' > π.
+
+
+== Acceleratorul din laboratorul CERN ==
+Cel mai mare accelerator de particule se află în laboratorul CERN, între Franța și Elveția, marea parte aflându-se în Franța.
+Acest accelerator poate accelera atomi până la o viteză de 99,999999% din viteza luminii.
+Tunelurile unde sunt băgate particulele se întâlnesc în 4 puncte. În unele zone ale acestor tunele pot atinge temperatura de zero absolut (-273 °C)
+Oamenii de știință vor ca prin unirea celor 2 particule să se genereze așa-zisa "particula Dumnezeu"
+Acceleratorul de particule din laboratorul CERN este situat la câteva zeci de metri sub pământ întins pe o distanță de 25km, și au lucrat la el peste 7000 de savanți și fizicieni.
+
+
+== Istoric ==
+La începutul secolului XX, ciclotronii erau denumiți în mod normal ca ”spărgător de atomi”.
+În ciuda faptului că ciocnirile de particule moderne, de fapt, propulsează particulele subatomice – atomii înșiși acum sunt relativ simplu de scindat fără a utiliza acceleratorul de particule – termenul persistă în limbajul cotidian când ne referim la acceleratorul de particule în general.
+Radiațiile de particule cu energie mare sunt folositoare atât pentru cercetările fundamentale și  aplicate în știinte, cât și în multe domenii tehnice și industriale fără legătură cu cercetările fundamentale.
+A fost estimat ca sunt aproximativ 26.000 de acceleratoare în întreaga lume.
+Dintre acestea, doar ~ 1% reprezinta mașinile de cercetare cu peste 1 GeV, ~44% sunt în domeniul radioterapiei, ~41% pentru implantarea de ioni, ~9% pentru procesarea și cercetarea industrială, ~4% pentru cercetări biomedicale și alte cercetări cu cantități mici de energie.
+Pentru anchetele de bază în dinamica și structura materiei, spațiului și timpului, fizicienii caută cele mai simple genuri de interacțiuni la cele mai înalt posibile energii. Acestea, în mod normal, implică energii ale particulelor de mulți GeV  și interacțiuni ale celor mai simple particule: leptoni (de exemplu: electronii și protonii) și cuarci sau fotoni și gluoni în câmpul cuantei. Din moment ce cuarcii izolați sunt indisponibili datorită paletei mici de culori, cele mai simple experimente disponibile implică interacțiunile, în primul rând, a leptonilor între ei și, în al doilea rând, a leptonilor cu nucleonii, care sunt compuși din cuarci și gluoni. Pentru a studia ciocnirile cuarcilor între ei, savanții recurg la coliziunile dintre nucleoni, care la energii mari ar putea fi considerați ca interacțiuni între două corpuri ale cuarcilor și gluonilor din care sunt compuși. Astfel, fizicienii au tendința să folosească mașini care creează raze de electroni, protoni, și antiprotoni, care interacționând între ei sau cu cele mai simple nuclee (cum ar fi hidrogenul sau deuteriul) la cele mai mari energii posibile, generează sute de GeV sau mai mult. Fizicienii nucleari sau cosmologii pot folosi razele atomilor nucleici, fară electroni, pentru a investiga structura, interacțiunile și proprietățile nucleilor înșiși și condensul la temperaturi extreme și densități așa cum au apărut în primele momente ale Big Bang-ului. Aceste investigații implică, adeseori, ciocniri ale nucleilor grei – ale atomilor ca Fe sau Au – la energii de cativa GeV per nucleon. La energii mici, raze de nuclei accelerați sunt folosiți, de asemenea, în medicină, cum ar fi tratamentul cancerului.
+Pe lângă faptul că sunt de interes fundamental, electronii de mare energie ar putea fi forțati să emită raze foarte deschise și coerente de fotoni de mare energie – raze ultraviolete sau raze X – pe calea radiației sincrotonului, ale căror fotoni are numeroase utilizări în studiul structurii atomului, chimie, biologie, tehnologie. Exemplele includ ESRF în Europa, care a fost recent utilizat pentru a extrage imagini detaliate 3D a insectelor prinse în chihlimbar. Astfel, este o mare cerere pentru acceleratorul de electron de energii moderate (GeV) și intensitate mare.
+
+
+=== Mașinile de energie mică ===
+Acceleratoare de energii mici folosesc o singură pereche de electrozi ce generează o tensiune de câteva mii de volți. Într-un generator de raze X, sarcina însăși este cea a electrozilor. Un accelerator de particule numit implementator de ioni este folosit în fabricarea circuitelor integrate.
+
+
+=== Mașinile de energie mare ===
+Acceleratorul DC este capabil de a accelera particule la viteze suficiente pentru a cauza reacții nucleare, cum ar fi generatorul Cockcroft-Walton sau multiplicatorul de voltaj, care transformă curentul alternativ în curent continuu, sau generatorul Van de Graaff care folosește electricitatea statică.
+Cele mai mari și puternice acceleratoare, cum ar fi RHIC, Large Hadron Collider (LHC) și tevatronul sunt folosite în fizica particulelor.
+Acceleratoarele de particule produc, de asemenea, raze de protoni, care pot produce izotopi medicali sau de cercetare bogați în protoni, în contradicție cu cele bogate în neutroni făcuți în reactoarele de fisiune. Totuși, cercetarea recentă a arătat cum se fac 99Mo, de obicei, făcuți în reactoare, prin izotopi accelerați ai hidrogenului, chiar dacă această metodă are încă nevoie de un reactor pentru a produce tritium. Un exemplu al acestui tip de mașinărie este LANSCE din Los Alamos.
+
+
+=== Acceleratoarele electrostatice de particule ===
+Istoric vorbind, primele acceleratoare foloseau tehnologia simplă a unui singur mare voltaj (potențial) static pentru a accelera particule încărcate. În timp ce această metodă este încă foarte populară în zilele de astăzi, numărul acceleratoarelor electrostatice depășind cu mult orice altă clasă, ele sunt îndreptate către studiile cu energie mică până la limita de 30 MV (când acceleratorul este plasat într-un rezervor). Același mare voltaj poate fi folosit de două ori în cascadă dacă sarcina particulelor poate fi inversată în timp ce sunt în terminal; acest lucru este posibil cu accelerarea nucleului atomic prin adăugarea, întâi, a unui electron sau prin formarea unui compus chimic cationic (încărcat negativ), iar apoi trecând raza printr-o folie subțire pentru a îndepărta electronii din terminalul de mare voltaj, creând raza încarcată pozitiv.
+Această categorie nu trebuie să fie confundată cu acceleratoarele liniare, acest termen referindu-se la acceleratoarele care folosesc câmpuri electrice oscilante sau ghid de unde. Astfel, cele mai multe acceleratoare aranjate într-o linie dreaptă nu trebuie numite „acceleratoare liniare”.
+
+
+=== Acceleratoare de câmpuri oscilante de particule ===
+Datorita plafonului de mare voltaj impusă de descărcarea electrică, pentru a accelera particule spre energii mari, sunt utilizate tehnici care implică mai mult decât o singură sursă  joasă, dar oscilantă, de înaltă tensiune. Acești electrozi pot fi aranjați pentru a accelera particulele într-o linie sau un cerc, depinzând dacă particulele aparțin unui câmp magnetic în timp ce sunt accelerate, provocând traiectoriile lor să se curbeze.
+
+
+=== Acceleratoarele liniare de particule ===
+Într-un accelerator liniar (linac), particulele sunt accelerate într-o linie dreaptă cu o țintă de interes finală. Acestea sunt foarte des folosite. Sunt folosite pentru a da o energie inițială mică particulelor înainte să fie introduse într-un accelerator circular. Cel mai lung accelerator liniar din lume este SLAC (Stanford Linear Accelerator), având 3 km lumgime. 
+Acceleratoarele liniare de energii mari folosesc sisteme liniare de plăci (sau tuburi cu undă progresivă) la care este aplicat un câmp încărcat cu energie alternant. În timp ce particulele se apropie de o placă, ele sunt accelerate către aceasta prin intermediul unei plăci cu polaritate opusă. Pe când trec prin gaura din placă, polaritatea este inversată astfel încât placa, nu le acceptă și le accelerează către următoarea placă. În mod normal, un curent cu fascicule cu mai multe particule este accelerat, astfel încât un voltaj controlat AC este aplicat fiecărei plăci pentru a repeta acest proces pentru fiecare fascicul.
+În timp ce particulele se apropie de viteza luminii, rata de comutare a câmpurilor electrice devine atât de mare, încât operează la frecvența microundelor, astfel, cavitățile rezonante RF sunt folosite în dispozitive cu energii mari în loc de simple plăci.
+O categorie deosebită de acceleratoare liniare o constituie acceleratoarele cu undă progresivă, în care accelerarea particulelor se realizează prin acțiunea componentei electrice longitudinale a unui câmp electromagnetic ce se propagă într-un ghid de unde de construcție specială; viteza particulelor este egală cu viteza de fază a undei.
+Acceleratorul liniar prezintă o utilitate esențială ce constă în producerea de electroni de mare energie (de exemplu: peste 40 GeV în acceleratorul de la Stanford), care nu pot fi accelerați în aceeași măsură în acceleratoarele ciclice, din cauza pierderilor mari de energie prin radiație.
+Acceleratorii liniari sunt folosiți în medicină, în radioterapie și în chirurgia cu unde radio. Acceleratoarele liniare folosite în medicină folosesc un klystron și un aranjament complex de magneți care produc o radiație cu o energie de 6-30 de milioane de electron-volți (MeV). Electronii pot fi folosiți direct sau pot fi ciocnți de o țintă pentru a produce raze X. Siguranța, flexibilitatea și acuratețea razei produsă au înlocuit vechea utilizare a terapiei cu Cobalt-60 ca instrument de tratament.
+
+
+=== Pionierii accelatoarelor ===
+John Cockcroft a lucrat la acceleratoare liniare.
+Robert Van de Graff, inițial, a folosit bobina Tesla la Universitatea Princeton și apoi a trecut, în 1929, la generatoarele Van de Graaff.
+
+
+=== Acceleratoarele circulare (sau ciclice) ===
+Într-un accelerator circular, particulele se mișcă într-un cerc până când obțin suficientă energie. Calea particulelor este curbată în formă de cerc folosind electromagneții. Avantajul acceleratorului circular față de cel liniar este că topologia circulară permite accelerarea continuă, astfel încât particulele pot tranzita la infint. Un alt avantaj este că acceleratorul circular este mai mic decât cel liniar în comparație cu puterea lor (de exemplu, un linac ar trebui să fie extrem de lung pentru a avea echivalentul puterii unui accelerator circular).
+În funcție de puterea și accelerația particulelor, acceleratoarele circulare au un dezavantaj: particulele emit radiații ale sincrotronilor. Când o particulă încărcată este accelerată, ea emite radiații electromagnetice și emisii secundare. Așa cum o particulă, care se deplasează în cerc, accelerează tot timpul către centrul cercului, ea emite în continuu radiații către tangenta la cerc. Această radiație se numește „lumina sincroton” și depinde în mare parte, de masa particulei. De aceea, multe acceleratoare de electroni cu putere mare sunt liniare. Unele acceleratoare, precum sincrotonul sunt create special pentru a produce acea lumină sincroton, adica raze X.
+Deoarece teoria relativității impune ca materia să se deplaseze mai încet decât viteza luminii în vid în acceleratoare de energii mari, așa și energia crește atunci când viteza particulei se apropie de viteza luminii, dar nu o atinge niciodată. De aceea, fizicenii nu se gândesc, în general, la viteza, ci mai mult la energia particulei (sau impulsul acesteia), de obicei măsurată în electron-volți (eV). Un important principiu al acceleratoarelor circulare, și a razelor de particule, în general, este acela ca traiectoria particulei să aibă o curbură proporțională cu sarcina acesteia și cu câmpul magnetic, dar invers proporțional cu impulsul.
+Cel mai des utilizate sunt acceleratoarele ciclice rezonante (ciclotron, microtron, fazotron, sincrotron, sincrofazotron) datorită avantajelor în ceea ce privește economia de spațiu și pierderile minime de energie.
+
+
+=== Ciclotronii ===
+Primele acceleratoare circulare au fost ciclotronii, inventați în 1929 de Ernest Lawrence la Universitatea Berkeley din California.
+Ciclotronii au o singură pereche de plăci adâncite în forma de „D” pentru a accelera particulele și un singur magnet mare dipolar pentru a devia deplasarea într-o orbită circulară.
+Este o proprietate caracteristică particulele încărcate într-un câmp magnetic constant și uniform, B, pe care orbitează cu o perioadă constată, la o frecvență numită „frecvență ciclotronică”, atât timp cât viteza lor este mică în comparație cu viteza luminii (3×108 m/s). Acest lucru înseamnă D-urile accelerate ale unui ciclotron pot fi conduși către o frecvență radio constantă (RF) accelerând puterea sursei, pe când raza face o spirală în continuu. Particulele sunt inserate în centrul magnetului și sunt extrase la margine când ajung la energie maximă.
+Ciclotronii ajung la energia limită din cauza efectului relativist, când particulele devin, efectiv, masive, astfel încât frecvența lor ciclotronică scade cu accelerația radio frecvenței. Ciclotronii simpli pot accelera protoni doar până la o energie de aproape 15 milioane de electron volți (15 MeV, corespunzând vitezei de aproximativ 10% din viteza luminii). Dacă este accelerat în continuare, traiectoria devine o spirală până de o rază și mai mare, dar nu va mai avea destulă viteză pentru a completa întregul cerc în conformitate cu radio frecvența. Ciclotronii sunt, cu toate acestea, încă folositori pentru aplicațiile cu energie mică.
+
+
+=== Sincrociclotronii și izocronusul ciclotron ===
+Sunt multe moduri de a modifica clasicul ciclotron pentru a-i crește energia limită. Acest lucru poate fi facut într-o raza continuă, cu o frecvență constantă, având un dispozitiv care modifică polii magneților pentru a crește câmpul magnetic cu o anumită valoare. Atunci, particule încărcate parcurg o distanță mai scurtă pe fiecare orbită decat ar face de obicei, și pot să rămână în fază cu câmpul. Astfel de dispozitive se numesc izocronus ciclotron. Avantajul lor este ca pot genera în continuu raze de o intensitate medie mai mare, ceea ce este folositor pentru unele aplicații. Cel mai mare dezavantaj îl reprezintă mărimea și costul acelui mare magnet necesar și dificultatea în obținerea unui câmp atât de mare. 
+Sincrociclotronul accelerează particulele pe grupuri, într-un câmp magnetic B constant, dar reduce radio-frecvența câmpului pentru a păstra particulele în pas cu spirala ce se formează. Aceasta apropiere nu are o intensitatea a razelor atât de mare datorită formării grupurilor, din nou din cauza necesității acelui magnet de diametru mare și câmp constant față de orbita mare cerută de energia mare.
+
+
+=== Acceleratoarele FFAG ===
+Acceleratoarele FFAG, în care un câmp radial foarte puternic, combinat cu focalizare cu gradient alternant, permite razei sa fie închisă într-un inel strâmt, fiind o extensie a ciclotronului izocronus, idee care este, mai târziu, în dezvoltare. Ei folosesc secțiuni cu accelerare RF între magneți, și asa sunt izocronii pentru particulele relativiste ca electronii (care ajung la viteza luminii la doar câțiva MeV), dar doar pentru o variație limitată de energie și particule mai grele la energii sub-relativiste. La fel ca la izocronus ciclotronul, ei reușesc să obțina o rază continuă, dar fără nevoia unui magnet uriaș dipolar ce se poate îndoi acoperind întreaga raza a orbitei.
+
+
+=== Betatronul ===
+Un alt tip de accelerator circular, inventat în 1940 pentru accelerarea electronilor, este betratonul. Ca și sincrotronul, acesta folosește un magnet în forma de gogoașă (cu gaură în mijloc) cu un câmp ciclic magnetic B, dar accelerează particulele prin inducție de la câmpul magnetic în creștere. Ajungând la o orbită radială constantă în timp ce asigură câmpul electric necesar, are nevoie ca fluxul magnetic conectat la orbită sa fie într-un fel independent de câmpul magnetic de pe orbită, deviind particulele într-o curbă constantă. Aceste dispozitive au fost, în practică, limitate de marile pierderi radiale suferite de electronii care se mișcau aproape de viteza luminii pe o orbita relativ mică. 
+
+
+=== Istoria ===
+Primul ciclotron al lui Lawrence a avut aproape 100 mm (4 inch) diametru. Mai târziu, el a construit o mașinărie cu aproape 60 de inch și a proiectat una de 174 inch diametru, pentru care nu a avut timp, deoarece al Doilea Război Mondial i-a oferit șansa muncii în domeniul separarării izotopului de uraniu. După război, el a continuat munca în cercetare și medicina pentru mulți ani.
+Primul mare sincroton de protoni a fost cosmotronul de la Laboratorul National Brookhaven, care a accelerat protonii până la aproape 3 GeV.
+Bevatronul, de la Berkeley, terminat în 1954, a fost special conceput pentru a accelera protonii la o energie suficient de mare pentru a crea antiprotoni, verificând simetria particulă-antiparticulă a naturii, până atunci doar bănuită. AGS (Alternating Gradient Synchrotron) din Brookhaven a fost primul mare sincrotron cu gradient alternant, magneți cu focalizare puternică, ce au redus considerabil deschizătura razei, corespunzând mărimii și costului magnetului. Proton Synchroton-ul, construit la CERN, a fost primul mare accelerator de particule european, semanând în mare pare cu AGS.
+Acceleratorul liniar Stanford (SLAC) a devenit funcționabil în 1966, accelerând electronii până la 30 GeV pe o rază de 3km, fiind amplasat într-un tunel și alimentat de sute de klystroni. Este cel mai mare accelerator liniar existent și a fost upgradat. Este, de asemenea, o sursă de sincroton foton de raze X și ultraviolete.
+Tevatronul Fermilab are un inel cu un fascicul de ghidare lung de 6 km, primind ulteorior câteva îmbunătățiri. Cel mai mare accelerator circular construit vreodată este sincrotronul LEP de la CERN, cu o circumferință de 26.6 km. A ajuns la o energie de 209 GeV înainte sa fie demontat în anul 2000 pentru ca tunelul subteran sa poata fi folosit pentru LHC (Large Hadron Collider). LHC este, momentan, cel mai mare accelerator, având cea mai mare energie, ajungând până la 7 TeV per raza, dar momentan are doar jumătate din această energie. Abandonatl SSC (Superconducting Super Collider) din Texas ar fi avut o circumferință de 87 km. Construcția sa a început în anul 1991, dar a fost abandonată în 1993. Acceleratoare circulare foarte mari sunt construite în tunele subterane, având câțiva metri diametru pentru a minimaliza costurile unei asemenea structuri la suprafață, și pentru a asigura un scut împotriva radiatiilor secundare ce pot apărea, care penetreaza cu energii foarte mari.
+
+
+== Note ==
+
+
+== Bibliografie ==

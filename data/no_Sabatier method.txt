@@ -1,0 +1,725 @@
+Karbondioksid er en kjemisk forbindelse av karbon og oksygen med kjemisk formel CO2, den er en ikke-brennbar, sur og fargeløs gass med en svak syrlig lukt og smak. Den løser seg lett opp i vann, hvor den også forekommer ofte, for eksempel i det som i dagligtale kalles kullsyre i leskedrikker, men som er en uriktig betegnelse. Med metalloksider eller hydroksid, kan karbondioksid danne to typer salter, nemlig karbonater og hydrogenkarbonat.
+CO2 er en viktig del av det globale karbonkretsløpet, samt en naturlig del av luften som en viktig drivhusgass i atmosfæren: Menneskelig aktivitet, spesielt forbrenning av fossile energikilder, har økt andelen CO2 i atmosfæren, angitt i parts per million (ppm), fra cirka 280 før starten av industrialiseringen til cirka 400 i 2015. Denne tendensen er fortsatt stigende. Denne økningen resulterer i en forsterkning av den naturlige drivhuseffekten, som i sin tur anses å være hovedårsaken til dagens globale oppvarming.Ved forbrenning av stoffer som inneholder karbon med tilstrekkelig oksygen oppstår CO2. Gassen oppstår også i organismer og levende vesener som et produkt av celleånding. Planter, alger og noen bakterier og arkebakterier konverterer CO2 etter fiksering i biomasse. Under fotosyntesen skapes glukose fra uorganisk CO2 og vann.
+CO2 kan være giftig, men konsentrasjonen i luften er langt fra nok til at det er skadelig. Den har et bred spektrum av teknisk anvendelser. I kjemiske industri brukes den for eksempel ved fremstilling av urea. I fast form som tørris er CO2 mye brukt som kjølemiddel, og som såkalt superkritisk karbondioksid blir brukt som løse- og ekstraheringsmiddel.
+Gassen har siden 1990-tallet fått økt anvendelse som arbeidsmedium pga. dens transkritiske egenskaper, blant annet innenfor komfortkjøling av bilkupéer.
+
+
+== Historie ==
+
+Karbondioksid var en av de første gassene som fikk et navn. På 1600-tallet observerer den flamske kjemikeren Jan Johannes van Helmont at massen av trekull ble redusert under forbrenningen, ettersom massen av den gjenværende aske var mindre enn det kull som ble brukt. Hans tolkning var at resten av kullet hadde blitt omgjort til et usynlig stoff som han kalte gass eller Spiritus Sylvestre («Vild ånd»).Egenskapene til karbondioksid ble undersøkt mer grundig av den skotske legen Joseph Black. Han oppdaget i 1754 at når kalk (kalsiumkarbonat, CaCO3) blandes i en løsning med syrer, frigjøres en gass som han kalte fixed air («fiksert/etablert luft»). Han innså at denne gassen var tyngre enn luft og ikke opprettholder forbrenningprosesser. Ved injisering av denne gass i en oppløsning av kalsiumhydroksid så han at en fellingsreaksjon skjedde. Dette fenomen fikk ham til å forstå at karbondioksid oppstår i pusting hos pattedyr, og frembringes av mikrobiologisk fermentering. Hans arbeid viste at gasser kan være involvert i kjemiske reaksjoner, og bidro til at en vente seg bort fra teorien om flogiston.Joseph Priestley lyktes i 1772 med den første produksjon av brus ved å tilføre svovelsyre i en kalkløsning, for deretter å oppløse den resulterende karbondioksid i en mugge med vann. I 1823 lyktes Humphry Davy og Michael Faraday med å gjøre karbondioksid om til en væske ved å øke trykket. Den første beskrivelsen av fast karbondioksid kommer fra Charles Thilorier, i 1834 trykksatt han en beholder med flytende karbondioksid. Da han åpnet beholderen fant han ut at en spontan fordampning finner sted, noe som fører til avkjøling slik at også en del faststoff av CO2 ble dannet.
+
+
+== Forekomst ==
+Karbondioksid er i atmosfæren, i hydrosfæren, i litosfæren og biosfæren. Karbon utveksles mellom disse sfærene i stor grad i form av karbondioksid. I atmosfæren var det i 2015 rundt 830 gigatonn (830 000 000 000 tonn) karbon i form av karbondioksid. hydrosfæren inneholder cirka 38 000 gigatonn med karbon i form av fysisk oppløst karbondioksid, samt oppløst hydrogenkarbonater og - karbonater. Litosfæren omfatter den klart største andelen av kjemisk bundet karbondioksid. Karbonatbergarter som kalsitt og dolomitt inneholder cirka 60 millioner gigatonn karbon I tillegg til dette kommer innholdet av karbon i permafrostområder som tundraen i Arktis og Antarktis ved polområdene, boreal barskog eller fjellområder som lagrer store mengder karbon.
+
+
+=== Forekomst i atmosfæren ===
+
+Karbondioksid er en sporgass i atmosfære. Konsentrasjonen i 2013 er lokalt overskred terskelen på 400 ppm (parts per million, deler per million), som ble målt av National Oceanic and Atmospheric Administration (NOAA) i USA på Mauna Loa (Mauna Loa-observatoriet), Hawaii.En studie publisert høsten 2016 i tidsskriftet Science kunne for første gang fremvise en lineær sammenheng mellom utslipp av CO2 og smelting av sommerisen i Arktis: «Et tonn CO2 = -3 km3 sommeris».Den totale massen av karbondioksid i atmosfæren er cirka 3000 gigatonn eller cirka 800 gigatonn karbon (forholdet mellom molar masse av CO2 til C er 44:12). Konsentrasjonen varierer både med årstidene og lokalt, spesielt på bakken. I urbane områder er konsentrasjonen generelt høyere i lukkede rom, der kan konsentrasjonen være opp til ti ganger høyere enn gjennomsnittet.Karbondioksid absorberer noe av varmestrålingen fra solen (den infrarøde), mens den kortbølgede del av solstrålingen kan passere nesten uhindret. Et absorberende legeme avgir også varmestråling i henhold til sin temperatur. Disse funksjonene gjør karbondioksid til en såkalt klimagass. Etter vanndamp utgjør karbondioksid den andre store klimagassen i forhold til sin mengdeandel i atmosfæren, selv om den spesifikke virkningen av metan og ozon er høyere. Alle klimagasser sammen øker den gjennomsnittlige temperaturen på jordoverflaten på grunn av den naturlige drivhuseffekten fra cirka -18 °C til +15 °C. Karbondioksid har en relativt stor andel av den samlede effekten og dermed bidrar dermed til å gjøre klimaet vennlig for livet på jorden.Atmosfærens innhold av karbondioksid har vært utsatt for store svingninger i løpet av historien, noe som har hatt ulike biologiske, kjemiske og fysiske årsaker. For 500 millioner år siden var karbondioksidkonsentrasjonen omtrent 20 ganger høyere enn dagens nivå. Verdien sank jevnt og var i jura om lag fire til fem ganger sin nåværende verdi. Siden da har verdien falt videre. I alle fall de siste 800 000 år har andelen alltid vært under 300 ppm. Konsentrasjon av karbondioksid i den siste 10 000 år har holdt seg relativt stabilt på 300 ppm. Balansen i karbonkretsløpet har dermed vært i likevekt over dette tidsrommet. Fra begynnelsen av den industrielle revolusjon på 1800-tallet har karbondioksidinnholdet i atmosfæren økt. Den nåværende konsentrasjonen er trolig den høyeste på flere hundre tusen år.I perioden 1960 til 2005 økte karbondioksidinnholdet med 1,4 ppm per år.
+
+De antropogene, altså menneskeskapte, utslipp av karbondioksid, er cirka 36,3 gigatonn per år. Dette utgjør bare en liten andel av de fra naturlige kilder av karbondioksid som er på cirka 550 gigatonn per år. Men fordi det naturlige karbonsluket opptar samme mengde CO2 hold karbondioksidkonsentrasjonen seg relativt konstant før industrialiseringen. Den ekstra karbondioksiden er omtrent halvparten av biosfærens og av verdenshavenes (som fører til forsuring) opptak, slik at de nå absorberer mer karbondioksid enn de avgir. Den andre halvparten av karbondioksidutslippene forblir i atmosfæren, hvor det fører til målbar økning i konsentrasjonen. Denne kurven som viser økt karbondioksidkonsentrasjon er beskrevet av Charles David Keeling, og den såkalte Keeling-kurven er oppkalt etter ham. Denne ble første gang vist i begynnelsen av 1960-årene.
+Det er generelt akseptert at det er en statistisk signifikant menneskeskapt innflytelse på klimaet, som er delvis ansvarlig for den global oppvarming. Denne oppvarmingen har svært sannsynlig for en stor del sin årsak i økningen i drivhuseffekten på grunn av utslipp av klimagasser. Det karbondioksid som produseres i tillegg har en andel på cirka 60 % av drivhuseffekten.I mars 2015 ble det i henhold til National Oceanic and Atmospheric Administration (NOAA) for første gang målt mer enn 400 ppm CO2 i jordens atmosfære.
+
+
+=== Forekomst i verdenshavene ===
+Vannet i havet inneholder karbondioksid i oppløst form, så vel som karbondioksid i likevekt med hydrogenkarbonater og karbonater. Den oppløste mengde varierer med årstidene, fordi den avhenger av temperaturen og saltinnholdet i vannet: Kaldt vann oppløser mer karbondioksid enn varmt. Fordi kaldt vann har større tetthet, synker karbondioksidinnholdet i havene på dypere lag. Bare ved trykk over 300 bar og temperaturer over 120 °C (393 K) er situasjonen annerledes, som i nærvær av dyp med geotermiske skorsteiner.I havet er det omtrent 50 ganger mer karbon enn inneholdet i atmosfæren. Havet fungerer som en stort karbonsluk og absorberer cirka en tredjedel av den frigitte mengden karbondioksid fra menneskelig aktivitet. I de øvre lag av verdenshavene er karbondioksid delvis bundet av fotosyntesen. Med ved økende oppløsning av karbondioksid senkes alkaliteten til saltvann, og det er fryktet at dette vil påvirke dannelsen av skjell hos organismer. På den annen side er det bevis for at økt karbondioksid konsentrasjon stimulerer noen arter til økt skjellproduksjon.
+
+
+=== Forekomst i ferskvann ===
+Gjennom spesielle geologiske forhold kan ferskvann oppta betydelige mengder med karbondioksid, som vann fra mineralkilder eller i innsjøer i utdødde vulkaner, kalt Maarer. I sjeldne tilfeller inntreffer naturkatastrofer på grunn karbondioksid. I 1986 inntraff en katastrofe på Lake Nyos i Kamerun. Innsjøen ligger i et gammelt vulkankrater i Oku-vulkansk område. Et magmakammer strømmet ut i innsjøen, og karbondioksid ble oppløst i vannet slik at det ble mettet. Sannsynligvis forårsaket et jordras at store mengder karbondioksid fra innsjøen ble sluppet ut, noe som drepte omkring 1700 innbyggere og 3500 dyr i omkringliggende landsbyer. I 1984 inntraff en liknende katastrofe ved Lake Monoun der vannet ble mettet med karbondioksid på grunn av en slik hendelse. Under denne spontane frigjøringen av karbondioksid omkom 37 mennesker. Dessuten har Kivusjøen i Sentral-Afrika høye konsentrasjoner av oppløste gasser på dypt vann. Det er anslått at rundt 250 km³ karbondioksid er oppløst i denne innsjøen.
+
+
+=== Forekomst utenom jorden ===
+
+Atmosfæren på Venus består av cirka 96,5 % karbondioksid, og har en massen på cirka 90 ganger Jordens atmosfære, med et trykk på 90 bar. Det høye karbondioksidinnholdet er en årsak til den sterke drivhuseffekten på planeten. Videre i forhold til jorden har den gjennomsnittlig en 41 millioner kilometer kortere avstand fra solen, noe som resulterer i en overflatetemperatur på cirka 480 °C. Karbondioksid er også den viktigste delen av atmosfære på Mars, som utgjør rundt 95 % av innholdet. På polene til Mars er den atmosfærisk delen av karbondioksid delvis bundet som tørris. Det atmosfæriske trykk er svært lavt, bare cirka syv millibar, noe som fører til at dens drivhuseffekten bare gir en økning av temperaturen på om lag 5 °C. Dette til tross for det høye karbondioksidinnhold. Atmosfærene til de ytre planetene i solsystemet, samt til deres satellitter, inneholder også karbondioksid. Opprinnelsen til denne er knyttet til konsekvensene av kometer som Shoemaker–Levy 9 og kosmisk støv. Med instrumenter som Hubble-teleskopet har NASA funet eksoplaneter som HD 189733 b med karbondioksid.Karbondioksid er funnet både i det interstellare rom, i den protoplanetarisk skive og rundt unge stjerner. Dannelsen skjer ved overflatereaksjoner med karbonmonoksid og oksygen til vann- og ispartikler ved temperaturer rundt -123 °C (150 K). Ved fordampning av isen frigjøres karbondioksid. I det frie rommet mellom, er konsentrasjonen forholdsvis lav, ettersom vann og karbonmonoksid er dannet ved reaksjoner med atomært og molekylært hydrogen.
+
+
+== Utvinning og produksjon ==
+Karbondioksid som produseres ved forbrenning av karbonholdige brennstoffer, spesielt fossile energikilder. Totalt blir omtrent 36 milliarder tonn karbondioksid per år frigjort i verden, og dette blir sluppet ut i atmosfæren. Prosesser for karbonfangst og -lagring er for tiden (2016) i begynnelsen av sin utvikling, og er ennå ikke klar for serieproduksjon. Metodenes effektivitet og lønnsomhet, spesielt i sammenheng med bærekraftige energisystemer, blir vurdert kritisk.Karbondioksid dannes ved reaksjon mellom karbon og oksygen:
+
+  
+    
+      
+        
+          C
+           
+          +
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+           
+          C
+          
+            O
+            
+              2
+            
+          
+           
+          ;
+          
+          Δ
+        
+        H
+        =
+        −
+        394
+        
+        
+          k
+          J
+          
+            /
+          
+          m
+          o
+          l
+        
+      
+    
+    {\displaystyle \mathrm {C\ +\ O_{2}\longrightarrow \ CO_{2}\ ;\quad \Delta } H=-394\;\mathrm {kJ/mol} }
+  Teknisk sett er karbondioksid generert når en brenner koks med luftoverskudd. Ved kullforgassing og dampreforming av naturgass, er karbondioksid et produkt av vann-gass-skiftreaksjonen i syntesegassproduksjon:
+
+  
+    
+      
+        
+          C
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          
+          
+            
+              ←
+              →
+            
+          
+          
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+        
+        
+        Δ
+        
+          H
+          
+            R
+             
+            298
+          
+          
+            0
+          
+        
+        =
+        −
+        41
+        
+          ,
+        
+        2
+         
+        
+          k
+          J
+          
+            /
+          
+          m
+          o
+          l
+        
+      
+    
+    {\displaystyle \mathrm {CO+H_{2}O\;{\overrightarrow {\leftarrow }}\;CO_{2}+H_{2}} \qquad \Delta H_{R\ 298}^{0}=-41{,}2\ \mathrm {kJ/mol} }
+  For anvendelse i Haber–Bosch-prosessen og metanolproduksjon blir syntesegassen vasket, for eksempel ved rectisolmetoden, slik at karbondioksid blir produsert i store mengder i meget ren form. Karbondioksid oppstår som et biprodukt ved kalkbrenning. Ved påfølgende rensing ved dannelsen av kaliumkarbonat til bikarbonat og påfølgende utslipp ved oppvarming, blir om lag 530 millioner tonn gjenvunnet hvert år.
+For anvendelse i et laboratorium kan karbondioksid frigjøres fra kalsiumkarbonat og saltsyre, for eksempel i et Kipp's apparat. Enheten var tidligere i mye brukt i laboratorier, men metoden blir nå sjelden brukt, siden karbondioksid er tilgjengelig i gassflasker eller som tørris.
+
+
+== Egenskaper ==
+
+
+=== Fysiske egenskaper ===
+Karbondioksid opptrer ved normalt trykk som et fast stoff ved temperaturer under -78,5 °C. Dette stoffet kalles tørris. Hvis dette blir oppvarmet vil det ikke smelte, men blir sublimert direkte til gassform.
+Trippelpunkt der de tre fasene av faststoff, væske og gass finnes ved termodynamisk likevekt, er ved en temperatur på -56,6 °C og et trykk på 5,19 bar.Den kritiske temperaturen er 31,0 °C, det kritiske trykket 73,8 bar og den kritiske tettheten 0,468 g/cm³. Under den kritiske temperaturen kan karbondioksid komprimeres ved trykkøkning til en fargeløs væske. Ved romtemperatur kreves et trykk på cirka 60 bar for at CO2 skal være i væskeform.
+Fast karbondioksid krystalliserer i kubisk krystallstruktur i romgruppe Pa-3 (romgruppe nummer 205) med gitterparameteren a = 562,4 pm.Karbondioksid absorberer elektromagnetisk stråling hovedsakelig i regionen av spektret av infrarød, noe som gir molekylær vibrasjoner. Dette er selve årsaken til stoffets egenskap som klimagass.
+Dens løselighet i vann er forholdsvis høy. Ved 20 °C under normalt trykk er metning i likevekt med ren karbondioksid ved 1688 mg/l. For sammenligning er løseligheten av oksygen eller nitrogen som følger: I rent oksygen er metningen allerede nådd ved 44 mg/l og ved ren nitrogen ved 19mg/l. I standard tilstand er tetthet av karbondioksid 1,98 kg/m³.
+
+
+=== Molekylære egenskaper ===
+Karbondioksidmolekylet er lineært, det vil si at alle tre atomer ligge på en rett linje. Karbonet er bundet til to oksygenatomer med dobbeltbindinger, begge oksygenatomene har to frie elektronpar. Karbon-oksygen avstanden er 116,32 pm Karbon-oksygenbindinger er polarisert på grunn av de forskjellige elektronegativitetene til karbon og oksygen. Imidlertid vil de elektriske dipolmomenter oppheve hverandre utover på grunn av symmetri, slik at molekylet ikke har noe elektrisk dipolmoment.
+
+
+=== Kjemiske egenskaper ===
+
+Oppløst i vann danner karbondioksid karbonsyre (H2CO3), hvor mer enn 99 % av karbondioksidet bare er fysisk oppløst. Derfor er den vandige løsningen svakt sur. Karbonsyre som sådan, og den oppløste karbondioksid, er i en likevekt med deres dissosiative stoffer hydrogenkarbonat (bikarbonat, HCO3-) og karbonat (CO32-), som er i et pH-verdi avhengig forhold til hverandre. I vann ligger denne likevekten hovedsakelig mot siden av karbondioksid og bare i liten grad dannes det hydrogenkarbonationer.
+Dersom oksoniumioner (H3O3) som er dannet i løpet av dissosiasjon blir oppfanget ved tilsetning av en alkalisk oppløsning med hydroksidioner (OH-), idet mengdeforholdet skifter i favør av karbonater.
+
+  
+    
+      
+        
+          
+            C
+            
+              O
+              
+                2
+              
+            
+            +
+            2
+             
+            
+              H
+              
+                2
+              
+            
+            O
+            ⇄
+            H
+            C
+            
+              O
+              
+                3
+              
+              
+                −
+              
+            
+            +
+            
+              H
+              
+                3
+              
+            
+            
+              O
+              
+                +
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\rm {CO_{2}+2\ H_{2}O\rightleftarrows HCO_{3}^{-}+H_{3}O^{+}}}}
+  
+
+  
+    
+      
+        
+          
+            H
+            C
+            
+              O
+              
+                3
+              
+              
+                −
+              
+            
+            +
+            
+              H
+              
+                2
+              
+            
+            O
+            ⇄
+            C
+            
+              O
+              
+                3
+              
+              
+                2
+                −
+              
+            
+            +
+            
+              H
+              
+                3
+              
+            
+            
+              O
+              
+                +
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\rm {HCO_{3}^{-}+H_{2}O\rightleftarrows CO_{3}^{2-}+H_{3}O^{+}}}}
+  Karbondioksid er en meget svak oksidasjonsmiddel. Uedle metaller som for eksempel magnesium fungerer som et sterk reduksjonsmiddel, reagere i med karbondioksid til å danne karbon og metalloksider:
+
+  
+    
+      
+        
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+           
+          M
+          g
+          ⟶
+           
+          C
+          +
+          2
+           
+          M
+          g
+          O
+        
+      
+    
+    {\displaystyle \mathrm {CO_{2}+2\ Mg\longrightarrow \ C+2\ MgO} }
+  På grunn av den positive partialladningen til karbon reagerer karbondioksid som elektrofil i karboksylering av karbon nukleofiler slik som metall-alkylider eller alkylmagnesium for å danne en karbon-karbon-binding. Med karbondioksid reagerer med fenolsyre med reaksjonsstoffet fenolkarboksylsyrer.
+
+
+== Anvendelse ==
+Karbondioksid brukes i industrien til mange forskjellige formål. Det er billig, ikke-brennbart og anvendes som komprimert gass, i flytende form, som tørris eller i superkritisk fase. Den kjemiske industrien anvender karbondioksid som et råmateriale for kjemiske synteser.
+
+
+=== Bruk i næringsmiddelteknologi ===
+
+I drikker som inneholdt karbondioksid stimuleres reseptorceller i munnen, noe som har en forfriskende effekt. For drikker som øl eller champagne kommer karbondioksid fra gjæringsprosessen. I andre drikker som limonade eller sodavann blir CO2 kunstig tilsatt, eller det benyttes naturlig mineralvann som inneholder CO2. Ved produksjon av slike varer blir karbondioksid pumpet inn i drikken under høyt trykk. Der cirka 0,2 % av vannet reagerer med karbondioksid og danner karbonsyre, mens den største del går i oppløsning som en gass i vannet. Som tilsetningsstoff kalles karbondioksid for E 290.Gjær utvikler ved gjæring av sukker karbondioksid som benyttes som hevemiddel ved fremstilling av deig. Bakepulver er en blanding av natriumbikarbonat og et surt salt er også brukt som et hevemiddel, men gir ikke karbondioksid.Ved produksjon av vin brukes tørris som kjølemiddel for å avkjøle nylig plukket druer uten fortynning med vann, noe som vil kunne skape spontan gjæring. Vindyrkerne i Beaujolais i Frankrike bruker kullsyregjæring for å produsere "Beaujolais Primeur .
+Ved lagring av frukt og grønnsaker spiller temperaturen en viktig rolle, men det samme gjør også sammensetningen av atmosfæren der disse produktene oppbevares. Hos fruktprodusenter og butikker kan epler som lagres i kontrollerte omgivelser være holdbare i flere tiår. Kunnskapen om at moden frukt forbruker oksygen og avgir karbondioksid, og at en atmosfære uten oksygen vil føre til at modningen stopper, går tilbake til begynnelsen av 1800-tallet. På 1930-tallet ble det for første gang konstruert et lager der innholdet av oksygen og karbondioksid i luften kontrolleres, dette ble utprøvd i Storbritannia. Den økonomiske betydningen av nøyaktig kontrollerte atmosfærer for fruktlagring er stor. Med tilsetning av karbondioksid til atmosfæren kan holdbarheten forlenges med flere måneder, dermed blir en mindre avhengigheten av import fra varmere strøk om vinteren og våren. På den annen side kan uriktig tilsetning av karbondioksid føre til feil i fruktkjøttet, dermed kan et helt lager eller en containertransport bli verdiløs. De biokjemiske prosessene som fører til den forsinkede modning av frukt er ennå ikke forstått. For tiden er det antatt at både bremsing av modningsprosessen og dannelsen av forskjellige feil forårsaket av stressresponser blir styrt på cellenivå.Frukt, grønnsaker og sopper som i detaljhandel blir pakket i folie, blir gjerne utstyrt med en beskyttende atmosfære, dette for å forlenge holdbarheten. Dette gir også en beskyttelse av friskheten på vei til forbrukeren. I dag blir også kjøtt, fisk og sjømat, pasta, bakervarer og meieriprodukter solgt i slik forpakning. Typiske nivåer er 20 % karbondioksid for storfekjøtt, 50 % for storfekjøtt, svinekjøtt og pasta, 60 % for bakervarer og hele 80 % for fisk. En emballasje med bare karbondioksid unngås. Dette fordi det ville kunne føre til utviklingen av sykdomsfremkallende anaerobe bakterier, og i mange tilfeller påvirke farge og smak på produktene. Bestemmelse av optimal beskyttende atmosfære for et produkt er gjenstand for intens forskning i matindustrien.Superkritisk karbondioksid har høy løselighet for upolare stoffer og kan erstatte giftige organiske Løsemidler. Det brukes som ekstraksjonsmiddel, for eksempel for utvinning av naturstoffer som koffein ved fremstilling av koffeinfri kaffe.
+
+
+=== Teknisk anvendelse ===
+Karbondioksid anvendes ved brannslokking på grunn av sin egenskap til å fortrenge oksygen, spesielt i brannslokningsapparater og automatiske slukkeanlegg. CO2-brannslukningssystemer anvendes for å beskytte siloer eller lagerrom for brannfarlige væsker ved å fylle hele rommet med karbondioksid. Dette har imidlertid ført til gjentatte ulykker, med kvelning til følge. En studie av US Environmental Protection Agency (EPA) raporterte om 51 ulykker i tidsrommet 1975–1997 med 72 dødsfall og 145 skadete på grunn av slike anlegg.Karbondioksid brukes som kuldemedium i bilbransjen og stasjonære klimaanlegg, som industriell kjøling, supermarkeder og transportkjøling og drikkemaskiner. Den har en stor volummessig kjølekapasitet og dermed en høy effektivitet for et gitt volum. Karbondioksid har en lav miljøbelastning, ettersom det globale oppvarmingspotensialet bare er en brøkdel av de vanlige kjølemedier som brukes i dag. Det har heler ingen ozonnedbrytende potensial. Karbondioksid blir anvendt i sentralvarmesystemer og oppvarming i kjøretøyer. I gasskjølte atomreaktorer av type som Advanced Gas-cooled Reactor blir karbondioksid brukt som kjølemiddel.
+Karbondioksid blir anvendt som en inertgass innenfor sveiseteknologi, enten i ren form eller som et tilsetningsstoff sammen med argon eller helium. Ved høye temperaturer er CO2 termodynamisk ustabil derfor er det ikke er referert til som lite reaksjonsvillig, i stedet blir det da omtalt som en aktiv gass.
+
+I en såkalt karbondioksidlaser strømmer kontinuerlig en lasergass gjennom utladningsrøret, denne består av en blanding av nitrogen, helium og karbondioksid. I tillegg til den vanlige faste laseren, er det en av de mest bruket industrielt gasslasere med ytelse mellom 10 W og 20 kW. Virkningsgraden er omtrent 10 til 20 %.I flytende form omsettes karbondioksid i gassflasker. Det finnes to typer: flasker med stigerør for uttak av flytende karbondioksid og flaske uten stigerør for uttak av karbondioksid i gassform. Begge må være i vertikal posisjon ved transport. Flasken uten stigerør anvendes med trykkreduksjonsventil, mens den med stigerør hovedsakelig drives uten. Så lenge det fremdeles er flytende karbondioksid i trykkflasken, er det indre trykket bare avhengig av temperaturen. En måling av fyllingsnivået er derfor bare mulig via veiing for begge flasketypene. Kapasiteten for uttak av gass er begrenset av hvor mye varme som kan absorberes fra omgivelsene, den flytende karbondioksiden må nemlig fordampe i flasken for å gjenoppbygge det trykk som tilsvarer gjeldende temperatur.
+Sublimasjon av tørris frembringer en hvit tåke fra den kalde karbondioksid-luftblanding, samt kondensasjon av luftfuktigheten i omgivelsene. Dette gir visuelle effekter som blir brukt i teater og konserter. I dag er det vanlig med tåkekjøling som tilleggsutstyr for røykmaskiner, som drives med flytende karbondioksid.I økende grad blir karbondioksid anvendt i forbindelse med automatiserte prosesser for sandblåsing der overflater med spesielt høy renhet etterstrebes. Med sin kombinasjon av mekaniske, termiske og kjemiske egenskaper, kan «karbondioksid-snø», for eksempel oppløse og fjerne forskjellige typer av overflateurenheter uten gjenværende rester.Superkritisk karbondioksid er et løsemiddel som brukes til rengjøring og avfetting, for eksempel wafere i halvlederindustrien og tekstiler i renserier. Karbondioksid i denne tilstanden benyttes også som et reaksjonsmedium for produksjon av finkjemikalier. Disse brukes for eksempel til fremstilling av smakstilsetninger, fordi isolerte enzymer ofte forblir aktive og ingen rester av oppløsningsmidler forblir i produktene, i motsetning til organiske oppløsningsmidler.
+I tertiære oljeutvinning blir superkritisk karbondioksid brukt til fylling av oljereservoar for å rense oljen fra større dyp til overflaten.
+
+
+=== Bruk som kjemisk råstoff ===
+I den kjemiske industri er karbondioksid brukt ved omsetning av ammoniakk, spesielt ved fremstilling av urea. I det første trinnet reagerer ammoniakk og karbondioksid til ammoniumkarbonat, som i det andre trinn reagerer videre under dannelse av urea og vann:
+
+  
+    
+      
+        
+          2
+           
+          N
+          
+            H
+            
+              3
+            
+          
+          +
+          C
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          [
+          
+            H
+            
+              2
+            
+          
+          N
+          
+            −
+          
+          C
+          O
+          
+            −
+          
+          O
+          ]
+          N
+          
+            H
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ NH_{3}+CO_{2}\longrightarrow \lbrack H_{2}N{-}CO{-}O\rbrack NH_{4}} }
+  
+  
+    
+      
+        
+          [
+          
+            H
+            
+              2
+            
+          
+          N
+          
+            −
+          
+          C
+          O
+          
+            −
+          
+          O
+          ]
+          N
+          
+            H
+            
+              4
+            
+          
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          N
+          
+            −
+          
+          C
+          O
+          
+            −
+          
+          N
+          
+            H
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {\lbrack H_{2}N{-}CO{-}O\rbrack NH_{4}\longrightarrow H_{2}N{-}CO{-}NH_{2}+H_{2}O} }
+  Ved reduksjon med hydrogen blir formamide dannet. Vider vil reaksjon med aminer, så som Dimetylamin blir dimetylformamid dannet.Ved å la karbondioksid reagere med natriumfenolat oppnås gjennom Kolbe–Schmitt-reaksjonen salisylsyre.
+Ved reaksjon med etylen blir etylen fremstilt. Dette skjer ved den såkalte OMEGA-Prosessen meget selektivt med vann for å gi til glykol.
+Ved reaksjon med karbondioksid med en Grignard-forbindelse fører til dannelse av karbonsyre, for eksempel:
+
+Telomerisering av karbondioksid med to molekyler av 1,3-butadien under homogene Palladium-katalyse fører til dannelse av finkjemikalier som laktoner under milde reaksjonsbetingelser.
+Soda (natriumkarbonat) blir fremstilt i solvayprosessen av karbondioksid. Noen metallkarbonater slik som cerusitt, blir produsert for eksempel ved reaksjon mellom metallhydroksider og karbondioksid. Slike stoffer blir brukt som fargestoff.
+På et høyt oljepris og lav strømpris, kan det i fremtiden være lønnsomt med utvinning av metan via Sabatier-prosessen fra karbon fra karbondioksid og hydrogen ved elektrolyse, for eksempel via energiproduksjon fra vindkraftverker. Ellers vil videre bruk av karbondioksid bli uøkonomisk av termodynamiske grunner.
+
+
+=== Resirkulering av karbondioksid ===
+
+I tillegg til karbonfangst og -lagring går forskningen også i retning av å konvertere karbondioksid som dannes under forbrenning av fossile brensler til nyttbare forbindelser, og om mulig, dannelse av energibærere på nytt. For eksempel kan reduksjonsforbindelser slik som metanol og maursyre allerede fremstilles på denne måten.Tilsvarende er syntese av urea en mulighet. Et fransk forskerteam undersøkte organisk katalyse, ved konvertering til formamid eller dens derivater. Sidens energi til å drive prosessen må tilføres, er ikke disse metodene egnet for økonomisk produksjon av energi. Forskere ved RWTH Aachen har utviklet en homogen katalytisk prosess for fremstilling av metanol fra karbondioksid og hydrogen under trykk med en spesiell ruthenium-fosfin-kompleks til stede i katalysatoren og reagenser i en løsning. Likeledes er en kontinuerlig fremgangsmåte for fremstilling av maursyre utviklet med et organometallisk ruthenium-kompleks, karakterisert ved at karbondioksid innehar en dobbelrolle både som reaktant og i en superkritisk form i den ekstraherende fase der maursyren dannes. I en annen variant som er utviklet av en spansk forskningsgruppe, kan karbondioksid omdannes via en iridium-katalysert hydrosilyleringsreaksjon og fanges opp i form av silyl-formater. Fra dette kan maursyre lett skilles ut. Denne reaksjon som allerede har blitt realisert på i mindre skala, foregår under meget milde reaksjonsbetingelser, er meget selektiv og har høy omsetning.I Niederaussem kraftverk utforske RWE og Brain AG hvordan mikroorganismer kan konvertere CO2.
+
+
+=== Andre bruksområder ===
+Karbondioksid var opp til 1950-årene, vanlig i brukt som bedøvelse for mennesker, spesielt i USA, og ble den gangen vurdert som svært tilfredsstillende. Etter dette er mer effektive anestetikum innført.
+Imidlertid brukes fortsatt en metode med bedøving med karbondioksid før slakting av dyr. Griser blir ført ned i grupper via en heis i en grop med en atmosfære som inneholder minst 80 % karbondioksid, hvor de mister bevisstheten. Denne prosedyren er kontroversielt og intensiv innsats gjøres for å forbedre metodene ut fra et dyrevernperspektiv. Fisk blir lamslått ved å innføre gassformig karbondioksid eller ved å tilsette kullsyre i vannet. Metoden med å bedøve slaktedyr med karbondioksid er underlagt ulike restriksjoner i forskjellige land, for eksempel bestemmelser for hvilke dyr som tillates bedøvd på denne måten.
+Karbondioksid blir anvendt som avføringsmiddel i form av stikkpiller. Ved utvikling av natriumdihydrogenfosfat og natriumbikarbonat under oppløsning av stikkpillen blir karbondioksid frigjort og ekspanderer i tarmen, noe som i sin tur utløser avføringsrefleksen.Karbondioksid virker som et gjødsel, og brukes som det i drivhus. Grunnen til dette er mangelen på karbondioksid forårsaket av plantenes fotosyntese som forbruker CO2. Ved utilstrekkelig påfylling av frisk luft, spesielt om vinteren når ventilasjonen er lukket kan dette bli et problem. Karbondioksidet blir enten innført direkte som en ren gass eller som et forbrenningsprodukt av propan eller naturgass. Dette resulterer i en kobling av gjødsling og oppvarming. Den mulige økning av utbytte avhenger av omfanget av mangel på karbondioksid og i hvilken grad planter er utsatt for lys. Karbondioksid blir anvendt i akvarier som et gjødsel for vannplanter. Ved tilførsel av organisk materiale øker karbondioksidinnholdet i vannet ved åndedrett på bekostning av oksygeninnholdet.CO2 anvendes for å fange blodsugende insekter og smittebærere. Disse bruker karbondioksid som forekommer i pusten til verten til å orientere seg etter. Det blir frigjort fra tørris, fra gassflasker eller fra forbrenning av propan eller butan. Dette lokker insekter i nærheten til å bli dratt inn i et eget innsug.
+
+
+== Fysiologiske effekter og farer ==
+
+Karbondioksid har skadevirkinger for dyr og mennesker om konsentrasjonen i innåndingsluften blir for stor. Den skadelige virkning er ikke bare basert på fortrengning av oksygenet i luften. EN-standarden EN 13779:2007 deler romluften inne i fire kvaliteter, avhengig av karbondioksidkonsentrasjonen: Verdier under 800 ppm regnes som god kvalitet, som moderat kvalitet regnes verdier mellom 800 og 1000 ppm (0,08 til 0,1 Vol %), mens verdier mellom 1000 og 1400 ppm anses som medium. For verdier over 1400 ppm er luftkvaliteten kategorisert som lav. Til sammenligning er det globale gjennomsnittet av volumandel CO2 i luften cirka 400 ppm, men det varierer regionalt, og er sterkt avhengig av tid og sesongvariasjoner. Terskel grenseverdi for daglig eksponering i åtte timer per dag er 0,5 %. Ved en konsentrasjon på 1,5 %, øker åndedrettens minuttvolum med mer enn 40 %.
+Ved høy konsentrasjon av karbondioksid inntrer reduksjon, eller i verste fall opphør av de autonome reflekser som styrer åndedrettene, først inntreffer hyperventilering og til slutt apné. Fra cirka 5 % karbondioksid i innåndingsluften oppstår hodepine og svimmelhet, ved høyere konsentrasjoner akselerert hjertefrekvens (takykardi), det oppstår økt blodtrykk, åndenød og forstyrrelser av bevisstheten, såkalt CO2-narkose. Konsentrasjon av karbondioksid på 8 % fører til døden i løpet av 30 til 60 minutter.På grunn av at høye karbondioksidkonsentrasjoner forekommer i kjellere, siloer, brønner og kloakkummer, oppstår det stadig ulykker når personer oppholder seg slike steder. Gjennom gjæringsprosesser oppstår det betydelige mengder karbondioksid, ved gjæring av for eksempel én liter eplemost oppstår om lag 50 liter gjæringsgass. Ofte blir flere mennesker offer for en gjærgassforgifting fordi hjelperen under et redningsforsøk selv puster inn karbondioksid og bli bevisstløs. Redningen av et offer i situasjoner med høy karbondioksidkonsentrasjon er bare mulig for profesjonelt redningspersonell med uavhengig åndedrettsvern.Hvis tilstrekkelig ventilasjon ikke er tilstede, er naturlige konsentrasjoner av luften ofte formet av naturlig karbondioksidkilder i grotter og gruveganger. For eksempel har den italienske grotten Grotta del Cane (hundegrotten) en karbondioksidkonsentrasjon på cirka 70 %.Karbondioksidkonsentrasjonen i blodet påvirker dets pH-verdi og således har det en indirekte virkning på oksygenbalansen. Bikarbonat-buffersystemet, som er et karbonsyre-hydrogenkarbonat-buffer, utgjør omtrent 50 % av den totale bufferkapasiteten til blodet, som katalyseres av enzymet karbonsyreanhydrase.
+
+  
+    
+      
+        
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          ⇌
+           
+          
+            H
+            
+              3
+            
+          
+          
+            O
+            
+              +
+            
+          
+          +
+          H
+          C
+          
+            O
+            
+              3
+            
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {CO_{2}+2\ H_{2}O\ \rightleftharpoons \ H_{3}O^{+}+HCO_{3}^{-}} }
+  Ved lavere pH-verdien vil dets oksygenbindendekapasitet avta. Ved det samme oksygeninnholdet i luften transport hemoglobin mindre oksygen. De såkalte bohreffekten og haldaneeffekten beskriver disse situasjonene. En høy konsentrasjon av karbondioksid er også skadelig for planter. Som en indikatorplante brukes som mais, etter seks dagers eksponering med et karbondioksidnivå på 10 000 ppm får striper på bladene.
+
+
+== Økologiske betydningen ==
+
+Planter og fotosyntetiske bakterier absorbere karbondioksid fra atmosfæren og omdanner den ved fotosyntese under påvirkning av lys og absorpsjon av vann, til i karbohydrater som glukose. Denne prosessen skjer frittgjør oksygen fra dekomposisjon av vann. De resulterende karbohydrater tjener som energikilder og byggemateriale for alle andre biokjemiske stoffer som polysakkarid, nukleinsyreer og proteiner. Karbondioksid gir dermed råstoff for dannelsen av all biomasse i primærproduksjon til økosystemene.Nedbrytning av biomasse etter celleånding er en reversering av prosessen med fotosyntese, med dannelse av karbondioksid og forbruk av oksygen. Som et eksempel har utåndingsluften fra et menneske et CO2-innhold på cirka 4 %. Alle organismer i et økosystem ånder kontinuerlig, og er dermed avhengig av fotosyntesen som igjen er avhengig av tilgjengeligheten av lys. Dette fører til syklisk økning og reduksjon av karbondioksid i daglige og sesongmessige rytmer, avhengig av forskjellige lysintensitet.
+I vann varierer også karbondioksidkonsentrasjonen i henhold til døgn- og årsrytmer. Karbondioksid og andre oppløste karbondsyrestoffer er i kjemisk likevekt, dette bestemmer det fremherskende pH-nivået i vannet i betydelig grad. Det kjemiske likevektsnivået av dissosiasjonen av ammonium/ammoniakk, nitritt/salpetersyrling, sulfid/hydrogensulfid er igjen avhengig av pH-nivået. Sammensetningen av disse stoffene avgjør giftigheten for organismene som lever i vann.Dersom karbondioksid er oppbrukt ved fotosyntese i vannet, noe som indikeres av en pH-verdi nær 8,3, er noen arter av alger og vannplanter i stand til å utvinne den ønskede karbondioksid fra oppløste hydrogenkarbonat, slik at hydroksidioner frigjøres og gjør pH-nivået mer alkalisk. I næringsrike vann som karpedammer kan pH-verdien stige til 12, med tilhørende helsemessige konsekvenser for fisken, for eksempel kjertelnekrose hos karpefisk.Forskere ved Senckenberg Biodiversität und Klima Forschungszentrum hadde i 2012 en felles studie med andre institusjoner, beregnet at sporeplanter, altså lag av lav, alger og mose ved siden av nitrogen, binder cirka 14 milliarder tonn karbondioksid årlig. De binder like mye karbondioksid som det slippes årlig ut av skogbranner og brenning av biomasse over hele verden. Det er imidlertid ikke mulig å bekjempe klimaendringer ved hjelp av lag av sporeplanter, siden denne to-dimensjonale vegetasjonen lagrer klimagassen karbondioksid bare for noen få år.En betydning lagring og frigjøring av karbondioksid skjer i jord. Hvor sterk frigjøringen av organisk bundet karbon fra jord er påvirket av de respektive miljøforhold og andre faktorer. Dette er for tiden i stor grad ukjent. Frigjøringen er imidlertid akselerert ved oppvarming, noe som har vært påvist i nyere studier og som kan ha en effekt på klimaet. Ved å indikere størrelsen av CO2-utslippene kan ulike prosesser bli sammenlignbare rent energimessig og økologisk. Disse vil bli konvertert til utslipp av karbondioksid fra fossile brensler.
+
+
+== Deteksjon og kvantifisering ==
+En enkel påvisning av karbondioksid er oppnådd med en vandig kalsiumhydroksidoppløsning. For dette formål blir gassen som skal undersøkes innført i oppløsningen. Inneholder gassen karbondioksid, reagerer den med kalsiumhydroksid til vann og kalsium (kalk), som utfelles som et hvitt, fast stoff og oppløsningen blir uklar.
+
+  
+    
+      
+        
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          C
+          a
+          (
+          O
+          H
+          
+            )
+            
+              2
+            
+          
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          C
+          a
+          C
+          
+            O
+            
+              3
+            
+          
+          ↓
+        
+      
+    
+    {\displaystyle \mathrm {CO_{2}+Ca(OH)_{2}\longrightarrow H_{2}O+CaCO_{3}\downarrow } }
+  Med barytvann, en oppløsning i vann med bariumhydroksid blir testen mer sensitive, ettersom bariumkarbonat er mindre oppløselig enn kalsiumkarbonat.
+
+  
+    
+      
+        
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          B
+          a
+          (
+          O
+          H
+          
+            )
+            
+              2
+            
+          
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          B
+          a
+          C
+          
+            O
+            
+              3
+            
+          
+          ↓
+        
+      
+    
+    {\displaystyle \mathrm {CO_{2}+Ba(OH)_{2}\longrightarrow H_{2}O+BaCO_{3}\downarrow } }
+  I vandig oppløsning er karbondioksid titrering med 0,1 N Natronlut til pH-verdien 8,3, fargeforskyvningen av indikatoren fenolftalein. Målingen av syrebindende kapasitet, pH-nivå og elektriske ledningsevne, eller ionestyrken tillater beregning av karbondioksidinnholdet fra disse parameterne som følge av dissosiasjonlikevekt av karbonsyre.
+Severinghaus-elektroden er en pH-elektrode med en bufferløsning av natrium, bestemmer karbondioksidkonsentrasjonen av en løsning ved å måle pH-forandring.
+
+  
+    
+      
+        
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          ⇌
+           
+          
+            H
+            
+              2
+            
+          
+          C
+          
+            O
+            
+              3
+            
+          
+          ⇌
+           
+          H
+          C
+          
+            O
+            
+              3
+            
+            
+              −
+            
+          
+          +
+          
+            H
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {CO_{2}+H_{2}O\ \rightleftharpoons \ H_{2}CO_{3}\rightleftharpoons \ HCO_{3}^{-}+H^{+}} }
+  Karbondioksid kan etter infrarød- eller Raman-spektroskopi, hvorved de asymmetriske strekkervibrasjonene samt vippevibrasjoner er infrarød-aktive, mens det symmetriske strekkevibrasjonen er Raman-aktivt ved et bølgetall på 1480 cm−1 Raman-aktiv. Instrumentet som brukes til dette kalles NDIR-sensor (non-dispersive infrared sensor).
+
+
+== Referanser ==
+
+
+== Litteratur ==
+Hans-Otto Pörtner: Auswirkungen von CO2-Eintrag und Temperaturerhöhung auf die marine Biosphäre. (PDF; 1,3 MB)
+Jens Soentgen, Armin Reller: CO2 – Lebenselixier und Klimakiller. Oekom-Verlag, München 2009, ISBN 978-3-86581-118-9.
+James Newton Butler: Carbon Dioxide Equilibria and Their Applications. Lewis Publishers, 1991, ISBN 0-87371-624-8.
+Martin M. Halmann, Meyer Steinberg: Greenhouse Gas Carbon Dioxide Mitigation: Science and Technology. CRC Press Inc, 1998, ISBN 1-56670-284-4.
+Martin M. Halmann: Chemical Fixation of Carbon Dioxide Methods Recycling: Methods of Recycling CO2 into Useful Products. CRC Press Inc, 1993, ISBN 0-8493-4428-X.
+
+
+== Eksterne lenker ==
+(en) Carbon dioxide – galleri av bilder, video eller lyd på Commons
+
+Carbon Dioxide Information Analysis Center Arkivert 14. august 2011 hos Wayback Machine. U.S. Department of Energy
+Carbon Monitoring for Action (CARMA) – Database med informasjon om karbondioksidutslipp fra 50 000 kraftverk og 4000 energiselskaper over hele verden.

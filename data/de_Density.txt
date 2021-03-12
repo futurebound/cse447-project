@@ -1,0 +1,998 @@
+Die Dichte 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   (Rho), auch Massendichte genannt, ist der Quotient aus der Masse 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   eines Körpers und seinem Volumen 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  :
+
+  
+    
+      
+        ρ
+        =
+        
+          
+            m
+            V
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {m}{V}}}
+  .Sie wird oft in Gramm pro Kubikzentimeter oder in Kilogramm pro Kubikmeter angegeben. Bei flüssigen Körpern ist auch die Einheit Kilogramm pro Liter (= Kilogramm pro Kubikdezimeter) üblich. 
+Die Dichte ist durch das Material des Körpers bestimmt und als intensive Größe unabhängig von seiner Form und Größe.
+Im Allgemeinen dehnen sich Stoffe mit steigender Temperatur aus, wodurch ihre Dichte sinkt. Eine Ausnahme bilden Stoffe mit einer Dichteanomalie wie z. B. Wasser.
+
+
+== Abgrenzung zu anderen Begriffen ==
+Während bei der Dichte die Masse im Verhältnis zum Volumen steht, gibt die Wichte die Gewichtskraft im Verhältnis zum Volumen an, ist also abhängig vom Schwerefeld.
+Die relative Dichte ist das Verhältnis der Dichte zur Dichte eines Normals, also eine dimensionslose Größe.Definiert werden diese Unterschiede in der DIN 1306 Dichte; Begriffe, Angaben. Die Dichte ist eine Quotientengröße.
+
+
+== Bestimmung der Dichte ==
+
+
+=== Dichtebestimmung durch Auftrieb ===
+
+Nach dem Prinzip von Archimedes erfährt ein vollständig in einem Fluid (einer Flüssigkeit oder einem Gas) eingetauchter Körper eine Auftriebskraft, die gleich der Gewichtskraft des Volumens des verdrängten Stoffes ist. Um die zwei Unbekannten Dichte und Volumen zu bestimmen, sind zwei Messungen erforderlich.
+Taucht man einen beliebigen Körper mit dem Volumen 
+  
+    
+      
+        
+          V
+          
+            
+              K
+            
+          
+        
+      
+    
+    {\displaystyle V_{\mathrm {K} }}
+   vollständig in zwei Fluide mit bekannten Dichten 
+  
+    
+      
+        
+          ρ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \rho _{1}}
+   und 
+  
+    
+      
+        
+          ρ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \rho _{2}}
+   ein, ergeben sich resultierende Kräfte 
+  
+    
+      
+        
+          F
+          
+            1
+          
+        
+      
+    
+    {\displaystyle F_{1}}
+   und 
+  
+    
+      
+        
+          F
+          
+            2
+          
+        
+      
+    
+    {\displaystyle F_{2}}
+  , die mittels einer einfachen Waage messbar sind. Die gesuchte Dichte 
+  
+    
+      
+        
+          ρ
+          
+            
+              K
+            
+          
+        
+      
+    
+    {\displaystyle \rho _{\mathrm {K} }}
+   des Körpers lässt sich daraus wie folgt bestimmen:
+Ausgehend von den Formeln für die Gewichtskraft 
+  
+    
+      
+        
+          F
+          
+            
+              G
+            
+          
+        
+      
+    
+    {\displaystyle F_{\mathrm {G} }}
+   des Körpers und die Auftriebskraft 
+  
+    
+      
+        
+          F
+          
+            
+              A
+            
+            i
+          
+        
+      
+    
+    {\displaystyle F_{\mathrm {A} i}}
+   des Körpers in Fluid 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+
+  
+    
+      
+        
+          F
+          
+            
+              G
+            
+          
+        
+        =
+        
+          V
+          
+            
+              K
+            
+          
+        
+        ⋅
+        
+          ρ
+          
+            
+              K
+            
+          
+        
+        ⋅
+        g
+      
+    
+    {\displaystyle F_{\mathrm {G} }=V_{\mathrm {K} }\cdot \rho _{\mathrm {K} }\cdot g}
+  
+
+  
+    
+      
+        
+          F
+          
+            
+              A
+            
+            i
+          
+        
+        =
+        
+          V
+          
+            
+              K
+            
+          
+        
+        ⋅
+        
+          ρ
+          
+            i
+          
+        
+        ⋅
+        g
+      
+    
+    {\displaystyle F_{\mathrm {A} i}=V_{\mathrm {K} }\cdot \rho _{i}\cdot g}
+  mit der Schwerebeschleunigung 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   misst eine Waage für den in Fluid 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   eingetauchten Körper die Kraft
+
+  
+    
+      
+        
+          F
+          
+            i
+          
+        
+        =
+        
+          F
+          
+            
+              G
+            
+          
+        
+        −
+        
+          F
+          
+            
+              A
+            
+            i
+          
+        
+        .
+      
+    
+    {\displaystyle F_{i}=F_{\mathrm {G} }-F_{\mathrm {A} i}.}
+  Aus diesen zwei Gleichungen für die Fluide (
+  
+    
+      
+        i
+        =
+        1
+        ,
+        2
+      
+    
+    {\displaystyle i=1,2}
+  ) kann man das unbekannte Volumen 
+  
+    
+      
+        
+          V
+          
+            
+              K
+            
+          
+        
+      
+    
+    {\displaystyle V_{\mathrm {K} }}
+   eliminieren und erhält die Lösung:
+
+  
+    
+      
+        
+          ρ
+          
+            
+              K
+            
+          
+        
+        =
+        
+          
+            
+              
+                F
+                
+                  1
+                
+              
+              ⋅
+              
+                ρ
+                
+                  2
+                
+              
+              −
+              
+                F
+                
+                  2
+                
+              
+              ⋅
+              
+                ρ
+                
+                  1
+                
+              
+            
+            
+              
+                F
+                
+                  1
+                
+              
+              −
+              
+                F
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \rho _{\mathrm {K} }={\frac {F_{1}\cdot \rho _{2}-F_{2}\cdot \rho _{1}}{F_{1}-F_{2}}}}
+  Falls eine Dichte sehr viel kleiner als die andere ist, 
+  
+    
+      
+        
+          ρ
+          
+            1
+          
+        
+        ≪
+        
+          ρ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \rho _{1}\ll \rho _{2}}
+   (etwa bei Luft und Wasser), vereinfacht sich die Formel zu:
+
+  
+    
+      
+        
+          ρ
+          
+            
+              K
+            
+          
+        
+        =
+        
+          
+            
+              F
+              
+                1
+              
+            
+            
+              
+                F
+                
+                  1
+                
+              
+              −
+              
+                F
+                
+                  2
+                
+              
+            
+          
+        
+        ⋅
+        
+          ρ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \rho _{\mathrm {K} }={\frac {F_{1}}{F_{1}-F_{2}}}\cdot \rho _{2}}
+  Falls man nur eine Flüssigkeit, z. B. Wasser mit Dichte 
+  
+    
+      
+        
+          ρ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \rho _{1}}
+   hat, lässt sich stattdessen das Volumen des Körpers durch das Volumen des Wassers bestimmen, das bei vollständigem Eintauchen verdrängt wird, indem man beispielsweise den Überlauf aus einem vollen Gefäß mit einem Messzylinder misst. Aus obiger Gleichung
+
+  
+    
+      
+        
+          F
+          
+            1
+          
+        
+        =
+        
+          F
+          
+            
+              G
+            
+          
+        
+        −
+        
+          F
+          
+            
+              A
+            
+            1
+          
+        
+        =
+        
+          V
+          
+            
+              K
+            
+          
+        
+        ⋅
+        g
+        ⋅
+        (
+        
+          ρ
+          
+            
+              K
+            
+          
+        
+        −
+        
+          ρ
+          
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle F_{1}=F_{\mathrm {G} }-F_{\mathrm {A} 1}=V_{\mathrm {K} }\cdot g\cdot (\rho _{\mathrm {K} }-\rho _{1})}
+  erhält man durch Umformen:
+
+  
+    
+      
+        
+          ρ
+          
+            
+              K
+            
+          
+        
+        =
+        
+          ρ
+          
+            1
+          
+        
+        +
+        
+          
+            
+              F
+              
+                1
+              
+            
+            
+              
+                V
+                
+                  
+                    K
+                  
+                
+              
+              ⋅
+              g
+            
+          
+        
+      
+    
+    {\displaystyle \rho _{\mathrm {K} }=\rho _{1}+{\frac {F_{1}}{V_{\mathrm {K} }\cdot g}}}
+  Nach dieser Methode bestimmte schon Archimedes die Dichte der Krone eines Königs, der bezweifelte, dass diese wirklich aus reinem Gold bestehe (ρK = 19320 kg/m3).
+Auf dieser Auftriebswägung von Flüssigkeiten beruhen das Aräometer (Spindel) und die Mohrsche Waage.
+
+
+=== Weitere Methoden ===
+Pyknometer, Dichtebestimmung von Festkörpern oder Flüssigkeiten durch Messen der verdrängten Flüssigkeitsvolumina
+Isotopenmethode, Dichtebestimmung durch Strahlungsabsorption
+Biegeschwinger, Dichtebestimmung, insbesondere von durchströmender Flüssigkeit, durch Schwingungsmessung
+Resistograph, Dichtebestimmung von Holz über Festigkeit.
+Schwebemethode, Dichtebestimmung durch Gleichgewichtsbestimmung mit Hilfe einer SchwerflüssigkeitEine einfache Abschätzung der Dichte lässt sich mit der Girolami-Methode erhalten.
+
+
+== Dichte von Lösungen ==
+Die Summe der Massenkonzentrationen der Bestandteile einer Lösung ergibt die Dichte der Lösung, indem man die Summe der Massen der Bestandteile durch das Volumen der Lösung teilt.
+
+  
+    
+      
+        ρ
+        =
+        
+          
+            1
+            V
+          
+        
+        
+          ∑
+          
+            i
+          
+        
+        
+          m
+          
+            i
+          
+        
+        =
+        
+          
+            
+              
+                ∑
+                
+                  i
+                
+              
+              
+                ρ
+                
+                  i
+                
+              
+              
+                V
+                
+                  i
+                
+              
+            
+            V
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {1}{V}}\sum _{i}m_{i}={\frac {\sum _{i}\rho _{i}V_{i}}{V}}}
+  Dabei sind die 
+  
+    
+      
+        
+          m
+          
+            i
+          
+        
+      
+    
+    {\displaystyle m_{i}}
+   die einzelnen Teilmassen, 
+  
+    
+      
+        
+          V
+          
+            i
+          
+        
+      
+    
+    {\displaystyle V_{i}}
+   die einzelnen Teilvolumina und V das Gesamtvolumen.
+
+
+== Ortsabhängige Dichte ==
+Mit 
+  
+    
+      
+        
+          d
+        
+        m
+      
+    
+    {\displaystyle \mathrm {d} m}
+   werde die Masse in einem gewissen Kontrollvolumen 
+  
+    
+      
+        
+          d
+        
+        V
+      
+    
+    {\displaystyle \mathrm {d} V}
+   bezeichnet. Bei stetig verteilter Masse kann man einen Grenzübergang durchführen, d. h., man lässt das Kontrollvolumen immer kleiner werden und kann so die Massendichte 
+  
+    
+      
+        ρ
+        (
+        
+          x
+        
+        )
+      
+    
+    {\displaystyle \rho (\mathbf {x} )}
+   durch
+
+  
+    
+      
+        
+          d
+        
+        m
+        =
+        ρ
+        (
+        
+          x
+        
+        )
+        
+        
+          d
+        
+        V
+      
+    
+    {\displaystyle \mathrm {d} m=\rho (\mathbf {x} )\,\mathrm {d} V}
+  definieren. Die Funktion 
+  
+    
+      
+        ρ
+        :
+        
+          
+            R
+          
+          
+            3
+          
+        
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle \rho \colon \mathbb {R} ^{3}\to \mathbb {R} }
+   wird auch als Dichtefeld bezeichnet.
+Für einen homogenen Körper, dessen Massendichte in seinem Inneren überall den Wert 
+  
+    
+      
+        
+          ρ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \rho _{0}}
+   hat, ist die Gesamtmasse 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   das Produkt von Dichte und Volumen 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  , d. h., es gilt
+
+  
+    
+      
+        m
+        =
+        
+          ρ
+          
+            0
+          
+        
+        
+        V
+      
+    
+    {\displaystyle m=\rho _{0}\,V}
+  .Bei inhomogenen Körpern ist die Gesamtmasse allgemeiner das Volumenintegral
+
+  
+    
+      
+        m
+        =
+        
+          ∫
+          
+            V
+          
+        
+        ρ
+        (
+        
+          x
+        
+        )
+        
+        
+          d
+        
+        V
+      
+    
+    {\displaystyle m=\int _{V}\rho (\mathbf {x} )\,\mathrm {d} V}
+  über die Massendichte.
+Die Dichte ergibt sich aus den Massen der Atome, aus denen das Material besteht und aus ihren Abständen. In homogenem Material, zum Beispiel in einem Kristall, ist die Dichte überall gleich. Sie ändert sich normalerweise mit der Temperatur und bei kompressiblen Materialien (wie z. B. Gasen) auch mit dem Druck. Daher ist beispielsweise die Dichte der Atmosphäre ortsabhängig und nimmt mit der Höhe ab.
+Der Kehrwert der Dichte wird spezifisches Volumen genannt und spielt vor allem in der Thermodynamik der Gase und Dämpfe eine Rolle. Das Verhältnis der Dichte eines Stoffes zur Dichte im Normzustand wird als relative Dichte bezeichnet.
+In der ersten Ausgabe der DIN 1306 Dichte und Wichte; Begriffe vom August 1938 wurde die Dichte im heutigen Sinn als mittlere Dichte genormt und die ortsabhängige Dichte in einem Punkt als Dichte schlechthin definiert: „Die Dichte (ohne den Zusatz ‚mittlere‘) in einem Punkte eines Körpers ist der Grenzwert, dem die mittlere Dichte in einem den Punkt enthaltenden Volumen zustrebt, wenn man dieses so weit verkleinert denkt, dass es klein wird gegen die Abmessungen des Körpers, aber noch groß bleibt gegen die Gefügeeinheiten seines Stoffs.“ In der Ausgabe vom August 1958 wurde dann die mittlere Dichte in Dichte umbenannt mit der Erläuterung: „Masse, Gewicht und Volumen werden an einem Körper bestimmt, dessen Abmessungen groß sind gegen seine Gefügebestandteile.“
+
+
+== Beispiele ==
+Die Dichte einzelner Stoffe und Materialien ist auf der jeweiligen Wikipedia-Seite zu finden. Die Dichte von elementaren Reinstoffen ist auch in der Liste der chemischen Elemente aufgeführt.
+
+
+== Dichten von Pulvern und porösen Materialien ==
+Bei porösen Materialien muss man zwischen der Skelett- oder Reindichte, bei der die Masse auf das Volumen ohne die Poren bezogen wird, und der scheinbaren Dichte unterscheiden, die sich auf das Gesamtvolumen einschließlich der Poren bezieht. Bei Pulvern, Schüttgütern und Haufwerken hängt die scheinbare Dichte auch davon ab, ob das Material lose aufgeschüttet oder gestampft wurde. Dementsprechend unterscheidet man zwischen der Schüttdichte und der Rüttel- oder Stampfdichte. Das Verhältnis zwischen Schüttvolumen und Stampfvolumen heißt auch Hausner-Faktor.
+
+
+== Ausdehnungskoeffizienten ==
+
+Die Veränderung der Umgebungsbedingungen führt zu einer Änderung der Dichte. Der Ausdehnungskoeffizient ist im Allgemeinen nicht konstant, sondern abhängig von den Umgebungsbedingungen, beispielsweise der Temperatur. Für zwei Temperaturen 
+  
+    
+      
+        
+          T
+          
+            0
+          
+        
+      
+    
+    {\displaystyle T_{0}}
+   und 
+  
+    
+      
+        
+          T
+          
+            2
+          
+        
+      
+    
+    {\displaystyle T_{2}}
+   mit  
+  
+    
+      
+        
+          T
+          
+            2
+          
+        
+        >
+        
+          T
+          
+            0
+          
+        
+      
+    
+    {\displaystyle T_{2}>T_{0}}
+   lässt sich ein mittlerer statistischer Volumenausdehnungskoeffizient 
+  
+    
+      
+        
+          γ
+          
+            mittl.
+          
+        
+      
+    
+    {\displaystyle \gamma _{\text{mittl.}}}
+   berechnen, aus dem sich der Quotient der beiden Dichten 
+  
+    
+      
+        
+          ρ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \rho _{0}}
+   und 
+  
+    
+      
+        
+          ρ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \rho _{2}}
+   berechnen lässt:
+
+  
+    
+      
+        
+          
+            
+              ρ
+              
+                0
+              
+            
+            
+              ρ
+              
+                2
+              
+            
+          
+        
+        =
+        1
+        +
+        
+          γ
+          
+            mittl.
+          
+        
+        ⋅
+        (
+        
+          T
+          
+            2
+          
+        
+        −
+        
+          T
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle {\frac {\rho _{0}}{\rho _{2}}}=1+\gamma _{\text{mittl.}}\cdot (T_{2}-T_{0})}
+  
+
+
+== Literatur ==
+DIN 1306 Dichte; Begriffe, Angaben
+
+
+== Weblinks ==
+
+Erklärung, Versuche und Aufgaben zur Dichte auf Schülerniveau (LEIFI)
+Eintrag zu density, ρ. In: IUPAC Compendium of Chemical Terminology (the “Gold Book”). doi:10.1351/goldbook.D01590 Version: 2.3.3.
+Bei Wikibooks gibt es die Tabelle mit Dichten fester Stoffe, Tabelle mit Dichten von Flüssigkeiten und die Tabelle mit Dichten von Gasen.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,58 @@
+Schwerelosigkeit bezeichnet einen Zustand, in dem die Gewichtskraft auf einen Körper nicht spürbar ist. Er drückt dann nicht auf eine Unterlage – es besteht Gegenkraftlosigkeit. Der Zustand annähernder Schwerelosigkeit heißt Mikrogravitation.
+Allgemein befindet sich ein Körper im schwerelosen Zustand, wenn ihn die Schwerkraft ohne Behinderung durch eine Gegenkraft in eine beschleunigte Bewegung versetzen kann.
+Solche Zustände gibt es in guter Annäherung beim freien Fall – zum Beispiel in einem Fallturm –, beim antriebslosen Flug im Weltraum oder beim Parabelflug. Die Schwerelosigkeit gilt näherungsweise gleichermaßen für alle Bestandteile eines ungehindert beschleunigten Körpers. Deshalb schwebt ein Gegenstand, der von einem Astronauten in der ISS losgelassen wird, frei neben diesem im Raum: Die ISS, der Astronaut und der Gegenstand erfahren im Gravitationsfeld der Erde praktisch die gleiche Beschleunigung bei ihrem freien „Fall“ um die Erde herum.
+Vollständige, exakte Schwerelosigkeit wäre nur in einem räumlich konstanten Gravitationsfeld möglich, das aber nicht existiert, oder für einen punktförmigen Körper. Ein realer Körper unterliegt aufgrund seiner Ausdehnung nicht in allen seinen Teilen derselben Gravitationsbeschleunigung, was sich beim freien Fall als Gezeitenkraft bzw. als Mikrogravitation bemerkbar macht.
+
+
+== Übersicht ==
+
+Die Wirkung der Schwerkraft auf der Erde zeigt sich z. B. dadurch, dass ein Apfel vom Baum auf den Boden fällt oder dass wir mit unserem Gewicht auf den Boden gedrückt werden. Dabei wirkt die Schwere im ganzen Körper und auf jeden seiner Teile, sie zeigt sich als Volumenkraft. Was wir als Schwere spüren und üblicherweise mit der Schwerkraft gleichsetzen, beruht darauf, dass der Boden von unten eine Gegenkraft ausübt. Diese wirkt aber nicht in allen Teilen unseres Körpers gleichmäßig, sondern am stärksten an unseren Füßen, die unser volles Gewicht tragen müssen, viel schwächer am Hals, der nur noch den Kopf trägt. Daher wird unser Körper auch etwas zusammengestaucht.
+Der einfachste Weg, Schwerelosigkeit zu erreichen, wenigstens für begrenzte Zeit, ist der freie Fall. Für einen vollständig freien Fall muss der bremsende Einfluss der Luft ausgeschaltet werden, was in evakuierten Falltürmen gelingt.
+Es ist auch jeder senkrecht, schräg oder waagrecht geworfene Körper oder allgemein jeder Körper auf einer Wurfparabel (ohne weitere Krafteinwirkung, also insbesondere ohne Luftreibung) schwerelos. Bei sogenannten Parabelflügen erreicht man bis zu 90 Sekunden Schwerelosigkeit, während der die Luftreibung am Flugzeug durch den Schub der Triebwerke bzw. geeignete Flugmanöver kompensiert wird. Parabelflüge waren ursprünglich für das Schwerelosigkeitstraining von Astronauten gedacht, werden heute aber hauptsächlich für wissenschaftliche Experimente in Mikrogravitation (z. B. Werkstoffkunde oder Zellbiologie) und zum Testen von Raumfahrttechnologien eingesetzt. Es gibt in verschiedenen Ländern kommerzielle Parabelflüge.
+
+
+== Beispiele für (annähernde) Schwerelosigkeit im Alltag ==
+Bei einem Sprung auf einem Trampolin von 1,5 Meter Höhe kann das Gefühl der „Schwerelosigkeit“ für mehr als eine Sekunde erlebt werden.
+Wird ein Gefäß über einige Meter geworfen, verhalten sich darin befindliche Gegenstände untereinander quasi schwerelos. Beispiele: eine große, leere Plastikwasserflasche mit ein paar hineingeworfenen Nüssen oder Murmeln; ein aus Plexiglas geklebter Würfel mit hineingelegten Gegenständen; ein Glasballon mit Wasser, das kräftig geschüttelt wird, sodass man die Luftblasen beim Wurf beobachten kann.
+Auch beim Turmspringen oder beim Bungeespringen fühlt sich der Körper des Springers (wenn auch nur für einige Sekunden) schwerelos, so lange, bis die Wasseroberfläche berührt wird oder sich das Gummiseil strafft. Bei einem Sprung aus großer Höhe, etwa mit dem Fallschirm, endet das Gefühl der Schwerelosigkeit nach einigen Sekunden, da dann der Luftwiderstand deutlich spürbar wird.
+Sekundenlange Schwerelosigkeit kann man ebenfalls in verschiedenen Fahrgeschäften in Vergnügungsparks erleben, vor allem bei Achterbahnen und Freifalltürmen. Im Fan-Jargon wird sie dort Airtime genannt.Bei Simulationen unter Wasser, wie sie zu Trainingszwecken für Astronauten erfolgen, besteht keine echte Schwerelosigkeit oder „Gegenkraftlosigkeit“: Es wird lediglich die Schwerkraft durch den statischen Auftrieb im Wasser kompensiert. Der Astronaut schwebt im Wasser, aber die Gegenkraft greift auch hier von außen, als Oberflächenkraft, an seinem Körper an. Daher hat man im Wasser nicht das gleiche Gefühl wie beim freien Fall, vielmehr fühlt man sich vom Wasser getragen.
+
+
+== (Annähernde) Schwerelosigkeit in der Erdumlaufbahn ==
+
+Irdische Raumfahrer haben bislang nur in einigen Apollo-Mond-Missionen die unmittelbare Nähe der Erde verlassen. Alle anderen Astronauten kreisen ca. 500 km über der Erdoberfläche. In einer für die bemannte Raumfahrt typischen erdnahen Umlaufbahn ist man andauernd in Schwerelosigkeit. Obwohl in der Höhe, in der sich eine Raumstation üblicherweise befindet, noch etwa 90 % der Erdschwerkraft wirken, wird diese für die Astronauten nicht spürbar – eben weil die Schwerkraft alle Massen, auch die Astronauten, gleichmäßig beschleunigt und keine weiteren Kräfte wirken.
+Die dort erreichbare Schwerelosigkeit ist nicht perfekt, Effekte der Gravitation sind noch geringfügig spürbar:
+
+Die Stärke des Gravitationsfeldes der Erde ist inhomogen, d. h., es nimmt mit zunehmender Entfernung von der Erde für je drei Meter um ein Millionstel ab (diese Faustregel gilt für den erdnahen Bereich bis zu wenigen hundert Kilometer Höhe). Daher ist der Gravitationsunterschied innerhalb des Raumschiffvolumens also schon im messbaren Bereich.
+Der erdfernere Teil eines Körpers im Orbit erfährt eine größere Zentrifugalkraft als der erdnähere Teil.
+Auf der Höhe des Orbits ist die Atmosphäre zwar sehr dünn, aber dennoch befindet sich dort Luft, deren Luftwiderstand zu einer Abbremsung des Raumschiffes durch Reibung führt. Das bewirkt auf Raumfahrer eine nach vorne gerichtete Kraft, da die Abbremsung nicht durch ein permanent laufendes kleines Triebwerk ausgeglichen wird, sondern nur schubweise.Die Gezeitenkraft auf einen Körper im Raumschiff, die durch die ersten beiden Punkte verursacht wird, ist von der Erde weg gerichtet, wenn sich der Körper oberhalb des Schwerpunktes des Raumschiffes befindet, im restlichen Teil des Raumschiffes wirkt sie nach unten zur Erde hin. Auf Dauer fällt also alles an die obere bzw. untere Wand des Raumschiffes.
+
+Menschen in Schwerelosigkeit
+		
+		
+		
+		
+
+
+== Auswirkungen der Mikrogravitation ==
+Schwerelosigkeit kann bei empfindlichen technischen Geräten (besonders bei solchen mit zahlreichen beweglichen Teilen) Probleme verursachen. Physikalische Prozesse, die von der Wirkung des Gewichts von Körpern abhängen (etwa die Konvektion, siehe zum Beispiel bei Kerzen oder beim Wasser kochen), funktionieren im schwerelosen Zustand genauso wenig wie manche Geräte des Alltags wie z. B. Duschen, Waschbecken oder Toiletten. Daher sind in Raumfähren und Raumstationen speziell an die Schwerelosigkeit angepasste sanitäre Anlagen (etwa ein Klosett mit Fäkalien-Sauganlage) im Einsatz. Getrunken wird im Weltraum auch nicht aus Tassen oder Gläsern, sondern aus verschließbaren Tuben oder Bechern mit Deckel und verschließbarem Strohhalm.
+Der menschliche Körper reagiert auf das Gefühl der Schwerelosigkeit vielfach mit der Raumkrankheit, die genauso wie die Reisekrankheit durch eine Verwirrung des Gleichgewichtssinns hervorgerufen wird.
+Mit fortschreitender Gewöhnung an den schwerelosen Zustand verschwinden die für die Raumkrankheit charakteristischen Symptome (Schwindelgefühl, Übelkeit bis zum Erbrechen). Lang andauernde Schwerelosigkeit (zwei Monate oder länger) führt zu einer Anpassung des menschlichen Körpers an die (vor allem im Wirbelsäulen- und Beinbereich spürbare) Entlastung: Knochen- und Muskelmasse sowie das Blutvolumen schwinden, was vielen Raumfahrern bei der Rückkehr auf die Erde gesundheitliche Probleme bereitet. Zur Vorbeugung müssen Raumfahrer auf Langzeiteinsätzen daher (auf einem Laufband oder Ergometer) durch körperliche Betätigung der Schwerelosigkeit einen künstlich erzeugten Widerstand entgegensetzen. 2012 zeigten Untersuchungen an Astronauten auch Veränderungen an Gehirn und Augen.
+
+
+== Freifall-Experimente in der (annähernden) Schwerelosigkeit ==
+
+Die Schwerelosigkeit bietet besondere Forschungsbedingungen. So können zum Beispiel die Adhäsionskraft und die Eigenschaften der Oberflächenspannung besser beobachtet werden. Deren Wechselspiel führt auch im Alltag bei frei fallenden Flüssigkeiten dazu, dass sich eine Wassersäule (Springbrunnen, kleiner Wasserfall) kettenartig verformt, weil die Oberflächenspannung versucht, kugelförmige Tropfen zu bilden, während die Kohäsion versucht, die Wassersäule zusammenzuhalten.
+
+Der 146 Meter hohe Bremer Fallturm ermöglicht eine Fallhöhe von 110 m in einem evakuierten Rohr von 3,5 m Durchmesser. Dennoch ist bei dieser großen Fallhöhe die Fallzeit noch relativ kurz, sie beträgt etwa 4,7 Sekunden. Die Experimente werden in einer speziell konstruierten Fallkapsel durchgeführt, die am Ende der Fallstrecke in einem 8 m hohen, mit feinkörnigem Polystyrol-Granulat gefüllten Behälter abgebremst wird. Dort haben die „Versuchskandidaten“ eine Endgeschwindigkeit von 167 km/h. Seit 2004 besitzt der Turm außerdem ein Katapult, mit dem die Fallkapsel in die Höhe geschossen werden kann. Hierbei erfährt das Experiment dann für ca. 9,2 Sekunden Schwerelosigkeit, da auch der Steigflug schon ein „freier Fall“ ist.
+Der 40 Meter hohe Einstein-Elevator am Hannover Institut für Technologie (HITec) der Leibniz Universität Hannover hat eine Fallstrecke von 20 m für freien Auf- und Abstieg und ermöglicht bis zu 100 Versuche pro Tag mit vier Sekunden Schwerelosigkeit.
+Ein „Minifallturm“ von etwa zwei Metern Höhe erlaubt eine Fallzeit von 0,6 Sekunden, was für eine Beobachtung und Auswertung mittels Videosignal und Computer ausreicht.
+Eine alte Anwendung von Falltürmen ist die Herstellung von Schrotkugeln. Hierbei lässt man flüssiges Blei im Innern eines Schrotturmes durch ein feines Sieb herabregnen. Während des freien Falles nehmen die Bleitropfen die runde Kugelform an.
+
+
+== Weblinks ==
+
+Zulassungsarbeit über Mikrograviationsexperimente im Schulunterricht (PDF; 1,5 MB)
+
+
+== Einzelnachweise ==

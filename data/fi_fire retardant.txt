@@ -1,0 +1,32 @@
+Palonsuoja-aine eli palonestoaine on kemikaali, joka estää tai hidastaa tulen leviämistä aineessa.
+Palonestoaineita käytetään muun muassa tekstiileissä.Aineet voivat toimia neljällä mekanismilla
+
+endotermisesti hajoavat aineet, jotka alkavat kylmentää ympäristöään joutuessaan kuumaan ympäristöön esimerkiksi magnesiumhydroksidi ja alumiinihydroksidi
+palavan aineen imeytyminen tai liukeneminen (talkki tai kalsiumkarbonaatti)
+ lämpösuojaus (lämpölaajenevien aineiden avulla)
+kaasujen imeytyminen
+
+
+== Terveyshaitat ==
+Myrkyllistä bromia sisältäviä palonestoaineita pidetään terveydelle ja ympäristölle vaarallisina. On esimerkiksi osoitettu, että palonestoaineet häiritsevät niin sanottujen Purkinjen solujen kehitystä pikkuaivoissa estämällä kilpirauhashormonien toimintaa. Suomessa ja EU:ssa bromattujen bifenyylien käyttäminen palonestoaineena tekstiileissä kiellettiin 1990-luvulla. Ne pyritään korvaamaan booriyhdisteillä. 
+
+
+== Uusia vaihtoehtoja ==
+Kiilto Oy ja professori Carl-Erik Wilénin tutkijaryhmä Åbo Akademin kemiantekniikan laitokselta ovat kehittäneet yhteistyössä myrkyttömiä palonestoaineita. Niiden kaupallistaminen on kallista EU:n vaatiman Reach-rekisteröinnin vuoksi, ja esimerkiksi eri polymeerien variaatiot täytyy rekisteröidä erikseen. Jotta rekisteröinnin kustannukset saadaan katettua, täytyy valmiille tuotteille olla suuret markkinat. Ensimmäiset palonestoaineet ovat yhdistelmä sellaisia yhteistyössä kehitettyjä aineita, joiden Reach-rekisteröinti on jo tehty. Esimerkiksi puupohjaisten materiaalien suojaamiseen tarkoitetulla aineella käsitelty paperi hiiltyy, mutta ei pala. Wilénin tutkijaryhmän kehittämät uudet halogeenittomat aineet ovat rikin ja typen sidokseen perustuvia sulfeeniamideja. Ne estävät kemialliset prosessit, jotka ylläpitävät palamista. Aineita tarvitaan vain pieni määrä, alle prosentti suojattavan materiaalin painosta. Sulfeeniamideilla voi pinnoittaa tai niitä voi imeyttää materiaalliin. Näin saadaan esimerkiksi palosuojattua muovia tai maalia. Sulfeeniamidien Reach-rekisteröinti on vielä kesken.
+
+
+== Tekokuituvaatteet ==
+Palonestoaineiden tarpeeseen voi vaikuttaa valinnoilla. Esimerkiksi puuvillasta tehty vaate ei pala niin kovin herkästi, eikä siten tarvitse palonestokäsittelyä. Tekokuinen vaate taas voi palaa rajusti ja sulaa käyttäjänsä ylle. Jos tekokuituinen vaate on lisäksi väljä käyttäjänsä päällä, paloa ylläpitävää ilmaa pääsee runsaasti sen ympärille. Tekokuituisten vaatteiden palonestoaineina käytetään muun muassa orgaanisia bromiyhdisteitä, esimerkiksi tetrabromibisfenoli A:ta.
+
+
+== Katso myös ==
+Bromi
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+
+THL - Bromatut palonestoaineet
+Leea Fraktman: Bromatut palonestoaineet ympäristössä, Helsingin kaupungin ympäristökeskuksen julkaisuja 2/2002

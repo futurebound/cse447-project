@@ -1,0 +1,305 @@
+The National Aeronautics and Space Administration (NASA; ) is an independent agency of the U.S. federal government responsible for the civilian space program, as well as aeronautics and space research.NASA was established in 1958, succeeding the National Advisory Committee for Aeronautics (NACA). The new agency was to have a distinctly civilian orientation, encouraging peaceful applications in space science. Since its establishment, most US space exploration efforts have been led by NASA, including the Apollo Moon landing missions, the Skylab space station, and later the Space Shuttle. NASA is supporting the International Space Station and is overseeing the development of the Orion spacecraft, the Space Launch System, and Commercial Crew vehicles. The agency is also responsible for the Launch Services Program, which provides oversight of launch operations and countdown management for uncrewed NASA launches.
+NASA science is focused on better understanding Earth through the Earth Observing System; advancing heliophysics through the efforts of the Science Mission Directorate's Heliophysics Research Program; exploring bodies throughout the Solar System with advanced robotic spacecraft such as New Horizons; and researching astrophysics topics, such as the Big Bang, through the Great Observatories and associated programs.
+
+
+== History ==
+
+
+=== Creation ===
+
+From 1946, the National Advisory Committee for Aeronautics (NACA) had been experimenting with rocket planes such as the supersonic Bell X-1. In the early 1950s, there was challenge to launch an artificial satellite for the International Geophysical Year (1957–58). An effort for this was the American Project Vanguard. After the Soviet space program's launch of the world's first artificial satellite (Sputnik 1) on October 4, 1957, the attention of the United States turned toward its own fledgling space efforts. The U.S. Congress, alarmed by the perceived threat to national security and technological leadership (known as the "Sputnik crisis"), urged immediate and swift action; President Dwight D. Eisenhower and his advisers counseled more deliberate measures. On January 12, 1958, NACA organized a "Special Committee on Space Technology", headed by Guyford Stever. On January 14, 1958, NACA Director Hugh Dryden published "A National Research Program for Space Technology" stating:
+It is of great urgency and importance to our country both from consideration of our prestige as a nation as well as military necessity that this challenge [Sputnik] be met by an energetic program of research and development for the conquest of space ... It is accordingly proposed that the scientific research be the responsibility of a national civilian agency ... NACA is capable, by rapid extension and expansion of its effort, of providing leadership in space technology.
+While this new federal agency would conduct all non-military space activity, the Advanced Research Projects Agency (ARPA) was created in February 1958 to develop space technology for military application.On July 29, 1958, Eisenhower signed the National Aeronautics and Space Act, establishing NASA. When it began operations on October 1, 1958, NASA absorbed the 43-year-old NACA intact; its 8,000 employees, an annual budget of US$100 million, three major research laboratories (Langley Aeronautical Laboratory, Ames Aeronautical Laboratory, and Lewis Flight Propulsion Laboratory) and two small test facilities. Elements of the Army Ballistic Missile Agency and the United States Naval Research Laboratory were incorporated into NASA. A significant contributor to NASA's entry into the Space Race with the Soviet Union was the technology from the German rocket program led by Wernher von Braun, who was now working for the Army Ballistic Missile Agency (ABMA), which in turn incorporated the technology of American scientist Robert Goddard's earlier works. Earlier research efforts within the US Air Force and many of ARPA's early space programs were also transferred to NASA. In December 1958, NASA gained control of the Jet Propulsion Laboratory, a contractor facility operated by the California Institute of Technology.
+
+
+=== Foundational human spaceflight ===
+
+
+==== X-15 program (1954–1968) ====
+
+NASA inherited NACA's X-15 experimental rocket-powered hypersonic research aircraft, developed in conjunction with the US Air Force and Navy. Three planes were built starting in 1955. The X-15 was drop-launched from the wing of one of two NASA Boeing B-52 Stratofortresses, NB52A tail number 52-003, and NB52B, tail number 52-008 (known as the Balls 8). Release took place at an altitude of about 45,000 feet (14 km) and a speed of about 500 miles per hour (805 km/h).Twelve pilots were selected for the program from the Air Force, Navy, and NACA. A total of 199 flights were made between June 1959 and December 1968, resulting in the official world record for the highest speed ever reached by a crewed powered aircraft (current as of 2014), and a maximum speed of Mach 6.72, 4,519 miles per hour (7,273 km/h). The altitude record for X-15 was 354,200 feet (107.96 km). Eight of the pilots were awarded Air Force astronaut wings for flying above 260,000 feet (80 km), and two flights by Joseph A. Walker exceeded 100 kilometers (330,000 ft), qualifying as spaceflight according to the International Aeronautical Federation. The X-15 program employed mechanical techniques used in the later crewed spaceflight programs, including reaction control system jets for controlling the orientation of a spacecraft, space suits, and horizon definition for navigation. The reentry and landing data collected were valuable to NASA for designing the Space Shuttle.
+
+
+==== Project Mercury (1958–1963) ====
+
+In 1958, NASA formed an engineering group, the Space Task Group, to manage their human spaceflight programs under the direction of Robert Gilruth. Their earliest programs were conducted under the pressure of the Cold War competition between the U.S. and the Soviet Union. NASA inherited the US Air Force's Man in Space Soonest program, which considered many crewed spacecraft designs ranging from rocket planes like the X-15, to small ballistic space capsules. By 1958, the space plane concepts were eliminated in favor of the ballistic capsule, and NASA renamed it Project Mercury. The first seven astronauts were selected among candidates from the Navy, Air Force and Marine test pilot programs. On May 5, 1961, astronaut Alan Shepard became the first American in space aboard a capsule he named Freedom 7, launched on a Redstone booster on a 15-minute ballistic (suborbital) flight. John Glenn became the first American to be launched into orbit, on an Atlas launch vehicle on February 20, 1962, aboard Friendship 7. Glenn completed three orbits, after which three more orbital flights were made, culminating in L. Gordon Cooper's 22-orbit flight Faith 7, May 15–16, 1963. Katherine Johnson, Mary Jackson, and Dorothy Vaughan were three of the human computers doing calculations on trajectories during the Space Race. Johnson was well known for doing trajectory calculations for John Glenn's mission in 1962, where she was running the same equations by hand that were being run on the computer.Mercury's competition from the Soviet Union (USSR) was the single-pilot Vostok spacecraft. They sent the first man in space, cosmonaut Yuri Gagarin, into a single Earth orbit aboard Vostok 1 in April 1961, one month before Shepard's flight. In August 1962, they achieved an almost four-day record flight with Andriyan Nikolayev aboard Vostok 3, and also conducted a concurrent Vostok 4 mission carrying Pavel Popovich.
+
+
+==== Project Gemini (1961–1966) ====
+
+Based on studies to grow the Mercury spacecraft capabilities to long-duration flights, developing space rendezvous techniques, and precision Earth landing, Project Gemini was started as a two-man program in 1961 to overcome the Soviets' lead and to support the Apollo crewed lunar landing program, adding extravehicular activity (EVA) and rendezvous and docking to its objectives. The first crewed Gemini flight, Gemini 3, was flown by Gus Grissom and John Young on March 23, 1965. Nine missions followed in 1965 and 1966, demonstrating an endurance mission of nearly fourteen days, rendezvous, docking, and practical EVA, and gathering medical data on the effects of weightlessness on humans.Under the direction of Soviet Premier Nikita Khrushchev, the USSR competed with Gemini by converting their Vostok spacecraft into a two- or three-man Voskhod. They succeeded in launching two crewed flights before Gemini's first flight, achieving a three-cosmonaut flight in 1964 and the first EVA in 1965. After this, the program was canceled, and Gemini caught up while spacecraft designer Sergei Korolev developed the Soyuz spacecraft, their answer to Apollo.
+
+
+==== Project Apollo (1960–1972) ====
+
+The U.S public's perception of the Soviet lead in the Space Race (by putting the first man into space) motivated President John F. Kennedy to ask the Congress on May 25, 1961, to commit the federal government to a program to land a man on the Moon by the end of the 1960s, which effectively launched the Apollo program.Apollo was one of the most expensive American scientific programs ever. It cost more than $20 billion in 1960s dollars or an estimated $223 billion in present-day US dollars. (In comparison, the Manhattan Project cost roughly $28.4 billion, accounting for inflation.) It used the Saturn rockets as launch vehicles, which were far bigger than the rockets built for previous projects. The spacecraft was also bigger; it had two main parts, the combined command and service module (CSM) and the Apollo Lunar Module (LM). The LM was to be left on the Moon and only the command module (CM) containing the three astronauts would return to Earth.The second crewed mission, Apollo 8, brought astronauts for the first time in a flight around the Moon in December 1968. Shortly before, the Soviets had sent an uncrewed spacecraft around the Moon. On the next two missions docking maneuvers that were needed for the Moon landing were practiced and then finally the Moon landing was made on the Apollo 11 mission in July 1969.The first person to walk on the Moon was Neil Armstrong, who was followed 19 minutes later by Buzz Aldrin, while Michael Collins orbited above. Five subsequent Apollo missions also landed astronauts on the Moon, the last in December 1972. Throughout these six Apollo spaceflights, twelve men walked on the Moon. These missions returned a wealth of scientific data and 381.7 kilograms (842 lb) of lunar samples. Topics covered by experiments performed included soil mechanics, meteoroids, seismology, heat flow, lunar ranging, magnetic fields, and solar wind. The Moon landing marked the end of the space race; and as a gesture, Armstrong mentioned mankind when he stepped down on the Moon.Apollo set major milestones in human spaceflight. It stands alone in sending crewed missions beyond low Earth orbit, and landing humans on another celestial body. Apollo 8 was the first crewed spacecraft to orbit another celestial body, while Apollo 17 marked the last moonwalk and the last crewed mission beyond low Earth orbit. The program spurred advances in many areas of technology peripheral to rocketry and crewed spaceflight, including avionics, telecommunications, and computers. Apollo sparked interest in many fields of engineering and left many physical facilities and machines developed for the program as landmarks. Many objects and artifacts from the program are on display at various locations throughout the world, notably at the Smithsonian's Air and Space Museums.
+
+
+==== Skylab (1965–1979) ====
+
+Skylab was the United States' first and only independently built space station. Conceived in 1965 as a workshop to be constructed in space from a spent Saturn IB upper stage, the 169,950 lb (77,088 kg) station was constructed on Earth and launched on May 14, 1973, atop the first two stages of a Saturn V, into a 235-nautical-mile (435 km) orbit inclined at 50° to the equator. Damaged during launch by the loss of its thermal protection and one electricity-generating solar panel, it was repaired to functionality by its first crew. It was occupied for a total of 171 days by 3 successive crews in 1973 and 1974. It included a laboratory for studying the effects of microgravity, and a solar observatory. NASA planned to have a Space Shuttle dock with it, and elevate Skylab to a higher safe altitude, but the Shuttle was not ready for flight before Skylab's re-entry on July 11, 1979.To save cost, NASA used one of the Saturn V rockets originally earmarked for a canceled Apollo mission to launch the Skylab. Apollo spacecraft were used for transporting astronauts to and from the station. Three three-man crews stayed aboard the station for periods of 28, 59, and 84 days. Skylab's habitable volume was 11,290 cubic feet (320 m3), which was 30.7 times bigger than that of the Apollo Command Module.
+
+
+==== Apollo-Soyuz (1972–1975) ====
+
+On May 24, 1972, US President Richard M. Nixon and Soviet Premier Alexei Kosygin signed an agreement calling for a joint crewed space mission, and declaring intent for all future international crewed spacecraft to be capable of docking with each other. This authorized the Apollo-Soyuz Test Project (ASTP), involving the rendezvous and docking in Earth orbit of a surplus Apollo command and service module with a Soyuz spacecraft. The mission took place in July 1975. This was the last US human spaceflight until the first orbital flight of the Space Shuttle in April 1981.The mission included both joint and separate scientific experiments and provided useful engineering experience for future joint US–Russian space flights, such as the Shuttle–Mir program and the International Space Station.
+
+
+== Leadership ==
+
+The agency's leader, NASA's administrator, is nominated by the President of the United States subject to the approval of the US Senate, and reports to him or her and serves as a senior space science advisor. Though space exploration is ostensibly non-partisan, the appointee usually is associated with the President's political party (Democratic or Republican), and a new administrator is usually chosen when the Presidency changes parties. The only exceptions to this have been:
+
+Democrat Thomas O. Paine, acting administrator under Democrat Lyndon B. Johnson, stayed on while Republican Richard Nixon tried but failed to get one of his own choices to accept the job. Paine was confirmed by the Senate in March 1969 and served through September 1970.
+Republican James C. Fletcher, appointed by Nixon and confirmed in April 1971, stayed through May 1977 into the term of Democrat Jimmy Carter.
+Daniel Goldin was appointed by Republican George H. W. Bush and stayed through the entire administration of Democrat Bill Clinton.
+Robert M. Lightfoot, Jr., associate administrator under Democrat Barack Obama, was kept on as acting administrator by Republican Donald Trump until Trump's own choice, Jim Bridenstine, was confirmed in April 2018.
+Steve Jurczyk, associate administrator under Donald Trump, currently fills the administrator's chair until Democrat Joseph Biden nominates Bridenstine's replacement.The first administrator was Dr. T. Keith Glennan, appointed by Republican President Dwight D. Eisenhower. During his term he brought together the disparate projects in American space development research.The second administrator, James E. Webb (1961–1968), appointed by President John F. Kennedy, was a Democrat who first publicly served under President Harry S. Truman. In order to implement the Apollo program to achieve Kennedy's Moon landing goal by the end of the 1960s, Webb directed major management restructuring and facility expansion, establishing the Houston Manned Spacecraft (Johnson) Center and the Florida Launch Operations (Kennedy) Center. Capitalizing on Kennedy's legacy, President Lyndon Johnson kept continuity with the Apollo program by keeping Webb on when he succeeded Kennedy in November 1963. But Webb resigned in October 1968 before Apollo achieved its goal.
+
+James Fletcher supervised early planning of the Space Shuttle program during his first term as administrator under President Nixon. He was appointed for a second term as administrator from May 1986 through April 1989 by President Ronald Reagan to help the agency recover from the Space Shuttle Challenger disaster.Former astronaut Charles Bolden served as NASA's twelfth administrator from July 2009 to January 20, 2017. Bolden is one of three former astronauts who became NASA administrators, along with Richard H. Truly (served 1989–1992) and Frederick D. Gregory (acting, 2005).
+The agency's administration is located at NASA Headquarters in Washington, DC, and provides overall guidance and direction. Except under exceptional circumstances, NASA civil service employees are required to be citizens of the United States.
+
+
+== Facilities ==
+
+NASA Headquarters in Washington, DC provides overall guidance and political leadership to the agency's ten field centers, through which all other facilities are administered. Four of these were inherited from NACA; two others were transferred from the Army; and NASA commissioned and built the other four itself shortly after its formation.
+
+
+=== Inherited from NACA ===
+Langley Research Center (LaRC), located in Hampton, Virginia. LaRC focuses on aeronautical research, though the Apollo lunar lander was flight-tested at the facility and a number of high-profile space missions have been planned and designed on-site. LaRC was the original home of the Space Task Group.Ames Research Center (ARC) at Moffett Field was founded on December 20, 1939. The center was named after Joseph Sweetman Ames, a founding member of the NACA. ARC is one of NASA's 10 major field centers and is located in California's Silicon Valley. Historically, Ames was founded to do wind-tunnel research on the aerodynamics of propeller-driven aircraft; however, it has expanded its role to doing research and technology in aeronautics, spaceflight, and information technology. It provides leadership in astrobiology, small satellites, robotic lunar exploration, intelligent/adaptive systems and thermal protection.
+George W. Lewis Research Center The center's core competencies include air-breathing and in-space propulsion and cryogenics, communications, power energy storage and conversion, microgravity sciences, and advanced materials.
+Hugh L. Dryden Flight Research Facility (AFRC), established by NACA before 1946 and located inside Edwards Air Force Base, is the home of the Shuttle Carrier Aircraft (SCA), a modified Boeing 747 designed to carry a Space Shuttle orbiter back to Kennedy Space Center after a landing at Edwards AFB. On January 16, 2014, the center was renamed in honor of Neil Armstrong, the first astronaut to walk on the Moon.
+
+		
+
+
+=== Transferred from the Army ===
+The Jet Propulsion Laboratory (JPL), located in the San Gabriel Valley area of Los Angeles County, CA, is headquartered in the city of La Cañada Flintridge   with a Pasadena mailing  address  .  JPL is managed by the nearby California Institute of Technology (Caltech). The Laboratory's primary function is the construction and operation of robotic planetary spacecraft, though it also conducts Earth-orbit and astronomy missions.  It is also responsible for operating NASA's Deep Space Network.
+George C. Marshall Space Flight Center (MSFC), located on the Redstone Arsenal near Huntsville, Alabama, is one of NASA's largest centers. MSFC is where the Saturn V rocket and Spacelab were developed. Marshall is NASA's lead center for International Space Station (ISS) design and assembly; payloads and related crew training; and was the lead for Space Shuttle propulsion and its external tank. From December 1959, it contained the Launch Operations Directorate, which moved to Florida to become the Launch Operations Center on July 1, 1962.
+
+		
+
+
+=== Built by NASA ===
+Goddard Space Flight Center (GSFC), located in Greenbelt, Maryland, was commissioned by NASA on March 1, 1959. It is the largest combined organization of scientists and engineers in the United States dedicated to increasing knowledge of the Earth, the Solar System, and the Universe via observations from space. GSFC is a major U.S. laboratory for developing and operating unmanned scientific spacecraft. GSFC also operates two spaceflight tracking and data acquisition networks (the Space Network and the Near Earth Network), develops and maintains advanced space and Earth science data information systems, and develops satellite systems for the National Oceanic and Atmospheric Administration (NOAA).
+John C. Stennis Space Center, originally the "Mississippi Test Facility", is located in Hancock County, Mississippi, on the banks of the Pearl River at the Mississippi–Louisiana border. Commissioned on October 25, 1961, it was NASA's largest rocket engine test facility until the end of the Space Shuttle program. It is currently used for rocket testing by over 30 local, state, national, international, private, and public companies and agencies. It contains the NASA Shared Services Center.Manned Spacecraft Center (MSC) is the NASA center for human spaceflight training, research and flight control. Created on November 1, 1961, the facility consists of a complex of 100 buildings constructed in 1962–1963 on 1,620 acres (656 ha) of land donated by Rice University in Houston, Texas. The center grew out of the Space Task Group formed soon after the creation of NASA to co-ordinate the US human spaceflight program.  It is home to the United States Astronaut Corps and is responsible for training astronauts from the U.S. and its international partners, and includes the Christopher C. Kraft Jr. Mission Control Center. The center was renamed in honor of the late U.S. president and Texas native Lyndon B. Johnson on February 19, 1973.John F. Kennedy Space Center (KSC), located west of Cape Canaveral Space Force Station in Florida, is one of the best known NASA facilities. Named the "Launch Operations Center" at its creation on July 1, 1962, it was renamed in honor of the late U.S. president on November 29, 1963, and has been the launch site for every United States human space flight since 1968. KSC continues to manage and operate unmanned rocket launch facilities for America's civilian space program from three pads at Cape Canaveral. Its  Vehicle Assembly Building (VAB) is the fourth-largest structure in the world by volume and was the largest when completed in 1965. A total of 13,100 people worked at the center as of 2011. Approximately 2,100 are employees of the federal government; the rest are contractors.Subordinate facilities include the Wallops Flight Facility in Wallops Island, Virginia; the Michoud Assembly Facility in New Orleans, Louisiana; the White Sands Test Facility in Las Cruces, New Mexico; and Deep Space Network stations in Barstow, California; Madrid, Spain; and Canberra, Australia.
+
+		
+		
+
+
+== Modern human spaceflight programs ==
+
+
+=== Space Shuttle program (1972–2011) ===
+
+The Space Shuttle became the major focus of NASA in the late 1970s and the 1980s. Originally planned as a frequently launchable, fully reusable vehicle, the design was changed to use an expendable external propellant tank to save on development cost, and four Space Shuttle orbiters were built by 1985. The first to launch, Columbia, did so on April 12, 1981, the 20th anniversary of the first known human spaceflight.Its major components were a spaceplane orbiter with an external fuel tank and two solid-fuel launch rockets at its side. The external tank, which was bigger than the spacecraft itself, was the only major component that was not reused. The shuttle could orbit in altitudes of 185–643 km (115–400 miles) and carry a maximum payload (to low orbit) of 24,400 kg (54,000 lb). Missions could last from 5 to 17 days and crews could be from 2 to 8 astronauts.On 20 missions (1983–1998) the Space Shuttle carried Spacelab, designed in cooperation with the European Space Agency (ESA). Spacelab was not designed for independent orbital flight, but remained in the Shuttle's cargo bay as the astronauts entered and left it through an airlock. On June 18, 1983, Sally Ride became the first American woman in space, on board the Space Shuttle Challenger STS-7 mission. Another famous series of missions were the launch and later successful repair of the Hubble Space Telescope in 1990 and 1993, respectively.In 1995, Russian-American interaction resumed with the Shuttle–Mir missions (1995–1998). Once more an American vehicle docked with a Russian craft, this time a full-fledged space station. This cooperation has continued with Russia and the United States as two of the biggest partners in the largest space station built: the International Space Station (ISS). The strength of their cooperation on this project was even more evident when NASA began relying on Russian launch vehicles to service the ISS during the two-year grounding of the shuttle fleet following the 2003 Space Shuttle Columbia disaster.
+The Shuttle fleet lost two orbiters and 14 astronauts in two disasters: Challenger in 1986, and Columbia in 2003. While the 1986 loss was mitigated by building the Space Shuttle Endeavour from replacement parts, NASA did not build another orbiter to replace the second loss. NASA's Space Shuttle program had 135 missions when the program ended with the successful landing of the Space Shuttle Atlantis at the Kennedy Space Center on July 21, 2011. The program spanned 30 years with over 300 astronauts sent into space.
+
+
+=== International Space Station (1993–present) ===
+
+The International Space Station (ISS) combines NASA's Space Station Freedom project with the Soviet/Russian Mir-2 station, the European Columbus station, and the Japanese Kibō laboratory module. NASA originally planned in the 1980s to develop Freedom alone, but US budget constraints led to the merger of these projects into a single multi-national program in 1993, managed by NASA, the Russian Federal Space Agency (RKA), the Japan Aerospace Exploration Agency (JAXA), the European Space Agency (ESA), and the Canadian Space Agency (CSA). The station consists of pressurized modules, external trusses, solar arrays and other components, which were manufactured in various factories around the world, and have been launched by Russian Proton and Soyuz rockets, and the US Space Shuttles. The on-orbit assembly began in 1998, the completion of the US Orbital Segment occurred in 2019 and the completion of the Russian Orbital Segment occurred in 2010, though there are some debates of whether new modules should be added in the segment. The ownership and use of the space station is established in intergovernmental treaties and agreements which divide the station into two areas and allow Russia to retain full ownership of the Russian Orbital Segment (with the exception of Zarya), with the US Orbital Segment allocated between the other international partners.Long-duration missions to the ISS are referred to as ISS Expeditions. Expedition crew members typically spend approximately six months on the ISS. The initial expedition crew size was three, temporarily decreased to two following the Columbia disaster. Since May 2009, expedition crew size has been six crew members. Crew size is expected to be increased to seven, the number the ISS was designed for, once the Commercial Crew Program becomes operational. The ISS has been continuously occupied for the past 20 years and 130 days, having exceeded the previous record held by Mir; and has been visited by astronauts and cosmonauts from 15 different nations.The station can be seen from the Earth with the naked eye and, as of 2021, is the largest artificial satellite in Earth orbit with a mass and volume greater than that of any previous space station. The Soyuz spacecraft delivers crew members, stays docked for their half-year-long missions and then returns them home. Several uncrewed cargo spacecraft provide service to the ISS; they are the Russian Progress spacecraft which has done so since 2000, the European Automated Transfer Vehicle (ATV) since 2008, the Japanese H-II Transfer Vehicle (HTV) since 2009, the SpaceX Dragon from 2012 until 2020, and the American Cygnus spacecraft since 2013. The Space Shuttle, before its retirement, was also used for cargo transfer and would often switch out expedition crew members, although it did not have the capability to remain docked for the duration of their stay. Until another US crewed spacecraft is ready, crew members will travel to and from the International Space Station exclusively aboard the Soyuz. The highest number of people occupying the ISS has been thirteen; this occurred three times during the late Shuttle ISS assembly missions.On March 29, 2019, the ISS was scheduled to have its first all-female spacewalk, but it was delayed; Jessica Meir and Christina Koch performed the first all-female spacewalk with  on October 18, as part of a lengthy series of upgrades to the ISS' power systems and physics observatories.  The ISS program is expected to continue to 2030.
+
+
+=== Constellation program (2005–2010) ===
+
+While the Space Shuttle program was still suspended after the loss of Columbia, President George W. Bush announced the Vision for Space Exploration including the retirement of the Space Shuttle after completing the International Space Station. The plan was enacted into law by the NASA Authorization Act of 2005 and directs NASA to develop and launch the Crew Exploration Vehicle (later called Orion) by 2010, return Americans to the Moon by 2020, return to Mars as feasible, repair the Hubble Space Telescope, and continue scientific investigation through robotic solar system exploration, human presence on the ISS, Earth observation, and astrophysics research. The crewed exploration goals prompted NASA's Constellation program.On December 4, 2006, NASA announced it was planning a permanent Moon base. The goal was to start building the Moon base by 2020, and by 2024, have a fully functional base that would allow for crew rotations and in-situ resource utilization. However, in 2009, the Augustine Committee found the program to be on an "unsustainable trajectory." In February 2010, President Barack Obama's administration proposed eliminating public funds for it.
+
+
+=== Commercial Crew Program (2011–present) ===
+
+
+=== Journey to Mars (2010–2017) ===
+President Obama's plan was to develop American private spaceflight capabilities to get astronauts to the International Space Station, replace Russian Soyuz capsules, and use Orion capsules for ISS emergency escape purposes. During a speech at the Kennedy Space Center on April 15, 2010, Obama proposed a new heavy-lift vehicle (HLV) to replace the formerly planned Ares V. In his speech, Obama called for a crewed mission to an asteroid as soon as 2025, and a crewed mission to Mars orbit by the mid-2030s. The NASA Authorization Act of 2010 was passed by Congress and signed into law on October 11, 2010. The act officially canceled the Constellation program.The NASA Authorization Act of 2010 required a newly designed HLV be chosen within 90 days of its passing; the launch vehicle was given the name Space Launch System. The new law also required the construction of a beyond low earth orbit spacecraft. The Orion spacecraft, which was being developed as part of the Constellation program, was chosen to fulfill this role. The Space Launch System is planned to launch both Orion and other necessary hardware for missions beyond low Earth orbit. The SLS is to be upgraded over time with more powerful versions. The initial capability of SLS is required to be able to lift 70 t (150,000 lb) (later 95 t or 209,000 lb) into LEO. It is then planned to be upgraded to 105 t (231,000 lb) and then eventually to 130 t (290,000 lb).  The Orion capsule first flew on Exploration Flight Test 1 (EFT-1), an uncrewed test flight that was launched on December 5, 2014, atop a Delta IV Heavy rocket.NASA undertook a feasibility study in 2012 and developed the Asteroid Redirect Mission as an uncrewed mission to move a boulder-sized near-Earth asteroid (or boulder-sized chunk of a larger asteroid) into lunar orbit. The mission would demonstrate ion thruster technology, and develop techniques that could be used for planetary defense against an asteroid collision, as well as a cargo transport to Mars in support of a future human mission.  The Moon-orbiting boulder might then later be visited by astronauts. The Asteroid Redirect Mission was cancelled in 2017 as part of the FY2018 NASA budget, the first one under President Donald Trump.The Orion spacecraft conducted an uncrewed test launch on a Delta IV Heavy rocket in December 2014.
+
+
+=== Artemis program (2017–present) ===
+
+Since 2017, NASA's crewed spaceflight program has been the Artemis program, which involves the help of U.S. commercial spaceflight companies and international partners such as ESA, JAXA, and CSA. The goal of this program is to land "the first woman and the next man" on the lunar south pole region by 2024. Artemis would be the first step towards the long-term goal of establishing a sustainable presence on the Moon, laying the foundation for private companies to build a lunar economy, and eventually sending humans to Mars.
+The Orion Crew Exploration Vehicle was held over from the canceled Constellation program for Artemis. Artemis 1 is the uncrewed initial launch of Space Launch System (SLS) that would also send an Orion spacecraft on a Distant Retrograde Orbit, which, as of May 2020, is planned to launch no earlier than November 2021.
+
+NASA's next major space initiative is to be the construction of the Lunar Gateway.  This initiative is to involve the construction of a new space station, which will have many features in common with the current International Space Station, except that it will be in orbit about the Moon, instead of the Earth.  This space station will be designed primarily for non-continuous human habitation.  The first tentative steps of returning to crewed lunar missions will be Artemis 2, which is to include the Orion crew module, propelled by the SLS, and is to launch in 2023. This mission is to be a 10-day mission planned to briefly place a crew of four into a Lunar flyby. The construction of the Gateway would begin with the proposed Artemis 3, which is planned to deliver a crew of four to Lunar orbit along with the first modules of the Gateway. This mission would last for up to 30 days. NASA plans to build full scale deep space habitats such as the Lunar Gateway and the Nautilus-X as part of its Next Space Technologies for Exploration Partnerships (NextSTEP) program. In 2017, NASA was directed by the congressional NASA Transition Authorization Act of 2017 to get humans to Mars-orbit (or to the Martian surface) by the 2030s.In September 2020, as a part of the Artemis program, NASA outlined a plan to send astronauts to the Moon by 2024. The astronauts are to travel in the Orion capsule, launched on the SLS rocket.In February 2021, it was announced that "Blue Ghost Lander", a robotic device being constructed in Cedar Park, Texas, will be sent to the moon's Mare Crisium in 2023 to help prepare for NASA's goal of returning to the Lunar surface.
+
+
+== Satellites, probes, rovers, launch vehicles ==
+
+NASA has conducted many uncrewed and robotic spaceflight programs throughout its history. Uncrewed robotic programs launched the first American artificial satellites into Earth orbit for scientific and communications purposes, and sent scientific probes to explore the planets of the solar system, starting with Venus and Mars, and including "grand tours" of the outer planets. More than 1,000 uncrewed missions have been designed to explore the Earth and the solar system.
+
+
+=== Earth, moon, and L2 point ===
+Besides exploration, communication satellites have also been launched by NASA. The spacecraft have been launched directly from Earth or from orbiting space shuttles, which could either deploy the satellite itself, or with a rocket stage to take it farther.
+The first US uncrewed satellite was Explorer 1, which started as an ABMA/JPL project during the early part of the Space Race. It was launched in January 1958, two months after Sputnik. At the creation of NASA, the Explorer project was transferred to the agency and still continues to this day. Its missions have been focusing on the Earth and the Sun, measuring magnetic fields and the solar wind, among other aspects. A more recent Earth satellite, not related to the Explorer program, was the Hubble Space Telescope, which was brought into orbit in 1990.Cygnus and Cargo Dagon are used to resupply the International Space Station (ISS) as part of NASA's Commercial Resupply Services (CRS) program as of 2020. Cygnus is manufactured by Northrop Grumman and launched on the Antares rocket. Cargo Dragon is manufactured by SpaceX and launched on the Block 5 variant of Falcon 9. SpaceX Dragon, also launched on Falcon 9, was used to resupply the ISS from 2010 to 2020.
+The James Webb Space Telescope (JWST) is currently scheduled to launch in March 2021 on an Ariane 5 rocket. It will be placed in Earth-Sun L2 point.
+
+
+=== Inner solar system (including Mars) ===
+
+The inner Solar System has been made the goal of at least four uncrewed programs. The first was Mariner in the 1960s and 1970s, which made multiple visits to Venus and Mars and one to Mercury. Probes launched under the Mariner program were also the first to make a planetary flyby (Mariner 2), to take the first pictures from another planet (Mariner 4), the first planetary orbiter (Mariner 9), and the first to make a gravity assist maneuver (Mariner 10). This is a technique where the satellite takes advantage of the gravity and velocity of planets to reach its destination.The first successful landing on Mars was made by Viking 1 in 1976. Twenty years later a rover was landed on Mars by Mars Pathfinder. On November 26, 2011, NASA's Mars Science Laboratory mission was successfully launched for Mars. Curiosity successfully landed on Mars on August 6, 2012, and subsequently began its search for evidence of past or present life on Mars. On the horizon of NASA's plans is the MAVEN spacecraft as part of the Mars Scout Program to study the atmosphere of Mars.NASA's ongoing investigations include in-depth surveys of Mars (Perseverance and InSight).
+
+
+=== Outer solar system ===
+Outside Mars, Jupiter was first visited by Pioneer 10 in 1973. More than 20 years later Galileo sent a probe into the planet's atmosphere, and became the first spacecraft to orbit the planet. Pioneer 11 became the first spacecraft to visit Saturn in 1979, with Voyager 2 making the first (and so far only) visits to Uranus and Neptune in 1986 and 1989, respectively. The first spacecraft to leave the solar system was Pioneer 10 in 1983. For a time it was the most distant spacecraft, but it has since been surpassed by both Voyager 1 and Voyager 2.Pioneers 10 and 11 and both Voyager probes carry messages from the Earth to extraterrestrial life. Communication can be difficult with deep space travel. For instance, it took about three hours for a radio signal to reach the New Horizons spacecraft when it was more than halfway to Pluto. Contact with Pioneer 10 was lost in 2003. Both Voyager probes continue to operate as they explore the outer boundary between the Solar System and interstellar space.The New Horizons mission to Pluto was launched in 2006 and successfully performed a flyby of Pluto on July 14, 2015. The probe received a gravity assist from Jupiter in February 2007, examining some of Jupiter's inner moons and testing on-board instruments during the flyby. Other active spacecraft are Juno for Jupiter and Dawn for the asteroid belt. NASA continued to support in situ exploration beyond the asteroid belt, including Pioneer and Voyager traverses into the unexplored trans-Pluto region, and Gas Giant orbiters Galileo (1989–2003), Cassini (1997–2017), and Juno (2011–present).
+
+
+== Near-Earth object detection ==
+
+In 1994, there was a Congressional directive to find near-Earth objects (NEOs) larger than 1 kilometer, and 90% of 1 kilometer sized asteroids are estimated to have been found by 2010.In 1999, NASA visited 433 Eros with the NEAR spacecraft which entered its orbit in 2000, closely imaging the asteroid with various instruments at that time. From the 1990s NASA has run many NEO detection programs from Earth bases observatories, greatly increasing the number of objects that have been detected. However, many asteroids are very dark and the ones that are near the Sun are much harder to detect from Earth-based telescopes which observe at night, and thus face away from the Sun. NEOs inside Earth orbit only reflect a part of light also rather than potentially a "full Moon" when they are behind the Earth and fully lit by the Sun.
+In 2005, the US Congress mandated NASA to achieve by the year 2020 specific levels of search completeness for discovering, cataloging, and characterizing dangerous asteroids larger than 140 meters (460 ft) (Act of 2005, H.R. 1022; 109th), but no new funds were appropriated for this effort. As of January 2019, it is estimated about 40% of the NEOs of this size have been found, although since by its nature the exact amount of NEOs are unknown the calculations are based on predictions of how many there could be.One issue with NEO prediction is trying to estimate how many more are likely to be found In 2000, NASA reduced its estimate of the number of existing near-Earth asteroids over one kilometer in diameter from 1,000–2,000 to 500–1,000. Shortly thereafter, the LINEAR survey provided an alternative estimate of 1,227+170−90. In 2011, on the basis of NEOWISE observations, the estimated number of one-kilometer NEAs was narrowed to 981±19 (of which 93% had been discovered at the time), while the number of NEAs larger than 140 meters across was estimated at 13,200±1,900. The NEOWISE estimate differed from other estimates in assuming a slightly lower average asteroid albedo, which produces larger estimated diameters for the same asteroid brightness. This resulted in 911 then known asteroids at least 1 km across, as opposed to the 830 then listed by CNEOS. In 2017, using an improved statistical method, two studies reduced the estimated number of NEAs brighter than absolute magnitude 17.75 (approximately over one kilometer in diameter) to 921±20. The estimated number of asteroids brighter than absolute magnitude of 22.0 (approximately over 140 m across) rose to 27,100±2,200, double the WISE estimate, of which about a third are known as of 2018. A problem with estimating the number of NEOs is that detections are influenced by a number of factors.NASA turned the infrared space survey telescope WISE back on in 2013 to look for NEOs, and it found some during the course of its operation. NEOcam competed in the highly competitive Discovery program, which became more so due to a low mission rate in the 2010s.
+
+
+== Research ==
+
+NASA's Aeronautics Research Mission Directorate conducts aeronautics research.
+NASA has made use of technologies such as the multi-mission radioisotope thermoelectric generator (MMRTG), which is a type of radioisotope thermoelectric generator used to power spacecraft. Shortages of the required plutonium-238 have curtailed deep space missions since the turn of the millennium. An example of a spacecraft that was not developed because of a shortage of this material was New Horizons 2.The Earth science research program was created and first funded in the 1980s under the administrations of Ronald Reagan and George H.W. Bush.NASA started an annual competition in 2014 named Cubes in Space. It is jointly organized by NASA and the global education company I Doodle Learning, with the objective of teaching school students aged 11–18 to design and build scientific experiments to be launched into space on a NASA rocket or balloon. On June 21, 2017 the world's smallest satellite, KalamSAT, was launched.NASA also researches and publishes on climate change. Its statements concur with the global scientific consensus that the global climate is warming. Bob Walker, who has advised US President Donald Trump on space issues, has advocated that NASA should focus on space exploration and that its climate study operations should be transferred to other agencies such as NOAA. Former NASA atmospheric scientist J. Marshall Shepherd countered that Earth science study was built into NASA's mission at its creation in the 1958 National Aeronautics and Space Act. NASA won the 2020 Webby People's Voice Award for Green in the category Web.NASA contracted a third party to study the probability of using Free Space Optics (FSO) to communicate with Optical (laser) Stations on the Ground (OGS) called laser-com RF networks for satellite communications.On July 29, 2020, NASA requested American universities to propose new technologies for extracting water from the lunar soil and developing power systems. The idea will help the space agency conduct sustainable exploration of the Moon.
+
+
+== Environmental impact ==
+The exhaust gases produced by rocket propulsion systems, both in Earth's atmosphere and in space, can adversely effect the Earth's environment. Some hypergolic rocket propellants, such as hydrazine, are highly toxic prior to combustion, but decompose into less toxic compounds after burning. Rockets using hydrocarbon fuels, such as kerosene, release carbon dioxide and soot in their exhaust. However, carbon dioxide emissions are insignificant compared to those from other sources; on average, the United States consumed 802,620,000 US gallons (3.0382×109 L) of liquid fuels per day in 2014, while a single Falcon 9 rocket first stage burns around 25,000 US gallons (95,000 L) of kerosene fuel per launch. Even if a Falcon 9 were launched every single day, it would only represent 0.006% of liquid fuel consumption (and carbon dioxide emissions) for that day. Additionally, the exhaust from LOx- and LH2- fueled engines, like the SSME, is almost entirely water vapor. NASA addressed environmental concerns with its canceled Constellation program in accordance with the National Environmental Policy Act in 2011. In contrast, ion engines use harmless noble gases like xenon for propulsion.On May 8, 2003, Environmental Protection Agency recognized NASA as the first federal agency to directly use landfill gas to produce energy at one of its facilities—the Goddard Space Flight Center, Greenbelt, Maryland.An example of NASA's environmental efforts is the NASA Sustainability Base. Additionally, the Exploration Sciences Building was awarded the LEED Gold rating in 2010.In 2018, NASA along with other companies including Sensor Coating Systems, Pratt & Whitney, Monitor Coating and UTRC launched the project CAUTION (CoAtings for Ultra High Temperature detectION). This project aims to enhance the temperature range of the Thermal History Coating up to 1,500 °C (2,730 °F) and beyond. The final goal of this project is improving the safety of jet engines as well as increasing efficiency and reducing CO2 emissions.
+
+
+== Goals and directives ==
+
+Some of NASA's main directives have been the landing of a crewed spacecraft on the Moon, the designing and construction of the Space Shuttle, and efforts to construct a large, crewed space station. Typically, the major directives originated from the intersection of scientific interest and advice, political interests, federal funding concerns, and the public interest, that all together brought varying waves of effort, often heavily swayed by technical developments, funding changes, and world events. For example, in the 1980s, the Reagan administration announced a directive with a major push to build a crewed space station, given the name Space Station Freedom. But, when the Cold War ended, Russia, the United States, and other international partners came together to design and build the International Space Station.
+In the 2010s, major shifts in directives include the retirement of the Space Shuttle, and the later development of a new crewed heavy lift rocket, the Space Launch System. Missions for the new Space Launch System have varied, but overall, NASA's directives are similar to the Space Shuttle program as the primary goal and desire is human spaceflight. Additionally, NASA's Space Exploration Initiative of the 1980s opened new avenues of exploration focused on other galaxies.
+For the coming decades, NASA's focus has gradually shifting towards eventual exploration of Mars. One of the technological options focused on was the Asteroid Redirect Mission (ARM). ARM had largely been defunded in 2017, but the key technologies developed for ARM would be utilized for future exploration, notably on a solar electric propulsion system.Longer project execution timelines leave future executive administration officials to execute on a directive, which can lead to directional mismanagement.Previously, in the early 2000s, NASA worked towards a strategic plan called the Constellation Program, but the program was defunded in the early 2010s. In the 1990s, NASA's administration adopted an approach to planning coined "Faster, Better, Cheaper".
+
+
+=== NASA Authorization Act of 2017 ===
+The NASA Authorization Act of 2017, which included $19.5 billion in funding for that fiscal year, directed NASA to get humans near or on the surface of Mars by the early 2030s.Though the agency is independent, the survival or discontinuation of projects can depend directly on the will of the President.
+
+
+=== Space Policy Directive 1 ===
+In December 2017, on the 45th anniversary of the last crewed mission to the Moon's surface, President Donald Trump approved a directive that includes a lunar mission on the pathway to Mars and beyond.
+We'll learn.  The directive I'm signing today will refocus America's space program on human exploration and discovery.  It marks an important step in returning American astronauts to the Moon for the first time since 1972 for long-term exploration and use.  This time, we will not only plant our flag and leave our footprint, we will establish a foundation for an eventual mission to Mars.  And perhaps, someday, to many worlds beyond.
+New NASA administrator Jim Bridenstine addressed this directive in an August 2018 speech where he focused on the sustainability aspects—going to the Moon to stay—that are explicit in the directive, including taking advantage of US commercial space capability that did not exist even five years ago, which have driven down costs and increased access to space.
+
+
+=== Goals ===
+Since 2011, NASA's strategic goals have been
+Extend and sustain human activities across the solar system
+Expand scientific understanding of the Earth and the universe
+Create innovative new space technologies
+Advance aeronautics research
+Enable program and institutional capabilities to conduct NASA's aeronautics and space activities
+Share NASA with the public, educators, and students to provide opportunities to participate
+
+
+== Budget ==
+
+NASA's share of the total federal budget peaked at approximately 4.41% in 1966 during the Apollo program, then rapidly declined to approximately 1% in 1975, and stayed around that level through 1998. The percentage then gradually dropped, until leveling off again at around half a percent in 2006 (estimated in 2012 at 0.48% of the federal budget). In a March 2012 hearing of the United States Senate Science Committee, science communicator Neil deGrasse Tyson testified that "Right now, NASA's annual budget is half a penny on your tax dollar. For twice that—a penny on a dollar—we can transform the country from a sullen, dispirited nation, weary of economic struggle, to one where it has reclaimed its 20th century birthright to dream of tomorrow."Despite this, public perception of NASA's budget differs significantly: a 1997 poll indicated that most Americans believed that 20% of the federal budget went to NASA.For Fiscal Year 2015, NASA received an appropriation of US$18.01 billion from Congress—$549 million more than requested and approximately $350 million more than the 2014 NASA budget passed by Congress.In Fiscal Year 2016, NASA received $19.3 billion.President Donald Trump signed the NASA Transition Authorization Act of 2017 in March, which set the 2017 budget at around $19.5 billion. The budget is also reported as $19.3 billion for 2017, with $20.7 billion proposed for FY2018.Examples of some proposed FY2018 budgets:
+Exploration: $4.79 billion
+Planetary science: $2.23 billion
+Earth science: $1.92 billion
+Aeronautics: $0.685 billion
+
+
+== Miscellaneous ==
+
+
+=== NASA Advisory Council ===
+In response to the Apollo 1 accident, which killed three astronauts in 1967, Congress directed NASA to form an Aerospace Safety Advisory Panel (ASAP) to advise the NASA Administrator on safety issues and hazards in NASA's aerospace programs. In the aftermath of the Shuttle Columbia disaster, Congress required that the ASAP submit an annual report to the NASA Administrator and to Congress. By 1971, NASA had also established the Space Program Advisory Council and the Research and Technology Advisory Council to provide the administrator with advisory committee support. In 1977, the latter two were combined to form the NASA Advisory Council (NAC). The NASA Authorization Act of 2014 reaffirmed the importance of ASAP.
+
+
+=== Use of the metric system ===
+US law requires the International System of Units to be used in all U.S. Government programs, "except where impractical".In 1969, the Apollo 11 landed on the Moon using a mix of United States customary units and metric units. In the 1980s, NASA started the transition towards using only the metric system, and was predominantly metric by the 1990s. On September 23, 1999, a unit mixup between US and SI units resulted in the loss of the Mars Climate Orbiter.In August 2007, NASA stated that all future missions and explorations of the Moon would be done entirely using the SI system. This was done to improve cooperation with space agencies of other countries which already use the metric system.As of 2007, NASA is predominantly working with SI units, but some projects still use English units, and some, including the International Space Station, use a mix of both.
+
+
+=== Partnership with the United States Space Force ===
+
+The United States Space Force (USSF) is the space service branch of the United States Armed Forces, while the National Aeronautics and Space Administration (NASA) is an independent agency of the United States government responsible for civil spaceflight. NASA and the Space Force's predecessors in the Air Force have a long-standing cooperative relationship, with the Space Force supporting NASA launches out of Kennedy Space Center, Cape Canaveral Space Force Station, and Vandenberg Air Force Base, to include range support and rescue operations from Task Force 45. NASA and the Space Force also partner on matters such as defending Earth from asteroids. Space Force members can be NASA astronauts, with Colonel Michael S. Hopkins, the commander of SpaceX Crew-1, commissioned into the Space Force from the International Space Station on 18 December 2020. In September 2020, the Space Force and NASA signed a memorandum of understanding formally acknowledging the joint role of both agencies. This new memorandum replaced a similar document signed in 2006 between NASA and Air Force Space Command.
+
+
+=== Effects of the COVID-19 pandemic ===
+
+
+== Gallery ==
+
+
+=== Observations ===
+
+		
+		
+
+
+=== Past and current spacecraft ===
+
+		
+		
+		
+
+
+=== Planned spacecraft ===
+
+		
+		
+		
+
+
+=== Concepts ===
+NASA has developed oftentimes elaborate plans and technology concepts, some of which become worked into real plans.
+
+		
+		
+		
+
+
+== See also ==
+
+List of crewed spacecraft – Wikipedia list article
+List of United States rockets
+
+
+=== Articles about NASA ===
+Astronomy Picture of the Day – Website
+List of NASA aircraft – Wikipedia list article
+NASA Advanced Space Transportation Program
+NASA Art Program
+NASA Research Park
+NASA TV – Television channels of NASA
+NASAcast
+TechPort (NASA)
+
+
+=== Related agencies ===
+Department of Defense Manned Space Flight Support Office
+Indian Space Research Organisation – India's national space agency
+Roscosmos – Space agency of Russia
+United States Space Force – Space service branch of the United States Armed Forces
+
+
+== Explanatory notes ==
+
+
+== References ==
+
+
+== Further reading ==
+How NASA works on howstuffworks.com
+NASA History Division
+Monthly look at Exploration events
+NODIS: NASA Online Directives Information System
+NTRS: NASA Technical Reports Server
+NASA History and the Challenge of Keeping the Contemporary Past
+Quest: The History of Spaceflight Quarterly
+
+
+== External links ==
+
+NASA official website
+NASA's channel on YouTube
+@NASA on Twitter 
+NASA on Facebook
+NASA Engineering and Safety Center
+NASA Photos and NASA Images
+NASA Launch Schedule
+NASA Television and NASA podcasts
+NASA in the Federal Register
+NASA Watch, an agency watchdog site
+The Gateway to Astronaut Photography of Earth
+NASA Documents relating to the Space Program, 1953–62, Dwight D. Eisenhower Presidential Library
+Online documents pertaining to the early history and development of NASA, Dwight D. Eisenhower Presidential Library
+NASA records available for research at the National Archives at Atlanta
+Technical Report Archive and Image Library (TRAIL) – historic technical reports from NASA and other federal agencies
+NASA Alumni League, NAL Florida Chapter, NAL JSC Chapter
+Works by NASA at Project Gutenberg
+Works by or about NASA at Internet Archive

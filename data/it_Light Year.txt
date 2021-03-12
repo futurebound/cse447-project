@@ -1,0 +1,102 @@
+L'anno luce (ly o al) è un'unità di misura della lunghezza, definita come la distanza percorsa dalla radiazione elettromagnetica (luce) nel vuoto nell'intervallo di un anno.
+Esso è comunemente utilizzato in astronomia per esprimere le distanze con (e fra) oggetti celesti posti al di fuori dal Sistema solare, cioè per distanze su scala galattica. Un'altra unità dello stesso ordine di grandezza spesso utilizzata dagli astronomi è il parsec, che corrisponde a circa 3,26 anni luce.
+La definizione di anno luce data dall'UAI Unione astronomica internazionale è: "La distanza che un fotone percorre nello spazio vuoto in assenza di campo gravitazionale o magnetico in un anno giuliano". L'anno giuliano ha una durata di 365,25 giorni, mediamente di 86 400 secondi ciascuno (al giorno d'oggi invero di qualche millesimo di secondo più lunghi), pari in totale a 31 557 600 secondi.Poiché la velocità della luce nel vuoto (c) è pari a 299 792,458 chilometri al secondo (km/s), un anno luce corrisponde a 9 460 730 472 581 km, cioè:
+
+  
+    
+      
+        299
+        
+        792
+        
+        ,
+        458
+         
+        
+          k
+          m
+          
+            /
+          
+          s
+        
+        ⋅
+        365
+        
+          ,
+        
+        25
+         
+        
+          d
+        
+        ⋅
+        86
+        
+        400
+         
+        
+          s
+          
+            /
+          
+          d
+        
+        ≈
+        9,461
+        ⋅
+        
+          10
+          
+            12
+          
+        
+         
+        
+          k
+          m
+        
+      
+    
+    {\displaystyle 299\,792\,,458\ \mathrm {km/s} \cdot 365{,}25\ \mathrm {d} \cdot 86\,400\ \mathrm {s/d} \approx 9{,}461\cdot 10^{12}\ \mathrm {km} }
+  vale a dire circa 9 461 miliardi di chilometri o circa 63 241 volte la distanza fra la Terra e il Sole (nota come unità astronomica). L'anno luce è quindi una distanza enorme su scala umana.
+Altre unità di misura delle lunghezze accomunate con l'anno luce sono il minuto luce, il secondo luce, e così via; esse sono ottenute considerando la distanza percorsa dalla luce in una certa unità di tempo (vedi gli esempi).
+
+Al contrario, va rimarcato che l'anno luce non è un'unità di misura del tempo (né tanto meno della "quantità" di luce), per quanto sia corretto dire che l'osservazione diretta di un corpo celeste distante un certo numero di anni luce ci mostra quel corpo celeste come era lo stesso numero di anni fa e non nel momento della sua osservazione.
+
+
+== Esempi ==
+
+La luce impiega circa 1,28 s per coprire la distanza che separa la Terra dalla Luna.
+In una scala in cui la Terra avesse un diametro di 1 cm, un anno luce corrisponderebbe a una distanza di 7423,80 km.
+La luce impiega circa 8,33 minuti (8 minuti e 20 secondi) per viaggiare dal Sole alla Terra.
+Un'ora luce corrisponde a circa 1,08 miliardi di chilometri (circa la distanza tra il Sole e Saturno).
+Plutone è a circa 39 au dalla Terra, il che significa che è a circa 5,4 ore luce (5 h 24 min) dalla Terra.
+La stella più vicina alla Terra (escluso il Sole), Proxima Centauri, dista 4,23 anni luce dalla Terra.
+Il disco della nostra galassia, la Via Lattea, ha un diametro di circa 100 000 anni luce.
+La galassia più vicina di grandi dimensioni, la galassia di Andromeda, si trova a una distanza di 2,5 milioni di anni luce.
+Il Gruppo Locale ha un diametro di circa 10 milioni di anni luce.
+Il quasar più vicino alla Terra (3C 273) si trova a circa 3 miliardi di anni luce.
+Alla velocità attuale di circa 61000 km/h la sonda Voyager I lanciata nel 1977, percorrerà la distanza di 1 anno luce in circa 17 700 anni.
+Poiché si calcola che il Big Bang sia avvenuto circa 13 820 000 000 di anni fa, l'Universo osservabile, supposto sferico, ha un raggio di circa 13 820 000 000 anni luce.
+Un anno luce (tropico) corrisponde precisamente a 9454254955488 km.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Distanze astronomiche
+Giorno luce
+Mese luce
+Minuto luce
+Ora luce
+Parsec
+Secondo luce
+Settimana luce
+Unità astronomica
+
+
+== Collegamenti esterni ==
+ Che cos'è un "anno luce" e come viene usato?, su archive.oapd.inaf.it, INAF- Astronomical Observatory of Padova.
+ Anno luce, in Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana.

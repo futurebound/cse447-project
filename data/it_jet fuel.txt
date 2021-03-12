@@ -1,0 +1,120 @@
+Con il termine dodecano ci si riferisce ad un qualunque alcano avente formula bruta C12H26 o ad una qualunque miscela di più composti corrispondenti a tale formula (isomeri strutturali) o per antonomasia all'isomero lineare, chiamato più propriamente n-dodecano.Il n-dodecano è un alcano lineare liquido composto da 12 atomi di carbonio, di formula CH3(CH2)10CH3. Presenta 355 isomeri.
+Viene usato come solvente, chaser di distillazione e scintillatore.
+
+
+== Combustione ==
+La reazione di combustione del dodecano avviene come segue:
+
+  
+    
+      
+        
+          
+            C
+            
+              12
+            
+            
+              
+            
+          
+          
+            H
+            
+              26
+            
+            
+              
+            
+          
+          
+            (
+            l
+            )
+          
+          +
+          
+            
+              37
+              2
+            
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          
+            (
+            g
+            )
+          
+          ⟶
+          12
+          
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+          
+            (
+            g
+            )
+          
+          +
+          13
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          
+            (
+            g
+            )
+          
+        
+      
+    
+    {\displaystyle {\ce {C12H26 (l) + 37/2 O2(g) -> 12 CO2(g) + 13 H2O (g)}}}
+  La reazione ha ∆H˚ = -7513 kJ
+
+
+== Surrogato di carburante per jet ==
+Negli ultimi anni, l'n-dodecano ha attirato l'attenzione come  possibile surrogato dei carburanti a base di cherosene come Jet-A, S-8 e altri carburanti convenzionali per l'aviazione. È considerato un surrogato di combustibile di seconda generazione progettato per emulare la velocità della fiamma laminare, soppiantando in gran parte l'n-decano, principalmente a causa della sua maggiore massa molecolare e del rapporto idrogeno/carbonio più basso che riflette meglio il contenuto di n-alcano dei carburanti a reazione.
+
+
+== Note ==
+
+
+== Bibliografia ==
+(EN) D.R. Caudwell, Trusler, J.P.M.; Vesovic, V.; Wakeham, W.A., The Viscosity and Density of n-Dodecane and n-Octadecane at Pressures up to 200 mPa and Temperatures up to 473 K (PDF), NIST, 16 giugno 2003. URL consultato il 9 maggio 2010 (archiviato dall'url originale il 9 ottobre 2006).
+
+
+== Voci correlate ==
+Acido dodecilbenzensolfonico
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su dodecano
+
+
+== Collegamenti esterni ==
+Dati di sicurezza Archiviato il 18 settembre 2007 in Internet Archive. sul dodecano
+Il dodecano al Dr. Duke's Phytochemical and Ethnobotanical Databases

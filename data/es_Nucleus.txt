@@ -1,0 +1,357 @@
+En matemática y especialmente en álgebra lineal, el núcleo o kernel de un operador lineal A es el conjunto de todos los vectores cuya imagen bajo A sea el vector nulo. 
+
+  
+    
+      
+        ker
+        ⁡
+        A
+        =
+        {
+        
+          
+            
+              v
+              →
+            
+          
+        
+        ∈
+        V
+        :
+        A
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          0
+        
+        }
+      
+    
+    {\displaystyle \ker A=\{\mathbf {\vec {v}} \in V:A\mathbf {\vec {v}} =\mathbf {0} \}}
+  El núcleo de A se denota como Ker A o Nucl A, y es un subespacio vectorial del dominio de A.
+
+
+== Ejemplos ==
+Considérese la función f(x, y)= x−y, definida para cualquier par de números reales (x,y), que es lineal ya que se cumple que
+
+  
+    
+      
+        f
+        (
+        x
+        +
+        z
+        ,
+        y
+        +
+        w
+        )
+        =
+        (
+        x
+        +
+        z
+        )
+        −
+        (
+        y
+        +
+        w
+        )
+        =
+        (
+        x
+        −
+        y
+        )
+        +
+        (
+        z
+        −
+        w
+        )
+        =
+        f
+        (
+        x
+        ,
+        y
+        )
+        +
+        f
+        (
+        z
+        ,
+        w
+        )
+      
+    
+    {\displaystyle f(x+z,y+w)=(x+z)-(y+w)=(x-y)+(z-w)=f(x,y)+f(z,w)}
+  .Su núcleo consiste en todos aquellos vectores cuya primera y segunda coordenada coinciden, en concreto el conjunto:
+
+  
+    
+      
+        {
+        (
+        x
+        ,
+        x
+        )
+        ∈
+        
+          
+            R
+          
+          
+            2
+          
+        
+        :
+        ∀
+        x
+        ∈
+        
+          R
+        
+        }
+      
+    
+    {\displaystyle \{(x,x)\in \mathbb {R} ^{2}:\forall x\in \mathbb {R} \}}
+  que es el mismo que la variedad lineal generada por el vector (1,1), que describe la recta 
+  
+    
+      
+        y
+        =
+        x
+      
+    
+    {\displaystyle y=x}
+   en 
+  
+    
+      
+        
+          
+            R
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{2}}
+  .
+En el espacio euclídeo de dimensión 3, el núcleo de una forma lineal está formado por todos aquellos vectores que son ortogonales a uno dado. Por ejemplo, dado el vector a = (1,2,3), la forma lineal dada por el producto escalar 
+  
+    
+      
+        a
+        ⋅
+        x
+      
+    
+    {\displaystyle a\cdot x}
+   tiene por núcleo los vectores que satisfacen la ecuación matricial
+
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  1
+                
+                
+                  2
+                
+                
+                  3
+                
+              
+            
+            )
+          
+        
+        ⋅
+        
+          
+            (
+            
+              
+                
+                  
+                    x
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    x
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    x
+                    
+                      3
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\begin{pmatrix}1&2&3\\\end{pmatrix}}\cdot {\begin{pmatrix}x_{1}\\x_{2}\\x_{3}\end{pmatrix}}=0}
+  ,que equivale a la ecuación lineal:
+
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        +
+        2
+        
+          x
+          
+            2
+          
+        
+        +
+        3
+        
+          x
+          
+            3
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle x_{1}+2x_{2}+3x_{3}=0}
+   .La solución es otro subespacio de dimensión 2, que se puede describir por ejemplo como el subespacio generado por los vectores:
+
+  
+    
+      
+        
+          
+            L
+          
+        
+        
+          (
+          
+            (
+            −
+            2
+            ,
+            1
+            ,
+            0
+            )
+            ,
+            (
+            −
+            3
+            ,
+            0
+            ,
+            1
+            )
+          
+          )
+        
+      
+    
+    {\displaystyle {\mathcal {L}}\left((-2,1,0),(-3,0,1)\right)}
+  .
+
+
+== Propiedades ==
+Dado un operador lineal 
+  
+    
+      
+        f
+        :
+        
+          
+            R
+          
+          
+            n
+          
+        
+        →
+        
+          
+            R
+          
+          
+            m
+          
+        
+      
+    
+    {\displaystyle f:\mathbb {R} ^{n}\to \mathbb {R} ^{m}}
+   con matriz asociada A, el núcleo es un subespacio de 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+  , cuya dimensión se denomina nulidad de A, que coincide con el número de columnas que no tienen pivotes al reducir por filas la matriz A. El teorema rango-nulidad establece que el rango más la nulidad es igual al número de columnas de la matriz.
+
+
+== Véase también ==
+Conjunto imagen.
+Teorema rango-nulidad.
+
+
+== Enlaces externos ==
+Weisstein, Eric W. «Kernel».  En Weisstein, Eric W, ed. MathWorld (en inglés). Wolfram Research. 
+Kernel of a linear mapping en PlanetMath.

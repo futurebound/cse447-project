@@ -1,0 +1,1588 @@
+El electromagnetismo es la rama de la física que estudia y unifica los fenómenos eléctricos y magnéticos en una sola teoría. El electromagnetismo describe la interacción de partículas cargadas con campos eléctricos y magnéticos. La interacción electromagnética es una de las cuatro fuerzas fundamentales del universo conocido. Las partículas cargadas interactúan electromagnéticamente mediante el intercambio de fotones. 
+El electromagnetismo abarca diversos fenómenos del mundo real como por ejemplo la luz. La luz es un campo electromagnético oscilante que se irradia desde partículas cargadas aceleradas. Aparte de la gravedad, la mayoría de las fuerzas en la experiencia cotidiana son consecuencia de electromagnetismo.
+Los principios del electromagnetismo encuentran aplicaciones en diversas disciplinas afines, tales como las microondas, antenas, máquinas eléctricas, comunicaciones por satélite, bioelectromagnetismo, plasmas, investigación nuclear, la fibra óptica, la interferencia y la compatibilidad electromagnéticas, la conversión de energía electromecánica, la meteorología por radar, y la observación remota. Los dispositivos electromagnéticos incluyen transformadores, relés, radio/TV, teléfonos, motores eléctricos, líneas de transmisión, guías de onda y láseres.
+Los fundamentos de la teoría electromagnética fueron presentados por Michael Faraday y formulados por primera vez de modo completo por James Clerk Maxwell en 1865. La formulación consiste en cuatro ecuaciones diferenciales vectoriales que relacionan el campo eléctrico, el campo magnético y sus respectivas fuentes materiales (corriente eléctrica, polarización eléctrica y polarización magnética), conocidas como ecuaciones de Maxwell, lo que ha sido considerada como la «segunda gran unificación de la física», siendo la primera realizada por Isaac Newton.
+La teoría electromagnética se puede dividir en electrostática —el estudio de las interacciones entre cargas en reposo— y la electrodinámica —el estudio de las interacciones entre cargas en movimiento y la radiación. La teoría clásica del electromagnetismo se basa en la fuerza de Lorentz y en las ecuaciones de Maxwell.
+El electromagnetismo es una teoría de campos; es decir, las explicaciones y predicciones que provee se basan en magnitudes físicas vectoriales o tensoriales dependientes de la posición en el espacio y del tiempo. El electromagnetismo describe los fenómenos físicos macroscópicos en los cuales intervienen cargas eléctricas en reposo y en movimiento, usando para ello campos eléctricos y magnéticos y sus efectos sobre las sustancias sólidas, líquidas y gaseosas. Por ser una teoría macroscópica, es decir, aplicable a un número muy grande de partículas y a distancias grandes respecto de las dimensiones de estas, el electromagnetismo no describe los fenómenos atómicos y moleculares. La electrodinámica cuántica proporciona la descripción cuántica de esta interacción, que puede ser unificada con la interacción nuclear débil según el modelo electrodébil.
+
+
+== Ramas ==
+
+
+=== Electrostática ===
+La electrostática es el estudio de los fenómenos asociados a los cuerpos cargados en reposo. Como describe la ley de Coulomb, estos cuerpos ejercen fuerzas entre sí. Su comportamiento se puede analizar en términos de la idea de un campo eléctrico que rodea cualquier cuerpo cargado, de manera que otro cuerpo cargado colocado dentro del campo estará sujeto a una fuerza proporcional a la magnitud de su carga y de la magnitud del campo en su ubicación. El que la fuerza sea atractiva o repulsiva depende de la polaridad de la carga. La electrostática tiene muchas aplicaciones, que van desde el análisis de fenómenos como tormentas eléctricas hasta el estudio del comportamiento de los tubos electrónicos.
+Cuando hablamos de electrostática nos referimos a los fenómenos que ocurren debido a una propiedad intrínseca y discreta de la materia, la carga, cuando es estacionaria o no depende del tiempo. La unidad de carga elemental, es decir, la más pequeña observable, es la carga que tiene el electrón.[1]​ Se dice que un cuerpo está cargado eléctricamente cuando tiene exceso o falta de electrones en los átomos que lo componen. Por definición el defecto de electrones se la denomina carga positiva y al exceso carga negativa.[2]​ La relación entre los dos tipos de carga es de atracción cuando son diferentes y de repulsión cuando son iguales.
+La carga elemental es una unidad muy pequeña para cálculos prácticos, por eso en el Sistema Internacional la unidad de carga eléctrica, el culombio, se define como la cantidad de carga transportada en un segundo por una corriente de un amperio de intensidad de corriente eléctrica. 
+
+  
+    
+      
+        1
+         
+        
+          C
+        
+        =
+        1
+         
+        
+          A
+        
+        ⋅
+        
+          s
+        
+      
+    
+    {\displaystyle 1\ \mathrm {C} =1\ \mathrm {A} \cdot \mathrm {s} }
+  que equivale a la carga de 6,25 x 1018 electrones.[1]​ El movimiento de electrones por un conductor se denomina corriente eléctrica y la cantidad de carga eléctrica que pasa por unidad de tiempo se define como la intensidad de corriente. Se pueden introducir más conceptos como el de diferencia de potencial o el de resistencia, que nos conducirían ineludiblemente al área de circuitos eléctricos, y todo eso se puede ver con más detalle en el artículo principal.
+El nombre de la unidad de carga se debe a Coulomb, quien en 1785 llegó a una relación matemática de la fuerza eléctrica entre cargas puntuales, que ahora se la conoce como ley de Coulomb:
+
+  
+    
+      
+        
+          F
+        
+        =
+        
+          
+            1
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+        
+          
+            
+              
+                q
+                
+                  1
+                
+              
+              
+                q
+                
+                  2
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+        
+          
+            e
+          
+          
+            r
+          
+        
+      
+    
+    {\displaystyle \mathbf {F} ={\frac {1}{4\pi \varepsilon _{0}}}{\frac {q_{1}q_{2}}{r^{2}}}\mathbf {e} _{r}}
+  
+
+Entre dos cargas puntuales 
+  
+    
+      
+        
+          q
+          
+            1
+          
+        
+        
+      
+    
+    {\displaystyle q_{1}\;}
+   y 
+  
+    
+      
+        
+          q
+          
+            2
+          
+        
+        
+      
+    
+    {\displaystyle q_{2}\;}
+   existe una fuerza de atracción o repulsión 
+  
+    
+      
+        
+          F
+        
+      
+    
+    {\displaystyle \mathbf {F} }
+   que varía de acuerdo al cuadrado de la distancia 
+  
+    
+      
+        
+          r
+          
+            2
+          
+        
+        
+      
+    
+    {\displaystyle r^{2}\;}
+   entre ellas y de dirección radial 
+  
+    
+      
+        
+          
+            e
+          
+          
+            r
+          
+        
+      
+    
+    {\displaystyle \mathbf {e} _{r}}
+  ; y 
+  
+    
+      
+        
+          ε
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{0}}
+   es una constante conocida como permitividad eléctrica.
+Las cargas elementales al no encontrarse solas se las debe tratar como una distribución de ellas. Por eso debe implementarse el concepto de campo, definido como una región del espacio donde existe una magnitud escalar o vectorial dependiente o independiente del tiempo. Así el campo eléctrico 
+  
+    
+      
+        
+          
+            
+              E
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {E}}}
+   está definido como la región del espacio donde actúan las fuerzas eléctricas. Su intensidad se define como el límite al que tiende la fuerza de una distribución de carga sobre una carga positiva que tiende a cero, así:
+
+  
+    
+      
+        
+          E
+        
+        =
+        
+          lim
+          
+            Δ
+            q
+            →
+            0
+          
+        
+        
+          
+            
+              
+                F
+              
+              
+                Δ
+                q
+              
+            
+            
+              Δ
+              q
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {E} =\lim _{\Delta q\to 0}{\frac {\mathbf {F} _{\Delta q}}{\Delta q}}}
+  
+
+Y así finalmente llegamos a la expresión matemática que define el campo eléctrico:
+
+  
+    
+      
+        
+          E
+        
+        =
+        
+          
+            q
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+              
+                r
+                
+                  2
+                
+              
+            
+          
+        
+        
+          
+            e
+          
+          
+            r
+          
+        
+      
+    
+    {\displaystyle \mathbf {E} ={\frac {q}{4\pi \varepsilon _{0}r^{2}}}\mathbf {e} _{r}}
+  
+
+Es importante conocer el alcance de este concepto de campo eléctrico: nos brinda la oportunidad de conocer cuál es su intensidad y qué ocurre con una carga en cualquier parte de dicho campo sin importar el conocimiento de qué lo provoca.[3]​
+Una forma de obtener qué cantidad de fuerza eléctrica pasa por cierto punto o superficie del campo eléctrico es usar el concepto de flujo eléctrico. Este flujo eléctrico 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+   se define como la suma de la cantidad de campo que atraviesa un área determinada, así:
+
+  
+    
+      
+        Φ
+        =
+        ∑
+        
+          E
+        
+        ⋅
+        Δ
+        
+          S
+        
+        =
+        
+          ∮
+          
+            s
+          
+        
+        
+          E
+        
+        ⋅
+        
+          d
+        
+        
+          S
+        
+      
+    
+    {\displaystyle \Phi =\sum \mathbf {E} \cdot \Delta \mathbf {S} =\oint _{s}\mathbf {E} \cdot {\text{d}}\mathbf {S} }
+  
+
+El matemático y físico, Carl Friedrich Gauss, demostró que la cantidad de flujo eléctrico en un campo es igual al cociente entre la carga encerrada por la superficie en la que se calcula el flujo, 
+  
+    
+      
+        
+          q
+          
+            e
+            n
+            c
+          
+        
+        
+      
+    
+    {\displaystyle q_{enc}\;}
+  , y la permitividad eléctrica,
+  
+    
+      
+        
+          ε
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{0}}
+  . Esta relación se conoce como ley de Gauss:
+
+(1)
+  
+    
+      
+        Φ
+        =
+        
+          ∮
+          
+            s
+          
+        
+        
+          E
+        
+        ⋅
+        
+          d
+        
+        
+          S
+        
+        =
+        
+          
+            
+              q
+              
+                e
+                n
+                c
+              
+            
+            
+              ε
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle \Phi =\oint _{s}\mathbf {E} \cdot {\text{d}}\mathbf {S} ={\frac {q_{enc}}{\varepsilon _{0}}}}
+  
+
+
+=== Magnetostática ===
+
+No fue sino hasta el año de 1820, cuando Hans Christian Ørsted descubrió que el fenómeno magnético estaba ligado al eléctrico, que se obtuvo una teoría científica para el magnetismo.[4]​ La presencia de una corriente eléctrica, o sea, de un flujo de carga debido a una diferencia de potencial, genera una fuerza magnética que no varía en el tiempo. Si tenemos una carga q a una velocidad 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+  , en un campo magnético 
+  
+    
+      
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {B} }
+   aparecerá una fuerza magnética inducida por el movimiento en esta carga, así:
+
+  
+    
+      
+        
+          F
+        
+        =
+        q
+        
+          v
+        
+        ×
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {F} =q\mathbf {v} \times \mathbf {B} }
+  
+
+Para determinar el valor de ese campo magnético, Jean Baptiste Biot en 1820,[5]​ dedujo una relación para corrientes estacionarias, ahora conocida como ley de Biot-Savart:
+
+  
+    
+      
+        
+          B
+        
+        =
+        
+          
+            
+              
+                μ
+                
+                  0
+                
+              
+              I
+            
+            
+              4
+              π
+            
+          
+        
+        
+          ∮
+          
+            c
+          
+        
+        
+          
+            
+              d
+              
+                l
+              
+              ×
+              
+                r
+              
+            
+            
+              r
+              
+                3
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {B} ={\frac {\mu _{0}I}{4\pi }}\oint _{c}{\frac {d\mathbf {l} \times \mathbf {r} }{r^{3}}}}
+  
+
+Donde 
+  
+    
+      
+        
+          μ
+          
+            0
+          
+        
+        
+      
+    
+    {\displaystyle \mu _{0}\,}
+   es un coeficiente de proporcionalidad conocido como permeabilidad magnética, 
+  
+    
+      
+        I
+        
+      
+    
+    {\displaystyle I\,}
+   es la intensidad de corriente, el 
+  
+    
+      
+        
+          d
+        
+        
+          l
+        
+      
+    
+    {\displaystyle {\text{d}}\mathbf {l} }
+   es el diferencial de longitud por el que circula la corriente y 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {r} }
+   es la distancia de este elemento de longitud el punto donde se evalúa la inducción magnética. De manera más estricta, 
+  
+    
+      
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {B} }
+   es la inducción magnética, dicho en otras palabras, es el flujo magnético por unidad de área. Experimentalmente se llegó a la conclusión que las líneas de fuerza de campos magnéticos eran cerradas, eliminando la posibilidad de un monopolo magnético. La relación matemática se la conoce como ley de Gauss para el campo magnético:
+
+(2)
+  
+    
+      
+        
+          ∮
+          
+            S
+          
+        
+        
+          B
+        
+        ⋅
+        d
+        
+          S
+        
+        =
+        0
+      
+    
+    {\displaystyle \oint _{S}\mathbf {B} \cdot d\mathbf {S} =0}
+  
+
+Además en la magnetostática existe una ley comparable a la de Gauss en la electrostática, la ley de Ampère. Esta ley nos dice que la circulación en un campo magnético es igual a la densidad de corriente que exista en una superficie cerrada:
+
+  
+    
+      
+        
+          ∮
+          
+            c
+          
+        
+        
+          B
+        
+        ⋅
+        
+          d
+        
+        
+          l
+        
+        =
+        
+          μ
+          
+            0
+          
+        
+        I
+      
+    
+    {\displaystyle \oint _{c}\mathbf {B} \cdot {\text{d}}\mathbf {l} =\mu _{0}I}
+  
+
+Cabe indicar que esta ley de Gauss es una generalización de la ley de Biot-Savart. Además que las fórmulas expresadas aquí son para cargas en el vacío, para más información consúltese los artículos principales.
+
+
+=== Electrodinámica clásica ===
+
+La electrodinámica es el estudio de los fenómenos asociados a los cuerpos cargados en movimiento y a los campos eléctricos y magnéticos variables. Dado que una carga en movimiento produce un campo magnético, la electrodinámica se refiere a efectos tales como el magnetismo, la radiación electromagnética, y la inducción electromagnética, incluyendo las aplicaciones prácticas, tales como el generador eléctrico y el motor eléctrico. Esta área de la electrodinámica, conocida como electrodinámica clásica, fue sistemáticamente explicada por James Clerk Maxwell, y las ecuaciones de Maxwell describen los fenómenos de esta área con gran generalidad. Una novedad desarrollada más reciente es la electrodinámica cuántica, que incorpora las leyes de la teoría cuántica a fin de explicar la interacción de la radiación electromagnética con la materia. Paul Dirac, Heisenberg y Wolfgang Pauli fueron pioneros en la formulación de la electrodinámica cuántica. La electrodinámica es inherentemente relativista y da unas correcciones que se introducen en la descripción de los movimientos de las partículas cargadas cuando sus velocidades se acercan a la velocidad de la luz. Se aplica a los fenómenos involucrados con aceleradores de partículas y con tubos electrónicos funcionando a altas tensiones y corrientes.
+En las secciones anteriores se han descrito campos eléctricos y magnéticos que no variaban con el tiempo. Pero los físicos a finales del siglo XIX descubrieron que ambos campos estaban ligados y así un campo eléctrico en movimiento, una corriente eléctrica que varíe, genera un campo magnético y un campo magnético de por si implica la presencia de un campo eléctrico. Entonces, lo primero que debemos definir es la fuerza que tendría una partícula cargada que se mueva en un campo magnético y así llegamos a la unión de las dos fuerzas anteriores, lo que hoy conocemos como la fuerza de Lorentz:
+
+(3)
+  
+    
+      
+        
+          F
+        
+        =
+        q
+        (
+        
+          E
+        
+        +
+        
+          v
+        
+        ×
+        
+          B
+        
+        )
+      
+    
+    {\displaystyle \mathbf {F} =q(\mathbf {E} +\mathbf {v} \times \mathbf {B} )}
+  
+
+Entre 1890 y 1900 Liénard y Wiechert calcularon el campo electromagnético asociado a cargas en movimiento arbitrario, resultado que se conoce hoy como potenciales de Liénard-Wiechert.
+Por otro lado, para generar una corriente eléctrica en un circuito cerrado debe existir una diferencia de potencial entre dos puntos del circuito, a esta diferencia de potencial se la conoce como fuerza electromotriz o fem. Esta fuerza electromotriz es proporcional a la rapidez con que el flujo magnético varía en el tiempo, esta ley fue encontrada por Michael Faraday y es la interpretación de la inducción electromagnética, así un campo magnético que varía en el tiempo induce a un campo eléctrico, a una fuerza electromotriz. Matemáticamente se representa como:
+
+(4)
+  
+    
+      
+        
+          ∮
+          
+            C
+          
+        
+        
+          E
+        
+        ⋅
+        
+          d
+        
+        
+          l
+        
+        =
+        −
+        
+          
+            d
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+          ∫
+          
+            S
+          
+        
+        
+          B
+        
+        ⋅
+        
+          d
+        
+        
+          S
+        
+      
+    
+    {\displaystyle \oint _{C}\mathbf {E} \cdot {\text{d}}\mathbf {l} =-{\frac {\text{d}}{{\text{d}}t}}\int _{S}\mathbf {B} \cdot {\text{d}}\mathbf {S} }
+  
+
+El físico James Clerk Maxwell de 1861 relacionó las anteriormente citadas ecuaciones para la ley de Gauss ((1)), ley de Gauss para el campo magnético ((2)), ley de Faraday ((4)) e introdujo el concepto de una corriente de desplazamiento como una densidad de corriente efectiva para llegar a la ley de Ampère generalizada (5):
+
+(5)
+  
+    
+      
+        
+          ∮
+          
+            C
+          
+        
+        
+          B
+        
+        ⋅
+        
+          d
+        
+        
+          l
+        
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          ∫
+          
+            S
+          
+        
+        
+          j
+        
+        ⋅
+        
+          d
+        
+        
+          S
+        
+        +
+        
+          μ
+          
+            0
+          
+        
+        
+          ϵ
+          
+            0
+          
+        
+        
+          
+            d
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+          ∫
+          
+            S
+          
+        
+        
+          E
+        
+        ⋅
+        
+          d
+        
+        
+          S
+        
+      
+    
+    {\displaystyle \oint _{C}\mathbf {B} \cdot {\text{d}}\mathbf {l} =\mu _{0}\int _{S}\mathbf {j} \cdot {\text{d}}\mathbf {S} +\mu _{0}\epsilon _{0}{\frac {\text{d}}{{\text{d}}t}}\int _{S}\mathbf {E} \cdot {\text{d}}\mathbf {S} }
+  
+
+Las cuatro ecuaciones, tanto en su forma diferencial como en la integral aquí descritas, son fruto de la reformulación del trabajo de Maxwell realizada por  Oliver Heaviside y Heinrich Rudolf Hertz. Pero el verdadero poder de estas ecuaciones, más la fuerza de Lorentz (3), se centra en que juntas son capaces de describir cualquier fenómeno electromagnético, además de las consecuencias físicas que posteriormente se describirán.[6]​
+
+La genialidad del trabajo de Maxwell es que sus ecuaciones describen un campo eléctrico que va ligado inequívocamente a un campo magnético perpendicular a este y a la dirección de su propagación, este campo es ahora llamado campo electromagnético. Dichos campos podían ser derivados de un potencial escalar(
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+  ) y un potencial vectorial (
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbf {A} }
+  ) dados por las ecuaciones:
+
+(6)
+  
+    
+      
+        
+          E
+        
+        =
+        
+          
+            1
+            c
+          
+        
+        
+          
+            
+              ∂
+              
+                A
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        −
+        ∇
+        ϕ
+      
+    
+    {\displaystyle \mathbf {E} ={\frac {1}{c}}{\frac {\partial \mathbf {A} }{\partial t}}-\nabla \phi }
+  
+
+  
+    
+      
+        
+          B
+        
+        =
+        ∇
+        ×
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbf {B} =\nabla \times \mathbf {A} }
+  
+
+La solución de las ecuaciones de Maxwell implicaba la existencia de una onda que se propagaba a la velocidad de la luz, con lo que además de unificar los fenómenos eléctricos y magnéticos la teoría formulada por Maxwell predecía con absoluta certeza los fenómenos ópticos.[7]​
+Así la teoría predecía a una onda que, contraria a las ideas de la época, no necesitaba un medio de propagación; la onda electromagnética se podía propagar en el vacío debido a la generación mutua de los campos magnéticos y eléctricos. Esta onda a pesar de tener una velocidad constante, la velocidad de la luz c, puede tener diferente longitud de onda y consecuentemente dicha onda transporta energía. La radiación electromagnética recibe diferentes nombres al variar su longitud de onda, como rayos gamma, rayos X, espectro visible, etc.; pero en su conjunto recibe el nombre de espectro electromagnético.
+
+
+=== Electrodinámica relativista ===
+
+Clásicamente, al fijar un sistema de referencia, se puede descomponer los campos eléctricos y magnéticos del campo electromagnético. Pero, en la teoría de la relatividad especial, al tener a un observador con movimiento relativo respecto al sistema de referencia, este medirá efectos eléctricos y magnéticos diferentes de un mismo fenómeno electromagnético. El campo eléctrico y la inducción magnética a pesar de ser elementos vectoriales no se comportan como magnitudes físicas vectoriales, por el contrario la unión de ambos constituye otro ente físico llamado tensor y en este caso el tensor de campo electromagnético.[8]​
+Así, la expresión para el campo electromagnético es:
+
+  
+    
+      
+        
+          F
+        
+        =
+        
+          F
+          
+            μ
+            ν
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  0
+                
+                
+                  
+                    E
+                    
+                      x
+                    
+                  
+                  
+                    /
+                  
+                  c
+                
+                
+                  
+                    E
+                    
+                      y
+                    
+                  
+                  
+                    /
+                  
+                  c
+                
+                
+                  
+                    E
+                    
+                      z
+                    
+                  
+                  
+                    /
+                  
+                  c
+                
+              
+              
+                
+                  −
+                  
+                    E
+                    
+                      x
+                    
+                  
+                  
+                    /
+                  
+                  c
+                
+                
+                  0
+                
+                
+                  −
+                  
+                    B
+                    
+                      z
+                    
+                  
+                
+                
+                  
+                    B
+                    
+                      y
+                    
+                  
+                
+              
+              
+                
+                  −
+                  
+                    E
+                    
+                      y
+                    
+                  
+                  
+                    /
+                  
+                  c
+                
+                
+                  
+                    B
+                    
+                      z
+                    
+                  
+                
+                
+                  0
+                
+                
+                  −
+                  
+                    B
+                    
+                      x
+                    
+                  
+                
+              
+              
+                
+                  −
+                  
+                    E
+                    
+                      z
+                    
+                  
+                  
+                    /
+                  
+                  c
+                
+                
+                  −
+                  
+                    B
+                    
+                      y
+                    
+                  
+                
+                
+                  
+                    B
+                    
+                      x
+                    
+                  
+                
+                
+                  0
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \mathbf {F} =F_{\mu \nu }={\begin{pmatrix}0&E_{x}/c&E_{y}/c&E_{z}/c\\-E_{x}/c&0&-B_{z}&B_{y}\\-E_{y}/c&B_{z}&0&-B_{x}\\-E_{z}/c&-B_{y}&B_{x}&0\end{pmatrix}}}
+  
+
+Esta representación se conoce como formulación covariante tetradimensional del electromagnetismo. Las expresiones covariantes para las ecuaciones de Maxwell (7) y la fuerza de Lorentz (6) se reducen a:
+
+(6)
+  
+    
+      
+         
+        
+          f
+          
+            α
+          
+        
+        =
+        
+          ∑
+          
+            β
+          
+        
+        e
+         
+        
+          F
+          
+            α
+            β
+          
+        
+         
+        
+          u
+          
+            β
+          
+        
+        
+      
+    
+    {\displaystyle \ f_{\alpha }=\sum _{\beta }e\ F_{\alpha \beta }\ u^{\beta }\,}
+  
+
+(7)
+  
+    
+      
+         
+        
+          ∂
+          
+            μ
+          
+        
+        
+          F
+          
+            μ
+            ν
+          
+        
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          J
+          
+            ν
+          
+        
+      
+    
+    {\displaystyle \ \partial _{\mu }F^{\mu \nu }=\mu _{0}J^{\nu }}
+  
+
+  
+    
+      
+        
+          ∂
+          
+            μ
+          
+        
+        ⋅
+        
+          F
+          
+            μ
+            ν
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \partial _{\mu }\cdot F^{\mu \nu }=0}
+  
+
+Dada la forma de las ecuaciones anteriores, si el dominio sobre el que se extiende el campo electromagnético es simplemente conexo el campo electromagnético puede expresarse como la derivada exterior de un cuadrivector llamado potencial vector, relacionado con los potenciales del electromagnetismo clásico de la siguiente manera:
+
+  
+    
+      
+        
+          A
+        
+        =
+        (
+        
+          A
+          
+            0
+          
+        
+        ;
+        
+          A
+          
+            1
+          
+        
+        ,
+        
+          A
+          
+            2
+          
+        
+        ,
+        
+          A
+          
+            3
+          
+        
+        )
+        =
+        (
+        ϕ
+        ;
+        
+          A
+        
+        )
+      
+    
+    {\displaystyle \mathbf {A} =(A_{0};A_{1},A_{2},A_{3})=(\phi ;\mathbf {A} )}
+  
+
+Donde:
+
+  
+    
+      
+        ϕ
+        
+      
+    
+    {\displaystyle \phi \;}
+  , es el potencial electroestático.
+
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbf {A} }
+  , es el potencial vector clásico.La relación entre el cuadrivector potencial y el tensor de campo electromanético resulta ser:
+
+  
+    
+      
+        
+          F
+        
+        =
+        
+          d
+        
+        
+          A
+        
+        =
+        
+          
+            1
+            
+              2
+              !
+            
+          
+        
+        
+          
+            
+              ∂
+              
+                A
+                
+                  β
+                
+              
+            
+            
+              ∂
+              
+                x
+                
+                  α
+                
+              
+            
+          
+        
+        −
+        
+          
+            
+              ∂
+              
+                A
+                
+                  α
+                
+              
+            
+            
+              ∂
+              
+                x
+                
+                  β
+                
+              
+            
+          
+        
+        d
+        
+          x
+          
+            α
+          
+        
+        ∧
+        d
+        
+          x
+          
+            β
+          
+        
+        =
+        
+          
+            1
+            
+              2
+              !
+            
+          
+        
+        
+          F
+          
+            α
+            β
+          
+        
+        d
+        
+          x
+          
+            α
+          
+        
+        ∧
+        d
+        
+          x
+          
+            β
+          
+        
+      
+    
+    {\displaystyle \mathbf {F} =\mathrm {d} \mathbf {A} ={\frac {1}{2!}}{\frac {\partial A_{\beta }}{\partial x^{\alpha }}}-{\frac {\partial A_{\alpha }}{\partial x^{\beta }}}dx^{\alpha }\land dx^{\beta }={\frac {1}{2!}}F_{\alpha \beta }dx^{\alpha }\land dx^{\beta }}
+  
+
+El hecho de que la interacción electromagnética pueda representarse por un (cuadri)vector que define completamente el campo electromagnético es la razón por la que se afirma en el tratamiento moderno que la interacción electromagnética es un campo vectorial.
+En relatividad general el tratamiento del campo electromagnético en un espacio-tiempo curvo es similar al presentado aquí para el espacio-tiempo de Minkowski, sólo que las derivadas parciales respecto a las coordenadas deben substituirse por derivadas covariantes.
+
+
+=== Electrodinámica cuántica ===
+
+Posteriormente a la revolución cuántica de inicios del siglo XX, los físicos se vieron forzados a buscar una teoría cuántica de la interacción electromagnética. El trabajo de Einstein con el efecto fotoeléctrico y la posterior formulación de la mecánica cuántica sugerían que la interacción electromagnética se producía mediante el intercambio de partículas elementales llamadas fotones. La nueva formulación cuántica lograda en la década de 1940 describe la interacción entre los bosones, o partículas portadoras de la interacción, y las otras partículas portadoras de materia (los fermiones).[9]​
+La electrodinámica cuántica es principalmente una teoría cuántica de campos renormalizada. Su desarrollo fue obra de Sinitiro Tomonaga, Julian Schwinger, Richard Feynman y Freeman Dyson alrededor de los años 1947 a 1949.[10]​ En la electrodinámica cuántica, la interacción entre partículas viene descrita por un lagrangiano que posee simetría local, concretamente simetría de gauge. Para la electrodinámica cuántica, el campo de gauge donde los fermiones interactúan es el campo electromagnético, descrito en esta teoría como los estados de bosones (fotones, en este caso) portadores de la interacción.[10]​
+Matemáticamente, el lagrangiano para la interacción entre fermiones mediante intercambio de fotones viene dado por:
+
+  
+    
+      
+        
+          
+            L
+          
+        
+        =
+        
+          
+            
+              ψ
+              ¯
+            
+          
+        
+        (
+        i
+        
+          γ
+          
+            μ
+          
+        
+        
+          D
+          
+            μ
+          
+        
+        −
+        m
+        )
+        ψ
+        −
+        
+          
+            1
+            4
+          
+        
+        
+          F
+          
+            μ
+            ν
+          
+        
+        
+          F
+          
+            μ
+            ν
+          
+        
+        
+      
+    
+    {\displaystyle {\mathcal {L}}={\bar {\psi }}(i\gamma ^{\mu }D_{\mu }-m)\psi -{\frac {1}{4}}F_{\mu \nu }F^{\mu \nu }\,}
+  
+
+Donde el significado de los términos son:
+
+  
+    
+      
+        
+          γ
+          
+            μ
+          
+        
+        
+        
+      
+    
+    {\displaystyle \gamma _{\mu }\,\!}
+   son las matrices de Dirac.
+
+  
+    
+      
+         
+        ψ
+      
+    
+    {\displaystyle \ \psi }
+   y 
+  
+    
+      
+        
+          
+            
+              ψ
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {\psi }}}
+   son los campos o espinores de Dirac que representan las partículas cargadas eléctricamente.
+
+  
+    
+      
+        
+          D
+          
+            μ
+          
+        
+        =
+        
+          ∂
+          
+            μ
+          
+        
+        +
+        i
+        e
+        
+          A
+          
+            μ
+          
+        
+        
+        
+      
+    
+    {\displaystyle D_{\mu }=\partial _{\mu }+ieA_{\mu }\,\!}
+   es la derivada covariante asociada a la simetría gauge.
+
+  
+    
+      
+         
+        
+          A
+          
+            μ
+          
+        
+      
+    
+    {\displaystyle \ A_{\mu }}
+   el operador asociado al potencial vector covariante del campo electromagnético y
+
+  
+    
+      
+        
+          F
+          
+            μ
+            ν
+          
+        
+        =
+        
+          ∂
+          
+            μ
+          
+        
+        
+          A
+          
+            ν
+          
+        
+        −
+        
+          ∂
+          
+            ν
+          
+        
+        
+          A
+          
+            μ
+          
+        
+        
+        
+      
+    
+    {\displaystyle F_{\mu \nu }=\partial _{\mu }A_{\nu }-\partial _{\nu }A_{\mu }\,\!}
+   el operador de campo asociado tensor de campo electromagnético.
+
+
+== Historia ==
+
+
+== Véase también ==
+Interacciones fundamentales
+Electricidad
+Magnetismo
+Historia de la electricidad
+Superfuerza
+Teoría del absorbedor de Wheeler-Feynman
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Alonso, Marcelo y Edward J. Finn (1976). Física. Fondo Educativo Interamericano. ISBN 84-03-20234-2. 
+Feynman, Richard (1974). Feynman lectures on Physics Volume 2 (en inglés). Addison Wesley Longman. ISBN 0-201-02115-3. 
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Electromagnetismo.
+ Wikiquote alberga frases célebres de o sobre Electromagnetismo.
+ Wikilibros alberga un libro o manual sobre Electromagnetismo.
+ Wikiversidad alberga proyectos de aprendizaje sobre Electromagnetismo.

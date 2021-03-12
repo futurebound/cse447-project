@@ -1,0 +1,201 @@
+La forza-peso (o più semplicemente peso) è, in fisica classica, la forza che un campo gravitazionale (ad esempio quello terrestre) esercita su un corpo avente massa.
+La forza-peso descrive quindi l'interazione gravitazionale che agisce tra due oggetti qualsiasi dotati di massa.
+La forza peso è stata definita da Isaac Newton nel libro Philosophiae Naturalis Principia Mathematica del 1687, definendo la legge di gravitazione universale. Si misura in newton (N) nel Sistema Internazionale.
+
+
+== Peso e massa ==
+Colloquialmente è frequente usare indistintamente le parole "peso" e "massa", ma questi termini non sono equivalenti dal punto di vista fisico. 
+In fisica si distinguono forza peso e massa in quanto grandezze sostanzialmente diverse: mentre la massa di un corpo è una sua proprietà intrinseca, indipendente dalla sua posizione nello spazio e da ogni altra grandezza fisica, il peso è l'effetto prodotto su tale massa dalla presenza di un campo gravitazionale. Ne risulta che la massa di un corpo è costante, mentre il suo peso varia a seconda del luogo in cui viene misurato. Sulla Luna, un uomo pesa meno che sulla Terra: sui due corpi celesti, una bilancia a torsione o a molla restituirà quindi valori diversi, in quanto si basa sulla misurazione della forza peso; una bilancia a contrappeso, invece, restituirà lo stesso valore, in quanto si basa sul confronto di masse (ciò vuol dire che anche su pianeti diversi uno stesso corpo mantiene la sua massa, mentre la forza peso varia in base all'accelerazione di gravità).
+
+
+== Approssimazione della forza peso ==
+
+La forza peso è generalmente espressa attraverso la seconda legge della dinamica, e cioè:
+
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+        =
+        m
+        
+        
+          
+            
+              g
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}=m\,{\vec {g}}}
+  dove m è la massa e g è l'accelerazione gravitazionale, il cui modulo è ricavabile in prima approssimazione dalla formula seguente:
+
+  
+    
+      
+        g
+        =
+        
+          
+            F
+            m
+          
+        
+        =
+        
+          
+            
+              G
+              
+                M
+                
+                  T
+                
+              
+            
+            
+              
+                
+                  R
+                  
+                    T
+                  
+                
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle g={\frac {F}{m}}={\frac {GM_{T}}{{R_{T}}^{2}}}}
+  Per il pianeta Terra il valore dell'accelerazione di gravità è stato convenzionalmente fissato a 9,80665 m/s2 nell'ambito della terza Conferenza Generale dei Pesi e delle Misure del 1901.Questa considerazione si rivela tuttavia approssimativa per tre aspetti principali:
+
+La relazione è valida per corpi puntiformi o a simmetria sferica (per il teorema di Gauss); ma la Terra non è una sfera bensì un geoide, per cui la distanza tra un punto sulla superficie terrestre e il centro della Terra è differente a seconda che ci troviamo all'equatore (dove è maggiore) o ai poli (dove è minore). (All'equatore il raggio terrestre 
+  
+    
+      
+        
+          R
+          
+            T
+          
+        
+      
+    
+    {\displaystyle R_{T}}
+   vale 6.378,137 km, mentre ai poli vale 6.356,752 km. Sperimentalmente si stima l'accelerazione misurata da un minimo di circa 9,78 m/s2 all'equatore a un massimo di circa 9,83 m/s2 ai poli).Nella stessa relazione si trascura l'effetto del moto dei pianeti nello spazio che imprime ai corpi forze apparenti, ad esempio la forza centrifuga. Come si vede nella figura, il vettore 
+  
+    
+      
+        
+          
+            
+              g
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {g}}}
+   è in realtà la somma del termine 
+  
+    
+      
+        
+          
+            
+              G
+              
+                M
+                
+                  T
+                
+              
+            
+            
+              
+                
+                  R
+                  
+                    T
+                  
+                
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {GM_{T}}{{R_{T}}^{2}}}}
+   e di un termine dovuto alla forza centrifuga, pari a 
+  
+    
+      
+        
+          ω
+          
+            2
+          
+        
+        a
+      
+    
+    {\displaystyle \omega ^{2}a}
+  , in cui 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   è la velocità angolare della Terra e 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   è la distanza del punto considerato dall'asse di rotazione terrestre.La Terra non è un corpo omogeneo, ma presenta al suo interno zone a densità differente e questo si traduce in anomalie nel campo gravitazionale terrestre (vedi figura a lato).
+
+
+== La forza peso sugli altri corpi celesti ==
+Nella tabella seguente sono riportati i rapporti tra l'accelerazione di gravità sulla Terra e altri corpi celesti.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Accelerazione di gravità
+Energia potenziale gravitazionale
+Bilancia
+Campo gravitazionale
+Campo gravitazionale terrestre
+Forza di gravità
+Massa (fisica)
+Moto del proiettile
+Gal
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «peso»
+ Wikimedia Commons contiene immagini o altri file su peso

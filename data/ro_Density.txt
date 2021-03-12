@@ -1,0 +1,495 @@
+:
+Densitatea (sau mai exact densitatea de masă, numită și masă specifică) este o mărime fizică folosită pentru descrierea materialelor și definită ca masa unității de volum. Astfel, densitatea unui corp este egală cu raportul dintre masa și volumul său. Unitatea de măsură în Sistemul Internațional pentru densitate este kilogramul pe metru cub (kg/m³); alte unități folosite sunt gramul pe centimetru cub (g/cm³), kilogramul pe litru (kg/L) etc. Densitatea se notează de obicei cu litera grecească 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   (ro) sau cu inițiala cuvântului, litera d.
+Densitatea este o mărime locală (intensivă), în sensul că densitatea unui corp poate diferi de la un loc la altul și nu depinde de mărimea corpului. Corpurile realizate din substanțe omogene au aceeași densitate indiferent de punctul în care se face măsurarea; la un astfel de corp prin divizare se obțin corpuri care prezintă aceeași densitate. Astfel densitatea este o mărime prin care poate fi caracterizată substanța respectivă; în unele aplicații densitatea poate folosi pentru identificarea substanțelor sau evaluarea purității sau concentrației lor.
+Volumul substanțelor, și ca urmare și densitatea, depinde de temperatură și de presiune. La substanțele lichide și mai ales la cele solide această dependență e slabă. În schimb gazele prezintă variații mari ale densității cu temperatura și presiunea.
+Densitatea este importantă în acele situații în care corpurile de densități diferite se comportă diferit sau trebuie manipulate diferit, ori în care cunoașterea densității poate servi în efectuarea unor operații. De exemplu, plutirea unui corp solid la suprafața unui lichid este determinată de relația dintre densitățile celor două substanțe: cele mai multe tipuri de lemn plutesc pe apă, dar cele mai multe tipuri de metal se scufundă (ambarcațiunile de metal nu se scufundă pentru că nu sunt masive, ci înglobează și aer, încât densitatea lor medie este mai mică decât a apei).
+
+
+== Definire ==
+Pentru corpuri omogene densitatea este raportul dintre masa corpului și volumul acestuia (sau masa molară și volumul molar al unei substanțe pure care alcătuiește corpul):
+
+  
+    
+      
+        ρ
+        =
+        
+          
+            m
+            V
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {m}{V}}}
+  
+În cazul corpurilor cu formă geometrică regulată (paralelipiped, cilindru etc.) se mai poate folosi formula
+
+  
+    
+      
+        ρ
+        =
+        
+          
+            m
+            V
+          
+        
+        =
+        m
+        ×
+        
+          V
+          
+            −
+            1
+          
+        
+        =
+        m
+        ×
+        (
+        k
+        ×
+        
+          l
+          
+            −
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle \rho ={\frac {m}{V}}=m\times V^{-1}=m\times (k\times l^{-3})}
+  ,
+unde 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   este coeficientul volumic al formei geometrice respective, iar 
+  
+    
+      
+        
+          l
+          
+            −
+            3
+          
+        
+      
+    
+    {\displaystyle l^{-3}}
+   este inversul produsului lungime x lățime x înălțime a corpului. 
+
+
+=== Definire generală ===
+Definirea generală ia în considerare variația densității in diferite puncte din spatiu, fapt care necesită folosirea unei integrale de volum:
+
+  
+    
+      
+        m
+        =
+        
+          ∫
+          
+            V
+          
+        
+        ρ
+        (
+        
+          r
+        
+        )
+        
+        d
+        V
+        .
+      
+    
+    {\displaystyle m=\int _{V}\rho (\mathbf {r} )\,dV.}
+  
+
+
+== Metode de măsurare ==
+Densitatea se poate măsura cu picnometrul, cu densimetrul (areometru), cu balanța (folosind forța lui Arhimede) sau la fluide în curgere pe fluxuri industriale cu debitmetrul Coriolis.
+
+
+== Unități de măsură ==
+Unitatea de măsură a densității în SI (Sistemul Internațional de Măsurări și Greutați) este raportul dintre unitatea de măsură a masei (kilogram) și unitatea de măsură a volumului (metru la puterea a treia, sau metrul cub), deci este kilogram pe metru cub, kg/m3.
+
+  
+    
+      
+        <
+        ρ
+        >=<
+        d
+        >=
+        1
+        
+          
+            
+               
+              k
+              g
+            
+            
+              m
+              
+                3
+              
+            
+          
+        
+        =
+        1
+         
+        k
+        g
+        ×
+        
+          m
+          
+            −
+            3
+          
+        
+      
+    
+    {\displaystyle <\rho >=<d>=1{\frac {\ kg}{m^{3}}}=1\ kg\times m^{-3}}
+  
+
+
+=== Dimensiunea densității ===
+Dimensional, densitatea se poate scrie sub forma monomului M x L-3 (dimensiunea masei, M, înmulțită cu puterea a treia negativă a dimensiunii lungimii L, sau altfel exprimat, dimensiunea masei, M, împărțită la puterea a treia a dimensiunii lungimii L):
+
+  
+    
+      
+        [
+        ρ
+        ]
+        =
+        [
+        d
+        ]
+        =
+        M
+        ×
+        
+          L
+          
+            −
+            3
+          
+        
+        =
+        
+          
+            M
+            
+              L
+              
+                3
+              
+            
+          
+        
+      
+    
+    {\displaystyle [\rho ]=[d]=M\times L^{-3}={\frac {M}{L^{3}}}}
+  
+
+
+== Modificarea densității ==
+Modificarea densității unui material se datorează în principal modificării temperaturii și presiunii prin dilatare termică. Acestea determină modificarea volumului.
+
+
+== Exemple de valori ==
+
+
+== Densitatea soluțiilor ==
+Densitatea unei soluții e dată de suma concentrațiilor masice ale componenților.
+
+  
+    
+      
+        ρ
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          ρ
+          
+            i
+          
+        
+        
+      
+    
+    {\displaystyle \rho =\sum _{i}\rho _{i}\,}
+  sau în funcție de densitățile componenților puri și volumele corespunzătoare:
+
+  
+    
+      
+        ρ
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          ρ
+          
+            i
+            ,
+            o
+          
+        
+        
+          
+            
+              V
+              
+                i
+              
+            
+            V
+          
+        
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          ρ
+          
+            i
+            ,
+            o
+          
+        
+        
+          ϕ
+          
+            i
+          
+        
+        ,
+      
+    
+    {\displaystyle \rho =\sum _{i}\rho _{i,o}{\frac {V_{i}}{V}}=\sum _{i}\rho _{i,o}\phi _{i},}
+  Densitatea unei soluții  se poate exprima și în funcție de masa molară medie și volumul molar ale soluției:
+
+  
+    
+      
+        ρ
+        =
+        
+          
+            M
+            
+              
+                V
+                ~
+              
+            
+          
+        
+        =
+        
+          
+            
+              ∑
+              
+                x
+                
+                  i
+                
+              
+              
+                M
+                
+                  i
+                
+              
+            
+            
+              ∑
+              
+                x
+                
+                  i
+                
+              
+              
+                
+                  
+                    
+                      V
+                      ¯
+                    
+                  
+                
+                
+                  i
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {M}{\tilde {V}}}={\frac {\sum x_{i}M_{i}}{\sum x_{i}{\bar {V}}_{i}}}}
+  Pentru o soluție cu doi componenți se poate scrie:
+
+  
+    
+      
+        ρ
+        =
+        
+          
+            
+              
+                x
+                
+                  1
+                
+              
+              (
+              
+                M
+                
+                  1
+                
+              
+              −
+              
+                M
+                
+                  2
+                
+              
+              )
+              +
+              
+                M
+                
+                  2
+                
+              
+            
+            
+              
+                x
+                
+                  1
+                
+              
+              (
+              
+                
+                  
+                    
+                      V
+                      ¯
+                    
+                  
+                
+                
+                  1
+                
+              
+              −
+              
+                
+                  
+                    
+                      V
+                      ¯
+                    
+                  
+                
+                
+                  2
+                
+              
+              )
+              +
+              
+                
+                  
+                    
+                      V
+                      ¯
+                    
+                  
+                
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {x_{1}(M_{1}-M_{2})+M_{2}}{x_{1}({\bar {V}}_{1}-{\bar {V}}_{2})+{\bar {V}}_{2}}}}
+  
+
+
+== Densitate a unei mărimi ==
+Generalizând, orice distribuție a unei mărimi fizice pe orice mărime spațială (lungime, suprafață sau volum) este o "densitate" a respectivei mărimi fizice pe unitatea de mărime spațială, respectiv pe unitatea de lungime, suprafață sau volum. Astfel de mărimi fizice sunt, în esență, densități sau repartiții (distribuții) liniare, de suprafață sau volumice ale mărimii fizice despre care se vorbește.
+Câteva exemple de densități (în sensul generalizat) sau distribuții liniare, de suprafață (superficiale) sau de volum (volumice) sunt:
+1. Masa unității de lungime. Se folosește mai ales în mecanică, în capitolele dedicate deformării corpurilor și propagării oscilațiilor în diferite medii. Se mai poate aplica la țevi, tije, sârme etc., a căror dimensiune dominantă este lungimea.
+2. Densitate superficială de sarcină, folosită în electricitate, în capitolele electricitații statice.
+3. Distribuția energetică volumică, folosită in mecanica cuantică la studierea efectului tunel.
+
+
+== Bibliografie ==
+
+
+== Vezi și ==
+Greutate specifică
+Kilogram pe metru cub
+Mărimi molare aparente
+Masă
+Volum
+Volum molar
+Legea lui Arhimede
+Difuzivitate
+Coeficient de dilatare termică
+Debitmetru masic
+Salinitate
+
+
+== Legături externe ==

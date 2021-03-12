@@ -1,0 +1,544 @@
+Een vlamvertrager of brandvertrager is een materiaal dat vuur verhindert of de verbreiding van vuur vertraagt. In de natuur voorkomende stoffen zoals asbest, maar ook synthetische materialen als PBDE's (polybroomdifenylether), pcb's (polychloorbifenyl) en PFAS (poly- en perfluoralkylstoffen) worden hiervoor ingezet. Er zijn echter op dit moment nieuwe alternatieven op de markt die op een ecologische wijze de ingrediënten samenstellen, denk daarbij bijvoorbeeld aan de HCA  en Finivlam brandvertrager. Deze brandvertrager kan tevens stoffen zoals katoen en linnen onbrandbaar maken (EN 1102) en hout in de hoogste Europese klasse brandvertragend maken (B-S1-D0 volgens de SBI test 13501:01).
+Wereldwijd werden in 2001 1,2 miljoen ton vlamvertragers verwerkt in producten (met een waarde van bijna 2 miljard Amerikaanse dollar). In 2010 zal de waarde al gestegen zijn tot 3,4 miljard dollar. Het grootste aandeel hiervan betreft aliminiumoxide-trihydraat (43% aandeel), met op de tweede plaats de gebromeerde chemicaliën (21%) en als derde organofosforchemicaliën (14%).De volgende processen worden met vlamvertragers bewerkt:
+
+Verwijderen van H- en OH-radicalen
+Voorkomen van pyrolyse
+Produceren van een beschermende laag op het materiaal
+Produceren van stikstof of andere niet-brandbare gassen, die het zuurstof verdrijven
+Productie van water, waardoor het brandende of brandbare object wordt gekoeld en warmte (energie) wordt verwijderd. (Warmte = energie en kan in principe niet verwijderd worden. De warmte wordt verspreid, waardoor de gemiddelde temperatuur daalt.)Er zijn ook vlamvertragers die deze processen synergetisch combineren.
+
+
+== Werkingsprincipe ==
+
+
+=== Halogenen ===
+Bij halogenen, verbindingen met de elementen F, Cl, Br en I berust de werking op het afsplitsen van het halogeenatoom als radicaal dat reageert met de vrije radicalen die binnen het verbrandingsproces de brand bevorderen.
+Afsplitsen van het halogeenatoom:
+
+  
+    
+      
+        
+          R
+          X
+           
+          ⟶
+          
+            R
+            
+              ∗
+            
+          
+          +
+          
+            X
+            
+              ∗
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {RX\ \longrightarrow R^{*}+X^{*}} }
+  Vorming van waterstofhalogeniden
+
+  
+    
+      
+        
+          R
+          H
+          +
+          
+            X
+            
+              ∗
+            
+          
+           
+          ⟶
+          H
+          X
+          +
+          
+            R
+            
+              ∗
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {RH+X^{*}\ \longrightarrow HX+R^{*}} }
+  Neutralisatie van de hoog-energetische radicalen
+
+  
+    
+      
+        
+          H
+          X
+          +
+          
+            H
+            
+              ∗
+            
+          
+           
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          +
+          
+            X
+            
+              ∗
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {HX+H^{*}\ \longrightarrow H_{2}+X^{*}} }
+  
+
+  
+    
+      
+        
+          H
+          X
+          +
+          O
+          
+            H
+            
+              ∗
+            
+          
+           
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          
+            X
+            
+              ∗
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {HX+OH^{*}\ \longrightarrow H_{2}O+X^{*}} }
+  Het vrijkomende halogeenradicaal in de laatste reactie wordt weer ingezet in het proces; het wordt dus niet verbruikt.
+Het gemak waarmee een halogeenatoom afsplitst is I > Br > Cl > F. De meest gebruikte vlamvertragers zijn verbindingen met chloor en broom. Bij verbindingen met fluor gebeurt die afsplitsingsreactie niet of nauwelijks bij hogere temperaturen. Bij verbindingen met jodium is de afsplitsingsreactie te makkelijk en treedt al op bij relatief lagere temperaturen.
+De bestwerkende halogeen is een verbinding met broom omdat die eerder werkzaam is dan een verbinding met chloor.
+Gehalogeneerde vlamvertragers hebben als nadeel dat er toxische rook kan ontstaan bij brand.
+Het type vlamvertragers met broom wordt voornamelijk ingezet voor elektronica en elektronische apparaten, zoals televisies en computermonitoren. Ook is het te vinden in elektrische kabels, gordijnen en meubels
+
+
+=== Antimoonoxide ===
+De werking van dit middel berust op het ontstaan van gasvormige halogeen-antimoon verbindingen, die zo verhinderen dat zuurstof tot het brandende materiaal kan komen. Bijvoorbeeld bij pvc, een polymeer met chloormoleculen, wordt dit middel veel ingezet. Ook fungeren die halogeen-antimoonverbindingen als radikaalvanger. Dit betekent dat de bij de brand optredende radikaalreacties vertraagd worden.
+Antimoonoxide moet gezien worden als een activator van halogeenverbindingen en het werkingsmechanisme sluit dan ook aan bij de sectie over halogeenverbindingen. Het versnelt de afbraak van halogeenverbingen, waarbij halogeenradicalen vrijkomen die ingrijpen in de partiële oxidatiecyclus in de gasfase die de vlam in stand houden. De radicalen H en OH die een zeer hoge energie hebben, zijn hiervoor verantwoordelijk. Halogeen radicalen en halogeenwaterstof reageren met deze radicalen en als er voldoende H en OH verdwijnt gaat de vlam uit.
+
+
+=== Fosforverbindingen ===
+Fosfaatesters, ammoniumfosfaat en andere anorganische fosfaten reageren bij een brand tot polyfosforzuren en metafosforzuren (ringvormige fosforzuren), die evenals bij halogeen-antimoonverbindingen een zuurstof-afsluitende laag vormen.
+Bijvoorbeeld de reactie van polyammoniumfosfaat:
+
+  
+    
+      
+        
+          (
+          N
+          
+            H
+            
+              4
+            
+          
+          P
+          
+            O
+            
+              3
+            
+          
+          
+            )
+            
+              n
+            
+          
+           
+          ⟶
+          (
+          H
+          P
+          
+            O
+            
+              3
+            
+          
+          
+            )
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {(NH_{4}PO_{3})_{n}\ \longrightarrow (HPO_{3})_{n}} }
+  Bij een temperatuur die hoger is dan 250 °C wordt ammoniak afgesplitst en fosforzuur gevormd dat de zuurstofafsluitende laag vormt, samen met de ontstane roetlaag (voorgesteld door "Ch").
+
+  
+    
+      
+        
+          (
+          H
+          P
+          
+            O
+            
+              3
+            
+          
+          
+            )
+            
+              n
+            
+          
+          +
+          
+            C
+            
+              x
+            
+          
+          (
+          
+            H
+            
+              2
+            
+          
+          O
+          
+            )
+            
+              m
+            
+          
+           
+          ⟶
+          [
+          C
+          h
+          
+            ]
+            
+              x
+            
+          
+          +
+          (
+          H
+          P
+          
+            O
+            
+              3
+            
+          
+          
+            )
+            
+              n
+            
+          
+          ⋅
+          m
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {(HPO_{3})_{n}+C_{x}(H_{2}O)_{m}\ \longrightarrow [Ch]_{x}+(HPO_{3})_{n}\cdot mH_{2}O} }
+  Fosforverbindingen worden vrij algemeen ingezet.
+
+
+=== Intumescerende middelen ===
+Het werkingsprincipe van deze middelen berust op vormen van een zuurstofbuitensluitende laag van schuim. De belangrijkste vertegenwoordiger is melamine en zijn zouten.
+Bijvoorbeeld polyfosfaten (de zuurdonor) in samenwerking met een melamine (de schuimvormer) en een koolstofleverancier als dipentaerytriet, zetmeel of pentaerytritol werken op deze manier. Bij brand worden gasvormige producten als koolstofdioxide en ammoniumgas gevormd.
+Bijvoorbeeld een ammoniumpolyfosfaat splitst ammoniak af onder vorming van fosforzuur. Fosforzuur reageert met het plastic of polymeer onder vorming van roet (zie voor de reacties bij fosforverbindingen). Het melamine valt bij hogere temperatuur uiteen in ammonium, dat samen met de ammonium uit het ammoniumpolyfosfaat met zuurstof reageert tot stikstof en water. Dit blaast de roet op tot een schuimlaag.
+
+  
+    
+      
+        
+          
+            C
+            
+              3
+            
+          
+          
+            H
+            
+              6
+            
+          
+          
+            N
+            
+              6
+            
+          
+           
+          ⟶
+          N
+          
+            H
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {C_{3}H_{6}N_{6}\ \longrightarrow NH_{3}} }
+  
+
+  
+    
+      
+        
+          N
+          
+            H
+            
+              3
+            
+          
+          +
+          
+            O
+            
+              2
+            
+          
+           
+          ⟶
+          
+            N
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {NH_{3}+O_{2}\ \longrightarrow N_{2}+H_{2}O} }
+  De gevormde schuimlaag wordt gestabiliseerd met crosslinking (vernetting zoals bij vulkanisatie).
+
+
+=== Metaalhydroxiden ===
+Bij deze stoffen wordt met een brand de metaalhydroxide in metaaloxide en watermoleculen omgezet, waarbij de watermoleculen ervoor zorgen dat de zuurstofconcentratie rond het brandend materiaal omlaag gebracht wordt en zo de brand in intensiteit vermindert. Bovendien is de reactie endotherm, zodat van het vuur ook nog warmte onttrokken wordt. Het metaaloxide vormt bovendien een niet-brandbare laag op het materiaal.
+Reacties zijn:
+
+  
+    
+      
+        
+          2
+          ⋅
+          A
+          l
+          (
+          O
+          H
+          
+            )
+            
+              3
+            
+          
+           
+          ⟶
+          A
+          
+            l
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+          ⋅
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\cdot Al(OH)_{3}\ \longrightarrow Al_{2}O_{3}+3\cdot H_{2}O} }
+  
+
+  
+    
+      
+        
+          M
+          g
+          (
+          O
+          H
+          
+            )
+            
+              2
+            
+          
+           
+          ⟶
+          M
+          g
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Mg(OH)_{2}\ \longrightarrow MgO+H_{2}O} }
+  Aluminiumhydroxide (ATH) is de meest ingezette vlamvertrager. Magnesiumhydroxide (MDH) wordt voornamelijk daar ingezet waar het plastic of polymeer geproduceerd of verwerkt wordt met hogere temperaturen, omdat het stabiel is tot 300 °C,
+
+
+== Overzicht gebruikte stoffen ==
+De volgende chemische stoffen worden ingezet:
+
+Anorganisch
+Metaalhydroxides
+Aluminiumhydroxide
+Magnesiumhydroxide
+Antimoniumverbindingingen
+Antimoniumtrioxide
+Antimoniumpentoxide
+Natriumantimonaat
+Boorverbindingen
+Boorzuur
+Borax
+Zinkboraat
+Overige metaalverbindingen
+Molybdeenverbindingen
+Titaanverbindingen
+Zirkoniumverbindingen
+Zinkverbindingen
+Zinkstanaat
+Zinkhydroxidestanaat
+Fosforverbindingen
+Rode fosfor
+Ammoniumpolyfosfaat
+Resorcinyldifosforzuurtetrafenylester (RDP)
+Andere anorganische vlamvertragers
+Ammoniumsulfamaat
+Ammoniumbromide
+gehalogeneerde organische verbindingen
+gebromeerd
+Tetrabroombisfenol A
+Decabroomdifenylether (Deca)
+Octabroombifenylether
+Tetrabroombifenylether
+Hexabroomcyclododecaan (HBCD)
+Tribroomfenol
+Bis(tribroomfenoxy)ethaan
+Tetrabroombisfenol A polycarbonaatoligomer (TBBA of TBBPA)
+Tetrabroombisfenol A epoxyoligomer (TBBA of TBBPA)
+Tetrabroomftaalzuuranhydride
+gechloreerd
+gechloreerde paraffine
+Bis(hexachlorocyclopentadieno)cyclo-octaan
+Dodecachloorpentacyclodecaan (Dechlorane)
+1,2,3,4,7,8,9,10,13,13,14,14-dodecachloor-1,4,4a,5,6,6a,7,10,10a,11,12,12a-dodecahydro-1,4:7,10-dimethanodibenzo(a,e)cycloocteen (Dechlorane Plus)
+Organofosfor
+Niet-gehalogeneerde verbindingen
+Fosfaatesters
+Trialkylfosfaat
+Triarylfosfaat
+Aryl-alkylfosfaat
+polyolen
+fosfonium stoffen
+fosfonaten
+gehalogeneerde fosfaten
+Tris(1-chloor-2-propyl)fosfaat (TCPP)
+Tris(2-chloorethyl)fosfaat (TCEP)
+Tris(2,3-dibromopropyl)fosfaat
+Tris(2-chloor-1-(chloormethyl)ethyl)fosfaat (TDCP)
+Stikstof gebaseerde
+Polyurethaan
+Polyamide
+Melamine en zouten van melamine
+Guanidine verbindingenVerschillende van deze stoffen zijn kankerverwekkend of verdacht van het veroorzaken van kanker.
+In Californië in de Verenigde Staten is met Proposition 65 een vrij complete lijst van kankerverwekkende stoffen opgevoerd.
+
+
+== Milieu en gevaren ==
+Het gebruik van vlamvertragers wordt door veel mensen als bezwaarlijk gezien. Aspecten die hier mee wegen zijn bioaccumulatie, de concentratie van dergelijke stoffen in de natuur, de vorming van toxische gassen, de toxiciteit van de chemicaliën zelf. Er bestaan ook zorgen ten aanzien van het vrijkomen van vlamvertragers uit de producten waarin ze verwerkt zijn.
+Met name broomhoudende vlamvertragers zijn het doelwit van onderzoek en verboden.
+Het gebruik van vlamvertragers is een afweging van voordelen en nadelen. Aan de ene kant worden heel veel levens gered, maar aan de andere kant zijn de negatieve gevolgen voor het milieu niet te ontkennen.
+In een studie waarin het gehalte aan PBDE in moedermelk werd onderzocht is een duidelijke stijging sinds 1990 in de VS waar te nemen, terwijl het in Zweden vergelijkbaar laag bleef. In een Zwitserse studie werd voor fosforhoudende vlamvertragers de concentratie in de lucht in een gebouw gemeten, waarbij de concentratie een orde lager was dan toegelaten. In een Duitse studie van de Bundesanstalt für Materialforschung und -prüfung werd de migratie van vlamvertragers uit verschillende artikelen onderzocht. Vele vlamvertragers zijn wat dat betreft risicoloos behalve TCPP. Het Fraunhofer instituut heeft ook wat betreft TCPP vastgesteld dat concentraties te hoog kunnen worden bij hoge temperaturen.
+De Europese autoriteiten hebben de penta-, octa- en decabroombifenylether als vlamvertrager verboden op grond van risico's voor het milieu en de menselijke gezondheid. Andere stoffen worden anno 2007 en 2008 onderzocht: TBBPA, HBCD, ATH en drie typen gechloreerde fosfaatesters. REACH zal waarschijnlijk leiden tot het terugtrekken van de markt van enige typen vlamvertragers, met name voor die typen waarvan de verkoophoeveelheden relatief klein zijn.
+Ten aanzien van vlamvertragers zijn enige labels geldig, zoals het Duitse "Blue Angel" de EU Flower en de TCO in Zweden. Gehalogeneerde vlamvertragers worden inmiddels door enige grotere ondernemingen geweerd.
+
+
+== Normen ==
+In de Europese Unie wordt over het algemeen de EN 13501-1-normering gebruikt (Eurocodes).
+In Frankrijk wordt nog veel de NF P92 510 (M-normering) gebruikt, die strenger is dan de norm van de Europese Unie.
+In het Verenigd Koninkrijk worden British Standards Institution (BS) 5852 deel 1&2 en BS 5867 gebruikt.
+In de Verenigde Staten wordt de California Fire Marshal CPA1-84 gebruikt.
+
+
+== Referenties ==

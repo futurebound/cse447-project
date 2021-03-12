@@ -1,0 +1,170 @@
+Gravitația (din latinescul gravitas, care înseamnă „greutate”) este un fenomen natural prin care toate lucrurile cu masă sau energie — incluzând planetele, stelele, galaxiile și chiar lumina — sunt aduse (sau gravitează) unul către celălalt. Pe Pământ, gravitația dă greutate obiectelor fizice, iar gravitația Lunii provoacă mareele oceanelor. Atracția gravitațională a materiei gazoase originale prezentă în Univers a determinat-o să înceapă coalescența, formând stele — și apoi ca stelele să se grupeze în galaxii — deci gravitația este responsabilă pentru multe dintre structurile pe scară largă din Univers. Gravitația are o gamă infinită, deși efectele sale devin din ce în ce mai slabe pe măsură ce obiectele sunt mai departe.
+Gravitația este descrisă cu mai multă precizie de teoria generală a relativității (propusă de Albert Einstein în 1915) care descrie gravitația nu ca o forță, ci ca o consecință a curburii spațiu-timpului cauzată de distribuția inegală a masei. Exemplul cel mai extrem al acestei curburi spațiu-timp este o gaură neagră, din care nimic — nici măcar lumina — nu poate ieși dacă a trecut de orizontul evenimentului găurii negre. Cu toate acestea, pentru majoritatea aplicațiilor, gravitația este bine aproximată de Legea atracției universale a lui Newton, care descrie gravitația ca o forță care face ca oricare două corpuri să fie atrase unele de altele cu o forță direct proporțională cu produsul maselor lor și invers proporțională cu pătratul distanței dintre ele.
+Gravitația este cea mai slabă dintre cele patru interacțiuni fundamentale ale fizicii, aproximativ 1038 de ori mai slabă decât interacțiunea tare, 1036 de ori mai slabă decât forța electromagnetică și 1029 de ori mai slabă decât interacțiunea slabă. În consecință, nu are nici o influență semnificativă la nivelul particulelor subatomice. În schimb, este interacțiunea dominantă la scară macroscopică și este cauza formării, formei și traiectoriei (orbitei) corpurilor cerești.
+Prima instanță a gravitației în Univers, posibil sub forma gravitației cuantice, a supergravității sau a singularității gravitaționale, împreună cu spațiul și timpul obișnuit, dezvoltate în epoca Planck (până la 10−43 secunde după Big Bang), posibil dintr-o stare primordială, cum ar fi un vid fals, vid cuantic sau o particulă virtuală, într-o manieră necunoscută în prezent. Încercările de a dezvolta o teorie a gravitației în concordanță cu mecanica cuantică, o teorie a gravitației cuantice, care ar permite unirea gravitației într-un cadru matematic comun (o teorie a întregului) cu celelalte trei interacțiuni fundamentale ale fizicii, reprezintă zona de cercetare actuală.
+
+
+== Istoria teoriei gravitaționale ==
+
+
+=== Antichitate ===
+În secolul al IV-lea î.Hr., filosoful grec Aristotel credea că nu există efect sau mișcare fără cauză. Cauza mișcării în jos a corpurilor grele, cum ar fi elementul pământ, era legată de natura lor, ceea ce le făcea să se deplaseze spre centrul universului, care era locul lor natural. Dimpotrivă, corpurile luminoase, cum ar fi elementul de foc, se mișcă prin natura lor în sus spre suprafața interioară a sferei Lunii. Astfel, în sistemul lui Aristotel, corpurile grele nu sunt atrase de pământ de o forță exterioară a gravitației, ci tind spre centrul universului datorită gravitas interioare sau a greutății. În secolul al III-lea î.Hr. filosoful grec Arhimede a descoperit centrul de greutate al unui triunghi. De asemenea, el a postulat că dacă două greutăți egale nu ar avea același centru de gravitație, centrul de greutate al celor două greutăți împreună ar fi în mijlocul liniei care le unește centrele de gravitație.Arhitectul și inginerul roman Vitruvius în cartea sa, De Architectura, a susținut că gravitația unui obiect nu depinde de greutate, ci de „natura” sa.În India antică, Aryabhata a identificat prima dată forța pentru a explica de ce obiectele nu sunt aruncate spre exterior pe măsură ce pământul se rotește. Astronomul și matematicianul Brahmagupta a descris gravitația ca o forță atractivă și a folosit termenul „gurutvaakarshan” pentru gravitație.
+
+
+=== Revoluția științifică ===
+
+Lucrările moderne asupra teoriei gravitaționale au început cu opera lui Galileo Galilei la sfârșitul secolului al XVI-lea și începutul secolului al XVII-lea. În celebrul său experiment (deși posibil apocrif,) a aruncat bile din Turnul Pisa, iar mai târziu, cu măsurători atente ale bilelor care s-au rostogolit pe un plan înclinat, Galileo a arătat că accelerația gravitațională este aceeași pentru toate obiectele. Aceasta a fost o îndepărtare majoră de la credința lui Aristotel că obiectele mai grele au o accelerație gravitațională mai mare. Galileo a afirmat că motivul pentru care obiectele cu masă mai mică cad mai lent este rezistența aerului. Opera lui Galileo a creat scena formulării teoriei gravitației a lui Newton.
+
+
+=== Teoria gravitației a lui Newton ===
+
+În 1687, matematicianul englez Sir Isaac Newton a publicat Principia, în care face ipoteza legii pătratelor inverse a gravitației universale. În propriile sale cuvinte, „am dedus că forțele care păstrează planetele în orbitele lor trebuie să fie reciproce cu pătratele distanțelor lor față de centrele pentru care se învârt: și, astfel, am comparat forța necesară pentru a menține Luna în orbita ei cu forța gravitației la suprafața Pământului și le-am găsit să răspundă aproape aproape”. Ecuația este următoarea:
+
+  
+    
+      
+        F
+        =
+        G
+        
+          
+            
+              
+                m
+                
+                  1
+                
+              
+              
+                m
+                
+                  2
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+         
+      
+    
+    {\displaystyle F=G{\frac {m_{1}m_{2}}{r^{2}}}\ }
+  
+Unde F este forța, m1 și m2 sunt masele obiectelor care interacționează, r este distanța dintre centrele maselor și G este constanta gravitațională.
+Teoria lui Newton s-a bucurat de cel mai mare succes atunci când a fost utilizată pentru a prezice existența planetei Neptun pe baza mișcărilor lui Uranus care nu puteau fi explicate prin acțiunile celorlalte planete. Calculele realizate atât de John Couch Adams, cât și de Urbain Le Verrier au prezis poziția generală a planetei, iar calculele lui Le Verrier sunt cele care l-au condus pe Johann Gottfried Galle la descoperirea lui Neptun.
+O discrepanță în orbita lui Mercur a evidențiat defecte în teoria lui Newton. Până la sfârșitul secolului al XIX-lea, se știa că orbita sa arăta ușoare perturbații care nu puteau fi considerate în întregime sub teoria lui Newton, însă toate căutările unui alt corp perturbator (cum ar fi o planetă orbitând Soarele chiar mai aproape de Mercur) au fost neroditoare. Problema a fost rezolvată în 1915 de noua teorie a relativității generale a lui Albert Einstein,
+care a explicat mica discrepanță a orbitei lui Mercur. Această discrepanță a fost avansul în periheliu lui Mercur de 42,98 arcsecunde pe secol.Deși teoria lui Newton a fost înlocuită de relativitatea generală a lui Einstein, majoritatea calculelor gravitaționale non-relativiste moderne sunt încă realizate folosind teoria lui Newton, deoarece este mai ușor de utilizat și dă rezultate suficient de precise pentru majoritatea aplicațiilor care implică mase, viteze și energii suficient de mici.
+
+
+==== Explicații mecanice ale gravitației ====
+Teoriile sau explicațiile mecanice ale gravitației sunt încercările de a explica legea gravitației cu ajutorul proceselor mecanice de bază, cum ar fi împingerea și fără a folosi vreo acțiune la distanță. Aceste teorii au fost dezvoltate între sec. 16 -19 în legătură cu teoriile eterului.
+René Descartes (1644) și Christiaan Huygens (1690) au folosit vortexuri pentru a explica gravitația. Robert Hooke (1671) și James Challis (1869) au presupus că fiecare organism emite unde care duc la o atracție a altor corpuri. Nicolas Fatio de Duillier (1690) și Georges-Louis Le Sage (1748) au propus un model corpuscular, folosind un fel de mecanism de screening sau de umbrire. Mai târziu, un model similar a fost creat de Hendrik Lorentz, care a folosit radiații electromagnetice în locul corpusculilor. Isaac Newton (1675) și Bernhard Riemann (1853) au susținut că fluxurile eterice mută toate corpurile unul către altul. Newton (1717) și Leonhard Euler (1760) au propus un model în care eterul își pierde densitatea în apropierea masei, ducând la o forță netă îndreptată spre corpuri. Lordul Kelvin (1871) a considerat că fiecare organism pulsează, ceea ce ar putea fi o explicație a gravitației și a încărcăturilor electrice.
+Dar toate aceste modele au eșuat, deoarece cele mai multe dintre ele duc la o cantitate inacceptabilă de tracțiune, care nu se observă în realitate. Alte modele încalcă legea privind conservarea energiei și sunt incompatibile cu termodinamica modernă.
+
+
+=== Principiul echivalenței ===
+Principiul echivalenței, explorat de o succesiune de cercetători incluzând pe: Galileo, Loránd Eötvös și Einstein, exprimă ideea că toate obiectele cad în același mod și că efectele gravitației sunt indistinctibile de anumite aspecte ale accelerării și decelerării. Cea mai simplă modalitate de a testa principiul echivalenței slabe este să se arunce două obiecte de mase sau compoziții diferite în vid și să se vadă dacă lovesc pământul în același timp. Astfel de experimente demonstrează că toate obiectele cad la aceeași viteză atunci când alte forțe (precum rezistența aerului și efectele electromagnetice) sunt neglijabile. Testele mai sofisticate folosesc un echilibru de torsiune de tipul inventat de Eötvös. Experimentele prin satelit, de exemplu STEP, sunt planificate pentru experimente mai precise în spațiu.Formulările principiului echivalenței includ:
+
+Principiul echivalenței slabe: Traiectoria unei mase punctuale într-un câmp gravitațional depinde doar de poziția și viteza inițială și este independentă de compoziția sa.
+Principiul echivalenței einsteiniene: Rezultatul oricărui experiment local ne-gravitațional într-un laborator în cădere liberă este independent de viteza laboratorului și de localizarea acestuia în spațiu.
+Principiul echivalenței puternice necesită cele două principii de mai sus.
+
+
+==== Relativitatea generală ====
+
+În 1907, Albert Einstein, în ceea ce el a descris ca fiind "cea mai fericită idee al vieții mele", a realizat că un observator care cădea de pe acoperișul unei case nu își dă seama de câmpul gravitațional. Cu alte cuvinte, gravitația era exact echivalentă cu accelerația. Între 1911 și 1915, această idee, inițial declarată ca principiu de echivalență, a fost formal dezvoltată în teoria teoriei relativității generale a lui Einstein.
+După câțiva ani, a fost descoperită o discrepanță pe o orbită a planetei Mercur care a arătat că teoria lui Newton este inexactă. Până la sfârșitul secolului al XIX-lea, se știa că orbita lui Mercur nu putea fi considerată în întregime sub gravitația newtoniană și că toate căutările pentru un alt corp perturbativ (cum ar fi o planetă care orbitează în jurul Soarelui chiar mai aproape de Mercur) nu au avut nici un rezultat. Această problemă a fost rezolvată în 1915 de noua teorie generală de relativitate a lui Albert Einstein, care a explicat discrepanța în orbita lui Mercur.În relativitatea generală, efectele gravitației sunt atribuite curburii spațiutimp în locul forței. Punctul de pornire pentru relativitatea generală este principiul echivalenței, care echivalează căderea liberă cu mișcarea inerțială și descrie obiectele inerțiale care cad liber ca fiind accelerate în raport cu observatorii neinerțiali pe pământ. Cu toate acestea, în fizica Newtoniană, nicio astfel de accelerare nu poate apărea decât dacă cel puțin unul dintre obiecte este operat de o forță.
+Einstein a sugerat că spațiul este curbat de materie și că obiectele care cad liber se deplasează de-a lungul căilor drepte local în spațiutimp curbat. Aceste căi drepte se numesc geodezice. Ca și prima lege a mișcării lui Newton, teoria lui Einstein afirmă că, dacă se aplică o forță asupra unui obiect, se va abate de la o geodezică. De exemplu, nu mai urmărim geodezicele pentru că rezistența mecanică a Pământului exercită o forță ascendentă asupra noastră și, prin urmare, suntem neinerțiali pe pământ. Aceasta explică de ce mișcarea de-a lungul geodezicelor în spațiu este considerată inerțială.Einstein a descoperit ecuațiile de câmp ale relativității generale, care arată prezența materiei și curbura spațiutimpului și sunt numite după el. Ecuațiile câmpului Einstein sunt un set de 10 ecuații diferențiale simultane, neliniare. Soluțiile ecuațiilor de câmp sunt componentele tensorului metric al spațiu-timpului. Un tensor metric descrie o geometrie a spațiutimpului. Căile geodezice pentru spațiutimp sunt calculate din tensorul metric.
+Soluții notabile ale ecuațiilor câmpului Einstein includ:
+
+Soluția Schwarzschild, care descrie spațiutimpul care înconjoară 	un obiect masiv nerotit, sferic simetric. Pentru obiectele compacte 	suficient, această soluție a generat o gaură neagră cu o singularitate 	centrală. Pentru distanțele radiale din centru care sunt mult mai mari decât 	raza Schwarzschild, accelerațiile prevăzute de soluția Schwarzschild sunt 	practic identice cu cele prognozate de teoria gravitației lui Newton.
+Soluția Reissner-Nordström, în care obiectul central are o 	sarcină electrică. Pentru încărcările cu o lungime geometrizată care sunt 	mai mici decât lungimea geometrizată a masei obiectului, această soluție 	produce găuri negre cu orizonturi de eveniment dublu.
+Soluția Kerr pentru rotirea obiectelor masive. Această soluție 	produce și găuri negre cu orizonturi de evenimente multiple.
+Soluția Kerr-Newman pentru obiecte masive încărcate, care se 	rotesc. Această soluție produce și găuri negre cu orizonturi de evenimente 	multiple.
+Soluția cosmologică Friedmann-Lemaître-Robertson-Walker, care 	prezice expansiunea Universului.
+
+
+==== Gravitația și mecanica cuantică ====
+În deceniile de după descoperirea relativității generale, s-a constatat că relativitatea generală este incompatibilă cu mecanica cuantică. Este posibil să se descrie gravitația în cadrul teoriei câmpului cuantic ca și alte forțe fundamentale, astfel încât forța atractivă a gravitației apare datorită schimbului de gravitoni virtuali, la fel cum forța electromagnetică rezultă din schimbul de fotoni virtuali.  Aceasta reproduce relativitatea generală în limita clasică. Cu toate acestea, această abordare eșuează la distanțe scurte de ordinul lungimii Planck,  unde este necesară o teorie mai completă a gravitației cuantice (sau o nouă abordare a mecanicii cuantice).
+
+
+== Aspecte specifice ==
+
+
+=== Gravitația Pământului ===
+
+Fiecare corp planetar (inclusiv Pământul) este înconjurat de propriul său câmp gravitațional, care poate fi conceptualizat cu fizica newtoniană ca exercitând o forță atractivă asupra tuturor obiectelor. Presupunând o planetă sferic simetrică, forța acestui câmp la orice punct dat deasupra suprafeței este proporțională cu masa corpului planetar și invers proporțională cu pătratul distanței de centrul corpului.
+
+Forța câmpului gravitațional este egal numeric cu accelerația obiectelor sub influența sa. Rata de accelerare a obiectelor care cad în apropierea suprafeței Pământului variază foarte puțin în funcție de latitudine, caracteristici ale suprafeței (cum ar fi munți, creste) și, poate, densități neobișnuit de mari sau de suprafață. Pentru greutăți și măsuri, este definită o valoare gravitațională standard de Biroul Internațional de Greutăți și Măsuri.
+Această valoare, notată g, este g = 9,80665 m/s2Valoarea standard de 9,80665 m/s2 este cea adoptată inițial de Comitetul internațional pentru greutăți și măsuri în 1901 pentru 45° latitudine, chiar dacă s-a dovedit a fi mai mare cu aproximativ cinci părți din zece mii. Această valoare a persistat în meteorologie și în unele atmosfere standard ca valoare pentru 45° latitudine, chiar dacă se aplică mai exact la latitudinea de 45°32'33".Presupunând valoarea standardizată pentru g și ignorând rezistența aerului, acest lucru înseamnă că un obiect care cade liber lângă suprafața Pământului își mărește viteza cu 9,80665 m/s pentru fiecare secundă de coborâre. Astfel, un obiect care pornește din repaus va atinge o viteză de 9,80665 m/s după o secundă, aproximativ 19,62 m/s după două secunde și așa mai departe, adăugând 9,80665 m/s la fiecare viteză rezultată. De asemenea, ignorând din nou rezistența aerului, toate obiectele, atunci când sunt  aruncate de la aceeași înălțime, vor lovi solul în același timp.
+Conform celei de-a treia legi a lui Newton, Pământul însuși experimentează o forță egală ca mărime și în direcția opusă celei pe care o exercită asupra unui obiect care cade. Aceasta înseamnă că Pământul accelerează și el spre obiect până când se ciocnesc. Deoarece masa Pământului este uriașă, accelerația Pământului datorată acestei forțe opuse este neglijabilă în comparație cu cea a obiectului. Dacă obiectul nu sare după ce s-a ciocnit cu Pământul, fiecare dintre ei exercită apoi o forță de contact repulsivă asupra celuilalt, care echilibrează efectiv forța de atragere a gravitației și împiedică accelerarea ulterioară.
+Forța gravitației pe Pământ este rezultanta (suma vectorială) a două forțe: (a) Atracția gravitațională în conformitate cu legea universală a gravitației a lui Newton și (b) forța centrifugă. Forța gravitațională este cea mai slabă la ecuator din cauza forței centrifuge cauzate de rotația Pământului și pentru că punctele de pe ecuator sunt cele mai îndepărtate de centrul Pământului. Forța gravitației variază cu latitudinea și crește de la aproximativ 9,780 m/s2 la Ecuator la aproximativ 9,832 m/s2 la poli.
+
+
+=== Ecuații pentru un corp în cădere lângă suprafața Pământului ===
+Sub o presupusă atracție gravitațională constantă, legea atracției universale a lui Newton se simplifică la F = mg, unde m este masa corpului și g este un vector constant cu o magnitudine medie de 9,81 m//s2 pe Pământ. Această forță rezultată este greutatea obiectului. Accelerația datorată gravitației este egală cu acest  g. Un obiect staționar inițial care este lăsat să cadă liber sub greutate scade o distanță care este proporțională cu pătratul timpului scurs. Imaginea din dreapta, care se întinde pe o jumătate de secundă, a fost surprinsă cu un flash stroboscopic la 20 de intermitențe  pe secundă. În primele 1/20 din secundă, mingea scade o unitate de distanță (aici, o unitate este de aproximativ 12 mm); la 2/20 a scăzut la 4 unități; la 3/20 la 9 unități și așa mai departe.
+Sub aceleași asumpții de gravitație constantă, energia potențială, Ep, a unui corp la înălțimea h este dată de Ep = mgh (sau Ep = Wh, unde W înseamnă greutatea). Această expresie este valabilă numai pe distanțe mici h de la suprafața Pământului. În mod similar, expresia 
+  
+    
+      
+        h
+        =
+        
+          
+            
+              
+                v
+                
+                  2
+                
+              
+              
+                2
+                g
+              
+            
+          
+        
+      
+    
+    {\displaystyle h={\tfrac {v^{2}}{2g}}}
+   pentru înălțimea maximă atinsă de un corp proiectat vertical cu viteza inițială v este utilă numai pentru înălțimi mici și numai pentru viteze inițiale mici.
+
+
+=== Gravitația și astronomia ===
+
+Aplicarea legii gravitației a lui Newton a permis acumularea de mai multă informație detaliată pe care o avem despre planetele din Sistemul Solar, masa Soarelui și detalii despre quasari; chiar existența materiei întunecate este dedusă folosind legea gravitației a lui Newton. Deși nu am călătorit pe toate planetele și nici către Soare, le cunoaștem masele. Aceste mase sunt obținute prin aplicarea legilor gravitației caracteristicilor măsurate ale orbitei. În spațiu un obiect își menține orbita datorită forței gravitației care acționează asupra sa. Planetele orbitează stele, stelele orbitează centre galactice, galaxiile orbitează un centru de masă în roiuri și roiurile orbitează super-roiuri. Forța de gravitație exercitată asupra unui obiect de către altul este direct proporțională cu produsul maselor acestor obiecte și invers proporțională cu pătratul distanței dintre ele.
+Cea mai timpurie gravitație (posibil sub formă de gravitație cuantică, supergravitație sau o singularitate gravitațională), împreună cu spațiul și timpul obișnuit, s-a dezvoltat în epoca Planck (până la 10−43 secunde după Big Bang), posibil de la o primă stare (cum ar fi un vid fals, vid cuantic sau particule virtuale), într-o manieră necunoscută în prezent.
+
+
+=== Radiația gravitațională ===
+
+Relativitatea generală prevede că energia poate fi transportată dintr-un sistem prin radiații gravitaționale. Orice materie accelerată poate crea curburi în metrica spațiu-timp, care este modul în care radiația gravitațională este transportată departe de sistem. Obiectele co-orbitante pot genera curburi în spațiu-timp, cum ar fi sistemul Pământ-Soare, perechi de stele neutronice și perechi de găuri negre. Un alt sistem astrofizic prevăzut să piardă energie sub formă de radiații gravitaționale sunt supernovele care explodează.
+Primele dovezi indirecte pentru radiații gravitaționale au fost prin măsurători ale binarului Hulse–Taylor în 1973. Acest sistem constă dintr-o stea pulsară și neutronică pe orbită una în jurul celeilalte. Perioada orbitală a scăzut de la descoperirea inițială din cauza unei pierderi de energie de către sistem și ca urmare a apropierii în spirală a uneia față de cealaltă, ceea ce are ca rezultat o accelerare treptată a pulsațiilor de la pulsar. Această cercetare a primit premiul Nobel pentru fizică în 1993.
+Primele dovezi directe pentru radiații gravitaționale au fost măsurate la 14 septembrie 2015 de către detectoarele LIGO. Au fost măsurate undele gravitaționale emise în timpul coliziunii a două găuri negre la 1,3 miliarde de ani-lumină de Terra. Această observație confirmă predicțiile teoretice ale lui Einstein și ale altora că există astfel de unde. Acesta deschide, de asemenea, calea pentru observarea practică și înțelegerea naturii gravitației și a evenimentelor din Univers, inclusiv Big Bang. Formarea stelelor neutronice și a găurilor negre creează cantități detectabile de radiații gravitaționale. Această cercetare a primit premiul Nobel pentru fizică în 2017.Începând cu 2020, radiațiile gravitaționale emise de Sistemul Solar sunt mult prea mici pentru a putea fi măsurate cu tehnologia actuală. 
+
+
+=== Viteza gravitației ===
+În decembrie 2012, o echipă de cercetare din China a anunțat că a produs măsurători ale întârzierii de fază ale mareelor Pământului în timpul lunilor pline și noi, care par să dovedească că viteza gravitației este egală cu viteza luminii. Aceasta înseamnă că dacă Soarele ar dispărea brusc, Pământul ar continua să-l orbiteze în mod normal timp de 8 minute, adică timpul necesar luminii pentru a parcurge această distanță. Descoperirile echipei au fost publicate în Buletinul științific chinez în februarie 2013.În octombrie 2017, detectoarele LIGO și Virgo au primit semnale de unde gravitaționale de 2 secunde de la sateliți cu raze gamma și de la telescoape optice care au primit semnale din aceeași direcție. Acest lucru a confirmat că viteza undelor gravitaționale este aceeași cu viteza luminii.
+
+
+== Antigravitație ==
+
+Antigravitația este o idee de a crea un loc sau un obiect care să nu fie afectat de forța gravitației. Acest concept nu se referă la lipsa greutății din spațiul cosmic sau la echilibrarea forței gravitației cu o altă forță, cum ar fi electromagnetismul sau portanța aerodinamică. 
+Antigravitația este un concept recurent în literatura științifico-fantastică, în special în  propulsia navelor spațiale. Un exemplu timpuriu este substanța care blochează gravitația denumită "Cavorită" din romanul lui H.G. Wells Primii oameni în Lună.
+
+
+== Note ==
+
+
+== Legături externe ==
+
+Trei secole de căutări ar putea primi răspuns în curând, 21 martie 2008, Diac. Dr. Adrian Sorin Mihalache, Ziarul Lumina
+Legea gravitației universale a lui Newton, 2017, Charleston, South Carolina, SUA, ISBN 978-1985035669
+Teoria relativității - Relativitatea specială și relativitatea generală, Albert Einstein, 2018, Charleston, South Carolina, SUA, ISBN 978-1985895713
+Teoria generală a relativității, 2018, Charleston, South Carolina, SUA, ISBN 978-1985348905

@@ -1,0 +1,172 @@
+Wodór (H, łac. hydrogenium) – pierwiastek chemiczny o liczbie atomowej 1, niemetal z bloku s układu okresowego. Wodór jest najczęściej występującym pierwiastkiem chemicznym we Wszechświecie i jednym z najczęściej spotykanych pierwiastków na Ziemi. Posiada najmniejszą masę atomową, wynoszącą 1,00794 u. Najczęściej występującym izotopem wodoru jest prot (1H), który posiada atom o najprostszej możliwej budowie – składa się z jednego protonu i jednego elektronu.
+Wodór w formie atomowej powstał w epoce rekombinacji. W warunkach standardowych, wodór gazowy występuje w formie cząsteczkowej H2, jako bezbarwny, bezwonny, bezsmakowy, nietoksyczny, łatwopalny gaz. W skrajnie wysokich temperaturach możliwe jest jego uzyskanie w formie atomowej H. Ponieważ pierwiastek ten łatwo tworzy związki chemiczne z większością pierwiastków będących niemetalami, większość wodoru na Ziemi występuje w postaci wody lub związków organicznych. Wodór odgrywa szczególnie istotną rolę w reakcjach kwasowo-zasadowych, ponieważ większość tego typu reakcji wiąże się z wymianą protonów między rozpuszczalnymi cząsteczkami. W związkach jonowych wodór może posiadać ładunek ujemny (anion H−) lub dodatni (kation H+). Ponieważ wodór jest jedynym neutralnym atomem, dla którego równanie Schrödingera można rozwiązać analitycznie, badania energetyki i wiązań wodoru odegrały kluczową rolę w rozwoju mechaniki kwantowej.
+Wodór po raz pierwszy otrzymano sztucznie na początku XVI wieku w reakcji metalu z kwasem. W latach 1766–81 Henry Cavendish był pierwszą osobą, która stwierdziła, że wodór jest oddzielną substancją chemiczną, po spaleniu której powstaje woda. Właściwość ta zadecydowała o nazwie tego pierwiastka chemicznego, bowiem w języku greckim υδρογόνο (ydrogóno) oznacza „tworzący wodę”.
+Produkcja przemysłowa wodoru odbywa się głównie metodą reformingu parowego gazu ziemnego, rzadziej zaś przy użyciu bardziej energochłonnych metod, takich jak elektroliza wody. Zdecydowana większość otrzymanej w ten sposób substancji spożytkowywana jest w okolicach miejsca produkcji. Dwa największe obszary zastosowań tak otrzymanego wodoru to przetwarzanie paliw kopalnych (np. hydrokraking) i produkcja amoniaku, głównie do zastosowania na rynku nawozowym.
+
+
+== Pochodzenie i występowanie ==
+
+Stanowiąc około 75% (masowo) całości materii, wodór jest najpowszechniej występującym pierwiastkiem we Wszechświecie. Zgodnie z teorią Wielkiego Wybuchu, wodór jest pierwiastkiem powstałym w bardzo wczesnym etapie rozwoju Wszechświata (podczas Wielkiego Wybuchu powstała także większość jąder helu oraz część istniejących obecnie jąder litu i berylu). Początkowo materia Wszechświata składała się z promieniowania i cząstek o bardzo wysokiej energii (w tym z fotonów, elektronów, protonów, neutronów, cząstek neutrino oraz antycząstek). W miarę wychładzania się materii, w czasie około stu sekund od początku Wielkiego Wybuchu, temperatura spadła do miliarda stopni Celsjusza. W takiej temperaturze energia cząstek była już zbyt mała, aby pokonać siłę międzyatomowego oddziaływania silnego, skutkiem czego było łączenie się protonów i neutronów w jądro deuteru, jądro helu oraz małe ilości litu i berylu. Większość protonów pozostała niepołączona tworząc później atomy głównego izotopu wodoru.
+W dużych ilościach wodór występuje np. w gwiazdach (w tym w Słońcu), materii międzygwiazdowej oraz w przestrzeni międzyplanetarnej. Chmury wodorowe (mgławice wodoru cząsteczkowego H2, zwane obszarami H II) są miejscem narodzin nowych gwiazd.
+Wodór na Ziemi występuje np. w:
+
+skałach (np. granicie – 61,68%; gabro – 88,42%; gnejsie – 61,93%; bazalcie - 36,15%; piroksenach – 12,49%);
+złożach gazu ziemnego (składającego się głównie z metanu), którego bogate złoża znajdują się m.in. w Iranie, Katarze czy Rosji;
+gazach wulkanicznych;
+powietrzu – w śladowych ilościach ok. 0,019%.
+
+
+== Historia i etymologia ==
+
+Pierwsze obserwacje wodoru przypisuje się szwajcarskiemu alchemikowi Paracelsusowi. Wykonywał on eksperymenty polegające na wrzucaniu metali do kwasów i zbieraniu do naczyń gazowych produktów tych reakcji. W swoim dziele Archidoxa odnotował on, że powietrze powstałe w wyniku połączenia żelaza i rozcieńczonego kwasu solnego „unosi się i wybucha jak wiatr” (Lufft sich erhebt und herfür bricht gleich wie ein Wind). Niejednoznaczność opisu powstałego zjawiska sprawia, że nie jest do końca jasne, czy gazem, który zaobserwował, był rzeczywiście wodór czy powstające pęcherzyki powietrza. Do dzisiaj reakcja metali z kwasami stanowi najprostszy sposób otrzymywania wodoru w warunkach laboratoryjnych.
+W XVII wieku eksperymenty Paracelsusa powtórzył Théodore Turquet de Mayerne. Zauważył on, że gaz powstały w reakcji żelaza z kwasem solnym jest łatwopalny.
+W 1671 roku Robert Boyle opublikował Tracts containing new experiments touching the relation betwixt flame and air, w którym opisał wybuchową naturę mieszanki wodoru z powietrzem, powstałej w wyniku reakcji opiłków żelaza z kwasami, nazywając ją Inflammable solution of Mars (łatwopalnym roztworem Marsa).
+Pierwszą osobą, która uznała wodór za odrębną substancję (flogiston) był Henry Cavendish. W 1766 r. zamieścił on w swoich notatkach wyniki i wnioski ze swoich badań. Substancja ta została uznana za pierwiastek dzięki badaniom Antoine’a Lavoisiera nad otrzymywaniem wody z wodoru i tlenu w 1783 r. Lavoisier nadał wodorowi nazwę hydrogenium oznaczającą „rodzący wodę”. Nazwa ta pochodzi z greckiego i jest połączeniem dwóch wyrazów „hydōr” (ὕδωρ) oznaczający „wodę” oraz „genes” (-γενής) oznaczający „tworzący”, „rodzący”. Nazwa ta rozprzestrzeniła się w Europie i do dzisiaj jej pochodne są używane w wielu językach. Przykładem jest angielskie słowo „hydrogen” lub francuskie „Hydrogène”.
+Lavoisier prowadził badania nad zachowaniem masy. Odparowując i skraplając wodę w układzie zamkniętym, próbował on udowodnić, że masa wody pozostaje stała. Po skropleniu okazywało się jednak, że masa była mniejsza. Powodem była reakcja wody z żelazem (z którego wykonany był aparat) w wysokiej temperaturze, w wyniku której powstawał wodór:
+
+Fe + H2O  →  FeO + H2
+2Fe + 3H2O  →  Fe2O3 + 3H2
+3Fe + 4H2O  →  Fe3O4 + 4H2Lavoisier obalił teorię flogistonu i udowodnił, że woda jest produktem spalania wodoru. Popularyzatorami teorii Lavoisiera na ziemiach polskich byli przede wszystkim bracia Jan i Jędrzej Śniadeccy. Pierwszy z nich, Jan, był wykładowcą na Akademii Krakowskiej. W 1780 roku odbył kilka kursów chemii w Paryżu. Tam po raz pierwszy zetknął się z teoriami Lavoisiera. Do Paryża powrócił w latach 1790–1810, początkowo jako stypendysta a następnie profesor Akademii Krakowskiej. Jędrzej Śniadecki był profesorem na Uniwersytecie Wileńskim, gdzie wykładał chemię w języku polskim. Był autorem pierwszej polskiej terminologii chemicznej. W 1800 roku wydał podręcznik do chemii, w którym po raz pierwszy użył nazwy „wodoród”, zastępując nią łacińską nazwę „hydrogenium”.
+
+Z biegiem czasu została skrócona do powszechnie dziś znanej nazwy „wodór”, którą zaproponował Filip Walter, co zatwierdziła krakowska Akademia Umiejętności na posiedzeniu w 1900 roku. W oparciu o sprawozdanie z tego posiedzenia redakcja „Chemika Polskiego” opublikowała w 1902 roku Słowniczek Chemiczny, w którym sugeruje używanie nazwy „wodór”.
+Odkrycie Lavoisiera spowodowało, że różne ośrodki naukowe zajęły się badaniem właściwości wodoru. W Polsce badaniem wodoru zajmowali się m.in. Zygmunt Wróblewski i Karol Olszewski z Uniwersytetu Jagiellońskiego. W 1884 roku przeprowadzili oni nieudaną próbę skroplenia wodoru (udało im się uzyskać jedynie mgłę). Pod koniec życia Zygmunt Wróblewski przeprowadził eksperymenty, dzięki którym udało się mu w 1885 roku wyznaczyć stałe krytyczne wodoru. Dane te potwierdził eksperymentalnie Karol Olszewski w 1906 roku.
+W 1898 roku szkocki chemik James Dewar po raz pierwszy skroplił wodór wykorzystując do tego celu skonstruowaną przez siebie kolbę próżniową. Rok później udało mu się uzyskać wodór w postaci stałej. Deuter został odkryty przez Harolda Ureya w 1931 roku a trzy lata później, w 1934 roku, Ernest Rutherford, Mark Oliphant i Paul Herteck odkryli tryt.
+
+
+== Zastosowanie ==
+
+
+=== Przemysł chemiczny ===
+Wodór znajduje szerokie zastosowanie w przemyśle chemicznym oraz petrochemicznym. Wykorzystywany jest głównie w procesach redukcji i uwodornienia. Przykładami procesów, w których stosowany jest wodór są:
+
+synteza amoniaku, który następnie wykorzystywany jest w produkcji nawozów sztucznych (na bazie azotanu amonu lub mocznika). Synteza amoniaku przebiega według ogólnej reakcji:N2 + 3H2  ⇄  2NH3hydrorafinacja – katalityczny proces chemiczny stosowany w przemyśle rafineryjnym w celu obniżenia zawartości związków siarki, azotu i tlenu oraz wysycenia wiązań podwójnych w produktach i półproduktach przeróbki ropy naftowej oraz jej pozostałościach destylacyjnych, a także w przemyśle koksochemicznym.hydrokraking – grupa procesów technologicznych stosowanych w celu przerobu ciężkich frakcji ropy naftowej na benzynę i oleje.reforming – proces katalitycznego przetwarzania wstępnie hydrorafinowanych frakcji benzynowych i lekkich frakcji naftowych w obecności wodoru w celu podwyższenia ich liczby oktanowej.synteza metanolu – proces, w którym cząsteczki wodoru reagują z cząsteczkami tlenku węgla, dające w rezultacie metanol. Ponieważ pośród reagentów występuje również dwutlenek węgla konieczny do podtrzymania aktywności katalizatora, to zachodzące reakcje można zapisać następująco:CO + 2H2  ⇄  CH3OH
+CO2 + 3H2  ⇄  CH3OH + H2Ouwodornienie benzenu do cykloheksanu, który jest wykorzystywany w produkcji nylonu.hydroformylowanie – proces OXO, służący do przemysłowego otrzymywania aldehydów w wyniku reakcji alkenów z gazem syntezowym. Otrzymane aldehydy są w kolejnym etapie najczęściej przetwarzane do alkoholi.RCH=CH2 + CO + H2  →  RCH2CH2CHOprodukcja aniliny poprzez uwodornienie nitrobenzenu (w obecności katalizatora, np. SnCl2):
+
+
+=== Przemysł spożywczy ===
+Wodór znajduje się na liście substancji dopuszczonych do stosowania w przemyśle spożywczym i jest oznaczony symbolem E-949. Podstawowym aktem prawnym regulującym stosowanie dodatków do żywności w Unii Europejskiej jest rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1333/2008 z dnia 16 grudnia 2008 r. w sprawie dodatków do żywności (Dz. Urz. UE L 354, 31.12.2008) oraz rozporządzenie Komisji (UE) nr 1129/2011 z dnia 11 listopada 2011 r. (Dz. Urz. UE L 295 z dnia 12.11.2011). W Polsce rozporządzenia te zostały wdrożone rozporządzeniem ministra zdrowia z dnia 22 listopada 2010 roku (Dz.U.10.232.1525). Zgodnie z europejskimi dyrektywami 2010/67/UE z dnia 20 października 2010 r. oraz 2008/84/WE z dnia 27 sierpnia 2008 r., określającymi czystość substancji chemicznych stosowanych w przemyśle spożywczym, wodór nie może zawierać więcej niż 0,005% obj. wody, 0,001% obj. tlenu oraz 0,07% obj. azotu.
+Głównym zastosowaniem wodoru w przemyśle spożywczym jest proces utwardzania (uwodornienia) wielonienasyconych tłuszczów roślinnych, w wyniku którego powstaje margaryna. W procesie tym podwójne i potrójne wiązania zostają rozerwane, a wolne wiązania przyłączają pojedyncze atomy wodorowe.
+
+Przykładami takich procesów są np. metoda Normanna lub metoda Wilbuszewicza. Obie metody polegają na traktowaniu płynnego oleju wodorem w obecności katalizatora (którymi są najczęściej nikiel, platyna, miedź lub pallad). Prowadzi to do uwodornienia – przyłączenia atomów wodoru do wiązań podwójnych i potrójnych, dając w rezultacie stałe oleje nasycone (np. margarynę).
+Wodoru używa się również do syntezy sorbitolu – substancji słodzącej o symbolu E-420:
+
+
+=== Przemysł metalurgiczny ===
+W przemyśle metalurgicznym wodór używany jest do redukcji rudy żelaza. Wodór wykorzystywany jest w mieszaninie z tlenkiem węgla, który jest źródłem węgla potrzebnym do produkcji stali z surowego żelaza otrzymywanego w tym procesie. Przykładami reakcji redukcji rud żelaza są:
+
+3Fe2O3 + H2  ⇄  2Fe3O4 + H2O
+Fe3O4 + H2  ⇄  3FeO + H2O
+FeO + H2  ⇄  Fe + H2O
+
+
+=== Aeronautyka ===
+
+Pierwszy balon wypełniony wodorem został zbudowany już w 1783 roku przez francuskiego konstruktora Jacques'a Charles'a. Pierwszy lot odbył się 26 lub 27 sierpnia 1783 roku. Był to niewielki balon o objętości około 35 metrów sześciennych i udźwigu mniej więcej 9 kg. Wodór był wytwarzany w dużej beczce, w której umieszczono 540 kg żelaznego złomu i poddano reakcji z 270 kg kwasu siarkowego – w tak dużej skali wodór został otrzymany wówczas po raz pierwszy, wcześniej otrzymywano tylko jego niewielkie ilości. Wytworzony gaz był transportowany do balonu za pomocą ołowianych rur, a jego napełnianie trwało 4 dni. Ponieważ nośność 9 kg była zbyt mała do zabrania osoby, przygotowano drugi lot, tym razem w balonie o objętości 380 m3. Start pierwszego lotu balonu wypełnionego wodorem z osobami w gondoli odbył się 1 grudnia 1783 roku w ogrodach Tuileries, dzielnicy Paryża i zgromadził około 400 tys. oglądających. Balon pokonał w ciągu 2 h około 36 km, następnie wylądował, jeden z pasażerów opuścił pokład i wtedy Jacques Charles samodzielnie wzbił się nim na wysokość blisko 10000 stóp (3 km).
+Pierwszą udokumentowaną ofiarą eksplozji balonu wypełnionego wodorem był Pilâtre de Rozier, który 15 czerwca 1785 próbował przelecieć nad Kanałem La Manche.
+Wydłużająca się lista wypadków z udziałem statków powietrznych unoszonych wodorem sprawiła, że zaczęto opracowywać konstrukcje unoszone helem, ponieważ zrozumiano, że wodór jest zbyt niebezpieczny. Helu użyto również przy projektowaniu sterowca Hindenburg. Powodem, dla którego ostatecznie zdecydowano się napełnić sterowiec wodorem był fakt, że w 1927 roku rząd amerykański zabronił eksportu helu (Helium Control Act) odcinając niemieckich konstruktorów od jedynego wówczas źródła tego gazu. Hindenburg eksplodował 6 maja 1937, podchodząc do lądowania w Lakehurst, w stanie New Jersey. Istnieje wiele teorii dotyczących powodu eksplozji. Najbardziej prawdopodobnym powodem jest iskra elektrostatyczna, od której zapalił się wyciekający wodór. Katastrofa Hindenburga wyznacza koniec ery statków powietrznych unoszonych wodorem.
+
+
+=== Paliwo ===
+
+Wodór, ze względu na swoje naturalne właściwości fizyko-chemiczne, świetnie nadaje się na paliwo. Ma najwyższą z paliw, w odniesieniu do masy, wartość opałową (120 MJ/kg) i ciepło spalania (141,9 MJ/kg). Ze względu na bardzo małą gęstość, wodór słabo wypada na tle innych paliw jeżeli wartości te zostaną odniesione do objętości. Jest gazem niebezpiecznym ze względu na szerokie spektrum palności (w mieszaninie z powietrzem) oraz bardzo niskiej energii zapłonu.
+Jako paliwo konwencjonalne stosowany jest głównie w rakietach. W przemyśle samochodowym dominują silniki oparte na ogniwach paliwowych.
+Termin „ekonomia wodoru”, który odnosi się do ekonomicznych aspektów stosowania wodoru jako źródła energii, został po raz pierwszy użyty podczas dyskusji w General Motors w 1970 roku. Został on spopularyzowany na przełomie XX i XXI wieku, gdy prace nad wykorzystaniem wodoru jako źródła energii przybrały na sile, kiedy szereg państw włączył się w rozwój technologii mających na celu ograniczenie emisji dwutlenku węgla. Do działań tych państwa zobowiązały się na konferencji w Kioto w 1997 roku.
+
+
+=== Chłodziwo ===
+Wodór może być również wykorzystywany jako medium chłodzące. Wykorzystuje się go szczególnie tam, gdzie konieczne jest ochładzanie gazem. Sprzyjają temu właściwości fizyko-chemiczne tego gazu. Wodór ma bardzo małą gęstość i nawet przy dużych prędkościach przepływ jest laminarny. Ponadto ma wysoki współczynnik przewodzenia (co powoduje, że szybciej odbiera ciepło) oraz ciepło właściwe (skutkiem czego jest duża ilość ciepła, jaką może zakumulować). Przykładem zastosowania wodoru w tym charakterze są turbogeneratory stosowane w elektrowniach. We współczesnych konstrukcjach turbogeneratorów najczęściej stosuje się chłodzenie powietrzne pośrednie w obiegu zamkniętym. Popularne jest również stosowanie bezpośredniego chłodzenia wodorowego uzwojeń wirnika i pośrednie chłodzenie wodorowe uzwojeń stojana.
+Ze względu na bardzo niską temperaturę skraplania, stosowalność tego typu rozwiązań nie ogranicza się do przedziałów temperaturowych spotykanych zwykle w przemyśle. Możliwe jest również chłodzenie wodorem w skrajnie niskich temperaturach, gdzie obniżenie temperatury jest możliwe jedynie dzięki rozprężaniu gazów.
+
+
+=== Zastosowanie cięższych izotopów wodoru ===
+Izotop wodoru – tryt – wykorzystywany jest w badaniach reakcji termojądrowych, które mogą potencjalnie stanowić źródło taniej i czystej energii. Inny jego izotop – deuter – wykorzystywany jest jako spowalniacz (moderator) w reaktorach atomowych neutronów. Związki zawierające deuter są wykorzystywane do przygotowania próbek NMR ze względu na właściwości fizykochemiczne tego atomu.
+
+
+== Formy wodoru ==
+
+
+=== Wodór atomowy ===
+Wodór atomowy to odmiana tworzona przez pojedyncze atomy, w przeciwieństwie do wodoru cząsteczkowego. Wodór atomowy jest nietrwały i szybko łączy się z drugim atomem wodoru, tworząc cząsteczkę H2, czyli wodór cząsteczkowy (molekularny). Wodór atomowy powstaje w wyniku dysocjacji wodoru cząsteczkowego w wysokiej temperaturze i jest znacznie bardziej aktywny chemicznie niż wodór molekularny.
+Wodór atomowy powszechnie występuje w przestrzeni międzygwiazdowej.
+
+
+=== Wodór cząsteczkowy ===
+Wodór cząsteczkowy (wodór dwuatomowy, wodór molekularny) (H2) to najprostsza dwuatomowa cząsteczka homoatomowa. Składa się z dwóch atomów wodoru połączonych wiązaniem kowalencyjnym o długości 74,14 pm (0,7414 Å) i o energii dysocjacji 435,88 kJ/mol (25 °C).
+Na Ziemi wodór w postaci cząsteczkowej występuje w atmosferze – przy powierzchni w ilościach śladowych (ok. 0,5 ppm obj.), natomiast w wysokich, bardzo rozrzedzonych warstwach jest składnikiem dominującym.
+
+
+==== Ortowodór i parawodór ====
+Jak wszystkie dwuatomowe cząsteczki homojądrowe o niezerowym spinie jąder, wodór występuje w dwóch odmianach spinowych o nieco innych właściwościach fizycznych (np. o różnym cieple właściwym) znanych jako ortowodór i parawodór. Różnią się one wzajemną orientacją spinów protonów. W ortowodorze spiny skierowane są zgodnie, zaś w parawodorze – przeciwnie. Naturalny wodór molekularny w temperaturze pokojowej i wyższej stanowi mieszaninę obu odmian (ok. 75% ortowodoru i 25% parawodoru czyli w stosunku 3:1), natomiast w temperaturze obniżonej udział parawodoru wzrasta, osiągając 99,8% w temperaturze −253°C. Podobnie zachowuje się orto- i paratryt, natomiast dla orto- i paradeuteru sytuacja jest odwrotna.
+Przemiana ortowodoru w parawodór jest egzotermiczna, lecz wymaga udziału zabronionego przejścia tryplet-singlet. W normalnych warunkach jest ona wolna i poniżej temperatury 500 °C układ o:p = 3:1 jest stanem metastabilnym. Proces przemiany jest katalizowany przez substancje paramagnetyczne.
+
+
+=== Wodór metaliczny ===
+Metaliczny wodór to stan, który wodór uzyskuje pod ciśnieniem 495 gigapaskali i w temperaturze 5,5 kelwina. Stan ten wykazuje dobre przewodnictwo elektryczne i inne właściwości metaliczne.
+
+
+== Kation wodorowy ==
+
+Kation wodorowy H+ jest w istocie równoważny protonowi. W stanie wolnym występuje on w próżni, plazmie i górnych warstwach atmosfery ziemskiej (promienie UV jonizują atomy wodoru). W roztworach wodnych kation ten ulega silnej hydratacji:
+
+H+ + H2O  →  H3O+Kation hydroniowy (hydroksoniowy) H3O+ rzeczywiście istnieje w niektórych związkach w warunkach bezwodnych. W roztworze wodnym grupa ta jest dalej hydratowana przez kolejne cząsteczki wody. Wśród modeli solwatacji H3O+ wyróżnić można kation Zundela H5O+2 i kation Eigena H9O+4. Pomiary kriometryczne wskazują, że hydratowany jon ma przeciętnie wielkość odpowiadającą [H3O(H2O)6]+.
+
+
+== Serie widmowe ==
+Wodór ma charakterystyczne serie widmowe:
+
+seria Lymana
+seria Balmera
+seria Paschena
+seria Bracketta
+seria Pfunda
+seria Humphreysa
+
+
+== Otrzymywanie ==
+Na skalę przemysłową wodór otrzymuje się następującymi metodami:
+
+Poprzez konwersję realizowaną podczas przepuszczania alkanu nad parą wodną, np. metanu:CxH2y + 2xH2O  → (2x+y)H2 + xCO2
+CH4 + 2H2O  →  4H2 + CO2Przez reakcję pary wodnej z koksem w reakcji Boscha:C + H2O  →  CO + H2Termiczny rozpad CH4:2CH4 _2000 °C_͕ C2H2 + 3H2Reakcje metanu z tlenem:2CH4 + O2  →  2CO + 4H2W laboratorium można go otrzymać na kilka sposobów:
+
+Elektroliza wodnego roztworu soli lub wodorotlenku metalu alkalicznego bądź wody:2H2O  →  2H2 + O2Reakcja metalu z kwasem:np. Zn + 2HCl → ZnCl2 + H2↑Spalanie magnezu w parze wodnej:Mg + H2O  →  MgO + H2↑Reakcja metalu amfoterycznego z roztworem zasady:np. 2Al + 2NaOH + 6H2O  →  2Na[Al(OH)4] + 3H2↑
+
+Reakcja otrzymywania wodorotlenku dobrze rozpuszczającego się w wodzie przez połączenie metalu aktywnego z wodą:np. 2K + 2H2O  →  2H2O−KOH + H2↑
+
+Powyższe reakcje roztwarzania metali wykonywać można dogodnie w aparacie Kippa.
+
+
+== Izotopy wodoru ==
+Znane są 3 naturalnie występujące izotopy wodoru:
+
+prot (wodór 1H)W skład jądra wchodzi jeden proton. Nie zawiera neutronów. Jest izotopem stabilnym. Stanowi 99,985% wodoru występującego na Ziemi.deuter (2H lub D)W skład jądra wchodzi jeden proton i jeden neutron. Jest izotopem stabilnym. Stanowi 0,015% wodoru ziemskiego. Ze względu na to, że deuter ma dwukrotnie większą masę od protu, różnią się one znacząco właściwościami fizycznymi i chemicznymi (silny efekt izotopowy).tryt (3H lub T)W skład jądra wchodzi jeden proton i dwa neutrony. Jest izotopem niestabilnym o czasie połowicznego rozpadu wynoszącym ok. 12 lat. Na Ziemi występuje w ilościach śladowych. Ulega rozpadowi β− z powstaniem helu-3:
+31H → 32He + e- + νeSztucznie wytworzono cięższe izotopy wodoru, zawierające 3–6 neutronów. Wszystkie one są bardzo nietrwałe, ich czas połowicznego rozpadu jest rzędu 10−22–10−23 s.
+
+
+== Związki wodoru ==
+wodorki
+tlenki wodoru
+wodorotlenki
+kwasy (poza kwasami Lewisa)
+prawie wszystkie związki organiczne
+
+
+== Zobacz też ==
+antywodór
+biowodór
+ciekły wodór
+przechowywanie wodoru
+promień atomu Bohra
+linia wodoru 21 cm
+obszar H I
+biekscyton
+choroba wodorowa miedzi
+
+
+== Uwagi ==
+
+
+== Przypisy ==
+
+
+== Bibliografia ==
+Ignacy Eichstaedt: Księga pierwiastków. Warszawa: 1973.

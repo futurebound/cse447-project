@@ -1,0 +1,23 @@
+Het zenit of zenith (via het Latijn ontleend aan Arabisch سمت samt respectievelijk سمت الرأس samt al-ras "de richting van het hoofd", waarbij de m in het Latijn per abuis als ni werd gelezen) is het hoogste punt van de hemel gezien vanuit het punt waar de waarnemer staat. Het is dus het punt recht boven de waarnemer.
+
+
+== Definitie ==
+De exacte definitie van het zenit is afhankelijk van de definitie van wat recht boven is. Voor het menselijk richtingsgevoel is dit de richting die tegengesteld is aan de richting van de aantrekkingskracht van de Aarde. Deze richting kan iets anders zijn dan het geometrische zenit, haaks op het vlak door de horizon. Het verschil is echter zeer klein. De richting van de zwaartekracht is eenvoudig te bepalen (een schietlood is het eenvoudigste instrument hiervoor). De horizon is niet altijd nauwkeurig aan te duiden. Uiteindelijk komt het erop neer dat de exacte richting van het zenit afhankelijk is van het gebruikte coördinatensysteem. In een lokaal coördinatensysteem zoals in een tachymeter is het zenit tegengesteld aan de zwaartekracht dus precies verticaal, in geografische coördinaten is het zenit haaks op de gebruikte referentie-ellipsoïde dus loodrecht op het geïdealiseerde aardoppervlak. Het verschil wordt de schietloodafwijking genoemd en beschreven door de geoïdehoogte.
+Precies tegenover het zenit ligt het nadir (in de richting van het middelpunt van de aarde - dus geen aanwijsbaar punt aan de hemel).
+
+
+== Enkele feiten ==
+Het zenit is voor iedere waarnemer anders (behalve voor waarnemers die zich boven elkaar bevinden - maar dat komt zelden voor).
+Voor een waarnemer op de noord- of zuidpool valt de zenitlijn samen met de aardas, de as waar de Aarde omheen draait. Vanaf de noordpool ziet de waarnemer dan ook de poolster in het zenit, die zich vrijwel op de noordelijke hemelpool bevindt.
+Hemellichamen met een declinatie die gelijk is aan de breedtegraad van de waarnemer zullen in hun dagelijkse baan precies door het zenit trekken.
+Het zenit en de rotatie-as van de aarde liggen aan de basis van het horizon-coördinatenstelsel voor de vastlegging van de positie van hemellichamen (met azimut en hoogte). Samen met de hemelpool legt het zenit het meridiaanvlak van dat coördinatensysteem vast.
+
+
+== Hoogste zonnepunt ==
+Soms wordt in de volksmond de hoogste stand van de zon midden op de dag aangeduid als zenit. Men zegt dan dat de zon "in het zenit staat". Dit is per definitie alleen mogelijk op plaatsen die zich op of tussen de keerkringen bevinden (23,45° noorder- en zuiderbreedte) en dan nog alleen op een per breedtegraad verschillende datum. In het Engels wordt dit punt het subsolar point genoemd. Voor waarnemers die zich noordelijk of zuidelijk van beide keerkringen bevinden is de hoogte van de zon altijd minder dan 90°. De zon kan daar nooit in het zenit staan; het hoogste punt heeft wel een naam, namelijk het culminatiepunt.
+
+
+== Zie ook ==
+breedtegraad
+horizon
+tropen

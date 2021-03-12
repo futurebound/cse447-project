@@ -1,0 +1,142 @@
+Apollo 11 oli ensimmäinen Kuun kamaralle laskeutunut miehitetty avaruuslento. Lento oli samalla Apollo-ohjelman viides miehitetty avaruuslento ja ohjelman kolmas lento Kuun kiertoradalle. Apollo 11 toteutti presidentti Kennedyn asettamat tavoitteet viedä ihminen vieraan taivaankappaleen pinnalle ennen vuotta 1970 ja voittaa toinen supervalta Neuvostoliitto avaruuskilvassa, ja aloittaa paikan päällä tapahtuva Kuun tieteellinen tutkimus.
+Lento laukaistiin Saturn V -kantoraketilla Kennedyn avaruuskeskuksesta Floridasta 16. heinäkuuta 1969 miehistönään lennon komentaja Neil Armstrong, komentomoduuli Columbian pilotti Michael Collins ja kuumoduuli Eaglen ohjaaja Edwin "Buzz" Aldrin. Armstrong ja Aldrin laskeutuivat Kuuhun 20. heinäkuuta kello 20:17:40 UTC ja tekivät pian laskeutumisen jälkeen ensimmäisen kuukävelyn. Collins jäi komentomoduuliin Kuun kiertoradalle. He laskeutuivat takaisin  Maahan 24. heinäkuuta 16:50:35 UTC.
+
+
+== Apollo-ohjelma ==
+Varsinaista kuulentoa oli valmisteltu aikaisemmilla Apollo-lennoilla; Apollo 11 oli Apollo-ohjelman viides miehitetty lento. Aikaisemmista miehitetyistä Apollo-lennoista kaksi oli käynyt Kuun lähellä. Apollo 8 kävi ensimmäisenä miehitettynä aluksena Kuun kiertoradalla, ja Apollo 10 -lennolla testattiin kuualusta Kuun kiertoradalla matalimmillaan 15 kilometrin päässä Kuun pinnasta.
+
+
+== Kohti Kuuta ==
+Apollo 11:n laukaisu Cape Canaveralista onnistui hyvin. Saturn V-kantoraketin kaksi ensimmäistä vaihetta (S-IC ja S-II) putosivat tehtävänsä täytettyään mereen. Kolmas rakettivaihe S-IVB paloi hetken aikaa ja nosti astronautit aluksineen Maan kiertoradalle. Kolmas rakettivaihe, kuualus ja komento-/huoltoalus kiersivät Maata. Kuualus oli suojassa komento-/huoltoaluksen ja kolmannen rakettivaiheen välisessä kartiossa. Sitten kolmas rakettivaihe kiihdytti aluksen kohti Kuuta. Tämän jälkeen komento- ja huoltomoduuli irtautui kolmannesta vaiheesta, kääntyi ympäri ja telakoi kuumoduulin itseensä. Näin kolmannen rakettivaiheen ja Kuuhun matkaavan aluksen tiet erosivat.
+Nousu- ja laskuosasta koostuva hämähäkkimäinen kuualus, kuumoduuli, oli nimeltään Eagle (”Kotka”).
+
+
+== Kuun kiertoradalla ==
+Kuun takana alus jarrutti kiertoradalle, joka oli hieman yli 100 km:n korkeudessa Kuun pinnasta ja suurin piirtein Kuun päiväntasaajan tasossa.
+Laskeutumispaikaksi oli valittu Kuun päiväntasaajan lähellä sijaitseva Rauhallisuuden meri, joka on melko tasainen basaltista koostuva alue. Muutamaa tuntia ennen laskeutumista varsinainen kuumoduuli Eagle irtaantui Michael Collinsin ohjaamasta komentoaluksesta Columbiasta. Alus lensi aluksi vaakasuorasti 1 500 m/s Kuun yllä. Alkoi pehmeä jarrutus kohti Kuun pintaa. Alus liukui loivasti Kuun pinnan yllä ja vajosi hitaasti alaspäin. Armstrong ilmoitti: "Kotkalla on siivet". Irtaantumisen jälkeen ilmeni ongelmia, kun telakointitutka oli päällä. Aluksen tietokone hälytti virheestä, ja  Armstrong kytki telakointitutkan pois toiminnasta. Kolmen tunnin kuluttua Columbiasta irtautumisen jälkeen kuualus Eagle oli viidentoista kilometrin korkeudessa. Silloin Armstrong huomasi, että Kuun kraatterit lipuivat näkyviin kaksi sekuntia laskettua aiemmin. Armstrong totesi: "Menee vähän pitkäksi". Tällöin alus oli laskeutumassa aiotusta paikasta kolme kilometriä sivuun. Kahdentoista kilometrin korkeudessa Armstrong käänsi aluksen niin, että laskeutumistutka sai kaiun Kuun pinnasta.
+
+
+== Laskeutuminen ==
+Teknisesti laskeutuminen tapahtui aluksen nopeuden pienentämisellä nollaan sekä pysty-, pituus- että sivusuunnassa Kuun pinnan lähellä. Laskeutumista ohjasi tietokone, joka nykymittapuun mukaan oli hidas ja kömpelö. Kun laskeutuminen eteni, Aldrin huomasi, että alusta ohjaava tietokone alkoi näyttää eri korkeuslukemia kuin tutkan suoraan astronauteille antamat lukemat. Tutka ilmoitti kuualuksen olevan 880 metriä tietokoneen laskelmia alempana. Tämäkin merkitsi, että kuualus oli ajautunut pois kurssistaan. Aldrin yritti syöttää tietokoneeseen käsin tutkan antaman korkeuslukeman. Tietokone oli ylikuormittunut ja välkytti keltaisella ennakkoharjoituksista tuntematonta virhekoodia ”1202”. Houstonissa keskusteltiin tilanteesta, mutta lennonohjaaja Steve Bales antoi silti, aina kun kone hälytti virheestä, luvan jatkaa laskeutumista.
+Noin 2 kilometrin korkeudessa alus käännettiin pystyyn jalakset kohti Kuun pintaa. Tietokone näytti virhekoodia 1202 silloin tällöin 3–4 minuutin ajan. Tämän jälkeen näytölle ilmestyi toinen tuntematon koodi: ”1201”. Noin 1 500 metrin korkeudessa alus putosi 30 metriä sekunnissa. Armstrong kokeili käsiohjausta, mutta antoi tietokoneen jatkaa. 1 000 metrissä alus putosi yhä kovalla vauhdilla, 21 m/s. Hälytysten loppuessa kuualus oli 300 metrin korkeudessa. Armstrong huomasi, että tietokone ohjasi alusta kohti kiviä täynnä olevaa jalkapallokentän kokoista kraatteria. Armstrong totesi: "Melko kivikkoinen alue!". Armstrong jätti kesken seuraavan lauseensa: "Aion siirtyä..." [käsiohjaukseen]. Armstrongin oli pakko siirtyä käsiohjaukseen, ja lentää lohkareiden yli pitäen aluksen samalla korkeudella. Tämä kulutti vähäisiä polttoainevaroja. Aldrin luki korkeusarvoja. 106 metrin korkeudessa oli polttoainetta jäljellä vain 8 prosenttia. 60 metrin korkeudessa Armstrong huomasi, että hänen valitsemansa laskeutumispaikka oli väärä: Kaikkialla oli kiviä ja kuoppia. Alusta uhkasi murskautuminen Kuun pintaan tai laskeutuminen liian epätasaiseen kohtaan, jossa alus voisi kaatua.
+Lennonjohto oli huolissaan aluksen leijuessa pitkään Kuun pinnan yllä ja kuluttaessa viimeisiä rippeitä laskeutumiseen varatusta polttoaineesta. Lennonjohto ei kuullut aluksesta muutamaan minuuttiin mitään, kun Armstrong etsi laskeutumispaikkaa. 30 metrin korkeudessa oli polttoainetta enää 90 sekunnin ajoon, mistä ilmoittava varoitusvalo syttyi. Tällöin Armstrong huomasi 60 × 60 metrin kokoisen tasaisen alueen, joka sopi laskeutumiseen. 
+20 metrin korkeudessa Aldrin näki Kuun pinnalla kuualuksen varjon, joka kasvoi hitaasti. Lennonjohto ilmoitti, että polttoainetta olisi 60 sekunnin lentoa varten. Armstrong seisautti hitaasti aluksen liikkeen eteenpäin. Aldrin ilmoitti aluksen ajautuvan hieman oikealle. Laskeutumisen onnistuminen vaati myös sivuttaisliikkeen pysäyttämistä. Alus liikkui vielä hieman sivulle, kun se oli 6 metrin korkeudessa. Polttoainetta oli jäljellä 30 sekunnin lentoa varten. Aluksen moottorit puhalsivat nyt Kuun pintaan nostaen melkoisesti pölyä, mikä haittasi huomattavasti näkyvyyttä, ja Armstrong ohjasi laskeutumista lähes sokkona. Jonkin laskutelineistä riippuvista 1,73 metriä pitkistä mitta-antureista osuessa Kuuhun Aldrin ilmoitti: "Kosketusvalo". Armstrong sanoi kytkevänsä laskeutumismoottorin ohjauksen pois päältä:  "Selvä. Moottori pysähtynyt. Komento – pois. Moottorin varaus – pois. Neljä–kolmetoista sisään."Armstrong sammutti kuumoduulin moottorin vasta hyvin alhaalla tai mahdollisesti laskeutumisen jo tapahduttua. Armstrong ja Aldrin ovat kuvailleet laskeutumista pehmeäksi ja lähinnä paikalleen asettumiseksi, missä oli vaikeata huomata tarkkaa laskeutumishetkeä. Heidän ensimmäiset sanansa Kuusta olivat teknistä ammattikieltä. Pian laskeutumisen jälkeen Armstrong ilmoitti lennonjohdolle: "Houston, täällä Rauhallisuuden meren tukikohta, Kotka on laskeutunut" (engl. "Houston, Tranquility Base here. The Eagle has landed.")
+Tasaisen laskeutumispaikan löytäminen oli tärkeää. Yli 12 asteen kulmaan laskeutuminen olisi ollut vaarallista, sillä turvallinen lähtö paluumatkalle edellytti, että alus olisi lähes täysin pystyssä. Kuualus laskeutui 4 asteen kulmaan ja upposi muutaman tuuman Kuun pintaan. Kuumoduulin laskeutumisosaan jäi polttoainetta jäljelle alle 20 sekunnin ajoa varten. Armstrongin syke oli laskeutumisen aikana 160.Armstrong on todennut olleensa hämmästynyt laskeutumisen jälkeen sammuttaessaan rakettimoottorin ja nähdessään, miten tomuhiukkaset lensivät säteittäisesti moottorin alta kaikkialle horisonttiin ja hävisivät välittömästi, aivan kuin moottori olisi ollut viikon sammutettuna. Hän kuvaili ympärillä näkyvää maisemaa, jossa oli erilaisia harmaan sävyjä riippuen tarkastelukulmasta Aurinkoon nähden. Kraatterien reunat olivat jopa 7–8 metriä korkeita. Monia 2–20 metrin läpimittaisia kraattereita oli näkyvillä. Pienimmät kraatterit olivat jopa vain muutaman sentin läpimittaisia. Lisäksi näkyi noin metrisiä kulmikkaita kivenlohkareita.
+
+
+== Kuukävely ==
+
+Astronautit saivat valvontakeskukselta luvan kävellä Kuun pinnalla, kun oli todettu kuualuksen olevan paluuseen sopivassa kunnossa. Astronautit halusivat kävellä Kuussa ennen suunniteltua lepojaksoa. Kuumoduulin paineen hitaan laskemisen takia kesti suhteellisen kauan ennen kuin he saivat avattua kuumoduulin luukun.Armstrong tuli ulos kuumoduulista käsiensä ja polviensa varassa jalat edellä laskeutumistikkaille Aldrinin antaessa hänelle ohjeita. Laskeutumistikkaat olivat kuumoduulin varjon puolella. Kulkiessaan tikkaita pitkin kuumoduulista alas Armstrong vapautti moduulin kyljestä MESAn (Modular Equipment Stowage Assembly), joka aktivoi TV-kameran. Tikkaiden alimmalta puolalta hän hyppäsi tikkaista kaksin käsin kiinni pitäen ensin kuumoduulin laskeutumisjalaksen päälle ja siitä takaisin tikkaille, kokeillakseen takaisin pääsyä. Tämä osoittautui suhteellisen helpoksi ja vaati vain kevyen ponnistuksen. Seisoessaan laskeutumistelineen päällä Armstrong tarkasteli jalasten painautumista ja Kuun pinnan rakennetta. Telineet olivat painuneet muutamia tuumia pintaan ja Kuun pintarakenne näytti hyvin hienojakoiselta, lähes puuterimaiselta. Tämän jälkeen hän tunnusteli Kuun pintaa saappaansa kärjellä ja sitten pitäen oikealla kädellään kiinni tikkaista astui vasemmalla jalallaan Kuun pinnalle, pitäen oikeaa jalkaansa kuumoduulin laskeutumisjalaksen päällä.Astuessaan Kuun pinnalle 1969-07-2121. heinäkuuta 1969 kello 02.56 (UTC) Armstrong lausui historialliset sanansa:
+
+»Tämä on pieni askel ihmiselle, jättiläisharppaus ihmiskunnalle.(engl. That's one small step for (a) man, one giant leap for mankind.)» 
+Armstrong otti kuukävelynsä alkuvaiheessa muutamia näytteitä Kuusta siltä varalta, että paluu jouduttaisiin tekemään nopeasti. Noin 15 minuutin kuluttua Aldrin laskeutui ulos kuualuksesta Armstrongin antaessa hänelle ohjeita ja kuvatessa tapahtumaa Hasselblad-kameralla. Myös Aldrin harjoitteli laskeutumisjalan päälle hyppäämisen jälkeen ponnistusta takaisin tikkaiden alimmalle askelmalle ennen hyppäämistään Kuun pinnalle. Hän oli Kuun pinnalla vajaat 20 minuuttia Armstrongin jälkeen.
+Astronautit pysyttelivät lähellä kuualusta, josta Armstrong kävi enimmillään 110 metrin päässä. Astronautit ottivat kiviä ja kuupölyä näytteiksi. He huomasivat, että Kuussa saattoi liikkua hyppimällä, koska Kuun painovoima on paljon pienempi kuin Maan. Armstrong huomasi Kuussa liikkumisen helpommaksi kuin simulaattorissa, vaikka selkäreppu siirsikin painopistettä hieman taakse. Hän painoi Kuun pienessä painovoimassa vain 255 N, joka vastaa maassa 26 kg massaa . Hän pani merkille myös saappaillaan potkimansa tomun erikoisen lentoradan ja sen, että siitä ei jäänyt minkäänlaista pölypilveä leijumaan. Kuupöly oli liukasta, ja käveleminen oli suunniteltava muutamia askeleita eteenpäin. Kypärä lämpeni hieman auringonvalossa, ja piti välttää suoraan Aurinkoon katsomista.
+Armstrong ja Aldrin asensivat kuunjäristyksiä mittaavan seismometrin ja laserheijastimen sisältävän EASEP-paketin Kuun pinnalle samoin kuin Yhdysvaltain lipun, jonka suoristivat vaakasuoralla tangolla. Yhdysvaltain presidentti Richard Nixonin puhelu välitettiin Kuuhun, ja TV-katselijat pääsivät seuraamaan suorassa lähetyksessä hänen kuulentäjille pitämäänsä historiallista, maailmanrauhaa ja ihmiskunnan yhtenäisyyttä korostavaa puhetta.
+Sillä aikaa kun Armstrong ja Aldrin olivat Kuun pinnalla, kolmas astronautti Michael Collins kiersi Columbia-komentoaluksella Kuuta ja muun muassa otti kuvia Kuun pinnasta. Hän yritti myös paikallistaa kaukoputkella kuumoduulin aina ollessaan kiertoradalla laskeutumisalueen yläpuolella, mutta ei onnistunut havaitsemaan kuumoduulia kiertoradalta.
+Hieman yli kahden tunnin kävelyn jälkeen astronautit palasivat valvontakeskuksen käskystä kuualukseen, missä yrittivät nukkua ennen paluulentoa. Avaruuspukuihin tarttunut kuupöly haisi lievästi metalliselta tai kuten kostea tuhka, mutta ei erityisen häiritsevästi. Armstrongin ja Aldrinin lepojakso oli noin seitsemän tuntia. Heidän leponsa jäi kuitenkin laadultaan huonoksi; Collins pystyi nukkumaan paremmin kiertoradalla.
+
+
+== Paluu ==
+Lepojakson päätyttyä astronautit alkoivat valmistella kuumoduulin yläosan eli nousuosan lentoa Kuuta kiertävän komentoaluksen luo. Armstrong ja Aldrin olivat Kuun pinnalla noin 21 tuntia 36 minuuttia. Aldrin oli vahingossa rikkonut nousumoottorin katkaisijan, ja nousumoottorin katkaisijaa painettiin kynää apuna käyttäen (Neil Armstrongin kalleimpana aarteenansa pitämä kynä on yhä tallella). Tietokone ohjasi Kotkan yläosan nousua. Komentomoduuliin telakoitumisen jälkeen kuumoduulin nousuosa hylättiin Kuuta kiertävälle radalle. Tämän jälkeen komentoalus lähti paluulennolle kohti Maata. Raketti käynnistettiin Kuun kääntöpuolella.
+Paluun aikana alus syöksyi suurella nopeudella Maan ilmakehään, sen lämpökilpi kuumeni hehkuvaksi ja jonkin ajan kuluttua alus leijui laskuvarjojen varassa Tyyneen valtamereen. Laskeutumispaikka sijaitsi Wakesaaresta 2 660 kilometriä itään, Johnstonin atollista 380 kilometriä etelään ja 24 kilometrin päässä USS Hornetista.
+USS Hornetin pelastusmiehistö nouti astronautit ja kapselin merestä. Palatessaan Yhdysvaltoihin astronautit joutuivat tullitarkastukseen Honolulun lentokentällä Havaijilla. Miehistö luetteli tullilomakkeessa, mitä tuliaisia he toivat matkaltaan. Tämän jälkeen he joutuivat kolmeksi viikoksi karanteeniin, koska ei tiedetty, olisiko Kuussa mahdollisesti Maassa tuntemattomia taudinaiheuttajia. Tämä pelko osoittautui aiheettomaksi. Miehistölle karanteeni oli ymmärrettävästi pitkästyttävä.
+
+
+== Apollo 11:n laskeutumispaikka ==
+
+Apollo 11:n laskeutumisalueeksi valittiin (alue Google Moonissa) Mare Tranquillitatiksen eli Rauhallisuuden meren eteläosassa noin 20 kilometrin päässä Sabine D -kraatterista lounaaseen osittain sen vuoksi, että miehittämättömät Ranger 8- ja Surveyor 5 -laskeutujat sekä Lunar Orbiter -luotain olivat havainneet sen suhteellisen tasaiseksi alueeksi, joka ei todennäköisesti aiheuttaisi suuria ongelmia laskeutumiselle tai kuukävelylle.
+
+
+== Miehistö ==
+Neil Armstrong – komentaja
+Michael Collins – komentomoduulin pilotti
+Buzz Aldrin – kuumoduulin pilotti
+
+
+== Aikataulu ==
+Ajat ovat UTC-aikaa. Suomessa kello oli kaksi tuntia edellä.
+Lähtö: 16. heinäkuuta 1969 13:32,00 UTC Kennedyn avaruuskeskuksesta
+Eagle irtosi Columbiasta: 20. heinäkuuta 1969 17:44,00 UTC
+Laskeutuminen Kuuhun: 20. heinäkuuta 1969 20:17,40 UTC (eli 22.17,40 Suomen aikaa) Rauhallisuuden mereen
+Kuukävely:
+Eaglen luukku avattiin: 21. heinäkuuta 1969 02:39,33 UTC
+Armstrong poistui kuumoduulista: 02:51,36 UTC
+Armstrong astui Kuun pinnalle: 02:56,15 UTC
+Armstrong palasi kuumoduuliin: 05:09,00 UTC
+Aldrin poistui kuumoduulista: 03:11,57 UTC
+Aldrin astui Kuun pinnalle: 03:15,56 UTC
+Aldrin palasi kuumoduuliin: 05:01,39 UTC
+Eaglen luukku suljettiin: 21. heinäkuuta 1969 05:11,13 UTC
+Kokonaisaika: 2 tuntia, 31 minuuttia, 40 sekuntia
+Kokonaisaika Kuun pinnalla: 21 tuntia, 36 minuuttia, 20 sekuntia
+Eagle telakoitui takaisin Columbiaan: 21. heinäkuuta 1969 21:35,00 UTC
+Laskeutuminen Maahan: 24. heinäkuuta 1969 16:50,35 UTC
+Kokonaisaika avaruudessa: 59 tuntia, 30 minuuttia, 25,79 sekuntia
+
+
+== Kuvamateriaali ==
+NASA julkaisi heinäkuussa 2009 kuulennon 40-juhlapäivän kunniaksi hiljattain löydetyn uuden videon ensimmäisestä kuulennosta.
+
+
+== Kuvagalleria ==
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+== Katso myös ==
+Apollo-ohjelmaa koskevat huijaussyytökset
+Kuustudio
+
+
+== Lähteet ==
+
+
+=== Kirjat ===
+Arjatsalo, Arvi: Kuulento Apollo 11 – nuortenkirja ihmisen ensimmäisestä kuukävelystä vuonna 1969.    Otava, 1980.     
+Lagerstedt, Ilpo: Rakettimiehiä, kilpajuoksu Kuuhun.   Hämeenlinna: Karisto, 2008. ISBN 978-951-23-5018-6.    
+Westman, Juhani: Vanha ja uusi Kuu. Ursan julkaisuja 55.  Helsinki: Ursa, 1995. ISBN 951-9269-78-9.    
+
+
+=== Lehdet ===
+Tieteen Kuvalehti 9/2009, s. 50. "Ihminen valloitti Kuun" "Kuun pinnalla", artikkeli. 11.6.2009.
+Tähdet ja avaruus 4/2009.
+
+
+=== Viitteet ===
+
+
+== Kirjallisuutta ==
+Moonfire: The Epic Journey of Apollo 11 by Norman Mailer (Author), Buzz Aldrin (Contributor), Colum McCann (Contributor).
+
+
+== Aiheesta muualla ==
+
+NASAn Apollo-sivu multimediaa, linkkejä
+The First Lunar Landing lennon tapahtumat aikajanalla kommentoituina (englanniksi)
+Timesonlinen sivusto kuuhunlaskeutumisen vuosijuhlasta (englanniksi)
+NASAn Apollo 11:n alkuperäinen lehdistöpaketti - pdf-tiedosto 27 Mt, 254 sivua  (englanniksi)
+Apollo 11 Mission Report (PDF) NASA.     200+ sivua
+Office of Public Affairs, NASA: EP-72 Log of Apollo 11 NASA History Office.     Kuulennon aikajana
+Eric M. Jones: Apollo 11 Lunar Surface Journal hq.nasa.gov.     ääninäytteitä ja kirjallista materiaalia lennolta
+Apollo 11 image library NASA.     Satoja korkealaatuisia kuvia lennolta, myös koottuja panoraamoja.
+Google Moon moon.google.com.     Googlen kuukartta, kuuhunlaskeutumispaikat merkitty
+Neil Armstrongin ensimmäiset sanat Kuussa video ja ääninauhoite
+Apollolentojen panoraamakuvia kuunpinnasta QTVR-panoraamakuvia (QuickTime VR, pyöritettävä kuva)
+Apollo-lentojen kuva-arkisto
+Video kuumatkasta lähdöstä paluuseen
+Apollo/Saturn V kehitys, laukaisut ApolloTV.net video lähdöstä (valitse Launch gallery)
+Apollo 11: The Complete Descent - Reaaliaikainen video Apollo 11:n laskeutumisesta Kuuhun. Video on yhdistelmä aluksen ja lennonjohdon tapahtumista. Apollo 11 - Apollo Flight Journal
+Kaikki lennon radioliikenne reaaliaikaisesti, mukana videoita ja kuvia

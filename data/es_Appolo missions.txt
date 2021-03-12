@@ -1,0 +1,104 @@
+El Programa Apolo fue un programa espacial tripulado desarrollado por Estados Unidos en la década de 1960 en el marco de la carrera espacial con la Unión Soviética durante la Guerra Fría. El proyecto comenzó en julio de 1960, cuando la agencia espacial estadounidense NASA anunció el programa, como continuación de las misiones Mercury, que tendría como objetivo el sobrevuelo tripulado de nuestro satélite para localizar una zona apropiada con vistas a un eventual alunizaje de astronautas, que cumpliría así el viejo sueño del viaje a la Luna por parte del ser humano. Esto se hizo finalmente realidad en julio de 1969, cuando la misión Apolo 11, comandada por Neil Armstrong, Edwin Aldrin, y Michael Collins alunizó por primera vez en el satélite terrestre.
+
+
+== Historia ==
+Los planes iniciales se vieron modificados el 25 de mayo de 1961 con el anuncio del presidente John F. Kennedy de enviar y depositar un hombre en la Luna, y traerlo de vuelta a salvo antes de que finalizara la década. Este objetivo se alcanzó el 20 de julio de 1969, cuando Neil Armstrong y Edwin Buzz Aldrin a bordo de la Apolo 11 alunizaron en el Mar de la Tranquilidad. Este hito histórico se retransmitió a todo el planeta desde las instalaciones del Observatorio Parkes (Australia). 
+En un principio, el paseo lunar iba a ser retransmitido a partir de la señal que llegase a la estación de seguimiento de Goldstone (California, Estados Unidos), perteneciente a la Red del Espacio Profundo, pero ante la mala recepción, se optó por utilizar la señal de la estación Honeysuckle Creek, cercana a Canberra (Australia).[1]​ Esta retransmitió los primeros minutos, tras los cuales la señal del Observatorio Parkes fue utilizada de nuevo durante el resto del paseo.[2]​ 
+Las estaciones de seguimiento de Maspalomas (Gran Canaria, España), Estación Apolo, Fresnedillas de la Oliva y Robledo de Chavela (Madrid, España), las dos primeras pertenecientes a la Red de NASA de Vuelos Tripulados, (hoy desaparecida), y la tercera perteneciente a la Red del Espacio Profundo actualmente denominada MDSCC participaron en todas las misiones del Proyecto de una forma primordial.[3]​[4]​
+El Proyecto Apolo fue uno de los triunfos más importantes de la tecnología moderna. Seis misiones lograron posarse sobre la superficie lunar (Apolo 11, 12, 14, 15, 16 y 17) con un solo fallo: la misión Apolo 13 no pudo concretar su meta por la explosión del tanque de oxígeno líquido del módulo de servicio, pero la tripulación regresó a salvo. 
+Previo a las misiones con descenso proyectado a la superficie de la Luna, se probaron los sistemas de vuelo en varios lanzamientos automáticos (ver Apolo 2, 3, 4, 5 y 6 ), y después hubo dos pruebas tripuladas en órbita terrestre (Apolo 7 y 9), y dos misiones solo orbitales (sin alunizaje) a la Luna (Apolo 8 y 10). En 1973, una vez finalizado el programa lunar, tres naves Apolo fueron usadas para enviar tripulaciones a la estación espacial Skylab (misiones SL-2, SL-3 y SL-4) y en 1975 fue lanzada la última nave Apolo, para la misión Apolo-Soyuz.
+Otra de las novedades de este programa fue la implementación de un sistema de encuentro y acople con otra nave en órbita lunar, bautizado Lunar Orbit Rendezvous o LOR («Encuentro de Órbita Lunar»), que fuera ideado por John C. Houbolt, un ingeniero espacial de la NASA. A pesar de los riesgos que implicaba su uso, el LOR permitió a la NASA reemplazar el descomunal cohete «NOVA» originalmente planeado para este tipo de misiones, lo cual llevó a un significativo ahorro de dinero.
+
+
+== Descripción de la nave Apolo ==
+
+
+=== Nave Apolo ===
+
+El módulo lunar (LEM) Apolo fue la primera nave diseñada para volar en el vacío sin ninguna capacidad aerodinámica. El módulo estaba unido al módulo de mando y al módulo de servicio, y se separaba de estos en la órbita lunar para emprender su descenso a la Luna con dos astronautas a bordo. Tenía unas patas tan débiles que no podrían cargar el peso del módulo en gravedad terrestre, pero sí en la lunar (aproximadamente un sexto de la anterior). Al final de su estadía en la superficie, la etapa superior del módulo lunar despegaba para volver a unirse a los dos módulos en órbita lunar.
+
+La forma del módulo de mando Apolo era distinta de las cápsulas Mercury y Gemini; tenía espacio para una tripulación de 3 astronautas y estaba fijado al módulo de servicio que proveía de abastecimiento y contenía el motor del sistema de propulsión de servicio que ubicaba a la nave dentro y fuera de la órbita lunar.
+
+
+=== Saturno V ===
+
+Para que las naves Apolo llegaran a su destino fue necesario la construcción del cohete Saturno V, el más grande jamás construido por la NASA, que medía 110,64 m de altura. El Saturno V lleno de combustible pesaba unas 2700 toneladas en el momento del despegue. El vehículo tenía tres etapas: S-IC, S-II y S-IVB. La última etapa se activaba para enviar a la nave Apolo fuera de la órbita terrestre y ubicarla en camino a la Luna. El diseño del Saturno V estuvo a cargo del científico alemán Wernher von Braun y su equipo.
+El combustible de la etapa S-IC del Saturno V era RP-1 (refined petroleum, petróleo refinado), que era una combinación de oxígeno y keroseno. La S-IC constaba de cinco motores F-1. Las últimas dos etapas, S-II y S-IVB, utilizaban una combinación de oxígeno líquido (LOX) e hidrógeno líquido (LH2) que eran quemados por seis motores J-2; cinco eran usados en la segunda etapa y el sexto en la última.
+Las misiones Apolo complicaron las actividades desempeñadas por los operadores en tierra, ya que en este caso tenían que controlar las trayectorias de dos naves. El entrenamiento de los astronautas fue muy extenso, cerca de 84.000 horas (casi 10 años). Este entrenamiento incluyó diversas actividades, desde simulaciones de la gravedad lunar, expediciones de geología en diferentes regiones de la Tierra, hasta pilotar el vehículo de entrenamiento para el aterrizaje lunar.
+
+
+== Cronología ==
+El 27 de enero de 1967 poco antes de llevar a cabo el primer vuelo tripulado la tragedia golpeó a la NASA. Durante una prueba de los sistemas del módulo de mando de la Apolo 1 hubo un brutal incendio dentro del mismo que se cobró, antes de que pudiera llevarse a cabo el más mínimo intento de rescate, la vida de los astronautas Virgil “Guss” Grissom, Edward White II y Roger Chaffee. Una comisión investigadora determinó que la tragedia se había originado como consecuencia del oxígeno puro al 100% que entró en combustión con una chispa provocada por un cortocircuito en uno de los paneles de control de la nave. La NASA, tras este accidente, instituyó un programa de recompensas para mejorar la seguridad de las misiones, el Premio Snoopy. 
+Para octubre de 1968 el Apolo 7 ya estaba listo para ser lanzado y enviar a tres astronautas en órbita terrestre. Tanto el cohete lanzador Saturno V como los dos módulos habían sido probados durante noviembre de 1967 en la misión Apolo 4 (el primer vuelo del Saturno V), que no fue tripulada.
+
+Para diciembre de 1968 la misión Apolo 8 estaba lista para enviar a tres astronautas a una órbita alrededor de la Luna, misión que se concretó entre el 21 y el 27 de diciembre; se recuerda el pasaje inicial de la Biblia leído por Frank Borman durante la Navidad de aquel año.
+
+El noveno vuelo del programa Apolo, lanzado el 3 de marzo de 1969, fue el del Apolo 9, encargado de probar el módulo lunar. Fue la tercera misión tripulada del programa Apolo, cuyos integrantes fueron James A. McDivitt (comandante), David R. Scott y Russell L. Schweickart, quienes utilizaron el habitáculo que debería depositar a los astronautas en la superficie de la Luna.
+Schweickart efectuó una salida al espacio de 37 minutos de duración, destinada a probar el traje espacial que habría de ser utilizado en el descenso a la Luna y valorado en 100.000 dólares (de la época) cada uno.
+Estos equipos autónomos, capaces de resistir temperaturas del orden de –150 °C a más 130 °C, debían además proteger a los astronautas del impacto de micrometeoritos (con velocidades cercanas a los 100.000 km/h), garantizar las comunicaciones y suministrar soporte vital durante tres horas. Se realizó asimismo un ensamblaje perfecto con el módulo lunar “Spider” que se fue alejando del módulo de mando denominado “Gumdrop”, hasta una distancia de 160 km.
+El vuelo amerizó el día 13 de marzo tras orbitar 151 veces nuestro planeta y después de 241 horas de vuelo.
+El décimo vuelo del programa Apolo (denominado oficialmente como AS-505), fue lanzado el 18 de mayo de 1969 con Thomas P. Stafford -comandante-, John W. Young y Eugene A. Cernan a bordo.
+Esta misión fue una combinación de las dos anteriores, ya que por primera vez se situó el módulo lunar L. M. en una órbita próxima a la Luna, y se realizaron allí las maniobras necesarias que ya se habían efectuado en órbita alrededor de la tierra.
+Stafford y Cernan se situaron en el módulo lunar “Snoopy”, tras abandonar el de mando y servicio C. S. M., y lograron situarse en órbita lunar elíptica, cuyo perilunio quedó situado a unos 10 kilómetros sobre su superficie.
+Aproximadamente un mes más tarde, el 16 de julio de 1969, se enviaría al espacio la misión Apolo 11, que llegó a la superficie de la Luna el 20 de julio tripulada por Neil Armstrong, Edwin Buzz Aldrin y Michael Collins e hizo historia al poner dos hombres en la superficie de la Luna.
+Para diciembre de 1972 el Programa Apolo llegaba a su fin. Durante su duración se lograron importantes avances en la astronáutica y en los conocimientos de la geología lunar. Las tres últimas misiones fueron mucho más sofisticadas que las primeras tres, en gran parte porque los astronautas llevaron el «rover lunar» (LRV), un vehículo que les permitió desplazarse hasta varios kilómetros del lugar de alunizaje. En la misión Apolo 11 Armstrong y Aldrin estuvieron solamente 2 horas y media sobre la superficie, mientras que en la Apolo 17, última, las caminatas llegaron a un total de 22 horas de una estadía total de 3 días en el valle de Taurus-Littrow.
+Por otra parte, la misión Apolo 17 fue la primera en incluir a un científico. Se trataba del geólogo Harrison Schmitt. Hasta ese momento, las tripulaciones de las misiones Apolo estaban compuestas en su mayoría por militares.
+
+ 
+Después de seis aterrizajes lunares, el Programa Apolo se dio por terminado después de que las misiones Apolo 18, 19 y 20 se cancelaran por limitaciones de presupuesto. El fin del programa Apolo marcó el fin de la mayor ola de exploración espacial hasta entonces y puso a los Estados Unidos a la cabeza de la carrera espacial sobre la Unión Soviética.
+
+
+== Astronautas ==
+El director de operaciones de la tripulación de vuelo de la NASA durante el programa Apolo fue Donald K. «Deke» Slayton, uno de los integrantes del grupo conocido como «Mercury Seven», los primeros astronautas estadounidenses,[5]​ pero que había quedado en tierra por razones médicas en septiembre de 1962 debido a un soplo cardíaco. Slayton fue el encargado de realizar todas las asignaciones de tripulación de los programas Gemini y Apolo.[6]​
+Treinta y dos astronautas fueron asignados a misiones de vuelo en el programa Apolo. Veinticuatro de ellos dejaron la órbita de la Tierra y volaron alrededor de la Luna entre diciembre de 1968 y diciembre de 1972 (tres de ellos dos veces). La mitad de estos veinticuatro pisaron la superficie lunar, aunque ninguno de ellos regresó a la Luna después de su primer aterrizaje. Uno de los que pisó la Luna era un geólogo experimentado. Del total de los treinta y dos astronautas participantes, Gus Grissom, Ed White y Roger Chaffee murieron durante una prueba en tierra durante los preparativos para la misión del Apolo 1.[7]​
+
+La selección de los astronautas del Apolo se hizo a partir de los veteranos de los programas Mercury y Gemini y de dos grupos de astronautas posteriores; todas las misiones estuvieron comandadas por veteranos de Mercury y Gemini. Las tripulaciones de todos los vuelos de desarrollo (excepto los vuelos de desarrollo de la órbita terrestre CSM) en los dos primeros aterrizajes en el Apolo 11 y el Apolo 12, incluyeron al menos dos (en ocasiones tres) veteranos del programa Gemini. El Dr. Harrison Schmitt, un geólogo, fue el primer astronauta científico de la NASA que viajó al espacio, y alunizó en la última misión, el Apolo 17. Schmitt participó en la formación de los astronautas en la geología lunar de todas las tripulaciones del programa Apolo.[8]​
+La NASA concedió a todos estos astronautas su más alta distinción, la Medalla al Servicio Distinguido, otorgada por «servicio distinguido, destreza o coraje», y por su «contribución personal representando un progreso sustancial en la misión de la NASA»; las medallas les fueron otorgadas póstumamente a Grissom, White y Chaffee en 1969 y posteriormente a las tripulaciones de todas las misiones desde la Apolo 8 en adelante. La tripulación que participó en la primera misión de prueba orbital terrestre Apolo 7, Walter M. Schirra, Donn F. Eisele y Walter Cunningham, recibieron la menos importante Medalla al Servicio Excepcional de la NASA, debido a algunos problemas de disciplina con las órdenes del director de vuelo durante su vuelo, pero en octubre de 2008 el Administrador de la NASA decidió otorgarles la Medalla al Servicio Distinguido, en aquel momento de forma póstuma a Schirra y Eisele.[9]​
+
+
+== Misiones Apolo ==
+Hubo 22 misiones Apolo y 18 de ellas fueron un éxito, 3 un éxito parcial y 1 fracaso.
+
+
+== Véase también ==
+Alunizaje
+Carrera espacial
+Apollo Guidance Computer
+Programa lunar N1/L3
+Exploración de la Luna
+Geología de la Luna
+Cráter lunar Apolo
+Colonización de la Luna
+Paquetes de experimentos Apolo en la superficie lunar
+Anexo:Misiones espaciales lanzadas a la Luna
+Anexo:Objetos artificiales en la Luna
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una galería multimedia sobre Programa Apolo.
+Sitio de la NASA (en inglés)
+Amanecer de la Tierra (45 años del Apolo 8)
+Disfrutando los logros del Programa Apolo
+Cómo y porqué se escogió el nombre de un Dios para el Programa ApoloPáginas históricas
+
+Historia del programa Apolo en la web de NASA Human Space Flight (HSF) (en inglés)
+El programa Apolo Publicaciones del NASA History Program Office (en inglés)
+Tecnología derivada del programa Apolo (en inglés)
+El programa Apolo en el Museo Nacional del Aire y el Espacio de Estados Unidos (en inglés)
+Presentación interactiva en conmemoración del 35.º aniversario del programa Apolo (en Flash) (en inglés)
+Cronología de las misiones lunares del Instituto Lunar y Planetario (LPI) (en inglés)Informes de la NASA
+
+Apollo Program Summary Report (PDF), NASA, JSC-09423, abril de 1975 (en inglés)
+NASA History Series Publications Publicaciones e informes históricos en la web de la NASA (en inglés)
+Project Apollo Drawings and Technical Diagrams Dibujos y diagramas técnicos del proyecto Apolo en la web de la NASA (en inglés)
+The Apollo Lunar Surface Journal Pone a disposición pública todo el material gráfico grabado durante los paseos lunares de las misiones Apolo (en inglés)
+The Apollo Flight Journal Complemento del Apollo Lunar Surface Journal, crónica de los vuelos hasta la Luna de las misiones Apolo (en inglés)Multimedia
+
+Apollo Image Archive en la Universidad Estatal de Arizona (en inglés)
+Apollo Gallery en la web de la NASA Human Space Flight (incluye vídeos y animaciones) (en inglés)
+Grabación de audio y transcripción del presidente John F. Kennedy, el administrador de la NASA James Webb y otros participantes, sobre la planificación del proyecto Apolo (Gabinete de la Casa Blanca, 21 de noviembre de 1962) (en inglés)
+The Project Apollo Archive realizado por Kipp Teague, es una larga colección de fotografías, vídeos y grabaciones de audio del Proyecto Apolo. (en inglés)
+Apollo Image Atlas Incluye casi 25.000 fotografías tomadas en la Luna durante el proyecto Apolo, recopilado por el Instituto Lunar y Planetario (en inglés)

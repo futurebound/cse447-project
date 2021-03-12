@@ -1,0 +1,231 @@
+Valonnopeus on fysikaalinen vakio, jota merkitään kirjaimella c (lat. celeritas, ’nopeus’). Sen arvo on 299 792 458 m/s eli 1 079 252 848,8 km/h. Erityisen suhteellisuusteorian mukaan yksikään kappale, jolla on massa, ei voi saavuttaa valonnopeutta. Valonnopeus on myös kaiken informaation, myös massattomien hiukkasten, nopeuden yläraja.Valon nopeus (erikseen kirjoitettuna) on nopeus, joka valolla tietyllä hetkellä on jossain väliaineessa (esimerkiksi lasin läpi valon nopeus on c / 1,5). Valon nopeus on aina pienempi kuin vakio nimeltä valonnopeus (yhteen kirjoitettuna) paitsi tyhjiössä, jossa valon nopeus on sama kuin valonnopeus.
+
+
+== Käsitteen historia ==
+Aikaisemmin useat merkittävät oppineet uskoivat valonnopeuden olevan ääretön. Antiikin aikana näin uskoivat esimerkiksi Aristoteles ja Ptolemaios. Sen sijaan al-Haytham ja Avicenna olivat sitä mieltä, että valonnopeus on äärellinen. Käsitys, jonka mukaan valonnopeus on äärellinen, pääsi vallalle 1500–1600-luvulla. Vielä René Descartes uskoi äärettömään valonnopeuteen, mutta jo Galileo Galilei, Robert Boyle ja Robert Hooke pitivät valon nopeutta äärellisenä, vaikkakin mittaamattoman suurena. Galilei mm. esitti voimakkaalla, peitetyllä lyhdyllä toteutettavaa koetta. Kun lyhty paljastettiin, tarkoituksena oli mitata oikean paljastamisen ja valon havaitsemisen välinen aika.Vuonna 1676 Ole Rømer laski Jupiterin kuista tekemiensä tutkimusten pohjalta valon nopeudeksi 225 000 km/s. Tulos oli lähes 25 % liian pieni, mutta Rømerin tutkimus valonnopeudesta on erittäin merkittävä, koska se sisälsi ensimmäiset vakuuttavat todisteet siitä, että valonnopeus on äärellinen. Englantilainen tähtitieteilijä James Bradley pääsi vuonna 1778 valonnopeuslaskelmissaan jo huomattavasti lähemmäs oikeaa tulosta kuin Rømer: 294 995 km/s. Vuonna 1704 myös Isaac Newton perehtyi Rømerin tutkimuksiin, ja laski ajaksi, jonka valo kulkee Auringosta Maahan 7–8 minuuttia.
+ Oikea arvo on 8,3 minuuttia.1800-luvulle saakka vallalla oli käsitys, että kaiken sähkömagneettisen säteilyn, myös valon, etenemiseen tarvittiin väliainetta. Tätä väliainetta kutsuttiin valoeetteriksi. Vuosisadan lopulla eetteriteorian pohja alkoi murentua Michelsonin-Morleyn kokeen kaltaisten ongelmien takia. Albert Einsteinin vuonna 1905 julkaisemassa erityisessä suhteellisuusteoriassa esitettiin, että valonnopeus on sama kaikille havainnoitsijoille heidän liiketilastaan riippumatta. Tämä vaikutti voimakkaasti käsitykseen ajasta ja avaruudesta ollen osaltaan kumoamassa eetteriteoriaa lopullisesti. 
+Vuonna 1983 valonnopeudeksi laskettiin 299 792 km/s, mikä vastaa nykykäsitystä valonnopeudesta.
+
+
+== Nopeus ==
+
+Erityisen suhteellisuusteorian mukaan jokainen tarkkailija saa (viitekehyksestä riippumatta) mittaamalla saman tuloksen valonnopeudelle. Tämä arvaus osoittautui hyödylliseksi. Informaatio ei voi siirtyä c:tä nopeammin aiheuttamatta syy-seuraussuhteisiin vakavia ongelmia, eikä tällaisesta ole tehty havaintoja.
+
+Valonnopeus tyhjiössä on tarkalleen
+
+c = 299 792 458 metriä sekunnissaeli noin 30 senttimetriä nanosekunnissa. Tämä on määritelmä eikä empiirinen arvo. Metri määriteltiin vuonna 1983 uudelleen siten, että c sai tarkalleen tämän arvon, joka oli puolestaan valittu vastaamaan mahdollisimman tarkasti aiempaa mittaustulosta.
+
+
+=== Ylivalonnopeus ===
+Ylivalonnopeudella tarkoitetaan valoa nopeammin kulkevaa ainetta tai informaatiota. Erityisen suhteellisuusteorian mukaan mikään kappale, jolla on massa ei voi ylittää valonnopeutta. Teorian mukaan ei siis ole olemassa takioneja, hiukkasia jotka liikkuvat valoa nopeammin. Suhteellisuusteorian mukaan valonnopeutta lähestyttäessä kappaleen kokema aika suhteessa ympäristöönsä hidastuu Lorentz-kertoimen mukaan. Ilmiötä kutsutaan aikadilaatioksi. Valonnopeutta liikuttaessa aika olisi siis täysin pysähtynyt, ja ylivalonnopeudella liikkuminen saisi siis ajan muuttumaan imaginaariseksi.
+Euroopan hiukkasfysiikan tutkimuskeskuksessa CERNissä kerättiin vuosina 2009, 2010 ja 2011 tietoa neutriinojen nopeudesta, joka tulosten perusteella vaikutti olevan valon nopeutta suurempi. Koetuloksien todettiin myöhemmin johtuneen laitteistoviasta.Maailmankaikkeuden laajenemisesta kuvaavan Hubblen lain mukaan galaksit etääntyvät toisistaan sitä nopeammin, mitä kauempana ne ovat toisistaan. Galaksit, joiden välimatka on tarpeeksi suuri, voivat etääntyä toisistaan valonnopeutta suuremmalla nopeudella, sillä kyseessä ei ole varsinainen kappaleiden liike, vaan itse aika-avaruuden laajeneminen.
+
+
+== Keinotekoinen valonnopeus ==
+
+Kappaletta, jolla on massa ei ole mahdollista kiihdyttää valonnopeuteen keinotekoisesti, sillä erityisen suhteellisuusteorian mukaan siihen tarvittaisiin ääretön määrä energiaa. Tämä johtuu siitä, että erityisen suhteellisuusteorian mukaan kappaleen kokonaisenergia lausutaan
+
+  
+    
+      
+        E
+        =
+        
+          γ
+        
+        m
+        
+          c
+          
+            2
+          
+        
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+        +
+        K
+      
+    
+    {\displaystyle E=\mathbf {\gamma } mc^{2}=mc^{2}+K}
+  , missä
+  
+    
+      
+        
+          γ
+        
+      
+    
+    {\displaystyle \mathbf {\gamma } }
+   = 
+  
+    
+      
+        
+          
+            1
+            
+              1
+              −
+              
+                v
+                
+                  2
+                
+              
+              
+                /
+              
+              
+                c
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{\sqrt {1-v^{2}/c^{2}}}}}
+   = Lorentz-kerroin
+
+  
+    
+      
+        
+          K
+        
+      
+    
+    {\displaystyle \mathbf {K} }
+   = relativistinen kineettinen energia
+
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+   = kappaleen nopeusJos teoreettisesti oletamme, että kappale voitaisiin kiihdyttää valonnopeuteen, vaatisi tuo kiihdytys energiaa seuraavasti:
+
+  
+    
+      
+        W
+        =
+        K
+        =
+        
+          γ
+        
+        m
+        
+          c
+          
+            2
+          
+        
+        −
+        m
+        
+          c
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle W=K=\mathbf {\gamma } mc^{2}-mc^{2}.}
+  
+  
+    
+      
+        
+          lim
+          
+            v
+            →
+            c
+          
+        
+        
+          γ
+        
+        =
+        ∞
+      
+    
+    {\displaystyle \lim _{v\to c}\mathbf {\gamma } =\infty }
+  ,
+  
+    
+      
+        =>
+        
+          lim
+          
+            v
+            →
+            c
+          
+        
+        
+          K
+        
+        =
+        ∞
+        ⋅
+        m
+        
+          c
+          
+            2
+          
+        
+        −
+        m
+        
+          c
+          
+            2
+          
+        
+        =
+        ∞
+        .
+      
+    
+    {\displaystyle =>\lim _{v\to c}\mathbf {K} =\infty \cdot mc^{2}-mc^{2}=\infty .}
+  
+
+
+== Äärellisyyden vaikutukset ==
+
+Valonnopeuden äärellisyydestä on useita seurauksia. Sen takia esimerkiksi avaruuslennoilla lähetettävien radioviestien saapumisessa Maahan on aina viive – mahdollisilla miehitetyillä Mars-lennoilla viive olisi jo useita minuutteja. Äärellisyys asettaa myös ylärajan supertietokoneiden datasiirtojen nopeudelle.
+Äärellisyyden takia myös avaruudesta saatava tieto on sitä vanhempaa, mitä kauempia kohteita tarkastellaan. Esimerkiksi Hubble Ultra Deep Field nähdään sellaisena, kuin se oli 13 miljardia vuotta sitten, eli noin 700 miljoonaa vuotta alkuräjähdyksen jälkeen. Tämä avaa kuitenkin merkittäviä mahdollisuuksia maailmankaikkeuden historian tutkimisessa.
+
+
+== Katso myös ==
+Aikadilataatio
+Valovuosi
+Michelsonin-Morleyn koe
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+
+Teerikorpi, Kari: Valonnopeuden mittaamisen historiaa, arkistokopio Wayback machinen palvelimella.
+Suhteellisuusteoriaa suomeksi

@@ -1,0 +1,268 @@
+Le poids  est la force de la pesanteur, d'origine gravitationnelle et inertielle, exercée, par exemple, par la Terre sur un corps massique en raison uniquement du voisinage de la Terre. Son unité dans le Système international est le newton. Il est égal à l'opposé de la résultante des autres forces appliquées au centre de gravité du corps lorsque celui-ci est immobile dans le référentiel terrestre. Cette force est la résultante des efforts dus à la gravité et à la force d'inertie d'entraînement due à la rotation de la Terre sur elle-même. Elle s'applique au centre de gravité du corps et sa direction définit la verticale qui passe approximativement par le centre de la Terre. Le poids est une action à distance toujours proportionnelle à la masse.
+Le poids ne prend en compte que les forces de gravitation et d'inertie d'entraînement dues à la masse et à la rotation de la Terre. Quand on prend également en compte d'autres forces telles que la poussée d'Archimède, d'autres forces de gravitation (notamment dues aux masses de la Lune et du Soleil) ou d'autres forces d'inertie (notamment la force de Coriolis, la force d'inertie d'entraînement de la révolution de la Terre autour du centre de gravité Terre-Lune, ou celles qui apparaissent quand on se place dans un référentiel en mouvement par rapport au référentiel terrestre), on parle de « poids apparent ».
+Dans la langue courante, le poids (qui s'exprime en newtons) est fréquemment confondu avec la masse (qui s'exprime en kilogrammes).
+Par extension figurative, le mot poids désigne également, l'importance (quantifiée ou non), donnée à un objet ou un concept, dans un ensemble (poids ou pondération d'une note dans une moyenne scolaire ; poids des mots dans un discours ou un écrit).
+
+
+== Définition ==
+
+
+=== Définition légale ===
+D'après le BIPM :
+
+Le terme poids désigne une grandeur de la même nature qu'une force ; le poids d'un corps est le produit de la masse de ce corps par l'accélération de la pesanteur ; en particulier, le poids normal d'un corps est le produit de la masse de ce corps par l'accélération normale de la pesanteur ;
+Le nombre adopté dans le Système international des Poids et Mesures pour la valeur de l'accélération normale de la pesanteur est 980,665 cm/s2, nombre sanctionné déjà par quelques législations.
+
+
+=== Définition expérimentale ===
+Le poids d'un corps (de masse m) est la force de pesanteur exercée sur lui et qui s'oppose à la force résultante de celles qui le maintiennent à l'équilibre dans le référentiel terrestre (c’est-à-dire, lié à l'objet solide Terre en rotation). Cette définition fait que sa détermination expérimentale est aisée, par exemple à l'aide d'un fil à plomb maintenu à l'équilibre : le poids est défini comme l'opposé de la tension du fil et sa direction est celle du fil. La direction du fil définit la verticale.
+D'une manière générale, le poids est la somme de l'attraction universelle des autres masses et de la force d'inertie d'entraînement due au fait que le référentiel terrestre n'est pas un référentiel galiléen. Quel que soit le corps, le rapport du poids (
+  
+    
+      
+        
+          
+            
+              P
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {P}}}
+  ) à sa masse (m) est identique et noté 
+  
+    
+      
+        
+          
+            
+              g
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {g}}}
+   :
+
+  
+    
+      
+        
+          
+            
+              P
+              →
+            
+          
+        
+        =
+        m
+        ⋅
+        
+          
+            
+              g
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {P}}=m\cdot {\vec {g}}}
+   où 
+  
+    
+      
+        
+          
+            
+              g
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {g}}}
+   est l'accélération de la pesanteur (
+  
+    
+      
+        g
+        =
+        
+          |
+        
+        
+          |
+        
+        
+          
+            
+              g
+              →
+            
+          
+        
+        
+          |
+        
+        
+          |
+        
+      
+    
+    {\displaystyle g=||{\vec {g}}||}
+   est en m s−2, qui est l'unité de l'accélération).Sur Terre, cette accélération est d'environ 9,81 m/s2. Les écarts (toujours locaux) entre le champ de pesanteur théorique et le champ mesuré sont appelés des anomalies de pesanteurs. Le poids P s'exprime en newtons (N) et la masse m étant en kilogrammes (kg). Ainsi, une masse de 100 g (0,1 kg) a un poids d'environ 1 N, une masse de 1 kg a un poids d'environ 10 N, une masse de 10 kg a un poids d'environ 100 N. C'est la raison pour laquelle, dans les domaines techniques, on travaille souvent en décanewtons (daN) : un objet de 1 kg a un poids d'environ 1 daN ; auparavant, on utilisait le kilogramme-force (kgf), unité désuète.
+La notion de poids n'est pas uniquement terrestre et peut être étendue aux autres planètes. Par ailleurs, la rotation de la Terre provoque une force centrifuge qui contribue également au poids.
+Le poids est une force, son intensité s'exprime donc en newtons (N), ou éventuellement en décanewtons (daN) ou kilonewtons (kN). Dans le langage courant, on assimile le poids à la masse et on l'exprime de manière erronée en kilogrammes. Si le poids d'un corps dépend de sa position sur la Terre (ou si on le considère à la surface d'une planète plus ou moins grosse), sa masse n'en dépend pas.
+
+
+== Remarques ==
+Dans le système international d'unités, la masse m s'exprime en kilogrammes (symbole kg) alors que le poids qui est une force s'exprime en newtons (symbole N), et l'accélération g est indifféremment exprimée en N/kg ou en m/s2.
+La non-distinction entre masse et poids dure jusqu'au XIXe siècle, et perdure dans le langage courant. Par exemple : « la masse corporelle d'une personne » est usuellement appelée son « poids ». Il en résulte une difficulté pédagogique, au moment où cette distinction est enseignée. L'adoption du Système international (S.I.) a permis grâce à la suppression de l'unité kilogramme-poids de résoudre partiellement cette difficulté, mais on utilise fréquemment le décanewton (daN) pour retrouver approximativement cette équivalence masse-poids sur Terre.
+L'accélération de pesanteur g est l'objet d'étude de la gravimétrie. Elle n'est pas constante à la surface de la Terre, variant entre autres, avec l'altitude mais aussi la latitude en diminuant du pôle (9,83 m/s2) à l'équateur (9,78 m/s2), en raison de l'aplatissement de la Terre aux pôles et de la force centrifuge perçue dans le référentiel terrestre due à la rotation de la Terre autour de son axe. En France, on prend conventionnellement la valeur de g à Paris, soit environ :
+
+g = 9,81 m/s2.
+
+
+== Calcul approché du poids terrestre ==
+Sachant que le rayon moyen R de la Terre est égal à 6 366 km et sa masse M à 5,98 × 1024 kg, on peut déterminer une valeur approchée de l'accélération de la pesanteur 
+  
+    
+      
+        g
+        ≈
+      
+    
+    {\displaystyle g\approx }
+   9,81 m/s2 qui s'exerce sur un objet quelconque de masse m à la surface de la Terre en ne tenant compte que de l'attraction gravitationnelle de la Terre et en négligeant la force d'inertie d'entraînement :
+
+  
+    
+      
+        
+          ‖
+          
+            
+              
+                P
+                →
+              
+            
+          
+          ‖
+        
+        =
+        
+          
+            
+              G
+              M
+              m
+            
+            
+              R
+              
+                2
+              
+            
+          
+        
+        =
+        g
+        
+        m
+        ≃
+        9
+        ,
+        81
+        
+        m
+      
+    
+    {\displaystyle \left\|{\vec {P}}\right\|={\frac {GMm}{R^{2}}}=g\,m\simeq 9,81\,m}
+   (en N, avec m en kg).On rappelle que G est la constante universelle de gravitation. La valeur de l'accélération de la pesanteur g dépendant du rayon, elle connaît à la surface de la Terre des variations qui peuvent atteindre 0,5 % et qui sont très souvent négligées.
+
+
+== Illusion taille poids ==
+
+
+== Poids apparent ==
+
+Le poids apparent d'un objet est différent du poids de cet objet chaque fois que la force de gravité agissant sur l'objet n'est pas équilibrée par une force normale égale mais opposée; situation que l'on retrouve:
+
+en cas de poussée d'Archimède non négligeable,
+en cas d'étude dans un référentiel en mouvement accéléré ou en mouvement de rotation dans le référentiel terrestre et nécessitant la prise en compte, d'une force d'inertie d'entraînement supplémentaire ; c'est le cas par exemple d'une étude dans un référentiel lié au cockpit d'un avion ou à l'habitacle d'une voiture.Le poids apparent d'un objet correspond au poids indiqué par un peson (dynamomètre) (ou tout autre instrument approprié à la mesure d'une force), quand ce poids n'est pas identique au poids « réel » de l'objet, défini comme la force due à la pesanteur terrestre.
+
+
+=== Situation de poussée d'Archimède ===
+Par exemple, si l'on pesait un objet sous l'eau, la poussée d'Archimède ferait paraître l'objet plus léger et le poids mesuré serait inférieur au poids réel. Évidemment, dans la vie quotidienne, quand on pèse un objet, la poussée d'Archimède exercée par l'air ambiant est à toutes fins utiles négligeable.
+
+
+=== Situation de référentiel accéléré ===
+Pesons un objet en le suspendant à un dynamomètre. Il sera effectivement soumis à deux forces : son poids, orienté vers le bas, et la force exercée par le dynamomètre, orientée vers le haut. Quand l'objet n'accélère pas, les deux forces ont la même grandeur et le dynamomètre indique le poids réel de l'objet. Toutefois, si l'on effectue la mesure dans un ascenseur pendant que celui-ci se met en mouvement vers le haut, la force exercée par le dynamomètre sera supérieure au poids (du moins aux yeux d'un observateur immobile situé à l'extérieur de l'ascenseur), conformément à la deuxième loi du mouvement de Newton :
+
+F – P = ma ,où F est la force exercée par le dynamomètre, P le poids de l'objet et a l'accélération de l'ascenseur (et du dynamomètre).
+Étant donné que le poids indiqué par le dynamomètre correspond à l'intensité F de la force qu'exerce sur lui l'objet à peser (cette force étant la réaction à la force que le dynamomètre exerce sur l'objet), ce poids « apparent » est supérieur au poids réel (F > P, car a > 0).
+Pour un observateur situé dans l'ascenseur, l'objet à peser apparaît évidemment immobile. En ce cas, pour expliquer que la force exercée par le dynamomètre est supérieure au poids réel de l'objet, on doit faire intervenir une force d'inertie orientée vers le bas.
+Le poids normal d'une personne de 70 kg soumise à l'accélération de la pesanteur g = 9,8 m/s2 est égal à mg, vaut (70 kg) (9,8 m/s2) = 686 N.
+Dans un ascenseur qui décélère à 2 m/s2, la personne est soumise à deux forces : d'une part son poids réel P, orienté vers le bas, et d'autre part la réaction N, orientée vers le haut, exercée sur elle par le plancher de l'ascenseur (ou le pèse-personne sur lequel elle se tient). Quand l'ascenseur freine, son accélération est orientée dans le sens opposé à la vitesse, c'est-à-dire en l'occurrence vers le bas.
+En orientant l'axe de référence vers le haut, on écrira donc, conformément à la deuxième loi de Newton :
+
+N – P = m(–a)
+N – mg = –ma
+N = mg – ma
+N = m (g – a)
+N = (70 kg) [(9,8 m/s2) – (2 m/s2)] = 546 NOn obtient un poids apparent de 546 N, inférieur au poids réel.
+
+
+=== Situation d'impesanteur ===
+L'état d'impesanteur expérimenté par les spationautes est dû à la chute libre de leur habitacle spatial, en orbite autour de la Terre. En orbite, la force d'inertie ressentie par les astronautes annule leur poids apparent, bien que leur poids réel, à 386 km d'altitude, ne soit qu'environ 11 % plus faible que sur Terre.
+
+
+== Comme source d'énergie ==
+
+La descente de poids permet d'actionner un mécanisme tel qu'un automate ou une horloge. Ce type de dispositif a été remplacé par un ressort moteur, mais est toujours utilisé pour produire de l'électricité, comme dans le cas des barrages hydroélectriques.
+
+
+== Abus et extension de langage ==
+
+
+=== Abus de langage ===
+La masse d'un objet est la quantité de matière dans celui-ci tandis que le poids est la force d'attraction qui agit sur l'objet. Comme le référentiel usuel est l'attraction terrestre (plus ou moins au niveau de la mer), par abus de langage, le mot « poids » est couramment utilisé comme synonyme de la masse (exemple : Son poids est de 70 kg est faux, la bonne « formule » serait Sa masse est de 70 kg ou son poids est de 680 newtons sur Terre (approx.)).
+
+
+=== Mathématiques ===
+Le poids, en mathématiques, est aussi la valeur que l'on attribue à un symbole en fonction de sa place dans un nombre.
+
+exemple : 101 = 100 + 1. Le premier '1' a un poids de 100 (car en troisième position en partant de la droite), tandis que le second '1' à un poids unité (première position en partant de la droite). L'association des deux forme la valeur 101.Le poids est aussi le coefficient ou pondération affecté à un point dans un barycentre (en référence à la physique où le barycentre fait appel aux masses)
+
+exemple: si G est le barycentre du système {(A , 1)(B , 3)}, on dit que A est affecté du poids 1 et B du poids 3.
+
+
+=== Informatique ===
+En informatique, le terme poids et ses qualificatifs associés sont couramment employés pour désigner la taille d'un fichier (« poids d'un fichier », « fichier lourd », « fichier léger »), et la consommation des ressources d'un processus (« processus léger »).
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Références ===
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+
+
+=== Lien externe ===
+Poids dans un ascenseur Portail de la physique

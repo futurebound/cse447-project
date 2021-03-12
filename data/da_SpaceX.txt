@@ -1,0 +1,34 @@
+Space Exploration Technologies Corporation (SpaceX) er en rumfartsvirksomhed hvis erklærede mål er at reducere prisen på at opsende laster til rummet med en faktor 10 og ønsker i sidste ende at skabe en koloni på Mars. Hovedsædet ligger i Hawthorne, Californien, USA
+SpaceX er i gang med at udvikle en familie af delvist genbrugelige to-trins raketter, der benytter en blanding af petroleum og flydende ilt som drivstof. De genanvendelige førstetrin lander enten ude på havet på droneskibene “Of course i still love you” eller “Just read the instructions” eller hvis der er nok brændstof, på Landing zone 1 & 2 på Cape Caneveral , hvilket lykkedes første gang 21 december 2015, hvor Falcon 9 landede på LZ 1. 
+Første gang det lykkedes at lande på et droneskib var den 8 april 2016 på droneskibet "Of Course I Still Love You" i Atlanterhavet.SpaceX udvikler også den ubemandede rumkapsel Dragon. Den 25. maj 2012 koblede en Dragon-kapsel sig til den Internationale Rumstation (ISS), for at teste systemet. Afprøvningen gik så godt, at NASA betalte SpaceX for at sende forsyninger op til rumstationen d. 8. oktober 2012. I modsætning til de andre forsyningsfartøjer; (Progress, ATV og HTV) er Dragon udstyret med et varmeskjold, så det kan genbruges. SpaceX er derudover i gang med at udvikle den næste generation af Dragon kapslen (Dragon 2), der blev testet for første gang i januar 2018, og sende amerikanske astronauter til ISS for første gang siden rumfærgen. Dette mål blev opnået d. 30. maj 2020, hvor astronauterne Doug Hurley og Robert ''Bob'' Behnken blev opsendt til ISS fra Cape Canaveral, Florida.
+
+
+== Baggrund ==
+SpaceX blev grundlagt i juni 2002 af Elon Musk, der havde tjent sin formue i computerindustrien ved at grundlægge firmaerne Zip2 og Paypal. Til og med marts 2006 havde han investeret 100 millioner dollars i SpaceX. Selvom Elon Musk selv har sagt at han finansielt kunne klare to tidlige mislykkede opsendelser har han også sagt at "hvis vi har tre mislykkede [..] er jeg ikke sikker på, vi ved hvad vi laver, og måske skulle vi lukke forretningen."
+I november 2005 havde firmaet ca. 160 ansatte. Opsendelsesholdet på Marshalløerne bestod af 25 personer, seks af disse var i kontrolrummet. Dette lille antal ansatte, sammenlignet med andre selskaber, der producerer raketter på samme størrelse, er en del af den strategi Elon Musk brugte for at kunne nå sit mål om at reducere prisen. Han mener at andre raketproducenter tilbyder opsendelse til urimeligt høj pris for at kunne opretholde et unødvendigt bureaukrati.
+
+
+== Mål ==
+
+
+=== Starlink ===
+"Starlink" er et netværk af satelliter, hvis primære formål er at give mulighed for billigt og hurtigt bredbånd på en global plan. Netværket skal efter planen bestå af ca. 12.000 satelliter. Meningen er også at projektet skal finansiere Musks mere ambitiøse planer om at kolonisere Mars. SpaceX fik i marts 2018 tilladelse til at opsende 4.425 satelliter, og i november 2018 fik de tilladelse til at opsende de resterende 7.518 satelliter. Satelliterne skal i første omgang opsendes af SpaceX' raket Falcon 9, og senere af Big Falcon Rocket. 
+
+
+=== Starship og Super Heavy (BFR) ===
+SpaceX er derudover i gang med at udvikle et interplanetarisk transportsystem, hvis primære mål er at sende mennesker til Mars, men også andre mål som Måne-missioner, rumturisme, "Earth-to-Earth"-transport, m.m. Transportsystem består af rumkapslen kendt som Starship (tidligere kendt som Big Falcoon Spaceship, BFS), og Super Heavy (tidligere kendt som Big Falcon Booster, BFB). Raketten som helhed var tidligere kendt som Big Falcon Rocket (BFR), og uofficielt bruges navnet stadig når der tales om hele raketten inklusiv Super Heavy. Meningen er dog at Starship skal fungere som en selvstændig raket i sig selv, og lave mindre missioner selv fra Jorden og andre planeter og måner. Den 19. november 2018 annoncerede Elon Musk sin beslutning om at navngive raketten Starship.Transportsystemet skal være fuldstændig genbrugelig, i modsætning til de andre Falcon raketter, som kun genbruger første trin. BFR kommer efter planen til at have en diameter på 9 meter og en højde på 118 meter, hvilket gør det til den største raket nogensinde. Første trin (Super Heavy eller BFB) vil blive drevet af 31 Raptor engines, som er udviklet af SpaceX og vil have en kraft på 61,8 MN. Andet trin (Starship eller BFS) vil blive drevet af 7 Raptor engines. Dette trin vil yderlige have et stort varmeskjold, og 3 delta-vinger, der bruges til at styre kapslen under tilbagevenden til jordens atmosfære, for at raketten kan gennemføre den vertikale landingsmanøvre. 
+BFR er egentlig en kompromis på det oprindelige interplanetariske transportsystem (ITS), som havde en diameter på 12 meter.
+I slutningen af december 2018 begyndte produktionen af en test version af Starship, kaldet Starhopper. Denne er sammenlignelig med Grasshopper som var Falcon 9's test raket. Starhopper skal bruges til at teste de nyudviklede Raptor motorer under flyvningen, men vil kun bestå af 5 motorer. Produktionen finder sted ved deres planlagte landingsrampe i Boca Chica, Texas. Valget at bygge raketten udendøres gjordes da det var billigere og hurtigere end at opføre en såkaldt Vehicle Assembly Building, der kunne huse de nye store raketter, men har haft konsekvenser da den den 23. januar 2019 væltede under en storm.
+
+
+== Samarbejde med NASA ==
+Det amerikanske rumfartsagentur NASA oplyste den 18. august 2006, at SpaceX var blevet tildelt en kontrakt om levering af fragt til Den Internationale Rumstation under programmet Commercial Orbital Transportation Services (COTS) med en option på transport af personer. NASA's ønske med kontrakten var at bidrage med kapital til udvikling af nye løfteraketter, og med kontrakten blev SpaceX tildelt 278 millioner dollars til udviklingen af løfteraketten Falcon 9.I december 2008 blev SpaceX og konkurrenten Orbital Sciences Corporation begge tildelt en kontrakt om fragt af forsyninger til Den Internationale Rumstation Commercial Resupply Services (CRS). Ved kontrakten fik SpaceX' ordre på mindst 12 rumflyvninger til en værdi af 1,6 milliarder dollars for levering af forsyninger og gods til og fra rumstationen. Den 9. december 2010 opsendte SpaceX COTS Demo Flight 1, hvorved SpaceX blev den første privatejede virksomhed, der succesrigt opsendte et rumfartøj i kredsløb, og herefter bragt tilbage til Jorden.
+
+
+== Rakettyper ==
+
+
+== Noter ==
+
+
+== Eksternelinks ==

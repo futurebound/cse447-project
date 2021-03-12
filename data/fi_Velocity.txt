@@ -1,0 +1,108 @@
+Nopeus (lat. velocitas, tunnus v) ilmoittaa tietyssä ajassa edetyn matkan pituuden ja suunnan. Nopeuden yksikkö on SI-järjestelmässä m/s eli metri sekunnissa. Nopeus on fysiikassa vektorisuure, koska sillä on suuruuden lisäksi suunta.  Tosin termiä nopeus käytetään myös vaikka liikkeen suunta ei olisikaan määritelty. 
+Nopeuden itseisarvosta käytetään termiä vauhti. Pyörivässä liikkeessä nopeutta vastaava suure on kulmanopeus.
+
+
+== Yksiköt ==
+Kulkuneuvojen nopeudet ilmoitetaan tyypillisesti kilometreinä tunnissa (lyhenne km/h). Esimerkiksi suurin sallittu ajonopeus Suomen tieliikenteessä on 120 km/h. Yksiköiden välinen muunnossuhde on
+
+  
+    
+      
+        1
+        
+          
+            
+              km
+            
+            
+              h
+            
+          
+        
+        =
+        
+          
+            5
+            18
+          
+        
+        
+          
+            
+              m
+            
+            
+              s
+            
+          
+        
+        .
+      
+    
+    {\displaystyle 1{{\text{km}} \over {\text{h}}}={5 \over 18}{{\text{m}} \over {\text{s}}}.}
+  Nopeiden lentokoneiden nopeuden yksikkönä on usein käytössä Mach (äänen nopeus).  Merenkulussa nopeus ilmoitetaan yleensä solmuina.
+Britanniassa ja Yhdysvalloissa ajoneuvojen nopeudet ilmoitetaan maileina tunnissa (mph).
+
+
+== Matemaattinen muotoilu ==
+Keskinopeus (v) saadaan jakamalla kuljetun matkan pituus (s) matkaan käytetyllä ajalla (t):
+
+  
+    
+      
+        
+          v
+        
+        =
+        
+          
+            s
+            t
+          
+        
+      
+    
+    {\displaystyle {v}={\frac {s}{t}}}
+  .Jos nopeus ei ole vakio, hetkellinen nopeus saadaan mittaamalla hyvin lyhyessä ajassa kuljettu matka ja jakamalla se mittausajalla.  
+Mekaniikassa liikkuvan kohteen nopeus v on sen paikkavektorin r derivaatta ajan suhteen:
+
+  
+    
+      
+        
+          v
+        
+        =
+        
+          
+            
+              d
+              
+                r
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {v} ={\frac {d\mathbf {r} }{dt}}}
+  .Kiihtyvässä liikkeessä nopeus muuttuu; nopeuden muutosta ajan suhteen kutsutaan kiihtyvyydeksi.  Myös nopeuden suunnan muuttuminen on kiihtyvyyttä.
+Suurin mahdollinen signaalinopeus on valonnopeus, joka on 299 792 458 m/s. Valonnopeuden merkitsemiseen on vakiintunut tunnus c (lat. celeritas).
+
+
+== Katso myös ==
+Nykäys
+Putoamisliike – putoamisnopeus
+Ilmanopeus – nopeus ilmailussa
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+
+Muunnin.comin nopeusmuunnin

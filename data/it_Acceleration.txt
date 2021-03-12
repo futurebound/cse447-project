@@ -1,0 +1,2114 @@
+In fisica, in primo luogo in cinematica, l'accelerazione è una grandezza vettoriale che rappresenta la variazione della velocità nell'unità di tempo. In termini differenziali, è pari alla derivata rispetto al tempo del vettore velocità. Nel SI l'unità di misura del modulo dell'accelerazione è il m/s², ovvero metro al secondo quadrato. Le derivate temporali della velocità di ordine superiore al primo vengono studiate nel moto vario.
+Quando non specificato, per "accelerazione" si intende l'accelerazione traslazionale, sottintendendo che lo spostamento a cui si fa riferimento è una traslazione nello spazio. Il termine, "accelerazione", infatti, può essere utilizzato con un significato più generale per indicare la variazione di una velocità in funzione del tempo. Ad esempio, nella descrizione del moto rotatorio, per definire l'accelerazione di rotazione si usano l'accelerazione angolare e l'accelerazione areolare.
+
+
+== Definizione ==
+L'accelerazione di un punto materiale è la variazione della sua velocità rispetto al tempo. Il modo più immediato per quantificare tale variazione consiste nel definire l'accelerazione media 
+  
+    
+      
+        
+          
+            
+              
+                a
+              
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {\mathbf {a} }}}
+   come il rapporto tra la variazione di velocità 
+  
+    
+      
+        Δ
+        
+          v
+        
+        =
+        
+          
+            v
+          
+          
+            2
+          
+        
+        −
+        
+          
+            v
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \Delta \mathbf {v} =\mathbf {v} _{2}-\mathbf {v} _{1}}
+   al tempo finale 
+  
+    
+      
+        
+          
+            v
+          
+          
+            2
+          
+        
+        =
+        
+          v
+        
+        (
+        
+          t
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle \mathbf {v} _{2}=\mathbf {v} (t_{2})}
+   e iniziale 
+  
+    
+      
+        
+          
+            v
+          
+          
+            1
+          
+        
+        =
+        
+          v
+        
+        (
+        
+          t
+          
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle \mathbf {v} _{1}=\mathbf {v} (t_{1})}
+   posseduta dall'oggetto, e l'intervallo finito di tempo 
+  
+    
+      
+        Δ
+        t
+        =
+        
+          t
+          
+            2
+          
+        
+        −
+        
+          t
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \Delta t=t_{2}-t_{1}}
+   di durata del moto:
+  
+    
+      
+        
+          
+            
+              
+                a
+              
+              ¯
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  v
+                
+                
+                  2
+                
+              
+              −
+              
+                
+                  v
+                
+                
+                  1
+                
+              
+            
+            
+              
+                t
+                
+                  2
+                
+              
+              −
+              
+                t
+                
+                  1
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              Δ
+              
+                v
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {\mathbf {a} }}={\frac {\mathbf {v} _{2}-\mathbf {v} _{1}}{t_{2}-t_{1}}}={\frac {\Delta \mathbf {v} }{\Delta t}}}
+  Un modo preciso per caratterizzare l'accelerazione si ottiene considerando la velocità in ogni istante di tempo, ovvero esprimendo la velocità in funzione del tempo e, ove la funzione è continua, calcolandone la derivata. Si definisce in questo modo l'accelerazione istantanea:
+
+  
+    
+      
+        
+          a
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                d
+              
+              
+                v
+              
+              (
+              t
+              )
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {a} (t)={\frac {\mathrm {d} \mathbf {v} (t)}{\mathrm {d} t}}}
+  Si tratta del limite per l'intervallo di tempo tendente a zero del rapporto incrementale che definisce l'accelerazione media:
+
+  
+    
+      
+        
+          a
+        
+        =
+        
+          lim
+          
+            Δ
+            t
+            →
+            0
+          
+        
+        
+          
+            
+              Δ
+              
+                v
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+        =
+        
+          lim
+          
+            Δ
+            t
+            →
+            0
+          
+        
+        
+          
+            
+              
+                v
+              
+              (
+              t
+              +
+              Δ
+               
+              t
+              )
+              −
+              
+                v
+              
+              (
+              t
+              )
+            
+            
+              Δ
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {a} =\lim _{\Delta t\to 0}{\frac {\Delta \mathbf {v} }{\Delta t}}=\lim _{\Delta t\to 0}{\frac {\mathbf {v} (t+\Delta \ t)-\mathbf {v} (t)}{\Delta t}}}
+  L'accelerazione media coincide con l'accelerazione istantanea quando quest'ultima è costante nel tempo (
+  
+    
+      
+        
+          a
+        
+        (
+        t
+        )
+        =
+        
+          costante
+        
+      
+    
+    {\displaystyle \mathbf {a} (t)={\text{costante}}}
+  ), e si parla in tal caso di moto uniformemente accelerato.
+Nel moto del punto materiale su una curva, il vettore accelerazione in un punto è orientato verso la concavità della traiettoria in quel punto. Può succedere che durante il moto il vettore velocità cambi soltanto in direzione e verso, restando costante in modulo, come ad esempio nel caso di moto circolare uniforme. La componente del vettore accelerazione nella direzione del moto è in questo caso nulla, e il vettore è quindi radiale (perpendicolare alla traiettoria). Data una traiettoria curvilinea arbitraria e continua, per individuare la direzione ed il verso dell'accelerazione di un oggetto che la percorre si utilizza il metodo del cerchio osculatore.
+In un contesto più formale, sia 
+  
+    
+      
+        s
+        (
+        t
+        )
+      
+    
+    {\displaystyle s(t)}
+   la lunghezza di un arco della curva percorsa dall'oggetto in moto. Se 
+  
+    
+      
+        d
+        s
+      
+    
+    {\displaystyle ds}
+   è lo spostamento dell'oggetto nel tempo 
+  
+    
+      
+        d
+        t
+      
+    
+    {\displaystyle dt}
+  , la norma della velocità istantanea nel punto 
+  
+    
+      
+        
+          r
+        
+        =
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+      
+    
+    {\displaystyle \mathbf {r} =(x,y,z)}
+   è la derivata dello spostamento rispetto al tempo:
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              d
+              s
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+          (
+          
+            
+              d
+              
+                x
+                
+                  2
+                
+              
+              +
+              d
+              
+                y
+                
+                  2
+                
+              
+              +
+              d
+              
+                z
+                
+                  2
+                
+              
+            
+          
+          )
+        
+        =
+        
+          
+            
+              
+                (
+                
+                  
+                    
+                      
+                        d
+                      
+                      x
+                    
+                    
+                      
+                        d
+                      
+                      t
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            +
+            
+              
+                (
+                
+                  
+                    
+                      
+                        d
+                      
+                      y
+                    
+                    
+                      
+                        d
+                      
+                      t
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            +
+            
+              
+                (
+                
+                  
+                    
+                      
+                        d
+                      
+                      z
+                    
+                    
+                      
+                        d
+                      
+                      t
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle v={\frac {ds}{dt}}={\frac {\mathrm {d} }{\mathrm {d} t}}\left({\sqrt {dx^{2}+dy^{2}+dz^{2}}}\right)={\sqrt {\left({\frac {\mathrm {d} x}{\mathrm {d} t}}\right)^{2}+\left({\frac {\mathrm {d} y}{\mathrm {d} t}}\right)^{2}+\left({\frac {\mathrm {d} z}{\mathrm {d} t}}\right)^{2}}}}
+  con il vettore velocità che è quindi scritto come:
+
+  
+    
+      
+        
+          v
+        
+        =
+        v
+        
+          
+            
+              
+                T
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {v} =v\mathbf {\hat {\mathbf {T} }} }
+  dove 
+  
+    
+      
+        
+          
+            
+              
+                T
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\mathbf {T} }}}
+   è il vettore unitario tangente alla curva. Il modulo dell'accelerazione istantanea è allora:
+
+  
+    
+      
+        a
+        =
+        
+          
+            
+              d
+              v
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              s
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  
+                    d
+                    x
+                  
+                  
+                    d
+                    t
+                  
+                
+              
+              
+                
+                  
+                    
+                      d
+                      
+                        2
+                      
+                    
+                    x
+                  
+                  
+                    d
+                    
+                      t
+                      
+                        2
+                      
+                    
+                  
+                
+              
+              +
+              
+                
+                  
+                    d
+                    y
+                  
+                  
+                    d
+                    t
+                  
+                
+              
+              
+                
+                  
+                    
+                      d
+                      
+                        2
+                      
+                    
+                    y
+                  
+                  
+                    d
+                    
+                      t
+                      
+                        2
+                      
+                    
+                  
+                
+              
+              +
+              
+                
+                  
+                    d
+                    z
+                  
+                  
+                    d
+                    t
+                  
+                
+              
+              
+                
+                  
+                    
+                      d
+                      
+                        2
+                      
+                    
+                    z
+                  
+                  
+                    d
+                    
+                      t
+                      
+                        2
+                      
+                    
+                  
+                
+              
+            
+            
+              
+                
+                  (
+                  
+                    
+                      
+                        d
+                        x
+                      
+                      
+                        d
+                        t
+                      
+                    
+                  
+                  )
+                
+                
+                  2
+                
+              
+              +
+              
+                
+                  (
+                  
+                    
+                      
+                        d
+                        y
+                      
+                      
+                        d
+                        t
+                      
+                    
+                  
+                  )
+                
+                
+                  2
+                
+              
+              +
+              
+                
+                  (
+                  
+                    
+                      
+                        d
+                        z
+                      
+                      
+                        d
+                        t
+                      
+                    
+                  
+                  )
+                
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              d
+              x
+            
+            
+              d
+              s
+            
+          
+        
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              x
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              s
+            
+          
+        
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              y
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              d
+              z
+            
+            
+              d
+              s
+            
+          
+        
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              z
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                r
+              
+            
+            
+              d
+              s
+            
+          
+        
+        ⋅
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                r
+              
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle a={\frac {dv}{dt}}={\frac {d^{2}s}{dt^{2}}}={\frac {{\frac {dx}{dt}}{\frac {d^{2}x}{dt^{2}}}+{\frac {dy}{dt}}{\frac {d^{2}y}{dt^{2}}}+{\frac {dz}{dt}}{\frac {d^{2}z}{dt^{2}}}}{\sqrt {\left({\frac {dx}{dt}}\right)^{2}+\left({\frac {dy}{dt}}\right)^{2}+\left({\frac {dz}{dt}}\right)^{2}}}}={\frac {dx}{ds}}{\frac {d^{2}x}{dt^{2}}}+{\frac {dy}{ds}}{\frac {d^{2}y}{dt^{2}}}+{\frac {dz}{ds}}{\frac {d^{2}z}{dt^{2}}}={\frac {d\mathbf {r} }{ds}}\cdot {\frac {d^{2}\mathbf {r} }{dt^{2}}}}
+  ed il vettore accelerazione è dato da:
+
+  
+    
+      
+        
+          a
+        
+        =
+        
+          
+            
+              d
+              
+                v
+              
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                r
+              
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              s
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        
+          
+            
+              
+                T
+              
+              ^
+            
+          
+        
+        +
+        k
+        
+          
+            (
+            
+              
+                
+                  d
+                  s
+                
+                
+                  d
+                  t
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        
+          
+            
+              
+                N
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {a} ={\frac {d\mathbf {v} }{dt}}={\frac {d^{2}\mathbf {r} }{dt^{2}}}={\frac {d^{2}s}{dt^{2}}}{\hat {\mathbf {T} }}+k\left({\frac {ds}{dt}}\right)^{2}{\hat {\mathbf {N} }}}
+  dove 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   è la curvatura e si sono evidenziate la componente in direzione del moto e la componente in direzione perpendicolare, con 
+  
+    
+      
+        
+          
+            
+              
+                N
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\mathbf {N} }}}
+   vettore unitario normale alla curva. In generale è possibile introdurre una terna di versori ortonormali, detta triedro di Frenet, costituita ortogonalizzando i vettori velocità, accelerazione ed un terzo vettore, generato dal prodotto vettoriale dei primi due. I versori così generati prendono il nome di versore tangente, normale e binormale. L'accelerazione giace sempre, per costruzione, nel piano individuato dal versore tangente e da quello normale. La geometria differenziale sfrutta il triedro di Frenet per permettere di calcolare in ogni punto la curvatura e la torsione della traiettoria.
+
+
+== Componenti dell'accelerazione ==
+
+In uno spazio a tre dimensioni si può scrivere l'accelerazione come:
+
+  
+    
+      
+        
+          a
+        
+        =
+        
+          a
+          
+            x
+          
+        
+        
+          
+            
+              
+                i
+              
+              ^
+            
+          
+        
+        +
+        
+          a
+          
+            y
+          
+        
+        
+          
+            
+              
+                j
+              
+              ^
+            
+          
+        
+        +
+        
+          a
+          
+            z
+          
+        
+        
+          
+            
+              
+                k
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {a} =a_{x}{\hat {\mathbf {i} }}+a_{y}{\hat {\mathbf {j} }}+a_{z}{\hat {\mathbf {k} }}}
+  dove 
+  
+    
+      
+        
+          
+            
+              
+                i
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\mathbf {i} }}}
+  , 
+  
+    
+      
+        
+          
+            
+              
+                j
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\mathbf {j} }}}
+   e 
+  
+    
+      
+        
+          
+            
+              
+                k
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\mathbf {k} }}}
+   sono i versori del sistema di riferimento cartesiano utilizzato. Poiché, nella sua definizione generale, l'accelerazione è il vettore che quantifica la variazione di direzione e modulo della velocità, data una traiettoria qualsiasi, è sempre possibile scomporre l'accelerazione del corpo in una componente ad essa tangente, detta accelerazione tangenziale, e in una componente perpendicolare, detta accelerazione normale:
+
+  
+    
+      
+        
+          a
+        
+        =
+        
+          a
+          
+            t
+          
+        
+        
+          
+            
+              
+                T
+              
+              ^
+            
+          
+        
+        +
+        
+          a
+          
+            n
+          
+        
+        
+          
+            
+              
+                N
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {a} =a_{t}{\hat {\mathbf {T} }}+a_{n}{\hat {\mathbf {N} }}}
+  L'accelerazione tangenziale descrive il cambiamento in norma della velocità, mentre quella normale è associata alla variazione della direzione della velocità.Sapendo che la velocità lineare 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+  , che è sempre tangente alla traiettoria, è legata alla velocità angolare 
+  
+    
+      
+        
+          ω
+        
+      
+    
+    {\displaystyle {\boldsymbol {\omega }}}
+   dalla relazione:
+
+  
+    
+      
+        
+          v
+        
+        =
+        
+          ω
+        
+        ×
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {v} ={\boldsymbol {\omega }}\times \mathbf {r} }
+  dove 
+  
+    
+      
+        ×
+      
+    
+    {\displaystyle \times }
+   denota il prodotto vettoriale, 
+  
+    
+      
+        
+          ω
+        
+      
+    
+    {\displaystyle {\boldsymbol {\omega }}}
+   la velocità angolare e 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {r} }
+   il raggio di curvatura della traiettoria nel punto considerato. Pertanto 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+   è ortogonale al piano formato da 
+  
+    
+      
+        
+          ω
+        
+      
+    
+    {\displaystyle {\boldsymbol {\omega }}}
+   e da 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {r} }
+  , e viceversa, il vettore 
+  
+    
+      
+        
+          ω
+        
+      
+    
+    {\displaystyle {\boldsymbol {\omega }}}
+   è ortogonale al piano formato da 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+   e da 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {r} }
+  , cioè dal piano sul quale avviene il moto.
+
+Data una traiettoria 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   giacente in un piano, e tracciato per un punto 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   in moto il cerchio osculatore, ovvero la circonferenza tangente in ogni istante alla traiettoria in 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  , la quale approssima al meglio la traiettoria in quel punto, si trova che:
+
+  
+    
+      
+        
+          a
+        
+        =
+        
+          
+            
+              
+                d
+              
+              
+                v
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        (
+        
+          ω
+        
+        ×
+        
+          r
+        
+        )
+        =
+        
+          ω
+        
+        ×
+        
+          
+            
+              
+                r
+              
+              ˙
+            
+          
+        
+        +
+        
+          
+            
+              ω
+              ˙
+            
+          
+        
+        ×
+        
+          r
+        
+        =
+        
+          α
+        
+        ×
+        
+          r
+        
+        +
+        
+          ω
+        
+        ×
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {a} ={\frac {\mathrm {d} \mathbf {v} }{\mathrm {d} t}}={\frac {\mathrm {d} }{\mathrm {d} t}}({\boldsymbol {\omega }}\times \mathbf {r} )={\boldsymbol {\omega }}\times {\dot {\mathbf {r} }}+{\dot {\boldsymbol {\omega }}}\times \mathbf {r} ={\boldsymbol {\alpha }}\times \mathbf {r} +{\boldsymbol {\omega }}\times \mathbf {v} }
+  dove 
+  
+    
+      
+        
+          α
+        
+      
+    
+    {\displaystyle {\boldsymbol {\alpha }}}
+   è l'accelerazione angolare. Considerando la derivata del vettore velocità 
+  
+    
+      
+        
+          v
+        
+        =
+        v
+        
+          
+            
+              
+                T
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {v} =v{\hat {\mathbf {T} }}}
+  , si ha:
+
+  
+    
+      
+        
+          a
+        
+        =
+        
+          
+            
+              
+                d
+              
+              
+                v
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        (
+        v
+        
+          
+            
+              
+                T
+              
+              ^
+            
+          
+        
+        )
+        =
+        
+          
+            
+              
+                d
+              
+              v
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+          
+            
+              
+                T
+              
+              ^
+            
+          
+        
+        +
+        
+          
+            
+              
+                d
+              
+              
+                
+                  
+                    
+                      T
+                    
+                    ^
+                  
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        v
+        =
+        
+          
+            
+              
+                d
+              
+              v
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+          
+            
+              
+                T
+              
+              ^
+            
+          
+        
+        +
+        
+          
+            
+              v
+              
+                2
+              
+            
+            r
+          
+        
+        
+          
+            
+              
+                N
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {a} ={\frac {\mathrm {d} \mathbf {v} }{\mathrm {d} t}}={\frac {\mathrm {d} }{\mathrm {d} t}}(v{\hat {\mathbf {T} }})={\frac {\mathrm {d} v}{\mathrm {d} t}}{\hat {\mathbf {T} }}+{\frac {\mathrm {d} {\hat {\mathbf {T} }}}{\mathrm {d} t}}v={\frac {\mathrm {d} v}{\mathrm {d} t}}{\hat {\mathbf {T} }}+{\frac {v^{2}}{r}}{\hat {\mathbf {N} }}}
+  Eguagliando quanto ottenuto dalle equazioni precedenti e identificando i termini si ha che le componenti sono:
+
+  
+    
+      
+        
+          
+            a
+          
+          
+            t
+          
+        
+        =
+        
+          
+            
+              
+                d
+              
+              v
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+          
+            
+              
+                T
+              
+              ^
+            
+          
+        
+        =
+        
+          α
+        
+        ×
+        
+          r
+        
+        
+        
+          
+            a
+          
+          
+            n
+          
+        
+        =
+        
+          
+            
+              v
+              
+                2
+              
+            
+            r
+          
+        
+        
+          
+            
+              
+                N
+              
+              ^
+            
+          
+        
+        =
+        
+          ω
+        
+        ×
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {a} _{t}={\frac {\mathrm {d} v}{\mathrm {d} t}}{\hat {\mathbf {T} }}={\boldsymbol {\alpha }}\times \mathbf {r} \qquad \mathbf {a} _{n}={\frac {v^{2}}{r}}{\hat {\mathbf {N} }}={\boldsymbol {\omega }}\times \mathbf {v} }
+  In due dimensioni il versore normale è univocamente determinato, mentre in tre dimensioni bisogna specificarlo; infatti, esso risulta parallelo al raggio del cerchio osculatore.
+
+
+=== Moto rettilineo ===
+Da quanto mostrato segue inoltre che se la componente normale dell'accelerazione è nulla, allora il moto si svolge su una retta; infatti, la direzione del vettore velocità è costante, e dato che la velocità è sempre tangente alla traiettoria, quest'ultima è rettilinea. Nel caso in cui l'accelerazione tangenziale sia costante si ha un moto rettilineo uniformemente accelerato. Se, invece, anche la componente tangenziale dell'accelerazione sia nulla, il vettore velocità è allora costante e si ha un moto rettilineo uniforme.
+
+
+=== Moto circolare ===
+Viceversa, se a essere costante è la componente normale la traiettoria risulterà circolare. In questo caso, essa prenderà il nome di accelerazione centripeta perché punta istante per istante verso il centro della circonferenza. Se l'accelerazione angolare, quindi anche l'accelerazione tangenziale, è costante, si ha un moto circolare uniformemente accelerato. Invece, nel caso di moto circolare uniforme l'accelerazione angolare è nulla, per cui l'accelerazione si riduce alla sola componente centripeta, pertanto la velocità angolare sarà costante nel tempo. 
+
+
+=== Accelerazioni apparenti ===
+Un osservatore solidale a un sistema di riferimento non inerziale sperimenterà delle accelerazioni apparenti. Per il teorema delle accelerazioni di Coriolis, le accelerazioni apparenti dall'osservatore sono due: la prima detta accelerazione centrifuga, avente modulo e direzione identici all'accelerazione centripeta, ma con verso opposto, e la seconda che prende il nome di accelerazione complementare, o accelerazione di Coriolis, il cui valore è: 
+
+  
+    
+      
+        
+          
+            a
+          
+          
+            Co
+          
+        
+        =
+        −
+        2
+        
+          ω
+        
+        ×
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {a} _{\text{Co}}=-2{\boldsymbol {\omega }}\times \mathbf {v} }
+  
+
+
+== Significato geometrico ==
+
+L'accelerazione media si rappresenta con il grafico velocità-tempo, dal quale si comprende come l'accelerazione media sia uguale alla pendenza della retta che congiunge i punti iniziale e finale del grafico velocità-tempo in cui andiamo a calcolare la media.
+L'accelerazione istantanea è la tangente alla curva velocità-tempo nel punto fissato, così come è il significato geometrico della derivata prima. Essa è quindi uguale alla pendenza della retta tangente alla curva nel punto in cui viene calcolata.
+Attraverso lo studio della curva nel grafico velocità-tempo si possono ricavare ulteriori importanti informazioni: dall'angolo che la tangente forma con l'asse del tempo si evince che l'accelerazione è negativa se la tangente forma un angolo superiore ai 90 gradi con l'asse delle ascisse, è positiva se rimane sotto i 90 gradi mentre è nulla se la tangente è parallela all'asse. Inoltre, si noti come a valori positivi della curva accelerazione-tempo corrispondano valori crescenti della curva velocità-tempo. Poiché l'accelerazione è la derivata seconda della posizione, si può anche ricavare l'andamento della relazione accelerazione-tempo anche studiando la concavità del grafico.
+
+
+== Accelerazione nei sistemi di punti materiali ==
+Se gli 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   punti materiali di un sistema sono in movimento, solitamente, la posizione del centro di massa varia. Pertanto, nell'ipotesi in cui la massa totale 
+  
+    
+      
+        m
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle m=\sum _{i=1}^{n}}
+   sia costante, l'accelerazione del centro di massa sarà:
+
+  
+    
+      
+        
+          
+            a
+          
+          
+            G
+          
+        
+        =
+        
+          
+            
+              
+                d
+              
+              
+                
+                  v
+                
+                
+                  G
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+          
+            
+              p
+            
+            m
+          
+        
+        =
+        
+          
+            
+              
+                
+                  
+                    m
+                  
+                
+                
+                  (
+                  
+                    
+                      
+                        
+                          
+                            
+                              d
+                            
+                            m
+                          
+                          
+                            
+                              d
+                            
+                            t
+                          
+                        
+                      
+                    
+                    
+                      ∑
+                      
+                        i
+                        =
+                        1
+                      
+                      
+                        n
+                      
+                    
+                    
+                      
+                        v
+                      
+                      
+                        i
+                      
+                    
+                    +
+                    m
+                    
+                      ∑
+                      
+                        i
+                        =
+                        1
+                      
+                      
+                        n
+                      
+                    
+                    
+                      
+                        
+                          
+                            d
+                          
+                          
+                            
+                              v
+                            
+                            
+                              i
+                            
+                          
+                        
+                        
+                          
+                            d
+                          
+                          t
+                        
+                      
+                    
+                  
+                  )
+                
+                +
+                
+                  p
+                
+                
+                  
+                    
+                      
+                        
+                          d
+                        
+                        m
+                      
+                      
+                        
+                          d
+                        
+                        t
+                      
+                    
+                  
+                
+              
+            
+            
+              m
+              
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                F
+              
+              
+                (
+                e
+                )
+              
+            
+            m
+          
+        
+      
+    
+    {\displaystyle \mathbf {a} _{G}={\frac {\mathrm {d} \mathbf {v} _{G}}{\mathrm {d} t}}={\frac {\mathrm {d} }{\mathrm {d} t}}{\frac {\mathbf {p} }{m}}={\frac {\displaystyle {{\cancel {m}}\left({\cancel {\frac {\mathrm {d} m}{\mathrm {d} t}}}\sum _{i=1}^{n}\mathbf {v} _{i}+m\sum _{i=1}^{n}{\frac {\mathrm {d} \mathbf {v} _{i}}{\mathrm {d} t}}\right)+\mathbf {p} {\cancel {\frac {\mathrm {d} m}{\mathrm {d} t}}}}}{m^{\cancel {2}}}}={\frac {\mathbf {F} ^{(e)}}{m}}}
+  dove 
+  
+    
+      
+        
+          p
+        
+      
+    
+    {\displaystyle \mathbf {p} }
+   la quantità di moto totale del sistema e 
+  
+    
+      
+        
+          
+            F
+          
+          
+            (
+            e
+            )
+          
+        
+      
+    
+    {\displaystyle \mathbf {F} ^{(e)}}
+   è la sommatoria delle forze esterne.
+
+
+== Accelerazione di gravità ==
+
+
+== Note ==
+
+
+== Bibliografia ==
+(EN) McGraw-Hill Concise Encyclopedia of Science and Technology - "Acceleration", New York, McGraw-Hill, 2006.
+(EN) Henry Crew, The Principles of Mechanics, BiblioBazaar, LLC, 2008,  p. 43, ISBN 0-559-36871-2.
+(EN) Hermann Bondi, Relativity and Common Sense, Courier Dover Publications, 1980,  p. 3, ISBN 0-486-24021-5.
+(EN) Robert L. Lehrman, Physics the Easy Way, Barron's Educational Series, 1998,  p. 27, ISBN 0-7641-0236-2.
+(EN) Larry C. Andrews & Ronald L. Phillips, Mathematical Techniques for Engineers and Scientists, SPIE Press, 2003,  p. 164, ISBN 0-8194-4506-1.
+(EN) Ch V Ramana Murthy & NC Srinivas, Applied Mathematics, New Delhi, S. Chand & Co., 2001,  p. 337, ISBN 81-219-2082-5.
+
+
+== Voci correlate ==
+Accelerazione centripeta
+Circonferenza dei flessi
+Derivata
+Equazione del moto
+Moto rettilineo uniforme
+Moto uniformemente accelerato
+Moto circolare uniforme
+Moto parabolico
+Velocità
+Metro al secondo quadrato
+Strappo - la derivata dell'accelerazione rispetto al tempo
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «accelerazione»
+ Wikimedia Commons contiene immagini o altri file su accelerazione
+
+
+== Collegamenti esterni ==
+
+(EN) Accelerazione, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ Accelerazione, in Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana.

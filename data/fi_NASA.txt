@@ -1,0 +1,204 @@
+National Aeronautics and Space Administration (lyhenne Nasa tai NASA) on Yhdysvaltain liittohallituksen alainen ilmailu- ja avaruushallintovirasto. Se on vastuussa Yhdysvaltain avaruusohjelmasta ja siviili-ilmailun tutkimuksesta. 
+Nasan edeltäjä vuosina 1915–1958 oli National Advisory Committee for Aeronautics (NACA), joka oli ilmailun tutkimuskeskusten verkosto.
+
+
+== Historia ==
+
+
+=== Kilpajuoksu avaruuteen ===
+ 
+Kansainvälinen geofysikaalinen vuosi (engl. International Geophysical Year, IGY) alkoi 1. heinäkuuta 1957 ja päättyi 31. joulukuuta 1958. Lokakuussa 1954 Roomassa sen järjestelyjä johtanut kansainvälinen tieteellisten organisaatioiden unionin (ICSU) neuvosto julkaisi päätöslauselman, jossa IGY:n tavoitteisiin lisättiin satelliitin laukaisu. 
+Yhdysvaltain kansallisen turvallisuuden neuvosto hyväksyi 26. toukokuuta 1955 ajatuksen, että Yhdysvallat laukaisee satelliitin IGY:n aikana. Toteutettavaksi siviilisatelliitiksi 9. syyskuuta 1955 valittiin Vanguard, jota pidettiin enemmän siviilisatelliittihankkeena kuin Yhdysvaltain armeijan Explorer-satelliittia, joka laukaistaisiin Redstone-ohjuksella. 
+Vakoilusatelliitti WS117L:n kehitys oli alkanut Lockheedin johtamana lokakuussa 1956, tätä silmällä pitäen presidentti Eisenhower oli 21. heinäkuuta 1955 Yhdysvaltain ja Neuvostoliiton huippukokouksessa Genevessä esittänyt ”freedom of space” -päätöstä. Pelättiin nimittäin vakoilusatelliittien joutuvan ohjusten kohteeksi kuten vakoilulentokoneiden. 
+Sekä Yhdysvallat että Neuvostoliitto julkaisivat kesällä 1955 aikomuksensa satelliitin laukaisemisesta IGY-vuoden aikana.
+Kun Neuvostoliitto oli laukaissut 4. lokakuuta 1957 ensimmäisen satelliitin, Sputnikin, Yhdysvaltain huomio kiinnittyi maan omaan siviiliavaruusohjelmaan. Yhdysvaltain kongressi piti Sputnikin lentoa uhkana maan kansalliselle turvallisuudelle ja teknologiselle etumatkalle. Alun perin Pravda oli uutisoinut asian hyvin pienimuotoisesti, mutta brittiläisen lehdistön nostaessa asiasta suuren hälyn, myös Neuvostoliitto alkoi käyttää avaruustekniikkaa propagandassaan.
+Demokraattisen puolueen senaattori Lyndon B. Johnson vaati vajaat kaksi viikkoa Sputnikin lennon jälkeen liittovaltiolta, ts. republikaanisen Eisenhowerin hallitukselta, välittömiä toimia asian korjaamiseksi. Senaatti äänesti 6. helmikuuta 1958 Special Committee on Space and Aeronautics -komitean perustamisen puolesta. Komitean tarkoitus oli pysyvää avaruusjärjestöä koskevien lakien kirjoitus. Presidentti Dwight D. Eisenhower allekirjoitti 29. heinäkuuta 1958 lain, jolla perustettiin National Aeronautics and Space Administration (NASA).Kun organisaatio aloitti toimintansa 1. lokakuuta 1958, sillä oli käytössään neljä suurempaa laboratoriota. Ne olivat NACA:n Langleyn, Lewisin ja Amesin keskukset, Yhdysvaltain ilmavoimien Lake Muroc -koelentokeskus, Wallops Islandin rakettikoekeskus, osa Yhdysvaltain laivaston Naval Research Laboratoryä sekä joulukuusta 1958 lähtien Yhdysvaltain armeijan Jet Propulsion Laboratory. Sillä oli palkkalistoillaan noin 8 000 NASA:n entistä työntekijää. ABMA:n (Army Ballistic Missile Agency) Redstone-keskus liitettiin 1. heinäkuuta 1960 NASA:an George C. Marshall Space Flight Centeriksi.
+Aluksi kantorakettien epäluotettavuus oli suuri ongelma. Vuonna 1958 Nasan 17 laukaisuyrityksestä onnistui vain viisi. Tilanne parani nopeasti: vuonna 1959 kymmenen laukaisua 21 yrityksestä onnistui ja vuonna 1960 60 kaikkiaan 71 laukaisuyrityksestä onnistui. Vuoteen 1965 mennessä onnistumistodennäköisyys oli noussut 91 prosenttiin.
+Nasan varhaiset ohjelmat tutkivat miehitetyn avaruuslennon ongelmia. Nämä ohjelmat suoritettiin Yhdysvaltain ja Neuvostoliiton välisen kilpailun aiheuttamien paineiden alla, ja oli suoraan osa kylmää sotaa. Vuonna 1958 aloitettu Mercury-ohjelma käynnisti avaruuden valloittamisen. Vuonna 1958 lentänyt Neuvostoliiton Sputnik-2 painoi 1 300 kg ja kuljetti Laika-koiran, joten oli ilmeistä, että Neuvostoliitto pyrki miehitettyyn lentoon. Siitä, kumpi maa tekee sen ensimmäisenä, kilvoiteltiin. Ensin tuli selvittää pystyisikö ihminen selviämään avaruudessa hengissä – amerikkalaiset lennättivät Gemini-kapselissa apinoita ennen miehitettyjä lentoja. 
+Juri Gagarin vei 12. huhtikuuta 1961 voiton Neuvostoliitolle miehitettyjen lentojen kilvassa. Astronautti Alan Shepard pääsi ensimmäisenä amerikkalaisena avaruuteen Mercury 3 -lennon aikana 5. toukokuuta 1961. Kyseessä oli ballistinen lento. 20. helmikuuta 1962 John Glennistä tuli ensimmäinen Maan kiertänyt amerikkalainen viisituntisen Mercury 6 -lennon aikana. 
+Kilpailua oli myös Nasan ja Yhdysvaltain ilmavoimien avaruusohjelman välillä, johon kuului muun muassa tavoite saada ihminen Kuuhun vuoteen 1965 mennessä, välillä. John Kennedyn hallitus siirsi kaikki miehitetyt lennot Nasaan.
+
+
+=== Apollo-ohjelma ===
+
+Kun Mercury-ohjelma oli ensin todistanut miehitetyt lennot mahdollisiksi, aloitettiin seuraavaksi Apollo-ohjelma. Sitä valmisteli Gemini-ohjelma, jossa kokeiltiin muodostelmalentoa, telakoitumista ja toimintaa kapselin ulkopuolella (EVA, Extravehicular activity – avaruuskävely). Myös EVA-toiminnassa Neuvostoliitto ehti ensimmäiseksi.
+Apollon alkuperäisenä tavoitteena oli tehdä avaruudessa mielenkiintoista työtä sekä mahdollisesti kiertää Kuu miehitetyn lennon avulla. Ohjelman tavoitteista tuli presidentti John F. Kennedyn 25. toukokuuta 1961 pitämän puheen jälkeen huomattavasti kunnianhimoisempia. Tuolloin Kennedy julisti, että Yhdysvaltojen tulisi lähettää ihminen Kuuhun ja tuoda hänet sieltä turvallisesti takaisin vuoteen 1970 mennessä.
+Apollo-ohjelma toimi kuumeisesti ja likimain ilman kustannuskattoa. Liittovaltio poisti ylityörajoitukset ja kielsi lakot Apolloon liittyvissä organisaatioissa. Tuolloin uskottiin Neuvostoliiton pystyvän miehitettyyn kuulentoon. Nasassa pohdittiin vaihtoehtoa – jos Neuvostoliitto ehtii Kuuhun ensiksi, Yhdysvaltojen tulee lennättää astronautti Marsiin. Neuvostoliiton kuuraketti N1 ei kuitenkaan koskaan kehittynyt toimivaksi. 20. heinäkuuta 1969 amerikkalainen astronautti Neil Armstrong astui Kuun pinnalle. Kaikkiaan 12 astronauttia kävi Kuussa.
+
+
+== Avaruussukkulat ==
+
+Nasa kohdisti huomionsa avaruussukkuloihin 1970–1980-luvuilla. Neljä sukkulaa rakennettiin vuoteen 1985 mennessä. Ensimmäinen laukaisu oli vuonna 1981, jolloin Columbia pääsi matkaan. Avaruussukkulat eivät kuitenkaan olleet niin tehokkaita ja halpoja kuten NASA oletti niiden olevan. Vuoden 1986 Challenger-avaruussukkulan turman jälkeen yleisöä ei enää kiinnostanut avaruusmatkailu ja NASA joutui rahoitusvaikeuksiin. Siitä huolimatta avaruussukkulaprojekti eteni huolimatta niukasta taloudesta ja avaruussukkuloiden tuhoista. NASAn sukkulaohjelma lopetettiin vuonna 2011.
+
+
+== Miehitettyjen lentojen uudet tavoitteet kylmän sodan jälkeen ==
+Merkittävin miehitettyjen lentojen tavoite oli ISS-avaruusaseman rakentaminen yhdessä Venäjän, Euroopan, Japanin ja Kanadan kanssa. ISS-avaruusasema valmistui kuusipaikkaiseksi 2010-luvun alussa ja jatkaa toimintaan vuoden 2020 loppuun asti. ISS:n ja vuonna 2011 toiminnasta poistuvan avaruussukkulan jälkeistä toimintaa on suunniteltu jo ainakin 1990-luvun alusta alkaen, lähinnä ”avaruustutkimusmatkojen” (Exploration) mielessä. 
+
+
+=== Suunnitelma lentää uudelleen Kuuhun 2002–2010 ===
+George W. Bushin hallinnon aikana Nasa ilmoitti Yhdysvaltojen lähettävän neljä astronauttia Kuuhun vuonna 2018. Nasan pääjohtajan Michael Griffinin mukaan astronautit lähetettäisiin Kuun pinnalle viikon oleskelua varten. Hankkeella on määrä valmistella Yhdysvalloille pysyvää tukikohtaa Kuuhun ja edelleen Marsin miehittämistä. 
+Yhdysvallat teki edellisen miehitetyn kuulennon Apollo 17 -moduulilla joulukuussa 1972. 
+Nasa tilasi elokuun lopussa 2006 Lockheed Martin -yhtiöltä uuden miehitetyn avaruusaluksen, jonka nimi on Orion, joka liittyi Nasan Constellation-ohjelmaan.
+Vuoden 2009 aikana Nasa puntaroi miehitettyjen lentojen tulevaisuutta. Barack Obaman hallinnon alla vuoden 2010 alussa NASA peruutti Constellation-ohjelman, koska se olisi mahdollistanut miehitetyn lennon Kuuhun vasta 2020-luvun puolivälissä, jos silloinkaan. Kuudes lokakuuta 2010 Nasan rahoituslaki (valtion fiskaalivuotta 2011 varten) hyväksyttiin lopullisesti presidentti Obaman allekirjoituksella, laki linjaa miehitettyjen lentojen uusiksi kohteiksi asteroidin ja Marsin.
+
+
+=== Suunnitelma lentää asteroidille ja Marsiin v. 2010 alkaen ===
+Barack Obama piti huhtikuun puolivälissä 2010 avaruusaiheisen puheen, jossa hän kertoi Nasan aloittavan miehitetyn asteroidilennon valmistelun. Lento tapahtuisi vuonna 2025 ja sen teknologiselta pohjalta miehitetty lento Marsiin olisi mahdollinen 2030-luvun puolivälissä. Kesällä 2010 Nasa ilmoitti asteroidilennon aikatauluksi vuoden 2015, mikä on ilmeisen epärealistinen.
+
+
+=== Miehitettyjen lentojen organisaation konsolidaatio vuonna 2011 ===
+Vuoden 2011 elokuussa Nasa päätti yhdistää kaikki miehitettyjen lentojen osastonsa "Human Exploration and Operations (HEO) Mission Directorate" -osastoksi. Toimi oli vastaava, jonka Euroopan avaruusjärjestö teki vuoden 2011 alkupuolella. Tämä merkinnee toimintojen tehostamista, joka voi mahdollistaa suurempien haasteiden ottamisen.
+
+
+== Nasan organisaatio ==
+
+Nasan keskuksia:
+
+Nasan päämaja (HQ, headquarters) on Washington D.C.:ssä.
+Goddard Space Flight Center (GSFC) on Marylandissä. Se on Maan kaukokartoituksen ja tähtitieteellisten avaruuslentojen kotipaikka. Siellä sijaitsevat suuret satelliittien testausfasiliteetit.
+Goddard Institute for Space Studies (GISS) New Yorkissa tekee ilmakehätutkimusta.
+Jet Propulsion Laboratory (JPL) sijaitsee Pasadenassa, Kaliforniassa. Se on kuuluisa mm. planeettaluotaimistaan.
+Lyndon B. Johnson Space Center (JSC), Houston, Teksas on miehitettyjen lentojen lennonjohtokeskus.
+Kennedy Space Center (KSC; 28°35′7″N, 80°39′3″W ), Floridassa, on NASAn pääasiallinen laukaisukeskus. Se on Yhdysvaltain tärkein satelliittien laukaisupaikka. Samalla alueella on ilmavoimien laukaisutorneja. Kaliforniassa sijaitseva Vandenbergin tukikohta (34°43′47″N, 120°34′37″W ) on sotilaallinen eikä kuulu NASAan; sieltä laukaistaan lähinnä vakoilusatelliitteja naparadoille. Molemmista on laukaistu noin 500 satelliittia.
+Marshall Space Flight Center (MSFC), Alabama. Propulsiotekniikan keskus, Apollo-ohjelman johtava keskus. Entinen Yhdysvaltain maavoimien Redstone-asevarikko, jonne saksalaiset V-2-insinöörit sijoittuivat 1940-luvun lopussa.
+Ames Research Center, Kaliforniassa, tutkii pääasiassa aerodynamiikkaa. Avaruustoimintaan liittyy keskuksen avaruuspuvut, robotiikka sekä supertietokonelaskenta.
+Ilmavoimien Edwardsin lentotukikohdassa (Mojaven autiomaa, Kalifornia; entinen Muroc, X-koneiden koti) on myös Nasan toimintaa; Nasan Hugh H. Dryden Flight Research Facility. Mm. sukkulan eräs varalaskupaikka.
+Langley Research Center on Nasan vanhin aerodynamiikkaan ja propulsioon keskittynyt laboratorio.
+Wallops Flight Facility, saari Yhdysvaltain itärannikolla, josta on ainakin 1990-luvulle asti laukaistu luotainraketteja.
+Stennis Space Center, Mississippi
+White Sands Test Facilty, New Mexico
+
+
+== Nasan johtajat ==
+T. Keith Glennan, 19. elokuuta 1958 – 20. tammikuuta 1961
+Hugh L. Dryden, 21. tammikuuta 1961 – 14. helmikuuta 1961 (virkaatekevä)
+James Webb, 14. helmikuuta 1961 – 7. lokakuuta 1968
+Thomas O. Paine, 8. lokakuuta 1968 – 21. maaliskuuta 1969 (virkaatekevä)
+Thomas O. Paine, 21. maaliskuuta 1969 – 15. syyskuuta 1970
+George M. Low, 16. syyskuuta 1970 – 26. huhtikuuta 1971 (virkaatekevä)
+James C. Fletcher, 27. huhtikuuta 1971 – 1. toukokuuta 1977
+Alan M. Lovelace, 2. toukokuuta 1977 – 20. kesäkuuta 1977 (virkaatekevä)
+Robert A. Frosch, 21. kesäkuuta 1977 – 20. tammikuuta 1981
+Alan M. Lovelace, 21. tammikuuta 1981 – 10. heinäkuuta 1981 (virkaatekevä)
+James M. Beggs, 10. heinäkuuta 1981 – 4. joulukuuta 1985
+William R. Graham, 4. joulukuuta 1985 – 11. toukokuuta 1986 (virkaatekevä)
+James C. Fletcher, 12. toukokuuta 1986 – 8. huhtikuuta 1989
+Dale D. Myers, 8. toukokuuta 1989 – 13. toukokuuta 1989 (virkaatekevä)
+Richard Truly, 14. toukokuuta 1989 – 30. kesäkuuta 1989 (virkaatekevä)
+Richard Truly, 1. heinäkuuta 1989 – 31. maaliskuuta 1992
+Daniel Goldin, 1. huhtikuuta 1992 – 17. marraskuuta 2001
+Daniel R. Mulville, 19. marraskuuta 2001 – 21. joulukuuta 2001 (virkaatekevä)
+Sean O'Keefe, 21. joulukuuta 2001 – 11. helmikuuta 2005
+Frederick D. Gregory, 11. helmikuuta 2005 – 14. huhtikuuta 2005 (virkaatekevä)
+Michael D. Griffin, 14. huhtikuuta 2005 – 20. tammikuuta 2009
+Christopher Scolese, 21. tammikuuta – 16. heinäkuuta 2009 (virkaatekevä)
+Charles Bolden, 17. heinäkuuta 2009 – 20. tammikuuta 2017
+Robert M. Lightfoot Jr., 20. tammikuuta 2017 – 23. huhtikuuta 2018 (virkaatekevä)
+Jim Bridenstine, 23. huhtikuuta 2018 –
+
+
+== Budjetti ==
+Nasan budjetti on ollut 2000-luvulla 15–20 miljardia dollaria. Vuodelle 2011 (ajanjaksolle lokakuu 2010 – syyskuu 2011) ehdotettiin 18,9 miljardia dollaria.
+5 240 miljoonaa dollaria operaatioihin, josta 989 miljoonaa dollaria ylimääräiseen sukkulalentoon
+5 000 miljoonaan dollaria avaruus- ja kaukokartoitustieteeseen, josta 15 miljoonaan dollaria käytetään plutonium-238:n tuotannon aloittamiseen uudestaan. Plutoniumia käytetään sähköenergian tuotannossa RTG-"paristoissa" pitkillä avaruuslennoilla, joissa aurinkopaneeleilla sähkön tuotto ei ole tehokasta.
+3 700 miljoonaa dollaria avaruusmatkoihin eli Exploration-ohjelmiin, josta 1800 miljoonaa dollaria uuden raskaan kantoraketin kehittämiseen (130 tonnin nostokyky) ja 1 200 miljoonaa dollaria "multipurpose crew vehiclen" eli sukkulan korvaajan kehittelyyn.
+559 miljoonaan dollaria avaruustutkimukseen ja -teknologiaan
+579 miljoonaa dollaria ilmailututkimukseen
+3 000 miljoonaa dollaria sekaisiin hallinnon sisäisiin tukitoimiin
+508 miljoonaa dollaria NASAn ympäristöongelmien tutkimukseen ja hoitoon
+180 miljoonaa dollaria koulutukseen
+37,5 miljoonaa dollaria Nasan "Office of the Inspector General" eli urakoiden ja kilpailutuksen laillisuuden tarkastamiseen.Nasan lopullinen budjettiehdotus fiskaalivuodelle 2010 oli 18,5 miljardia dollaria, jossa oli haussa noin kahden miljardin kasvu vuoden 2009 rahoitukseen verrattuna. Vuoden 2010 varsinaisessa budjettiehdotuksessa kongressille Nasan budjetti nousi yhteensä 5,9 miljardilla dollarilla viiden vuoden aikana. Tämä merkitsi Nasan suurten ohjelmien (Constellation-ohjelma ja miehitetty kuulento, jonka arvioitu aikataulu oli entisestään viivästynyt) keskeyttämistä. Ohjelmien kustannukset vuoden 2010 alkuun mennessä olivat yhdeksän miljardia dollaria. Missio ei olisi ollut toteuttavissa vuonna 2020, vaan vasta 2028. Vuoden 2010 heinäkuussa näytti siltä, että kongressi aikaansaisi muutoksia ehdotettuun budjettiin: kaupallisen avaruustoiminnan (Nasassa pienempien kantorakettien kehityksen) rahoituksen kasvu jää pienemmäksi ja suuren kantoraketin kehitykseen panostetaan 11 miljardia dollaria kolmen vuoden aikana.Vuoden 2011 Nasan budjetin mukainen rahoitus linjaa Nasan ohjelmia ainakin vuoteen 2016 asti.Maaliskuun lopulla 2011 osa yhdysvaltalaisista kongressiedustajista ehdotti, että Nasan budjettivajeita voisi korjata ottamalla Nasan kulutettavaksi osan oikeusministeriön ja kauppaministeriön budjetista.Vuonna 2011 Euroconsult-konsulttiyhtiö arvioi, että Nasan budjetti jäädytetään 18,7 miljardiin dollariin seuraavaksi viideksi vuodeksi.Heinäkuussa 2011 tapahtunut avaruussukkulalentojen päättyminen merkitsi tuhansien sukkulainsinöörien ja -teknikoiden irtisanomisia Nasassa ja sen alihankkijayrityksissä, etenkin ULAssa. Teknologisen suurhankkeen päättyminen loi jälleen ongelman, minne sijoittaa sen työllistämät erikoiskoulutetut ihmiset. Heinäkuussa 2011 teksasilaiset edustajainhuoneen kansanedustajat ehdottivat Nasan sukkuloiden luotettavuudesta vastanneiden insinöörien jne. kouluttamista öljynporauslauttojen turvallisuudesta vastaaviksi.Vuonna 2012 erityinen paneeli arvioi ensi kertaa Nasan laboratorioiden ylikapasiteettia (18 000 virkamiestä ja nelinkertainen määrä urakoitsijoiden työntekijöitä) ja fasiliteettien vajaakäyttöä.
+
+
+== Nasan avaruusohjelmia ==
+
+
+=== Miehitettyjä ===
+Mercury
+Gemini
+Apollo
+Skylab
+Avaruussukkula
+Kansainvälinen avaruusasema, toteutettu yhdessä Venäjän avaruusjärjestön, Euroopan avaruusjärjestön, Japanin JAXAn jne. kanssa
+
+
+=== Miehittämättömiä avaruusaluksia ===
+Miehittämättömiä avaruusaluksia:
+ACE-aurinkoluotain
+ACTS-tietoliikennesatelliitti (kokeellinen)
+ATS-teknologiasatelliitti (tietoliikenne)
+Aura-kaukokartoitussatelliitti
+Biosatellite
+Chandra-röntgenobservatorio (alkujaan AXAF)
+COBE
+Deep Space 1
+Echo-tietoliikenne"satelliitti"
+EOS-Aqua
+EOS-Aura
+EOS-Terra
+EUVE – UV-observatorio
+Explorer
+Genesis-aurinkoluotain (näytteenkeruu)
+Juno-luotain
+LISA – 3 gravitaatioaaltoja mittaavaa satelliittia (2012, yhdessä ESA:n kanssa)
+Lunar Orbiter
+Mariner-Venus-luotaimet
+Mars Observer
+Mars Pathfinder
+Mars Reconnaissance Orbiter
+MESSENGER
+New Horizons-luotain
+Nimbus-sääsatelliitit
+Orbiting Astrophysical Observatory (OAO)
+Orbiting Carbon Observatory (OCO)
+Orbiting Geophysical Observatory (OGO)
+Orbiting Solar Observatory (OSO)
+Pageos
+Pegasus
+Pioneer-luotaimet
+Radiation Belt Storm Probes
+Ranger-kuuluotaimet
+Relay-tietoliikennesatelliitti
+STEREO-aurinkoluotain
+Surveyor 1–7
+Syncom-tietoliikennesatelliitti
+TDRS-tietoliikennelinkkisatelliitti
+TIROS-sääsatelliitit
+Viking-laskeutujat
+Voyager-luotaimet
+
+
+=== Yhteistyössä ESAn kanssa ===
+Cassini-Huygens
+Hubble-avaruusteleskooppi, joka on avaruustutkimusasema
+James Webb Space Telescope eli James Webb -avaruusteleskooppi (se on tarkoitus laukaista vuonna 2021)
+LISA (laukaisu myöhemmin kuin vuonna 2012)
+SOHO
+Ulysses (ESA)
+
+
+== Nasan kaukokartoitusohjelma ==
+Nasan Earth Science eli kaukokartoitusohjelma on kehittänyt muun muassa Landsat-satelliitin, jonka optisen aallonpituusalueen kuvat ovat hyvin laajassa käytössä kaukokartoitustutkimuksessa. Se on myös tuonut SAR-tutkan siviilikäyttöön 1970-luvulta alkaen. Ohjelma on tukenut sääsatelliittien kehitystä, jossa yhteistyö yliopistojen ja asevoimien kanssa on ollut laajaa 1950-luvulta lähtien. Ohjelma ei ole suhteellisesti niin vahva kuin ESAn kaukokartoitusohjelma. Se on myös ollut poliittisten päättäjien epäsuosiossa, koska tutkimustulokset ovat tuoneet teollisuuden kannalta epämieluisia faktoja esiin, esim. napakalottien otsoniaukot, jotka johtivat deodoranttien ponneaineiden ja freonin käytön kieltoon. Jälkimmäinen on maksanut paljon muun muassa jäähdytyskoneiden valmistajille.
+Kaukokartoitusohjelman satelliitteja ovat kehittäneet lähinnä JPL Kaliforniassa ja GSFC (Goddard Space Flight Center) Marylandissä. Tämä on johtanut kilpailutilanteeseen muun muassa miehitettyjen lentojen teknologioita kehittävien osavaltioiden (mm. Utah, Alabama, Teksas, Florida) kanssa poliittisella tasolla. 
+Nasa tutkii muun muassa ilmastomuutosta jäätiköiden sulamisen kautta kuvaamalla pohjoista napaseutua eri vuosina. Lisäksi otsonikato, San Franciscon edustan suolaesiintymien palautuminen luonnontilaan ja energian sekä vedenkulutuksen vähentäminen ovat osia tiedeohjelmista, joissa Nasan teknologiaa hyödynnetään ja joissa Nasa yhdessä ympäristöalan yhteisöjen kanssa tutkii ja mittaa ihmisen toimien sekä saasteiden vaikutusta maapalloon. Nasan ympäristöä kuvaavia satelliitteja ovat muun muassa EOS-Aqua, EOS-Aura ja OCO (menetettiin satelliitin laukaisussa). Vuoden 2011 alussa useita kongressin republikaaniedustajia on allekirjoittanut vetoomuksen, jossa vaaditaan Nasan ilmastonmuutostutkimusrahoituksen (1,4 miljardia dollaria) siirtämistä miehitettyihin avaruuslentoihin. Vetoomus pyrkii ajamaan alas ilmastotutkimusta – suurin osa kyseisistä republikaaneista on osavaltioista, joissa on runsaasti rakettimoottoriteollisuutta, joten he ajavat samalla myös oman äänestysalueensa työllisyyttä muutamia muita osavaltioita vastaan.
+Helmikuussa 2011 Nasa ilmoitti peruuttavansa kaksi ilmastonmuutosmissiota, jotka olisi laukaistu vuonna 2015 1,2 miljardin dollarin kustannuksilla
+
+Climate Absolute Radiance and Refractivity Observatory (CLARREO)
+Deformation, Ecosystem Structure and Dynamics of Ice (DESDynI)
+
+
+== Maan ulkopuolinen elämä ==
+1970-luvulla muun muassa Viking-laskeutujat Marsin pinnalla pyrkivät epäonnistuen löytämään merkkejä biologisesta toiminnasta.
+1990-luvulla Nasalla oli SETI-ohjelma, jolla pyrittiin muun muassa radiosignaaleja mittaamalla löytämään viestejä älyllisestä Maan ulkopuolisesta elämästä.
+Kun mittausmenetelmät kehittyivät niin tarkoiksi, että eksoplaneetoista voitiin tehdä jonkinlaisia mittauksia, Nasan intressiksi nousi eksoplaneettojen kaasukehän mittaus, josta voisi näkyä biologinen aktiviteetti niiden pinnoilla.
+Vuonna 2010 Nasa omasta mielestään löysi arseenipohjaista elämää Maasta ja vuoden 2011 alussa Nasa on esitellyt mittauksia meteoriiteista, joissa olisi biologisen toiminnan jälkiä.
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+
+Nasan viralliset sivut
+Nasan toimintaa seuraava nk. kriittinen sivusto
+NASA History Series – Nasan historiaa ja toimintaa käsitteleviä julkaisuja Internetissä ja paperiversioina

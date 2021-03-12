@@ -1,0 +1,9 @@
+Lysår er et begrep som brukes som uttrykk for avstander innen astronomien, og er den distansen lyset tilbakelegger på ett år. Siden hastigheten på lyset er 299 792 458 meter i sekundet, tilbakelegger lyset enorme avstander; i vakuum tilbakelegger det på ett år 9 460 730 472 580,8 km. (9,46*10^15 m)
+Grunnen til at lysår (ly) blir brukt som måleenhet i astronomisk sammenheng, er at det er upraktisk å snakke om meter eller kilometer på grunn av de enorme avstandene. Siden middelavstanden til månen er 384 390 km, bruker lyset ca. 1,3 sekunder derfra til jorden.
+
+
+== Se også ==
+Astronomisk enhet
+Parsec
+Måleenhet
+Lys

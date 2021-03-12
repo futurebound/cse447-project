@@ -1,0 +1,119 @@
+Mars Pathfinder è stata una missione scientifica della NASA per l'esplorazione di Marte, la prima ad aver trasportato un rover, Sojourner, sul pianeta. La sonda fu lanciata il 4 dicembre 1996 per mezzo di un razzo Delta II (un mese dopo l'invio della sonda Mars Global Surveyor) e, dopo un viaggio di 7 mesi, si posò nella Ares Vallis, in una regione chiamata Chryse Planitia, il 4 luglio 1997 (16:56:55 UTC, MSD 43905 4:41 AMT, 26 Taurus 206 Dariano). Il lander operò come una stazione meteorologica, mentre il rover analizzò il suolo e le rocce del sito di atterraggio ed effettuò diversi esperimenti sulla superficie.
+La missione era il secondo progetto del Programma Discovery della NASA, che promuoveva l'uso di veicoli a basso costo e con lanci frequenti con il motto "cheaper, faster and better" (più economici, più veloci e migliori) promosso dall'amministratore di allora Daniel Goldin. La missione fu diretta dal Jet Propulsion Laboratory (JPL), una divisione del California Institute of Technology, che è anche l'organismo responsabile del programma di esplorazione di Marte. Responsabile del progetto fu Anthony Spear, del JPL.
+La missione fu la prima di una serie a raggiungere la superficie di Marte dai tempi del Programma Viking, nel 1976, e fu anche la prima missione che inviò un rover su un pianeta. L'Unione Sovietica aveva inviato con successo dei rover sulla Luna negli anni settanta, ma i tentativi di inviarne due su Marte si erano conclusi con dei fallimenti.
+Oltre al raggiungimento di obiettivi scientifici, la missione Mars Pathfinder costituì una dimostrazione della fattibilità di alcune importanti soluzioni tecnologiche ideate per l'esplorazione di Marte: in particolare, l'innovativo sistema di atterraggio tramite airbag ed il sistema di navigazione automatico del rover che saranno impiegati anche nelle successive missioni dei Mars Exploration Rover. La missione fu anche notevole sotto il profilo economico, avendo ottenuto risultati notevoli a fronte di una spesa limitata rispetto ad altre missioni spaziali marziane senza equipaggio. Questo aspetto è molto importante, considerando l'alto tasso di fallimenti (circa due terzi) delle sonde inviate sul pianeta rosso. La missione era stata concepita come la capofila del Programma Mars Environmental Survey (MESUR) della NASA, che prevedeva l'invio di 16 missioni superficiali automatiche in preparazione dell'esplorazione umana del pianeta rosso.
+
+
+== Missione ==
+
+Il sistema di comunicazione del lander era in collegamento radio con quello del rover, in modo che esso potesse operare liberamente. Anche se comandato da remoto, possedeva un sistema di controllo autonomo tramite delle telecamere che gli permetteva di viaggiare ed evitare piccoli ostacoli senza l'intervento di un operatore.
+La libertà di movimento del robot permise al team di esplorazione di analizzare molte rocce e campioni del suolo marziano: dall'atterraggio avvenuto il 4 luglio 1997 alla data dell'ultima trasmissione il 27 settembre 1997, Pathfinder inviò 16500 immagini dal lander e 550 immagini dal rover, oltre a 15 analisi di rocce e suolo, e dettagliati dati sui venti e altri fenomeni atmosferici. Questi dati suggerirono agli scienziati che in qualche momento del passato il pianeta potrebbe essere stato caldo e umido, e potrebbe aver posseduto acqua allo stato liquido e un'atmosfera più densa.
+Il lander ed il rover operarono più a lungo e meglio delle aspettative, ma infine il contatto con il lander venne perso nell'83° Sol. La causa non può essere accertata con esattezza, ma si ipotizza un guasto alla batteria. Dopo il 92° Sol, le procedure di recupero automatiche avrebbero dovuto comandare il ritorno del rover al lander. La perdita di comunicazioni tuttavia implica che la esatta posizione finale del rover e il suo stato è attualmente sconosciuto. Gli sforzi della NASA per ricontattare Pathfinder cessarono il 10 marzo 1998.
+
+
+== Obiettivi ==
+Dimostrare che lo sviluppo di una sonda "più veloce, migliore e più economica" è possibile (3 anni di sviluppo e costo inferiore a 150 milioni di dollari)
+Dimostrare che è possibile l'invio di strumenti scientifici su un altro pianeta con un sistema semplice e ad un quinto dei costi di una missione Viking
+Dimostrare l'impegno della NASA nell'esplorazione planetaria a basso costo completando la missione con una spesa totale di 280 milioni di dollari, che includono il veicolo di lancio e le operazioni di missione.
+
+
+=== Obiettivi scientifici ===
+Gli obiettivi scientifici comprendevano ricerche e investigazioni su:
+
+Morfologia della superficie e geologia
+Petrografia e geochimica dei materiali del terreno
+Proprietà magnetiche e meccaniche del terreno
+Struttura atmosferica, tra cui le variazioni meteorologiche tra la notte e il giorno
+Dinamica dell'orbita e della rotazione
+
+
+== Equipaggiamento ==
+Le rilevazioni di Mars Pathfinder sul suolo marziano vennero effettuate attraverso tre strumenti scientifici. Il lander conteneva una telecamera stereoscopica con filtri spaziali detta Imager (IMP) e lo strumento per la struttura atmosferica e meteorologica (ASI /MET) che funzionava come una stazione meteorologica, raccogliendo dati sulla pressione, temperatura e vento. Il rover aveva uno spettrometro (APXS) che era usato per analizzare le composizioni del suolo e delle rocce. Esso possedeva anche due telecamere in bianco e nero e una a colori. Questi strumenti hanno permesso di effettuare ricerche sulla geochimica e storia evolutiva delle rocce e della superficie, sulle proprietà meccaniche e magnetiche del terreno, oltre alle caratteristiche della polvere, dell'atmosfera e le dinamiche rotazionali e orbitali del pianeta.
+
+
+== Fasi della missione: ingresso, discesa e atterraggio ==
+
+Durante la fase dell'ingresso dell'atmosfera vennero usati uno scudo per la protezione termica e un grande paracadute. La sonda utilizzava un altimetro radar per stabilire la distanza dalla superficie; la discesa veniva rallentata attraverso retrorazzi e infine l'impatto con il suolo veniva ammortizzato tramite l'apertura (8 secondi prima del contatto con il terreno) di 24 airbag. La velocità di atterraggio fu di 10,6 metri al secondo. L'intera operazione venne completata in 4 minuti.
+Una volta sulla superficie, gli airbag si sgonfiarono e vennero estesi i petali contenenti i pannelli solari. Il lander atterrò nella notte alle ore 2:56:55 locali (16:56:55 UTC), quindi si dovette attendere l'alba per ricevere i primi segnali sulla terra. Il sito di atterraggio ha coordinate latitudine 19.30° nord e longitudine 33.52° ovest nell'Area Vallis, 19 Chilometri a sudovest rispetto al sito pianificato. Durante il primo Sol, il lander effettuò fotografie e alcune misurazioni meteorologiche. Questi dati fecero capire agli ingegneri che un airbag non si era completamente sgonfiato e costituiva un potenziale problema per l'attraversamento della rampa di discesa da parte del Sojourner. Il problema fu risolto facendo sollevare e abbassare ripetutamente un petalo in modo da appiattire l'airbag.
+
+
+== Sito di atterraggio ==
+Il sito di atterraggio è un'antica pianura fluviale nell'emisfero nord di Marte chiamata "Ares Vallis", una delle parti più rocciose del pianeta. Venne scelto dagli scienziati perché è un luogo sufficientemente sicuro dove far atterrare la sonda e contiene una grande varietà di rocce depositate da una ipotetica inondazione. Dopo l'atterraggio il sito venne chiamato Carl Sagan Memorial Station in onore all'astronomo, leader nel campo delle missioni spaziali senza equipaggio.
+
+
+== Uscita del Sojourner ==
+
+Durante il secondo Sol il Sojourner uscì dal lander. Durante il sol successivo il rover si avvicinò ad alcune rocce soprannominate dagli scienziati "Barnacle Bill", "Yogi Rock" e "Scooby Doo", in riferimento ai famosi cartoni animati. Il rover effettuò delle misurazioni degli elementi trovati nelle rocce e nel suolo, mentre il lander scattava immagini del Sojourner e del terreno circostante, oltre ad effettuare rilevazioni sul clima.
+Il Sojourner era un veicolo a sei ruote lungo 65 cm, largo 48 cm e alto 30 cm. Il peso era di 10.6 kg circa, poteva muoversi a circa 500 metri dal lander e la massima velocità era di 1 cm al secondo. Durante gli 83 Sol dell'operazione, scattò e inviò 550 immagini a terra e analizzò le proprietà chimiche in 16 diversi luoghi vicino al lander.
+
+
+== Analisi delle rocce ==
+
+La prima analisi di una roccia venne effettuata durante il terzo sol su quella denominata "Barnacle Bill". La composizione venne determinata attraverso lo spettrometro, che impiegò 10 ore per una completa scansione. Vennero trovati tutti gli elementi tranne l'idrogeno.
+L'APXS funziona irradiando le rocce e i campioni di terreno con particelle alfa (elio), che consistono di due protoni e due neutroni. I risultati indicarono che la roccia "Barnacle Bill" era molto simile alla andesite terrestre, e confermarono l'ipotesi di una passata attività vulcanica.
+Le analisi della roccia "Yogi" attraverso lo spettrometro indicarono che era una roccia basaltica, più primitiva rispetto alla precedente. La forma della roccia suggerì che probabilmente era stata depositata lì da una inondazione.
+Un'altra roccia, chiamata "Moe", presentava segni riconducibili all'erosione dal vento. La maggior parte delle rocce analizzate mostrava un alto contenuto di silicio. In una regione soprannominata Rock Garden il rover incontrò delle dune a forma di luna crescente, simili alle dune sulla terra.
+D'altra parte, il lander inviò più di 16500 immagini e 8,5 milioni di misurazioni della pressione atmosferica, della temperatura e velocità dei venti.
+Il filmato del rover Sojourner che si avvicina alla roccia "Yogi", compresa la foto in questa sezione, venne usata nella sigla iniziale della serie televisiva "Star Trek: Enterprise" rendendola il primo programma televisivo di fantascienza contenente immagini riprese su un altro pianeta.
+
+
+== Fine della missione ==
+Nonostante la durata della missione prevista fosse da un minimo di una settimana ad un massimo di un mese, essa si prolungò fino a circa 3 mesi. L'ultimo contatto con Pathfinder avvenne alle 10:23 UTC il 27 settembre 1997. Anche se i responsabili di missione tentarono di ripristinare il contatto durante i cinque mesi successivi, la missione venne ufficialmente terminata il 10 marzo 1998.
+
+
+== Curiosità ==
+Il rover Sojourner appare nel film Pianeta rosso, dove gli astronauti arrivano nei pressi del rover, lo smontano ed usano la sua radio per comunicare con la nave Marte1.
+Il rover pathfinder, è citato e appare in modalità visuale della board-cam nel film Transformers, quando incontra l'ombra di un Decepticon che lo distrugge.
+La sonda compare nel romanzo L'uomo di Marte di Andy Weir, dal quale è stato tratto il film Sopravvissuto - The Martian (2015). Il protagonista Mark Watney utilizza i suoi sistemi di trasmissione per ripristinare i contatti con la base NASA.
+
+
+== Bibliografia ==
+(EN) JPL Mars Pathfinder article (PDF), su jpl.nasa.gov.
+(EN) Mars Pathfinder mission ends, su marsprogram.jpl.nasa.gov.
+(EN) Mars Pathfinder Website, su mpfwww.jpl.nasa.gov. URL consultato il 12 settembre 2006 (archiviato dall'url originale il 13 aprile 2005).
+(EN)  Mars Pathfinder Litograph Set, NASA. (1997)
+(EN)  Poster: Mars Pathfinder –Roving the Red Planet, NASA. (1998)
+(EN)  Deep Space Chronicle: A Chronology of Deep Space and Planetary Probes 1958-2000, Asif A. Siddiqi. Monographs in Aerospace History, #24. June 2002, NASA History Office.
+(EN)  "Return to Mars", article by William R. Newcott. National Geographic, pp. 2–29. Vol. 194, 2nd edition - August 1998.
+"La misión Pathfinder –rebautizada Carl Sagan Memorial Station, en memoria del célebre astrónomo-, paso a paso todo Marte", de J. Roberto Mallo. Conozca Más, págs. 90-96. Edición número 106 - agosto de 1997.
+"Un espía que anda por Marte", de Julio Guerrieri. Descubrir, págs. 80-83. Edición número 73 - agosto de 1997.
+"Mars Pathfinder: el inicio de la conquista de Marte" EL Universo, Enciclopedia de la Astronomía y el Espacio, Editorial Planeta-De Agostini, págs. 58-60. Tomo 5. (1997)
+(EN)  Sojourner: An Insider's View of the Mars Pathfinder Mission, by Andrew Mishkin, Senior Systems Engineer, NASA Jet Propulsion Laboratory.  ISBN 0-425-19199-0
+(EN)  Experiences with operations and autonomy of the Mars Pathfinder microrover, A. H. Mishkin, J. C. Morrison, T. T. Nguyen, H. W. Stone, B. K. Cooper and B. H. Wilcox. In Proceedings of the IEEE Aerospace Conference, Snowmass, CO 1998.
+ William R. Newcott, Ritorno su Marte, in National Geographic Italia, vol. 2, n. 3, settembre 1998,  pp. 2-29.
+Caprara, Giovanni. Mars Pathfinder: Missione compiuta. Orione - n. 64 - settembre 1997, pp. 42–45
+Favero, Giancarlo. Cronache marziane. il Cielo -n. 12 - agosto settembre 1997, pp. 34–50.
+Bergamin, Marino. Gli airbag di Mars Pathfinder. il Cielo -n. 12 - agosto settembre 1997, pp. 52–53.
+ Matthew P. Golombek, La missione Mars Pathfinder, in Angioletta Coradini (a cura di), Il Sistema solare, Le Scienze quaderni numero 111, dicembre 1999,  pp. 34-41. Già pubblicato su «Le Scienze» n. 360, agosto 1998.
+
+
+== Bibliografia su Marte ==
+(EN)  The New Solar System, J. Kelly Beatty, Carolyn Collins Petersen, Andrew Chaikin. Cambridge University Press; 4 edition (1998); ISBN 0-521-64587-5
+(EN)  The Surface of Mars, Michael H. Carr. Yale University Press, New Haven; 1 edition (1981); ISBN 0-300-02750-8, ISBN 0-300-03242-0
+(EN)  Exploring the Planets, Eric H. Christiansen, Fabrizio A. Comoglio, Kenneth W. Hamlin, Prentice-Hall, Englewood Cliffs, New Jersey; 2 edition (1995); ISBN 0-02-322421-5
+(EN)  The Search for Life on Mars: Evolution of an Idea, Henry S.F. Cooper. Holt, Rinehart, and Winston, New York (1980); ISBN 0-03-046166-9 (hardcover), ISBN 0-03-059818-4
+(EN)  Mars, Percival Lowell. Houghton, Mifflin, Boston, New York (1895). Kessinger Publishing (2004); ISBN 1-4191-3284-9
+(EN)  Journey Into Space: The First Thirty Years of Space Exploration, Bruce Murray. W.W. Norton, New York (1989); ISBN 0-393-02675-2 (hardcover), ISBN 0-393-30703-4
+(EN)  Planets & Perception: Telescopic Views and Interpretations, 1609-1909, William Sheehan. University of Arizona Press, Tucson (1988); ISBN 0-8165-1059-8
+(EN)  The Planet Mars: A History of Observation and Discovery, William Sheehan. University of Arizona Press, Tucson (1996); ISBN 0-8165-1640-5 (hardcover), ISBN 0-8165-1641-3
+(EN)  The Martian Landscape, Viking Lander Imaging Team. NASA SP-425 (1978)
+(EN)  Viking Orbiter Views of Mars, Viking Orbiter Imaging Team. NASA SP-441 (1980)
+(EN)  Mars Beckons, John Noble Wilford. ISBN 0-394-58359-0 (hardcover, 1 edition, 1990), ISBN 0-679-73531-3 (1991), ISBN 0-517-19803-7 (1997)
+
+
+== Voci correlate ==
+Lista degli oggetti artificiali su Marte
+Marte (astronomia)
+Sojourner
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Mars Pathfinder
+
+
+== Collegamenti esterni ==
+(EN) Mars Pathfinder, su mpfwww.jpl.nasa.gov. URL consultato il 12 settembre 2006 (archiviato dall'url originale il 3 ottobre 2012).
+(EN) NASA Office of Space Science, su spacescience.nasa.gov.
+(EN) JPL - Mars Exploration Rover Mission, su marsrovers.jpl.nasa.gov.
+(EN)  What really happened on Mars? — discussione sui problemi software della sonda Pathfinder

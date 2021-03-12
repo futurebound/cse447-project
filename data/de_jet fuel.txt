@@ -1,0 +1,153 @@
+Kerosine (altgriechisch κηρός kerós, deutsch ‚Wachs‘, ein leichtes Petroleum; in der Schweiz als Flugpetrol bezeichnet) sind Luftfahrtbetriebsstoffe unterschiedlicher Spezifikationen, die vorwiegend als Treibstoff für die Gasturbinentriebwerke von Strahl- und Turbopropflugzeugen sowie Hubschraubern (Flugturbinenkraftstoff) verwendet werden. Mit der Entwicklung von speziellen, luftfahrtgeeigneten Dieselmotoren, wie beispielsweise dem Thielert Centurion 1.7, können seit Beginn des 21. Jahrhunderts auch solcherart ausgerüstete Kleinflugzeuge mit Kerosin betrieben werden.
+Kerosine sind jeweils ein enger Fraktionierschnitt aus dem leichten Mitteldestillat der Erdölraffination, versehen mit Additivpaketen zur Erreichung der jeweiligen Spezifikation. Die Siedekurve von Kerosin verläuft im Vergleich zu anderen Kraftstoffen recht flach. Die Benennung nach ADR ist KEROSIN, es fällt unter die Verpackungsgruppe III.
+
+
+== Geschichte ==
+Der Name Kerosin geht auf den Arzt und Geologen Abraham Gesner (1797–1864) zurück, der 1846 in Nova Scotia (Kanada) aus Kohle eine leicht entflammbare Flüssigkeit gewann, die dem deutschen Petroleum entspricht. Ein dabei entstehendes, wachsartiges Zwischenprodukt, das bei dem Vorgang eine wichtige Rolle spielte, ist der Grund dafür, dass er die Flüssigkeit Kerosene (gesprochen: Kerrosin oder auch Kerosien) nannte, abgeleitet von griechisch κηρός (keros), dt. Wachs. Das Zwischenprodukt war dem Paraffin ähnlich, weshalb im britischen Englisch das flüssige Folgeprodukt bis heute Paraffin (Oil) genannt wird. Nachdem Anfang der 1850er Jahre verbesserte Methoden zur Gewinnung von Kerosene aus Kohle und durch Ignacy Łukasiewicz und Jan Zeh auch deren Destillation aus Erdöl entdeckt (Patent vom 2. Dezember 1853) sowie 1858 das erste nordamerikanische Erdöl in Ohio gefunden wurde, war Gesners Methode nicht mehr rentabel, seine Firma mit ihren Rechten und Lizenzen wurde von Standard Oil übernommen. Die Marke bzw. die Bezeichnung Kerosene setzte sich jedoch fast weltweit durch.
+Sprachliche Abgrenzung
+Gesner meldete sowohl die Erfindung des Produktes zum US-Patent als auch das Wort Kerosene als Warenzeichen an. Zur Umgehung der geschützten Markenrechte wurden von anderen Herstellern mit anderen Verfahren auch andere Namen eingeführt, die oft auf die Begriffe Wachs (Kerosene), Stein (-kohle) und Öl anspielen: Steinöl (deutsch) oder Petroleum (griechisch-lateinisch), Cherosene (italienisch) oder Queroseno (spanisch). Diese Namensvielfalt und zusätzlich auf Gasolene (bezugnehmend auf die Destillation aus Erdöl) basierende Begriffe führen dazu, dass gleichklingende Bezeichnungen in verschiedenen Sprachen ganz unterschiedliche Erdölraffinate bezeichnen und zu gefährlichen Missverständnissen führen können.
+In der deutschen Sprache bezeichnet Kerosin immer den in diesem Artikel beschriebenen Flugturbinentreibstoff, außer im Fachjargon der deutschen Petroindustrie, wo man es als Eindeutschung zu Kerosene verwendet. Dies führt zu Irritationen mit den Falschen Freunden in anderen Sprachen, die fast immer das bezeichnen, was im Deutschen Petroleum ist: Kerosene im amerikanischen Englisch, spanisch Queroseno, niederländisch Kerosine oder Cherosene auf Italienisch. Ausnahmen sind z. B. Kerozin (kroatisch) oder gelegentlich Kérosène (französisch), wo es auch den Flugturbinentreibstoff bezeichnen kann. Im britischen Englisch und damit auch in vielen Commonwealthstaaten ist der Begriff Kerosene bekannt, aber eher ungebräuchlich und bedeutet meistens ebenfalls Petroleum.
+Der hier beschriebene Flugturbinentreibstoff wird in den meisten (europäischen) Sprachen mit einem Wort bezeichnet, das den Bestandteil „Jet“ enthält: z. B. Jet Fuel, Jet-Un oder Jet-A.
+
+
+== Herstellung ==
+Kerosin wird in Erdölraffinerien im Wesentlichen durch Destillation aus Rohöl gewonnen. Dabei wird das Rohöl zunächst einer Entsalzung zugeführt und auf ca. 400 °C in Rohröfen erhitzt. Anschließend wird es einer atmosphärischen Destillationskolonne zugeführt. In dieser stellt sich ein Temperaturprofil ein. Über den Flüssigkeit- und Gasaustausch und das Temperaturprofil ergibt sich eine stoffliche Trennung bzw. eine Anreicherung von Komponenten in bestimmten Zonen der Kolonne. Kerosin, das hauptsächlich aus Molekülen mit etwa 9 bis 13 Kohlenstoff-Atomen pro Kohlenwasserstoffmolekül (Siedetemperatur 150 und 250 °C) besteht, und Diesel werden in der Mitteldestillatfraktion gewonnen. Am Boden der Kolonne befinden sich Schweröle und der Rückstand. Dieser kann je nach eingesetztem Rohöl durchaus 40–60 % des eingesetzten Rohöls ausmachen und wird daher in einer Vielfalt weiterer Prozesse mit Konversionsanlagen aufgearbeitet. Dabei werden durch unterschiedliche Crackverfahren die höhermolekularen Verbindungen aufgespalten. Dabei entstehen wieder Ströme der Fraktionen Gase, Naphtha, Mitteldestillate, Schweröle, Wachs und schließlich Koks. Allen Raffinerien gemeinsam ist noch die Vakuumdestillation bei Drücken zwischen 10 und 30 mbar. Damit können auch Stoffströme fraktioniert werden, die bei Umgebungsdruck Siedetemperaturen oberhalb von 400 °C, zum Teil bis 600 °C aufweisen. Die Stoffströme aus den verschiedenen Verfahren enthalten noch aliphatische und aromatische Schwefelverbindungen, die bei Bedarf in einem Hydrierungsreaktor selektiv entfernt werden müssen. Die Spezifikation von Kerosin erlaubt einen Massenanteil von 3000 ppmw Schwefel. Ein Rohschnitt des Kerosins enthält maximal etwa 1600 ppmw Schwefel, während am Markt befindliches Kerosin zwischen 100 und 700 ppmw Schwefel enthält. Die unterschiedlichen Stoffströme werden in der Raffinerie zu einem Treibstoff zusammengemischt, der den Spezifikationsanforderungen entspricht. Die maximal erlaubten Schwefelgehalte bleiben mit Werten zwischen 1000 ppmw (JP-7), 3000 ppmw (Jet A-1) und 4000 ppm (JP-4) in der gleichen Größenordnung. Flugturbinenkraftstoffe unterscheiden sich von Kerosinfraktionen in der Raffinerie durch die Zugabe zahlreicher Additive, wie Antioxidantien, Metalldeaktivatoren, Antistatische Zusätze, Korrosionsinhibitoren und weiteren.Der enge Fraktionierschnitt bewirkt, dass wenig leichte und wenig schwere Kohlenwasserstoffverbindungen im Kraftstoff vorhanden sind, weshalb dieser nicht zu früh zündet und fast rückstandsfrei verbrennt. Die meisten Moleküle zünden bei der gleichen Temperatur. Aufschluss darüber gibt eine Siedeanalyse, die im Falle des Kerosins im mittleren Siedebereich eine weit gestreckte, flache Siedelinie ergibt. Siehe Grafik mit Siedekurven ganz oben. Diese liegt zwischen Schwerbenzin und Dieselkraftstoff.
+Es wird an Verfahren gearbeitet, die nicht auf Erdöl als Rohstoff basieren. Außer Biokerosin ist zum Beispiel die Sun-to-Liquid-Technologie in Entwicklung. Das System scheidet Kohlendioxid und Wasser aus der Luft ab und wandelt es in einer mehrschrittigen thermochemischen Prozesskette in Wasserstoff und Kohlenmonoxid um. Aus diesem Syngas kann dann Kerosin produziert werden. Forschende der Empa und des Paul Scherrer Instituts (PSI) haben 2021 die Initiative »SynFuels« gestartet.In Deutschland wurden 2015 ca. 5,2 Millionen Tonnen Flugturbinenkraftstoff (schwer) hergestellt.
+
+
+== Zusammensetzung ==
+Kerosin besteht aus einer komplexen Mischung aus Alkanen, Cycloalkanen, Aromaten und Olefinen. Jet A enthält fast ausschließlich Verbindungen mit 9 bis 17 Kohlenstoffatomen, wobei der Schwerpunkt (19,5 % Masse) als C12-Verbindung vorliegt. Ein typischer Gehalt liegt bei 37 % Alkanen, 47 % Cycloalkanen, 15 % Aromaten und 1 % Olefinen. Die exakte Zusammensetzung hängt sehr stark vom Rohöl und dessen Herkunft ab. Verschiedene Quellen geben eine Bandbreite von 35,4–78 % Alkane, 9,8–60,3 % Cycloalkane und 2,5–22 % Aromaten (jeweils Massenprozente) angeführt. Die Aromaten bestehen zum größten Teil aus Monoaromaten. Ein kleiner Teil weist Di- und Triaromate auf.
+
+
+== Additive ==
+Kerosin unterscheidet sich von Petroleum neben dem engeren Fraktionierschnitt im Wesentlichen durch die Zugabe funktionaler Additive (siehe auch, Appendix D, oder) die für eine Verwendung als Flugzeugtreibstoff erforderlich bzw. nützlich sind. Hierzu gehören unter anderem:
+
+Antistatikmittel verhindern oder reduzieren die Neigung des Treibstoffes, sich bei der Betankung statisch aufzuladen (STADIS 450, Wirksubstanz: Dinonylnaphthylsulfonsäure, Dosierung: 1–5 mg/l)
+Anti-Oxidantien vermeiden die Bildung gummiartiger Ablagerungen, die sich bei Anwesenheit von Luftsauerstoff bilden können. Bei „hydrierten“ Kerosinanteilen ist die Dosierung Pflicht (Substanzen: Polysubstituierte Phenole, maximal 24 mg/L).
+Metall-Deaktivatoren verhindern die durch Metalle (speziell Kupfer) katalysierte Oxidation des Kerosins (Substanz: N,N′-Disalicyliden-1,2-diaminopropan, max. 5,7 mg/L).
+Korrosionsschutzmittel verhindern Korrosion in den Tanks. Einige dieser Substanzen haben auch schmierfähigkeitsverbessernde Eigenschaften (Substanzen: langkettige Fettsäuren oder polysubstituierte Phenole, Dosierung: unbekannt).
+Vereisungsschutzmittel verhindern die Bildung von Wassereiskristallen, wenn das Kerosin bei Flügen in großen Höhen stark abgekühlt wird. Es beeinflusst nicht den Freezing Point, das heißt die Bildung von Paraffinkristallen bei niedrigen Temperaturen. Diese Substanzen haben auch biozide Wirkung (Substanzen: u. A. Diethylenglykolmonomethylether/DEGME, 0,10–0,15 %).
+Biozide werden erst beim Vorhandensein von Bakterien angewandt, dies wird in der Regel viertel- bis halbjährlich mittels Schnelltest geprüft. Dauerhafte Verwendung führt zu Resistenzen (Substanzen: u. A. Kathon: Chlormethylisothiazolinon, Methylisothiazolinon oder Octylisothiazolinon, Dosierung: 1 ppm).
+Wärmestabilisatoren (Thermal Stability Improver) kommen beim JP-8+100 zum Einsatz und verhindern/reduzieren die Zersetzung (Cracken) des Kerosins bei hohen Temperaturen (Substanzen: unbekannt, Dosierung: unbekannt).
+
+
+== Sorten (Spezifikation und Verwendung) ==
+
+
+=== Zivilluftfahrt ===
+
+
+==== Jet A ====
+Die gegenwärtig ausschließlich noch in den USA in Anwendung befindliche Treibstoffsorte Jet A entspricht der militärischen Spezifikation JP-1 mit einem Freezing Point bzw. Gefrierpunkt von −40 °C.
+
+Dichte: 0,775–0,825 kg/dm3
+Flammpunkt: +38 °C
+Gefrierpunkt: −40 °C
+
+
+==== Jet A-1 (NATO Code F-35) ====
+
+Heute wird in der internationalen zivilen Luftfahrt mit Ausnahme der USA fast ausschließlich die Spezifikation Jet A-1 (entspricht der militärischen Bezeichnung JP-1A) mit etwas niedrigerem Gefrierpunkt (−47 °C), aber identischem Flammpunkt und Siedebereich wie Jet A als Flugturbinenkraftstoff verwendet. Der NATO-Code ist F-35.
+Die militärische Luftfahrt der NATO verwendet den gleichen Grundkraftstoff unter der Bezeichnung Jet Propellant-8 (JP-8, NATO-Code F-34), wobei diesem für die militärische Anwendung noch spezielle Zusätze (Additive), wie Frostschutzmittel (Fuel System Icing Inhibitor, FSII), Korrosionsschutzmittel, Schmiermittel und antistatische Stoffe wie Dinonylnaphthylsulfonsäure zugegeben werden.
+
+Dichte: 0,775–0,825 kg/dm3
+Flammpunkt: +38 °C
+Gefrierpunkt: −47 °C
+
+
+==== Jet B ====
+Für Flüge in Regionen mit extrem niedrigen Temperaturen, wie zum Beispiel Alaska, Kanada und Sibirien, existieren noch die Sorten Jet B für den zivilen und JP-4 mit den entsprechenden Additiven für den militärischen Einsatz (Wide Cut Fuels), die aus 65 % Benzin- und 35 % Kerosinfraktionen bestehen und einen Gefrierpunkt von −60 °C haben. Die Triebwerke müssen jedoch für die Verwendung dieses Treibstoffes geeignet sein.
+
+Massendichte: 0,750–0,800 kg/dm3
+Energiedichte: 11,11 kWh/kg bzw. für übliche 0,796 kg/dm3 = 8,84 kWh/l.
+Flammpunkt +20 °C
+Gefrierpunkt −60 °C
+
+
+==== TS-1 ====
+Eine weitere Sorte mit einem Flammpunkt von 28 °C und ebenfalls einem Gefrierpunkt von −60 °C ist das gelegentlich noch in Osteuropa nach der russischen Spezifikation GOST 10227-62 verwendete TS-1.
+
+
+=== Militärluftfahrt ===
+
+
+==== JP-1 ====
+Die Spezifikation AN-F-32, die in den USA den Düsentreibstoff erstmals unter dem Namen JP-1 (engl.: Jet Propellant-1, so viel wie Düsentreibstoff 1) beschreibt, geht auf das Jahr 1944 zurück. Hauptnachteil des 1944 eingeführten Treibstoffes ist, dass er nur bis zu Temperaturen von −40 °C eingesetzt werden kann. Das heute obsolete JP-1 besaß einen Gefrierpunkt von maximal −60 °C und einen Flammpunkt von minimal 43 °C, hatte einen Siedebereich von ca. 180 bis 230 °C und war in die Gefahrklasse A II eingeordnet.
+
+
+==== JP-2, JP-3 ====
+Das 1945 eingeführte JP-2 sowie das 1947 eingeführte JP-3 sind heute obsolet. Sie waren sogenannte Wide Cut Fuels mit einem Gefrierpunkt von maximal −60 °C.
+
+
+==== JP-4 (NATO-Code F-40) ====
+Für Flüge in Regionen mit extrem niedrigen Temperaturen, wie zum Beispiel Alaska, Kanada und Sibirien, existieren noch die Sorten Jet B für den zivilen und JP-4 mit den entsprechenden Additiven für den militärischen Einsatz (Wide Cut Fuels), die aus 65 % Benzin- und 35 % Kerosinfraktionen bestehen und einen Gefrierpunkt von maximal −72 °C haben. Der NATO-Code für JP-4 ist F-40 (U.S. Military Specification MIL-DTL-5624U). Für einstrahlige Flugzeuge der deutschen Luftwaffe war aus Sicherheitsgründen F-40 die erste Wahl. Die Triebwerke müssen jedoch für die Verwendung dieses Treibstoffes geeignet sein. Viele militärische Triebwerke (z. B. das GE-J79) können durch eine Einstellung am Regler von (normal) F-40 auf (gelegentlich) F-34 relativ einfach umgestellt werden. Als 1951 eingeführter Betriebsstoff der US-Luftwaffe wurde JP-4 (F-40) ab etwa Herbst 1996 durch JP-8 ersetzt.
+
+
+==== JP-5 (NATO Code F-44) ====
+Die 1952 eingeführte Spezialsorte JP-5 mit besonders hohem Flammpunkt (Sicherheitskraftstoff, High Flashpoint Kerosene) wird aus Kostengründen nur für Bordflugzeuge und Bordhubschrauber verwendet. Sie hat einen Gefrierpunkt von maximal −46 °C. Verwendung findet der Kraftstoff insbesondere auf Flugzeugträgern. Das NATO Symbol ist F-44. Der Flammpunkt liegt bei 65 °C und ist damit fast 30 °C höher als bei dem Standardtreibstoff Jet A-1. Laut Sicherheitsexperten könnte mit der zivilen Verwendung von JP-5 die Explosions- und Brandgefahr in der Luftfahrt erheblich eingeschränkt werden.
+
+
+==== JP-6 ====
+Das heute obsolete JP-6 wurde 1956 für das XB-70-Programm eingeführt. JP-6 besaß eine höhere Energiedichte als JP-4 und hielt höhere Temperaturen als dieses aus. Es ist ähnlich wie JP-5, besitzt jedoch einen niedrigeren Gefrierpunkt von maximal −54 °C.
+
+
+==== JPTS ====
+Das ebenfalls 1956 eingeführte JPTS (Jet Propellant Thermally Stable) wurde bei einem Gefrierpunkt von maximal −53 °C sowie einem Flammpunkt von minimal 43 °C für höhere thermische Stabilität sowie als Höhentreibstoff ausgelegt. Er wird lediglich für das Spionageflugzeug Lockheed U-2 verwendet und auch heute noch in zwei Raffinerien in den USA hergestellt. Der Treibstoff kostet etwa das Dreifache von JP-8.
+
+
+==== JP-7 ====
+Eine weitere Spezialsorte ist das 1960 eingeführte, schwer entzündbare JP-7 für Flugzeuge, die hohe Überschallgeschwindigkeiten fliegen und sich dabei durch die Luftreibung stark erhitzen. Das einzige Flugzeug, das den Treibstoff verwendete, war die Lockheed SR-71. Der Treibstoff hat einen Gefrierpunkt von maximal −43 °C und einen Flammpunkt von minimal 60 °C. Die globale Bereitstellung des Sondertreibstoffes JP-7 für den weltweiten Einsatz der SR-71 und dabei im Besonderen die aufwändige Luftbetankungslogistik nur für einen einzelnen Flugzeugtyp war ein sehr hoher Betriebskostenfaktor und trug mit dazu bei, dass die SR-71 aus Kostengründen ausgemustert wurden.
+
+
+==== JP-8, JP-8+100 (NATO-Code F-34) ====
+Das 1979 auf einigen NATO-Basen eingeführte JP-8 hat ab 1996 das JP-4 ersetzt. Für die US-Luftwaffe wurde die Spezifikation 1990 festgelegt. Es wurde als schwerer entflammbarer Treibstoff entwickelt, der bis etwa 2025 genutzt werden soll. Der Treibstoff hat einen Gefrierpunkt von maximal −47 °C und einen Flammpunkt von minimal 38 °C. Sein NATO-Code lautet F-34.
+JP-8+100 ist eine 1998 eingeführte Weiterentwicklung von JP-8, die dessen thermische Stabilität um 100 °F (55,6 °C) erhöhen soll.
+
+
+== Verbrauch ==
+In Deutschland wurden 2015 ca. 8,5 Millionen Tonnen Flugturbinenkraftstoff (schwer) verbraucht. Da erheblich weniger Jet Fuel in Deutschland produziert wurde (5,2 Millionen Tonnen, s. o.), musste das Defizit durch Importe – hauptsächlich aus Rotterdam –gedeckt werden. Als Vergleich: Der Absatz an Petroleum belief sich auf eine verschwindend geringe Menge von 14.000 Tonnen.
+
+
+=== Einflussfaktoren auf den Kerosinverbrauch ===
+Flugzeugtyp und Triebwerke beeinflussen den Verbrauch des jeweiligen Fluggeräts. Im Verlauf der letzten Jahrzehnte ist zu beobachten, dass der Verbrauch moderner Verkehrsflugzeuge stetig sinkt. Die einzelnen Flugzeugtypen sind jeweils mit verschiedenen Triebwerken, vor allem der drei großen Hersteller General Electric Aircraft Engines, Pratt & Whitney und Rolls-Royce, verfügbar. Je nach Kombination von Flugzeugtyp und Triebwerk gibt es Unterschiede im Kerosinverbrauch einer Maschine.
+Das Gewicht eines Flugzeuges ist der zweite große Faktor beim Treibstoffverbrauch. Neben dem Gewicht des Fluggerätes selbst hängt dieses von der Bestuhlung, der Auslastung, der mitgeführten Kerosinmenge und der Frachtzuladung einer Maschine ab.
+Neben dem Fluggerät und dem Gewicht hat auch der Flugverlauf Einfluss auf den Treibstoffverbrauch. Hierbei spielt vorrangig die Distanz, die ein Flugzeug auf seinem Flug von Abflugs- zum Ankunftsort zurücklegt, eine große Rolle. Aufgrund des Luftstraßensystems mit der Streckenführung entlang sogenannter Waypoints entstehen Umwege, die den zurückzulegenden Weg eines Flugzeuges verlängern. An vielen Flughäfen mit überlasteten Slots müssen Flugzeuge vor dem Landen Warteschleifen fliegen. Die zu fliegende Distanz wird durch Umwege und Warteschleifen verlängert und verursacht somit einen erhöhten Treibstoffverbrauch.
+
+
+=== Möglichkeiten zur Kerosineinsparung ===
+Wegen des geringeren Verbrauchs von neuen Flugzeugtypen versuchen Fluggesellschaften, ihre alten Fluggeräte durch neue, treibstoffsparende Modelle zu ersetzen. Diese Flottenverjüngung birgt viel Potential zur Verringerung des Kerosinverbrauchs und spart dadurch langfristig Geld.
+Die Verbesserung der Infrastruktur durch den Single European Sky soll die Effizienz des Luftverkehrs in Europa deutlich steigern.
+Das Gewicht des Fluggerätes ist einer der ausschlaggebenden Einflussfaktoren auf den Kerosinverbrauch. Dies führt zu ständigen Bemühungen der Flugzeugbauer, durch neuentwickelte Werkstoffe das Gewicht der Flugzeuge zu reduzieren. Dabei werden in erster Linie Faserverbundwerkstoffe und vor allem kohlenstofffaserverstärkte Kunststoffe verwendet. Dadurch kann das Gewicht moderner Flugzeuge um bis zu 40 % verringert werden. Hat man sich früher nur an den Einsatz der Verbundwerkstoffe in Leitwerk, Tragflächen und ähnlichen Teilen des Flugzeuges gewagt, ist bei der neuen Generation von Flugzeugen auch ein Teil des Rumpfes aus den modernen Werkstoffen. Bei der neuesten Generation, z. B. Airbus A350 oder Boeing 787, sind bis zu 80 % der Flugzeugstruktur aus Faserverbundwerkstoffen hergestellt.
+Winglets sind eine Kerosinsparmaßnahme, die in den vergangenen Jahren weite Verbreitung in der Luftfahrt gefunden hat. Als Winglets bezeichnet man die vertikale Fortsetzung der Tragflächen. Sie sollen Luftverwirbelungen, die an den Spitzen der Tragflächen durch unterschiedliche Drücke auf der Ober- und Unterseite der Tragflächen entstehen, verkleinern. Die Verwirbelungen verringern den Auftrieb und induzieren Widerstand. Beides erhöht den Kerosinverbrauch.
+Eine weitere Möglichkeit zur Optimierung des Treibstoffverbrauchs ist der kontinuierliche Landesinkflug. Dabei bleibt das Flugzeug länger als beim konventionellen Landeanflug (englisch step descent; dt.: Stufenweises Sinken) auf Flughöhe und sinkt dann in einem gleichmäßigen Sinkflug zur Landung. Weil beim Sinkflug die Triebwerke im Leerlauf laufen, reduziert sich mit der Dauer des echten Sinkens der Treibstoffverbrauch.
+Auf kürzeren Distanzen (z. B. die meisten innereuropäischen Flüge) starten viele Passagierflugzeuge erst, wenn sie einen Landeslot auf dem Zielflughafen zugeteilt bekommen haben, was normalerweise Warteschleifen vermeidet.
+
+
+== Preise ==
+Die Preise für Jet A-1 (Handelsbezeichnung: Jet) orientieren sich am Rotterdamer Markt. Jet wird in US-Dollar je 1000 kg (US-$/t) gehandelt. Verschiedene Publikationsorgane wie Platts, ICIS Heren und O.M.R. berichten über aktuelle Handelspreise und Volumina. Die im Handel verwendete Referenzdichte (um den Preis einer aktuellen Charge mit einer gegebenen Dichte in Relation zu der Notierung zu setzen) ist 0,800 kg/l. Hier müssen insbesondere Transportkosten berücksichtigt werden.
+
+
+=== Preisentwicklung ===
+Ab dem Jahr 1986 bis zum Jahr 1999 ist der Kerosinpreis insgesamt von 17 $ auf 22 $ je Barrel angestiegen. Seit 2000 steigt der Kerosinpreis, seit 2004 steigt er sehr stark an.
+Die besondere Problematik der Kerosinpreisentwicklung im Jahr 2008 ist, dass innerhalb kurzer Zeit sowohl ein Rekordpreis als auch das niedrigste Niveau seit Juli 2004 erreicht wurde. Der Rekordpreis von 169,57 $ je Barrel war im Juli 2008 zu verzeichnen. Innerhalb von nur sieben Monaten fiel der Preis auf 53,52 $ je Barrel im Februar 2009. 
+Im Mai 2020 lag der Preis für Kerosin bedingt durch den Preisverfall am Rohölmarkt durchschnittlich nur noch bei 17,22 $ je Barrel.
+
+
+=== Steuern ===
+
+Jet A-1, wie auch AvGas, ist für gewerblich operierende Luftfahrtunternehmen nicht dem (deutschen) Energiesteuergesetz und damit auch nicht der (deutschen) Ökosteuer unterworfen. Lediglich in der Privatfliegerei und für im Werkverkehr eingesetzte gewerbliche Flugzeuge ist jede Sorte Flugzeugtreibstoff energiesteuerpflichtig (654 € je 1000 l Kerosin; also umgerechnet 104 € je Barrel).
+
+
+== Siehe auch ==
+Fuel Dumping, Ablassen von Kerosin während eines Flugs
+Kerosinpilz, Pilz, der u. a. von Kerosin lebt und zu Problemen in Tanks und Treibstoffleitungen etc. führen kann
+
+
+== Weblinks ==
+
+Additive von Jet, S. 29 (PDF)
+History of Jet Fuel
+Kerosene Fuel Primer
+
+
+== Einzelnachweise ==

@@ -1,0 +1,2596 @@
+Akselerasjon er i fysikken endringen av hastigheten til et legeme med hensyn på tiden. Et legemes akselerasjon er netto resultat av alle de krefter som virker på legemet, som beskrevet av Newtons andre lov. SI-enhet for akselerasjon er meter per sekund i andre potens (m/s2), eller meter per sekund per sekund.
+I dagligtale er akselerasjon relatert til endring av fart. For eksempel, akselererer en bil når den øker farten fra en 50-sone til en 60-sone. Men akselerasjon i fysikken er også definert som endring av retningen til et legeme i bevegelse. Dermed akselererer bilen også når den kjører gjennom en kurve, selv om speedometret viser konstant hastighet. På grunn av dette brukes vektorer når akselerasjon skal behandles matematisk. Negativ akselerasjon, (Bremser_(kjøretøy)|bremsing) henvises ofte til som retardasjon (fra latin, «forsinkelse»).
+
+
+== Definisjon og beskrivelse ==
+
+
+=== Gjennomsnittlig akselerasjon ===
+Et legemes gjennomsnittlige akselerasjon 
+  
+    
+      
+        
+          
+            
+              a
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {a}}}
+   over en tidsperiode er dets forandring av fart 
+  
+    
+      
+        Δ
+        
+          v
+        
+      
+    
+    {\displaystyle \Delta \mathbf {v} }
+   dividert med varigheten av perioden 
+  
+    
+      
+        Δ
+        t
+      
+    
+    {\displaystyle \Delta t}
+   som uttrykkes:
+
+  
+    
+      
+        
+          
+            
+              a
+              ¯
+            
+          
+        
+        =
+        
+          
+            
+              
+                v
+                
+                  2
+                
+              
+              −
+              
+                v
+                
+                  1
+                
+              
+            
+            
+              
+                t
+                
+                  2
+                
+              
+              −
+              
+                t
+                
+                  1
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              Δ
+              v
+            
+            
+              Δ
+              t
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\bar {a}}={\frac {v_{2}-v_{1}}{t_{2}-t_{1}}}={\frac {\Delta v}{\Delta t}},}
+  der 
+  
+    
+      
+        
+          v
+          
+            1
+          
+        
+      
+    
+    {\displaystyle v_{1}}
+   og 
+  
+    
+      
+        
+          v
+          
+            2
+          
+        
+      
+    
+    {\displaystyle v_{2}}
+   er hastigheten ved henholdsvis start og enden av perioden, og 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+      
+    
+    {\displaystyle t_{1}}
+   og 
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle t_{2}}
+   er tiden ved henholdsvis start og enden av den samme perioden.
+På samme måte er fartens gjennomsnittsverdi 
+  
+    
+      
+        
+          
+            
+              v
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {v}}}
+   over en tidsperiode, forandring av posisjon (vei) 
+  
+    
+      
+        Δ
+        
+          s
+        
+      
+    
+    {\displaystyle \Delta \mathbf {s} }
+   dividert med varigheten av perioden 
+  
+    
+      
+        Δ
+        t
+      
+    
+    {\displaystyle \Delta t}
+   som uttrykkes:
+
+  
+    
+      
+        
+          
+            
+              v
+              ¯
+            
+          
+        
+        =
+        
+          
+            
+              
+                s
+                
+                  2
+                
+              
+              −
+              
+                s
+                
+                  1
+                
+              
+            
+            
+              
+                t
+                
+                  2
+                
+              
+              −
+              
+                t
+                
+                  1
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              Δ
+              s
+            
+            
+              Δ
+              t
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\bar {v}}={\frac {s_{2}-s_{1}}{t_{2}-t_{1}}}={\frac {\Delta s}{\Delta t}},}
+  der 
+  
+    
+      
+        
+          s
+          
+            1
+          
+        
+      
+    
+    {\displaystyle s_{1}}
+   og 
+  
+    
+      
+        
+          s
+          
+            2
+          
+        
+      
+    
+    {\displaystyle s_{2}}
+   henholdsvis posisjonene ved start og enden av den samme tidsperioden.
+
+Eksempel på beregning for å finne endringen av hastighetenEn bil beveger seg ved tiden 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+        =
+        0
+        
+        
+          s
+        
+      
+    
+    {\displaystyle t_{1}=0\,\mathrm {s} }
+   med en hastighet på 
+  
+    
+      
+        
+          v
+          
+            1
+          
+        
+        =
+        10
+        
+        
+          
+            
+              m
+              s
+            
+          
+        
+      
+    
+    {\displaystyle v_{1}=10\,\mathrm {\tfrac {m}{s}} }
+   på veien (eller 36 km/h). Ti sekunder senere, ved tiden 
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+        =
+        10
+        
+        
+          s
+        
+      
+    
+    {\displaystyle t_{2}=10\,\mathrm {s} }
+  , er hastigheten økt til 
+  
+    
+      
+        
+          v
+          
+            2
+          
+        
+        =
+        30
+        
+        
+          
+            
+              m
+              s
+            
+          
+        
+      
+    
+    {\displaystyle v_{2}=30\,\mathrm {\tfrac {m}{s}} }
+   (eller 108 km/t). Hva er bilens gjennomsnittelige akselerasjon? 
+Den gjennomsnittlige akselerasjon av bilen i dette tidsintervallet finnes slik:
+
+  
+    
+      
+        
+          a
+          
+            g
+            j
+          
+        
+        =
+        
+          
+            
+              
+                v
+                
+                  2
+                
+              
+              −
+              
+                v
+                
+                  1
+                
+              
+            
+            
+              
+                t
+                
+                  2
+                
+              
+              −
+              
+                t
+                
+                  1
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              30
+              −
+              10
+            
+            
+              10
+              −
+              0
+            
+          
+        
+        =
+        2
+        
+        
+          
+            m
+            
+              s
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle a_{gj}={\frac {v_{2}-v_{1}}{t_{2}-t_{1}}}={\frac {30-10}{10-0}}=2\,\mathrm {\frac {m}{s^{2}}} }
+  Hastigheten har altså gjennomsnittlig endret seg 2 m/s (eller 7,2 km/h) over de ti sekundene.
+
+
+=== Momentant akselerasjon ===
+
+Momentan akselerasjon er grenseverdien av gjennomsnittlig akselerasjon over et uendelig lite (infinitesimal) tidsintervall. Det vil si at om en vil finne akselerasjonen i posisjon 1 der hastigheten er 
+  
+    
+      
+        
+          v
+          
+            1
+          
+        
+      
+    
+    {\displaystyle v_{1}}
+   lar en målepunktet for posisjon 2 der hastigheten er 
+  
+    
+      
+        
+          v
+          
+            2
+          
+        
+      
+    
+    {\displaystyle v_{2}}
+  , og tilhørerne tidspunkter 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+      
+    
+    {\displaystyle t_{1}}
+   og 
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle t_{2}}
+  , komme nærmere og nærmere posisjon 1. Slik blir den gjennomsnittlige akselerasjonen 
+  
+    
+      
+        
+          
+            
+              a
+              ¯
+            
+          
+        
+        =
+        
+          
+            
+              Δ
+              v
+            
+            
+              Δ
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {a}}={\frac {\Delta v}{\Delta t}}}
+   en stadig mindre hastighetsendring over et stadig mindre tidsintervall. Det innebærer at 
+  
+    
+      
+        Δ
+        v
+      
+    
+    {\displaystyle \Delta v}
+   og 
+  
+    
+      
+        Δ
+        t
+      
+    
+    {\displaystyle \Delta t}
+   blir stadig mindre, men forholdet mellom dem blir nødvendigvis ikke lite. I matematikken sier en at grenseverdien av 
+  
+    
+      
+        
+          
+            
+              Δ
+              v
+            
+            
+              Δ
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\Delta v}{\Delta t}}}
+   når 
+  
+    
+      
+        Δ
+        t
+      
+    
+    {\displaystyle \Delta t}
+   går mot null er den deriverte av farten med hensyn på tiden:
+
+  
+    
+      
+        a
+        =
+        
+          lim
+          
+            
+              Δ
+              t
+            
+            →
+            0
+          
+        
+        
+          
+            
+              Δ
+              v
+            
+            
+              Δ
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+              v
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle a=\lim _{{\Delta t}\to 0}{\frac {\Delta v}{\Delta t}}={\frac {dv}{dt}}}
+  En sier at momentan akselerasjon er den momentane hastighetsendringen over tid.På samme måte defineres momentan hastighet som grenseverdien av den gjennomsnittlige hastigheten når tidsintervallet går mot null. Altså den momentane endring av posisjon over tid:
+
+  
+    
+      
+        v
+        =
+        
+          lim
+          
+            
+              Δ
+              t
+            
+            →
+            0
+          
+        
+        
+          
+            
+              Δ
+              s
+            
+            
+              Δ
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+              s
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle v=\lim _{{\Delta t}\to 0}{\frac {\Delta s}{\Delta t}}={\frac {ds}{dt}}}
+  Integralet av funksjonen som beskriver akselerasjonen a(t) er hastighetsfunksjonen v(t), det vil si arealet under kurven for en funksjon som beskriver akselerasjon i forhold til tiden  (a versus t) svarer til hastigheten.
+
+  
+    
+      
+        v
+        =
+        ∫
+        a
+         
+        d
+        t
+      
+    
+    {\displaystyle v=\int a\ dt}
+  Akselerasjonen kan også tolkes som den annenderiverte av posisjonen s i forhold til tiden t:
+
+  
+    
+      
+        a
+        =
+        
+          
+            
+              d
+              v
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              s
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle a={\frac {dv}{dt}}={\frac {d^{2}s}{dt^{2}}}}
+  
+
+
+=== Konstant akselerasjon ===
+
+Konstant akselerasjon er en type bevegelse der hastigheten til et legeme endres konstant innenfor ethvert likt tidsintervall. Et typisk eksempel på jevn akselerasjon er et legeme i fritt fall i et homogent gravitasjonsfelt. Akselerasjonen av et fallende legeme i fravær av motstand mot bevegelsen er avhengig bare av gravitasjonsfeltetsstyrken g, også kalt tyngdeakselerasjonen.
+Generelt er det enkle analytiske egenskaper som gjelder ved konstant akselerasjon, dermed er det også enkle formler som gjelder for medgått vei, start- og tidsavhengig hastigheter, samt akselerasjon ved medgått tid:
+
+  
+    
+      
+        s
+        =
+        
+          s
+          
+            0
+          
+        
+        +
+        
+          v
+          
+            0
+          
+        
+        t
+        +
+        
+          
+            
+              1
+              2
+            
+          
+        
+        a
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle s=s_{0}+v_{0}t+{\tfrac {1}{2}}at^{2}}
+  
+
+  
+    
+      
+        v
+        =
+        
+          v
+          
+            0
+          
+        
+        +
+        a
+        t
+      
+    
+    {\displaystyle v=v_{0}+at}
+  
+
+  
+    
+      
+        
+          v
+          
+            2
+          
+        
+        =
+        
+          
+            
+              v
+              
+                0
+              
+            
+          
+          
+            2
+          
+        
+        +
+        2
+        a
+        ⋅
+        (
+        s
+        −
+        
+          s
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle v^{2}={v_{0}}^{2}+2a\cdot (s-s_{0})}
+  der:
+
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   er medgått tid,
+
+  
+    
+      
+        
+          s
+          
+            0
+          
+        
+      
+    
+    {\displaystyle s_{0}}
+   er posisjonen ved start,
+
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   er forflytningen fra utgangspunktet etter tiden 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  ,
+
+  
+    
+      
+        
+          v
+          
+            0
+          
+        
+      
+    
+    {\displaystyle v_{0}}
+   er farten ved start,
+
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   er farten ved tidspunktet 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  , og
+
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   er akselerasjonen.Eksempel på bevegelse med konstant akselerasjonFra toppen av det skjeve tårn i Pisa slippes en kule, hva er dens posisjon (tilbakelagt strekning fra toppen) og hastighet etter 2 sekunder? Forutsett at den faller fritt og at begynnelseshastigheten er null. 
+Likningene over benyttes, der a erstattes med tyngdeakselrasjonen g først for å finne et uttrykk for tilbakelagt strekning:
+
+  
+    
+      
+        s
+        =
+        
+          s
+          
+            0
+          
+        
+        +
+        
+          v
+          
+            0
+          
+        
+        t
+        +
+        
+          
+            
+              1
+              2
+            
+          
+        
+        a
+        
+          t
+          
+            2
+          
+        
+        =
+        0
+        +
+        0
+        +
+        
+          
+            1
+            2
+          
+        
+        (
+        −
+        g
+        )
+        
+          t
+          
+            2
+          
+        
+        =
+        (
+        −
+        4
+        ,
+        9
+        m
+        
+          /
+        
+        
+          s
+          
+            2
+          
+        
+        )
+        
+          t
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle s=s_{0}+v_{0}t+{\tfrac {1}{2}}at^{2}=0+0+{\frac {1}{2}}(-g)t^{2}=(-4,9m/s^{2})t^{2},}
+  og etter 2 sekunder blir tilbakelagt strekning:
+
+  
+    
+      
+        s
+        =
+        (
+        −
+        4
+        ,
+        9
+         
+        m
+        
+          /
+        
+        
+          s
+          
+            2
+          
+        
+        )
+        
+          2
+          
+            2
+          
+        
+        =
+        −
+        19
+        ,
+        6
+         
+        m
+      
+    
+    {\displaystyle s=(-4,9\ m/s^{2})2^{2}=-19,6\ m}
+  Og et uttrykk for hastigheten blir slik:
+
+  
+    
+      
+        v
+        =
+        
+          v
+          
+            0
+          
+        
+        +
+        a
+        t
+        =
+        0
+        +
+        (
+        −
+        g
+        )
+        t
+        =
+        (
+        −
+        9
+        ,
+        8
+         
+        m
+        
+          /
+        
+        
+          s
+          
+            2
+          
+        
+        )
+        t
+      
+    
+    {\displaystyle v=v_{0}+at=0+(-g)t=(-9,8\ m/s^{2})t}
+  Etter 2 sekunder er hastigheten:
+
+  
+    
+      
+        v
+        =
+        (
+        −
+        9
+        ,
+        8
+         
+        m
+        
+          /
+        
+        
+          s
+          
+            2
+          
+        
+        )
+        2
+        s
+        =
+        19
+        ,
+        6
+         
+        m
+        
+          /
+        
+        s
+      
+    
+    {\displaystyle v=(-9,8\ m/s^{2})2s=19,6\ m/s}
+  
+
+
+=== Akselerasjon med endring av retning ===
+
+Når en bil starter fra stillstand (null relativ hastighet) og beveger seg i en rett linje ved økende hastighet, akselererer den i bevegelsesretningen. Hvis bilen svinger, er det en akselerasjon mot den nye retningen. I dette eksempel kalles akselerasjonen fremover av bilen en lineær akselerasjon. Passasjerene i bilen kan oppleve en kraft som skyver dem tilbake i sine seter. Når bilen skifter retning i en kurve, kalles dette ikke-lineær akselerasjon, noe som passasjerene kan oppleve som en sidelengs kraft. Dersom hastigheten på bilen avtar, er dette en akselerasjon i motsatt retning av bilens kjøreretning, noen ganger kalt retardasjon. Passasjerer kan oppleve retardasjon som en kraft som forsøker å løfte dem fremover i kjøretøyet. Matematisk er det ingen separat formel for retardasjon: begge uttrykker endringer av hastigheten. Hver av disse typene av akselerasjon (lineære, ikke-lineære, retardasjon) kan føles av passasjerene inntil deres hastighet (hastighet og retning) stemmer overens med bilens hastighet.
+Akselerasjon og hastighet behandles på grunn av dette ofte matematisk som vektorstørrelser, hvilket vil si at de har både en størrelse og retning, og kan adderes etter parallellogramloven. Si at et legeme beveger seg fra posisjonen 1 til 2 og at hastigheten i løpet av tiden fra 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+      
+    
+    {\displaystyle t_{1}}
+   til 
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle t_{2}}
+   har endret seg i både retning og størrelse. Den vektorielle endringen av hastigheten er da: 
+  
+    
+      
+        Δ
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                v
+                
+                  2
+                
+              
+              →
+            
+          
+        
+        −
+        
+          
+            
+              
+                v
+                
+                  1
+                
+              
+              →
+            
+          
+        
+      
+    
+    {\displaystyle \Delta {\vec {v}}={\vec {v_{2}}}-{\vec {v_{1}}}}
+   og den gjennomsnittlige vektorielle akselerasjonen i tidsintervallet 
+  
+    
+      
+        Δ
+        
+          t
+        
+        =
+        
+          
+            t
+            
+              2
+            
+          
+        
+        −
+        
+          
+            t
+            
+              1
+            
+          
+        
+      
+    
+    {\displaystyle \Delta {t}={t_{2}}-{t_{1}}}
+  :
+
+  
+    
+      
+        
+          
+            
+              
+                a
+                
+                  g
+                  j
+                
+              
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  
+                    
+                      v
+                      
+                        1
+                      
+                    
+                    →
+                  
+                
+              
+              −
+              
+                
+                  
+                    
+                      v
+                      
+                        0
+                      
+                    
+                    →
+                  
+                
+              
+            
+            
+              
+                t
+                
+                  1
+                
+              
+              −
+              
+                t
+                
+                  0
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              Δ
+              
+                
+                  
+                    a
+                    →
+                  
+                
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\vec {a_{gj}}}={\frac {{\vec {v_{1}}}-{\vec {v_{0}}}}{t_{1}-t_{0}}}={\frac {\Delta {\vec {a}}}{\Delta t}},}
+  Gjennomsnittlig akselerasjon er en vektor med samme retning som den vektorielle gjennomsnittlige hastighet. Den momentane vektorielle akselerasjon blir definert på samme måte som akselerasjon for forandring av fart, altså:
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          lim
+          
+            
+              Δ
+              t
+            
+            →
+            0
+          
+        
+        
+          
+            
+              Δ
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\vec {a}}=\lim _{{\Delta t}\to 0}{\frac {\Delta {\vec {v}}}{\Delta t}}={\frac {d{\vec {v}}}{dt}},}
+  altså den deriverte av hastighetsvektoren 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+   med hensyn på tiden t. 
+Det er vanlig å betrakte fart bare som en absoluttverdi, mens hastighet beskrives både som størrelse og retning, altså en størrelse som beskrives som en vektor.Bevegelse og akselerasjon kan også være noe som skjer i tre dimensjoner, altså ikke en hendelse i planet, men i rommet, dermed er det vanlig å dekomponere akselerasjonen i x-, y- og z-komponenter. For momentan akselerasjon blir definisjonen av disse komponentene:
+
+  
+    
+      
+        
+          a
+          
+            x
+          
+        
+        =
+        
+          
+            
+              d
+              
+                v
+                
+                  x
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        ,
+         
+        
+          a
+          
+            y
+          
+        
+        =
+        
+          
+            
+              d
+              
+                v
+                
+                  y
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+         
+        o
+        g
+         
+        
+          a
+          
+            z
+          
+        
+        =
+        
+          
+            
+              d
+              
+                v
+                
+                  z
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle a_{x}={dv_{x} \over dt},\ a_{y}={dv_{y} \over dt}\ og\ a_{z}={dv_{z} \over dt},}
+  der 
+  
+    
+      
+        
+          v
+          
+            x
+          
+        
+      
+    
+    {\displaystyle v_{x}}
+  , 
+  
+    
+      
+        
+          v
+          
+            y
+          
+        
+      
+    
+    {\displaystyle v_{y}}
+   og 
+  
+    
+      
+        
+          v
+          
+            z
+          
+        
+      
+    
+    {\displaystyle v_{z}}
+   er hastigheten i henholdsvis x-, y- og z-retningene.
+Uttrykt med enhetsvektorer blir dette en akselerasjonsvektor slik:
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                v
+                
+                  x
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        
+          i
+        
+        +
+        
+          
+            
+              d
+              
+                v
+                
+                  y
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        
+          j
+        
+        +
+        
+          
+            
+              d
+              
+                v
+                
+                  z
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        
+          k
+        
+      
+    
+    {\displaystyle {\vec {a}}={dv_{x} \over dt}\mathbf {i} +{dv_{y} \over dt}\mathbf {j} +{dv_{z} \over dt}\mathbf {k} }
+  der i, j og k er enhetsvektorene i henholdsvis x-, y- og z-retningene.
+Siden hver av akselerasjonskomponentene er den dobbeltderiverte av strekningen kan dette også uttrykkes:
+
+  
+    
+      
+        
+          a
+          
+            x
+          
+        
+        =
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                s
+                
+                  x
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        ,
+         
+        
+          a
+          
+            y
+          
+        
+        =
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                s
+                
+                  y
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+         
+        o
+        g
+         
+        
+          a
+          
+            z
+          
+        
+        =
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                s
+                
+                  z
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle a_{x}={d^{2}s_{x} \over dt},\ a_{y}={d^{2}s_{y} \over dt}\ og\ a_{z}={d^{2}s_{z} \over dt},}
+  der 
+  
+    
+      
+        
+          s
+          
+            x
+          
+        
+      
+    
+    {\displaystyle s_{x}}
+  , 
+  
+    
+      
+        
+          s
+          
+            y
+          
+        
+      
+    
+    {\displaystyle s_{y}}
+   og 
+  
+    
+      
+        
+          s
+          
+            z
+          
+        
+      
+    
+    {\displaystyle s_{z}}
+   er hastigheten i henholdsvis x-, y- og z-retningene. Og akselerasjonsvektoren blir etter dette:
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                s
+                
+                  x
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        
+          i
+        
+        +
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                s
+                
+                  y
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        
+          j
+        
+        +
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                s
+                
+                  z
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        
+          k
+        
+        ,
+      
+    
+    {\displaystyle {\vec {a}}={d^{2}s_{x} \over dt}\mathbf {i} +{d^{2}s_{y} \over dt}\mathbf {j} +{d^{2}s_{z} \over dt}\mathbf {k} ,}
+  
+
+
+== Tangential og sentripetalakselerasjon ==
+
+Hastigheten til et legeme som beveger seg i en buet bane som en funksjon av tiden kan skrives som:
+
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        (
+        t
+        )
+        =
+        v
+        (
+        t
+        )
+        
+          
+            
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+              (
+              t
+              )
+            
+            
+              v
+              (
+              t
+              )
+            
+          
+        
+        =
+        v
+        (
+        t
+        )
+        
+          
+            
+              
+                u
+                →
+              
+            
+          
+          
+            
+              t
+            
+          
+        
+        (
+        t
+        )
+        ,
+      
+    
+    {\displaystyle {\vec {v}}(t)=v(t){\frac {{\vec {v}}(t)}{v(t)}}=v(t){\vec {u}}_{\mathrm {t} }(t),}
+  med v(t) som er lik hastigheten for bevegelse langs banen, og: 
+
+  
+    
+      
+        
+          
+            
+              
+                u
+                →
+              
+            
+          
+          
+            t
+          
+        
+        =
+        
+          
+            
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+              (
+              t
+              )
+            
+            
+              v
+              (
+              t
+              )
+            
+          
+        
+         
+        ,
+      
+    
+    {\displaystyle {\vec {u}}_{t}={\frac {{\vec {v}}(t)}{v(t)}}\ ,}
+  som er en tangentiell enhetsvektor til banen som peker i bevegelsesretningen på det valgte øyeblikk i tid. Tatt i betraktning både skiftende hastighet 
+  
+    
+      
+        v
+        (
+        t
+        )
+      
+    
+    {\displaystyle v(t)}
+   og skiftende retning av 
+  
+    
+      
+        
+          
+            
+              
+                u
+                →
+              
+            
+          
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\vec {u}}_{t}}
+  , kan akselerasjonen til en partikkel som beveger seg i en buet bane, skrives med kjerneregelen for derivering for et produkt av to funksjoner av tid som:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      a
+                      →
+                    
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        d
+                      
+                      
+                        
+                          
+                            v
+                            →
+                          
+                        
+                      
+                    
+                    
+                      
+                        d
+                      
+                      t
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        d
+                      
+                      v
+                    
+                    
+                      
+                        d
+                      
+                      t
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        u
+                        →
+                      
+                    
+                  
+                  
+                    
+                      t
+                    
+                  
+                
+                +
+                v
+                (
+                t
+                )
+                
+                  
+                    
+                      d
+                      
+                        
+                          
+                            
+                              u
+                              →
+                            
+                          
+                        
+                        
+                          
+                            t
+                          
+                        
+                      
+                    
+                    
+                      d
+                      t
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        d
+                      
+                      v
+                    
+                    
+                      
+                        d
+                      
+                      t
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        u
+                        →
+                      
+                    
+                  
+                  
+                    
+                      t
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      v
+                      
+                        2
+                      
+                    
+                    r
+                  
+                
+                
+                  
+                    
+                      
+                        u
+                        →
+                      
+                    
+                  
+                  
+                    
+                      n
+                    
+                  
+                
+                 
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{alignedat}{3}{\vec {a}}&={\frac {\mathrm {d} {\vec {v}}}{\mathrm {d} t}}\\&={\frac {\mathrm {d} v}{\mathrm {d} t}}{\vec {u}}_{\mathrm {t} }+v(t){\frac {d{\vec {u}}_{\mathrm {t} }}{dt}}\\&={\frac {\mathrm {d} v}{\mathrm {d} t}}{\vec {u}}_{\mathrm {t} }+{\frac {v^{2}}{r}}{\vec {u}}_{\mathrm {n} }\ ,\\\end{alignedat}}}
+  der 
+  
+    
+      
+        
+          
+            
+              
+                u
+                →
+              
+            
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle {\vec {u}}_{n}}
+   er enhetsnormalvektoren (innover) til legemets bane (også kalt hovednormalen), og r er dens momentane kurveradius basert på den aktuelle krumningssirkelen for tidspunktet t. Disse komponentene blir kalt henholdsvis tangentiell akselerasjon og normal- eller radiell akselerasjon (eller sentripetalakselerasjon i sirkulær bevegelse).
+
+
+=== Sirkelbevegelse ===
+
+Uniform sirkulær bevegelse vil si at det er konstant fart langs en sirkulær bane, som er et eksempel på at et legeme akselererer. Selv om farten er konstant, endrer retningen av hastigheten seg konstant. Retningen av legemets bevegelse er tangentiell til sirkelen, og er en vektor som er i stadig forandring. Denne akselerasjonen er en radial akselerasjon 
+  
+    
+      
+        
+          a
+          
+            r
+            a
+            d
+          
+        
+      
+    
+    {\displaystyle a_{rad}}
+   siden det alltid er rettet mot midten av sirkelen. Absoluttverdien uttrykkes:
+
+  
+    
+      
+        
+          a
+          
+            r
+            a
+            d
+          
+        
+        =
+        
+          
+            
+              
+                v
+                
+                  2
+                
+              
+            
+            
+              r
+            
+          
+        
+      
+    
+    {\displaystyle a_{rad}={{v^{2}} \over {r}}}
+  der 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   er legemets lineære fart langs den sirkulære bane og 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   er radius til sirkelbanen. Denne størrelsen kan også beregnes ut fra legemets vinkelhastighet 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+  :
+
+  
+    
+      
+        
+          a
+          
+            r
+            a
+            d
+          
+        
+        =
+        
+          
+            ω
+            
+              2
+            
+          
+        
+        r
+      
+    
+    {\displaystyle a_{rad}={\omega ^{2}}r}
+  Med ikke-uniform sirkulær bevegelse menes at hastighet langs den sirkulære banen endres, dette betyr at det også virker en akselerasjon som er parallell med den momentane hastigheten. Denne akselerasjonen er i tillegg en tangent til sirkelbanen. Denne komponenten 
+  
+    
+      
+        
+          a
+          
+            t
+            a
+            n
+          
+        
+      
+    
+    {\displaystyle a_{tan}}
+   uttrykkes:
+
+  
+    
+      
+        
+          a
+          
+            t
+            a
+            n
+          
+        
+        =
+        
+          
+            
+              d
+              
+                |
+              
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+              
+                |
+              
+            
+            
+              r
+            
+          
+        
+      
+    
+    {\displaystyle a_{tan}={d|{\vec {v}}| \over {r}}}
+  der 
+  
+    
+      
+        
+          |
+        
+        
+          
+            
+              v
+              →
+            
+          
+        
+        
+          |
+        
+      
+    
+    {\displaystyle |{\vec {v}}|}
+   er absoluttverdien av hastighetsvektoren, altså farten. En annen sammenheng som gjelder for farten og periodetiden 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  , altså tiden for legemet å gjennomløpe en runde i sirkelbanen:
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              2
+              π
+              r
+            
+            
+              T
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle v={2\pi r \over {T}},}
+  og ved å sette denne sammenheng inn i formelen for radialakselerasjon over fås denne sammenhengen:
+
+  
+    
+      
+        
+          a
+          
+            r
+            a
+            d
+          
+        
+        =
+        
+          
+            
+              4
+              
+                π
+                
+                  2
+                
+              
+              r
+            
+            
+              T
+              
+                2
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle a_{rad}={4\pi ^{2}r \over T^{2}},}
+  Denne akselerasjonskomponenten kan også finnes ut fra vinkelhastigheten, den er proporsjonal med endring av vinkelhastigheten rundt sirkelen ganger radius r:
+
+  
+    
+      
+        
+          a
+          
+            t
+            a
+            n
+          
+        
+        =
+        
+          
+            ω
+            
+              2
+            
+          
+        
+        r
+      
+    
+    {\displaystyle a_{tan}={\omega ^{2}}r}
+  
+
+
+== Sammenheng mellom akselerasjon og kraft ==
+Ved anvendelse av Newtons andre lov på kraften F, kan en finne en sammenheng mellom akselerasjon og kraften som virker på et legeme:
+
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+        =
+        m
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\vec {F}}=m{\vec {a}},}
+  der m er massen av legemet.
+Akselerasjonen og nettokraften som virker på et legeme i uniform sirkulær bevegelse er rettet mot midten av sirkelen. Denne kraften er kalt sentripetalkraften. Mens den såkalte sentrifugalkraften som synes å opptre i motsatt retning på legemet, er i virkeligheten en fiktiv kraft som kun oppleves i selve referansesystemet til et legeme i sirkulær bevegelse.Størrelsen av nettokraften som virker på et legeme i uniform sirkulær bevegelse er gitt av:
+
+  
+    
+      
+        F
+        =
+        m
+        
+          a
+          
+            r
+            a
+            d
+          
+        
+        =
+        m
+        
+          
+            
+              v
+              
+                2
+              
+            
+            r
+          
+        
+        ,
+      
+    
+    {\displaystyle F=ma_{rad}=m{v^{2} \over r},}
+  der størrelsene er de samme som før.
+
+
+== Ekvivalensprinsippet og generell relativitet ==
+
+Ekvivalensprinsippet sier at det ikke er noe gravitasjonsfelt i et fritt fallende referansesystem. Det går tilbake til betraktningene til Galileo Galilei og Isaac Newton, som erkjente at alle legemer som akselererer på grunn av gravitasjon, gjør det uavhengig av deres masse. En observatør i et laboratorium kan ikke avgjøre om hennes eller hans laboratorium er i vektløs tilstand eller befinner seg i fritt fall. Observatøren kan heller ikke fastslå om laboratoriet flyttes med jevn akselerasjon, eller om det er i et eksternt homogent gravitasjonsfelt som virker gjennom det (for eksempel at laboratoriet står på jorden).
+
+
+== Eksempler på størrelsen av akselerasjon ==
+Størrelsen av typiske akselerasjoner fra hverdagen og fra universet:
+
+Et passasjertog oppnår typisk en akselerasjon på cirka 0,5 m/s2,
+I løpet av de første stegene i en sprint kan akselerasjoner på cirka 4 m/s2 oppnås for en utøver.
+Ved kulestøt oppstår en akselerert kastfase på cirka 10 m/s2.
+I en vaskemaskin virker det en akselerasjon på mer enn 3000 m/s2 på klærne i trommelen.
+Nålen i en symaskin kan komme opp i akselerasjoner på 60 000 m/s2
+Tyngdens akselerasjon på overflaten av en nøytronstjerne er 2·1011 m/s2
+
+
+== Se også ==
+Treghet
+Akselerometer
+Høyereordens deriverte av posisjon
+
+
+== Referanser ==
+
+
+== Litteratur ==
+Hugo D. Young og Roger A. Freedman (2008). University Physics (engelsk) (XII utg.). Addison Wesley. ISBN 978-0-321-50130-1. Lien, Jan R. (2000). Mekanikk. Bergen: Fysisk institutt, Universitetet i Bergen. 
+
+
+== Eksterne lenker ==
+(en) Acceleration – kategori av bilder, video eller lyd på Commons
+
+Measurespeed.com – Akselerasjons kalkulator.

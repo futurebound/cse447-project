@@ -1,0 +1,40 @@
+Auringon säteily on Auringon säteilemää sähkömagneettista säteilyä. Tämän lisäksi Aurinko "säteilee" hiukkasia muodostaen nk. aurinkotuulta. Sähkömagneettinen säteily vapautuu Auringon ytimessä tapahtuvissa fuusioreaktioissa. Säteilyn spektri on lähellä 5 800 K mustan kappaleen säteilyä. Noin puolet säteilystä on näkyvää valoa ja toinen puoli infrapunasäteilyä. Siinä on myös jonkin verran ultraviolettisäteilyä.
+Auringon säteilyä mitataan pyranometrillä tai pyrheliometrillä.
+Auringon säteilyn määrä tiettyyn maantieteelliseen paikkaan riippuu vuodenajasta ja vuorokauden ajasta. Tähän vaikuttaa merkittävästi Maan kallistuskulman asento Aurinkoon nähden ja pyöriminen Auringon ympäri. Alueen ilmakehän sisältämät yhdisteet ja pilvisyys vaikuttavat maahan saapuvaan säteilyn määrään. Auringon säteilyn määrällä on merkittävä vaikutus kasvien ja eläinten elinolosuhteisiin. Auringon säteilyn määrä vaikuttaa myös aurinkoenergian tuotantomääriin.
+
+
+== Säteilyn merkitys maapallolle ja ihmiskunnalle ==
+
+Aurinko on maapallon merkittävin energianlähde, joka kasveissa tapahtuvan yhteyttämisen kautta tuottaa melkein kaiken eliökunnan kuluttamasta energiasta. Myös ihmisten fyysinen käyttövoima on Auringosta lähtöisin, sillä kaikki ravinto alkaen kasvikunnasta päättyen ravintoketjun ylimpiin lenkkeihin edustaa varastoitunutta aurinkoenergiaa. Ydinvoimaa sekä geotermistä ja vuorovesienergiaa lukuun ottamatta kaikki ihmiskunnan kuluttama energia on peräisin Auringon fuusioreaktioista eri väylien kautta.
+
+
+== Terveysvaikutukset ==
+Auringonvalo on Suomessa kesällä merkittävin D-vitamiinin lähde. Auringon UVB-säteily muuttaa ihon 7-dehydrokolesterolia D3-vitamiinin esiasteeksi. Ihmisen fysiologisen tarpeen ylittävä määrä kuitenkin hajoaa iholla auringonvalon vaikutuksesta, joten D-vitamiinin yliannostus auringosta ei ole mahdollinen. D-vitamiinisynteesin määrä on suurimmillaan päiväntasaajan lähellä, mutta Suomen leveysasteilla sitä tapahtuu vain kesäkuukausina ja silloinkin vain keskipäivän tienoilla.Auringonvalo vaikuttaa pimeähormoni melatoniinin eritykseen, joka on suurimmillaan öisin ja talvisin. Melatoniinilla on unettava vaikutus, joten auringonvalon puute päiväsaikaan voi aiheuttaa väsymystä ja häiritä uni-valverytmiä. Luonnollisen valon puute voi myös aiheuttaa kaamosmasennusta.Auringonvalo voi olla välttämätöntä lapsen silmän kehitykselle. Liian vähäinen auringonvalon saanti voi aiheuttaa likinäköisyyttä vähentämällä dopamiinin eritystä. Australialaisen Sydneyn yliopiston tutkimusryhmän mukaan pienten lasten tulisi viettää vähintään 10 tuntia viikossa kirkkaassa auringonvalossa, jotta heidän silmämunansa kehittyisivät normaalinmuotoisiksi ja lapset välttyisivät erilaisilta näköongelmilta.Voimakas auringonvalo voi paksuntaa ja ryppyynnyttää ihoa ajan myötä.
+Liian voimakkaalle ja pitkäaikaiselle auringonpaisteelle altistuminen voi polttaa ihon, mikä lisää melanooman riskiä. Toisaalta joissain tutkimuksissa on havaittu, että melanoomasta selviävät todennäköisimmin ne potilaat, jotka ovat saaneet elämänsä aikana eniten auringonvaloa. Tämä viittaa siihen, että auringolla on myös syövältä suojaavaa vaikutusta.
+
+
+== Auringon säteilyltä suojautuminen ==
+
+
+=== Silmien suojaaminen auringonvalolta ===
+Aurinkoa voidaan havaita turvallisesti kaukoputkella heijastamalla sen kuva kaukoputken taakse tai käyttämällä himmentävää suodatinta, joka on objektiivin edessä. Auringonpimennystä katsottaessa käytetään tähän tarkoitettua himmennintä tai hitsaajan suojalaseja numero 14. Auringon katsominen suoraan kiikarin tai kaukoputken läpi ilman aurinkosuodatinta voi vahingoittaa näkökykyä. Jopa auringonpimennyksen yhteydessä auringon suora katsominen voi helposti vahingoittaa silmiä. Vaarallista on myös katsoa Aurinkoa aurinkolasien tai sellaisen tummentavan suojan läpi, jota ei ole tarkoitettu Auringon katsomiseen.
+
+
+=== Ihon suojaaminen UV-säteilyltä ===
+Auringon voimakkaalle UV-säteilylle pitkäaikaisesti altistunut iho palaa, mikä lisää riskiä sairastua ihosyöpään. Palamisalttiutta kuvaamaan on kehitetty UV-indeksi. Myös ihon palamisherkkyys vaihtelee eri henkilöillä. Auringolta voi suojata ihonsa välttämällä keskipäivän aurinkoa, pukeutumalla peittävästi tai käyttämällä aurinkovoidetta. Vaaleilla henkilöillä ihoa suojaavan pigmentin muodostuminen on tummempia heikompaa, jolloin on käytettävä korkeamman suojakertoimen omaavia aurinkovoiteita tai valoa läpäisemätöntä suojavaatetusta.
+
+
+== Katso myös ==
+Aurinkoenergia
+Maan säteilytasapaino
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+
+Solar radiation – Encyclopedia of Earth (englanniksi)
+Helsingin yliopisto, Metsätieteiden laitos, Hiilipuu: Auringon säteily
+Motiva: Auringonsäteilyn määrä Suomessa
+European Comission Joint Research Centre: Photovoltaic Geographical Information System - Interactive Maps

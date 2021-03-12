@@ -1,0 +1,155 @@
+L'oxygène est l'élément chimique de numéro atomique 8, de symbole O. C'est la tête de file du groupe des chalcogènes, souvent appelé groupe de l'oxygène. Découvert indépendamment en 1772 par le Suédois Carl Wilhelm Scheele à Uppsala, et en 1774 par Pierre Bayen à Châlons-en-Champagne ainsi que par le Britannique Joseph Priestley dans le Wiltshire, l'oxygène a été nommé ainsi en 1777 par le Français Antoine Lavoisier et son épouse à Paris à partir du grec ancien ὀξύς / oxys (« aigu », c'est-à-dire ici « acide »), et γενής / genês (« générateur »), car Lavoisier pensait à tort — oxydation et acidification étant reliées — que :
+
+« Nous avons donné à la base de la portion respirable de l'air le nom d'oxygène, en le dérivant de deux mots grecs ὀξύς, acide et γείνομαι, j'engendre, parce qu'en effet une des propriétés les plus générales de cette base [Lavoisier parle de l'oxygène] est de former des acides en se combinant avec la plupart des substances. Nous appellerons donc gaz oxygène la réunion de cette base avec le calorique. »
+
+Une molécule de formule chimique O2, appelée communément « oxygène » mais « dioxygène » par les chimistes, est constituée de deux atomes d'oxygène reliés par liaison covalente : aux conditions normales de température et de pression, le dioxygène est un gaz, qui constitue 20,8 % du volume de l'atmosphère terrestre au niveau de la mer.
+L'oxygène est un non-métal qui forme très facilement des composés, notamment des oxydes, avec pratiquement tous les autres éléments chimiques. Cette facilité se traduit par des énergies de formation élevées mais, cinétiquement, le dioxygène est souvent peu réactif à température ambiante. Ainsi un mélange de dioxygène et de dihydrogène, de fer ou de soufre, etc., n'évolue qu'extrêmement lentement.
+C'est, en masse, le troisième élément le plus abondant de l'Univers après l'hydrogène et l'hélium, et le plus abondant des éléments de l'écorce terrestre ; l'oxygène constitue ainsi sur Terre :
+
+86 % de la masse des océans, sous la forme d'eau ;
+46,4 % de la masse de l'écorce terrestre, en particulier sous forme d'oxydes et de silicates ;
+23,1 % de la masse de l'air, sous forme de dioxygène ou d'ozone, soit 1,2 × 1015 tonnes, soit près de 21 % du volume total de l'atmosphère ;
+62,5 % de la masse du corps humain ;
+jusqu'à 88 % de la masse de certains animaux marins.La Terre était à l'origine dépourvue de dioxygène. Celui-ci s'est formé grâce à la photosynthèse réalisée par les végétaux, les algues et les cyanobactéries, ces dernières étant apparues il y a peut-être 2,8 milliards d'années. Le dioxygène O2 est toxique pour les organismes anaérobies, dont faisaient partie les premières formes de vie apparues sur Terre, mais est indispensable à la respiration des organismes aérobies, qui constituent la grande majorité des espèces vivantes actuelles. La respiration cellulaire est l'ensemble des voies métaboliques, telles que le cycle de Krebs et la chaîne respiratoire, alimentées par exemple par la glycolyse et la β-oxydation, par lesquelles une cellule produit de l'énergie sous forme d'ATP et du pouvoir réducteur sous forme de NADH + H+ et de FADH2.
+En s'accumulant dans l'atmosphère terrestre, le dioxygène O2 issu de la photosynthèse a formé une couche d'ozone à la base de la stratosphère sous l'effet du rayonnement solaire. L'ozone est un allotrope de l'oxygène de formule chimique O3 encore plus oxydant que le dioxygène — ce qui en fait un polluant indésirable lorsqu'il est présent dans la troposphère au niveau du sol — mais qui a la particularité d'absorber les rayons ultraviolets du Soleil et donc de protéger la biosphère de ce rayonnement nocif : la couche d'ozone a constitué le bouclier qui a permis aux premières plantes terrestres de quitter les océans il y a près de 475 millions d'années.
+La teneur en oxygène des océans chute significativement depuis plusieurs années. Cette désoxygénation de l’océan — due au réchauffement climatique et aux rejets d’engrais agricoles — affecte la biodiversité marine. Les océans ont perdu 77 milliards de tonnes d’oxygène au cours des 50 dernières années.
+Dans l'industrie, il a une énorme importance en tant qu'oxydant. Dans les centrales électriques, le combustible est brûlé soit avec de l'air, soit avec de l'oxygène pur (procédé "oxy-fuel"). L'oxy-craquage de fractions pétrolières lourdes donne des composés précieux. Dans l'industrie chimique est utilisée pour la production d'acide acrylique, un monomère très important. L'oxydation catalytique hétérogène est prometteur pour la production d'acide hydroxyméthyl-furfural et acide benzoïque. C'est également une matière première prometteuse pour la synthèse électrochimique du peroxyde d'hydrogène. L'oxydation par l'air joue un rôle très important dans la conversion des gaz dangereux (CO, méthane) en CO2 moins nocif,.
+
+
+== Élément ==
+
+
+=== Isotopes et origine stellaire ===
+
+L'oxygène possède dix-sept isotopes dont le nombre de masse varie de 12 à 28. L'oxygène d'origine naturelle est composé de trois isotopes stables : l'oxygène 16 16O, l'oxygène 17 17O et l'oxygène 18 18O. On attribue en outre à l'oxygène une masse atomique standard de 15,999 4 u. L'oxygène 16 est le plus abondant, son abondance naturelle étant de 99,762 %.
+La majorité de l'oxygène 16 est synthétisée à la fin du processus de fusion de l'hélium au sein d'étoiles massives mais une partie est aussi produite lors des réactions de fusion du néon. L'oxygène 17 est principalement issu de la fusion de l'hydrogène en hélium au cours du cycle CNO. Il s'agit donc d'un isotope courant des zones de combustion de l'hydrogène des étoiles. La majorité de l'oxygène 18 est produite quand l'azote 14 14N rendu abondant par le cycle CNO capture un noyau d'hélium 4 4He. L'oxygène 18 est donc couramment présent dans les zones riches en hélium des étoiles massives évoluées.
+Quatorze radioisotopes ont été mis en évidence. Les plus stables sont l'oxygène 15 15O ayant la plus longue demi-vie (122,24 secondes) et l'oxygène 14 14O ayant une demi-vie de 70,606 secondes. Tous les autres isotopes radioactifs ont des demi-vies inférieures à 27 s et la majorité d'entre eux a des demi-vies de moins de 83 millisecondes. L'oxygène 12 12O à la durée de vie la plus courte (580×10−24 s). Le type de décroissance radioactive le plus répandu chez les isotopes plus légers que l'oxygène 16 est l'émission de positron,, produisant de l'azote. Le type de décroissance le plus courant pour les isotopes plus lourds que l'oxygène 18 est la radioactivité β donnant naissance à du fluor.
+
+
+=== Utilisation de l'oxygène 18 ===
+
+L'oxygène 18 est un indicateur paléoclimatique utilisé pour connaître la température dans une région à une époque donnée : plus le rapport isotopique 18O / 16O est élevé et plus la température correspondante est basse. Ce rapport peut être déterminé à partir de carottes de glace, ainsi que de l'aragonite ou de la calcite de certains fossiles.
+Ce procédé est très utile pour confirmer ou infirmer une théorie sur les changements climatiques naturels terrestres comme les paramètres de Milanković.
+Comme marqueur isotopique stable, il a été utilisé pour mesurer le flux unidirectionnel d'oxygène absorbé, pendant la photosynthèse, par le phénomène de photorespiration. Il a été montré que, avant l'augmentation de CO2 de l'ère industrielle, la moitié de l'oxygène émis par les feuilles était réabsorbée. Cela réduisait le rendement de la photosynthèse de moitié (Gerbaud and André, 1979-1980),.
+
+
+=== Importance de la présence de l'oxygène ===
+L'oxygène est l'élément chimique le plus abondant du point de vue de la masse dans la biosphère, l'air, l'eau et les roches terrestres. Il est aussi le troisième élément le plus abondant de l'univers après l'hydrogène et l'hélium et représente environ 0,9 % de la masse du Soleil. Il constitue 49,2 % de la masse de la croûte terrestre et est le principal constituant de nos océans 88,8 % de leur masse). Le dioxygène est le second composant le plus important de l'atmosphère terrestre, représentant 20,8 % de son volume et 23,1 % de sa masse (soit quelque 1015 tonnes),,. La Terre, en présentant un taux si important d'oxygène gazeux dans son atmosphère, constitue une exception au sein des planètes du système solaire : l'oxygène des planètes voisines Mars (qui ne représente que 0,1 % du volume de son atmosphère) et Vénus y a des concentrations bien plus faibles. Toutefois, le dioxygène entourant ces autres planètes est seulement produit par les rayons ultraviolets agissant sur les molécules contenant de l'oxygène comme le dioxyde de carbone.
+La concentration importante et inhabituelle de dioxygène sur Terre est le résultat des cycles de l'oxygène. Ce cycle biogéochimique décrit les mouvements du dioxygène à l'intérieur et entre ses trois principaux réservoirs sur Terre : l'atmosphère, la biosphère et la lithosphère. Le facteur principal de la réalisation de ces cycles est la photosynthèse qui est le principal responsable de la teneur actuelle en dioxygène sur Terre. Le dioxygène est indispensable à tout écosystème : les êtres vivants photosynthétiques dégagent du dioxygène dans l'atmosphère alors que la respiration et la décomposition des animaux et des plantes en consomme. Dans l'équilibre actuel, la production et la consommation se réalisent dans les mêmes proportions : chacun de ces transferts correspond à environ 1/2000 de la totalité de l'oxygène atmosphérique chaque année. Enfin, l'oxygène est un composant essentiel des molécules qui se retrouvent dans tout être vivant : acides aminés, sucres, etc..
+L'oxygène joue également un rôle important dans le milieu aquatique. L'augmentation de la solubilité de l'oxygène à basses températures a un impact notable sur la vie dans les océans. Par exemple, la densité d'espèces vivantes est plus importante dans les eaux polaires en raison de la plus forte concentration d'oxygène. Les eaux polluées contenant des nutriments pour les plantes comme des nitrates ou des phosphates peuvent stimuler la pousse d'algues par un processus appelé eutrophisation et la décomposition de ces organismes et d'autres biomatériaux peut réduire la quantité de dioxygène dans les eaux eutrophes. Les scientifiques évaluent cet aspect de la qualité de l'eau en mesurant la demande biologique en oxygène de l'eau ou la quantité d'oxygène nécessaire pour revenir à une concentration normale d'O2.
+
+
+== Corps simple ==
+
+
+=== Structure ===
+
+Dans les conditions normales de température et de pression, l'oxygène est sous forme de gaz inodore et incolore, le dioxygène, de formule chimique O2. Au sein de cette molécule, les deux atomes d'oxygène sont liés chimiquement l'un à l'autre dans un état triplet. Cette liaison, ayant un ordre de 2, est souvent représentée de manière simplifiée par une liaison double ou par l'association d'une liaison à deux électrons et de deux liaisons à trois électrons. L'état triplet de l'oxygène est l'état fondamental de la molécule de dioxygène. La configuration électronique de la molécule présente deux électrons non appariés occupant deux orbitales moléculaires dégénérées . Ces orbitales sont dites antiliantes et font baisser l'ordre de liaison de trois à deux si bien que la liaison du dioxygène est plus faible que la triple liaison du diazote pour lequel toutes les orbitales atomiques liantes sont remplies mais plusieurs orbitales antiliantes ne le sont pas.
+Dans son état triplet normal, la molécule de dioxygène est paramagnétique, c'est-à-dire qu'elle acquiert une aimantation sous l'effet d'un champ magnétique. Cela est dû au moment magnétique de spin des électrons non appariés de la molécule ainsi qu'à l'interaction d'échange négative entre les molécules voisines de O2. L'oxygène liquide peut être attiré par un aimant si bien que dans des expériences en laboratoire, de l'oxygène liquide peut être maintenu en équilibre contre son propre poids entre les deux pôles d'un aimant puissant,.
+L'oxygène singulet est le nom donné à plusieurs espèces excitées de la molécule de dioxygène dans laquelle tous les spins sont appariés. Dans la nature, il se forme communément à partir de l'eau, durant la photosynthèse, en utilisant l'énergie des rayons solaires. Il est également produit dans la troposphère grâce à la photolyse de l'ozone par des rayons lumineux de courte longueur d'onde et par le système immunitaire comme une source d'oxygène actif. Les caroténoïdes des organismes photosynthétiques (mais aussi parfois des animaux) jouent un rôle majeur dans l'absorption d'énergie à partir de l'oxygène singulet et dans la conversion de celui-ci vers son état fondamental désexcité avant qu'il ne nuise aux tissus.
+L'oxygène est très électronégatif. Il forme facilement de nombreux composés ioniques avec les métaux (oxydes, hydroxydes). Il forme aussi des composés ionocovalents avec les non-métaux (exemples : le dioxyde de carbone, le trioxyde de soufre) et entre dans la composition de nombreuses classes de molécules organiques, par exemple, les alcools (R-OH), les carbonylés R-CHO ou R2CO et les acides carboxyliques (R-COOH).
+Énergie de dissociation des molécules diatomiques O-X à 25 °C en kJ/mol (
+  
+    
+      
+        
+          D
+          
+            298
+          
+          
+            o
+          
+        
+      
+    
+    {\displaystyle D_{298}^{o}}
+  ) :
+
+
+=== Allotropes ===
+
+L'allotrope ordinaire de l'oxygène sur Terre est nommé dioxygène de formule chimique O2. Il présente une longueur de liaison de 121 pm et une énergie de liaison de 498 kJ mol−1. Il s'agit de la forme utilisée par les formes de vie les plus complexes, comme les animaux, lors de la respiration cellulaire et la forme qui constitue la majeure partie de l'atmosphère terrestre.
+Le trioxygène O3, habituellement nommé ozone, est un allotrope très réactif de l'oxygène qui est néfaste pour le tissu pulmonaire. L'ozone est un gaz métastable produit dans les hautes couches de l'atmosphère quand le dioxygène se combine à l'oxygène atomique provenant lui-même de la fragmentation du dioxygène par les rayons ultraviolets. Comme l'ozone absorbe fortement dans le domaine des ultraviolets du spectre électromagnétique, la couche d'ozone contribue à la filtration des ultraviolets qui frappent la Terre. Toutefois, près de la surface de la Terre, c'est un polluant produit par la décomposition lors de journées chaudes des oxydes d'azote issus de la combustion des carburants fossiles sous l'effet des rayons solaires ultraviolets,. Depuis les années 1970, la concentration d'ozone dans l'air au niveau du sol augmente du fait des activités humaines.
+La molécule métastable nommée tétraoxygène (O4) a été découverte en 2001, et était jusqu'alors supposée exister dans l'une des six phases de l'oxygène solide. Il est prouvé en 2006 que cette phase, obtenue en pressurisant du dioxygène à 20 GPa est en fait constituée d'un cluster rhomboédrique O8. Ce cluster est potentiellement un comburant plus puissant que le dioxygène ou l'ozone et pourrait par conséquent être utilisé dans les propergols pour fusées,. Une phase métallique, découverte en 1990, apparaît lorsque l'oxygène solide est soumis à une pression supérieure à 96 GPa et il a été montré en 1998 qu'à des températures très basses, cette phase devenait supraconductrice.
+
+
+=== Propriétés physiques ===
+
+L'oxygène est plus soluble dans l'eau que ne l'est l'azote. L'eau en équilibre avec l'air contient approximativement une molécule de dioxygène dissous pour deux molécules de diazote. Concernant l'atmosphère, le rapport est approximativement d'une molécule de dioxygène pour quatre de diazote. La solubilité de l'oxygène dans l'eau dépend de la température : environ deux fois plus (14,6 mg L−1) en est dissous à 0 °C qu'à 20 °C (7,6 mg L−1),. À 25 °C et à une pression d'air valant 1 atmosphère, l'eau douce contient environ 6,04 mL d'oxygène par litre alors que l'eau de mer en contient environ 4,95 mL par litre. À 5 °C la solubilité augmente à 9,0 mL par litre d'eau douce soit 50 % de plus qu'à 25 °C et à 7,2 mL par litre d'eau de mer soit 45 % de plus.
+L'oxygène se condense à 90,20 K (−182,95 °C) et se solidifie à 54,36 K (−218,79 °C). Les phases liquide et solide du dioxygène sont toutes deux transparentes avec une légère coloration rappelant la couleur bleue du ciel causée par l'absorption dans le rouge. L'oxygène liquide de haute pureté est habituellement obtenu par distillation fractionnée d'air liquide. L'oxygène liquide peut aussi être produit par condensation d'air en utilisant l'azote liquide comme liquide de refroidissement. C'est une substance extrêmement réactive qui doit rester éloignée de matériaux combustibles.
+Bien que l'oxygène 17 soit stable, l'oxygène, composé essentiellement d'oxygène 16, présente une section efficace de capture des neutrons thermiques particulièrement basse = 0,267 mb (en moyenne pondérée sur les 3 isotopes stables), ce qui permet son usage dans les réacteurs nucléaires en tant qu'oxyde dans le combustible et dans l'eau en tant que réfrigérant et modérateur.
+Néanmoins, l'activation de l'oxygène par les neutrons du cœur provoque la formation d'azote 16 émetteur d'une radiation gamma spécialement énergétique (= 10,419 MeV), mais dont la période n'est que de 7,13 s, ce qui fait que ce rayonnement s'éteint rapidement après arrêt du réacteur.
+
+
+== Historique ==
+
+
+=== Premières expériences ===
+
+L'une des premières expériences connues concernant la relation entre la combustion et l'air est menée par Philon de Byzance, écrivain grec du IIe siècle av. J.-C. Dans son ouvrage intitulé Pneumatiques, Philon observe qu'en faisant brûler une bougie dans un récipient renversé dont l'ouverture est plongée dans l'eau, cela provoque une élévation de l'eau dans le col du récipient contenant la bougie. Philon émet une conjecture incorrecte, affirmant qu'une partie de l'air dans le récipient s'est transformée en l'un des quatre éléments, le feu, qui a pu s'échapper du récipient à cause de la porosité du verre. De nombreux siècles plus tard, Léonard de Vinci s'appuie sur le travail de Philon de Byzance et observe qu'une partie de l'air est consumée pendant la combustion et la respiration.
+
+À la fin du XVIIe siècle, Robert Boyle prouve que l'air est nécessaire à la combustion. Le chimiste anglais John Mayow affine le travail de Boyle en montrant que la combustion a seulement besoin d'une partie de l'air qu'il nomme spiritus nitroaereus ou simplement nitroaereus. Dans une expérience, il constate que lorsqu'il place une souris ou une bougie allumée dans un récipient fermé dont l'ouverture est plongée dans l'eau, le niveau de l'eau augmente dans le récipient et remplace un quatorzième du volume de l'air avant l'extinction des sujets. Dès lors, il conjecture que le nitroaereus est consommé aussi bien par la combustion que par la respiration.
+Mayow observe que l'antimoine augmente en masse lorsqu'il est chauffé et en déduit que le nitroaereus doit y être associé. Il pense aussi que les poumons séparent le nitroaereus de l'air et le font passer dans le sang et que la chaleur animale et les mouvements musculaires résultent de la réaction du nitroaereus avec certaines substances du corps. Les comptes-rendus de ces expériences, d'autres expériences et des idées de Mayow sont publiées en 1668 dans Tractatus duo extrait de De respiratione.
+
+
+=== Phlogistique ===
+
+Robert Hooke, Ole Borch, Mikhail Lomonosov et Pierre Bayen parviennent tous à produire de l'oxygène dans des expériences aux XVIIe siècle et XVIIIe siècle mais aucun d'entre eux ne le reconnaît comme élément chimique. Cela est probablement dû en partie à la théorie scientifique concernant la combustion et la corrosion et nommée phlogisitique qui était alors l'explication la plus répandue pour expliquer ces phénomènes.
+Établie en 1667 par le chimiste allemand Johann Joachim Becher et modifiée par le chimiste Georg Ernst Stahl en 1731, la théorie du phlogistique affirme que tous les matériaux combustibles sont constitués de deux parties : une partie nommée phlogiston qui s'échappe lorsque la substance qui le contient brûle tandis que la partie déphlogistiquée constitue la vraie forme de la substance.
+Les matériaux hautement combustibles qui laissent très peu de résidus comme le bois ou le charbon sont considérés comme contenant majoritairement du phlogiston alors que les substances non combustibles qui se corrodent comme le métal, en contiennent très peu. L'air ne joue aucun rôle dans la théorie du phlogistique, pas plus que les premières expériences menées à l'origine pour en tester l'idée. Au contraire, la théorie se base sur l'observation de ce qui se produit lorsqu'un objet brûle et sur le fait que la majorité des objets apparaît plus léger et semble avoir perdu quelque chose pendant le processus de combustion. Pour justifier le fait qu'un matériau comme du bois voit en fait sa masse augmenter en brûlant, Stahl affirme que le phlogiston a une masse négative. En effet, le fait que les métaux voient eux aussi leur masse augmenter en rouillant alors qu'ils sont supposés perdre du phlogiston est l'un des premiers indices infirmant la théorie du phlogistique.
+
+
+=== Découverte ===
+L'oxygène est découvert en premier par le chimiste suédois Carl Wilhelm Scheele. Il produit du dioxygène en chauffant de l'oxyde de mercure et divers nitrates vers 1772. Scheele nomme ce gaz « Feuerluft » (air de feu) car c'est le seul comburant connu et écrit un compte-rendu de sa découverte dans un manuscrit qu'il intitule Traité chimique de l'air et du feu qu'il envoie à son éditeur en 1775 mais qui ne sera pas publié avant 1777.
+
+Dans le même temps, le 1er août 1774, une expérience conduit le pasteur britannique Joseph Priestley à faire converger les rayons du Soleil vers un tube en verre contenant de l'oxyde de mercure (HgO). Cela provoque la libération d'un gaz qu'il nomme « air déphlogistiqué ». Il constate que la flamme des bougies est plus brillante dans ce gaz et qu'une souris est plus active et vit plus longtemps en le respirant. Après avoir lui-même respiré le gaz il écrit : « la sensation de [ce gaz] dans mes poumons n'était pas sensiblement différente de celle de l'air ordinaire mais j’eus l'impression que ma respiration était particulièrement légère et facile pendant un certain temps par la suite ». Priestley publie ses découvertes en 1775 dans un article intitulé An Account of Further Discoveries in Air inclus dans le second volume de son livre, Experiments and Observations on Different Kinds of Air,.
+Le chimiste français Antoine Laurent Lavoisier déclare plus tard avoir découvert cette nouvelle substance indépendamment de Priestley. Toutefois, Priestley rend visite à Lavoisier en octobre 1774, lui parle de son expérience et de la façon dont il a libéré le gaz. Scheele envoie également une lettre à Lavoisier le 30 septembre 1774 dans laquelle il décrit sa propre découverte de la substance jusqu'alors inconnue mais Lavoisier déclare ne jamais l'avoir reçu (une copie de la lettre est retrouvée dans les affaires de Scheele après sa mort).
+
+
+=== Contribution de Lavoisier ===
+Même si cela est contesté à son époque, la contribution de Lavoisier est incontestablement d'avoir réalisé les premières expériences quantitatives satisfaisantes sur l'oxydation et d'avoir donné la première explication correcte sur la façon dont se déroule une combustion. Ses expériences, toutes commencées en 1774, conduiront à discréditer la théorie du phlogistique et prouver que la substance découverte par Priestley et Scheele est un élément chimique.
+Dans une expérience, Lavoisier observe qu'il n'y a généralement pas d'augmentation de masse quand l'étain et l'air sont chauffés dans une enceinte fermée. Il remarque que l'air ambiant s'engouffre dans l'enceinte lorsqu'il l'ouvre ce qui prouve qu'une partie de l'air emprisonné a été consommée. Il constate également que la masse de l'étain a augmenté et que cette augmentation correspond à la même masse d'air qui s'est engouffrée dans l'enceinte lors de son ouverture. D'autres expériences ainsi que celle-ci sont détaillées dans son livre Sur la combustion en général, publié en 1777. Dans cette œuvre, il prouve que l'air est un mélange de deux gaz : l'« air vital » qui est essentiel à la respiration et la combustion et l'azote (du grec ἄζωτον, « privé de vie ») qui leur est inutile.
+Lavoisier renomme l'« air vital » en oxygène en 1777 à partir de la racine grecque ὀξύς (oxys) (acide, littéralement "âpre" d'après le goût des acides et -γενής (-genēs) (producteur, littéralement « qui engendre ») car il croit à tort que l'oxygène est un constituant de tous les acides. Des chimistes, notamment Sir Humphry Davy en 1812, prouvent finalement que Lavoisier s'était trompé à cet égard (c'est en réalité l'hydrogène qui est à la base de la chimie des acides) mais le nom est resté.
+
+
+=== Histoire récente ===
+La théorie atomique de John Dalton suppose que tous les éléments sont monoatomiques et que les atomes dans les corps composés sont dans des rapports simples. Par exemple, Dalton suppose que la formule chimique de l'eau est HO, donnant à l'oxygène une masse atomique huit fois supérieure à celle de l'hydrogène contrairement à la valeur actuelle qui vaut environ seize fois celle de l'hydrogène. En 1805, Joseph Louis Gay-Lussac et Alexander von Humboldt montrent que l'eau est formée de deux volumes d'hydrogène et d'un volume d'oxygène et en 1811 Amedeo Avogadro parvient à interpréter correctement la composition de l'eau sur la base de ce qu'on appelle maintenant la loi d'Avogadro et l'hypothèse des molécules diatomiques élémentaires,.
+À la fin du XIXe siècle, des scientifiques réalisent que l'air peut être liquéfié et ses composants isolés en le compressant et le refroidissant. Utilisant un processus en cascade, le chimiste et physicien suisse Raoul Pictet fait évaporer du dioxyde de soufre liquide afin de liquéfier du dioxyde de carbone qui, à son tour, s'évapore pour refroidir suffisamment du dioxygène, permettant ainsi de le liquéfier. Le 22 décembre 1877, il envoie un télégramme à l'Académie des sciences à Paris dans lequel il annonce sa découverte de l'oxygène liquide. Deux jours après, le physicien français Louis Paul Cailletet décrit sa propre méthode de liquéfaction de l'oxygène. Dans les deux cas, seules quelques gouttes de liquide sont produites donc il est impossible de mener des analyses approfondies. L'oxygène est liquéfié dans un état stable pour la première fois le 29 mars 1883 par le scientifique polonais Zygmunt Wróblewski de l'université jagellonne de Cracovie et par Karol Olszewski.
+En 1891, le chimiste écossais James Dewar est capable de produire suffisamment d'oxygène liquide pour pouvoir l'étudier. Le premier processus commercialement viable pour produire de l'oxygène liquide est développé en 1895 indépendamment par l'ingénieur allemand Carl von Linde et l'ingénieur anglais William Hampson. Dans les deux procédés, la température de l'air est abaissée jusqu'à ce que l'air soit liquéfié puis les différents composés gazeux sont distillés en les faisant bouillir les uns après les autres et en les capturant. Plus tard, en 1901, le soudage oxyacétylénique est présenté pour la première fois en brûlant un mélange d'acétylène et de dioxygène comprimé. Cette méthode de soudure et de coupure du métal est devenue courante par la suite. En 1902, Georges Claude imagine un procédé de liquéfaction de l'air qui améliore le rendement de celui imaginé par Linde et où le travail fourni par la détente adiabatique de l'air après sa compression est utilisé dans le compresseur. Le refroidissement qui l'accompagne (effet Joule-Thomson) est mis à profit dans un échangeur de chaleur qui refroidit l'air à la sortie du compresseur. Claude réalise ainsi la séparation par distillation fractionnée de l'oxygène, de l'azote, de l'argon.
+En 1923, le scientifique américain Robert H. Goddard est le premier à développer un moteur-fusée utilisant du carburant liquide. Le moteur utilise de l'essence comme carburant et de l'oxygène liquide comme comburant. Goddard fait voler avec succès une petite fusée à carburant liquide. Il lui fait atteindre 56 m et 97 km/h le 16 mars 1926 à Auburn (Massachusetts),.
+
+
+== Notes et références ==
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « Oxygen » (voir la liste des auteurs).
+
+
+=== Notes ===
+
+
+=== Références ===
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+Histoire de l'oxygène. De l'alchimie à la chimie
+
+
+=== Articles connexes ===
+Oxygène 18
+Combustion
+Grande Oxydation
+Macro-élément
+Médecine hyperbare
+Oxyduc
+Oxygénothérapie normobare
+Réaction d'oxydo-réduction
+Stades isotopiques de l'oxygène
+
+
+=== Liens externes ===
+(en) « Technical data for Oxygen » (consulté le 23 avril 2016), avec en sous-pages les données connues pour chaque isotope
+Priestley, Scheele, Lavoisier. De l'air déphlogistiqué à l'air du feu et à l'oxygène.
+ Portail de la chimie

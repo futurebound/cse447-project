@@ -1,0 +1,204 @@
+La combustion est une réaction exothermique d'oxydoréduction. Lorsque la combustion est vive, elle se traduit par une flamme ou par une explosion (déflagration, voire détonation si le front de flamme dépasse la vitesse du son). La combustion de la biomasse et des carburants est la principale source de pollution de l'air, avec des effets cancérigènes, reprotoxiques et cardiovasculaires notamment.
+
+
+== Triangle du feu ==
+
+Avant 1980 on considérait que la réaction chimique de combustion ne peut se produire que si l'on réunit trois éléments : un combustible, un comburant, une énergie d'activation en quantités suffisantes. C'est pourquoi on parlait alors du « triangle du feu ».
+Depuis les années 1980 on a découvert qu'une des étapes indispensable de la réaction chimique est la production de radicaux libres ; cette étape est nécessaire pour que la combustion s'entretienne et que l'on puisse parler d'incendie. C'est la raison pour laquelle on parle depuis de « tétraèdre du feu ».
+La disparition de l'un des quatre éléments suffit à arrêter la combustion.
+
+
+=== Combustible ===
+Le combustible peut être :
+
+un solide formant des braises (charbon, bois, papier, carton, tissu, PVC, etc.) ;
+un liquide ou solide liquéfiable (essence, gazole, fioul, huile, kérosène, PE, PS, etc.) ;
+un gaz (gaz naturel, butane, propane, méthane, dihydrogène, fumée, gaz de pyrolyse, etc.) ;
+un métal (fer, aluminium, sodium, magnésium, etc.) ;
+une huile de cuisson.Ces cinq types de combustible correspondent, respectivement, aux cinq principales classes de feux A, B, C, D et F.
+
+
+=== Comburant ===
+Le comburant est l’autre réactif de la réaction chimique. La plupart du temps, il s’agit de l’air ambiant, et plus particulièrement de l’un de ses composants principaux, le dioxygène. En privant un feu d’air, on l’éteint ; par exemple, si on place une bougie chauffe-plat allumée dans un bocal de confiture et qu’on ferme le bocal, la flamme s’éteint ; à l’inverse, si l’on souffle sur un feu de bois, cela l’active (on apporte plus d’air). Dans certains chalumeaux, on apporte du dioxygène pur pour améliorer la combustion et élever la température de la flamme.
+Dans certains cas très particuliers (souvent explosifs comme avec l'aluminium), le comburant et le combustible sont un seul et même corps ; par exemple, la célèbre nitroglycérine, molécule instable comportant une partie oxydante greffée sur une partie réductrice.
+
+
+=== Activateur ===
+La réaction est déclenchée par une énergie d’activation, généralement de la chaleur ou une flamme. Par exemple, ce sera l'échauffement par frottement pour une allumette, le câble électrique suralimenté qui chauffe l'isolant, ou une autre flamme (propagation du feu), l'étincelle (de l'allume-gaz, de la pierre à briquet ou celle provoquée par une machine électrique qui se met en route ou s’arrête).
+Mais il existe d’autres façons de fournir l’énergie d’activation : arc électrique, radiation, élévation de la température par compression de l'air, par exemple dans un moteur Diesel.
+Il existe cependant des cas où le facteur déclenchant la combustion n'est pas l'énergie d'activation. Par exemple, l'explosion de fumées est une combustion très violente des gaz imbrûlés présents dans les fumées (voir combustion incomplète) provoquée par un apport soudain d'air, donc de comburant. L'intervalle dans lequel le mélange air/gaz pourra brûler est borné par les limites d'explosivité. Cet intervalle peut varier de quelques pour cent (kérosène) à plusieurs dizaines de pour cent (acétylène).
+La production de chaleur par la combustion permet à la réaction de s’auto-entretenir dans la plupart des cas, voire de s'amplifier en une réaction en chaîne (par exemple dans un feu de forêt).
+Seuls des matériaux sous forme gazeuse peuvent brûler (car ils offrent la possibilité de très bien se mélanger avec un comburant, ce qui n'est pas le cas des liquides ou des solides où le comburant principal, le dioxygène, ne peut pénétrer au cœur de la substance), c'est pourquoi il faut fournir suffisamment d'énergie à un produit inflammable (qu'il soit solide ou liquide) pour qu'il commence à se vaporiser ou se décomposer en éléments vaporisables et combustibles (comme les terpènes des conifères via une distillation ou une pyrolyse). Le seuil de température atteint à cette occasion est appelé point d'éclair. Certains produits ont leur point d'éclair largement en dessous de la température ambiante, ce qui en fait des substances très inflammables, car il suffit de peu d'énergie d'activation pour amorcer la combustion (une simple étincelle…).
+Une allumette jetée dans un bac de gazole à température ambiante n'aura aucun effet, car son point d'éclair étant de 68 °C, en moyenne, suivant les règlements des installations classées et de transport de matières dangereuses, la flamme sera noyée dans le gazole avant d'avoir pu transmettre assez de chaleur pour en vaporiser suffisamment. À l'inverse, une allumette jetée dans un bac d'essence, dont le point d'éclair est d'environ −40 °C, suffira pour enflammer les vapeurs déjà présentes sous forme de gaz à la surface du liquide. À cette occasion, on remarquera que :
+
+l'essence s’enflammera avant que l’allumette n'ait atteint le liquide (c'est donc l'essence vaporisée qui brûle) ;
+la flamme restera au-dessus du liquide, brûlant l'essence sous forme gazeuse (le liquide ne brûle pas mais s'évapore très rapidement sous l'effet de la chaleur) ;
+l'allumette (si elle est lestée avec deux/trois tours de fil de fer) coulera et s'éteindra dans l'essence par manque de dioxygène.Lorsque la combustion produit suffisamment d'énergie pour s'entretenir d'elle-même, la température a dépassé le point d'inflammation.
+
+
+=== Radicaux ===
+
+Une réaction chimique est une recombinaison de molécules. Elle passe par une étape intermédiaire au cours de laquelle les molécules sont « déstructurées » mais pas encore recombinées ; celles-ci sont appelées radicaux et sont très réactives. Dans le cas de la combustion, les radicaux sont créés par rupture de liaison chimique due à l'énergie thermique, et ils vont pouvoir agir sur les molécules du produit (libérant d'autres radicaux) et engendrant de fait une réaction en chaîne qui va perdurer tant que les deux conditions suivantes seront réunies : présence de combustible et de comburant.
+
+
+=== Procédés d'extinction d'une combustion ===
+
+Pour interrompre une réaction de combustion, il faut supprimer un des quatre éléments du tétraèdre du feu :
+
+suppression du combustible
+fermeture d'une vanne ou d'un robinet qui alimente la combustion, éloignement de combustibles à proximité du feu, exutoire pour chasser la fumée (qui contient des imbrûlés), etc. ;
+suppression du comburant (étouffement)
+utilisation d'un extincteur au dioxyde de carbone, d'une couverture, aspersion d'eau sur un combustible solide (la vapeur d'eau formée chasse l'air), etc. ;
+suppression de l'énergie d'activation (refroidissement)
+pulvérisation d'eau dans le cas d'une atmosphère prémélangée (mélange de gaz ou de particules combustibles et de gaz comburant), grille absorbant la chaleur (lampe de mineur « Davy »), exutoire pour chasser la fumée (qui est chaude), etc.
+L'eau peut avoir deux rôles différents :
+dans le cas d'un combustible solide, le facteur limitant est l'apport en comburant (air), le feu produisant sa propre chaleur ; l'eau étouffe donc le feu par dégagement de vapeur qui entraîne l'air et empêche l'alimentation en dioxygène ;
+dans le cas d'une atmosphère prémélangée, on ne peut pas séparer le combustible du comburant, la seule action possible consiste à refroidir l'atmosphère pour empêcher la flamme de se propager (la vapeur d'eau joue également un rôle de diluant) ;inhibition des radicaux (deux moyens)
+1. inhibition chimique : c'est le cas d'une classe d'agents extincteurs de feu, basée sur des hydrocarbures halogénés (où fluor, brome ou chlore remplacent l'hydrogène en partie ou en totalité dans la molécule d'hydrocarbure). Certains font partie de la famille des halons (interdits d'emploi, car dégradant la couche d'ozone), d'autres de la famille des hydrofluorocarbures.
+Les radicaux de ces hydrocarbures halogénés (créés lors de la combustion) sont inactifs pour entretenir la combustion (les composés chimiques ont une énergie d'ionisation inférieure à celle du dioxygène, ils se « décomposent » donc en premier) mais actifs pour piéger les autres radicaux en se transformant en éléments stables afin qu'ils ne puissent plus interagir chimiquement.
+Ces agents se nomment halon 1301 (bromotrifluorométhane), halon 2402 (1,2-dibromo-1,1,2,2-tétrafluoroéthane), FM200 (1,1,1,2,3,3,3-heptafluoropropane), etc.
+Exemple de réaction de « piégeage » de radicaux d'hydrogène avec le halon 1301 (nommé ainsi car il possède 1 atome de carbone, 3 atomes de fluor, 0 atome de chlore et 1 atome de brome) :La formule brute de ce composé est CF3Br, cela donne deux radicaux lors d'une combustion (CF3• et Br•) qui vont pouvoir se combiner chacun avec un radical hydrogène (H•), formant un composé restant stable malgré la combustion :
+CF3• + H• → CF3H
+Br• + H• → BrH.
+De nombreux objets de la vie courante intègrent d'ailleurs des composés bromés ou chlorés à effet de retardateur de flammes : plastiques (pour les appareils électriques), isolants thermiques, textiles, etc. ;
+2. inhibition mécanique : les extincteurs à poudre piègent également les radicaux (en plus de leurs autres actions), mais par absorption (« étouffement » des radicaux dans le produit). Et au-delà de 190 °C, certaines poudres (entre autres le bicarbonate de sodium) se vitrifient en un vernis peu soluble dans l'eau et ignifugeant.
+
+
+== Historique ==
+La découverte de la combustion par le dioxygène est imputable au chimiste français Lavoisier, en 1775, car on considère généralement[Qui ?] que Joseph Priestley, qui a isolé pour la première fois du dioxygène (impur) en 1774 n'a pas pour autant découvert le rôle de comburant du dioxygène. En effet, dans la mesure où il se fondait sur la théorie du phlogistique, cela l’empêchait de concevoir le rôle du dioxygène dans la combustion.
+Selon le philosophe des sciences Thomas Samuel Kuhn, la découverte de la combustion par le dioxygène constitue une révolution scientifique majeure dans l'histoire des sciences. Elle a constitué un changement de paradigme, en remplaçant l'ancien paradigme du phlogistique.
+La combustion par le dioxygène a eu au XIXe siècle, et plus encore au XXe siècle, de nombreuses applications industrielles (voir section Applications ci-dessous). Elle a cependant conduit pendant l'ère industrielle à l'émission massive de dioxyde de carbone, qui est un gaz à effet de serre contribuant pour une large part aux phénomènes de dérèglement climatique.
+
+
+== Caractéristiques ==
+
+
+=== Combustion rapide ===
+
+La combustion rapide est une forme de combustion au cours de laquelle de grandes quantités de chaleur et d'énergie sous forme de lumière sont relâchées, donnant naissance au feu. Elle est utilisée dans certaines machines telles que les moteurs à combustion interne ou les armes thermobariques.
+
+
+=== Combustion lente ===
+
+La combustion lente est une réaction se réalisant à des températures peu élevées. 
+
+On peut citer le cas de la respiration cellulaire : cette lenteur est due à des enzymes spécifiques permettant d'augmenter les réactions d'oxydoréduction et ainsi d'obtenir un très bon rendement par récupération d'une grande partie de l'énergie.
+
+
+=== Combustion complète ou stœchiométrique ===
+Lors d'une combustion complète, le réactif réagira avec le comburant jusqu'à former des produits qui ne pourront plus être oxydés, c'est-à-dire que ces produits ne peuvent plus réagir avec le comburant : les produits ont atteint un degré de stabilité qu'une réaction de combustion ne peut modifier. Dans le cas d'un hydrocarbure réagissant avec le dioxygène, les produits de combustion sont le dioxyde de carbone et l'eau. Il existe pour chaque élément un produit de combustion stable, ainsi une combustion complète fournit les mêmes produits de réactions quels que soient les réactifs.
+Une combustion complète permet d'obtenir la quantité maximale d'énergie disponible par une substance et cette énergie est définie comme étant le pouvoir calorifique.
+
+
+=== Combustion turbulente ===
+La combustion turbulente est une combustion caractérisée par des flux de chaleur. Elle est souvent utilisée dans l'industrie (par exemple, les turbines à gaz et les moteurs à allumage commandé) car la chaleur facilite l'opération de mélange entre le combustible et l'oxydant.
+
+
+=== Combustion incomplète ===
+La combustion incomplète a lieu quand la quantité de comburant est insuffisante pour permettre la réaction complète du combustible ou lorsque le temps de contact, à une température rendant la combustion possible, est trop faible. Elle produit des résidus de combustion, sous forme de cendres qui émettent des fumées : certains composés, tels que monoxyde de carbone (gaz mortel), particules de carbone pur (suie, goudron, cendres), oxydes d'azote (NOx), hydrocarbures (du benzène cancérigène par exemple) sont très toxiques pour l'homme et pour l'environnement, ou fortement toxiques comme les HAP ou les composés organiques volatils (COV).
+La réaction de combustion est habituellement incomplète. Seul le contrôle des conditions permet d'obtenir une combustion complète, en apportant un excès de dioxygène à haute température par exemple. En cas de combustion incomplète, il est possible de traiter les fumées pour réduire les imbrûlés ainsi que le font les pots d'échappement et les filtres à particules des moteurs d'automobiles. La présence de catalyseurs y assure alors une seconde combustion à plus faible température. Des filtres à particules sont également développés pour les équipements de combustion du bois, un combustible solide étant particulièrement exposé au risque de combustion incomplète.
+
+
+== Chimie de la combustion ==
+
+La combustion est une réaction chimique où des molécules complexes sont décomposées en molécules plus petites et plus stables via un réarrangement des liaisons entre les atomes. La chimie de la combustion est une composante majeure de la chimie à haute température qui implique principalement des réactions radicalaires. Toutefois il est possible de traiter la combustion via une réaction globale unique.
+
+La combustion est une réaction d'oxydoréduction, en l’occurrence l’oxydation d’un combustible par un comburant :
+
+le combustible est le corps qui est oxydé durant la combustion ; c'est un réducteur, il perd des électrons ;
+le comburant est le corps qui est réduit ; c'est un oxydant, il gagne des électrons.Comme pour toutes réactions chimiques, un catalyseur facilite la combustion et comme cette dernière possède souvent une énergie d'activation élevée, l'usage d'un catalyseur permet de travailler à une température moins élevée. Ceci permet une combustion complète comme dans le cas des pots catalytiques qui grâce à la présence de métaux catalytiques brûlent les résidus des gaz d'échappement à une température inférieure à celle régnant dans le moteur.
+Dans le cas des combustibles solides, l’énergie d’activation va permettre de vaporiser ou de pyrolyser le combustible. Les gaz, ainsi produits, vont se mélanger au comburant et donner le mélange combustible. Si l’énergie produite par la combustion est supérieure ou égale à l’énergie d’activation nécessaire, la réaction de combustion s’auto-entretient.
+
+
+== Énergie dégagée et pouvoir calorifique ==
+
+La quantité d’énergie produite par la combustion est exprimée en joules (J) ; il s'agit de l'enthalpie de réaction. Dans les domaines d'application (fours, brûleurs, moteurs à combustion interne, lutte contre incendie), on utilise souvent la notion de pouvoir calorifique, qui est l'enthalpie de réaction par unité de masse de combustible ou l'énergie obtenue par la combustion d'un kilogramme de combustible, exprimée en général en kilojoules par kilogramme (noté kJ/kg ou kJ kg−1).
+Les combustions d'hydrocarbures dégagent de l'eau sous forme de vapeur. Cette vapeur d'eau contient une grande quantité d'énergie. Ce paramètre est donc pris en compte de manière spécifique pour l'évaluation du pouvoir calorifique ; on définit :
+
+le pouvoir calorifique supérieur (PCS)
+« quantité d'énergie dégagée par la combustion complète d'une unité de combustible, la vapeur d'eau étant supposée condensée et la chaleur récupérée » ;
+le pouvoir calorifique inférieur (PCI)
+« quantité de chaleur dégagée par la combustion complète d'une unité de combustible, la vapeur d'eau étant supposée non condensée et la chaleur non récupérée ».La différence entre le PCI et le PCS est la chaleur latente de vaporisation de l’eau (Lv), qui vaut environ 2 250 kJ kg−1 (valeur dépendant de la pression et de la température), multipliée par la masse de vapeur produite (m).
+On a la relation : PCS = PCI + m·Lv.
+
+
+== Vitesse du front de flamme et explosion ==
+
+Dans le cas d'une flamme de prémélange, la combustion est caractérisée par la vitesse du front de flamme :
+
+la déflagration : la vitesse du front de flamme est inférieure à la vitesse du son (343,34 m s−1 sous une pression de 1 atm à 20 °C dans l'air sec) ;
+la détonation : la vitesse du front de flamme est supérieure à la vitesse du son, et peut atteindre plusieurs kilomètres par seconde.
+
+
+== Feux de métaux ==
+L'oxydation des métaux est en général lente. La chaleur dégagée est donc faible et est lentement dissipée dans l'environnement ; c'est le domaine de la corrosion (par exemple la rouille du fer et de l'acier).
+Cependant, dans certains cas, l'oxydation est violente et constitue donc une combustion. Il existe cinq cas notables :
+
+combustion dans l'air du magnésium : le magnésium brûle facilement, en émettant une lumière très vive et blanche ; il était utilisé auparavant pour les flashs photographiques ;
+combustion du sodium dans l'eau : ce n'est pas à proprement parler le sodium qui brûle ; le sodium réagit violemment avec l'eau et provoque un dégagement de dihydrogène, et avec la chaleur produite par la réaction, le dihydrogène s'enflamme dans l'air ;
+aluminothermie : le comburant est ici un oxyde métallique, il s'agit d'une réaction chimique entre deux solides ;
+combustion à haute température et forte concentration de dioxygène : lorsque le métal est chauffé très fort et que l'on envoie du dioxygène pur, la réaction est suffisamment rapide pour s'auto-entretenir ; ce phénomène est utilisé pour l'oxycoupage au chalumeau, la lance thermique, et c'est aussi l'accident du « coup de feu » qui peut survenir avec le détendeur d'une bouteille de dioxygène (par exemple dioxygène médical ou bouteille de chalumeau) ;
+combustion d'un métal sous forme de poudre ou de mousse. La réaction chimique se fait au contact entre le métal et l'air. Or, dans le cas d'une mousse ou d'une poudre, cette surface de contact (la surface spécifique) est très grande, la réaction est donc rapide et la chaleur dégagée importante ; c'est un phénomène comparable au coup de poussière.
+
+
+== Applications ==
+
+
+=== Dans les transports ===
+La combustion est utilisée massivement dans les moteurs à explosion, pour la propulsion des véhicules (automobiles, camions, avions à hélice, motocyclettes, bateaux, etc.), et aussi pour des outils mobiles (tondeuses à gazon, tronçonneuses, etc.) et pour des installations fixes (groupes électrogènes, pompes, etc.).
+
+
+=== À la maison ===
+Dans le domaine domestique, la combustion sert essentiellement à :
+
+faire cuire les aliments : soit en utilisant directement la flamme (cuisinière à gaz, cuisson au feu de bois), soit en utilisant le chauffage par rayonnement (braises du barbecue, parois du four) ;
+se chauffer : chauffage au gaz, feu de cheminée, poêle à bois ;
+produire de l'eau chaude sanitaire : chauffe-eau à gaz ;
+s'éclairer : bougies, chandelles, feu de cheminée.Certains appareils utilisent également un moteur à combustion interne : tondeuse à gazon, tronçonneuse, etc.
+La combustion peut être remplacée par des installations électriques : cuisinière électrique, chauffe-eau électrique, ampoule, moteurs électriques, etc.
+Historiquement, le feu domestique est un symbole très fort ; le terme « foyer » désigne à la fois l'emplacement du feu, et le lieu de vie de la famille.
+
+
+=== Dans la production d'électricité ===
+La combustion est utilisée dans les centrales thermiques utilisant des combustibles fossiles (charbon, gaz naturel, pétrole), des combustibles renouvelables (déchets agricoles ou de l'exploitation forestière et biomasse si exploitée durablement) ou différents types de déchets (dans les incinérateurs d'ordures ménagères par exemple), pour dégager de la chaleur, qui produit de l'électricité grâce à des turbo-alternateurs.
+
+
+=== Dans la métallurgie ===
+Dans la nature, les métaux sont en général présents sous la forme de minerais. Certains minerais peuvent être réduits, c'est-à-dire transformés en métal, par réaction avec un gaz issu d'une la combustion ; c'est le domaine de la pyrométallurgie. L'exemple le plus connu est la réduction du minerai de fer par le monoxyde de carbone dans les bas-fourneaux puis les hauts-fourneaux. Cela concerne également l'obtention du nickel, du cuivre, du zinc, du titane et du zirconium, même s'il existe d'autres voies d'élaboration.
+La combustion peut également servir à chauffer du métal pour mieux le déformer (laminage, forgeage) ou pour le faire fondre (fonderie, soudage au chalumeau, brasage, oxycoupage). En dehors de l'oxycoupage, on peut utiliser l'énergie électrique comme alternative à la combustion.
+
+
+=== Dans la production de ciment ===
+La fabrication du ciment requiert beaucoup d'énergie pour élever le mélange qui va produire le clinker à plus de 1 450 °C, cette énergie est apportée par la combustion d'une grande variété de combustibles (gaz, fioul) et de déchets (huiles usagées, pneumatiques broyés, farines animales, résidus d'épuration de station d'épuration des eaux).
+
+
+=== En astronautique ===
+La combustion est utilisée dans le domaine de l’astronautique pour fournir l’énergie de propulsion des véhicules spatiaux. Les termes correspondants en anglais sont burning et combustion.
+Selon le type de combustion employée dans un propulseur, on parle de :
+
+combustion en cigarette (en anglais cigarette burning et end burning) qui est une combustion d'un bloc de poudre caractérisée par une surface plane de combustion progressant dans la direction longitudinale, vers l'avant ou vers l'arrière ;
+combustion érosive (erosive burning) qui est une combustion d'un bloc de poudre dans le cas où l'écoulement des gaz de combustion provoque une érosion du bloc ;
+combustion transversale extérieure (external burning) qui est une combustion d'un bloc de poudre caractérisée par une surface de combustion s'étendant longitudinalement et progressant de l'extérieur vers l'intérieur ;
+combustion transversale intérieure (internal burning) qui est une combustion d'un bloc de poudre qui s'effectue de l'intérieur vers l'extérieur à partir d'un canal central.
+
+
+== Notes et références ==
+
+
+== Bibliographie ==
+(en) Maximilian Lackner (éd.), Franz Winter (éd.) et Avinash K. Agarwal (éd.), Handbook of Combustion, John Wiley & Sons, juin 2010, 3168 p. (ISBN 978-3-527-32449-1).
+(en) Thierry Poinsot et Denis Veynante, Theoretical and Numerical Combustion, T. Poinsot, 2012, 603 p. (ISBN 978-2-7466-3990-4).
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+
+
+=== Liens externes ===
+Schéma de la combustion dans le cycle du carbone et de l’oxygène
+La combustion et combustibles
+(en) Theoretical and Numerical Combustion
+(en) Fondation de recherche internationale sur les flammes
+ Portail de la chimie   Portail de l’énergie

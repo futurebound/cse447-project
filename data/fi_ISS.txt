@@ -1,0 +1,100 @@
+Kansainvälinen avaruusasema eli ISS (engl. International Space Station, ven. Междунаро́дная косми́ческая ста́нция, МКС) on Maata kiertävä pysyvästi miehitetty avaruusasema. Asema on jatkoa Yhdysvaltain Skylab- ja Neuvostoliiton Mir- ja Saljut-avaruusasemille. Avaruusasema on Kanadan, Euroopan, Japanin, Venäjän ja Brasilian avaruusjärjestöjen sekä Yhdysvaltojen avaruushallinnon yhteishanke. Suomi ei osallistu avaruusaseman rahoitukseen, vaikka onkin Euroopan avaruusjärjestön jäsen.
+Avaruusasema kiertää Maata 355–368 kilometrin korkeudella. Asema on erotettavissa Maasta paljaalla silmällä. 
+Asema on ollut miehitettynä vuodesta 2000 lähtien. Sen käyttö on rahoitettu ainakin 2020-luvun puoleenväliin asti.
+
+
+== Historia ==
+Parikymmentä vuotta ennen ISS-projektia heinäkuussa 1975 Neuvostoliitto ja Yhdysvallat tekivät Apollo–Sojuz-yhteislennon. Se oli perusteellisesti valmisteltu ja toteutettu hanke. Siinä hankittuja teknisiä ja toiminnallisia ratkaisuja pystyttiin käyttämään ISS-hankkeessa, vaikka Apollo–Sojuz-projektista olikin kulunut jo melkoisesti aikaa.
+Avaruusasemahanke alkoi 1983, kun Yhdysvaltain presidentti Ronald Reagan ehdotti Space Station Freedomin rakentamista Nasan hankkeena. Sen piti maksaa kahdeksan miljardia dollaria ja valmistui 1990-luvun alkuun mennessä.
+
+Sittemmin avaruusaseman nimi muutettiin Space Station Alphaksi ja hanke kansainvälistyi. Aseman kokoa pienennettiin, kustannukset nousivat yli kattohinnan ilman yhdenkään osan valmistusta. Hanke siirtyi McDonnell-Douglasilta Boeingin urakaksi. Presidentti Clintonin aikana aseman nimeksi vahvistui nykyinen, lyhennettynä ISS. Venäjä tuli mukaan avaruusaseman rakentajaksi ja sen arkkitehtuuriksi valittiin edesmenneen Neuvostoliiton Mir-2-avaruusaseman suunnitelma. Pääosa aseman moduuleista valmistetaan Venäjällä kustannus- ja osaamissyistä. Modulaarisen rakenteen ansiosta asemaan voidaan liittää eri toimittajien hyvinkin erilaisia moduuleja. 
+Ensimmäinen ISS:n osa, Zarya, laukaistiin matkaan vuonna 1998. Sitä seuranneella avaruussukkulalennolla STS-88 laukaistiin Unity avaruussukkulan kyydissä. Samalla lennolla avaruussukkulan avulla yhdistettiin moduulit toisiinsa ja aseman voidaan katsoa syntyneen.
+ISS valmistui pääpiirteissään vuonna 2010. Rakentamisessa oleellisessa osassa olleet Avaruussukkula-lennot päättyivät vuonna 2011. Rakentamista haittasi avaruussukkula Columbian tuhoutuminen paluulennolla vuonna 2003.
+Venäjän avaruusjärjestö on ollut ISS:n merkittävin ylläpitäjä Sukkulan käytön päätyttyä heinäkuun alussa 2011. Yhdysvallat antaa suurimman rahallisen panoksen. Sojuzin kolmen avaruuslentäjän kuljetuskapasiteetti ja vähäinen rahtikapasiteetti asettaa rajoja toiminnalle. 
+Euroopan ESA ja Japanin JAXA ovat marginaalisia toimijoita. ESAssa Ranska alkoi vuoden 2011 alussa vaatia, että kaikkien ESA-maiden tai kenties kaikkien EU-maiden tuli osallistua länsieurooppalaisen ISS-käytön kustannuksiin. Tässäkin on ongelmana se, että vuoteen 2020 asti ISS-asemalle pääsee vain harva ESA-maiden avaruuslentäjä, koska Sojuzin paikoista valtaosa on myyty venäläisille ja yhdysvaltalaisille avaruuslentäjille ja osa avaruusturisteille. Yleistä eurooppalaista maksuvelvoitetta ei tee helpommaksi sekään, että ESAn astronauttijoukoissa on vain noin puolen tusinan EEA-alueen maan kansalaisia.lähde?
+
+
+== Tulevaisuus ==
+Vuonna 2018 suunnitelmana on aseman toiminnan jatkaminen nykymuodossaan ja rahoitustilanne on seuraava. Amerikkalainen osa (USOS) on rahoitettu vuoteen 2025 saakka. Venäläisen osan (ROS) osalta Roscosmos suosittaa jatkamista vuoteen 2024.  Jos ISS-avaruusaseman käyttö päättyy, se todennäköisesti pudotetaan ilmakehän läpi Tyyneen valtamereen.Aseman tulevaisuudesta on esitetty myös muita suunnitelmia. 2016 Nasa ilmoitti, että on mahdollista, että asema myydään jollekin toiselle toimijalle. Myynnin tulisi tapahtua vuoteen 2020 mennessä ja tarkoituksena olisi jatkaa sen tutkimuskäyttöä.
+Venäjä on tehnyt suunnitelmia omien moduuliensa säästämisestä ja siirtämisestä seuraavaan asemaan.
+
+
+== Rakenne ==
+
+Avaruusasema on rakenteeltaan modulaarinen. Se koostuu lukuisista paineistetuista moduuleista ja erilaisista apujärjestelmistä. Avaruusaseman rungon muodostaa Integrated Truss Structure, johon muiden muassa on kiinnitetty asemalla sähkön tuottavat aurinkokennot. 
+Varsinaisen ihmisasuttavan asemanosan muodostavat paineistetut moduulit. Ne ovat laukaisujärjestyksessä
+
+Zarya – Avaruusaseman perusta. Valmistettu Venäjällä, mutta Nasalle myyty moduuli, joten juridisesti yhdysvaltalainen.
+Zvezda – venäläinen huoltomoduuli, joka muun muassa sisältää osan aseman elossapitojärjestelmästä ja tarjoaa majoituksen kahdelle miehistön jäsenelle.
+Unity (eli Node 1) – Risteysmoduuli, johon kytketään muita moduuleja. Ensimmäinen Yhdysvalloissa valmistettu moduuli.
+Quest Joint Airlock – Yhdysvaltalaisvalmisteinen ilmalukkomoduuli.
+Pirs – Venäläinen telakointimoduuli ja ilmalukko.
+Destiny – Nasan laboratoriomoduuli.
+Harmony (eli Node 2) – Eurooppalaisvalmisteinen risteysmoduuli.
+Columbus – ESAn ISS-avaruusasemamoduuli.
+Kibō – Japanilainen laboratoriomoduuli. Toimitettiin asemalle kolmessa osassa vuosien 2008–2009 aikana. 1. osa laukaistiin Sukkula Endeavourin mukana maaliskuussa 2008 ja toinen osa 1. kesäkuuta 2008. Kolmas osa toimitettiin asemalle heinäkuussa 2009.
+Tranquility (eli Node 3) – Eurooppalaisvalmisteinen risteysmoduuli ja siihen ennen laukaisua kiinnitetty Cupola – Italian avaruusjärjestön toteuttama ISS-avaruusasemamoduuli.Muita moduuleja ovat muiden muassa:
+
+Bigelow Expandable Activity Module (BEAM) - Bigelow Aerospacen kokeellinen puhallettava paineistettu moduuli, 2016.
+Rakenteilla oleva Nanoracks-yhtiön ilmalukko on tarkoitus laukaista asemalle 2019. Se on kehitetty erityisesti nanosatellittien lähettämiseen asemalta.
+
+
+== ISS-retkikuntien miehistöt ==
+
+ISS:n pääpiirteissään valmistuttua noin vuonna 2010 miehistön kooksi on vakiintunut 6. Avaruussukkuloiden käytön loputtua miehistökuljetuksissa käytettävä yksinomaan venäläistä Sojuzia. Se on kolmepaikkainen eikä siinä ole juurikaan tilaa rahdille. Kussakin Sojuz-miehistössä on venäläinen komentaja sekä toinen täyden Sojuzin lentokoulutuksen saanut. Kolmas jäsen voi olla sitten puhtaammin pelkkä matkustaja. Miehistökierrossa vaihdokset tapahtuvat kolmen kuukauden välein. Edellisen retkikunnan vanhempi puolikas eli kolme henkilöä poistuu Sojuz-aluksella ja retkikunta päättyy. Uudempi, asemalle jäänyt puolikas jatkaa seuraavan retkikunnan osaksi. Uuden retkikunnan toinen puolikas laukaistaan asemalla uudella Sojuzilla. Uudempi retkikunta päättyy jälleen, kun sen vanhempi puolikas poistuu asemalta. Käytännössä siis kukin yksittäinen henkilö on asemalla noin viisi ja puoli kuukautta ja osallistuu kahteen retkikuntaan. 
+Nasa kutsuu vaihtomiehistöä termillä Expedition, joka on samanlainen termi jota on käytetty muun muassa Maan napa-alueiden tutkimusmatkoista. Kustakin miehistöstä yksi on avaruusaseman komentaja (eli päällikkö), muiden roolit ovat teknisiä tai tieteellisiä asiantuntijoita. Pääosa miehistöjen jäsenistä on eri avaruusjärjestöjen työntekijöitä, poikkeuksia ovat lähinnä Yhdysvaltain sotilaat, yritysten lähettämät asiantuntijat ja avaruusturistit. Asemalla ei ole suoranaista sotilaallista toimintaa. Lähes neljäsosa kaikista koskaan lentäneistä astronauteista on vieraillut ISS:llä.
+Venäjän avaruusjärjestö solmi 10. huhtikuuta 2007 Nasan kanssa sopimuksen koskien ISS:n huoltolentoja. Sopimuksen arvo on 719 miljoonaa dollaria vuoteen 2011 asti. Se kattaa 15 miehistön jäsenen kuljetukset (kuusi vuonna 2009, kuusi vuonna 2010 ja kolme vuonna 2011) ja 5600 kg rahtia vastaavana aikana.lähde? Toukokuussa 2013 Nasa päätti ostaa kuusi astronauttilentoa Sojuz-kapselilla avaruusasemalle, tämän hinta oli kaikkiaan 424 miljoonaa dollaria eli noin 70 miljoonaa dollaria per istuin.Normaalisti puolet miehistöstä on ollut venäläisiä ja puolet muita. Elokuussa 2016 Venäjä ilmoitti, että sen osuutta aseman miehistöstä voitaisiin pienentää kolmesta kahteen. Syyksi ilmoitetaan, että aseman venäläisellä puolella ei ole riittävästi tutkimuksia meneillään, jotta kosmonauttien määrä olisi perusteltua. Myös uusi venäläinen tutkimusmoduuli "Nauka" on myöhästynyt ja sen lähettäminen on ylipäätään epävarmaa.
+
+
+=== Avaruusturistit ===
+Kalifornialainen sijoitusmiljonääri (ja aiemmin Nasalla työskennellyt) Dennis Tito oli ensimmäinen avaruusturisti. Hän maksoi 20 miljoonaa Yhdysvaltain dollaria kymmenen päivän lennostaan huhtikuussa 2001.lähde?Eteläafrikkalainen nettimiljonääri Mark Shuttleworth maksoi myös noin 20 miljoonaa dollaria matkastaan huhtikuussa 2002, jolloin hänestä tuli ensimmäinen afrikkalainen avaruudessa. Hän oli matkan aikana muun muassa radioamatööriyhteydessä Nelson Mandelan kanssa.lähde?Avaruusturismi koki takaiskun avaruussukkula Columbian tuhoutuessa 1. helmikuuta 2003 ja venäläiset lykkäsivät kaikkia suunnitelmia uusista turisteista. Kuitenkin myöhemmin samana vuonna venäläiset ilmoittivat, että he voisivat lähettää kaksi avaruusturistia ISS:lle ja antoi virginialaiselle Space Adventures Ltd:lle tehtäväksi löytää halukkaita, jotka olisivat valmiita maksamaan 20 miljoonaa dollaria 10 päivän matkasta.lähde?Vuonna 2004 kerrottiin, että newjerseyläinen liikemies Gregory Olsen olisi kolmas avaruusturisti huhtikuussa 2005. Olsenin matka toteutui kuitenkin vasta saman vuoden lokakuussa terveydellisten syiden takia.lähde?Venäjän avaruusjärjestö ilmoitti huhtikuussa 2006 34-vuotiaan japanilaisen liikemiehen Daisuke Enomoton lennosta avaruusasemalla Sojuz-laukaisulla. Enomoto on entinen Internet-yhtiön Livedoor Co.:n johtaja. Enomoto on ollut koulutuksessa vuoden 2006 alussa. Matkan hinta on 20 miljoonaa dollaria, joka on huomattavasti alempi kuin lennosta aiheutuvat laskennalliset kustannukset. 21. elokuuta 2006 kuitenkin ilmoitettiin, että Enomoton terveydentila ei sallinut hänen osallistumistaan Sojuz TMA-9 -lennolle. Enomoton tilalla asemalle lähti TMA-9-lennolla Anousheh Ansari.lähde?
+
+
+== Huolto ==
+
+Asemaa huollettiin pitkälle Nasan avaruussukkuloilla, joiden rahtikapasiteetti oli suuri sekä kiertoradalle että sieltä takaisin. Niiden ohella ISS:ää huollettiin miehittämättömillä huoltoaluksilla ja vuoden 2011 lopusta sukkuloiden poistuttua käytöstä ainoastaan niillä. Käytettyjä huoltoaluksia ovat jo Neuvostoliiton Saljut-ohjelman ajoilta käytössä ollut venäläinen Progress ja ESAn 2000-luvulla kehittämä ATV-alus. ATV on huomattavasti Progressia kalliimpi, mutta kuljettaa sitä hieman suuremman määrän rahtia. Muita käyttöön otettuja huoltoaluksia ovat JAXAn HTV-alus sekä yksityisten yhtiöiden Dragon ja viimeisimpänä Cygnus. Nykyisistä huoltoaluksilta ainoastaan Dragon on suunniteltu palaamaan ehjänä maan pinnalle, joten se on ainoa tapa tuoda suurempia määriä rahtia kuten tieteellisiä kokeita takaisin.
+Heinäkuuhun 2015 mennessä aseman miehistö on evakuoitunut siiheen kiinnitettyyn avaruusalukseen avaruusromuun törmäämisen varalta neljästi.
+
+
+== Tutkimus ==
+Kansainvälisen avaruusaseman toiminta on suunnattu ennen kaikkea monialaiseen tieteelliseen tutkimukseen. Toistaiseksi kuitenkin lähes kaikki tutkimus on ollut biolääketieteellistä, suuntautuen ihmisen fysiologian tutkimukseen mikropainovoimassa. Tutkimusta on tehty myös perusbiologiassa mikropainovoiman vaikutuksista eläinten ja kasvien rakenteeseen, aineenvaihduntaan ja evoluutioon.
+Muita tutkimusaloja ovat fysikaaliset tieteet, geotieteet, materiaalitiede sekä palamisprosessien tutkimus (combustion science). Asemaa on suunniteltu käytettävän myös tulevien avaruusohjelmien teknologioiden ja tekniikan tutkimiseen ja testaamiseen.
+
+
+== Rata ja havainnointi ==
+
+ISS ylittää Maan päiväntasaajan noin 90 minuutin välein 22,5 astetta lännempänä verrattuna edelliseen kierrokseen. Lisäksi maapallon litistyneisyyteen liittyvän gravitaatiovaihtelun takia ISS:n rata siirtyy vuorokaudessa noin 6 astetta lännemmäksi.ISS heijastaa hyvin Auringon valoa ja on juuri havaittavissa paljain silmin mutta mitään yksityiskohtia siitä ei erotu. Parhaimmillaan sen magnitudi on -2. Etelä-Suomessa aseman voi nähdä kuukauden välein. Yksi näkymisjakso kestää puolitoista viikkoa. Avaruusasema näkyy matalalla etelässä noin kymmenen minuutin ajan vuoroin aamu- ja iltataivaalla.
+
+
+== Livekuvaa maapallosta ==
+ISS:llä on neljä HD-laatuista livekuvaa maapallosta lähettävää kameraa, jotka ovat kiinni Columbus-moduulin ulkopinnassa. Kamerat lähetettiin asemalle vuonna 2014 SpaceX Dragon -kapselilla. Nasan HDEV-järjestelmä eli High Definition Earth-Viewing System kuvaa maapalloa kolmesta suunnasta: yksi kamera osoittaa eteen, toinen alaspäin ja kaksi muuta kuvaavat taaksepäin, jolloin saadaan eri kuvakulmia. Kuva lähetetään maahan livenä ja kameroista yksi kerrallaan toimii: kuvausvuoro vaihtuu jatkuvasti kameroiden välillä. Kameroiden kotelot ovat paineistettuja ja niiden lämpötila on säädelty. Livekuvaa ei lähetetä vain huvin vuoksi, vaan kameroilla testataan kuinka HD-kamerat kestävät avaruuden olosuhteita, esimerkiksi sitä miten kova säteily vaikuttaa kameran kuvanlaatuun ajan kuluessa. Kameroiden valmistajat ovat Hitachi, Panasonic, Sony ja Toshiba. Silloin kun kameran lähettämä kuva on musta, on ISS-aseman sijainti juuri silloin sellaisen alueen yläpuolella, jossa maapallolla eletään yöaikaa. Kuvausvuoron vaihtuessa musta kuva saattaa vähäksi aikaa muuttua ja näyttää auringon nousua tai laskua. Kuva näkyy hetken harmaana ja sitten mustana, kun kameroiden kuvausvuoro vaihtuu. Kuva auringonlaskusta ja tekstiä näytetään myöskin kuvausvuoron vaihtuessa tai silloin, kun lähetystä ei ole saatavilla.
+
+
+== Kritiikkiä ==
+Nasaa on kritisoitu etenkin Yhdysvalloissa siitä, että projekti on ajan- ja rahanhaaskausta. Näiden kriitikkojen mukaan resurssit voitaisiin kohdistaa hyödyllisempiinkin kohteisiin: esim. projektin arvioidulla 100 miljardin USD:n budjetilla voitaisiin toteuttaa kymmeniä miehittämättömiä tieteellisiä lentoja.
+Avaruustutkimuksen kannattajat huomauttavat, että tämäntyyppiset näkemykset ovat erittäin lyhytnäköisiä; tutkimustulokset ja avaruusaseman rakentamiseen liittyvät ratkaisut ovat tuottaneet miljardien edestä tuloja. Joissakin arvioissa on esitetty, että miehitetyillä avaruuslennoilla kehitetystä teknologiasta saatu epäsuora taloudellinen hyöty on seitsenkertainen aseman hintaan nähden. Toiset arviot tyytyvät vain kolminkertaiseen hyötysuhteeseen.lähde?
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+
+
+=== Eri organisaatioiden ISS-sivustoja ===
+International Space Station Energia.   Viitattu 2.3.2020. (englanniksi)
+International Space Station European Space Agency – ESA.   Viitattu 2.3.2020. (englanniksi)
+International Space Station Canadian Space Agency.   Viitattu 2.3.2020. (englanniksi), (ranskaksi)
+About the ISS – International Space Station JAXA.   Viitattu 2.3.2020. (englanniksi)
+International Space Station Nasa.   Viitattu 2.3.2020. (englanniksi)
+
+
+=== Tutkimustoiminnasta avaruusasemalla ===
+Harm, Deborah L. & Ruttley, Tara M. (editors): Research in space : Facilities on the International Space Station Nasa.gov.   Viitattu 2.3.2020. (englanniksi)
+
+
+=== Muita linkkejä ===
+25544 Satellite Search Results Karhukoti.com.   Viitattu 2.3.2020. (englanniksi)
+$20 million buys a sightseeing trip in orbit... Tourists Visit the International Space Station Space Today Online.   Viitattu 2.3.2020. (englanniksi)
+Fly to Low Earth Orbit on the SpaceX Dragon Space Adventures.   Viitattu 2.3.2020. (englanniksi)
+Launches and Landings Nasa.   Viitattu 2.3.2020. (englanniksi)

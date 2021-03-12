@@ -1,0 +1,162 @@
+Zuurstof is een chemisch element met symbool O (Uit het Latijn: oxygenium) en atoomnummer 8. Het is een niet-metaal dat tot de zuurstofgroep (groep VIa of groep 16) in het periodiek systeem behoort. Zuurstof komt als enkelvoudige stof vooral als dizuurstof (O2) in de atmosfeer voor. In samengestelde vorm is het eveneens een wijdverspreid element omdat alle water van de oceanen en alle silicaten waar de aardkorst uit bestaat zuurstof bevatten. Gemeten naar massa is zuurstof veruit het meest voorkomende element in het menselijk lichaam: dat bestaat voor ongeveer 65% uit zuurstof (voornamelijk als bouwsteen van water).Als gas is zuurstof kleurloos, geurloos en smaakloos. Als vloeistof is het lichtblauw.
+
+
+== Allotrope vormen ==
+
+
+=== Monozuurstof ===
+Zuurstof komt in vrije monatomaire vorm (het zuurstof-radicaal O⋅) op aarde alleen in de ijlere hoge lagen van de atmosfeer voor. Losse atomen van dit element zijn zeer reactief en verbinden zich snel met andere stoffen; bijvoorbeeld bij het ontleden van waterstofperoxide H2O2 zal het 'losse' O-atoom direct recombineren met andere O-atomen tot O2. Zulke losse zuurstofatomen die korte tijd gedurende een reactie een rol spelen worden ook wel "in statu nascendi" genoemd.
+
+
+=== Dizuurstof ===
+Zuurstof als element komt op aarde voornamelijk voor als dizuurstof (O2). Diatomair zuurstof kent twee vormen, een stabiele die tripletzuurstof genoemd wordt en een aangeslagen toestand die singletzuurstof genoemd wordt. Voor de laatste vorm geldt iets vergelijkbaars als voor de monatomaire vorm: deze vorm ontstaat bij bepaalde reacties, maar in de regel leeft een singletzuurstofmolecuul niet lang vanwege de hoge reactiviteit. Fotosynthese is een bron van singletzuurstof. Planten hebben daarom carotenoïde kleurstoffen om dit reactieve molecuul onschadelijk te maken.
+
+
+=== Trizuurstof ===
+Trizuurstof of ozon (O3) komt voor in de atmosfeer (in de ozonlaag) waar het gevormd wordt onder invloed van kosmische straling, maar kan ook door luchtvervuiling op zeeniveau gevormd worden.
+
+
+=== Tetrazuurstof en octazuurstof ===
+In de vaste fase kan zuurstof in meerdere fasen voorkomen. In de ε-fase, die enkel bij drukken hoger dan 10 GPa voorkomt en ook rode zuurstof wordt genoemd, zouden moleculen O4 en/of O8 voorkomen.
+
+
+== Ontdekking ==
+Zuurstof werd in 1771 ontdekt door de Zweedse apotheker Karl Wilhelm Scheele. De herontdekking door Joseph Priestley maakte het pas in wijdere kring bekend. Men begreep al gauw dat dit gas, hoewel het maar een vijfde deel van de lucht van onze planeet uitmaakt, verbranding mogelijk maakt, alsmede het ademen van mens en dier (en plant, gedurende de duisternis).
+Het was Antoine Lavoisier die het zijn wetenschappelijke naam oxygenium (zuurvormer) gaf. Men dacht dat het element een onontbeerlijk bestanddeel was van een zuur.
+Vooral het feit dat de elektrolyse van een groot aantal zuren (met waterstofhalogeniden als uitzondering) aan de kathode zuurstofgas opleverde, was debet aan deze overtuiging. Hoewel oxiden van vele elementen zuurvormend zijn, is het omgekeerde niet waar: om een zuur te vormen is zuurstof niet noodzakelijk. De vorming van waterstofchloride uit waterstofgas en chloorgas is hiervan een voorbeeld.
+
+
+== Toepassingen ==
+Zuurstofgas in zuivere vorm wordt veel toegepast in lasapparatuur en in de medische wereld, voor de behandeling van mensen met ademhalingsproblemen en clusterhoofdpijn. Ook in de luchtvaart en bij het duiken is het niet meer weg te denken (zie nitrox en trimix).
+Vloeibaar O2 vindt toepassing in de ruimtevaart en bij grootverbruikers. Als chemische grondstof is het ook bijzonder belangrijk, bijvoorbeeld voor de gecontroleerde oxidatie van ethyleen naar ethyleenoxide (over een zilverkatalysator). Dit industriële proces levert een belangrijke grondstof voor de polymeerindustrie.
+Zuurstofgas is onmisbaar voor vele organismen op aarde. Immers, zonder O2 zou er nergens op aarde aerobe
+dissimilatie plaatsvinden. Op zeeniveau bestaat de lucht voor ongeveer 21% uit zuurstofgas. Vermits het biochemisch proces van levende wezens hierop is aangepast, is dit een optimale hoeveelheid om het lichaam in goede conditie te houden. Zodra men zich naar de bergen verplaatst, zal de luchtdruk, en de hoeveelheid zuurstofgas in eenzelfde volume lucht, iets dalen. Levende wezens kunnen dan ademhalingsproblemen krijgen.
+FiO2 (fraction of inspired oxygen) is the molfractie of volumefractie van zuurstof in medisch toegediende lucht met extra zuurstof.
+
+
+== Verschijning ==
+
+Zuurstof is, naar voorkomen, het eerste element in de aardkorst. Het maakt er ongeveer 46,7% van uit, het meest in de vorm van metaaloxiden, silicaten, carbonaten en andere zouten.
+Het is het hoofdbestanddeel (gewichtsaandeel 88,8%) van de oceanen, als een van de elementen waaruit water (H2O) bestaat. Hetzelfde geldt voor het ijs waaruit de poolkappen bestaan.
+Op andere hemellichamen, bijvoorbeeld Mars, bestaat het ijs mogelijk uit koolstofdioxide, dat overigens ook zuurstof bevat. Jupiters maan Europa is geheel bedekt met waterijs en kometen bestaan grotendeels uit waterijs.
+Dat zuurstof in vrije vorm in de atmosfeer voorkomt, is het gevolg van het leven op aarde, met name van de fotosynthese door cyanobacteriën. Zonder die voortdurende productie zou het element geleidelijk uit de atmosfeer verdwijnen, omdat het vrij reactief is en zich met oxideerbare materialen verbindt. Bosbranden zijn hiervan een goed voorbeeld.
+
+
+== Industriële productie ==
+Er zijn twee belangrijke methoden die worden gebruikt om jaarlijks 100 miljoen ton O2 te produceren uit de lucht voor industriële toepassingen. De meest voorkomende methode is fractionele destillatie van vloeibare lucht in de verschillende componenten, waarbij N2 destilleert als een damp, terwijl O2 wordt gevormd als vloeistof.
+
+
+== Isotopen ==
+Naast het meest voorkomende zuurstofisotoop 16O komen er nog twee andere stabiele isotopen voor: 17O en 18O. Er is tevens een tiental radioactieve isotopen bekend met halveringstijden van minder dan drie minuten.
+
+
+== Toxicologie en veiligheid ==
+Brandgevaar wordt bij het gebruik van zuivere gasvormige en vooral van vloeibare zuurstof een nog veel ernstiger probleem dan het in het normale leven al is. Een prop watten gedrenkt in vloeibare zuurstof is een bom die afgaat met een metershoge steekvlam. De zuurstof is in zulke hoge concentratie op het oppervlak van de brandstof aanwezig dat de reactie ongemeen heftig wordt.
+Ook ozon en peroxiden zijn gevaarlijke materialen die met kennis van zake behandeld dienen te worden. Inademen van te grote hoeveelheden ozon kan tot ernstige longproblemen leiden, bovendien kan ozon met veel vluchtige organische verbindingen reageren tot schadelijke verbindingen. Een verzamelnaam voor dit soort verontreiniging is smog.
+Onder druk is zuurstof giftig voor de mens. De maximale diepte voor het duiken met zuivere zuurstof is 6 meter (zie zuurstofvergiftiging).
+
+
+== Zuurstofchemie ==
+Vanwege zijn merkwaardige elektronenstructuur en zijn hoge elektronegativiteit is elementaire zuurstof een agressieve oxidator, die met vrijwel alle andere elementen stabiele verbindingen vormt. Uitzonderingen zijn enkele van de lichtere edelgassen en het metaal goud, waarvan alleen metastabiele oxiden bekend zijn. Het op aarde meest voorkomende en belangrijkste oxide is uiteraard water.
+In oxiden neemt het element twee elektronen op en vormt de oxidatietoestand -II. Oxoanionen van elementen in hun hoogste oxidatietoestand zoals nitraten, chromaten, perchloraten enz. kunnen zelf ook bijzonder sterke oxidatoren zijn.
+Veel oxiden zijn ofwel zuur- ofwel basevormend wanneer zij met water gecombineerd worden, bijvoorbeeld:
+
+  
+    
+      
+        
+          CaO
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          Ca
+          
+            
+              (
+              OH
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {CaO + H2O -> Ca(OH)2}}}
+   een base
+
+  
+    
+      
+        
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          
+            CO
+            
+              3
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {CO2 + H2O -> H2CO3}}}
+   een oxozuur.Met name wanneer het centrale atoom een klein ion met hoge lading is, is het oxide zuur van aard. Grote ionen met een lage lading geven basen.
+Er zijn oxozuren en erop gebaseerde zouten met complexe oxo-anionen bekend van een vrij groot aantal elementen.
+Naast oxiden zijn er echter ook peroxiden bekend, zoals waterstofperoxide H2O2. Formeel is hier het oxidatiegetal −1 en er is een enkele zuurstof-zuurstof binding (H-O-O-H). Peroxiden zijn niet erg stabiel en kunnen afhankelijk van onder andere de zuurgraad als oxidator of als reductor optreden.
+In superoxiden heeft zuurstof formeel de oxidatietoestand −1/2.
+
+
+== Literatuur ==
+Donald Canfield, Oxygen: a four billion year history, Princeton University Press, 2013, ISBN 9780691145020
+
+
+== Externe links ==
+
+Lenntech.nl - Zuurstof (element)
+(en) EnvironmentalChemistry.com - Zuurstof (element)
+(en) WebElements.com - Zuurstof (element)

@@ -1,0 +1,59 @@
+Ein Quasar ist der aktive Kern einer Galaxie, der im sichtbaren Bereich des Lichts nahezu punktförmig erscheint (wie ein Stern) und sehr große Energiemengen in anderen Wellenlängenbereichen ausstrahlt. Der Name Quasar wurde vom englischen quasi-stellar radio source abgeleitet, was als „stern(en)artige …“ oder auch „stern(en)ähnliche Radioquelle“ übersetzt werden kann.
+Die Strahlungsemission eines Quasars stammt von einer rotierenden Scheibe leuchtender Materie, der Akkretionsscheibe, die ein supermassereiches Schwarzes Loch umgibt.
+
+
+== Entdeckung und Namensgebung ==
+Historisch bezeichnete der Begriff kosmische Radioquellen, die in den 1950er Jahren nicht als Radiogalaxien identifiziert werden konnten, sondern in optischen Beobachtungen blau und „sternförmig“ (also nicht flächig) erschienen. 1963 stellte Maarten Schmidt durch Spektralanalyse fest, dass die Radioquelle 3C 273 kein naher Stern ist, sondern mit einer Rotverschiebung von 0,158 im Bereich ferner Galaxien liegt, also nicht wirklich ein Stern, sondern nur quasi sternartig ist. Spätere Beobachtungen zeigten, dass die hellen sternartigen Quasare doch in die Kerne von Galaxien eingebettet sind, die aber wegen der großen Entfernung schwach erscheinen. Durch die starke Rotverschiebung aufgrund der Expansion des Universums wurden Quasare als sehr weit entfernte Objekte erkannt. Diese Folgerung konnte seit der Entdeckung von Gravitationslinsen unabhängig bestätigt werden. Quasare wurden inzwischen bis zu einer Rotverschiebung von 7,1 entdeckt.
+Mit der im Jahr 2010 gemachten Entdeckung, dass der 1,6 Mrd. Lichtjahre entfernte Quasar SDSS J0013+1523 als Gravitationslinse für eine 5,9 Mrd. Lichtjahre dahinterliegende Galaxie wirkt, ergibt sich eine direkte Möglichkeit zur Massenbestimmung eines Quasars.Die Bezeichnung QSO (quasi-stellar object) schließt nicht nur die klassischen radiolauten Quasare ein, sondern auch radioleise Objekte mit schwacher Radioemission, aber sonst ähnlichen Eigenschaften. Häufig wird aber der Begriff Quasar etwas ungenau für beide Klassen benutzt.
+
+
+== Physikalische Eigenschaften ==
+Da Quasare trotz ihrer großen Entfernung relativ hell erscheinen, gehören sie zu den leuchtkräftigsten Objekten im Universum. Nur sehr kurzzeitig hell aufleuchtende Phänomene (Supernova, Gammastrahlenblitz) sind möglicherweise energiereicher. Quasare sind über weite Bereiche der elektromagnetischen Strahlung hell und haben charakteristische Spektren mit sehr breiten Emissionslinien, die in rascher Bewegung befindliches Gas anzeigen. Die leuchtende Materie kreist mit hoher Geschwindigkeit um den galaktischen Kern, dabei erfährt der Teil der Materie, der sich vom Beobachter wegbewegt, eine Rotverschiebung und der Teil, der sich auf den Beobachter zubewegt, eine Blauverschiebung. Insgesamt verbreitern sich dadurch die Spektrallinien. Photometrisch lassen sich daher Quasare von einem Stern durch die sehr breiten Spektrallinien unterscheiden.
+Quasare gehören wie die schwächeren Seyfertgalaxien zur Klasse der aktiven Galaxien. Die Trennung anhand der Leuchtkraft ist rein historisch bedingt. Nach heutiger Annahme befindet sich im Zentrum aller Galaxien mit einem Bulge ein sehr massereiches Schwarzes Loch, das mehrere Millionen bis Milliarden Sonnenmassen umfassen kann. Aktive Galaxien unterscheiden sich von anderen Galaxien dadurch, dass dieses Schwarze Loch mit der Zeit an Masse zunimmt, da Materie aus der umgebenden Galaxie (interstellares Gas oder zerrissene Sterne) durch die Gravitation des Schwarzen Loches angezogen wird. Dieser Vorgang des Ansammelns von Materie wird in der Astronomie Akkretion genannt. Aufgrund der Drehimpuls­erhaltung bei der einfallenden Materie kann diese nicht direkt in das Schwarze Loch fallen, sodass sich um dieses herum eine Akkretionsscheibe bildet. Durch Reibung heizt sich diese Scheibe auf, wobei gleichzeitig Teile der Materie Drehimpuls verlieren und so in das Schwarze Loch fallen können. Die Emission der aufgeheizten Akkretionsscheibe ist das, was man als typische Strahlung des Quasars beobachtet. Sie kann eine Leuchtkraft ähnlich der von vielen Milliarden Sternen erreichen und somit mehr Licht abstrahlen als die gesamte umgebende Wirtsgalaxie. Die leuchtkräftigsten Quasare erreichen bis über 1014-fache Sonnenleuchtkraft. Allerdings zeigte die Beobachtung des Quasars Q0957+561, dass dieser kein Schwarzes Loch im Zentrum enthält, sondern besser durch ein Objekt vom Typ MECO erklärt werden kann.Sofern die Akkretionsscheibe über ein starkes Magnetfeld verfügt, wird ein kleiner Anteil des Materiestromes in zwei Teile gerissen und in Bahnen entlang der Feldlinien des Magnetfeldes gezwungen. Anschließend werden beide Ströme senkrecht zur Ebene der Akkretionsscheibe (einer auf jeder Seite) mit relativistischer Geschwindigkeit in die umgebende Galaxie und den weiteren Weltraum abgestoßen. Diese Jets können im Radiowellen­längenbereich beobachtet werden.
+
+
+== Nutzung als Referenzsystem ==
+Quasare sind sehr hell, sodass sie auf große Entfernungen sichtbar sind. Zugleich sind sie sehr weit entfernt, sodass ihre Bewegung am Himmel vernachlässigbar klein und faktisch nicht mehr messbar ist. Diese Eigenschaft wird genutzt, um aus den Quasaren ein Referenzsystem aufzubauen. Der International Celestial Reference Frame (ICRF) ist ein Katalog von Quasaren und anderen Objekten, deren Positionen in einem aufwendigen Verfahren mit Radioteleskopen über viele Jahre mittels VLBI auf ca. 30 µas (Mikrobogensekunden) genau vermessen wurde. Dieser Katalog lässt sich als Bezugssystem für astronomische Kataloge und für die Geodäsie einsetzen. Der ICRF3 enthält 4.536 extragalaktische Radioquellen.
+Im Rahmen der Veröffentlichung der Gaia-Mission wurden mehrere Versionen des Gaia Celestial Reference Frame veröffentlicht. Dieser Referenzrahmen wurde benutzt, um die Objekte der Gaiakataloge auszurichten. GCRF3 enthält 1.614.173 Quasare, die im optischen Bereich erfasst wurden. Der Katalog enthält damit wesentlich mehr Referenzpunkte.
+
+
+== Vereinheitlichtes Modell zur Klassifikation ==
+Yue Shen und Luis C. Ho fanden ein Modell zur vereinheitlichten Beschreibung vielfältiger Quasar-Erscheinungsformen. Quasare strahlen unterschiedlich viel Strahlung ab, die in ganz verschiedenartigen Spektrallinien auftritt. Auch bei nahezu massegleichen Quasaren findet man im Spektrum völlig verschiedene Emissionslinien. Als vereinheitlichende Parameter schlugen Shen und Ho vor, zu untersuchen, wie viel und wie schnell Materie in das Schwarze Loch fällt sowie von welcher Blickrichtung man den Quasar beobachtet und seine Emissionslinien erhält. Bedeutsam ist dabei die Orientierung der Rotationsachse des Schwarzen Lochs und damit die Lage der Akkretionsscheibe relativ zur Blickrichtung von der Erde. Dank der 1926 von Arthur Stanley Eddington beschriebenen Eddington-Grenze und der Eddington-Akkretionsrate, des Verhältnisses der Menge einfallender Materie zur abgestrahlten Energie des Quasars, lässt sich bei bekannter Entfernung die Masse des Materie verschlingenden Objekts abschätzen und die Masse des Quasars ermitteln.
+
+
+== Blazar ==
+
+Den Typus des optically violent variable quasar / OVV quasar, der Quasare mit besonders raschen und starken Helligkeitsvariationen, rechnet man zusammen mit den BL-Lac-Objekten (sehr hellen, sternähnlich erscheinenden Objekten, die aus einem sehr massiven Schwarzen Loch bestehen, das durch die zum Absturz gebrachte Materie polarisierte Strahlung mit starker Helligkeitsvariation emittiert) zur Gruppe der sogenannten Blazare. Bei ihnen geht man von einem Winkel zwischen Beobachtungsrichtung und Jetachse von höchstens wenigen Grad aus. Durch relativistische Effekte können bei diesen Objekten die fast mit Lichtgeschwindigkeit auf uns zulaufenden Jets auch in den höchstenergetischen Bereichen des Spektrums „gesehen“ werden. Durch das extrem schnelle Abströmen der Materiejets kommt es im Kernbereich mancher Quasare zu einem Unterdruck, relativistische Inversion genannt. Die unregelmäßige Akkretion neuer Materie verstärkt die Variabilität. Mit den Experimenten EGRET (GeV-Bereich) und COMPTEL (MeV-Bereich) auf dem Compton Gamma Ray Observatory wurden zehn Objekte gefunden, die in beiden Bereichen des Spektrums leuchten. Eine ähnliche Verknüpfung wie zwischen Quasaren und Blazaren wird zwischen Quasaren und Radiogalaxien vermutet, bei denen die Jetachse fast senkrecht zur Beobachtungsachse liegt. Diese Beziehungen sind Beispiele „vereinheitlichter“ Modelle, in denen verschiedene Arten aktiver Galaxienkerne durch unterschiedliche Beobachtungsrichtungen auf gleichartige Objekte erklärt werden.
+
+
+== Besondere Entdeckungen ==
+1998 wurde der besonders lichtstarke Quasar APM 08279+5255 entdeckt. Er erzeugt atypische Dreifachbilder, enthält eines der größten Schwarzen Löcher und wird von einer sehr großen Menge Wasser umkreist.
+2013 entdeckten Astronomen den Quasar SDSS J010013.02+280225.8 (verkürzt SDSS J0100+2802) aus dem Katalog des Sloan Digital Sky Survey (SDSS). Er ist etwa 12 Milliarden Lichtjahre von der Erde entfernt und enthält ein extrem massereiches Schwarzes Loch von 12,9 Milliarden Sonnenmassen aus einer Zeit, als das Universum weniger als 900 Millionen Jahre alt war. Diese Entdeckungen ermöglichen Einblicke in das Wachstum von Schwarzen Löchern und Galaxien im jungen Universum.
+2021 entdeckte das Team um Feige Wang von der University of Arizona den bisher fernsten und ältesten Quasar J0313-1806. Er ist 13 Milliarden Lichtjahre von der Erde entfernt und besteht aus einem Schwarzen Loch mit einer Masse von 1,6 Milliarden Sonnenmassen. Das Alter von nur ~670 Millionen Jahre nach dem Urknall wurde mithilfe der kosmologischen Rotverschiebung ermittelt, deren Wert z=7,642 beträgt.
+
+
+== Philatelistisches ==
+Mit dem Erstausgabetag 1. Juli 2019 gab die Deutsche Post AG in der Serie Astrophysik ein Postwertzeichen im Nennwert von 110 Eurocent mit der Bezeichnung Schwarzes Loch / Quasar heraus. Der Entwurf stammt von der Grafikerin Andrea Voß-Acker aus Wuppertal.
+
+
+== Siehe auch ==
+Astronomische Objekte
+
+
+== Literatur ==
+Joseph S. Miller: Astrophysics of active galaxies and quasi-stellar objects. University Science Books, Mill Valley CAL 1985, ISBN 0-935702-21-0.
+Volker Beckmann, Chris R. Shrader: Active Galactic Nuclei (= Physics textbook). Wiley-VCH, Weinheim 2012, ISBN 978-3-527-41078-1.
+J. Chris Blades: QSO absorption lines – probing the universe. Cambridge University Press, Cambridge 1988, ISBN 0-521-34561-8.
+Geoffrey Burbidge, Margaret Burbidge: Quasi-stellar objects. Freeman, San Francisco 1967.
+
+
+== Weblinks ==
+
+Robert Antonucci: Kein Verständnis für Quasare. In: Spektrum.de. 13. März 2013. Deutsche Übersetzung, Originaltitel: Quasars still defy explanation. In: Nature 495. 2013, S. 165–167.
+Was ist ein Quasar? aus der Fernseh-Sendereihe alpha-Centauri (ca. 15 Minuten). Erstmals ausgestrahlt am 12. Mär. 2000.
+Was ist ein Blazar? aus der Fernseh-Sendereihe alpha-Centauri (ca. 15 Minuten). Erstmals ausgestrahlt am 26. Apr. 2006.
+Rainer Kayser: Quasare: Wohin verschwinden die Gaswolken?. In: Welt der Physik. 5. Oktober 2012.
+VizieR-Katalog.
+
+
+== Einzelnachweise ==

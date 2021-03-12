@@ -1,0 +1,78 @@
+Hiilineutraali polttoaine tarkoittaa sellaista polttoainetta, jonka tuotanto ja käyttö yhdessä eivät lisää ilmakehän hiilidioksidia, samoin kuin hiilineutraalius yleensä tarkoittaa mitä tahansa järjestelmää, jonka toiminta ei lisää ilmakehän hiilidioksidia. Jos polttoaineen tuotannon ja käsittelyn kaikissa vaiheissa on hyödynnetty hiiletöntä tai hiilineutraalia energiaa, tuotettu polttoaine on hiilineutraalia. Hiiletön polttoaine on eräs mahdollisuus oikaista hiilineutraalin polttoaineen tuotannossa. Ellei polttoaine itsessään sisällä hiiltä, ei hiilen hankkimisesta tule ongelmaa.Hiilinegatiivisuudella tarkoitetaan hiilidioksidin poistamista ilmakehästä ja hautaamista. Hiilineutraalit polttoaineet ainoastaan korvaavat fossiilisten polttoaineiden käyttöä ja siten voivat vähentää hiilipäästöjä.Puu on poliittisella päätöksellä nimetty hiilineutraaliksi polttoaineeksi. Toisaalta puun hiilineutraalius on kyseenalaistettu, johtuen keruu- ja jatkojalostusmenetelmissä kulutetusta energiasta. Samoin kuin puu, myös biokaasu luokitellaan hiilineutraaliksi pääasiassa raaka-aineen uusiutuvuuden ansiosta. Myös muuhun biomassaan sovelletaan vastaavaa raaka-aineen kiertoon perustuvaa luokittelua.Polttoaineen hiilineutraaliutta ei voi suoraan päätellä polttoaineen kemiallisesta koostumuksesta. Tuotettu polttoaine voi olla hiilidioksidipäästöjen kannalta erittäin hiili-intensiivinen, mikäli tuotantoon tarvittava vety tuotetaan maakaasusta ja prosessissa tarvittava lisäenergia hankitaan polttamalla kivihiiltä tai muuta fossiilista polttoainetta. Vaikka vety onkin kemialliselta koostumukseltaan hiiletön ja muutenkin päästötön polttoaine, suurin osa maailman vedyntuotannosta perustuu maakaasun käyttöön raaka-aineena. Bioetanolikaan ei ole täysin hiilineutraali käytössä olevilla tuotantoprosesseilla. Vety olisi muuten monessa mielessä ideaalinen polttoaine, mutta sen energiatiheys tilavuuteen suhteutettuna on huono, ja siksi vedyn sijasta on haettu muita vaihtoehtoja.Vähähiilisillä polttoaineilla kuten maakaasulla voidaan saavuttaa suhteellinen hiilipäästöjen vähennys verrattuna runsashiilisiin polttoaineisiin, mutta päästövähennysten tavoitteiden kasvaessa vähähiiliset polttoaineet eivät riitä ratkaisuksi. Monet vähähiiliset polttoaineet auttavat hyvin rikkipäästöjen vähentämisessä, mutta esimerkiksi laivateollisuudelle asetettu tavoite 50 % vähennykseen kasvihuonekaasujen päästöissä ei toteudu pelkästään vähähiilisen polttoaineen avulla.
+
+
+== Hiilineutraaleja polttoaineita ==
+Puhtaasti tuotetut hiilettömät polttoaineet ovat hiilineutraaleja:
+Vety
+Ammoniakki
+Hydratsiini
+HeptasilaaniPuhtaasti tuotetut biopolttoaineet ovat hiilineutraaleja:
+Biodiesel
+Bioetanoli
+Biobutanoli
+"Vihreä" bensiini
+BiokaasuVedestä ja ilmakehästä kerätystä hiilidioksidista syntesoidut polttoaineet ovat hiilineutraaleja:
+Synteettinen dieselpolttoaine
+Synteettinen metanoli
+Dimetyylieetteri
+Synteettinen metaani
+Synteettinen bensiini
+Synteettinen lentopetroliLuonnossa kasvava biomassa sellaisenaan, kerättynä ja ilman kemiallista jalostusta katsotaan myös hiilineutraaliksi polttoaineeksi:
+
+Puu
+Ruohokasvit
+
+
+== Hiilineutraalien polttoaineiden taloudellisuus ==
+Fossiilisten polttoaineiden käytön yleistyminen on perustunut niiden helppoon saatavuuteen ja suhteellisen pieniin kustannuksiin. Fossiilisten energialähteiden asema kuitenkin vähitellen muuttuu. Vaihtoehtoisilla polttoaineilla on omat pulmansa. Hiilidioksidi ei olekaan synteettisten polttoaineiden valmistuksessa enää harmillista jätettä vaan raaka-ainetta. Biopolttoaineiden valmistuksessa on noussut kysymyksiä biomassan riittävyydestä ja energiakäyttöön kasvatettavan biomassan kuluttamasta pinta-alasta. Mahdollisuus tarvittavan hiilidioksidin keräämiseen suoraan ilmasta on katsottu vaihtoehdoksi. Öljyriippuvuudesta vapautuminen edellyttää kuitenkin vaihtoehtojen kehittämistä, ja fossiilista lähteistä riippumattomat hiilineutraalit polttoaineet näyttävät johdonmukaisilta vaihtoehdoilta. Synteettisten polttoaineiden avulla on mahdollista vähentää taloudellista riippuvuutta öljyntuottajista. Vaikka synteettiset polttoaineet eivät olekaan olleet kilpailukykyisiä vapailla markkinoilla, niiden kustannukset ovat laskeneet. Hiilineutraalin synteettisen polttoaineen muuttumista kilpailukykyiseksi voi nopeuttaa myös kasvattamalla päästömaksuja. Bioenergia kilpailee synteettisten polttoaineiden kanssa, mutta jälkimmäisiin ei tarvita paljon pinta-alaa.
+
+
+== Hiilineutraalien polttoaineiden tuotannon teknisiä edellytyksiä ==
+Hiilineutraalit polttoaineet eivät itsessään ole energialähteitä vaan niiden tuotantoon tarvitaan taloudellisesti edullisia ja hiilettömiä primäärienergialähteitä. Tässä varsinkin ydinenergian kehityksen ja lisärakentamisen merkitys korostuu. Ydinenergia on periaatteessa hiilineutraalia ja käytännössäkin lähes hiilineutraalia. Neljännen sukupolven ydinreaktoreiden oletetaan parantavan hiilineutraalien polttoaineiden tuotannon tehokkuutta ja kilpailukykyä. Erityisesti neljännen sukupolven reaktoreiden korkea lämpötila, energianmuunnoksen korkea terminen hyötysuhde ja turvallisuus tekevät ydinenergiasta tärkeän tekijän hiilineutraaleiden polttoaineiden tuotannossa, alkaen kilpailukykyisestä vedyn tuotannosta esimerkiksi korkean lämpötilan elektrolyysissä. Ydinfuusioon perustuva fuusioenergia nähdään myöhemmän tulevaisuuden mahdollisuutena. Verrattuna ydinenergiaan, uusiutuvien energialähteiden kilpailukyky perustuu pieneen laitoskokoon ja nopeaan rakentamisen aikatauluun.Biomassan käyttökelpoisuus energiantuotannossa korostuu. Biomassalla on luontaisesti edullisia ominaisuuksia:
+Biomassa on kotimaista, mikä on merkittävää omavaraisen energiantuotannon ja öljyriippuvuudesta vapautumisen kannalta.
+Biomassa on hiilineutraali hiilen ja energian lähde.
+Biomassa on yhteensopiva fossiilisten polttoaineiden infrastruktuurin kanssa.Biopolttoaineiden tuotannossa tarvitaan raaka-aineeksi ja energialähteeksi vain biomassaa. Perinteisen biopolttoaineen tuottamisen sijasta biomassaa voidaan kohdella pääasiassa hiilineutraalina hiilen lähteenä, jolloin biomassan sisältämää hiiltä ei tuhlata, ja huomattava osa tarvittavasta energiasta tulee muista lähteistä.Hiilineutraalien synteettisten polttoaineiden valmistuksessa tarvitaan:
+Hiilineutraalia energiaa
+Hiilineutraalia hiilidioksidia
+Hiilineutraalia vetyäIlman sisältämä hiilidioksidi kelpaa myös hiilen lähteeksi polttoaineen valmistuksessa. Mahdollisimman välitöntä polttoaineen tuottamista ilmasta kerätystä hiilidioksidista on kehitetty. Hiilidioksidi siirtyy keräyslaitteistossa suoraan virtaavaan liuokseen, joka siirretään putkia pitkin erotukseen. Hiilivetypolttoaineen tuottamista ilman hiilidioksidista suoraan auringonvalolla on myös kehitetty. Uudella katalyytillä on siinä ratkaiseva merkitys.
+
+
+== Hiilineutraalien polttoaineiden tulevaisuudennäkymiä ==
+Huoli fossiilisten polttoaineiden riittävyydestä ja ympäristövaikutuksista ovat johtaneet ponnisteluihin hiilineutraalien polttoaineiden kehittämiseksi. Vaihtoehtoisia hiilineutraaleja polttoaineita kehitettäessä aivan uusien prosessien käyttöönotossa ilmenee teknisiä ja taloudellisia epävarmuuksia. Esimerkiksi mikrolevien hyödyntäminen polttoaineiden tuotantoon on edistynyt odotettua hitaammin.Hiilidioksidin kerääminen ilmasta synteettisten polttoaineiden tuotantoon on ollut kehitysponnistelujen kohteena. Kerätystä hiilidioksidista voidaan valmistaa metanolia ja siitä edelleen useita muita polttoaineita. Samoin hiilettömät polttoaineet kuten vety ja ammoniakki nousevat vaihtoehdoiksi. Näiden tuottamiseen kuluu runsaasti energiaa, jonka tulee olla hiilineutraalia. Entistä parempien katalyyttien kehittäminen tehostaa synteettisten polttoaineiden tuotantoa. Laivateollisuuden suunnitelmat hiilineutraalien ja hiilettömien polttoaineiden käyttöönottamiseksi ovat pitkällä. Hiileen pohjautuvien mutta hiilineutraalien synteettisten polttoaineiden odotetaan yleistyvän, sillä niille ovat kuluttajat ja jakeluverkostot valmiina olemassa.Metsän biomassaan perustuvien biopolttoaineiden hiilineutraaliutta on arvosteltu sen vuoksi että metsät uusiutuvat hitaasti, ja välittömät hiilidioksipipäästöt tuotettua energiaa kohti ovat jopa suuremmat kuin kivihiilellä.
+
+
+== Katso myös ==
+Metanolitalous
+Sähköpolttoaine
+
+
+== Lähteet ==
+Anttila, Petri & Rönkkönen, Mika: Voimalaitoksen polttoaineensyötön optimointi (PDF) (Opinnäytetyö) Theseus.  7.9.2017. Kaakkois-Suomen ammattikorkeakoulu.   Viitattu 16.5.2019. 
+Carbon-neutral cars: synthetic fuels turn CO2 into a raw material (Press release) Bosch Media Service.  22.08.2017. Robert Bosch GmbH.   Viitattu 16.5.2019. (englanniksi)
+Brown, Cameron: What’s the Difference Between Carbon Neutral, Zero Carbon, and Negative Emissions? Cleantech Rising.  4.10.2018.   Viitattu 16.5.2019. (englanniksi)
+Brown, Trevor: DNV GL predicts carbon-neutral fuels, including ammonia, to surpass oil for shipping by 2050 Ammonia Industry.  14.9.2018.   Viitattu 16.5.2019. (englanniksi)
+Canadian company develops cheaper method for turning CO2 into carbon neutral fuel Business Insights.  17.7.2018. Allianz Partners.   Viitattu 16.5.2019. (englanniksi)
+Carbon Engineering: CO2 capture and the synthesis of clean transportation fuels Carbon Engineering.  2019.   Viitattu 16.5.2019. (englanniksi)
+Can there really be carbon-neutral gasoline? A BC firm reckons it might arrive sooner rather than later The Climate Examiner.  27.6.2018. Pacific Institute for Climate Solutions.   Viitattu 16.5.2019. (englanniksi)
+Dolan, Thomas J.: Molten Salt Reactors and Thorium Energy.    Woodhead, 2017.  ISBN 978-0-08-101243-7. Teoksen verkkoversio (PDF) (viitattu 4.6.2019).  (englanniksi)
+Europaeus, Veera: Puubiomassan kaasutukseen perustuva hajautettu energiantuotanto (PDF) (Kandidaatintyö)  2014. Lappeenrannan teknillinen yliopisto.  Arkistoitu 2.12.2017.  Viitattu 16.5.2019. 
+Gable, Christine & Gable, Scott: Carbon Neutral Alternative Fuels ThoughtCo.  6.8.2018. Dotdash.   Viitattu 16.5.2019. (englanniksi)
+Storing Renewable Energy in Carbon-neutral Liquid Fuel Global Opportunity Explorer.  4.3.2019.   Viitattu 16.5.2019. (englanniksi)
+New catalyst paves way for carbon-neutral fuel Keep It Clever.  3.4.2018. Universities Australia.   Viitattu 16.5.2019. (englanniksi)
+Kozak, Graham: Gasoline from thin air: Carbon-neutral fuels are just around the corner...maybe Autoweek.  19.6.2018. Detroit, Michigan:  Crain Communications.   Viitattu 16.5.2019. (englanniksi)
+Leighty, Bill: Running the World on Renewables: Alternatives to Electricity for Transmission, Firming Storage, and Supply Integration of Diverse, Stranded Renewables at GW Scale (PDF) Low Carbon Earth Summit.  19.10.2012. Guangzhou, China:  Leighty Foundation.   Viitattu 16.5.2019. (englanniksi)
+Leighty, William C. & Holbrook, John H.: Running the World on Renewables: Alternatives for Transmission and Low-cost Firming Storage of Stranded Renewables as Hydrogen and Ammonia Fuels via Underground Pipelines (PDF) Proceedings of the ASME 2012 International Mechanical Engineering Congress & Exposition IMECE2012.  November 9-15, 2012. Houston, Texas:  Leighty Foundation.  Arkistoitu 21.9.2013.  Viitattu 16.5.2019. (englanniksi)
+Morton, Mary Caperton: Sipping carbon-neutral fuel from the atmosphere EARTH Magazine.  16.10.2018. American Geosciences Institute.   Viitattu 16.5.2019. (englanniksi)
+Muradov, Nazim Z. & Veziroğlu, T. Nejat: Carbon-Neutral Fuels and Energy Carriers.   Boca Raton, Florida: CRC Press, 2012. eBook. ISBN 978-1-4398-1858-9. Teoksen verkkoversio (PDF) (viitattu 21.5.2019).  (englanniksi)
+Roberts, David: Sucking carbon out of the air won’t solve climate change Vox.  Jul 16, 2018. Vox Media.   Viitattu 16.5.2019. (englanniksi)
+Romantschuk. Martin: Hukummeko jätteisiin? (PDF) (Studia Generalia) www.helsinki.fi.  3.11.2011. Helsingin yliopisto.   Viitattu 16.5.2019. 
+Salo, Pekka: Raportti etanolimuunnoksen vaikutuksista (PDF) (kaupallinen tiedote) eFlexFuel.  10.1.2017.   Viitattu 16.5.2019. 
+Santala, Miika: Polttokenno ajoneuvojen teholähteenä (PDF) (Kandidaatintyö) TUT DPub Repository.  Kevät 2018. Tampereen teknillinen yliopisto.   Viitattu 16.5.2019. 
+U.S. EPA says it will define wood as a ‘carbon-neutral’ fuel, reigniting debate Science.  24.4.2018. American Association for the Advancement of Science.   Viitattu 16.5.2019. (englanniksi)
+New catalyst paves way for carbon neutral fuel ScienceDaily.  21.6.2017. University of Adelaide.   Viitattu 16.5.2019. (englanniksi)
+Hyvinvointia ydinsähköllä (PDF) (Kaupallinen tiedote) www.tvo.fi.  2011. TVO.   Viitattu 16.5.2019. 
+Tyystjärvi, Ilona: Puun käyttö energialähteenä on itsepetosta – ”Biopohjaisesti tuotetun energian hiilidioksidipäästöt ovat jopa kivihiiltä suuremmat” Tekniikka & Talous.  25.9.2019.   Viitattu 28.9.2019. 
+Vieno, Marja: Varsinais-Suomen ilmastostrategia 2020. Ilmastonmuutoksen hillintä ja muutokseen sopeutuminen. (PDF) Kaarinan kaupunki.  2011. Valonia.   Viitattu 16.5.2019. 
+
+
+=== Viitteet ===

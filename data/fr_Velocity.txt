@@ -1,0 +1,17 @@
+Dans un canal de communication utilisant une méthode de transmission par éléments temporels discrets, dont les canaux de communication numériques, la rapidité de modulation, aussi appelée « vitesse de modulation », est l'inverse de la plus courte durée théorique de l'élément de signal.
+Dans la plupart des canaux numériques, les éléments de signal ou symboles sont de durée égale, et la rapidité de modulation est le nombre de moments élémentaires de signal par unité de temps. La rapidité de modulation est alors également appelée débit de symbole. Elle se mesure en baud.
+Le  débit binaire, qui est la quantité d'unités d'information que transmet le signal par unité de temps, est le produit de la rapidité de modulation par le logarithme binaire de la valence de l'élément.
+
+d = r * log2(v) où v est la valence.Exemples :
+
+Si un élément de signal ne peut avoir que deux valeurs, alors log2(v) = log2(2) = 1 et le débit binaire est égal à la rapidité de modulation.
+La télévision numérique terrestre en France utilise une modulation dite 64QAM (modulation d'amplitude en quadrature, avec des symboles de valence 64). log2(v) = log2(64) = 6, donc chaque symbole code 6 bits ; le débit binaire est égal à six fois le débit de symbole.
+
+
+== Sources ==
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « Symbol rate » (voir la liste des auteurs).
+
+
+=== Références ===
+Commission électrotechnique internationale, « Télégraphie et communication de fac-simile et de données — Transmission utilisant des signaux temporellement discrets ou numériques », dans ISO 60050 Vocabulaire électrotechnique international, 2017 (1re éd. 1987) (lire en ligne), p. 721-03-26 « rapidité de modulation »
+ Portail des technologies   Portail des télécommunications

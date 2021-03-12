@@ -1,0 +1,63 @@
+Een kanon is een stuk geschut dat een projectiel in een nagenoeg rechte baan op het doel afschiet. Geschut van dit type wordt ook wel vlakbaangeschut genoemd (in tegenstelling tot krombaangeschut of worpgeschut, dat projectielen over hindernissen heen kan schieten).
+
+
+== Geschiedenis ==
+
+
+=== Middeleeuwen ===
+Het kanon kon ontwikkeld worden dankzij de uitvinding van het buskruit in China. Het gebruik van buskruit voor vuurwapens was daar al in de 10e eeuw bekend, maar voor kanonnen was er weinig emplooi, vooral omdat de traditionele vijanden van de Chinezen nomadische stammen waren, die te paard in brede zwermen manoeuvreerden en zodoende met zware wapens niet effectief te bestrijden waren.
+Een vroege vorm van het kanon is de bombarde. Het moderne kanon is omstreeks 1325 in Italië uitgevonden, nadat het buskruit door ontdekkingsreizigers naar Europa was meegenomen. De oudste betrouwbare bron vermeldt de vervaardiging van bronzen kanonnen en ijzeren kogels in 1326 voor de verdediging van Florence. Twintig jaar later werden tijdens de Slag bij Crécy kanonnen ingezet, maar erg effectief waren die kanonnen niet.
+Karel VIII van Frankrijk was een van de eersten die met succes kanonnen gebruikte. Tijdens zijn campagne om het Koninkrijk Napels (1494/1495) onder zijn gezag te brengen, haalde hij de hoge muren van de Italiaanse steden probleemloos neer. Europa streefde China met technologische ontwikkelingen op het gebied van kanonnen al snel voorbij, terwijl het kanon in China in de 17e eeuw al in de vergetelheid was geraakt.
+Het kanon heeft grote gevolgen voor de Europese politiek gehad: forten en vestingen in de oude kasteelvorm waren na de introductie van het kanon geen veilige schuilplaats meer voor ridders en lokale heersers. Dit is een van de ontwikkelingen waarmee de vroegmoderne tijd in Europa wordt onderscheiden van de middeleeuwen. Ten tijde van de invoering ervan was het kanon het zwaarste wapen dat een leger tot zijn beschikking had.
+Ook op zee werd het kanon op grote schaal ingevoerd: oorlogsschepen werden vanaf de 16e eeuw over een groot deel van de lengte met rijen kanonnen uitgerust, soms op meerdere dekken. De vijand werd tijdens het voorbijvaren beschoten, soms met twee kanonskogels die aan elkaar waren bevestigd tot haltervormige projectielen. Deze richtten aan dek een enorme ravage aan, zowel aan het schip en de tuigage als onder de bemanning.
+
+
+=== Negentiende eeuw ===
+Van de middeleeuwen tot in de vroegmoderne tijd ontwikkelde het kanon zich voornamelijk in grootte, kaliber en kracht. Het principe veranderde nauwelijks, alleen de materialen en de productieprocessen verbeterden, waardoor de wapens steeds krachtiger werden. In de 19e eeuw veranderde dit, onder invloed van de industrialisatie. Twee belangrijke wijzigingen veranderden het kanon in een nauwkeuriger en eenvoudiger te bedienen wapen: de schietbuis werd voorzien van trekken en velden die het projectiel langzaam om zijn as doen draaien, waardoor het wapen aanzienlijk nauwkeuriger werd, en de achterlader werd ontwikkeld. Deze verdrong dankzij de snelheid waarmee het kanon kon worden herladen in korte tijd de traditionele voorlader.
+Ook de munitie veranderde: de granaat werd verder ontwikkeld en er werden vanaf 1803 projectielen ontwikkeld (shrapnel) die tegen infanterie en cavalerie ingezet konden worden. Dankzij moderne springstoffen kwam tegen het einde van de eeuw ook de brisantgranaat beschikbaar, die met zoveel kracht explodeerde dat hij vrijwel alle vestingwerken nutteloos maakte. Technische ontwikkelingen in het affuit maakten het effect van de terugslag van het wapen kleiner. Ook werd het wapen steeds gemakkelijker te verplaatsen. Kanonnen speelden een belangrijke rol tijdens veldslagen in de 19e eeuw.
+In de oorlogvoering op zee verschenen rond 1850 de eerste ironclads, gepantserde oorlogsschepen. Aanvankelijk waren deze bestand tegen inslagen van kanonskogels. Pas tegen het einde van de eeuw werd pantserdoorborende munitie ontwikkeld die effectief was tegen de bepantserde scheepshuid.
+
+
+=== Twintigste eeuw tot heden ===
+Tot in de Tweede Wereldoorlog was het kanon een belangrijk wapen, zowel te land als ter zee. Schepen als de HMS Hood en de Bismarck beschoten elkaar met reusachtige kanonnen van kaliber 380 mm. Het Japanse slagschip de Yamato had zelfs kanonnen met een kaliber van 460 mm. Te land was het Duitse 88mm-kanon het zwaarste gangbare wapen. Het was aanvankelijk ontworpen als zwaar luchtafweergeschut, maar toen het bij wijze van noodoplossing horizontaal gericht werd, bleek het ook uiterst effectief als antitankkanon. Het werd vervolgens ook in de geschutskoepels van de zware Tiger I-tank gemonteerd. Het had een effectief bereik van tien kilometer, veel meer dan die van de Amerikaanse Sherman-tank.
+Al tijdens de Tweede Wereldoorlog begonnen vliegdekschepen, bommenwerpers en 'zelfaandrijvende' granaten (oftewel raketten met een explosieve lading) aan belang te winnen. De hoeveelheid brandstof voor een raketmotor is veel gemakkelijker te vergroten dan de voortdrijvende lading van een granaat, waarbij ook het afschietende kanon steeds groter moet worden. Een bekende vroege raketwerper uit de oorlog is het zogenaamde Katjoesja.
+Na de Tweede Wereldoorlog ontwikkelde de Canadees Gerald Bull kanonnen onder de namen "Project Babylon" en "Project HARP" met gigantische afmetingen. Het kaliber liep op tot 1000 mm en een schietbuislengte van 156 meter. Het doel was om granaten (600 kg) over zeer grote afstand (1000 km) te schieten. In 1988 volgden contracten met Irak voor de levering van twee van deze kanonnen en een "Baby Babylon". Deze wapens zijn nooit ingezet. Gerald Bull werd slachtoffer van een aanslag.
+Ter zee speelt het kanon als aanvalswapen nog slechts een marginale rol; een zwaar kanon kan een afstand van 20 à 30 km overbruggen, maar op zee is dat weinig; een geleid wapen met eigen aandrijving heeft daar een onmiskenbaar voordeel. Te land, ter zee en in de lucht is vlakbaangeschut nog steeds van belang, gemonteerd op schepen als verdediging tegen raketten, vliegtuigen, pantserwagens en tanks, vooral in de vorm van zelfladende snelvuurkanonnen.
+
+
+== Techniek ==
+Een kanon bestaat uit een of meerdere schietbuizen, een onderstel (affuit) en richtmiddelen. Een kanon is een vuurmond: het projectiel wordt afgeschoten door middel van kruit, dat wordt ontstoken.
+Om het projectiel in een vlakke ballistische baan af te vuren, is een hoge aanvangssnelheid noodzakelijk. Dit wordt bereikt door een grote lengte van de schietbuis ten opzichte van de diameter (het kaliber) ervan. Deze verhouding is minimaal 15:1. Bij een lagere verhouding is een vlakke baan niet mogelijk, men spreekt dan over houwitsers (voor krombaangebruik) of mortieren (voor steilbaangebruik). 
+Afhankelijk van de manier waarop het kanon geladen wordt, wordt gesproken van voorladers dan wel achterladers. Bij een voorlader worden achtereenvolgens het kruit, een prop en het projectiel via dezelfde opening geladen als waaruit het projectiel wordt afgevuurd. Bij achterladers kan een granaat inclusief een huls waarin een ontsteker en het kruit zijn ondergebracht, met een enkele handeling via de achterzijde worden geladen.
+Door de hitte en kracht van een schot ontstaat metaalmoeheid. Dit werd al vroeg onderkend. Met een kanon mocht niet meer dan een zeker aantal schoten worden gelost. Daarna werd het kanon vernageld: er werd een overmaatse loden kogel in de loop geslagen, en in het lontgat werd een nagel oftewel nestelpen geslagen. Dergelijke vernagelde kanonnen werden als schroot verkocht, of als sierobject neergezet. Vernagelen gebeurde ook met kanonnen die, als een nederlaag dreigde, in vijandelijke handen dreigden te geraken.
+
+
+== Uitvoeringen ==
+Kanonnen zijn in de loop der tijd in vele uitvoeringen gemaakt, zowel voor de aanval als voor de verdediging. De grootste exemplaren, die overigens nauwelijks meer in actieve dienst zijn, zijn te vinden op slagschepen, waar een kaliber van circa 460 mm het maximum is.
+Het gemechaniseerd geschut en veel uitvoeringen van de tank zijn in wezen mobiele kanonnen.
+Afhankelijk van het doel waarvoor het kanon is ontworpen, kan de schietbuis van binnen glad zijn, of "getrokken". In het laatste geval is de loop voorzien van "trekken en velden": zwak spiraalvormige groeven, die het projectiel om de as doen draaien. Hierdoor krijgt het projectiel een gyroscopisch effect waardoor de baan die het projectiel aflegt voorspelbaarder wordt.
+
+Als projectiel kunnen onder andere worden gebruikt:
+
+zware natuurstenen kogels
+zware metalen ballen
+holle projectielen met een explosieve lading (brisantgranaten), lichtgevende granaten aan parachutes voor gevechtsveldverlichting of gevuld met gifgas/biologische inhoud. Deze projectielen kunnen eventueel worden uitgevoerd met een aandrijfmechanisme voor een nog groter bereik, zodat het in feite raketten zijn
+shrapnel (vergelijkbaar met hagel)
+pantserdoorborende "pijlen" vervaardigd uit wolfraam of verarmd uraniumDe keuze van de projectielen is afhankelijk van het doel dat wordt beschoten. Om een tank uit te schakelen gebruikt men pantserdoorborende projectielen; om infanterie op korte afstand te bestoken gebruikt men een kartets of shrapnel, dat onder andere tijdens de slag bij Waterloo werd gebruikt.
+
+
+== Wetenswaardigheden ==
+Het metselaartje, een type drinkglas, wordt ook wel een kanon genoemd omdat het op een ouderwets kanon lijkt.
+Bij de Koninklijke Marine is naast 'kanonnen' ook de meervoudsvorm 'kanons' gangbaar.
+
+
+== Zie ook ==
+Artillerie
+Dulle Griet
+Grote Griet
+Dikke Bertha
+Lange Max
+
+
+== Externe link ==
+Het geschut van de Nederlandse veldartillerie (houwitsers en kanonnen)

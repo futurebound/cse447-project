@@ -1,0 +1,38 @@
+For alternative betydninger, se Masse. (Se også artikler, som begynder med Masse)
+I fysik er begrebet masse et udtryk for mængden af stof i et  legeme.
+Der er strengt taget to former for masse:
+
+Den træge masse, der populært kan beskrives som legemets modstand mod at ændre hastighed
+Den gravitationelle masse, der kort sagt er den faktor der indgår i massetiltrækningsloven.De to masse-begreber er indholdsmæssigt helt forskellige, men de mest omhyggelige eksperimenter har vist at de to betydninger giver det samme resultat, inden for den målenøjagtighed, det har været muligt at opnå. Se også ækvivalensprincippet.
+I SI-systemet måles masse i kilogram.
+
+
+== Enheder for masse ==
+Andre enheder for masse, som er godkendt til brug i SI-systemet:
+
+Gram (g): 0,001 kg
+Ton (t) fx: 1000 kg  (der er flere tonvarianter)Andre enheder for masse, som ikke er godkendt til brug i SI-systemet:
+
+Almindelig anvendt i Danmark - med entydig definition i hele verden:
+Karat: 1 karat = 200 mg (der var mange varianter før 1907-1913)
+Atommasseenhed (unit, u): 1 u = 1,660 538 922 × 10-27 kg
+Solmasse (M☉): ≈1,99 × 1030 kg
+Plancks masse (mp): 2,18 × 10-8 kg
+Almindelig anvendt i Danmark - med flertydig definition:
+Pund (lb, libra, pound) fx: 0,454 eller 0,500 kg
+Unse (oz, ounce) fx: 28,34 eller 31,1 gram
+Sjældent anvendt i Danmark - med flertydig definition:
+Slug (sl) fx: 14,594 kg
+Sten (st, stone') fx: 635 kg
+Kvart (qr. quarter) fx: 12,7 kg
+
+
+== Kilder/referencer ==
+
+
+== Se også ==
+Massefylde
+Vægt
+Gravitation
+Præcession
+Stof

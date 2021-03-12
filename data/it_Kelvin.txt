@@ -1,0 +1,143 @@
+Il kelvin (simbolo K, a volte erroneamente indicato con °K) è un'unità di misura della temperatura che appartiene alle sette unità base del Sistema internazionale di unità di misura.
+
+
+== Definizione ==
+Nel 2018, la 26ª CGPM ha modificato la definizione dell'unità di misura di temperatura riducendola alle unità di misura meccaniche del Sistema Internazionale (secondo, metro, chilogrammo), sfruttando il teorema di equipartizione dell'energia della meccanica statistica. Un kelvin è la differenza di temperatura termodinamica corrispondente a una differenza di energia termica pari a kB J, dove kB è il valore della costante di Boltzmann in Joule/kelvin. Il valore della costante, che finora non era ancora stato misurato con sufficiente precisione e variava ancora leggermente da una conferenza all'altra, è finalmente considerabile sufficientemente stabile: la costante di Boltzmann ora per definizione corrisponde a 1,380649 × 10−23 J/K.
+
+
+=== Storia ===
+La (ri-)definizione immediatamente precedente del kelvin era stata adottata nel 1954 dalla 10ª Conférence générale des poids et mesures, ed era di "1/273,16 della temperatura assoluta del punto triplo dell'acqua".Per "temperatura assoluta" si intende la differenza fra la temperatura indicata (in questo caso quella del punto triplo dell'acqua: 0,01 °C) e quella dello zero assoluto (-273,15 °C). Lo zero della scala Kelvin è infatti lo zero assoluto: è una scala di temperatura assoluta, come la scala rankine.
+Per capire il livello di precisione richiesto nella definizione di una unità di misura, nel suo meeting del 2005 il Comité International des Poids et Mesures ha aggiunto la seguente precisazione alla definizione di kelvin indicata sopra: "Questa definizione si riferisce ad acqua avente una composizione isotopica definita esattamente dai seguenti rapporti di sostanze: 0,00015576 moli di 2H per mole di 1H, 0,0003799 moli di 17O per mole di 16O, e 0,0020052 moli di 18O per mole di 16O". Questo perché variazioni nelle concentrazioni (minime, come si vede dalla precisazione) di isotopi dell'idrogeno (H) e dell'ossigeno (O) nell'acqua comportano variazioni nella temperatura del suo punto triplo che non sono tollerabili oggi nella definizione di questa unità di temperatura.
+Questa unità di misura prende il nome dal fisico e ingegnere irlandese William Thomson, nominato barone con il nome di Lord Kelvin. Egli propose per primo questa definizione nel 1868, partendo dalla considerazione termodinamica che esiste una temperatura minima assoluta, lo zero assoluto. Per praticità è stata però mantenuta invariata, rispetto alla preesistente scala Celsius, la dimensione di una unità (Δ 1 K ≡ Δ 1 °C): in questo modo le differenze di temperatura nelle scale Celsius e Kelvin sono numericamente uguali.
+
+Mentre la scala Celsius è pratica dal punto di vista umano, in quanto si basa sulla temperatura di fusione del ghiaccio e di ebollizione dell'acqua (che sono temperature di cui si ha quotidianamente esperienza diretta), quella Kelvin è più rigorosa (prende atto esplicitamente della presenza di un minimo assoluto di temperatura) e si presta a essere usata come unità di misura facilmente riproducibile. Infatti la temperatura del punto triplo dell'acqua è una quantità auto-consistente, che non richiede altre definizioni (o quasi, si veda sotto), mentre la temperatura di fusione e di ebollizione richiedono di specificare le condizioni normali (specialmente di pressione) a cui il processo di fusione o ebollizione avviene.
+La scala Kelvin, avendo per zero lo zero assoluto è a volte detta scala assoluta (infatti non c'è temperatura più bassa di -273,15 gradi Celsius). La scala di temperatura Celsius e il grado Celsius sono comunque accettati, ma come unità derivata, e sono definiti rispetto al kelvin.
+Nella tredicesima Conferenza generale dei pesi e delle misure si è deciso di abbandonare il termine "grado" per riferirsi alla scala Kelvin e corrispondentemente il simbolo °, che invece rimane per le scale Fahrenheit (°F) e Celsius (°C).
+Altre scale di temperatura sono: Newton (ca. 1700), Rømer (1701), Fahrenheit (1724), Réaumur (1732), Delisle o de Lisle (1738), Celsius (1742), Rankine (1859) e Leyden (circa 1894?).
+In Italia la scala termodinamica delle temperature è attuata mediante i campioni dell'ex Istituto di metrologia Gustavo Colonnetti del CNR, a Torino, facente ora parte del nuovo Istituto nazionale di ricerca metrologica (INRiM).
+
+
+== Conversione tra le scale di temperature ==
+A differenza della maggior parte delle conversioni tra diverse unità di misura delle grandezze fisiche, per le quali è sufficiente moltiplicare o dividere per un certo fattore, le conversioni tra diverse scale di temperature possono coinvolgere un termine che va sommato o sottratto oltre a un fattore moltiplicativo; questo deriva dal fatto che le diverse scale di temperature definiscono uno "zero" differente. Inoltre il sistema di misurazione Kelvin fa riferimento a un particolare "zero", che è lo zero assoluto, e corrisponde alla più bassa temperatura che teoricamente si possa ottenere in qualsiasi sistema macroscopico. Questo fa sì che la temperatura misurata in "kelvin" sia detta temperatura assoluta, e sempre per lo stesso motivo non si antepone al simbolo del kelvin (K) il simbolo di grado (°), che invece viene anteposto ai simboli delle scale Celsius (°C) e Fahrenheit (°F).
+Seppure la scala Celsius e la scala Kelvin abbiano dei riferimenti differenti, i valori degli intervalli di temperatura (cioè le differenze di temperatura) misurati con le due scale coincidono. Questo vuol dire che, mentre una temperatura T di 25,00 °C corrisponde a 298,15 K, una differenza di temperatura ΔT di 25,00 °C corrisponde esattamente a 25,00 K.
+
+
+=== Esempi ===
+Il punto di fusione del ghiaccio corrisponde a una temperatura di 0 °C. Per convertire questo valore in kelvin, bisogna sommare a questo valore 273,15, per cui:
+
+  
+    
+      
+        0
+        
+          
+             
+            
+              o
+            
+          
+          C
+        
+        =
+        (
+        0
+        +
+        273
+        
+          ,
+        
+        15
+        )
+        
+           
+          K
+        
+        =
+        273
+        
+          ,
+        
+        15
+        
+           
+          K
+        
+      
+    
+    {\displaystyle 0\mathrm {\ ^{o}C} =(0+273{,}15)\mathrm {\ K} =273{,}15\mathrm {\ K} }
+  La differenza di temperatura di 0 °C corrisponde invece a una trasformazione isoterma (cioè a temperatura costante), e in kelvin corrisponde a una differenza di temperatura di 0 K.
+Per convertire in gradi Celsius una temperatura espressa in kelvin bisogna invece sottrarre il valore di 273,15. Per esempio, una temperatura di 6 000,00 K corrisponde a:
+
+  
+    
+      
+        6000
+        
+           
+          K
+        
+        =
+        (
+        6000
+        ,
+        00
+        −
+        273
+        
+          ,
+        
+        15
+        )
+        
+          
+             
+            
+              o
+            
+          
+          C
+        
+        =
+        5726
+        
+          ,
+        
+        85
+        
+          
+             
+            
+              o
+            
+          
+          C
+        
+      
+    
+    {\displaystyle 6000\mathrm {\ K} =(6000,00-273{,}15)\mathrm {\ ^{o}C} =5726{,}85\mathrm {\ ^{o}C} }
+  Si nota quindi che il valore della temperatura espressa in kelvin è sempre maggiore del valore della stessa temperatura espressa in gradi Celsius.
+In analogia all'esempio precedente, la temperatura di 6 000,00 °C è pari a 6 273,15 K.
+Da questi esempi risulta chiaro che bisogna prestare particolare attenzione durante la conversione al fatto che la quantità che vogliamo convertire sia una temperatura (per esempio la temperatura corporea a un dato istante o la temperatura di un determinato punto di una stanza in un determinato momento) oppure una differenza di temperatura (per esempio l'escursione termica in un determinato luogo tra giorno e notte o la differenza di temperatura tra due pareti opposte di una stanza).
+Dato che il valore unitario di kelvin e gradi Celsius è il medesimo, occorre anche tener presente il numero di cifre significative di ciò che si intende convertire. Infatti se si dichiara, ad esempio, che la temperatura di colore (della fotosfera) della stella Saiph è di circa 26 000 K, solo le prime due cifre sono significative ed è quindi corretto affermare che tale temperatura è pari a 26 000 °C.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Temperatura
+Zero assoluto
+Lord Kelvin
+Temperatura assoluta
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «kelvin»
+ Wikimedia Commons contiene immagini o altri file su kelvin
+
+
+== Collegamenti esterni ==
+(EN, FR) Sito del Bureau international des poids et mesures, su bipm.org.
+ Istituto Nazionale di Ricerca Metrologica, su inrim.it (archiviato dall'url originale il 26 agosto 2007).
+ Istituto di Metrologia Gustavo Colonnetti, su imgc.cnr.it.
