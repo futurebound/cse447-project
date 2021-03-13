@@ -8,8 +8,6 @@ LANGUAGES = {
     'no': 'norwegian',
     'pl': 'polish', 
     'ro': 'romanian',    
-    'zh-cn': 'chinese (simplified)',
-    'zh-tw': 'chinese (traditional)',
     'es': 'spanish',
     'en': 'english',
     'ar': 'arabic',

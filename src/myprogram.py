@@ -7,7 +7,7 @@ import data_handler
 from argparse import ArgumentParser, ArgumentDefaultsHelpFormatter
 
 
-class MyModel:
+class AstronautPredictionModel:
     
     def __init__(self, frequency_model=None, characters=None):
         self.frequency_model = frequency_model
@@ -26,7 +26,6 @@ class MyModel:
                 with open('work/training_tokens.pickle', 'wb') as file:
                     pickle.dump(corpus, file)
                 print("loading training data")
-
         return corpus
 
     @classmethod
@@ -64,7 +63,7 @@ class MyModel:
         except:
             self.characters = data_handler.get_characters()
             with open('work/characters.pickle', 'wb') as file:
-                pickle.load(self.characters, file)
+                pickle.dump(self.characters, file)
                 print("saved characters with pickle")
 
     def run_pred(self, data):
@@ -74,11 +73,7 @@ class MyModel:
             self.run_train(training_data, "")
         preds = []
         all_chars = string.ascii_letters
-        print(len(data))
-        j = 0
         for inp in data:
-            print(j)
-            j += 1
             top_guesses = [None, None, None]
             top_guesses_counts = [-1, -1, -1]
             last_word = inp.split()[-1]
@@ -149,7 +144,7 @@ class MyModel:
         elif new_word_count > top_guesses_counts[2]:
             # [happy] [happz] [happl] new_word = [happyt] --> [happy] [happz] [happl] duplicate on first, do nothing 
             # [happz] [happy] [happl] new_word = [happyt] --> [happz] [happy] [happl] duplicate on second, do nothing
-            if ((top_guesses[0] is not None and top_guesses[0][len(origin)] == top_guesses[1][len(origin)]) 
+            if ((top_guesses[0] is not None and top_guesses[0][len(origin)] == new_word[len(origin)]) 
                 or (top_guesses[1] is not None and top_guesses[1][len(origin)] == new_word[len(origin)])):
                 return top_guesses, top_guesses_counts
             # [happz] [happl] [happy] new_word = [happyt] --> [happz] [happl] [happyt] duplicate on third, replace
@@ -181,9 +176,9 @@ class MyModel:
             with open("work/characters.pickle", "rb") as f:
                 characters = pickle.load(f)
                 print("loading successful")
-            return MyModel(frequency_model=frequency_model, characters=characters)
+            return AstronautPredictionModel(frequency_model=frequency_model, characters=characters)
         except:
-            return MyModel()
+            return AstronautPredictionModel()
 
 
 if __name__ == '__main__':
@@ -201,18 +196,18 @@ if __name__ == '__main__':
             print('Making working directory {}'.format(args.work_dir))
             os.makedirs(args.work_dir)
         print('Instatiating model')
-        model = MyModel()
+        model = AstronautPredictionModel()
         print('Loading training data')
-        train_data = MyModel.load_training_data()
+        train_data = AstronautPredictionModel.load_training_data()
         print('Training')
         model.run_train(train_data, args.work_dir)
         print('Saving model')
         model.save(args.work_dir)
     elif args.mode == 'test':
         print('Loading model')
-        model = MyModel.load(args.work_dir)
+        model = AstronautPredictionModel.load(args.work_dir)
         print('Loading test data from {}'.format(args.test_data))
-        test_data = MyModel.load_test_data(args.test_data)
+        test_data = AstronautPredictionModel.load_test_data(args.test_data)
         print('Making predictions')
         pred = model.run_pred(test_data)
         print('Writing predictions to {}'.format(args.test_output))

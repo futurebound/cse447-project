@@ -51,14 +51,18 @@ def translate_topics():
     print("total articles attempted: " + str(total))
 
 def get_characters():
-    characters = set()
-    for file_name in os.listdir("C:/Users/marki/OneDrive/Desktop/CSE/447/cse447-project/data"):
-        with open("data/" + file_name, "r", encoding="utf-8") as f:
-            for line in f:
-                characters.update(list(line))
-    with open("work/characters.pickle", "wb") as result_file:
-        pickle.dump(characters, result_file)
-    return characters
+    try:
+        with open("work/characters.pickle", "rb") as f:
+            return pickle.load(f)
+    except:
+        characters = set()
+        for file_name in os.listdir("C:/Users/marki/OneDrive/Desktop/CSE/447/cse447-project/data"):
+            with open("data/" + file_name, "r", encoding="utf-8") as f:
+                for line in f:
+                    characters.update(list(line))
+        with open("work/characters.pickle", "wb") as result_file:
+            pickle.dump(characters, result_file)
+        return characters
         
 def get_characters_length(characters: set, from_pickle=False):
     if (from_pickle):
@@ -70,14 +74,13 @@ def get_characters_length(characters: set, from_pickle=False):
     
 def build_frequency_model():
     frequency_model = dict()
-    for file_name in os.listdir("C:/Users/marki/OneDrive/Desktop/CSE/447/cse447-project/data"):
-        with open("data/" + file_name, "r", encoding="utf-8") as f:
-            for line in f:
-                words = line.split()
-                for word in words:
-                    if word not in frequency_model.keys():
-                        frequency_model[word] = 0
-                    frequency_model[word] += 1
+    with open("work/training_data.txt", "r", encoding="utf-8") as f:
+        for line in f:
+            words = line.split()
+            for word in words:
+                if word not in frequency_model.keys():
+                    frequency_model[word] = 0
+                frequency_model[word] += 1
     with open("work/frequency_model.pickle", "wb") as file:
         pickle.dump(frequency_model, file)
     return frequency_model
