@@ -8,18 +8,14 @@ from argparse import ArgumentParser, ArgumentDefaultsHelpFormatter
 
 
 class MyModel:
-    """
-    This is a starter model to get you started. Feel free to modify this file.
-    """
     
-    def __init__(self):
-        self.frequency_model = None
-        self.characters = None
+    def __init__(self, frequency_model=None, characters=None):
+        self.frequency_model = frequency_model
+        self.characters = characters
 
     @classmethod
     def load_training_data(cls):
         # your code here
-        # this particular model doesn't train
         try:
             with open('work/training_tokens.pickle', 'rb') as file:
                 corpus = pickle.load(file)
@@ -56,13 +52,6 @@ class MyModel:
                 self.frequency_model = pickle.load(file)
             print("loaded model from pickle")
         except:
-            # token_frequencies = dict()
-            # #contents = data.read()
-            # tokens = data.split()
-            # for token in tokens:
-            #     if token not in token_frequencies:
-            #         token_frequencies[token] = 0
-            #     token_frequencies[token] += 1
             self.frequency_model = data_handler.build_frequency_model()
             with open('work/token_frequencies.pickle', 'wb') as file:
                 pickle.dump(self.frequency_model, file)
@@ -96,51 +85,105 @@ class MyModel:
             first_word = last_word
             for character in self.characters:
                 first_word = last_word + character
-                top_guesses, top_guesses_counts = self.__update_guesses__(first_word, top_guesses_counts, top_guesses)
+                top_guesses, top_guesses_counts = self.__update_guesses__(first_word, top_guesses_counts, top_guesses, last_word)
                 for character in self.characters:
                     second_word = first_word + character
-                    top_guesses, top_guesses_counts = self.__update_guesses__(second_word, top_guesses_counts, top_guesses)
+                    top_guesses, top_guesses_counts = self.__update_guesses__(second_word, top_guesses_counts, top_guesses, last_word)
             for i in range(len(top_guesses)):
-                top_guesses[i] = top_guesses[i][len(last_word)]
+                top_guesses[i] = top_guesses[i][len(last_word)] 
             preds.append(''.join(top_guesses))
         return preds
     
-    def __update_guesses__(self, new_word, top_guesses_counts, top_guesses):
+    def __update_guesses__(self, new_word, top_guesses_counts, top_guesses, origin):
         if new_word not in self.frequency_model:
             new_word_count = 0
         else:
             new_word_count = self.frequency_model[new_word]
-
+# case: standard all unique predicting characters -> shift
+# case: duplicate predicting, new_word_count higher -> replace and potentially reorder 
+# case: duplicate predicting, new_word_count lower -> do nothing
         if new_word_count > top_guesses_counts[0]:
-            top_guesses_counts[2] = top_guesses_counts[1]
-            top_guesses_counts[1] = top_guesses_counts[0]
-            top_guesses_counts[0] = new_word_count
-            top_guesses[2] = top_guesses[1]
-            top_guesses[1] = top_guesses[0]
-            top_guesses[0] = new_word
+            # [happz] [happyx] [happl] new_word = [happyt] --> [happyt] [happz] [happl] reorder on second item duplicate
+            if (top_guesses[1] is not None and top_guesses[1][len(origin)] == new_word[len(origin)]):
+                top_guesses[1] = top_guesses[0]
+                top_guesses[0] = new_word
+                top_guesses_counts[1] = top_guesses_counts[0]
+                top_guesses_counts[0] = new_word_count
+            # [happz] [happl] [happyx] new_word = [happyt] --> [happyt] [happz] [happl] reorder on third item duplicate
+            elif (top_guesses[2] is not None and top_guesses[2][len(origin)] == new_word[len(origin)]):
+                top_guesses[2] = top_guesses[1]
+                top_guesses[1] = top_guesses[0]
+                top_guesses[0] = new_word
+                top_guesses_counts[2] = top_guesses_counts[1]
+                top_guesses_counts[1] = top_guesses_counts[0]
+                top_guesses_counts[0] = new_word_count
+            elif (top_guesses[0] is not None and top_guesses[0][len(origin)] == new_word[len(origin)]): # [happyx] [happl] [happz] new_word - [happyt] --> [happyt] [happl] [happz] reorder on first (replace)
+                top_guesses[0] = new_word
+                top_guesses_counts[0] = new_word_count
+            else: # default caes, shift on frist
+                top_guesses_counts[2] = top_guesses_counts[1]
+                top_guesses_counts[1] = top_guesses_counts[0]
+                top_guesses_counts[0] = new_word_count
+                top_guesses[2] = top_guesses[1]
+                top_guesses[1] = top_guesses[0]
+                top_guesses[0] = new_word
         elif new_word_count > top_guesses_counts[1]:
-            top_guesses_counts[2] = top_guesses_counts[1]
-            top_guesses_counts[1] = new_word_count
-            top_guesses[2] = top_guesses[1]
-            top_guesses[1] = new_word
+            # [happy] [happl] [happz] new_word = [happyt] --> [happy] [happl] [happz] duplicate on first, do nothing
+            if (top_guesses[0] is not None and top_guesses[0][len(origin)] == new_word[len(origin)]):
+                return top_guesses, top_guesses_counts
+            # [happl] [happy] [happz] new_word = [happyt] --> [happl] [happyt] [happz] duplicate on second, replace
+            elif (top_guesses[1] is not None and top_guesses[1][len(origin)] == new_word[len(origin)]):
+                top_guesses[1] = new_word
+                top_guesses_counts[1] = new_word_count
+            # [happl] [happz] [happy] new_word = [happyt] --> [happl] [happyt] [happz] duplicate on third, shift
+            elif (top_guesses[2] is not None and top_guesses[2][len(origin)] == new_word[len(origin)]):
+                top_guesses[2] = top_guesses[1]
+                top_guesses[1] = new_word
+                top_guesses_counts[2] = top_guesses_counts[1]
+                top_guesses_counts[1] = new_word_count
+            else: # all unique -> reorder on second
+                top_guesses_counts[2] = top_guesses_counts[1]
+                top_guesses_counts[1] = new_word_count
+                top_guesses[2] = top_guesses[1]
+                top_guesses[1] = new_word
         elif new_word_count > top_guesses_counts[2]:
-            top_guesses_counts[2] = new_word_count
-            top_guesses[2] = new_word
+            # [happy] [happz] [happl] new_word = [happyt] --> [happy] [happz] [happl] duplicate on first, do nothing 
+            # [happz] [happy] [happl] new_word = [happyt] --> [happz] [happy] [happl] duplicate on second, do nothing
+            if ((top_guesses[0] is not None and top_guesses[0][len(origin)] == top_guesses[1][len(origin)]) 
+                or (top_guesses[1] is not None and top_guesses[1][len(origin)] == new_word[len(origin)])):
+                return top_guesses, top_guesses_counts
+            # [happz] [happl] [happy] new_word = [happyt] --> [happz] [happl] [happyt] duplicate on third, replace
+            if (top_guesses[2] is not None and top_guesses[2][len(origin)] == new_word[len(origin)]):
+                top_guesses[2] = new_word
+                top_guesses_counts[2] = new_word_count
+            else: # all unique, reorder on third (replace)
+                top_guesses_counts[2] = new_word_count
+                top_guesses[2] = new_word
         return top_guesses, top_guesses_counts
 
     def save(self, work_dir):
         # your code here
         # this particular model has nothing to save, but for demonstration purposes we will save a blank file
-        with open(os.path.join(work_dir, 'model.checkpoint'), 'wt') as f:
-            f.write('dummy save')
+        with open("work/frequency_model.pickle", "wb") as f:
+            pickle.dump(self.frequency_model, f)
+        
+        with open("work/characters.pickle", "wb") as f:
+            pickle.dump(self.characters, f)
+            
 
     @classmethod
     def load(cls, work_dir):
         # your code here
         # this particular model has nothing to load, but for demonstration purposes we will load a blank file
-        with open(os.path.join(work_dir, 'model.checkpoint')) as f:
-            dummy_save = f.read()
-        return MyModel()
+        try:
+            with open("work/frequency_model.pickle", "rb") as f:
+                frequency_model = pickle.load(f)
+            with open("work/characters.pickle", "rb") as f:
+                characters = pickle.load(f)
+                print("loading successful")
+            return MyModel(frequency_model=frequency_model, characters=characters)
+        except:
+            return MyModel()
 
 
 if __name__ == '__main__':
