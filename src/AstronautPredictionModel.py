@@ -81,9 +81,6 @@ class AstronautPredictionModel:
             for character in self.characters:
                 first_word = last_word + character
                 top_guesses, top_guesses_counts = self.__update_guesses__(first_word, top_guesses_counts, top_guesses, last_word)
-                for character in self.characters:
-                    second_word = first_word + character
-                    top_guesses, top_guesses_counts = self.__update_guesses__(second_word, top_guesses_counts, top_guesses, last_word)
             for i in range(len(top_guesses)):
                 top_guesses[i] = top_guesses[i][len(last_word)] 
             preds.append(''.join(top_guesses))
